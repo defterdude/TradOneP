@@ -300,7 +300,960 @@
         ]
       }
     },
-    "ships": {},
+    "ships": {
+      "TableShipProp": {
+        "rows": [
+          {
+            "propId": "1",
+            "propName": "Cannon",
+            "desc": "Cannons deal <color=#c94c00>{0}</color> damage while voyaging"
+          },
+          {
+            "propId": "2",
+            "propName": "Deck",
+            "desc": "Can resist <color=#c94c00>{0}</color> damage while voyaging"
+          },
+          {
+            "propId": "3",
+            "propName": "Keel",
+            "desc": "The warship has <color=#c94c00>{0}</color> Durability"
+          },
+          {
+            "propId": "4",
+            "propName": "Sail",
+            "desc": "The warship's travel Speed is <color=#c94c00>{0}</color>"
+          },
+          {
+            "propId": "5",
+            "propName": "Hold",
+            "desc": "The warship has <color=#c94c00>{0}</color> stored Energy"
+          },
+          {
+            "propId": "6",
+            "propName": "Fishing Net",
+            "desc": "Has <color=#c94c00>{0}</color> Fishing capability"
+          },
+          {
+            "propId": "7",
+            "propName": "Grapple",
+            "desc": "Has <color=#c94c00>{0}</color> Salvaging capability"
+          },
+          {
+            "propId": "8",
+            "propName": "Rescue",
+            "desc": "Has <color=#c94c00>{0}</color> Rescue capability"
+          },
+          {
+            "propId": "9",
+            "propName": "Diving",
+            "desc": "Deep-sea diving depth <color=#c94c00>{0}</color>"
+          }
+        ],
+        "other_bundle_rows": [
+          {
+            "propId": "1",
+            "propName": "Cannon",
+            "desc": "All members' Attack increased  <color=#c94c00>{0}</color>"
+          },
+          {
+            "propId": "3",
+            "propName": "Keel",
+            "desc": "All members' HP increased  <color=#c94c00>{0}</color>"
+          },
+          {
+            "propId": "2",
+            "propName": "Deck",
+            "desc": "All members' Defense increased  <color=#c94c00>{0}</color>"
+          },
+          {
+            "propId": "4",
+            "propName": "Sail",
+            "desc": "All members' Speed increased  <color=#c94c00>{0}</color>"
+          },
+          {
+            "propId": "8",
+            "propName": "Rescue",
+            "desc": "All members' Tenacity increased  <color=#c94c00>{0}</color>"
+          },
+          {
+            "propId": "5",
+            "propName": "Hold",
+            "desc": "All members' Elemental Resistance increased<color=#c94c00>{0}%</color>"
+          }
+        ]
+      },
+      "TableShipSkill": {
+        "rows": [
+          {
+            "shipSkillId": "1",
+            "skillName": "",
+            "skillDesc": "Whether at sea or in a stronghold, Fleet Attack is increased by 5% and Defense is increased by 5%."
+          },
+          {
+            "shipSkillId": "2",
+            "skillName": "",
+            "skillDesc": "When engaging the enemy at sea, Fleet Attack is increased by 10%, but Defense in strongholds is reduced by 15%."
+          },
+          {
+            "shipSkillId": "3",
+            "skillName": "",
+            "skillDesc": "In strongholds, Fleet Defense is increased by 20%; in naval battles, Attack is reduced by 10%."
+          },
+          {
+            "shipSkillId": "4",
+            "skillName": "",
+            "skillDesc": "Slowly restores HP for allied members inside a stronghold, but its own stats are reduced by 10%."
+          },
+          {
+            "shipSkillId": "5",
+            "skillName": "",
+            "skillDesc": "Upon encountering an enemy warship at sea, Fleet Attack is increased by 10% and Speed is increased by 3%."
+          },
+          {
+            "shipSkillId": "6",
+            "skillName": "",
+            "skillDesc": "If it dies while engaging the enemy at sea, reduces the enemy fleet's Max HP by 10%."
+          },
+          {
+            "shipSkillId": "7",
+            "skillName": "",
+            "skillDesc": "Nullifies all healing and recovery skills for both sides in battle; the fleet's own Speed is increased by 5%."
+          },
+          {
+            "shipSkillId": "8",
+            "skillName": "",
+            "skillDesc": "When attacking or defending a stronghold, Attack and Defense are increased by 10%. The effect is doubled in special strongholds."
+          },
+          {
+            "shipSkillId": "9",
+            "skillName": "",
+            "skillDesc": "Can pass through Windless Belts or countercurrent routes; Attack at sea is increased by 10% and Crit Rate is increased by 5%."
+          },
+          {
+            "shipSkillId": "10",
+            "skillName": "",
+            "skillDesc": "At sea or in a stronghold, Fleet Defense is increased by 15%; restores 10% HP after defeating an enemy."
+          },
+          {
+            "shipSkillId": "11",
+            "skillName": "",
+            "skillDesc": "Attack at sea is increased by 15%, Defense is increased by 10%; upon death, reduces the enemy's Max HP by 10%."
+          },
+          {
+            "shipSkillId": "12",
+            "skillName": "",
+            "skillDesc": "Attack and Defense are increased by 10%, with 3 chances to sneak into a stronghold. (No effect at bases.)"
+          },
+          {
+            "shipSkillId": "13",
+            "skillName": "",
+            "skillDesc": "Defense at sea is increased by 5%; bombarding the enemy at a regular stronghold reduces the target's HP by 10%."
+          },
+          {
+            "shipSkillId": "14",
+            "skillName": "",
+            "skillDesc": "In naval battles, reduces enemy Accuracy by 20% and increases own Accuracy by 10% and Attack by 15%."
+          },
+          {
+            "shipSkillId": "15",
+            "skillName": "",
+            "skillDesc": "Increases Defense by 15% and Elemental Resistance by 15%; the effect is doubled in the first round."
+          },
+          {
+            "shipSkillId": "16",
+            "skillName": "",
+            "skillDesc": "When attacking or defending a stronghold, Fleet Attack, Accuracy, and Elemental Damage are increased by 20%."
+          },
+          {
+            "shipSkillId": "17",
+            "skillName": "",
+            "skillDesc": "The ship can pass through Windless Belts; Fleet Attack at sea is increased by 25% and Speed is increased by 10%."
+          },
+          {
+            "shipSkillId": "18",
+            "skillName": "",
+            "skillDesc": "Attack and Accuracy at sea are increased by 20%; restores 10% HP upon defeating an enemy; upon death, reduces the enemy's Max HP by 30%."
+          },
+          {
+            "shipSkillId": "19",
+            "skillName": "",
+            "skillDesc": "When engaging an enemy in a stronghold, Attack is increased by 20%, and in the first round grants all members a shield equal to 15% of their Max HP."
+          },
+          {
+            "shipSkillId": "20",
+            "skillName": "",
+            "skillDesc": "Inside a stronghold, allied damage reduction is increased by 20% and HP is restored at 0.5% per second. Its own Evasion is also increased by 15%."
+          },
+          {
+            "shipSkillId": "21",
+            "skillName": "",
+            "skillDesc": "Can pass through Windless Belts; when engaging an enemy at sea, all Elemental Resistance is increased by 25%, Attack is increased by 20%, and Speed is increased by 5%."
+          },
+          {
+            "shipSkillId": "22",
+            "skillName": "",
+            "skillDesc": "When engaging the enemy at sea, Max HP is increased by 10%, damage is increased by 8%, and 15% HP is restored upon a successful kill."
+          },
+          {
+            "shipSkillId": "23",
+            "skillName": "",
+            "skillDesc": "When defending a stronghold, damage reduction is increased by 20%, Speed is increased by 6%, and Max HP is increased by 10%; a successful kill increases Defense by 10%, non-stacking."
+          },
+          {
+            "shipSkillId": "24",
+            "skillName": "",
+            "skillDesc": "Can pass through Windless Belts; in naval battles, Elemental Damage is increased by 25% and Speed is increased by 6%; defeating an enemy ship increases Attack by 5%, stacking up to 3 times."
+          },
+          {
+            "shipSkillId": "25",
+            "skillName": "",
+            "skillDesc": "In naval battles, Attack is increased by 10%; restores 10% HP after defeating an enemy."
+          },
+          {
+            "shipSkillId": "26",
+            "skillName": "",
+            "skillDesc": "In naval battles, Attack is increased by 10% and Damage Reduction is increased by 10%."
+          },
+          {
+            "shipSkillId": "27",
+            "skillName": "",
+            "skillDesc": "In naval battles, Attack is increased by 10% and Defense is increased by 10%."
+          },
+          {
+            "shipSkillId": "28",
+            "skillName": "",
+            "skillDesc": "The ship can pass through Windless Belts; Fleet Attack at sea is increased by 30%, Speed is increased by 10%, and 15% HP is restored upon a successful kill."
+          },
+          {
+            "shipSkillId": "29",
+            "skillName": "",
+            "skillDesc": "The ship can pass through Windless Belts; in naval battles, Attack is increased by 10%, Defense is increased by 5%, and Speed is increased by 5%."
+          }
+        ],
+        "other_bundle_rows": [
+          {
+            "shipSkillId": "1",
+            "skillName": "",
+            "skillDesc": "Whether at sea or in a stronghold, Fleet Attack is increased by 5% and Defense is increased by 5%."
+          },
+          {
+            "shipSkillId": "2",
+            "skillName": "",
+            "skillDesc": "When engaging the enemy at sea, Fleet Attack is increased by 10%, but Defense in strongholds is reduced by 15%."
+          },
+          {
+            "shipSkillId": "3",
+            "skillName": "",
+            "skillDesc": "In strongholds, Fleet Defense is increased by 20%; in naval battles, Attack is reduced by 10%."
+          },
+          {
+            "shipSkillId": "4",
+            "skillName": "",
+            "skillDesc": "Slowly restores HP for allied members inside a stronghold, but its own stats are reduced by 10%."
+          },
+          {
+            "shipSkillId": "5",
+            "skillName": "",
+            "skillDesc": "Upon encountering an enemy warship at sea, Fleet Attack is increased by 10% and Speed is increased by 3%."
+          },
+          {
+            "shipSkillId": "6",
+            "skillName": "",
+            "skillDesc": "If it dies while engaging the enemy at sea, reduces the enemy fleet's Max HP by 10%."
+          },
+          {
+            "shipSkillId": "7",
+            "skillName": "",
+            "skillDesc": "Nullifies all healing and recovery skills for both sides in battle; the fleet's own Speed is increased by 5%."
+          },
+          {
+            "shipSkillId": "8",
+            "skillName": "",
+            "skillDesc": "When attacking or defending a stronghold, Attack and Defense are increased by 10%. The effect is doubled in special strongholds."
+          },
+          {
+            "shipSkillId": "9",
+            "skillName": "",
+            "skillDesc": "Can pass through Windless Belts or countercurrent routes; Attack at sea is increased by 10% and Crit Rate is increased by 5%."
+          },
+          {
+            "shipSkillId": "10",
+            "skillName": "",
+            "skillDesc": "At sea or in a stronghold, Fleet Defense is increased by 15%; restores 10% HP after defeating an enemy."
+          },
+          {
+            "shipSkillId": "11",
+            "skillName": "",
+            "skillDesc": "Attack at sea is increased by 15%, Defense is increased by 10%; upon death, reduces the enemy's Max HP by 10%."
+          },
+          {
+            "shipSkillId": "12",
+            "skillName": "",
+            "skillDesc": "Attack and Defense are increased by 10%, with 3 chances to sneak into a stronghold. (No effect at bases.)"
+          },
+          {
+            "shipSkillId": "13",
+            "skillName": "",
+            "skillDesc": "Defense at sea is increased by 5%; bombarding the enemy at a regular stronghold reduces the target's HP by 10%."
+          },
+          {
+            "shipSkillId": "14",
+            "skillName": "",
+            "skillDesc": "In naval battles, reduces enemy Accuracy by 20% and increases own Accuracy by 10% and Attack by 15%."
+          },
+          {
+            "shipSkillId": "15",
+            "skillName": "",
+            "skillDesc": "Increases Defense by 15% and Elemental Resistance by 15%; the effect is doubled in the first round."
+          },
+          {
+            "shipSkillId": "16",
+            "skillName": "",
+            "skillDesc": "When attacking or defending a stronghold, Fleet Attack, Accuracy, and Elemental Damage are increased by 20%."
+          },
+          {
+            "shipSkillId": "17",
+            "skillName": "",
+            "skillDesc": "The ship can pass through Windless Belts; Fleet Attack at sea is increased by 25% and Speed is increased by 10%."
+          },
+          {
+            "shipSkillId": "18",
+            "skillName": "",
+            "skillDesc": "Attack and Accuracy at sea are increased by 20%; restores 10% HP upon defeating an enemy; upon death, reduces the enemy's Max HP by 30%."
+          },
+          {
+            "shipSkillId": "19",
+            "skillName": "",
+            "skillDesc": "When engaging an enemy in a stronghold, Attack is increased by 20%, and in the first round grants all members a shield equal to 15% of their Max HP."
+          },
+          {
+            "shipSkillId": "20",
+            "skillName": "",
+            "skillDesc": "Inside a stronghold, allied damage reduction is increased by 20% and HP is restored at 0.5% per second. Its own Evasion is also increased by 15%."
+          },
+          {
+            "shipSkillId": "21",
+            "skillName": "",
+            "skillDesc": "Can pass through Windless Belts; when engaging an enemy at sea, all Elemental Resistance is increased by 25%, Attack is increased by 20%, and Speed is increased by 5%."
+          },
+          {
+            "shipSkillId": "22",
+            "skillName": "",
+            "skillDesc": "When engaging the enemy at sea, Max HP is increased by 10%, damage is increased by 8%, and 15% HP is restored upon a successful kill."
+          },
+          {
+            "shipSkillId": "23",
+            "skillName": "",
+            "skillDesc": "When defending a stronghold, damage reduction is increased by 20%, Speed is increased by 6%, and Max HP is increased by 10%; a successful kill increases Defense by 10%, non-stacking."
+          },
+          {
+            "shipSkillId": "24",
+            "skillName": "",
+            "skillDesc": "Can pass through Windless Belts; in naval battles, Elemental Damage is increased by 25% and Speed is increased by 6%; defeating an enemy ship increases Attack by 5%, stacking up to 3 times."
+          },
+          {
+            "shipSkillId": "25",
+            "skillName": "",
+            "skillDesc": "In naval battles, Attack is increased by 10%; restores 10% HP after defeating an enemy."
+          },
+          {
+            "shipSkillId": "26",
+            "skillName": "",
+            "skillDesc": "In naval battles, Attack is increased by 10% and Damage Reduction is increased by 10%."
+          },
+          {
+            "shipSkillId": "27",
+            "skillName": "",
+            "skillDesc": "In naval battles, Attack is increased by 10% and Defense is increased by 10%."
+          },
+          {
+            "shipSkillId": "28",
+            "skillName": "",
+            "skillDesc": "The ship can pass through Windless Belts; Fleet Attack at sea is increased by 30%, Speed is increased by 10%, and 15% HP is restored upon a successful kill."
+          },
+          {
+            "shipSkillId": "29",
+            "skillName": "",
+            "skillDesc": "In naval battles, Attack is increased by 10%, Defense is increased by 5%, and Speed is increased by 5%."
+          }
+        ]
+      },
+      "TableShipTradeEvent": {
+        "rows": [
+          {
+            "eventId": "1",
+            "eventDesc": "A sudden tailwind appeared during the voyage, pushing our ship swiftly forward for a stretch and shortening our travel time by 10 minutes."
+          },
+          {
+            "eventId": "2",
+            "eventDesc": "A sudden tailwind appeared during the voyage, pushing our ship swiftly forward for a stretch and shortening our travel time by 5 minutes."
+          },
+          {
+            "eventId": "3",
+            "eventDesc": "A sudden tailwind appeared during the voyage, pushing our ship swiftly forward for a stretch and shortening our travel time by 3 minutes."
+          },
+          {
+            "eventId": "4",
+            "eventDesc": "We salvaged a bag from the sea and found 2 Basic Experience Scrolls inside."
+          },
+          {
+            "eventId": "5",
+            "eventDesc": "We salvaged a bag from the sea and found 2 Basic Refined Stones inside."
+          },
+          {
+            "eventId": "9",
+            "eventDesc": "Everything on the sea is normal; all is calm and peaceful."
+          },
+          {
+            "eventId": "10",
+            "eventDesc": "We suddenly encountered Sea Kings. To avoid them, our travel time increased by 1 minute."
+          },
+          {
+            "eventId": "11",
+            "eventDesc": "A countercurrent appeared during the voyage, slowing our speed and extending our journey by 2 minutes."
+          },
+          {
+            "eventId": "12",
+            "eventDesc": "We suddenly encountered Sea Kings. To avoid them, our travel time increased by 3 minutes."
+          },
+          {
+            "eventId": "13",
+            "eventDesc": "A countercurrent appeared during the voyage, slowing our speed and extending our journey by 4 minutes."
+          },
+          {
+            "eventId": "14",
+            "eventDesc": "We suddenly encountered Sea Kings. To avoid them, our travel time increased by 5 minutes."
+          },
+          {
+            "eventId": "15",
+            "eventDesc": "A sudden tailwind appeared during the voyage, pushing our ship swiftly forward for a stretch and shortening our travel time by 10 minutes."
+          },
+          {
+            "eventId": "16",
+            "eventDesc": "A sudden tailwind appeared during the voyage, pushing our ship swiftly forward for a stretch and shortening our travel time by 5 minutes."
+          },
+          {
+            "eventId": "17",
+            "eventDesc": "A sudden tailwind appeared during the voyage, pushing our ship swiftly forward for a stretch and shortening our travel time by 3 minutes."
+          },
+          {
+            "eventId": "18",
+            "eventDesc": "We salvaged a bag from the sea and found 2 Basic Experience Scrolls inside."
+          },
+          {
+            "eventId": "19",
+            "eventDesc": "We salvaged a bag from the sea and found 2 Basic Refined Stones inside."
+          },
+          {
+            "eventId": "20",
+            "eventDesc": "Everything on the sea is normal; all is calm and peaceful."
+          },
+          {
+            "eventId": "21",
+            "eventDesc": "We suddenly encountered Sea Kings. To avoid them, our travel time increased by 1 minute."
+          },
+          {
+            "eventId": "22",
+            "eventDesc": "A countercurrent appeared during the voyage, slowing our speed and extending our journey by 2 minutes."
+          },
+          {
+            "eventId": "23",
+            "eventDesc": "We suddenly encountered Sea Kings. To avoid them, our travel time increased by 3 minutes."
+          },
+          {
+            "eventId": "24",
+            "eventDesc": "A countercurrent appeared during the voyage, slowing our speed and extending our journey by 4 minutes."
+          },
+          {
+            "eventId": "25",
+            "eventDesc": "We suddenly encountered Sea Kings. To avoid them, our travel time increased by 5 minutes."
+          },
+          {
+            "eventId": "26",
+            "eventDesc": "A sudden tailwind appeared during the voyage, pushing our ship swiftly forward for a stretch and shortening our travel time by 10 minutes."
+          },
+          {
+            "eventId": "27",
+            "eventDesc": "A sudden tailwind appeared during the voyage, pushing our ship swiftly forward for a stretch and shortening our travel time by 5 minutes."
+          },
+          {
+            "eventId": "28",
+            "eventDesc": "A sudden tailwind appeared during the voyage, pushing our ship swiftly forward for a stretch and shortening our travel time by 3 minutes."
+          },
+          {
+            "eventId": "29",
+            "eventDesc": "We salvaged a bag from the sea and found 2 Basic Experience Scrolls inside."
+          },
+          {
+            "eventId": "30",
+            "eventDesc": "We salvaged a bag from the sea and found 2 Basic Refined Stones inside."
+          },
+          {
+            "eventId": "31",
+            "eventDesc": "Everything on the sea is normal; all is calm and peaceful."
+          },
+          {
+            "eventId": "32",
+            "eventDesc": "We suddenly encountered Sea Kings. To avoid them, our travel time increased by 1 minute."
+          },
+          {
+            "eventId": "33",
+            "eventDesc": "A countercurrent appeared during the voyage, slowing our speed and extending our journey by 2 minutes."
+          },
+          {
+            "eventId": "34",
+            "eventDesc": "We suddenly encountered Sea Kings. To avoid them, our travel time increased by 3 minutes."
+          },
+          {
+            "eventId": "35",
+            "eventDesc": "A countercurrent appeared during the voyage, slowing our speed and extending our journey by 4 minutes."
+          },
+          {
+            "eventId": "36",
+            "eventDesc": "We suddenly encountered Sea Kings. To avoid them, our travel time increased by 5 minutes."
+          }
+        ]
+      },
+      "TableGvoShip": {
+        "rows": [
+          {
+            "shipId": "130001",
+            "desc": "Wooden Ship"
+          },
+          {
+            "shipId": "130002",
+            "desc": "Going Merry"
+          },
+          {
+            "shipId": "130003",
+            "desc": "Black Warrior"
+          },
+          {
+            "shipId": "130004",
+            "desc": "Navy Warship"
+          },
+          {
+            "shipId": "130005",
+            "desc": "Cute Little Duck"
+          },
+          {
+            "shipId": "130006",
+            "desc": "Thousand Sunny"
+          },
+          {
+            "shipId": "130007",
+            "desc": "Sexy Foxy"
+          },
+          {
+            "shipId": "130008",
+            "desc": "Blackbeard's Raft"
+          },
+          {
+            "shipId": "130009",
+            "desc": "Navy Battleship"
+          },
+          {
+            "shipId": "130010",
+            "desc": "Kuja Pirate Ship"
+          },
+          {
+            "shipId": "130011",
+            "desc": "Red Force"
+          },
+          {
+            "shipId": "130012",
+            "desc": "Baratie"
+          },
+          {
+            "shipId": "130013",
+            "desc": "Wind Grama"
+          },
+          {
+            "shipId": "130014",
+            "desc": "Garp's Warship"
+          },
+          {
+            "shipId": "130015",
+            "desc": "Sun Pirates' Ship"
+          },
+          {
+            "shipId": "130016",
+            "desc": "Polar Diver"
+          },
+          {
+            "shipId": "130017",
+            "desc": "Ghost Ship"
+          },
+          {
+            "shipId": "130018",
+            "desc": "Spade Pirates' Ship"
+          },
+          {
+            "shipId": "130019",
+            "desc": "Flying Dutchman"
+          },
+          {
+            "shipId": "130020",
+            "desc": "Moby Dick"
+          },
+          {
+            "shipId": "130021",
+            "desc": "Doflamingo's Ship"
+          },
+          {
+            "shipId": "130022",
+            "desc": "Jewelry Margarita"
+          },
+          {
+            "shipId": "130023",
+            "desc": "Malice Wolf"
+          },
+          {
+            "shipId": "130024",
+            "desc": "Victoria Punk"
+          },
+          {
+            "shipId": "130025",
+            "desc": "Stay Tune"
+          },
+          {
+            "shipId": "130026",
+            "desc": "Hanjo Maru"
+          },
+          {
+            "shipId": "130027",
+            "desc": "Flame Tank"
+          },
+          {
+            "shipId": "130028",
+            "desc": "Ark Maxim"
+          },
+          {
+            "shipId": "130029",
+            "desc": "Queen Mama Chanter"
+          },
+          {
+            "shipId": "130030",
+            "desc": "Going Luffy-senpai"
+          },
+          {
+            "shipId": "130031",
+            "desc": "Mihawk's Ship"
+          },
+          {
+            "shipId": "130032",
+            "desc": "White Star"
+          },
+          {
+            "shipId": "130033",
+            "desc": "Ace's Small Boat"
+          }
+        ],
+        "other_bundle_rows": [
+          {
+            "shipId": "130001",
+            "desc": "Wooden Ship"
+          },
+          {
+            "shipId": "130002",
+            "desc": "Going Merry"
+          },
+          {
+            "shipId": "130003",
+            "desc": "Black Warrior"
+          },
+          {
+            "shipId": "130004",
+            "desc": "Navy Warship"
+          },
+          {
+            "shipId": "130005",
+            "desc": "Cute Little Duck"
+          },
+          {
+            "shipId": "130006",
+            "desc": "Thousand Sunny"
+          },
+          {
+            "shipId": "130007",
+            "desc": "Sexy Foxy"
+          },
+          {
+            "shipId": "130008",
+            "desc": "Blackbeard's Raft"
+          },
+          {
+            "shipId": "130009",
+            "desc": "Navy Battleship"
+          },
+          {
+            "shipId": "130010",
+            "desc": "Kuja Pirate Ship"
+          },
+          {
+            "shipId": "130011",
+            "desc": "Red Force"
+          },
+          {
+            "shipId": "130012",
+            "desc": "Baratie"
+          },
+          {
+            "shipId": "130013",
+            "desc": "Wind Grama"
+          },
+          {
+            "shipId": "130014",
+            "desc": "Garp's Warship"
+          },
+          {
+            "shipId": "130015",
+            "desc": "Sun Pirates' Ship"
+          },
+          {
+            "shipId": "130033",
+            "desc": "Ace's Small Boat"
+          }
+        ]
+      },
+      "TableSeaAreaShipSkill": {
+        "rows": [
+          {
+            "id": "1",
+            "skillName": "Test Skill Name",
+            "skillDesc": "This is a skill"
+          },
+          {
+            "id": "2",
+            "skillName": "Nimble",
+            "skillDesc": "Reduces energy consumption while sailing in calm waters."
+          },
+          {
+            "id": "3",
+            "skillName": "Test Skill Name",
+            "skillDesc": "This is a skill"
+          },
+          {
+            "id": "4",
+            "skillName": "Test Skill Name",
+            "skillDesc": "This is a skill"
+          },
+          {
+            "id": "5",
+            "skillName": "Test Skill Name",
+            "skillDesc": "This is a skill"
+          },
+          {
+            "id": "6",
+            "skillName": "Salvo",
+            "skillDesc": "Extends boost duration by an additional 5 seconds; when firing cannons, there is a chance to immediately fire another cannonball, dealing minor extra damage."
+          },
+          {
+            "id": "7",
+            "skillName": "Slowing Wave",
+            "skillDesc": "Affected by its slowing ability, this ship has a chance to reduce the target's movement speed when attacking, and travels slightly faster than other ships when boosting."
+          },
+          {
+            "id": "8",
+            "skillName": "Test Skill Name",
+            "skillDesc": "This is a skill"
+          },
+          {
+            "id": "9",
+            "skillName": "Giant Warship",
+            "skillDesc": "Has a chance to reduce damage taken in battle; the ship's fuel storage is slightly increased."
+          },
+          {
+            "id": "10",
+            "skillName": "Natural Protection",
+            "skillDesc": "Energy consumption is reduced by 10% in all sea areas; when attacked, there is a chance to extend the enemy's attack interval by 1 second."
+          },
+          {
+            "id": "11",
+            "skillName": "Overflowing Haki",
+            "skillDesc": "During rescue, there is a 10% chance to not consume Stamina; attack range is increased by 15%; when attacking, there is a chance to reduce the target's movement speed."
+          },
+          {
+            "id": "12",
+            "skillName": "Test Skill Name",
+            "skillDesc": "This is a skill"
+          },
+          {
+            "id": "13",
+            "skillName": "Dragon's Will",
+            "skillDesc": "Attack range is increased by 15%; attacking reduces its own movement speed while increasing its own Attack. Stacks up to 5 times."
+          },
+          {
+            "id": "14",
+            "skillName": "Justice's Judgment",
+            "skillDesc": "When attacked, there is a chance to increase its own Defense; when attacking, there is a chance to reduce the enemy's Defense."
+          },
+          {
+            "id": "15",
+            "skillName": "Test Skill Name",
+            "skillDesc": "This is a skill"
+          },
+          {
+            "id": "16",
+            "skillName": "Overclock Repair",
+            "skillDesc": "After a successful attack, there is a chance to heal itself. When hit, there is a chance to evade that attack."
+          },
+          {
+            "id": "17",
+            "skillName": "Soul Bombardment",
+            "skillDesc": "Has higher base cannon stats; normal attacks have a chance to deal bonus damage, and its Ghost trait gives it a chance to ignore part of the damage taken."
+          },
+          {
+            "id": "18",
+            "skillName": "Fire Fist Assault",
+            "skillDesc": "While boosting, unleashes high-frequency attacks on all enemy targets within attack range."
+          },
+          {
+            "id": "19",
+            "skillName": "Nimble Ship",
+            "skillDesc": "While sailing, there is a chance to sail without consuming energy for 15 seconds; when attacked, there is a chance to ignore that attack."
+          },
+          {
+            "id": "20",
+            "skillName": "Whale's Wrath",
+            "skillDesc": "While salvaging, there is a chance to gain double resources; hull Defense is increased; when attacking, there is a chance to unleash an AoE effect on the surrounding waters, dealing damage to enemy ships."
+          },
+          {
+            "id": "21",
+            "skillName": "Soul Element",
+            "skillDesc": "When making a normal attack, there is a chance to fire an additional cannonball. While diving, there is a chance to gain double resources."
+          }
+        ]
+      },
+      "TableHideTreasureShipPool": {
+        "rows": [
+          {
+            "shipId": "130002",
+            "skillDesc": "Crew Attack is increased by 5%, and Defense is increased by 5%."
+          },
+          {
+            "shipId": "130003",
+            "skillDesc": "Crew Attack is increased by 15%, but Crew Defense is reduced by 10%."
+          },
+          {
+            "shipId": "130004",
+            "skillDesc": "Ship's Cannon Damage is increased by 10%, but Cannon Damage taken by the ship is increased by 10%."
+          },
+          {
+            "shipId": "130005",
+            "skillDesc": "Restores 10% HP to the crew after winning a boarding battle."
+          },
+          {
+            "shipId": "130006",
+            "skillDesc": "Cannon Damage taken by the ship is reduced by 5%."
+          },
+          {
+            "shipId": "130007",
+            "skillDesc": "Ship's HP is increased by 10%."
+          },
+          {
+            "shipId": "130008",
+            "skillDesc": "Supplies lost when the ship is revived are reduced by 30%."
+          },
+          {
+            "shipId": "130009",
+            "skillDesc": "Ship's Cannon Damage is increased by 10%."
+          },
+          {
+            "shipId": "130015",
+            "skillDesc": "Ship's HP is increased by 10%, and Cannon Damage taken is reduced by 5%."
+          },
+          {
+            "shipId": "130017",
+            "skillDesc": "Crew Attack is increased by 5%, and supplies lost when the ship is revived are reduced by 50%."
+          },
+          {
+            "shipId": "130014",
+            "skillDesc": "Ship's Cannon Damage is increased by 15%, and Cannon Range is increased by 10%."
+          },
+          {
+            "shipId": "130016",
+            "skillDesc": "The ship has submersible technology and cannot be detected while sailing, but it also cannot use cannon attacks."
+          },
+          {
+            "shipId": "130010",
+            "skillDesc": "Ship's Cannon Damage is increased by 10%, and Crew Attack is increased by 10%."
+          },
+          {
+            "shipId": "130011",
+            "skillDesc": "Cannon Damage taken by the ship is reduced by 15%, and winning a boarding battle restores 10% HP to the crew."
+          },
+          {
+            "shipId": "130013",
+            "skillDesc": "Ship's Defense is increased by 15%, and Crew Defense is increased by 15%."
+          }
+        ]
+      },
+      "TableUnionTradeShipReward": {
+        "rows": [
+          {
+            "id": "1",
+            "showName": "Twin Cape Trade",
+            "quality": "E-Rank",
+            "desc": "A cargo ship is docked along the coast of Twin Cape. They have sent out a trade request to the sea, requesting a small amount of trade goods."
+          },
+          {
+            "id": "2",
+            "showName": "Whiskey Peak Trade",
+            "quality": "D-Rank",
+            "desc": "The general store at Whiskey Peak currently needs trade goods and is requesting a trade. They will offer Gems and other items in exchange, requesting a small amount of trade goods."
+          },
+          {
+            "id": "3",
+            "showName": "Canola Blossom Trade",
+            "quality": "C-Rank",
+            "desc": "A goods shortage has appeared at the Canola Blossom trading market. They urgently need trade goods and are requesting a trade. They will offer Gems and other items in exchange, requesting a moderate amount of trade goods."
+          },
+          {
+            "id": "4",
+            "showName": "Sabaody Archipelago Trade",
+            "quality": "B-Rank",
+            "desc": "A goods shortage has appeared at the Sabaody Archipelago trading market. They urgently need trade goods and are requesting a trade. They will offer some rare materials in exchange, requesting a moderate amount of trade goods."
+          },
+          {
+            "id": "5",
+            "showName": "Ryugu Palace Trade",
+            "quality": "A-Rank",
+            "desc": "The residents of Fish-Man Island need goods from humans. They will offer some rare materials in exchange, requesting a large amount of goods."
+          },
+          {
+            "id": "6",
+            "showName": "Dressrosa Trade",
+            "quality": "S-Rank",
+            "desc": "The trading house in Dressrosa needs some goods from other places. They will offer precious local goods in exchange, requesting a large amount of goods."
+          }
+        ]
+      },
+      "TableUnionTradeShipItemType": {
+        "rows": [
+          {
+            "type": "1",
+            "typeName": "Item"
+          },
+          {
+            "type": "2",
+            "typeName": "Equipment"
+          }
+        ]
+      },
+      "TableUSFAIShip": {
+        "rows": [
+          {
+            "id": "1",
+            "nickName": "Replica of Sexy Foxy"
+          },
+          {
+            "id": "2",
+            "nickName": "Replica of Garp's Warship"
+          }
+        ]
+      }
+    },
     "missions": {
       "TableShipGroupTask": {
         "rows": [
@@ -1027,7 +1980,44 @@
     "艾尼路": "Enel",
     "大熊": "Kuma",
     "黑胡子": "Blackbeard",
-    "白胡子": "Whitebeard"
+    "白胡子": "Whitebeard",
+    "据点": "Stronghold",
+    "无风带": "Windless Belt",
+    "逆流": "Countercurrent",
+    "元素抗性": "Elemental Resistance",
+    "全属抗": "All Elemental Resistance",
+    "免伤": "Damage Reduction",
+    "闪避": "Evasion",
+    "海王兽": "Sea King",
+    "耐久度": "Durability",
+    "储备能量": "Stored Energy",
+    "精炼石": "Refined Stone",
+    "初级经验卷轴": "Basic Experience Scroll",
+    "初级精炼石": "Basic Refined Stone",
+    "龙骨": "Keel",
+    "船帆": "Sail",
+    "船舱": "Hold",
+    "黄金梅丽号": "Going Merry",
+    "千里阳光号": "Thousand Sunny",
+    "雷德·佛斯号": "Red Force",
+    "莫比迪克号": "Moby Dick",
+    "巴拉蒂": "Baratie",
+    "方舟箴言": "Ark Maxim",
+    "女王·妈妈·吟唱者": "Queen Mama Chanter",
+    "黑桃海盗船": "Spade Pirates' Ship",
+    "九蛇海盗船": "Kuja Pirate Ship",
+    "太阳海盗船": "Sun Pirates' Ship",
+    "威士忌山": "Whiskey Peak",
+    "香波迪群岛": "Sabaody Archipelago",
+    "龙宫城": "Ryugu Palace",
+    "德莱斯罗兹": "Dressrosa",
+    "双子岬": "Twin Cape",
+    "船员": "Crew",
+    "登舰作战": "Boarding Battle",
+    "补给": "Supplies",
+    "炮击": "Cannon Fire / Bombardment",
+    "霸气外露": "Overflowing Haki",
+    "火拳": "Fire Fist"
   },
   "uncertain_notes": [
     "TableSeaPortBuildingLev/other_bundle_rows (tabledata_v1.ab): all 25 rows contain the identical generic placeholder text '建筑是一个需要建造的建筑' (literally 'the building is a building that needs to be built'), which looks like unfinished/dev placeholder text rather than real content. Translated literally and consistently as 'A building that needs to be constructed.' rather than inventing real descriptions.",
@@ -1035,6 +2025,17 @@
     "TableShipGroupTaskGroup groupTitle '期间任务': translated as 'Event Missions' (limited-time/seasonal mission group); 'Period Missions' or 'Limited-Time Missions' are plausible alternates.",
     "TableShipGroupTrialProp id 2 '魂玉': translated as 'Soul Orb' (distinct from 宝石/'Gem' and from 附魂/'Soul-Enchant' in the established glossary) since it doesn't appear in prior glossary entries.",
     "TableShipGroupTrialProp id 12 '霸气' translated as 'Haki', the established official One Piece localization term for this power, not a generic 'Domineering/Dominance'.",
-    "TableShipGroupTrialBoss bossName '大熊' translated as 'Kuma' (Bartholomew Kuma), matching common One Piece localization naming style used for the other bosses (Ace, Garp, Enel, etc. rather than full titles)."
+    "TableShipGroupTrialBoss bossName '大熊' translated as 'Kuma' (Bartholomew Kuma), matching common One Piece localization naming style used for the other bosses (Ace, Garp, Enel, etc. rather than full titles).",
+    "TableGvoShip shipId 130013 '风·格拉玛号': no confirmed canonical One Piece ship by this name found; transliterated/translated literally as 'Wind Grama'.",
+    "TableGvoShip shipId 130016 '极地潜水号': translated literally as 'Polar Diver'; not the same as Law's canonical submarine 'Polar Tang', which uses different characters.",
+    "TableGvoShip shipId 130017 '幽灵船': translated literally as 'Ghost Ship'; no specific canonical named vessel identified.",
+    "TableGvoShip shipId 130022 '珠宝玛格丽塔号': translated literally as 'Jewelry Margarita'; likely intended as Jewelry Bonney's ship ('珠宝' matches her epithet 'Jewelry'), but the exact canonical/official ship name for Bonney was not confirmed.",
+    "TableGvoShip shipId 130024 '维多利亚朋克号': transliterated as 'Victoria Punk'; no confirmed canonical source identified.",
+    "TableGvoShip shipId 130025 'Stay Tune号': kept as-is ('Stay Tune'), already in Latin script in the source.",
+    "TableGvoShip shipId 130026 '般城丸号': transliterated as 'Hanjo Maru' (a Japanese-style ship name); not a widely confirmed canonical reference.",
+    "TableGvoShip shipId 130032 '白星': translated literally as 'White Star'; no confirmed canonical One Piece ship/character reference identified for this name.",
+    "TableSeaAreaShipSkill: ids 1, 3, 4, 5, 8, 12, 15 use skillName '测试技能名字' ('Test Skill Name') and skillDesc '这是一个技能' ('This is a skill') -- clearly unfinished dev placeholder rows, not real content. Translated literally rather than inventing real skill text.",
+    "TableUnionTradeShipReward id 3 '油菜花贸易' ('Canola Blossom Trade'): no confirmed canonical One Piece location by this name was identified; translated literally.",
+    "TableUnionTradeShipReward quality field ('E级'/'D级'/etc.) rendered as 'E-Rank'/'D-Rank'/etc."
   ]
 }
