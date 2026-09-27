@@ -1,0 +1,1493 @@
+{
+  "tables": {
+    "buff_status": {
+      "TableBuffViewGlobal": {
+        "rows": [
+          {
+            "id": "1000112",
+            "buffName": "Aokiji - Support",
+            "buffDesc": ""
+          },
+          {
+            "id": "1000115",
+            "buffName": "Law - Support",
+            "buffDesc": ""
+          },
+          {
+            "id": "1000114",
+            "buffName": "Crocodile - Support",
+            "buffDesc": ""
+          }
+        ]
+      },
+      "TableTeamBossBuff": {
+        "rows": [
+          {
+            "buffId": "78001",
+            "buffName": "Ice Elemental Damage taken is increased by 30%"
+          },
+          {
+            "buffId": "78002",
+            "buffName": "Fire Elemental Damage taken is increased by 30%"
+          },
+          {
+            "buffId": "78003",
+            "buffName": "Lightning Elemental Damage taken is increased by 30%"
+          },
+          {
+            "buffId": "78004",
+            "buffName": "Wind Elemental Damage taken is increased by 30%"
+          },
+          {
+            "buffId": "78005",
+            "buffName": "Poison Elemental Damage taken is increased by 30%"
+          },
+          {
+            "buffId": "78006",
+            "buffName": "Light Elemental Damage taken is increased by 30%"
+          },
+          {
+            "buffId": "78007",
+            "buffName": "Dark Elemental Damage taken is increased by 30%"
+          },
+          {
+            "buffId": "78008",
+            "buffName": "Water Elemental Damage taken is increased by 30%"
+          },
+          {
+            "buffId": "78009",
+            "buffName": "Physical Damage taken is increased by 30%"
+          },
+          {
+            "buffId": "78010",
+            "buffName": "Finisher Damage taken is increased by 50%"
+          },
+          {
+            "buffId": "78011",
+            "buffName": "Ultimate Damage taken is increased by 50%"
+          },
+          {
+            "buffId": "78012",
+            "buffName": "Crit Damage taken is increased by 50%"
+          }
+        ]
+      },
+      "TableABuff": {
+        "rows": [
+          {
+            "id": "1",
+            "desc": "Attack +10, Defense increased by 10%"
+          },
+          {
+            "id": "2",
+            "desc": "Loses 10 HP per second"
+          },
+          {
+            "id": "3",
+            "desc": "Speed increased by 5"
+          },
+          {
+            "id": "4",
+            "desc": "Generates: Fuel consumption reduced by 3%"
+          },
+          {
+            "id": "5",
+            "desc": "Fuel consumption reduced by 3%"
+          },
+          {
+            "id": "6",
+            "desc": "Generates: 30% chance to not consume fuel while sailing"
+          },
+          {
+            "id": "7",
+            "desc": "30% chance to not consume fuel while sailing"
+          },
+          {
+            "id": "8",
+            "desc": "Rapid Cannon Fire"
+          },
+          {
+            "id": "9",
+            "desc": "Generates: Damage reduced by 30%"
+          },
+          {
+            "id": "10",
+            "desc": "Fuel consumption reduced by 10%"
+          },
+          {
+            "id": "11",
+            "desc": "Generates: Cooldown Increase buff"
+          },
+          {
+            "id": "12",
+            "desc": "Extends the enemy's attack interval when attacked"
+          },
+          {
+            "id": "13",
+            "desc": "Generates: Rescue does not consume Stamina"
+          },
+          {
+            "id": "14",
+            "desc": "Rescue does not consume Stamina"
+          },
+          {
+            "id": "15",
+            "desc": "Reduces enemy Speed when attacking"
+          },
+          {
+            "id": "16",
+            "desc": "Generates: Salvage buff"
+          },
+          {
+            "id": "17",
+            "desc": "Salvage buff"
+          },
+          {
+            "id": "18",
+            "desc": "AoE Water Wave"
+          },
+          {
+            "id": "19",
+            "desc": "Damage reduced by 30%"
+          },
+          {
+            "id": "20",
+            "desc": "Generates: Invincibility"
+          },
+          {
+            "id": "21",
+            "desc": "Invincibility"
+          },
+          {
+            "id": "2001",
+            "desc": "Speed increased by 5"
+          },
+          {
+            "id": "101",
+            "desc": "Slightly reduces fuel consumption"
+          },
+          {
+            "id": "102",
+            "desc": "Slightly increases Defense"
+          },
+          {
+            "id": "103",
+            "desc": "Slightly reduces fuel consumption"
+          },
+          {
+            "id": "104",
+            "desc": "Slightly increases damage"
+          },
+          {
+            "id": "111",
+            "desc": "Slightly reduces fuel consumption"
+          },
+          {
+            "id": "112",
+            "desc": "Slightly increases Defense"
+          },
+          {
+            "id": "113",
+            "desc": "Slightly reduces fuel consumption"
+          },
+          {
+            "id": "114",
+            "desc": "Slightly increases damage"
+          },
+          {
+            "id": "115",
+            "desc": "Ghost Ship Crit"
+          },
+          {
+            "id": "116",
+            "desc": "Ace's Ship increases Defense"
+          },
+          {
+            "id": "117",
+            "desc": "Ace's Ship AoE Kill"
+          },
+          {
+            "id": "118",
+            "desc": "Generates: Garp's Ship gains 10% Defense when attacked"
+          },
+          {
+            "id": "119",
+            "desc": "Garp's Ship gains 10% Defense when attacked"
+          },
+          {
+            "id": "120",
+            "desc": "Garp's Ship reduces Defense when attacking"
+          },
+          {
+            "id": "121",
+            "desc": "Reduces enemy Speed when attacking"
+          },
+          {
+            "id": "122",
+            "desc": "Speed increased by 5"
+          },
+          {
+            "id": "123",
+            "desc": "Submarine Heal"
+          },
+          {
+            "id": "124",
+            "desc": "Generates: Submarine chance of Invincibility"
+          },
+          {
+            "id": "125",
+            "desc": "Submarine chance of Invincibility"
+          },
+          {
+            "id": "126",
+            "desc": "Dragon Ship stacking Attack"
+          },
+          {
+            "id": "127",
+            "desc": "Dragon Ship stacking Slow"
+          },
+          {
+            "id": "128",
+            "desc": "Generates: Ghost Ship chance of Invincibility"
+          },
+          {
+            "id": "129",
+            "desc": "Ghost Ship chance of Invincibility"
+          },
+          {
+            "id": "130",
+            "desc": "Naval Mine Self-Destruct"
+          },
+          {
+            "id": "131",
+            "desc": "Rapid Darkness Fire"
+          },
+          {
+            "id": "132",
+            "desc": "Generates: Dive buff"
+          },
+          {
+            "id": "133",
+            "desc": "Dive buff"
+          }
+        ]
+      },
+      "TableSeaExploreBuffGroup": {
+        "rows": [
+          {
+            "id": "1",
+            "buffDesc": "Allied characters gain 100% base Attack and 50% Accuracy"
+          },
+          {
+            "id": "2",
+            "buffDesc": "Allied characters gain 50% Crit Rate and 50% Penetration"
+          },
+          {
+            "id": "3",
+            "buffDesc": "Each attack by allied characters deals additional Fire Elemental Damage equal to 50% of Attack"
+          },
+          {
+            "id": "4",
+            "buffDesc": "Allied characters gain 80% base Max HP and 35% Evasion"
+          },
+          {
+            "id": "5",
+            "buffDesc": "Allied characters gain 10 points each time they deal Elemental damage, up to 50 points"
+          },
+          {
+            "id": "6",
+            "buffDesc": "Allied characters gain 10 points each time they land a critical hit, up to 50 points"
+          },
+          {
+            "id": "7",
+            "buffDesc": "Allied characters gain 10 points each time they Block, up to 50 points"
+          },
+          {
+            "id": "8",
+            "buffDesc": "Allied characters gain 10 points each time they Evade, up to 50 points"
+          },
+          {
+            "id": "9",
+            "buffDesc": "Allied characters gain 10 points each time they are hit without being critically struck, up to 50 points"
+          },
+          {
+            "id": "10",
+            "buffDesc": "All enemies' HP and Defense are increased"
+          },
+          {
+            "id": "11",
+            "buffDesc": "[Soul] increases Big Mom's Max HP by 1% and Attack by 10%"
+          },
+          {
+            "id": "12",
+            "buffDesc": "All minions provide 1 [Soul] each round. Souls provided this way grant Big Mom 10% Evasion; this bonus disappears once the minion dies"
+          },
+          {
+            "id": "13",
+            "buffDesc": "When Big Mom lands a critical hit with [Calamity Wave], she releases it again"
+          },
+          {
+            "id": "14",
+            "buffDesc": "[Oblivion] additionally reduces allied characters' Max HP by 15%"
+          },
+          {
+            "id": "15",
+            "buffDesc": "When a character whose [Soul] has been extracted uses a skill, it deals Slash damage equal to 3% of HP to all allies, and Rage gained from the skill is reduced by 5%"
+          },
+          {
+            "id": "16",
+            "buffDesc": "Allied characters gain 100% base Attack and 50% Accuracy"
+          },
+          {
+            "id": "17",
+            "buffDesc": "Allied characters gain 50% Crit Rate and 50% Penetration"
+          },
+          {
+            "id": "18",
+            "buffDesc": "Each attack by allied characters deals additional Fire Elemental Damage equal to 50% of Attack"
+          },
+          {
+            "id": "19",
+            "buffDesc": "Allied characters gain 80% base Max HP and 35% Evasion"
+          },
+          {
+            "id": "20",
+            "buffDesc": "Allied characters gain 10 points each time they deal Elemental damage, up to 50 points"
+          },
+          {
+            "id": "21",
+            "buffDesc": "Allied characters gain 10 points each time they land a critical hit, up to 50 points"
+          },
+          {
+            "id": "22",
+            "buffDesc": "Allied characters gain 10 points each time they Block, up to 50 points"
+          },
+          {
+            "id": "23",
+            "buffDesc": "Allied characters gain 10 points each time they Evade, up to 50 points"
+          },
+          {
+            "id": "24",
+            "buffDesc": "Allied characters gain 10 points each time they are hit without being critically struck, up to 50 points"
+          },
+          {
+            "id": "25",
+            "buffDesc": "All enemies' HP and Defense are increased"
+          },
+          {
+            "id": "26",
+            "buffDesc": "[Ultimate Insight]/[Ultimate Insight: Void] grants all Elemental Resistance and negative-effect damage reduction"
+          },
+          {
+            "id": "27",
+            "buffDesc": "When Jax Blocks, he gains [Swordsmanship]; if he fails to trigger a Block while being attacked, his Block is increased until he next triggers a Block"
+          },
+          {
+            "id": "28",
+            "buffDesc": "When [Swordsmanship] reaches 10 stacks, interrupts the target and acts immediately; triggers at most once per round"
+          },
+          {
+            "id": "29",
+            "buffDesc": "The first time Jax's HP drops below 20%, he immediately enters the [Ultimate Insight: Void] state. This state replaces [Ultimate Insight] and cannot be exited; each action releases up to 3 [Ruler's Blade] strikes, stopping once any target dies"
+          },
+          {
+            "id": "30",
+            "buffDesc": "While in the [Ultimate Insight]/[Ultimate Insight: Void] state, continues to gain [Swordsmanship]"
+          },
+          {
+            "id": "31",
+            "buffDesc": "Allied characters gain 100% base Attack and 50% Accuracy"
+          },
+          {
+            "id": "32",
+            "buffDesc": "Allied characters gain 50% Crit Rate and 50% Penetration"
+          },
+          {
+            "id": "33",
+            "buffDesc": "Each attack by allied characters deals additional Fire Elemental Damage equal to 50% of Attack"
+          },
+          {
+            "id": "34",
+            "buffDesc": "Allied characters gain 80% base Max HP and 35% Evasion"
+          },
+          {
+            "id": "35",
+            "buffDesc": "Allied characters gain 10 points each time they deal Elemental damage, up to 50 points"
+          },
+          {
+            "id": "36",
+            "buffDesc": "Allied characters gain 10 points each time they land a critical hit, up to 50 points"
+          },
+          {
+            "id": "37",
+            "buffDesc": "Allied characters gain 10 points each time they Block, up to 50 points"
+          },
+          {
+            "id": "38",
+            "buffDesc": "Allied characters gain 10 points each time they Evade, up to 50 points"
+          },
+          {
+            "id": "39",
+            "buffDesc": "Allied characters gain 10 points each time they are hit without being critically struck, up to 50 points"
+          },
+          {
+            "id": "40",
+            "buffDesc": "All enemies' HP and Defense are increased"
+          },
+          {
+            "id": "41",
+            "buffDesc": "Skill damage taken by the enemy is reduced by 90%"
+          },
+          {
+            "id": "42",
+            "buffDesc": "When an allied character's Defense is below 0, they are guaranteed to be critically hit by Kaido's attacks"
+          },
+          {
+            "id": "43",
+            "buffDesc": "Kaido restores 3% Max HP when he lands a critical hit"
+          },
+          {
+            "id": "44",
+            "buffDesc": "Kaido restores 1 stack of [Dragon Scale] when using a skill, and has a 30% chance to Stun the target on hit until the end of their next action"
+          },
+          {
+            "id": "45",
+            "buffDesc": "Each time Kaido consumes 10 stacks of [Dragon Scale], he immediately takes an action"
+          },
+          {
+            "id": "46",
+            "buffDesc": "Allied characters gain 100% base Attack and 50% Accuracy"
+          },
+          {
+            "id": "47",
+            "buffDesc": "Allied characters gain 50% Crit Rate and 50% Penetration"
+          },
+          {
+            "id": "48",
+            "buffDesc": "Each attack by allied characters deals additional Fire Elemental Damage equal to 50% of Attack"
+          },
+          {
+            "id": "49",
+            "buffDesc": "Allied characters gain 80% base Max HP and 35% Evasion"
+          },
+          {
+            "id": "50",
+            "buffDesc": "Allied characters gain 10 points each time they deal Elemental damage, up to 50 points"
+          },
+          {
+            "id": "51",
+            "buffDesc": "Allied characters gain 10 points each time they land a critical hit, up to 50 points"
+          },
+          {
+            "id": "52",
+            "buffDesc": "Allied characters gain 10 points each time they Block, up to 50 points"
+          },
+          {
+            "id": "53",
+            "buffDesc": "Allied characters gain 10 points each time they Evade, up to 50 points"
+          },
+          {
+            "id": "54",
+            "buffDesc": "Allied characters gain 10 points each time they are hit without being critically struck, up to 50 points"
+          },
+          {
+            "id": "55",
+            "buffDesc": "All enemies' HP and Defense are increased"
+          },
+          {
+            "id": "56",
+            "buffDesc": "All enemies' Attack and Speed are increased"
+          },
+          {
+            "id": "57",
+            "buffDesc": "Minions have a chance to trigger a Counterattack, and a chance to reduce the target's Crit Rate for 2 rounds when attacking"
+          },
+          {
+            "id": "58",
+            "buffDesc": "While minions are alive, Whitebeard cannot be defeated, and the number of hits required to remove [Guard Stance] is increased to 30"
+          },
+          {
+            "id": "59",
+            "buffDesc": "Critically hitting Whitebeard while he is in [Guard Stance] no longer grants him a shield; instead, it deals shield-ignoring damage equal to 10% of current HP to the attacking character"
+          },
+          {
+            "id": "60",
+            "buffDesc": "While in [Guard Stance], skill damage taken each time never exceeds 0.1% of Max HP; and no longer becomes Vulnerable when the stance ends"
+          },
+          {
+            "id": "61",
+            "buffDesc": "Allied characters gain 100% base Attack and 50% Accuracy"
+          },
+          {
+            "id": "62",
+            "buffDesc": "Allied characters gain 50% Crit Rate and 50% Penetration"
+          },
+          {
+            "id": "63",
+            "buffDesc": "Each attack by allied characters deals additional Fire Elemental Damage equal to 50% of Attack"
+          },
+          {
+            "id": "64",
+            "buffDesc": "Allied characters gain 80% base Max HP and 35% Evasion"
+          },
+          {
+            "id": "65",
+            "buffDesc": "Allied characters gain 10 points each time they deal Elemental damage, up to 50 points"
+          },
+          {
+            "id": "66",
+            "buffDesc": "Allied characters gain 10 points each time they land a critical hit, up to 50 points"
+          },
+          {
+            "id": "67",
+            "buffDesc": "Allied characters gain 10 points each time they Block, up to 50 points"
+          },
+          {
+            "id": "68",
+            "buffDesc": "Allied characters gain 10 points each time they Evade, up to 50 points"
+          },
+          {
+            "id": "69",
+            "buffDesc": "Allied characters gain 10 points each time they are hit without being critically struck, up to 50 points"
+          },
+          {
+            "id": "70",
+            "buffDesc": "All enemies' HP and Defense are increased"
+          },
+          {
+            "id": "71",
+            "buffDesc": "[Corrosion] additionally reduces the character's Attack and Accuracy, and increases damage taken"
+          },
+          {
+            "id": "72",
+            "buffDesc": "Each stack of [Corrosion] deducts 1 Soul Orb when the character acts, up to 2 Soul Orbs deducted at a time"
+          },
+          {
+            "id": "73",
+            "buffDesc": "When Blackbeard evades, the source of the attack gains 1 stack of [Corrosion]"
+          },
+          {
+            "id": "74",
+            "buffDesc": "When Blackbeard uses [Dark Heaven, Dark Earth] and hits a character with 5 stacks of [Corrosion], it deals massive damage; defeating the character grants him another action, and the number of extra actions can stack"
+          },
+          {
+            "id": "75",
+            "buffDesc": "Each time an allied character is stacked with [Corrosion], Blackbeard gains an equal number of stacks of [Shadow]. If Blackbeard holds 10 or more stacks of [Shadow] after acting, he consumes all stacks of [Shadow] and Stuns all allied characters with [Corrosion] for 1 round"
+          }
+        ],
+        "other_bundle_rows": []
+      },
+      "TableIslandTrialsBuffGroup": {
+        "rows": [
+          {
+            "id": "1",
+            "buffDesc": "At the start of battle, all player characters' Penetration and Crit Rate are increased by 50%"
+          },
+          {
+            "id": "2",
+            "buffDesc": "At the start of battle, all player characters' Attack and Speed are increased by 40%"
+          },
+          {
+            "id": "3",
+            "buffDesc": "At the start of each round, all player characters clear 2 stacks of negative effects, and one random ally becomes immune to negative effects for 1 round"
+          },
+          {
+            "id": "4",
+            "buffDesc": "Player characters gain 10 points each time they Block, up to 300 points"
+          },
+          {
+            "id": "5",
+            "buffDesc": "Player characters gain 10 points each time they fully Evade, up to 300 points"
+          },
+          {
+            "id": "6",
+            "buffDesc": "Player characters gain 10 points each time they are hit without being critically struck, up to 300 points"
+          },
+          {
+            "id": "7",
+            "buffDesc": "Sengoku and Garp: Block and Tenacity are increased by 40%"
+          },
+          {
+            "id": "8",
+            "buffDesc": "The Three Admirals: Attack and Crit Rate are increased by 30%"
+          },
+          {
+            "id": "9",
+            "buffDesc": "At the end of each round, all monsters recover 30% of their lost HP (affected by healing bonuses and reductions)"
+          },
+          {
+            "id": "10",
+            "buffDesc": "All monsters' Speed is increased by 25%"
+          },
+          {
+            "id": "11",
+            "buffDesc": "All monsters' Block, Tenacity, Defense, Attack, Crit Rate, Penetration, and Crit Damage are increased by 25%"
+          },
+          {
+            "id": "12",
+            "buffDesc": "All monsters' Attack and Accuracy are increased by 150%"
+          },
+          {
+            "id": "13",
+            "buffDesc": "At the start of battle, all player characters' Penetration and Crit Rate are increased by 50%"
+          },
+          {
+            "id": "14",
+            "buffDesc": "At the start of battle, all player characters' Attack and Speed are increased by 40%"
+          },
+          {
+            "id": "15",
+            "buffDesc": "At the start of each round, all player characters clear 2 stacks of negative effects, and one random ally becomes immune to negative effects for 1 round"
+          },
+          {
+            "id": "16",
+            "buffDesc": "Player characters gain 10 points each time they Block, up to 200 points"
+          },
+          {
+            "id": "17",
+            "buffDesc": "Player characters gain 10 points each time they fully Evade, up to 200 points"
+          },
+          {
+            "id": "18",
+            "buffDesc": "Player characters gain 10 points each time they are hit without being critically struck, up to 200 points"
+          },
+          {
+            "id": "19",
+            "buffDesc": "Whitebeard's Block and Tenacity are increased by 60%"
+          },
+          {
+            "id": "20",
+            "buffDesc": "All monsters' Speed is increased by 25%"
+          },
+          {
+            "id": "21",
+            "buffDesc": "At the end of each round, all monsters recover 30% of their lost HP (affected by healing bonuses and reductions)"
+          },
+          {
+            "id": "22",
+            "buffDesc": "All monsters' Attack and Elemental Damage dealt are increased by 50%"
+          },
+          {
+            "id": "23",
+            "buffDesc": "All monsters' Block, Tenacity, Defense, Attack, Crit Rate, Penetration, and Crit Damage are increased by 25%"
+          },
+          {
+            "id": "24",
+            "buffDesc": "All monsters' Attack and Accuracy are increased by 150%"
+          },
+          {
+            "id": "25",
+            "buffDesc": "At the start of battle, all player characters' Penetration and Crit Rate are increased by 50%"
+          },
+          {
+            "id": "26",
+            "buffDesc": "At the start of battle, all player characters' Attack and Speed are increased by 40%"
+          },
+          {
+            "id": "27",
+            "buffDesc": "At the start of each round, all player characters clear 2 stacks of negative effects, and one random ally becomes immune to negative effects for 1 round"
+          },
+          {
+            "id": "29",
+            "buffDesc": "Player characters gain 10 points each time they Block, up to 200 points"
+          },
+          {
+            "id": "30",
+            "buffDesc": "Player characters gain 10 points each time they fully Evade, up to 200 points"
+          },
+          {
+            "id": "31",
+            "buffDesc": "Player characters gain 10 points each time they are hit without being critically struck, up to 200 points"
+          },
+          {
+            "id": "32",
+            "buffDesc": "Mihawk's Crit Rate is increased by 40%, and there is no limit to Skill Seal in a single round"
+          },
+          {
+            "id": "33",
+            "buffDesc": "Doflamingo's Attack and True Damage dealt are increased by 40%"
+          },
+          {
+            "id": "34",
+            "buffDesc": "Old Sand's Speed is increased by 30%, and Wind Elemental Damage is increased by 50%"
+          },
+          {
+            "id": "35",
+            "buffDesc": "All monsters' Speed is increased by 25%"
+          },
+          {
+            "id": "36",
+            "buffDesc": "At the end of each round, all monsters recover 30% of their lost HP (affected by healing bonuses and reductions)"
+          },
+          {
+            "id": "37",
+            "buffDesc": "All monsters' Block, Tenacity, Defense, Attack, Crit Rate, Penetration, and Crit Damage are increased by 25%"
+          },
+          {
+            "id": "38",
+            "buffDesc": "All monsters' Attack and Accuracy are increased by 150%"
+          },
+          {
+            "id": "39",
+            "buffDesc": "At the start of battle, all player characters' Penetration and Crit Rate are increased by 50%"
+          },
+          {
+            "id": "40",
+            "buffDesc": "At the start of battle, all player characters' Attack and Speed are increased by 40%"
+          },
+          {
+            "id": "41",
+            "buffDesc": "At the start of each round, all player characters clear 2 stacks of negative effects, and one random ally becomes immune to negative effects for 1 round"
+          },
+          {
+            "id": "42",
+            "buffDesc": "Player characters gain 10 points each time they Block, up to 200 points"
+          },
+          {
+            "id": "43",
+            "buffDesc": "Player characters gain 10 points each time they fully Evade, up to 200 points"
+          },
+          {
+            "id": "44",
+            "buffDesc": "Player characters gain 10 points each time they are hit without being critically struck, up to 200 points"
+          },
+          {
+            "id": "45",
+            "buffDesc": "At the end of each round, all monsters recover 30% of their lost HP (affected by healing bonuses and reductions)"
+          },
+          {
+            "id": "46",
+            "buffDesc": "All monsters' Speed is increased by 25%"
+          },
+          {
+            "id": "47",
+            "buffDesc": "All monsters' Block, Tenacity, Defense, Attack, Crit Rate, Penetration, and Crit Damage are increased by 25%"
+          },
+          {
+            "id": "48",
+            "buffDesc": "All monsters' Attack and Accuracy are increased by 150%"
+          },
+          {
+            "id": "49",
+            "buffDesc": "At the start of each round, all monsters clear all their own negative effects"
+          },
+          {
+            "id": "50",
+            "buffDesc": "Fujitora, Mihawk, and Shanks: Crit Rate is increased by 20%, and Crit Damage is increased by 100%"
+          }
+        ],
+        "other_bundle_rows": [
+          {
+            "id": "1",
+            "buffDesc": "At the start of battle, all player characters' Penetration and Crit Rate are increased by 50%"
+          },
+          {
+            "id": "2",
+            "buffDesc": "At the start of battle, all player characters' Attack and Speed are increased by 40%"
+          },
+          {
+            "id": "3",
+            "buffDesc": "At the start of each round, all player characters clear 2 stacks of negative effects, and one random ally becomes immune to negative effects for 1 round"
+          },
+          {
+            "id": "4",
+            "buffDesc": "Player characters gain 10 points each time they Block, up to 300 points"
+          },
+          {
+            "id": "5",
+            "buffDesc": "Player characters gain 10 points each time they fully Evade, up to 300 points"
+          },
+          {
+            "id": "6",
+            "buffDesc": "Player characters gain 10 points each time they are hit without being critically struck, up to 300 points"
+          },
+          {
+            "id": "7",
+            "buffDesc": "All enemies' HP and Defense are increased"
+          },
+          {
+            "id": "8",
+            "buffDesc": "[Ultimate Insight]/[Ultimate Insight: Void] grants all Elemental Resistance and negative-effect damage reduction"
+          },
+          {
+            "id": "9",
+            "buffDesc": "When Jax Blocks, he gains [Swordsmanship]; if he fails to trigger a Block while being attacked, his Block is increased until he next triggers a Block"
+          },
+          {
+            "id": "10",
+            "buffDesc": "When [Swordsmanship] reaches 10 stacks, interrupts the target and acts immediately; triggers at most once per round"
+          },
+          {
+            "id": "11",
+            "buffDesc": "The first time Jax's HP drops below 20%, he immediately enters the [Ultimate Insight: Void] state. This state replaces [Ultimate Insight] and cannot be exited; each action releases up to 3 [Ruler's Blade] strikes, stopping once any target dies"
+          },
+          {
+            "id": "12",
+            "buffDesc": "While in the [Ultimate Insight]/[Ultimate Insight: Void] state, continues to gain [Swordsmanship]"
+          },
+          {
+            "id": "13",
+            "buffDesc": "At the start of battle, all player characters' Penetration and Crit Rate are increased by 50%"
+          },
+          {
+            "id": "14",
+            "buffDesc": "At the start of battle, all player characters' Attack and Speed are increased by 40%"
+          },
+          {
+            "id": "15",
+            "buffDesc": "At the start of each round, all player characters clear 2 stacks of negative effects, and one random ally becomes immune to negative effects for 1 round"
+          },
+          {
+            "id": "16",
+            "buffDesc": "Player characters gain 10 points each time they Block, up to 200 points"
+          },
+          {
+            "id": "17",
+            "buffDesc": "Player characters gain 10 points each time they fully Evade, up to 200 points"
+          },
+          {
+            "id": "18",
+            "buffDesc": "Player characters gain 10 points each time they are hit without being critically struck, up to 200 points"
+          },
+          {
+            "id": "19",
+            "buffDesc": "All enemies' HP and Defense are increased"
+          },
+          {
+            "id": "20",
+            "buffDesc": "Skill damage taken by the enemy is reduced by 90%"
+          },
+          {
+            "id": "21",
+            "buffDesc": "When an allied character's Defense is below 0, they are guaranteed to be critically hit by Kaido's attacks"
+          },
+          {
+            "id": "22",
+            "buffDesc": "Kaido restores 3% Max HP when he lands a critical hit"
+          },
+          {
+            "id": "23",
+            "buffDesc": "Kaido restores 1 stack of [Dragon Scale] when using a skill, and has a 30% chance to Stun the target on hit until the end of their next action"
+          },
+          {
+            "id": "24",
+            "buffDesc": "Each time Kaido consumes 10 stacks of [Dragon Scale], his Attack is increased by 50% and Crit Damage by 100%, lasting until the end of Kaido's action"
+          },
+          {
+            "id": "25",
+            "buffDesc": "At the start of battle, all player characters' Penetration and Crit Rate are increased by 50%"
+          },
+          {
+            "id": "26",
+            "buffDesc": "At the start of battle, all player characters' Attack and Speed are increased by 40%"
+          },
+          {
+            "id": "27",
+            "buffDesc": "At the start of each round, all player characters clear 2 stacks of negative effects, and one random ally becomes immune to negative effects for 1 round"
+          },
+          {
+            "id": "28",
+            "buffDesc": "Player characters gain 10 points each time they Block, up to 200 points"
+          },
+          {
+            "id": "29",
+            "buffDesc": "Player characters gain 10 points each time they fully Evade, up to 200 points"
+          },
+          {
+            "id": "30",
+            "buffDesc": "Player characters gain 10 points each time they are hit without being critically struck, up to 200 points"
+          },
+          {
+            "id": "31",
+            "buffDesc": "All enemies' HP and Defense are increased"
+          },
+          {
+            "id": "32",
+            "buffDesc": "All enemies' Attack and Speed are increased"
+          },
+          {
+            "id": "33",
+            "buffDesc": "Minions have a chance to trigger a Counterattack, and a chance to reduce the target's Crit Rate for 2 rounds when attacking"
+          },
+          {
+            "id": "34",
+            "buffDesc": "While minions are alive, Whitebeard cannot be defeated, and the number of hits required to remove [Guard Stance] is increased to 30"
+          },
+          {
+            "id": "35",
+            "buffDesc": "Critically hitting Whitebeard while he is in [Guard Stance] no longer grants him a shield; instead, it deals shield-ignoring damage equal to 10% of current HP to the attacking character"
+          },
+          {
+            "id": "36",
+            "buffDesc": "While in [Guard Stance], skill damage taken each time never exceeds 0.1% of Max HP; and no longer becomes Vulnerable when the stance ends"
+          },
+          {
+            "id": "37",
+            "buffDesc": "At the start of battle, all player characters' Penetration and Crit Rate are increased by 50%"
+          },
+          {
+            "id": "38",
+            "buffDesc": "At the start of battle, all player characters' Attack and Speed are increased by 40%"
+          },
+          {
+            "id": "39",
+            "buffDesc": "At the start of each round, all player characters clear 2 stacks of negative effects, and one random ally becomes immune to negative effects for 1 round"
+          },
+          {
+            "id": "40",
+            "buffDesc": "Player characters gain 10 points each time they Block, up to 200 points"
+          },
+          {
+            "id": "41",
+            "buffDesc": "Player characters gain 10 points each time they fully Evade, up to 200 points"
+          },
+          {
+            "id": "42",
+            "buffDesc": "Player characters gain 10 points each time they are hit without being critically struck, up to 200 points"
+          },
+          {
+            "id": "43",
+            "buffDesc": "All enemies' HP and Defense are increased"
+          },
+          {
+            "id": "44",
+            "buffDesc": "[Corrosion] additionally reduces the character's Attack and Accuracy, and increases damage taken"
+          },
+          {
+            "id": "45",
+            "buffDesc": "Each stack of [Corrosion] deducts 1 Soul Orb when the character acts, up to 2 Soul Orbs deducted at a time"
+          },
+          {
+            "id": "46",
+            "buffDesc": "When Blackbeard evades, the source of the attack gains 1 stack of [Corrosion]"
+          },
+          {
+            "id": "47",
+            "buffDesc": "When Blackbeard uses [Dark Heaven, Dark Earth] and hits a character with 5 stacks of [Corrosion], it deals massive damage; defeating the character causes him to use [Dark Heaven, Dark Earth] again, and the number of extra uses can stack"
+          },
+          {
+            "id": "48",
+            "buffDesc": "Each time an allied character is stacked with [Corrosion], Blackbeard gains an equal number of stacks of [Shadow]. If Blackbeard holds 10 or more stacks of [Shadow] after acting, he consumes all stacks of [Shadow] and Stuns all allied characters with [Corrosion] for 1 round"
+          }
+        ]
+      },
+      "TablecampBuff": {
+        "rows": [
+          {
+            "campBuffId": "1",
+            "buffDesc": "2 Whitebeard Pirates: For the first two rounds, restores 1% max HP at the end of the round"
+          },
+          {
+            "campBuffId": "2",
+            "buffDesc": "4 Whitebeard Pirates: Crit Rate is increased by 1%, and damage dealt is increased by 2%"
+          },
+          {
+            "campBuffId": "3",
+            "buffDesc": "2 Whitebeard Pirates: For the first two rounds, restores 2% max HP at the end of the round"
+          },
+          {
+            "campBuffId": "4",
+            "buffDesc": "4 Whitebeard Pirates: Crit Rate is increased by 2%, and damage dealt is increased by 4%"
+          },
+          {
+            "campBuffId": "5",
+            "buffDesc": "2 Whitebeard Pirates: For the first two rounds, restores 3% max HP at the end of the round"
+          },
+          {
+            "campBuffId": "6",
+            "buffDesc": "4 Whitebeard Pirates: Crit Rate is increased by 4%, and damage dealt is increased by 6%"
+          },
+          {
+            "campBuffId": "7",
+            "buffDesc": "2 Whitebeard Pirates: For the first two rounds, restores 4% max HP at the end of the round"
+          },
+          {
+            "campBuffId": "8",
+            "buffDesc": "4 Whitebeard Pirates: Crit Rate is increased by 6%, and damage dealt is increased by 8%"
+          },
+          {
+            "campBuffId": "9",
+            "buffDesc": "2 Whitebeard Pirates: For the first two rounds, restores 5% max HP at the end of the round"
+          },
+          {
+            "campBuffId": "10",
+            "buffDesc": "4 Whitebeard Pirates: Crit Rate is increased by 8%, and damage dealt is increased by 10%"
+          },
+          {
+            "campBuffId": "11",
+            "buffDesc": "2 Seven Warlords: Damage taken is reduced by 2%"
+          },
+          {
+            "campBuffId": "12",
+            "buffDesc": "3 Seven Warlords: Attack and damage dealt are increased by 1%"
+          },
+          {
+            "campBuffId": "13",
+            "buffDesc": "2 Seven Warlords: Damage taken is reduced by 4%"
+          },
+          {
+            "campBuffId": "14",
+            "buffDesc": "3 Seven Warlords: Attack and damage dealt are increased by 2%"
+          },
+          {
+            "campBuffId": "15",
+            "buffDesc": "2 Seven Warlords: Damage taken is reduced by 6%"
+          },
+          {
+            "campBuffId": "16",
+            "buffDesc": "3 Seven Warlords: Attack and damage dealt are increased by 3%"
+          },
+          {
+            "campBuffId": "17",
+            "buffDesc": "2 Seven Warlords: Damage taken is reduced by 8%"
+          },
+          {
+            "campBuffId": "18",
+            "buffDesc": "3 Seven Warlords: Attack and damage dealt are increased by 4%"
+          },
+          {
+            "campBuffId": "19",
+            "buffDesc": "2 Seven Warlords: Damage taken is reduced by 10%"
+          },
+          {
+            "campBuffId": "20",
+            "buffDesc": "3 Seven Warlords: Attack and damage dealt are increased by 5%"
+          },
+          {
+            "campBuffId": "21",
+            "buffDesc": "2 Straw Hat Crew (New World): Generates a shield equal to 2% of max HP in the first round, lasting 2 rounds"
+          },
+          {
+            "campBuffId": "22",
+            "buffDesc": "4 Straw Hat Crew (New World): Attack and Crit Rate are increased by 1%"
+          },
+          {
+            "campBuffId": "23",
+            "buffDesc": "2 Straw Hat Crew (New World): Generates a shield equal to 4% of max HP in the first round, lasting 2 rounds"
+          },
+          {
+            "campBuffId": "24",
+            "buffDesc": "4 Straw Hat Crew (New World): Attack and Crit Rate are increased by 2%"
+          },
+          {
+            "campBuffId": "25",
+            "buffDesc": "2 Straw Hat Crew (New World): Generates a shield equal to 6% of max HP in the first round, lasting 2 rounds"
+          },
+          {
+            "campBuffId": "26",
+            "buffDesc": "4 Straw Hat Crew (New World): Attack and Crit Rate are increased by 3%"
+          },
+          {
+            "campBuffId": "27",
+            "buffDesc": "2 Straw Hat Crew (New World): Generates a shield equal to 8% of max HP in the first round, lasting 2 rounds"
+          },
+          {
+            "campBuffId": "28",
+            "buffDesc": "4 Straw Hat Crew (New World): Attack and Crit Rate are increased by 4%"
+          },
+          {
+            "campBuffId": "29",
+            "buffDesc": "2 Straw Hat Crew (New World): Generates a shield equal to 10% of max HP in the first round, lasting 2 rounds"
+          },
+          {
+            "campBuffId": "30",
+            "buffDesc": "4 Straw Hat Crew (New World): Attack and Crit Rate are increased by 5%"
+          },
+          {
+            "campBuffId": "31",
+            "buffDesc": "3 Supernovas: Crit Rate and Tenacity are increased by 1%, Crit Damage is increased by 4%, and Speed is increased by 2%"
+          },
+          {
+            "campBuffId": "32",
+            "buffDesc": "3 Supernovas: Crit Rate and Tenacity are increased by 2%, Crit Damage is increased by 8%, and Speed is increased by 4%"
+          },
+          {
+            "campBuffId": "33",
+            "buffDesc": "3 Supernovas: Crit Rate and Tenacity are increased by 3%, Crit Damage is increased by 12%, and Speed is increased by 6%"
+          },
+          {
+            "campBuffId": "34",
+            "buffDesc": "3 Supernovas: Crit Rate and Tenacity are increased by 4%, Crit Damage is increased by 16%, and Speed is increased by 8%"
+          },
+          {
+            "campBuffId": "35",
+            "buffDesc": "3 Supernovas: Crit Rate and Tenacity are increased by 5%, Crit Damage is increased by 20%, and Speed is increased by 10%"
+          },
+          {
+            "campBuffId": "36",
+            "buffDesc": "2 Marines: Max HP is increased by 2%"
+          },
+          {
+            "campBuffId": "37",
+            "buffDesc": "4 Marines: Attack is increased by 1%; this effect is doubled when attacking pirates"
+          },
+          {
+            "campBuffId": "38",
+            "buffDesc": "2 Marines: Max HP is increased by 4%"
+          },
+          {
+            "campBuffId": "39",
+            "buffDesc": "4 Marines: Attack is increased by 2%; this effect is doubled when attacking pirates"
+          },
+          {
+            "campBuffId": "40",
+            "buffDesc": "2 Marines: Max HP is increased by 6%"
+          },
+          {
+            "campBuffId": "41",
+            "buffDesc": "4 Marines: Attack is increased by 3%; this effect is doubled when attacking pirates"
+          },
+          {
+            "campBuffId": "42",
+            "buffDesc": "2 Marines: Max HP is increased by 8%"
+          },
+          {
+            "campBuffId": "43",
+            "buffDesc": "4 Marines: Attack is increased by 4%; this effect is doubled when attacking pirates"
+          },
+          {
+            "campBuffId": "44",
+            "buffDesc": "2 Marines: Max HP is increased by 10%"
+          },
+          {
+            "campBuffId": "45",
+            "buffDesc": "4 Marines: Attack is increased by 5%; this effect is doubled when attacking pirates"
+          },
+          {
+            "campBuffId": "46",
+            "buffDesc": "2 Blackbeard Pirates: Enemy overall damage is reduced by 2%"
+          },
+          {
+            "campBuffId": "47",
+            "buffDesc": "2 Blackbeard Pirates: Enemy overall damage is reduced by 4%"
+          },
+          {
+            "campBuffId": "48",
+            "buffDesc": "2 Blackbeard Pirates: Enemy overall damage is reduced by 6%"
+          },
+          {
+            "campBuffId": "49",
+            "buffDesc": "2 Blackbeard Pirates: Enemy overall damage is reduced by 8%"
+          },
+          {
+            "campBuffId": "50",
+            "buffDesc": "2 Blackbeard Pirates: Enemy overall damage is reduced by 10%"
+          },
+          {
+            "campBuffId": "51",
+            "buffDesc": "2 Big Mom Pirates: Tenacity is increased by 2%, and Speed is increased by 1%"
+          },
+          {
+            "campBuffId": "52",
+            "buffDesc": "4 Big Mom Pirates: Attack is increased by 1%, Elemental Damage is increased by 4%, and Speed is increased by 2%"
+          },
+          {
+            "campBuffId": "53",
+            "buffDesc": "2 Big Mom Pirates: Tenacity is increased by 4%, and Speed is increased by 2%"
+          },
+          {
+            "campBuffId": "54",
+            "buffDesc": "4 Big Mom Pirates: Attack is increased by 2%, Elemental Damage is increased by 8%, and Speed is increased by 4%"
+          },
+          {
+            "campBuffId": "55",
+            "buffDesc": "2 Big Mom Pirates: Tenacity is increased by 6%, and Speed is increased by 3%"
+          },
+          {
+            "campBuffId": "56",
+            "buffDesc": "4 Big Mom Pirates: Attack is increased by 4%, Elemental Damage is increased by 12%, and Speed is increased by 6%"
+          },
+          {
+            "campBuffId": "57",
+            "buffDesc": "2 Big Mom Pirates: Tenacity is increased by 8%, and Speed is increased by 4%"
+          },
+          {
+            "campBuffId": "58",
+            "buffDesc": "4 Big Mom Pirates: Attack is increased by 5%, Elemental Damage is increased by 16%, and Speed is increased by 8%"
+          },
+          {
+            "campBuffId": "59",
+            "buffDesc": "2 Big Mom Pirates: Tenacity is increased by 10%, and Speed is increased by 5%"
+          },
+          {
+            "campBuffId": "60",
+            "buffDesc": "4 Big Mom Pirates: Attack is increased by 6%, Elemental Damage is increased by 20%, and Speed is increased by 10%"
+          },
+          {
+            "campBuffId": "61",
+            "buffDesc": "2 Four Emperors: Max HP is increased by 1%, and Elemental Damage taken is reduced by 3%"
+          },
+          {
+            "campBuffId": "62",
+            "buffDesc": "4 Four Emperors: Attack is increased by 1%, and Crit Rate is increased by 1%"
+          },
+          {
+            "campBuffId": "63",
+            "buffDesc": "2 Four Emperors: Max HP is increased by 2%, and Elemental Damage taken is reduced by 6%"
+          },
+          {
+            "campBuffId": "64",
+            "buffDesc": "4 Four Emperors: Attack is increased by 3%, and Crit Rate is increased by 2%"
+          },
+          {
+            "campBuffId": "65",
+            "buffDesc": "2 Four Emperors: Max HP is increased by 3%, and Elemental Damage taken is reduced by 9%"
+          },
+          {
+            "campBuffId": "66",
+            "buffDesc": "4 Four Emperors: Attack is increased by 5%, and Crit Rate is increased by 3%"
+          },
+          {
+            "campBuffId": "67",
+            "buffDesc": "2 Four Emperors: Max HP is increased by 4%, and Elemental Damage taken is reduced by 12%"
+          },
+          {
+            "campBuffId": "68",
+            "buffDesc": "4 Four Emperors: Attack is increased by 7%, and Crit Rate is increased by 4%"
+          },
+          {
+            "campBuffId": "69",
+            "buffDesc": "2 Four Emperors: Max HP is increased by 5%, and Elemental Damage taken is reduced by 15%"
+          },
+          {
+            "campBuffId": "70",
+            "buffDesc": "4 Four Emperors: Attack is increased by 8%, and Crit Rate is increased by 5%"
+          },
+          {
+            "campBuffId": "71",
+            "buffDesc": "2 Swordsmen: Our entire team's Crit Rate and Tenacity are increased by 1%"
+          },
+          {
+            "campBuffId": "72",
+            "buffDesc": "3 Swordsmen: Our entire team's Crit Damage is increased by 2%"
+          },
+          {
+            "campBuffId": "73",
+            "buffDesc": "2 Swordsmen: Our entire team's Crit Rate and Tenacity are increased by 1.5%"
+          },
+          {
+            "campBuffId": "74",
+            "buffDesc": "3 Swordsmen: Our entire team's Crit Damage is increased by 4%"
+          },
+          {
+            "campBuffId": "75",
+            "buffDesc": "2 Swordsmen: Our entire team's Crit Rate and Tenacity are increased by 2%"
+          },
+          {
+            "campBuffId": "76",
+            "buffDesc": "3 Swordsmen: Our entire team's Crit Damage is increased by 6%"
+          },
+          {
+            "campBuffId": "77",
+            "buffDesc": "2 Swordsmen: Our entire team's Crit Rate and Tenacity are increased by 2.5%"
+          },
+          {
+            "campBuffId": "78",
+            "buffDesc": "3 Swordsmen: Our entire team's Crit Damage is increased by 8%"
+          },
+          {
+            "campBuffId": "79",
+            "buffDesc": "2 Swordsmen: Our entire team's Crit Rate and Tenacity are increased by 3%"
+          },
+          {
+            "campBuffId": "80",
+            "buffDesc": "3 Swordsmen: Our entire team's Crit Damage is increased by 10%"
+          },
+          {
+            "campBuffId": "81",
+            "buffDesc": "2 Wano Country: Defense is increased by 4%, and Speed is increased by 1%"
+          },
+          {
+            "campBuffId": "82",
+            "buffDesc": "3 Wano Country: Elemental Damage is increased by 5%, and Speed is increased by 2%"
+          },
+          {
+            "campBuffId": "83",
+            "buffDesc": "2 Wano Country: Defense is increased by 8%, and Speed is increased by 2%"
+          },
+          {
+            "campBuffId": "84",
+            "buffDesc": "3 Wano Country: Elemental Damage is increased by 10%, and Speed is increased by 4%"
+          },
+          {
+            "campBuffId": "85",
+            "buffDesc": "2 Wano Country: Defense is increased by 12%, and Speed is increased by 3%"
+          },
+          {
+            "campBuffId": "86",
+            "buffDesc": "3 Wano Country: Elemental Damage is increased by 20%, and Speed is increased by 6%"
+          },
+          {
+            "campBuffId": "87",
+            "buffDesc": "2 Wano Country: Defense is increased by 16%, and Speed is increased by 4%"
+          },
+          {
+            "campBuffId": "88",
+            "buffDesc": "3 Wano Country: Elemental Damage is increased by 30%, and Speed is increased by 8%"
+          },
+          {
+            "campBuffId": "89",
+            "buffDesc": "2 Wano Country: Defense is increased by 20%, and Speed is increased by 5%"
+          },
+          {
+            "campBuffId": "90",
+            "buffDesc": "3 Wano Country: Elemental Damage is increased by 35%, and Speed is increased by 10%"
+          },
+          {
+            "campBuffId": "91",
+            "buffDesc": "3 Minks: Lightning Elemental Damage is increased by 10%"
+          },
+          {
+            "campBuffId": "92",
+            "buffDesc": "3 Minks: Lightning Elemental Damage is increased by 15%"
+          },
+          {
+            "campBuffId": "93",
+            "buffDesc": "3 Minks: Lightning Elemental Damage is increased by 20%"
+          },
+          {
+            "campBuffId": "94",
+            "buffDesc": "3 Minks: Lightning Elemental Damage is increased by 35%"
+          },
+          {
+            "campBuffId": "95",
+            "buffDesc": "3 Minks: Lightning Elemental Damage is increased by 40%"
+          },
+          {
+            "campBuffId": "96",
+            "buffDesc": "2 Beasts Pirates: Elemental Damage taken is reduced by 4%, and Speed is increased by 2%"
+          },
+          {
+            "campBuffId": "97",
+            "buffDesc": "2 Beasts Pirates: Elemental Damage taken is reduced by 8%, and Speed is increased by 4%"
+          },
+          {
+            "campBuffId": "98",
+            "buffDesc": "2 Beasts Pirates: Elemental Damage taken is reduced by 12%, and Speed is increased by 6%"
+          },
+          {
+            "campBuffId": "99",
+            "buffDesc": "2 Beasts Pirates: Elemental Damage taken is reduced by 16%, and Speed is increased by 8%"
+          },
+          {
+            "campBuffId": "100",
+            "buffDesc": "2 Beasts Pirates: Elemental Damage taken is reduced by 20%, and Speed is increased by 10%"
+          },
+          {
+            "campBuffId": "101",
+            "buffDesc": "3 Three Brothers: Fire Elemental Damage is increased by 10%"
+          },
+          {
+            "campBuffId": "102",
+            "buffDesc": "3 Three Brothers: Fire Elemental Damage is increased by 15%"
+          },
+          {
+            "campBuffId": "103",
+            "buffDesc": "3 Three Brothers: Fire Elemental Damage is increased by 20%"
+          },
+          {
+            "campBuffId": "104",
+            "buffDesc": "3 Three Brothers: Fire Elemental Damage is increased by 35%"
+          },
+          {
+            "campBuffId": "105",
+            "buffDesc": "3 Three Brothers: Fire Elemental Damage is increased by 40%"
+          }
+        ],
+        "other_bundle_rows": [
+          {
+            "campBuffId": "1",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "2",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "3",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "4",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "5",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "6",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "7",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "8",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "9",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "10",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "11",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "12",
+            "buffDesc": "No bonus yet"
+          },
+          {
+            "campBuffId": "13",
+            "buffDesc": "No bonus yet"
+          }
+        ]
+      }
+    }
+  },
+  "glossary_additions": {
+    "玲玲": "Big Mom (Linlin)",
+    "灾祸巨浪": "Calamity Wave",
+    "遗忘": "Oblivion",
+    "极意": "Ultimate Insight",
+    "极意·无": "Ultimate Insight: Void",
+    "霸者之刃": "Ruler's Blade",
+    "龙甲": "Dragon Scale",
+    "防守状态": "Guard Stance",
+    "侵蚀": "Corrosion",
+    "暗影": "Shadow",
+    "黑天暗地": "Dark Heaven, Dark Earth",
+    "剑术": "Swordsmanship",
+    "封技": "Skill Seal",
+    "战国": "Sengoku",
+    "三大将": "Three Admirals",
+    "藤虎": "Fujitora",
+    "香克斯": "Shanks",
+    "老沙": "Old Sand",
+    "斩断": "Slash",
+    "白胡子海盗团": "Whitebeard Pirates",
+    "黑胡子海盗团": "Blackbeard Pirates",
+    "大妈海盗团": "Big Mom Pirates",
+    "四皇": "Four Emperors",
+    "剑士": "Swordsmen",
+    "和之国": "Wano Country",
+    "纯毛族": "Minks",
+    "百兽海盗团": "Beasts Pirates",
+    "三兄弟": "Three Brothers",
+    "草帽一伙(新世界)": "Straw Hat Crew (New World)"
+  },
+  "uncertain_notes": [
+    "TableBuffViewGlobal: buffName '罗—助阵'/'沙鳄鱼—助阵' translated as 'Law - Support'/'Crocodile - Support'; 罗 is the common short form for Trafalgar Law, 沙鳄鱼 ('Sand Crocodile') is Crocodile's nickname.",
+    "TableSeaExploreBuffGroup/TableIslandTrialsBuffGroup: 玲玲 (Big Mom's given name Linlin) translated as 'Big Mom' for recognizability rather than literally 'Linlin', since 'Big Mom' is the established English localization; noted here since the source specifically uses her given name rather than '大妈'.",
+    "TableSeaExploreBuffGroup/TableIslandTrialsBuffGroup: 黑天暗地 (a Blackbeard ultimate move name) translated literally as 'Dark Heaven, Dark Earth'; no confirmed canonical official English name identified for this specific move.",
+    "TableIslandTrialsBuffGroup: 老沙 ('Old Sand') translated literally rather than as 'Crocodile'; strongly implied to be Crocodile ('Sand Crocodile' nickname) given the Wind/Sand-elemental context, but kept as the literal nickname since the source doesn't use his actual name.",
+    "TableIslandTrialsBuffGroup: 封技 translated as 'Skill Seal' (a silence/skill-block effect); exact in-game UI term not confirmable from context alone.",
+    "TablecampBuff other_bundle_rows: all 13 rows contain the placeholder text '暂无加成' ('no bonus yet'), consistent with this being an unfinished/earlier build revision of the feature, translated literally as 'No bonus yet.' rather than inventing real bonus text."
+  ]
+}
