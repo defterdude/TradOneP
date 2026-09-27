@@ -301,7 +301,699 @@
       }
     },
     "ships": {},
-    "missions": {}
+    "missions": {
+      "TableShipGroupTask": {
+        "rows": [
+          {
+            "taskId": "1",
+            "taskTitle": "Daily Login",
+            "taskDesc": "Daily Login"
+          },
+          {
+            "taskId": "2",
+            "taskTitle": "Daily Missions",
+            "taskDesc": "Complete Daily Missions 10 times"
+          },
+          {
+            "taskId": "3",
+            "taskTitle": "Daily Arena",
+            "taskDesc": "Participate in the Arena 10 times"
+          },
+          {
+            "taskId": "4",
+            "taskTitle": "Daily Ranked",
+            "taskDesc": "Participate in Ranked 10 times"
+          },
+          {
+            "taskId": "5",
+            "taskTitle": "Weekly Daily Missions",
+            "taskDesc": "Complete Daily Missions 30 times"
+          },
+          {
+            "taskId": "6",
+            "taskTitle": "Weekly Arena Count",
+            "taskDesc": "Participate in the Arena 50 times"
+          },
+          {
+            "taskId": "7",
+            "taskTitle": "Weekly Ranked",
+            "taskDesc": "Participate in Ranked 50 times"
+          },
+          {
+            "taskId": "8",
+            "taskTitle": "Ranked Points",
+            "taskDesc": "Reach 1600 points in the Peak Arena"
+          },
+          {
+            "taskId": "9",
+            "taskTitle": "Ranked Points",
+            "taskDesc": "Reach 2000 points in the Peak Arena"
+          },
+          {
+            "taskId": "10",
+            "taskTitle": "Ranked Points",
+            "taskDesc": "Reach 2300 points in the Peak Arena"
+          },
+          {
+            "taskId": "11",
+            "taskTitle": "Ranked Wins",
+            "taskDesc": "Win 10 Ranked matches of any type"
+          },
+          {
+            "taskId": "12",
+            "taskTitle": "Ranked Wins",
+            "taskDesc": "Win 30 Ranked matches of any type"
+          },
+          {
+            "taskId": "13",
+            "taskTitle": "Ranked Wins",
+            "taskDesc": "Win 50 Ranked matches of any type"
+          },
+          {
+            "taskId": "14",
+            "taskTitle": "Codex Achievement Points",
+            "taskDesc": "Reach a total Codex Achievement value of 9,000,000"
+          },
+          {
+            "taskId": "15",
+            "taskTitle": "Codex Achievement Points",
+            "taskDesc": "Reach a total Codex Achievement value of 18,000,000"
+          },
+          {
+            "taskId": "16",
+            "taskTitle": "Codex Achievement Points",
+            "taskDesc": "Reach a total Codex Achievement value of 26,000,000"
+          },
+          {
+            "taskId": "17",
+            "taskTitle": "Fleet Personal Points",
+            "taskDesc": "Reach 100 Fleet Personal Points"
+          },
+          {
+            "taskId": "18",
+            "taskTitle": "Fleet Personal Points",
+            "taskDesc": "Reach 400 Fleet Personal Points"
+          },
+          {
+            "taskId": "19",
+            "taskTitle": "Fleet Personal Points",
+            "taskDesc": "Reach 800 Fleet Personal Points"
+          },
+          {
+            "taskId": "20",
+            "taskTitle": "Fleet Personal Points",
+            "taskDesc": "Reach 2000 Fleet Personal Points"
+          },
+          {
+            "taskId": "21",
+            "taskTitle": "Fleet Trial Score",
+            "taskDesc": "Reach a total Fleet Trial score of 94500"
+          },
+          {
+            "taskId": "22",
+            "taskTitle": "Fleet Trial Score",
+            "taskDesc": "Reach a total Fleet Trial score of 157500"
+          },
+          {
+            "taskId": "23",
+            "taskTitle": "Fleet Trial Score",
+            "taskDesc": "Reach a total Fleet Trial score of 315000"
+          },
+          {
+            "taskId": "24",
+            "taskTitle": "Codex Achievement Points",
+            "taskDesc": "Reach a total Codex Achievement value of 8,000,000"
+          },
+          {
+            "taskId": "25",
+            "taskTitle": "Codex Achievement Points",
+            "taskDesc": "Reach a total Codex Achievement value of 11,000,000"
+          },
+          {
+            "taskId": "26",
+            "taskTitle": "Codex Achievement Points",
+            "taskDesc": "Reach a total Codex Achievement value of 16,000,000"
+          }
+        ],
+        "other_bundle_rows": [
+          {
+            "taskId": "1",
+            "taskTitle": "Daily Login",
+            "taskDesc": "Daily Login"
+          },
+          {
+            "taskId": "2",
+            "taskTitle": "Daily Missions",
+            "taskDesc": "Complete Daily Missions 10 times"
+          },
+          {
+            "taskId": "3",
+            "taskTitle": "Daily Arena",
+            "taskDesc": "Participate in the Arena 10 times"
+          },
+          {
+            "taskId": "4",
+            "taskTitle": "Daily Ranked",
+            "taskDesc": "Participate in Ranked 10 times"
+          },
+          {
+            "taskId": "5",
+            "taskTitle": "Weekly Daily Missions",
+            "taskDesc": "Complete Daily Missions 30 times"
+          },
+          {
+            "taskId": "6",
+            "taskTitle": "Weekly Arena Count",
+            "taskDesc": "Participate in the Arena 50 times"
+          },
+          {
+            "taskId": "7",
+            "taskTitle": "Weekly Ranked",
+            "taskDesc": "Participate in Ranked 50 times"
+          },
+          {
+            "taskId": "8",
+            "taskTitle": "Ranked Points",
+            "taskDesc": "Reach 1600 points in the Unrestricted Match"
+          },
+          {
+            "taskId": "9",
+            "taskTitle": "Ranked Points",
+            "taskDesc": "Reach 2000 points in the Unrestricted Match"
+          },
+          {
+            "taskId": "10",
+            "taskTitle": "Ranked Points",
+            "taskDesc": "Reach 2300 points in the Unrestricted Match"
+          },
+          {
+            "taskId": "11",
+            "taskTitle": "Ranked Wins",
+            "taskDesc": "Win 10 Ranked matches of any type"
+          },
+          {
+            "taskId": "12",
+            "taskTitle": "Ranked Wins",
+            "taskDesc": "Win 30 Ranked matches of any type"
+          },
+          {
+            "taskId": "13",
+            "taskTitle": "Ranked Wins",
+            "taskDesc": "Win 50 Ranked matches of any type"
+          },
+          {
+            "taskId": "14",
+            "taskTitle": "Codex Percentage",
+            "taskDesc": "Reach 30% Codex Achievement completion"
+          },
+          {
+            "taskId": "15",
+            "taskTitle": "Codex Percentage",
+            "taskDesc": "Reach 60% Codex Achievement completion"
+          },
+          {
+            "taskId": "16",
+            "taskTitle": "Codex Percentage",
+            "taskDesc": "Reach 100% Codex Achievement completion"
+          },
+          {
+            "taskId": "17",
+            "taskTitle": "Fleet Personal Points",
+            "taskDesc": "Reach 100 Fleet Personal Points"
+          },
+          {
+            "taskId": "18",
+            "taskTitle": "Fleet Personal Points",
+            "taskDesc": "Reach 500 Fleet Personal Points"
+          },
+          {
+            "taskId": "19",
+            "taskTitle": "Fleet Personal Points",
+            "taskDesc": "Reach 800 Fleet Personal Points"
+          },
+          {
+            "taskId": "20",
+            "taskTitle": "Fleet Personal Points",
+            "taskDesc": "Reach 2000 Fleet Personal Points"
+          },
+          {
+            "taskId": "21",
+            "taskTitle": "Fleet Trial Score",
+            "taskDesc": "Reach a total Fleet Trial score of 10500"
+          },
+          {
+            "taskId": "22",
+            "taskTitle": "Fleet Trial Score",
+            "taskDesc": "Reach a total Fleet Trial score of 17500"
+          },
+          {
+            "taskId": "23",
+            "taskTitle": "Fleet Trial Score",
+            "taskDesc": "Reach a total Fleet Trial score of 35000"
+          }
+        ]
+      },
+      "TableShipGroupTaskGroup": {
+        "rows": [
+          {
+            "id": "1",
+            "groupTitle": "Daily Missions"
+          },
+          {
+            "id": "2",
+            "groupTitle": "Weekly Missions"
+          },
+          {
+            "id": "3",
+            "groupTitle": "Event Missions"
+          },
+          {
+            "id": "4",
+            "groupTitle": "Fleet Missions"
+          },
+          {
+            "id": "5",
+            "groupTitle": "Daily Missions"
+          },
+          {
+            "id": "6",
+            "groupTitle": "Weekly Missions"
+          },
+          {
+            "id": "7",
+            "groupTitle": "Event Missions"
+          },
+          {
+            "id": "8",
+            "groupTitle": "Fleet Missions"
+          },
+          {
+            "id": "9",
+            "groupTitle": "Daily Missions"
+          },
+          {
+            "id": "10",
+            "groupTitle": "Weekly Missions"
+          },
+          {
+            "id": "11",
+            "groupTitle": "Event Missions"
+          },
+          {
+            "id": "12",
+            "groupTitle": "Fleet Missions"
+          },
+          {
+            "id": "13",
+            "groupTitle": "Daily Missions"
+          },
+          {
+            "id": "14",
+            "groupTitle": "Weekly Missions"
+          },
+          {
+            "id": "15",
+            "groupTitle": "Event Missions"
+          },
+          {
+            "id": "16",
+            "groupTitle": "Fleet Missions"
+          },
+          {
+            "id": "17",
+            "groupTitle": "Daily Missions"
+          },
+          {
+            "id": "18",
+            "groupTitle": "Weekly Missions"
+          },
+          {
+            "id": "19",
+            "groupTitle": "Event Missions"
+          },
+          {
+            "id": "20",
+            "groupTitle": "Fleet Missions"
+          }
+        ],
+        "other_bundle_rows": [
+          {
+            "id": "1",
+            "groupTitle": "Daily Missions"
+          },
+          {
+            "id": "2",
+            "groupTitle": "Weekly Missions"
+          },
+          {
+            "id": "3",
+            "groupTitle": "Event Missions"
+          },
+          {
+            "id": "4",
+            "groupTitle": "Fleet Missions"
+          },
+          {
+            "id": "5",
+            "groupTitle": "Daily Missions"
+          },
+          {
+            "id": "6",
+            "groupTitle": "Weekly Missions"
+          },
+          {
+            "id": "7",
+            "groupTitle": "Event Missions"
+          },
+          {
+            "id": "8",
+            "groupTitle": "Fleet Missions"
+          },
+          {
+            "id": "9",
+            "groupTitle": "Daily Missions"
+          },
+          {
+            "id": "10",
+            "groupTitle": "Weekly Missions"
+          },
+          {
+            "id": "11",
+            "groupTitle": "Event Missions"
+          },
+          {
+            "id": "12",
+            "groupTitle": "Fleet Missions"
+          },
+          {
+            "id": "13",
+            "groupTitle": "Daily Missions"
+          },
+          {
+            "id": "14",
+            "groupTitle": "Weekly Missions"
+          },
+          {
+            "id": "15",
+            "groupTitle": "Event Missions"
+          },
+          {
+            "id": "16",
+            "groupTitle": "Fleet Missions"
+          }
+        ]
+      },
+      "TableShipGroupTrialBoss": {
+        "rows": [
+          {
+            "bossID": "1",
+            "bossName": "Aokiji"
+          },
+          {
+            "bossID": "2",
+            "bossName": "Ace"
+          },
+          {
+            "bossID": "3",
+            "bossName": "Garp"
+          },
+          {
+            "bossID": "4",
+            "bossName": "Enel"
+          },
+          {
+            "bossID": "5",
+            "bossName": "Kuma"
+          },
+          {
+            "bossID": "6",
+            "bossName": "Blackbeard"
+          },
+          {
+            "bossID": "7",
+            "bossName": "Whitebeard"
+          }
+        ]
+      },
+      "TableShipGroupTrialProp": {
+        "rows": [
+          {
+            "id": "1",
+            "name": "Frost Body",
+            "desc": "The boss has 60% Ice elemental damage reduction"
+          },
+          {
+            "id": "2",
+            "name": "Corrosion",
+            "desc": "After the boss deals damage, it deducts 1 Soul Orb from the target character"
+          },
+          {
+            "id": "3",
+            "name": "Flame Body",
+            "desc": "The boss has 60% Fire elemental damage reduction"
+          },
+          {
+            "id": "4",
+            "name": "Tenacity",
+            "desc": "The boss has higher Tenacity"
+          },
+          {
+            "id": "5",
+            "name": "Elemental Resistance",
+            "desc": "Elemental damage taken is reduced by 70%"
+          },
+          {
+            "id": "6",
+            "name": "Fragile",
+            "desc": "Physical damage taken is increased by 70%"
+          },
+          {
+            "id": "7",
+            "name": "Elemental Disruption",
+            "desc": "Elemental damage taken is increased by 70%"
+          },
+          {
+            "id": "8",
+            "name": "Diamond Body",
+            "desc": "Physical damage taken is reduced by 70%"
+          },
+          {
+            "id": "9",
+            "name": "Gale Body",
+            "desc": "The boss has 60% Wind elemental damage reduction"
+          },
+          {
+            "id": "10",
+            "name": "Suppression",
+            "desc": "After the boss deals damage, there is a chance to reduce the target's Crit Rate for 2 rounds"
+          },
+          {
+            "id": "11",
+            "name": "Darkness",
+            "desc": "Damage taken from single-target skills is reduced"
+          },
+          {
+            "id": "12",
+            "name": "Haki",
+            "desc": "Damage taken from AoE skills is reduced"
+          },
+          {
+            "id": "13",
+            "name": "Finale",
+            "desc": "The boss enters an Enrage state after round 5, greatly increasing its damage"
+          }
+        ],
+        "other_bundle_rows": [
+          {
+            "id": "1",
+            "name": "Frost Body",
+            "desc": "The boss has 20% Ice elemental damage reduction"
+          },
+          {
+            "id": "2",
+            "name": "Corrosion",
+            "desc": "After the boss deals damage, it deducts 1 Soul Orb from the target character"
+          },
+          {
+            "id": "3",
+            "name": "Flame Body",
+            "desc": "The boss has 20% Fire elemental damage reduction"
+          },
+          {
+            "id": "4",
+            "name": "Tenacity",
+            "desc": "The boss has higher Tenacity"
+          },
+          {
+            "id": "5",
+            "name": "Elemental Resistance",
+            "desc": "Elemental damage taken is reduced by 30%"
+          },
+          {
+            "id": "6",
+            "name": "Fragile",
+            "desc": "Physical damage taken is increased by 30%"
+          },
+          {
+            "id": "7",
+            "name": "Elemental Disruption",
+            "desc": "Elemental damage taken is increased by 30%"
+          },
+          {
+            "id": "8",
+            "name": "Diamond Body",
+            "desc": "Physical damage taken is reduced by 30%"
+          },
+          {
+            "id": "9",
+            "name": "Gale Body",
+            "desc": "The boss has 20% Wind elemental damage reduction"
+          },
+          {
+            "id": "10",
+            "name": "Suppression",
+            "desc": "After the boss deals damage, there is a chance to reduce the target's Crit Rate for 2 rounds"
+          },
+          {
+            "id": "11",
+            "name": "Darkness",
+            "desc": "Damage taken from single-target skills is reduced"
+          },
+          {
+            "id": "12",
+            "name": "Haki",
+            "desc": "Damage taken from AoE skills is reduced"
+          },
+          {
+            "id": "13",
+            "name": "Finale",
+            "desc": "The boss enters an Enrage state after round 5, greatly increasing its damage"
+          }
+        ]
+      },
+      "TableShipGroupTrialBuff": {
+        "rows": [
+          {
+            "id": "1",
+            "desc": "Allied characters' Attack is increased by 10%"
+          },
+          {
+            "id": "2",
+            "desc": "Allied characters' Crit Rate is increased by 10%"
+          },
+          {
+            "id": "3",
+            "desc": "Allied characters' Elemental Damage is increased by 30%"
+          },
+          {
+            "id": "4",
+            "desc": "Allied characters' Crit Damage is increased by 100%"
+          },
+          {
+            "id": "5",
+            "desc": "Allied characters' overall damage is increased by 100%"
+          },
+          {
+            "id": "6",
+            "desc": "Allied characters' Crit Rate is increased by 50%, and Crit Damage is increased by 120%"
+          },
+          {
+            "id": "7",
+            "desc": "Each time an allied character lands a critical hit, their Crit Damage increases by 30%, stacking up to 6 times"
+          },
+          {
+            "id": "8",
+            "desc": "Crit Rate for all allied single-target damage skills is increased by 100%"
+          },
+          {
+            "id": "9",
+            "desc": "Allied characters' Crit Rate is increased by 50%, and overall damage is increased by 80%"
+          },
+          {
+            "id": "10",
+            "desc": "Allied characters' overall Elemental Damage is increased by 120%"
+          }
+        ],
+        "other_bundle_rows": [
+          {
+            "id": "1",
+            "desc": "Allied characters' Attack is increased by 10%"
+          },
+          {
+            "id": "2",
+            "desc": "Allied characters' Crit Rate is increased by 10%"
+          },
+          {
+            "id": "3",
+            "desc": "Allied characters' Elemental Damage is increased by 30%"
+          },
+          {
+            "id": "4",
+            "desc": "Allied characters' Crit Damage is increased by 50%"
+          },
+          {
+            "id": "5",
+            "desc": "Allied characters' overall damage is increased by 20%"
+          },
+          {
+            "id": "6",
+            "desc": "Allied characters' Crit Rate is increased by 50%, and Crit Damage is increased by 40%"
+          },
+          {
+            "id": "7",
+            "desc": "Each time an allied character lands a critical hit, their Crit Damage increases by 10%, stacking up to 6 times"
+          },
+          {
+            "id": "8",
+            "desc": "Crit Rate for all allied single-target damage skills is increased by 80%"
+          },
+          {
+            "id": "9",
+            "desc": "Allied characters' Crit Rate is increased by 30%, and overall damage is increased by 30%"
+          },
+          {
+            "id": "10",
+            "desc": "Allied characters' overall Elemental Damage is increased by 60%"
+          }
+        ]
+      },
+      "TableTreasureHuntingGamesTask": {
+        "rows": [
+          {
+            "id": "1",
+            "describe": "Go treasure hunting a cumulative total of 1 time"
+          },
+          {
+            "id": "2",
+            "describe": "Go treasure hunting a cumulative total of 5 times"
+          },
+          {
+            "id": "3",
+            "describe": "Go treasure hunting a cumulative total of 10 times"
+          },
+          {
+            "id": "4",
+            "describe": "Go treasure hunting a cumulative total of 15 times"
+          },
+          {
+            "id": "5",
+            "describe": "Go treasure hunting a cumulative total of 20 times"
+          },
+          {
+            "id": "6",
+            "describe": "Go treasure hunting a cumulative total of 25 times"
+          },
+          {
+            "id": "7",
+            "describe": "Go treasure hunting a cumulative total of 30 times"
+          },
+          {
+            "id": "8",
+            "describe": "Go treasure hunting once without having collected all the map fragments"
+          }
+        ]
+      }
+    }
   },
   "glossary_additions": {
     "公会大厅": "Guild Hall",
@@ -317,9 +1009,32 @@
     "灯塔": "Lighthouse",
     "货运码头": "Cargo Dock",
     "洗练": "Refine / Refinement",
-    "大航海": "Great Voyage"
+    "大航海": "Great Voyage",
+    "天梯": "Ranked",
+    "竞技场": "Arena",
+    "巅峰赛": "Peak Arena",
+    "图鉴": "Codex",
+    "事迹值": "Achievement Points",
+    "船团": "Fleet",
+    "船团任务": "Fleet Missions",
+    "期间任务": "Event Missions",
+    "魂玉": "Soul Orb",
+    "霸气": "Haki",
+    "韧性": "Tenacity",
+    "青雉": "Aokiji",
+    "艾斯": "Ace",
+    "戈普": "Garp",
+    "艾尼路": "Enel",
+    "大熊": "Kuma",
+    "黑胡子": "Blackbeard",
+    "白胡子": "Whitebeard"
   },
   "uncertain_notes": [
-    "TableSeaPortBuildingLev/other_bundle_rows (tabledata_v1.ab): all 25 rows contain the identical generic placeholder text '建筑是一个需要建造的建筑' (literally 'the building is a building that needs to be built'), which looks like unfinished/dev placeholder text rather than real content. Translated literally and consistently as 'A building that needs to be constructed.' rather than inventing real descriptions."
+    "TableSeaPortBuildingLev/other_bundle_rows (tabledata_v1.ab): all 25 rows contain the identical generic placeholder text '建筑是一个需要建造的建筑' (literally 'the building is a building that needs to be built'), which looks like unfinished/dev placeholder text rather than real content. Translated literally and consistently as 'A building that needs to be constructed.' rather than inventing real descriptions.",
+    "TableShipGroupTask/other_bundle_rows ids 8-10 taskDesc: source says '无限制赛达到X分' (tabledata_v1.ab) vs '巅峰赛达到X分' (tabledata.ab) for the same taskTitle '天梯积分'. Translated 无限制赛 literally as 'Unrestricted Match' (as distinct from '巅峰赛'/'Peak Arena') since it's not in the established glossary; could also be a build-revision renaming of the same ranked mode.",
+    "TableShipGroupTaskGroup groupTitle '期间任务': translated as 'Event Missions' (limited-time/seasonal mission group); 'Period Missions' or 'Limited-Time Missions' are plausible alternates.",
+    "TableShipGroupTrialProp id 2 '魂玉': translated as 'Soul Orb' (distinct from 宝石/'Gem' and from 附魂/'Soul-Enchant' in the established glossary) since it doesn't appear in prior glossary entries.",
+    "TableShipGroupTrialProp id 12 '霸气' translated as 'Haki', the established official One Piece localization term for this power, not a generic 'Domineering/Dominance'.",
+    "TableShipGroupTrialBoss bossName '大熊' translated as 'Kuma' (Bartholomew Kuma), matching common One Piece localization naming style used for the other bosses (Ace, Garp, Enel, etc. rather than full titles)."
   ]
 }
