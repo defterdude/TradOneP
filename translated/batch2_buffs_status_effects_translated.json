@@ -1448,6 +1448,1074 @@
             "buffDesc": "No bonus yet"
           }
         ]
+      },
+      "TableUSFBuff": {
+        "rows": [
+          {
+            "buffId": "1010101",
+            "buffDesc": "Going Merry +Attack +Defense"
+          },
+          {
+            "buffId": "1020101",
+            "buffDesc": "Foxy Crit Damage"
+          },
+          {
+            "buffId": "1020201",
+            "buffDesc": "Foxy Self-Destruct"
+          },
+          {
+            "buffId": "1030101",
+            "buffDesc": "Black Cat +Attack"
+          },
+          {
+            "buffId": "1030201",
+            "buffDesc": "Black Cat -Defense"
+          },
+          {
+            "buffId": "1040101",
+            "buffDesc": "Warship +Defense"
+          },
+          {
+            "buffId": "1040201",
+            "buffDesc": "Warship -Attack"
+          },
+          {
+            "buffId": "1050101",
+            "buffDesc": "Duckling Heal"
+          },
+          {
+            "buffId": "1050201",
+            "buffDesc": "Duckling Attribute Reduction"
+          },
+          {
+            "buffId": "1060101",
+            "buffDesc": "Battleship +Physical ATK +Physical DEF"
+          },
+          {
+            "buffId": "1060201",
+            "buffDesc": "Battleship +Special ATK +Special DEF"
+          },
+          {
+            "buffId": "1070101",
+            "buffDesc": "Blackbeard -Healing"
+          },
+          {
+            "buffId": "1070201",
+            "buffDesc": "Blackbeard +Speed"
+          },
+          {
+            "buffId": "1090101",
+            "buffDesc": "Sunny +Attack +Speed"
+          },
+          {
+            "buffId": "1080101",
+            "buffDesc": "Kuja +Attack +Crit Rate"
+          },
+          {
+            "buffId": "1100101",
+            "buffDesc": "Shanks Heal"
+          },
+          {
+            "buffId": "1100201",
+            "buffDesc": "Shanks +Defense"
+          },
+          {
+            "buffId": "1110101",
+            "buffDesc": "Sun +Attack +Defense"
+          },
+          {
+            "buffId": "1110201",
+            "buffDesc": "Sun Crit Damage"
+          },
+          {
+            "buffId": "1110301",
+            "buffDesc": "Sun Self-Destruct"
+          },
+          {
+            "buffId": "1120101",
+            "buffDesc": "Dog Head +Defense"
+          },
+          {
+            "buffId": "1120201",
+            "buffDesc": "Dog Head Turret"
+          },
+          {
+            "buffId": "1120202",
+            "buffDesc": "Dog Head Turret Fire"
+          },
+          {
+            "buffId": "1130101",
+            "buffDesc": "Submarine +Attack +Defense"
+          },
+          {
+            "buffId": "1140101",
+            "buffDesc": "Revolutionary Army Ship"
+          },
+          {
+            "buffId": "1150101",
+            "buffDesc": "Ghost Ship +Attack +Accuracy"
+          },
+          {
+            "buffId": "1150102",
+            "buffDesc": "Ghost Ship Reduces Enemy Accuracy"
+          },
+          {
+            "buffId": "1160101",
+            "buffDesc": "Ace's Ship: Attack, Accuracy, and Elemental Damage +20% while attacking a stronghold"
+          },
+          {
+            "buffId": "1160102",
+            "buffDesc": "Ace's Ship: Attack, Accuracy, and Elemental Damage +20% while defending a stronghold"
+          },
+          {
+            "buffId": "1170101",
+            "buffDesc": "Whitebeard: Attack and Accuracy increased by 20% in naval battles"
+          },
+          {
+            "buffId": "1170102",
+            "buffDesc": "Whitebeard Kill Heal"
+          },
+          {
+            "buffId": "1170103",
+            "buffDesc": "Whitebeard Explosion Damage"
+          },
+          {
+            "buffId": "1170104",
+            "buffDesc": "Whitebeard Death Self-Destruct"
+          },
+          {
+            "buffId": "1180101",
+            "buffDesc": "Attack +25% and Speed +10% at sea"
+          },
+          {
+            "buffId": "1190101",
+            "buffDesc": "Doflamingo's Ship: Attack increased by 20% when engaging in a stronghold"
+          },
+          {
+            "buffId": "1190102",
+            "buffDesc": "Doflamingo's Ship: grants all members a 15% shield in the first round"
+          },
+          {
+            "buffId": "1200101",
+            "buffDesc": "Baratie: AoE damage reduction while docked at a stronghold"
+          },
+          {
+            "buffId": "1200102",
+            "buffDesc": "Baratie Increases Evasion"
+          },
+          {
+            "buffId": "1200103",
+            "buffDesc": "Baratie Stronghold Heal"
+          },
+          {
+            "buffId": "1210101",
+            "buffDesc": "Jewelry Margarita: Crit Rate increased by 10%"
+          },
+          {
+            "buffId": "1210102",
+            "buffDesc": "Jewelry Margarita: reduces enemy Speed by 5% upon death"
+          },
+          {
+            "buffId": "1210103",
+            "buffDesc": "Jewelry Margarita: Damage increased by 5%"
+          },
+          {
+            "buffId": "1220101",
+            "buffDesc": "Malice Wolf: Attack increased by 20% at sea"
+          },
+          {
+            "buffId": "1220102",
+            "buffDesc": "Malice Wolf: Damage reduction increased by 20% at sea"
+          },
+          {
+            "buffId": "1230101",
+            "buffDesc": "Enel: Elemental Resistance increased"
+          },
+          {
+            "buffId": "1230102",
+            "buffDesc": "Enel: Attack increased"
+          },
+          {
+            "buffId": "1230103",
+            "buffDesc": "Enel: Speed increased"
+          },
+          {
+            "buffId": "1230104",
+            "buffDesc": "Enel: Lightning Special Effect"
+          },
+          {
+            "buffId": "1240101",
+            "buffDesc": "Big Mom's Ship: Max HP increased by 10% at sea"
+          },
+          {
+            "buffId": "1240102",
+            "buffDesc": "Big Mom's Ship: Damage increased by 8% at sea"
+          },
+          {
+            "buffId": "1240103",
+            "buffDesc": "Big Mom's Ship: restores 15% HP after defeating an enemy"
+          },
+          {
+            "buffId": "1250101",
+            "buffDesc": "Going Luffy-senpai: Damage Reduction increased by 20% when defending a stronghold"
+          },
+          {
+            "buffId": "1250102",
+            "buffDesc": "Going Luffy-senpai: Speed increased by 6% when defending a stronghold"
+          },
+          {
+            "buffId": "1250103",
+            "buffDesc": "Going Luffy-senpai: Max HP +10% when defending a stronghold"
+          },
+          {
+            "buffId": "1250104",
+            "buffDesc": "Going Luffy-senpai: increases own Defense by 10% after sinking an enemy ship"
+          },
+          {
+            "buffId": "1260101",
+            "buffDesc": "Mihawk's Ship: Elemental Damage increased by 25% in naval battles"
+          },
+          {
+            "buffId": "1260102",
+            "buffDesc": "Mihawk's Ship: Speed increased by 6%"
+          },
+          {
+            "buffId": "1260103",
+            "buffDesc": "Mihawk's Ship: Attack increased by 5% each time an enemy ship is sunk, up to 3 stacks"
+          },
+          {
+            "buffId": "1270101",
+            "buffDesc": "Kid's Ship: Attack increased by 15% at sea"
+          },
+          {
+            "buffId": "1270102",
+            "buffDesc": "Kid's Ship: restores 10% HP on a kill at sea"
+          },
+          {
+            "buffId": "1280101",
+            "buffDesc": "Hanjo Maru: Attack increased by 10% at sea"
+          },
+          {
+            "buffId": "1280102",
+            "buffDesc": "Hanjo Maru: Damage reduction increased by 10% at sea"
+          },
+          {
+            "buffId": "1290101",
+            "buffDesc": "Fleet Attack increased by 30% and Speed increased by 10% at sea"
+          },
+          {
+            "buffId": "1290102",
+            "buffDesc": "Flame Tank: restores 15% HP after defeating an enemy"
+          },
+          {
+            "buffId": "1300101",
+            "buffDesc": "Ace's Small Boat: Attack increased by 10% at sea"
+          },
+          {
+            "buffId": "1300102",
+            "buffDesc": "Ace's Small Boat: Defense increased by 5% at sea"
+          },
+          {
+            "buffId": "1300103",
+            "buffDesc": "Ace's Small Boat: Speed increased by 5% at sea"
+          },
+          {
+            "buffId": "2000101",
+            "buffDesc": "Basic Stronghold"
+          },
+          {
+            "buffId": "2020101",
+            "buffDesc": "Recovery Stronghold - Level 1"
+          },
+          {
+            "buffId": "2020102",
+            "buffDesc": "Recovery Stronghold - Level 2"
+          },
+          {
+            "buffId": "2020103",
+            "buffDesc": "Recovery Stronghold - Level 3"
+          },
+          {
+            "buffId": "2020104",
+            "buffDesc": "Recovery Stronghold - Level 4"
+          },
+          {
+            "buffId": "2020105",
+            "buffDesc": "Recovery Stronghold - Level 5"
+          },
+          {
+            "buffId": "2020106",
+            "buffDesc": "Recovery Stronghold - Level 6"
+          },
+          {
+            "buffId": "2020107",
+            "buffDesc": "Recovery Stronghold - Level 7"
+          },
+          {
+            "buffId": "2020108",
+            "buffDesc": "Recovery Stronghold - Level 8"
+          },
+          {
+            "buffId": "2020109",
+            "buffDesc": "Recovery Stronghold - Level 9"
+          },
+          {
+            "buffId": "2020110",
+            "buffDesc": "Recovery Stronghold - Level 10"
+          },
+          {
+            "buffId": "2030101",
+            "buffDesc": "Buff - Attack"
+          },
+          {
+            "buffId": "2030201",
+            "buffDesc": "Buff - Defense"
+          },
+          {
+            "buffId": "2030301",
+            "buffDesc": "Buff - Speed"
+          },
+          {
+            "buffId": "2030401",
+            "buffDesc": "Buff - Crit Rate"
+          },
+          {
+            "buffId": "2030501",
+            "buffDesc": "Buff - Accuracy"
+          },
+          {
+            "buffId": "2050101",
+            "buffDesc": "Cannon Stronghold - Level 1"
+          },
+          {
+            "buffId": "2050102",
+            "buffDesc": "Cannon Stronghold - Level 2"
+          },
+          {
+            "buffId": "2050103",
+            "buffDesc": "Cannon Stronghold - Level 3"
+          },
+          {
+            "buffId": "2050104",
+            "buffDesc": "Cannon Stronghold - Level 4"
+          },
+          {
+            "buffId": "2050105",
+            "buffDesc": "Cannon Stronghold - Level 5"
+          },
+          {
+            "buffId": "2050106",
+            "buffDesc": "Cannon Stronghold - Level 6"
+          },
+          {
+            "buffId": "2050107",
+            "buffDesc": "Cannon Stronghold - Level 7"
+          },
+          {
+            "buffId": "2050108",
+            "buffDesc": "Cannon Stronghold - Level 8"
+          },
+          {
+            "buffId": "2050109",
+            "buffDesc": "Cannon Stronghold - Level 9"
+          },
+          {
+            "buffId": "2050110",
+            "buffDesc": "Cannon Stronghold - Level 10"
+          },
+          {
+            "buffId": "2060101",
+            "buffDesc": "Fortress Stronghold - Level 1"
+          },
+          {
+            "buffId": "2060102",
+            "buffDesc": "Fortress Stronghold - Level 2"
+          },
+          {
+            "buffId": "2060103",
+            "buffDesc": "Fortress Stronghold - Level 3"
+          },
+          {
+            "buffId": "2060104",
+            "buffDesc": "Fortress Stronghold - Level 4"
+          },
+          {
+            "buffId": "2060105",
+            "buffDesc": "Fortress Stronghold - Level 5"
+          },
+          {
+            "buffId": "2060106",
+            "buffDesc": "Fortress Stronghold - Level 6"
+          },
+          {
+            "buffId": "2060107",
+            "buffDesc": "Fortress Stronghold - Level 7"
+          },
+          {
+            "buffId": "2060108",
+            "buffDesc": "Fortress Stronghold - Level 8"
+          },
+          {
+            "buffId": "2060109",
+            "buffDesc": "Fortress Stronghold - Level 9"
+          },
+          {
+            "buffId": "2060110",
+            "buffDesc": "Fortress Stronghold - Level 10"
+          },
+          {
+            "buffId": "2080101",
+            "buffDesc": "Command Stronghold - Level 1"
+          },
+          {
+            "buffId": "2080102",
+            "buffDesc": "Command Stronghold - Level 2"
+          },
+          {
+            "buffId": "2080103",
+            "buffDesc": "Command Stronghold - Level 3"
+          },
+          {
+            "buffId": "2080104",
+            "buffDesc": "Command Stronghold - Level 4"
+          },
+          {
+            "buffId": "2080105",
+            "buffDesc": "Command Stronghold - Level 5"
+          },
+          {
+            "buffId": "2080106",
+            "buffDesc": "Command Stronghold - Level 6"
+          },
+          {
+            "buffId": "2080107",
+            "buffDesc": "Command Stronghold - Level 7"
+          },
+          {
+            "buffId": "2080108",
+            "buffDesc": "Command Stronghold - Level 8"
+          },
+          {
+            "buffId": "2080109",
+            "buffDesc": "Command Stronghold - Level 9"
+          },
+          {
+            "buffId": "2080110",
+            "buffDesc": "Command Stronghold - Level 10"
+          },
+          {
+            "buffId": "2090110",
+            "buffDesc": "Super Cannon Stronghold"
+          },
+          {
+            "buffId": "3010101",
+            "buffDesc": "This Match: Attack Increase (Tier 1)"
+          },
+          {
+            "buffId": "3010102",
+            "buffDesc": "This Match: Attack Increase (Tier 2)"
+          },
+          {
+            "buffId": "3010103",
+            "buffDesc": "This Match: Attack Increase (Tier 3)"
+          },
+          {
+            "buffId": "3010104",
+            "buffDesc": "This Match: Attack Increase (Tier 4)"
+          },
+          {
+            "buffId": "3010105",
+            "buffDesc": "This Match: Attack Increase (Tier 5)"
+          },
+          {
+            "buffId": "3010201",
+            "buffDesc": "This Match: Defense Increase (Tier 1)"
+          },
+          {
+            "buffId": "3010202",
+            "buffDesc": "This Match: Defense Increase (Tier 2)"
+          },
+          {
+            "buffId": "3010203",
+            "buffDesc": "This Match: Defense Increase (Tier 3)"
+          },
+          {
+            "buffId": "3010204",
+            "buffDesc": "This Match: Defense Increase (Tier 4)"
+          },
+          {
+            "buffId": "3010205",
+            "buffDesc": "This Match: Defense Increase (Tier 5)"
+          },
+          {
+            "buffId": "3010301",
+            "buffDesc": "This Match: Elemental Attack Increase (Tier 1)"
+          },
+          {
+            "buffId": "3010302",
+            "buffDesc": "This Match: Elemental Attack Increase (Tier 2)"
+          },
+          {
+            "buffId": "3010303",
+            "buffDesc": "This Match: Elemental Attack Increase (Tier 3)"
+          },
+          {
+            "buffId": "3010304",
+            "buffDesc": "This Match: Elemental Attack Increase (Tier 4)"
+          },
+          {
+            "buffId": "3010305",
+            "buffDesc": "This Match: Elemental Attack Increase (Tier 5)"
+          },
+          {
+            "buffId": "3010401",
+            "buffDesc": "This Match: Max HP Increase (Tier 1)"
+          },
+          {
+            "buffId": "3010402",
+            "buffDesc": "This Match: Max HP Increase (Tier 2)"
+          },
+          {
+            "buffId": "3010403",
+            "buffDesc": "This Match: Max HP Increase (Tier 3)"
+          },
+          {
+            "buffId": "3010404",
+            "buffDesc": "This Match: Max HP Increase (Tier 4)"
+          },
+          {
+            "buffId": "3010405",
+            "buffDesc": "This Match: Max HP Increase (Tier 5)"
+          },
+          {
+            "buffId": "3010501",
+            "buffDesc": "This Match: Speed Increase (Tier 1)"
+          },
+          {
+            "buffId": "3010502",
+            "buffDesc": "This Match: Speed Increase (Tier 2)"
+          },
+          {
+            "buffId": "3010503",
+            "buffDesc": "This Match: Speed Increase (Tier 3)"
+          },
+          {
+            "buffId": "3010504",
+            "buffDesc": "This Match: Speed Increase (Tier 4)"
+          },
+          {
+            "buffId": "3010505",
+            "buffDesc": "This Match: Speed Increase (Tier 5)"
+          },
+          {
+            "buffId": "3010601",
+            "buffDesc": "This Match: Enemy Attack Decrease (Tier 1)"
+          },
+          {
+            "buffId": "3010602",
+            "buffDesc": "This Match: Enemy Attack Decrease (Tier 2)"
+          },
+          {
+            "buffId": "3010603",
+            "buffDesc": "This Match: Enemy Attack Decrease (Tier 3)"
+          },
+          {
+            "buffId": "3010604",
+            "buffDesc": "This Match: Enemy Attack Decrease (Tier 4)"
+          },
+          {
+            "buffId": "3010605",
+            "buffDesc": "This Match: Enemy Attack Decrease (Tier 5)"
+          },
+          {
+            "buffId": "3010701",
+            "buffDesc": "This Match: Enemy Defense Decrease (Tier 1)"
+          },
+          {
+            "buffId": "3010702",
+            "buffDesc": "This Match: Enemy Defense Decrease (Tier 2)"
+          },
+          {
+            "buffId": "3010703",
+            "buffDesc": "This Match: Enemy Defense Decrease (Tier 3)"
+          },
+          {
+            "buffId": "3010704",
+            "buffDesc": "This Match: Enemy Defense Decrease (Tier 4)"
+          },
+          {
+            "buffId": "3010705",
+            "buffDesc": "This Match: Enemy Defense Decrease (Tier 5)"
+          },
+          {
+            "buffId": "3020101",
+            "buffDesc": "Attacking Stronghold: Attack Increase (Tier 1)"
+          },
+          {
+            "buffId": "3020102",
+            "buffDesc": "Attacking Stronghold: Attack Increase (Tier 2)"
+          },
+          {
+            "buffId": "3020103",
+            "buffDesc": "Attacking Stronghold: Attack Increase (Tier 3)"
+          },
+          {
+            "buffId": "3020104",
+            "buffDesc": "Attacking Stronghold: Attack Increase (Tier 4)"
+          },
+          {
+            "buffId": "3020105",
+            "buffDesc": "Attacking Stronghold: Attack Increase (Tier 5)"
+          },
+          {
+            "buffId": "3020201",
+            "buffDesc": "Attacking Stronghold: Defense Increase (Tier 1)"
+          },
+          {
+            "buffId": "3020202",
+            "buffDesc": "Attacking Stronghold: Defense Increase (Tier 2)"
+          },
+          {
+            "buffId": "3020203",
+            "buffDesc": "Attacking Stronghold: Defense Increase (Tier 3)"
+          },
+          {
+            "buffId": "3020204",
+            "buffDesc": "Attacking Stronghold: Defense Increase (Tier 4)"
+          },
+          {
+            "buffId": "3020205",
+            "buffDesc": "Attacking Stronghold: Defense Increase (Tier 5)"
+          },
+          {
+            "buffId": "3020301",
+            "buffDesc": "Attacking Stronghold: Elemental Attack Increase (Tier 1)"
+          },
+          {
+            "buffId": "3020302",
+            "buffDesc": "Attacking Stronghold: Elemental Attack Increase (Tier 2)"
+          },
+          {
+            "buffId": "3020303",
+            "buffDesc": "Attacking Stronghold: Elemental Attack Increase (Tier 3)"
+          },
+          {
+            "buffId": "3020304",
+            "buffDesc": "Attacking Stronghold: Elemental Attack Increase (Tier 4)"
+          },
+          {
+            "buffId": "3020305",
+            "buffDesc": "Attacking Stronghold: Elemental Attack Increase (Tier 5)"
+          },
+          {
+            "buffId": "3020401",
+            "buffDesc": "Attacking Stronghold: Max HP Increase (Tier 1)"
+          },
+          {
+            "buffId": "3020402",
+            "buffDesc": "Attacking Stronghold: Max HP Increase (Tier 2)"
+          },
+          {
+            "buffId": "3020403",
+            "buffDesc": "Attacking Stronghold: Max HP Increase (Tier 3)"
+          },
+          {
+            "buffId": "3020404",
+            "buffDesc": "Attacking Stronghold: Max HP Increase (Tier 4)"
+          },
+          {
+            "buffId": "3020405",
+            "buffDesc": "Attacking Stronghold: Max HP Increase (Tier 5)"
+          },
+          {
+            "buffId": "3020501",
+            "buffDesc": "Attacking Stronghold: Speed Increase (Tier 1)"
+          },
+          {
+            "buffId": "3020502",
+            "buffDesc": "Attacking Stronghold: Speed Increase (Tier 2)"
+          },
+          {
+            "buffId": "3020503",
+            "buffDesc": "Attacking Stronghold: Speed Increase (Tier 3)"
+          },
+          {
+            "buffId": "3020504",
+            "buffDesc": "Attacking Stronghold: Speed Increase (Tier 4)"
+          },
+          {
+            "buffId": "3020505",
+            "buffDesc": "Attacking Stronghold: Speed Increase (Tier 5)"
+          },
+          {
+            "buffId": "3020601",
+            "buffDesc": "Attacking Stronghold: Enemy Attack Decrease (Tier 1)"
+          },
+          {
+            "buffId": "3020602",
+            "buffDesc": "Attacking Stronghold: Enemy Attack Decrease (Tier 2)"
+          },
+          {
+            "buffId": "3020603",
+            "buffDesc": "Attacking Stronghold: Enemy Attack Decrease (Tier 3)"
+          },
+          {
+            "buffId": "3020604",
+            "buffDesc": "Attacking Stronghold: Enemy Attack Decrease (Tier 4)"
+          },
+          {
+            "buffId": "3020605",
+            "buffDesc": "Attacking Stronghold: Enemy Attack Decrease (Tier 5)"
+          },
+          {
+            "buffId": "3020701",
+            "buffDesc": "Attacking Stronghold: Enemy Defense Decrease (Tier 1)"
+          },
+          {
+            "buffId": "3020702",
+            "buffDesc": "Attacking Stronghold: Enemy Defense Decrease (Tier 2)"
+          },
+          {
+            "buffId": "3020703",
+            "buffDesc": "Attacking Stronghold: Enemy Defense Decrease (Tier 3)"
+          },
+          {
+            "buffId": "3020704",
+            "buffDesc": "Attacking Stronghold: Enemy Defense Decrease (Tier 4)"
+          },
+          {
+            "buffId": "3020705",
+            "buffDesc": "Attacking Stronghold: Enemy Defense Decrease (Tier 5)"
+          },
+          {
+            "buffId": "3030101",
+            "buffDesc": "Defending Stronghold: Attack Increase (Tier 1)"
+          },
+          {
+            "buffId": "3030102",
+            "buffDesc": "Defending Stronghold: Attack Increase (Tier 2)"
+          },
+          {
+            "buffId": "3030103",
+            "buffDesc": "Defending Stronghold: Attack Increase (Tier 3)"
+          },
+          {
+            "buffId": "3030104",
+            "buffDesc": "Defending Stronghold: Attack Increase (Tier 4)"
+          },
+          {
+            "buffId": "3030105",
+            "buffDesc": "Defending Stronghold: Attack Increase (Tier 5)"
+          },
+          {
+            "buffId": "3030201",
+            "buffDesc": "Defending Stronghold: Defense Increase (Tier 1)"
+          },
+          {
+            "buffId": "3030202",
+            "buffDesc": "Defending Stronghold: Defense Increase (Tier 2)"
+          },
+          {
+            "buffId": "3030203",
+            "buffDesc": "Defending Stronghold: Defense Increase (Tier 3)"
+          },
+          {
+            "buffId": "3030204",
+            "buffDesc": "Defending Stronghold: Defense Increase (Tier 4)"
+          },
+          {
+            "buffId": "3030205",
+            "buffDesc": "Defending Stronghold: Defense Increase (Tier 5)"
+          },
+          {
+            "buffId": "3030301",
+            "buffDesc": "Defending Stronghold: Elemental Attack Increase (Tier 1)"
+          },
+          {
+            "buffId": "3030302",
+            "buffDesc": "Defending Stronghold: Elemental Attack Increase (Tier 2)"
+          },
+          {
+            "buffId": "3030303",
+            "buffDesc": "Defending Stronghold: Elemental Attack Increase (Tier 3)"
+          },
+          {
+            "buffId": "3030304",
+            "buffDesc": "Defending Stronghold: Elemental Attack Increase (Tier 4)"
+          },
+          {
+            "buffId": "3030305",
+            "buffDesc": "Defending Stronghold: Elemental Attack Increase (Tier 5)"
+          },
+          {
+            "buffId": "3030401",
+            "buffDesc": "Defending Stronghold: Max HP Increase (Tier 1)"
+          },
+          {
+            "buffId": "3030402",
+            "buffDesc": "Defending Stronghold: Max HP Increase (Tier 2)"
+          },
+          {
+            "buffId": "3030403",
+            "buffDesc": "Defending Stronghold: Max HP Increase (Tier 3)"
+          },
+          {
+            "buffId": "3030404",
+            "buffDesc": "Defending Stronghold: Max HP Increase (Tier 4)"
+          },
+          {
+            "buffId": "3030405",
+            "buffDesc": "Defending Stronghold: Max HP Increase (Tier 5)"
+          },
+          {
+            "buffId": "3030501",
+            "buffDesc": "Defending Stronghold: Speed Increase (Tier 1)"
+          },
+          {
+            "buffId": "3030502",
+            "buffDesc": "Defending Stronghold: Speed Increase (Tier 2)"
+          },
+          {
+            "buffId": "3030503",
+            "buffDesc": "Defending Stronghold: Speed Increase (Tier 3)"
+          },
+          {
+            "buffId": "3030504",
+            "buffDesc": "Defending Stronghold: Speed Increase (Tier 4)"
+          },
+          {
+            "buffId": "3030505",
+            "buffDesc": "Defending Stronghold: Speed Increase (Tier 5)"
+          },
+          {
+            "buffId": "3030601",
+            "buffDesc": "Defending Stronghold: Enemy Attack Decrease (Tier 1)"
+          },
+          {
+            "buffId": "3030602",
+            "buffDesc": "Defending Stronghold: Enemy Attack Decrease (Tier 2)"
+          },
+          {
+            "buffId": "3030603",
+            "buffDesc": "Defending Stronghold: Enemy Attack Decrease (Tier 3)"
+          },
+          {
+            "buffId": "3030604",
+            "buffDesc": "Defending Stronghold: Enemy Attack Decrease (Tier 4)"
+          },
+          {
+            "buffId": "3030605",
+            "buffDesc": "Defending Stronghold: Enemy Attack Decrease (Tier 5)"
+          },
+          {
+            "buffId": "3030701",
+            "buffDesc": "Defending Stronghold: Enemy Defense Decrease (Tier 1)"
+          },
+          {
+            "buffId": "3030702",
+            "buffDesc": "Defending Stronghold: Enemy Defense Decrease (Tier 2)"
+          },
+          {
+            "buffId": "3030703",
+            "buffDesc": "Defending Stronghold: Enemy Defense Decrease (Tier 3)"
+          },
+          {
+            "buffId": "3030704",
+            "buffDesc": "Defending Stronghold: Enemy Defense Decrease (Tier 4)"
+          },
+          {
+            "buffId": "3030705",
+            "buffDesc": "Defending Stronghold: Enemy Defense Decrease (Tier 5)"
+          },
+          {
+            "buffId": "3040101",
+            "buffDesc": "On the Sea Route: Attack Increase (Tier 1)"
+          },
+          {
+            "buffId": "3040102",
+            "buffDesc": "On the Sea Route: Attack Increase (Tier 2)"
+          },
+          {
+            "buffId": "3040103",
+            "buffDesc": "On the Sea Route: Attack Increase (Tier 3)"
+          },
+          {
+            "buffId": "3040104",
+            "buffDesc": "On the Sea Route: Attack Increase (Tier 4)"
+          },
+          {
+            "buffId": "3040105",
+            "buffDesc": "On the Sea Route: Attack Increase (Tier 5)"
+          },
+          {
+            "buffId": "3040201",
+            "buffDesc": "On the Sea Route: Defense Increase (Tier 1)"
+          },
+          {
+            "buffId": "3040202",
+            "buffDesc": "On the Sea Route: Defense Increase (Tier 2)"
+          },
+          {
+            "buffId": "3040203",
+            "buffDesc": "On the Sea Route: Defense Increase (Tier 3)"
+          },
+          {
+            "buffId": "3040204",
+            "buffDesc": "On the Sea Route: Defense Increase (Tier 4)"
+          },
+          {
+            "buffId": "3040205",
+            "buffDesc": "On the Sea Route: Defense Increase (Tier 5)"
+          },
+          {
+            "buffId": "3040301",
+            "buffDesc": "On the Sea Route: Elemental Attack Increase (Tier 1)"
+          },
+          {
+            "buffId": "3040302",
+            "buffDesc": "On the Sea Route: Elemental Attack Increase (Tier 2)"
+          },
+          {
+            "buffId": "3040303",
+            "buffDesc": "On the Sea Route: Elemental Attack Increase (Tier 3)"
+          },
+          {
+            "buffId": "3040304",
+            "buffDesc": "On the Sea Route: Elemental Attack Increase (Tier 4)"
+          },
+          {
+            "buffId": "3040305",
+            "buffDesc": "On the Sea Route: Elemental Attack Increase (Tier 5)"
+          },
+          {
+            "buffId": "3040401",
+            "buffDesc": "On the Sea Route: Max HP Increase (Tier 1)"
+          },
+          {
+            "buffId": "3040402",
+            "buffDesc": "On the Sea Route: Max HP Increase (Tier 2)"
+          },
+          {
+            "buffId": "3040403",
+            "buffDesc": "On the Sea Route: Max HP Increase (Tier 3)"
+          },
+          {
+            "buffId": "3040404",
+            "buffDesc": "On the Sea Route: Max HP Increase (Tier 4)"
+          },
+          {
+            "buffId": "3040405",
+            "buffDesc": "On the Sea Route: Max HP Increase (Tier 5)"
+          },
+          {
+            "buffId": "3040501",
+            "buffDesc": "On the Sea Route: Speed Increase (Tier 1)"
+          },
+          {
+            "buffId": "3040502",
+            "buffDesc": "On the Sea Route: Speed Increase (Tier 2)"
+          },
+          {
+            "buffId": "3040503",
+            "buffDesc": "On the Sea Route: Speed Increase (Tier 3)"
+          },
+          {
+            "buffId": "3040504",
+            "buffDesc": "On the Sea Route: Speed Increase (Tier 4)"
+          },
+          {
+            "buffId": "3040505",
+            "buffDesc": "On the Sea Route: Speed Increase (Tier 5)"
+          },
+          {
+            "buffId": "3040601",
+            "buffDesc": "On the Sea Route: Enemy Attack Decrease (Tier 1)"
+          },
+          {
+            "buffId": "3040602",
+            "buffDesc": "On the Sea Route: Enemy Attack Decrease (Tier 2)"
+          },
+          {
+            "buffId": "3040603",
+            "buffDesc": "On the Sea Route: Enemy Attack Decrease (Tier 3)"
+          },
+          {
+            "buffId": "3040604",
+            "buffDesc": "On the Sea Route: Enemy Attack Decrease (Tier 4)"
+          },
+          {
+            "buffId": "3040605",
+            "buffDesc": "On the Sea Route: Enemy Attack Decrease (Tier 5)"
+          },
+          {
+            "buffId": "3040701",
+            "buffDesc": "On the Sea Route: Enemy Defense Decrease (Tier 1)"
+          },
+          {
+            "buffId": "3040702",
+            "buffDesc": "On the Sea Route: Enemy Defense Decrease (Tier 2)"
+          },
+          {
+            "buffId": "3040703",
+            "buffDesc": "On the Sea Route: Enemy Defense Decrease (Tier 3)"
+          },
+          {
+            "buffId": "3040704",
+            "buffDesc": "On the Sea Route: Enemy Defense Decrease (Tier 4)"
+          },
+          {
+            "buffId": "3040705",
+            "buffDesc": "On the Sea Route: Enemy Defense Decrease (Tier 5)"
+          },
+          {
+            "buffId": "4000001",
+            "buffDesc": "Anti-Stealth"
+          },
+          {
+            "buffId": "4000002",
+            "buffDesc": "Submarine +Attack +Defense (Zongheng Enhanced Version)"
+          },
+          {
+            "buffId": "4000003",
+            "buffDesc": "Shield (Anti-Self-Destruct)"
+          },
+          {
+            "buffId": "4000004",
+            "buffDesc": "Shield Special Effect"
+          },
+          {
+            "buffId": "4000005",
+            "buffDesc": "Anti-Stealth Special Effect"
+          },
+          {
+            "buffId": "4000006",
+            "buffDesc": "Enel: Attack increased (Zongheng Enhanced Version)"
+          },
+          {
+            "buffId": "4000007",
+            "buffDesc": "Enel: Attack increased (Zongheng Enhanced Version)"
+          },
+          {
+            "buffId": "4000008",
+            "buffDesc": "Malice Wolf: Attack increased by 20% at sea"
+          },
+          {
+            "buffId": "4000009",
+            "buffDesc": "Malice Wolf: Damage reduction increased by 20% at sea"
+          },
+          {
+            "buffId": "4000010",
+            "buffDesc": "Ace's Small Boat: Attack increased by 20% at sea"
+          },
+          {
+            "buffId": "4000011",
+            "buffDesc": "Ace's Small Boat: Defense increased by 10% at sea"
+          },
+          {
+            "buffId": "4000012",
+            "buffDesc": "Ace's Small Boat: Speed increased by 10% at sea"
+          }
+        ]
       }
     }
   },
@@ -1480,7 +2548,14 @@
     "纯毛族": "Minks",
     "百兽海盗团": "Beasts Pirates",
     "三兄弟": "Three Brothers",
-    "草帽一伙(新世界)": "Straw Hat Crew (New World)"
+    "草帽一伙(新世界)": "Straw Hat Crew (New World)",
+    "革命军": "Revolutionary Army",
+    "基德": "Kid",
+    "普攻": "Physical ATK",
+    "普防": "Physical DEF",
+    "特攻": "Special ATK",
+    "特防": "Special DEF",
+    "反隐": "Anti-Stealth"
   },
   "uncertain_notes": [
     "TableBuffViewGlobal: buffName '罗—助阵'/'沙鳄鱼—助阵' translated as 'Law - Support'/'Crocodile - Support'; 罗 is the common short form for Trafalgar Law, 沙鳄鱼 ('Sand Crocodile') is Crocodile's nickname.",
@@ -1488,6 +2563,10 @@
     "TableSeaExploreBuffGroup/TableIslandTrialsBuffGroup: 黑天暗地 (a Blackbeard ultimate move name) translated literally as 'Dark Heaven, Dark Earth'; no confirmed canonical official English name identified for this specific move.",
     "TableIslandTrialsBuffGroup: 老沙 ('Old Sand') translated literally rather than as 'Crocodile'; strongly implied to be Crocodile ('Sand Crocodile' nickname) given the Wind/Sand-elemental context, but kept as the literal nickname since the source doesn't use his actual name.",
     "TableIslandTrialsBuffGroup: 封技 translated as 'Skill Seal' (a silence/skill-block effect); exact in-game UI term not confirmable from context alone.",
-    "TablecampBuff other_bundle_rows: all 13 rows contain the placeholder text '暂无加成' ('no bonus yet'), consistent with this being an unfinished/earlier build revision of the feature, translated literally as 'No bonus yet.' rather than inventing real bonus text."
+    "TablecampBuff other_bundle_rows: all 13 rows contain the placeholder text '暂无加成' ('no bonus yet'), consistent with this being an unfinished/earlier build revision of the feature, translated literally as 'No bonus yet.' rather than inventing real bonus text.",
+    "TableUSFBuff: '纵横强化版' (ids 4000006/4000007/4000002) translated literally/transliterated as '(Zongheng Enhanced Version)'; 纵横 likely names a specific game mode or event ('conquest'/'unrivaled at sea' is the idiomatic sense) but no confirmed in-game English name was available to translate it by.",
+    "TableUSFBuff: several ship buffs use a character's name/epithet as shorthand for their associated ship (matching the pattern already seen in TableGvoShip/TableHideTreasureShipPool), e.g. '红发' ('Red-Hair') rendered as 'Shanks' for clarity (referring to his ship, Red Force), '白胡子'/'黑胡子' rendered as 'Whitebeard'/'Blackbeard'.",
+    "TableUSFBuff id 1280102 '般城丸海上防御减免10%': '防御减免' translated as 'Damage reduction increased by 10%' (an incoming-damage-reduction stat), by analogy with the parallel '海上伤害减免' phrasing used elsewhere in this table, rather than literally 'Defense reduced'.",
+    "TableUSFBuff ids 3xxxxxx (This Match / Attacking Stronghold / Defending Stronghold / On the Sea Route tiered buffs): the trailing digit (1-5) is a bare number in the source with no unit ('加攻击1' etc.), rendered as '(Tier N)' since these read as internal buff-tier labels rather than full player-facing tooltip sentences."
   ]
 }
