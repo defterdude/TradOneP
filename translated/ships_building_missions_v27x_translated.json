@@ -1,0 +1,325 @@
+{
+  "tables": {
+    "building": {
+      "TableUnionBuilding": {
+        "rows": [
+          {
+            "buildingType": "1",
+            "buildingName": "Guild Hall"
+          },
+          {
+            "buildingType": "2",
+            "buildingName": "Guild Store"
+          },
+          {
+            "buildingType": "3",
+            "buildingName": "Guild Warehouse"
+          },
+          {
+            "buildingType": "4",
+            "buildingName": "Banquet Plaza"
+          },
+          {
+            "buildingType": "5",
+            "buildingName": "Guild Training Ground"
+          },
+          {
+            "buildingType": "6",
+            "buildingName": "Dock"
+          },
+          {
+            "buildingType": "7",
+            "buildingName": "Command Center"
+          },
+          {
+            "buildingType": "8",
+            "buildingName": "Guild Merchant Ship"
+          }
+        ]
+      },
+      "TableSeaPortBuilding": {
+        "rows": [
+          {
+            "buildingType": "1",
+            "buildingName": "Command Post",
+            "desc": "The command center of the Seaport."
+          },
+          {
+            "buildingType": "2",
+            "buildingName": "Port Authority",
+            "desc": "Warships docked here have their Great Voyage skills take effect."
+          },
+          {
+            "buildingType": "3",
+            "buildingName": "Coastal Battery",
+            "desc": "A building used to modify strategies that <color=#d14e0d>take effect in battle</color>."
+          },
+          {
+            "buildingType": "4",
+            "buildingName": "Lighthouse",
+            "desc": "A building used to modify strategies executed in naval battles."
+          },
+          {
+            "buildingType": "5",
+            "buildingName": "Cargo Dock",
+            "desc": "A building used to dispatch warships to gather Great Voyage materials."
+          }
+        ],
+        "other_bundle_rows": [
+          {
+            "buildingType": "1",
+            "buildingName": "Command Post",
+            "desc": "The main building of the Seaport."
+          },
+          {
+            "buildingType": "2",
+            "buildingName": "Port Authority",
+            "desc": "A Seaport building where warships can dock to gain Great Voyage Refinement effects."
+          },
+          {
+            "buildingType": "3",
+            "buildingName": "Coastal Battery",
+            "desc": "A Seaport building that can Refine the 0-round mechanic, allowing you to modify strategies."
+          },
+          {
+            "buildingType": "4",
+            "buildingName": "Lighthouse",
+            "desc": "A Seaport building that can Refine naval battle skill boosts, allowing you to modify strategies."
+          },
+          {
+            "buildingType": "5",
+            "buildingName": "Cargo Dock",
+            "desc": "A Seaport building where warships can dock and be dispatched to gather Great Voyage materials."
+          }
+        ]
+      },
+      "TableSeaPortBuildingLev": {
+        "rows": [
+          {
+            "id": "101",
+            "buildingDesc": "The core building of the Seaport. Construction and resource allocation for all other Seaport buildings must be planned and coordinated here. Prioritize upgrading the Seaport Command Post before upgrading other facilities."
+          },
+          {
+            "id": "102",
+            "buildingDesc": "The core building of the Seaport. Construction and resource allocation for all other Seaport buildings must be planned and coordinated here. Prioritize upgrading the Seaport Command Post before upgrading other facilities."
+          },
+          {
+            "id": "103",
+            "buildingDesc": "The core building of the Seaport. Construction and resource allocation for all other Seaport buildings must be planned and coordinated here. Prioritize upgrading the Seaport Command Post before upgrading other facilities."
+          },
+          {
+            "id": "104",
+            "buildingDesc": "The core building of the Seaport. Construction and resource allocation for all other Seaport buildings must be planned and coordinated here. Prioritize upgrading the Seaport Command Post before upgrading other facilities."
+          },
+          {
+            "id": "105",
+            "buildingDesc": "The core building of the Seaport. Construction and resource allocation for all other Seaport buildings must be planned and coordinated here. Prioritize upgrading the Seaport Command Post before upgrading other facilities."
+          },
+          {
+            "id": "201",
+            "buildingDesc": "A building that coordinates warship docking and garrisoning. Warships docked here have their Great Voyage Refinement effects take effect."
+          },
+          {
+            "id": "202",
+            "buildingDesc": "A building that coordinates warship docking and garrisoning. Warships docked here have their Great Voyage Refinement effects take effect."
+          },
+          {
+            "id": "203",
+            "buildingDesc": "A building that coordinates warship docking and garrisoning. Warships docked here have their Great Voyage Refinement effects take effect."
+          },
+          {
+            "id": "204",
+            "buildingDesc": "A building that coordinates warship docking and garrisoning. Warships docked here have their Great Voyage Refinement effects take effect."
+          },
+          {
+            "id": "205",
+            "buildingDesc": "A building that coordinates warship docking and garrisoning. Warships docked here have their Great Voyage Refinement effects take effect."
+          },
+          {
+            "id": "301",
+            "buildingDesc": "This massive, heavy-caliber mortar is enough to deter any enemy who covets the Seaport's wealth. Many captains also gather nearby to exchange tactics and customize battle strategies. Note: strategy effects only take effect <color=#d14e0d>in battle</color> and will not appear on the <color=#d14e0d>character screen</color>."
+          },
+          {
+            "id": "302",
+            "buildingDesc": "This massive, heavy-caliber mortar is enough to deter any enemy who covets the Seaport's wealth. Many captains also gather nearby to exchange tactics and customize battle strategies. Note: strategy effects only take effect <color=#d14e0d>in battle</color> and will not appear on the <color=#d14e0d>character screen</color>."
+          },
+          {
+            "id": "303",
+            "buildingDesc": "This massive, heavy-caliber mortar is enough to deter any enemy who covets the Seaport's wealth. Many captains also gather nearby to exchange tactics and customize battle strategies. Note: strategy effects only take effect <color=#d14e0d>in battle</color> and will not appear on the <color=#d14e0d>character screen</color>."
+          },
+          {
+            "id": "304",
+            "buildingDesc": "This massive, heavy-caliber mortar is enough to deter any enemy who covets the Seaport's wealth. Many captains also gather nearby to exchange tactics and customize battle strategies. Note: strategy effects only take effect <color=#d14e0d>in battle</color> and will not appear on the <color=#d14e0d>character screen</color>."
+          },
+          {
+            "id": "305",
+            "buildingDesc": "This massive, heavy-caliber mortar is enough to deter any enemy who covets the Seaport's wealth. Many captains also gather nearby to exchange tactics and customize battle strategies. Note: strategy effects only take effect <color=#d14e0d>in battle</color> and will not appear on the <color=#d14e0d>character screen</color>."
+          },
+          {
+            "id": "401",
+            "buildingDesc": "A lighthouse that guides warships. Many nautical charts and naval battle tactics are also kept here, where captains can obtain and modify naval battle buff effects."
+          },
+          {
+            "id": "402",
+            "buildingDesc": "A lighthouse that guides warships. Many nautical charts and naval battle tactics are also kept here, where captains can obtain and modify naval battle buff effects."
+          },
+          {
+            "id": "403",
+            "buildingDesc": "A lighthouse that guides warships. Many nautical charts and naval battle tactics are also kept here, where captains can obtain and modify naval battle buff effects."
+          },
+          {
+            "id": "404",
+            "buildingDesc": "A lighthouse that guides warships. Many nautical charts and naval battle tactics are also kept here, where captains can obtain and modify naval battle buff effects."
+          },
+          {
+            "id": "405",
+            "buildingDesc": "A lighthouse that guides warships. Many nautical charts and naval battle tactics are also kept here, where captains can obtain and modify naval battle buff effects."
+          },
+          {
+            "id": "501",
+            "buildingDesc": "The busiest place in the entire port. Captains can accept missions here and dispatch ships to sea, then simply wait for their warships to return laden with goods."
+          },
+          {
+            "id": "502",
+            "buildingDesc": "The busiest place in the entire port. Captains can accept missions here and dispatch ships to sea, then simply wait for their warships to return laden with goods."
+          },
+          {
+            "id": "503",
+            "buildingDesc": "The busiest place in the entire port. Captains can accept missions here and dispatch ships to sea, then simply wait for their warships to return laden with goods."
+          },
+          {
+            "id": "504",
+            "buildingDesc": "The busiest place in the entire port. Captains can accept missions here and dispatch ships to sea, then simply wait for their warships to return laden with goods."
+          },
+          {
+            "id": "505",
+            "buildingDesc": "The busiest place in the entire port. Captains can accept missions here and dispatch ships to sea, then simply wait for their warships to return laden with goods."
+          }
+        ],
+        "other_bundle_rows": [
+          {
+            "id": "101",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "102",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "103",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "104",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "105",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "201",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "202",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "203",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "204",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "205",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "301",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "302",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "303",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "304",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "305",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "401",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "402",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "403",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "404",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "405",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "501",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "502",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "503",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "504",
+            "buildingDesc": "A building that needs to be constructed."
+          },
+          {
+            "id": "505",
+            "buildingDesc": "A building that needs to be constructed."
+          }
+        ]
+      }
+    },
+    "ships": {},
+    "missions": {}
+  },
+  "glossary_additions": {
+    "公会大厅": "Guild Hall",
+    "公会商店": "Guild Store",
+    "公会仓库": "Guild Warehouse",
+    "宴会广场": "Banquet Plaza",
+    "公会训练场": "Guild Training Ground",
+    "公会商船": "Guild Merchant Ship",
+    "海港": "Seaport",
+    "指挥部": "Command Post",
+    "港务局": "Port Authority",
+    "岸防炮": "Coastal Battery",
+    "灯塔": "Lighthouse",
+    "货运码头": "Cargo Dock",
+    "洗练": "Refine / Refinement",
+    "大航海": "Great Voyage"
+  },
+  "uncertain_notes": [
+    "TableSeaPortBuildingLev/other_bundle_rows (tabledata_v1.ab): all 25 rows contain the identical generic placeholder text '建筑是一个需要建造的建筑' (literally 'the building is a building that needs to be built'), which looks like unfinished/dev placeholder text rather than real content. Translated literally and consistently as 'A building that needs to be constructed.' rather than inventing real descriptions."
+  ]
+}
