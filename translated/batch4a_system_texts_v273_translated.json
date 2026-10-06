@@ -22435,8 +22435,1104 @@
      "text": "Incorrect verification code"
     },
     {
+     "id": "SuperSoulDesc",
+     "text": "*Super Soul Infusion is a new per-character growth mode.\\n*Characters currently with Super Soul Infusion: Wano Zoro, Wano Usopp, Wano Chopper, Wano Nami, Wano Franky, Wano Brook and Wano Jinbe. Other characters' Super Soul Infusion will open in batches in later versions.\\n*Super Soul Infusion EXP and draw rates.\\nSpend Soul Search Scrolls or Golden Battle Souls to search for souls and earn Super Soul Infusion EXP, raising its star level.\\nWhite Soul Stone EXP - 200 EXP - 5% rate\\nGreen Soul Stone EXP - 4000 EXP - 5% rate\\nBlue Soul Stone EXP - 1600 EXP - 35% rate\\nPurple Soul Stone EXP - 3000 EXP - 35% rate\\nGold Soul Stone EXP - 4000 EXP - 5% rate\\n*With enough EXP, Super Soul Infusion gains a star and its stat effects grow.\\n*The current max Super Soul Infusion star level is 6.*Super Soul Infusion Refinement spends items to change its stat lines. Only characters with Super Soul Infusion at max stars can refine it.*Refinement can roll 13 stats in total, all with equal weight; rolled values are random within each stat's range.*In the current version every stat can be rolled except the special high-value stat +60 Speed.*Super Soul Infusion Refinement rates and values\\nAttack  Min 370  Max 750\\nHP  Min 4195  Max 6000\\nCrit  Min 4  Max 74\\nTenacity  Min 7  Max 148\\nAccuracy  Min 10  Max 198\\nEvasion  Min 10  Max 198\\nBlock Break  Min 10  Max 198\\nBlock  Min 10  Max 198\\nElemental DMG  Min 5  Max 112\\nElemental RES  Min 11  Max 225\\nCrit DMG  Min 1%  Max 12%\\nSpeed  Min 1  Max 20"
+    },
+    {
+     "id": "Equip_GetNewExtraAttr",
+     "text": "Gained {0} random stats"
+    },
+    {
+     "id": "UnionBounty_Tips2",
+     "text": "Join a guild first. Go now?"
+    },
+    {
+     "id": "UnionBounty_ActiveScore",
+     "text": "Guild Activity: {0}"
+    },
+    {
+     "id": "UnionBounty_WeekReward",
+     "text": "This week's rewards:"
+    },
+    {
+     "id": "UnionBounty_WeekDiscount",
+     "text": "Discounted openings left this week: {0}/{1}"
+    },
+    {
+     "id": "UnionBounty_OpenTime",
+     "text": "Event Time: {0}"
+    },
+    {
+     "id": "UnionBounty_ActiveSpend",
+     "text": "Activity needed: {0}/{1}"
+    },
+    {
+     "id": "UnionBounty_ResidueCleanTime",
+     "text": "Time-limited clear remaining:"
+    },
+    {
+     "id": "UnionBounty_RunOutTimeNow",
+     "text": "Time's up"
+    },
+    {
+     "id": "UnionBounty_NoAccess",
+     "text": "Insufficient permissions"
+    },
+    {
+     "id": "UnionBounty_IsOpenDungeons",
+     "text": "Open this dungeon?"
+    },
+    {
+     "id": "UnionBounty_DungeonsAreFinish",
+     "text": "Already cleared"
+    },
+    {
+     "id": "UnionBounty_Reset",
+     "text": "The dungeon is about to open. Reset it?"
+    },
+    {
+     "id": "UnionBounty_ResetWarning",
+     "text": "This dungeon isn't cleared; all members get {0}% of its rewards"
+    },
+    {
+     "id": "UnionBounty_RunOutTime",
+     "text": "Timed out"
+    },
+    {
+     "id": "UnionBounty_LevelReward",
+     "text": "(+{0} level bonus)"
+    },
+    {
+     "id": "UnionBounty_Residue",
+     "text": "({0} left)"
+    },
+    {
+     "id": "UnionBounty_UpLimit",
+     "text": "(Cap {0})"
+    },
+    {
+     "id": "UnionBounty_DungeonsLevelClose",
+     "text": "Not open"
+    },
+    {
+     "id": "UnionBounty_DealDamage",
+     "text": "Total damage dealt: <color='#FF0000'>{0}</color>"
+    },
+    {
+     "id": "UnionBounty_ResidueChallengeTime",
+     "text": "Challenges left {0}/{1}"
+    },
+    {
+     "id": "UnionBounty_Rank_SeverDamage",
+     "text": "Honor Roll"
+    },
+    {
+     "id": "UnionBounty_SevenActive",
+     "text": "7-Day Activity"
+    },
+    {
+     "id": "UnionBounty_GuildActive",
+     "text": "Guild Activity"
+    },
+    {
+     "id": "UnionBounty_GuildActive_Info",
+     "text": "Guild members earn Guild Activity when they complete Sailing Pass daily quests\\nActivity is used to open and reset team dungeons\\nGuild Activity caps at 100,000 points,\\nActivity you contributed today: {0}\\nActivity contributed in the last 7 days: {1}"
+    },
+    {
+     "id": "UnionBounty_Kill",
+     "text": "Defeated"
+    },
+    {
+     "id": "UnionBounty_MostDamage",
+     "text": "Highest Single Hit"
+    },
+    {
+     "id": "UnionBounty_LevelLock",
+     "text": "This stage isn't open. Clear the previous stage first"
+    },
+    {
+     "id": "UnionBounty_ExitBattle",
+     "text": "Leaving now settles the battle with your current result. Leave the battle?"
+    },
+    {
+     "id": "UnionBountyDesc",
+     "text": "Welcome to Guild Bounty, Captains!\\n*Opening a dungeon costs some Guild Activity. Unspent Activity is cleared when you leave the guild.\\n*The leader and vice leaders can open Guild Bounty, with one discounted opening per week; discounts reset every Monday at 8:00.\\n*Once opened or reset, a Guild Bounty dungeon stays open for up to 14 days. After that it closes automatically and uncleared rewards are sent; it can then be reset and opened again.\\n*Guild members can challenge different dungeons at the same time, and enemy HP doesn't recover.\\n*22:00 - 08:00 daily is a ceasefire; no battles can be fought.\\n*Clearing a guild dungeon within the time limit gives more Bounty Coins.\\n*At settlement, captains ranked high for highest single-battle damage get more Bounty Coins.\\n*The closer your level is to the guild dungeon's, the more Bounty Coins you get.\\n*In the current version, Bounty Coins cap at 100,000 per player.\\n*Dungeons can be reset or opened up to 4 times per week."
+    },
+    {
+     "id": "UI_UnionBountycion",
+     "text": "Bounty Coins"
+    },
+    {
+     "id": "UI_UnionBounty_cion_text",
+     "text": "Currency from the Guild Bounty event, used to buy valuable items in the event shop."
+    },
+    {
+     "id": "NewWPBoss_1",
+     "text": "Current Boss disappears in:"
+    },
+    {
+     "id": "NewWPBoss_2",
+     "text": "Next Boss appears in:"
+    },
+    {
+     "id": "NewWPBoss_3",
+     "text": "Attempts left {0}/{1}"
+    },
+    {
+     "id": "NewWPBoss_6",
+     "text": "Not enough attempts"
+    },
+    {
+     "id": "PHONE_BIND_RewardTip",
+     "text": "Closed beta users can claim rebates and a title after linking"
+    },
+    {
+     "id": "AccumulateRecharge_CloseTime",
+     "text": "Ends: {0}"
+    },
+    {
+     "id": "MonthPayDesc",
+     "text": "*Once the event starts, any top-up during the event earns points; e.g. buying the ¥6 first top-up bundle gives 6 Vault Points, unaffected by discounts\\n*Reach set point tiers to claim each tier's exclusive rewards; each tier can only be claimed once per event\\n*Points reset when the event period ends"
+    },
+    {
      "id": "UnionBounty_store",
      "text": "Bounty Shop"
+    },
+    {
+     "id": "SuperSoulWarningTitle",
+     "text": "Refinement Notice"
+    },
+    {
+     "id": "SuperSoulWarningDesc",
+     "text": "This character has an active hidden Soul Infusion Refinement effect. Refining now may change the values and lose the hidden effect. Refine anyway?"
+    },
+    {
+     "id": "OnceTickGemMounting",
+     "text": "*One-Tap Gem Socketing automatically sockets the gem types you choose first, saving you from hunting for gems. Define gem types based on each hero's focus.\\n*When you select gem types, their order is marked too; deselecting one automatically updates the order.\\n*Selected gem types are socketed first during One-Tap Socketing.\\n*If a type is missing, or same-type gems can't be socketed together, the next selectable type in order is used. If none of the selected types can be socketed, remaining gems are socketed in the default order. To prevent that, check \"Only socket selected gems\" when editing the plan.\\n*One-Tap Socketing replaces currently socketed gems with the active socketing plan.\\n*One-Tap Socketing only uses unsocketed gems.\\n*Higher-level gems have higher socketing priority. To avoid low-level gems, set the desired level above the One-Tap Socketing button."
+    },
+    {
+     "id": "GemSuitCannotEmpty",
+     "text": "Gem preset can't be empty"
+    },
+    {
+     "id": "GemSuitRenameTips",
+     "text": "Gem preset names can't exceed 8 characters"
+    },
+    {
+     "id": "GemPresetDefaultGem",
+     "text": "[Default Order]"
+    },
+    {
+     "id": "GemPresetTips",
+     "text": "Tap a gem type to edit the preset plan"
+    },
+    {
+     "id": "GemPresetClose",
+     "text": "Close Anyway"
+    },
+    {
+     "id": "CharacterSplitCoin_Title",
+     "text": "Confirm Dismantle?"
+    },
+    {
+     "id": "CharacterSplitCoin_Content",
+     "text": "The selected shards will be converted to currency. Dismantle?"
+    },
+    {
+     "id": "CharacterSplitCoin_NoMoreWarning",
+     "text": "Don't show again"
+    },
+    {
+     "id": "FragmentCollectExplian",
+     "text": "*Dismantle surplus shards of characters at max stars to get Training Coins. Dismantled shards are consumed.\\n*Currency rates:\\nR        rarity shards: 1 = 1    Mithril Training Coin\\nSR      rarity shards: 1 = 2   Mithril Training Coins\\nSSR    rarity shards: 1 = 4   Adamant Training Coins\\n*Training Coins can be exchanged for set items at the Shard Recycling Shop."
+    },
+    {
+     "id": "MultiTeamFightRank2",
+     "text": "Bronze"
+    },
+    {
+     "id": "MultiTeamFightRank3",
+     "text": "Silver"
+    },
+    {
+     "id": "MultiTeamFightRank4",
+     "text": "Gold"
+    },
+    {
+     "id": "MultiTeamFightRank5",
+     "text": "Silver Ⅱ"
+    },
+    {
+     "id": "MultiTeamFightRank6",
+     "text": "Silver Ⅰ"
+    },
+    {
+     "id": "MultiTeamFightRank7",
+     "text": "Gold Ⅲ"
+    },
+    {
+     "id": "MultiTeamFightRank8",
+     "text": "Gold Ⅱ"
+    },
+    {
+     "id": "MultiTeamFightRank9",
+     "text": "Gold Ⅰ"
+    },
+    {
+     "id": "MultiTeamFightRank10",
+     "text": "Opponent Team 1"
+    },
+    {
+     "id": "MultiTeamFightRank11",
+     "text": "Opponent Team 2"
+    },
+    {
+     "id": "MultiTeamFightRank12",
+     "text": "Opponent Team 3"
+    },
+    {
+     "id": "MultiTeamFightRank13",
+     "text": "Save your hide settings?"
+    },
+    {
+     "id": "MultiTeamFightRank14",
+     "text": "Use a Peak Arena Challenge Ticket to add a challenge?"
+    },
+    {
+     "id": "MultiTeamFightRank15",
+     "text": "Peak Arena Challenge Ticket"
+    },
+    {
+     "id": "MultiTeamFightRank16",
+     "text": "Spend Blue Diamonds to buy Peak Arena challenges?"
+    },
+    {
+     "id": "MultiTeamFightRank17",
+     "text": "Entries left today: {0}/{1}"
+    },
+    {
+     "id": "MultiTeamFightRank18",
+     "text": "Challenges are full. Can't buy more"
+    },
+    {
+     "id": "MultiTeamFightRank19",
+     "text": "Hide limit reached"
+    },
+    {
+     "id": "MultiTeamFightRank20",
+     "text": "*Peak Arena Challenge Tickets come from tier-up rewards or the shop. Use one from your Bag to add a Peak Arena challenge."
+    },
+    {
+     "id": "MultiTeamFightRank21",
+     "text": "Reward claim status error"
+    },
+    {
+     "id": "MultiTeamFightRank22",
+     "text": "Switch formation?"
+    },
+    {
+     "id": "MultiTeamFightRank23",
+     "text": "Arena Tournament Shop"
+    },
+    {
+     "id": "EquipRefineLuckyRuleDesc",
+     "text": "*When this equipment reaches refine +20, it has a chance to gain 1 extra rare stat. If not, it gains 10 Equipment Luck (starting at 0). At 100 Luck, the next refine to +20 always gives a rare stat.\\n*Luck resets automatically once the equipment gains a rare stat."
+    },
+    {
+     "id": "OlderPracticeFormation",
+     "text": "Balanced Match Formation"
+    },
+    {
+     "id": "MultiTeamFightExplain_Main2",
+     "text": "*You can set hidden characters on the defense lineup screen\\n*When you defend, challengers can't see the info of your hidden defense characters\\n*Each team can hide up to two characters"
+    },
+    {
+     "id": "MultiTeamFightRank24",
+     "text": "Tap the arrows below to move lineups up or down"
+    },
+    {
+     "id": "HC_BattleInfo_2215",
+     "text": "<color=#a32e00>Elemental Power</color>\\nMonsters take 50% less basic attack and skill damage, and 50% more elemental damage."
+    },
+    {
+     "id": "HC_BattleInfo_2216",
+     "text": "<color=#a32e00>Thunder Mark Buildup</color>\\nFor every 1 lightning hit, a monster gains 10% Speed, up to 5 stacks, and lightning hits convert into marks, up to 5. When a monster attacks a player with exactly 5 marks, its marks and speed boost are cleared, and the player's current Attack +5%, up to 3 stacks, cleared after the character acts."
+    },
+    {
+     "id": "HC_BattleInfo_2217",
+     "text": "<color=#a32e00>Thunderfire Blast</color>\\nLightning damage leaves a lightning mark on monsters and fire damage leaves a flame mark. When a monster with both marks acts, they explode and change its position."
+    },
+    {
+     "id": "HC_BattleInfo_2218",
+     "text": "<color=#a32e00>Lingering Will</color>\\nWhen a monster drops below 20% HP after taking damage, its final damage reduction +80%."
+    },
+    {
+     "id": "HC_BattleInfo_2219",
+     "text": "<color=#a32e00>Elemental Power</color>\\nMonsters take 30% less basic attack and skill damage, and 80% more elemental damage."
+    },
+    {
+     "id": "HC_BattleInfo_2220",
+     "text": "<color=#a32e00>Thunder Mark Buildup</color>\\nFor every 1 lightning hit, a monster gains 10% Speed, up to 5 stacks, and lightning hits convert into marks, up to 5. When a monster attacks a player with exactly 5 marks, its marks and speed boost are cleared, and the player's current Attack +15%, up to 3 stacks, cleared after the character acts."
+    },
+    {
+     "id": "HC_BattleInfo_2221",
+     "text": "<color=#a32e00>Lingering Will</color>\\nWhen a monster drops below 20% HP after taking damage, its final damage reduction +40%."
+    },
+    {
+     "id": "HC_TaskTitle_59",
+     "text": "Deploy Wano Nami +120 pts"
+    },
+    {
+     "id": "HC_TaskTitle_60",
+     "text": "+5 pts each time you deal lightning damage"
+    },
+    {
+     "id": "UI_MultiTeamFightcion",
+     "text": "Arena Tournament Coins"
+    },
+    {
+     "id": "UI_MultiTeamFight_cion_text",
+     "text": "Currency from the Peak Arena Tournament event, used to buy valuable items in the event shop."
+    },
+    {
+     "id": "MultiTeamFightTips1",
+     "text": "Lineup has fewer than 5 characters"
+    },
+    {
+     "id": "MultiTeamFightTips2",
+     "text": "This character is already deployed in another team"
+    },
+    {
+     "id": "MultiTeamFightTips3",
+     "text": "No purchases left today"
+    },
+    {
+     "id": "MultiTeamFightTips4",
+     "text": "No uses left today"
+    },
+    {
+     "id": "MultiTeamFightTips9",
+     "text": "Arena Tournament Challenge Ticket"
+    },
+    {
+     "id": "MultiTeamFightTips10",
+     "text": "Purchases left today: {0}/{1}"
+    },
+    {
+     "id": "MultiTeamFightTips11",
+     "text": "Uses left today: {0}/{1}"
+    },
+    {
+     "id": "MultiTeamFightTips12",
+     "text": "Mysterious Master"
+    },
+    {
+     "id": "MultiTeamFight_Promotion_desc",
+     "text": "1. Until you finish the promotion matches, your points are <color=#00FFF0>frozen</color> and won't change from battles\\n2. Promotion matches pit you against similarly strong opponents in your division as promotion guards; defeat <color=#00FFF0>2</color> of them to be promoted\\n3. Promotion opponents can't be refreshed, challenges don't use attempts, and no challenge rewards are given\\n4. If promoted, your points rise to <color=#00FFF0>{0}</color>; if not, they fall back to <color=#00FFF0>{1}</color>\\n5. A countdown is shown on screen; failing to be promoted <color=#00FFF0>within 24 hours</color> counts as a failed promotion"
+    },
+    {
+     "id": "MultiTeamFight_Promotion_button",
+     "text": "OK ({0}s)"
+    },
+    {
+     "id": "MultiTeamFight_PromotionPage_info",
+     "text": "Points frozen"
+    },
+    {
+     "id": "MultiTeamFight_PromotionPage_playerTag",
+     "text": "Promotion Guard"
+    },
+    {
+     "id": "MultiTeamFight_PromotionPage_scoreTag",
+     "text": "Frozen"
+    },
+    {
+     "id": "MultiTeamFight_PromotionSuccess_title",
+     "text": "Promoted!"
+    },
+    {
+     "id": "MultiTeamFight_PromotionSuccess_subtitle",
+     "text": "Compete for glory with the server's best"
+    },
+    {
+     "id": "MultiTeamFight_PromotionFail_title",
+     "text": "Promotion failed!"
+    },
+    {
+     "id": "MultiTeamFight_PromotionResult_tips1",
+     "text": "Countdown ended. Promotion failed"
+    },
+    {
+     "id": "MultiTeamFight_PromotionResult_tips2",
+     "text": "This season has ended. Promotion failed"
+    },
+    {
+     "id": "IslandTrainFrontChapterLock",
+     "text": "Clear the previous stage"
+    },
+    {
+     "id": "IdolVoteCurrent",
+     "text": "Current votes {0}"
+    },
+    {
+     "id": "IdolVoteChallengesNumber",
+     "text": "Challenges {0}/{1}"
+    },
+    {
+     "id": "IdolVoteMyRank",
+     "text": "My Rank {0}"
+    },
+    {
+     "id": "IdolVoteVoteNumber",
+     "text": "{0} votes"
+    },
+    {
+     "id": "IdolVoteSelect",
+     "text": "Choose {0} as your voting character for this period? This can't be changed afterward"
+    },
+    {
+     "id": "IdolVoteRank2",
+     "text": "Popularity Runner-Up"
+    },
+    {
+     "id": "IdolVoteRank3",
+     "text": "Popularity Third Place"
+    },
+    {
+     "id": "IdolVoteJoin",
+     "text": "Congrats on joining {0}'s fan club"
+    },
+    {
+     "id": "IdolVoteNoChallenge",
+     "text": "Not enough challenges!"
+    },
+    {
+     "id": "IdolVoteText1",
+     "text": "Main screen help text"
+    },
+    {
+     "id": "IdolVoteText2",
+     "text": "Idol screen help text"
+    },
+    {
+     "id": "IdolVoteText3",
+     "text": "Hall of Fame screen help text"
+    },
+    {
+     "id": "IdolVoteSeason1",
+     "text": "Season 1 name"
+    },
+    {
+     "id": "IdolVoteSeason2",
+     "text": "Season 2 name"
+    },
+    {
+     "id": "IdolVoteSeason3",
+     "text": "Season 3 name"
+    },
+    {
+     "id": "UI_SecondaryPassword_Stage2",
+     "text": "Enabled"
+    },
+    {
+     "id": "UI_SecondaryPassword_Stage3",
+     "text": "Withdraw Request"
+    },
+    {
+     "id": "UI_SecondaryPassword_Stage3_desc",
+     "text": "Will be force-disabled in <color=#d14e0d>{0}</color>"
+    },
+    {
+     "id": "LawlessLand_TeamDesc",
+     "text": "*Showdown Battlefield is a cross-server PvP mode set in a shared area.\\n*It runs from 2024/8/22 to 2024/9/1.\\n*The battlefield opens at noon every Friday during the event (8/23 and 8/30); captains must register Monday to Thursday.\\n*Registration closes at 0:00 on Friday, and battlefields are created based on registrations.\\n*Once the battlefield opens, registered captains must enter during the prep window (11:00-11:59:59). The battle lasts 40 minutes. Note: try not to leave before it ends, or it counts as forfeiting.\\n*On entering, captains are assigned to one of four random factions and must team up with faction allies to defeat players from the other three.\\n*Captains have a limited number of revives; each defeat uses one, and losing all revives means elimination from the battlefield.\\n*Each player from another faction you defeat gives points, and gathering items in the area also gives points. Note: battlefield gatherables have gathering and respawn limits.\\n*The battlefield ends when time runs out or only one faction remains. It's then settled, and captains' points convert to battlefield currency at a set ratio: Points = personal points + participation points (500) + faction total points/10.\\n*Spend battlefield currency on rewards in the Battlefield Shop."
+    },
+    {
+     "id": "LawlessLand_PersonDesc",
+     "text": "End info screen, mode description text (solo battle)   ---  placeholder slot, can be left unconfigured"
+    },
+    {
+     "id": "LawlessLand_ShopName",
+     "text": "Battlefield Shop"
+    },
+    {
+     "id": "LawlessLand_RankDesc",
+     "text": "Rank {0}   (reserved dynamic insert slot; inserts Chinese numerals, e.g.  one, five, eleven)"
+    },
+    {
+     "id": "LawlessLand_Apply",
+     "text": "Register"
+    },
+    {
+     "id": "LawlessLand_EnterScene",
+     "text": "Enter Battlefield"
+    },
+    {
+     "id": "LawlessLand_PrepareBattle",
+     "text": "Preparing"
+    },
+    {
+     "id": "LawlessLand_SaveOperateTitle",
+     "text": "(Unsaved lineup notice)"
+    },
+    {
+     "id": "LawlessLand_SaveOperateDesc",
+     "text": "Unsaved lineup description text"
+    },
+    {
+     "id": "LawlessLand_NoApplyCantEnterScene",
+     "text": "Not registered, can't enter battlefield notice"
+    },
+    {
+     "id": "RelatedHeroStar_01",
+     "text": "Requires {0} at {1} stars"
+    },
+    {
+     "id": "RelatedHeroImpact_01",
+     "text": "Requires {0} at Breakthrough {1}"
+    },
+    {
+     "id": "MultiTeamFightTeamTips",
+     "text": "Pre-deploy lineups here to swap them in quickly when needed"
+    },
+    {
+     "id": "MainStoryActivity_task_tips1",
+     "text": "This stage unlocks after completing the prerequisite quest <color=#2A8429>{0}</color>. Continue the main quest <color=#2A8429>{1}</color>?"
+    },
+    {
+     "id": "MainStoryActivity_task_tips2",
+     "text": "This stage unlocks after completing the prerequisite quest <color=#2A8429>{0}</color>."
+    },
+    {
+     "id": "MainStoryActivity_tips3",
+     "text": "During the event, enemies in each stage get large buffs that decay over time. Current enemy stats raised"
+    },
+    {
+     "id": "MainStoryActivity_tips5",
+     "text": "This limited-time event period has ended"
+    },
+    {
+     "id": "MultiTeamFightTips13",
+     "text": "This lineup is already deployed"
+    },
+    {
+     "id": "WannaToFightWatcher",
+     "text": "Watch Spar"
+    },
+    {
+     "id": "InTeamCantWannaToFightWatcher",
+     "text": "Can't spectate while in a team"
+    },
+    {
+     "id": "InMatchStateCantWannaToFightWatcher",
+     "text": "Can't spectate while matchmaking"
+    },
+    {
+     "id": "UnSageAreaCantWannaToFightWatcher",
+     "text": "Can't spectate outside a safe zone"
+    },
+    {
+     "id": "WannaToFightWatcherPromptContent",
+     "text": "Watch this spar?"
+    },
+    {
+     "id": "MultiTeamFight_RankPage_tips1",
+     "text": "Final rank rewards are based on <color=#FFA35C>division rank</color>"
+    },
+    {
+     "id": "MultiTeamFight_RankPage_tips2",
+     "text": "<color=#FFA35C>{0} tier</color> or above and <color=#FFA35C>top {1}</color> server-wide to be listed"
+    },
+    {
+     "id": "LawlessLand_Warn01",
+     "text": "Leave the battlefield? Leaving counts as forfeiting, and you won't get battlefield reward points."
+    },
+    {
+     "id": "LawlessLand_and_SaveOperateDesc",
+     "text": "Save the current lineup?"
+    },
+    {
+     "id": "UI_SecondaryPassword_Reset_Button",
+     "text": "Forgot Password"
+    },
+    {
+     "id": "SuperSoul5hitTitle",
+     "text": "Refinement Notice"
+    },
+    {
+     "id": "SuperSoul5hitDesc",
+     "text": "Discard all refinement results? Discarding keeps the original stats."
+    },
+    {
+     "id": "HC_BattleInfo_2222",
+     "text": "<color=#a32e00>Shield Devour Mark</color>\\nWhen a monster attacks a shielded player, it has a 60% chance to gain 1 Vulnerability mark for 2 turns, up to 3 stacks, each giving 30% Vulnerability"
+    },
+    {
+     "id": "HC_BattleInfo_2223",
+     "text": "<color=#a32e00>Grievous Blow</color>\\nMonster attacks have a 30% chance to reduce the player's max HP by 5%"
+    },
+    {
+     "id": "HC_BattleInfo_2224",
+     "text": "<color=#a32e00>Piercing Power</color>\\nMonster hits on players deal extra True Damage that ignores shields"
+    },
+    {
+     "id": "HC_BattleInfo_2225",
+     "text": "<color=#a32e00>No Retreat</color>\\nMonsters' crit rate +80%, crit damage taken +120%"
+    },
+    {
+     "id": "HC_BattleInfo_2226",
+     "text": "<color=#a32e00>Shield Devour Mark</color>\\nWhen a monster attacks a shielded player, it has a 60% chance to gain 1 Vulnerability mark for 2 turns, up to 3 stacks, each giving 60% Vulnerability"
+    },
+    {
+     "id": "HC_BattleInfo_2227",
+     "text": "<color=#a32e00>No Retreat</color>\\nMonsters' crit rate +100%, crit damage taken +200%"
+    },
+    {
+     "id": "HC_TaskTitle_61",
+     "text": "Deploy Wano Franky +120 pts"
+    },
+    {
+     "id": "HC_BattleInfo_2228",
+     "text": "<color=#a32e00>Elemental Weakness</color>\\nMonsters take 50% more elemental damage."
+    },
+    {
+     "id": "HC_BattleInfo_2229",
+     "text": "<color=#a32e00>Ice and Thunder</color>\\nWhen monsters take ice or lightning damage, they gain 20% Vulnerability, up to 5 stacks each, until the end of the turn."
+    },
+    {
+     "id": "HC_BattleInfo_2230",
+     "text": "<color=#a32e00>Mighty Blow</color>\\nMonster attacks deal extra damage based on their max HP"
+    },
+    {
+     "id": "HC_BattleInfo_2231",
+     "text": "<color=#a32e00>Lingering Resolve</color>\\nWhen a monster drops below 20% HP after taking damage, its final damage reduction +40%."
+    },
+    {
+     "id": "HC_BattleInfo_2232",
+     "text": "<color=#a32e00>Elemental Weakness</color>\\nMonsters take 80% more elemental damage."
+    },
+    {
+     "id": "HC_BattleInfo_2233",
+     "text": "<color=#a32e00>Ice and Thunder</color>\\nWhen monsters take ice or lightning damage, they gain 30% Vulnerability, up to 5 stacks each, until the end of the turn."
+    },
+    {
+     "id": "HC_BattleInfo_2234",
+     "text": "<color=#a32e00>Lingering Resolve</color>\\nWhen a monster drops below 20% HP after taking damage, its final damage reduction +80%."
+    },
+    {
+     "id": "HC_TaskTitle_62",
+     "text": "Deploy Wano Brook +120 pts"
+    },
+    {
+     "id": "HC_TaskTitle_63",
+     "text": "Land a crit +5 pts"
+    },
+    {
+     "id": "Btn_Cheap_Gift",
+     "text": "Starter Bundle"
+    },
+    {
+     "id": "Integral2V2_tips1",
+     "text": "Event time left: {0}"
+    },
+    {
+     "id": "Integral2V2_tips3",
+     "text": "Lineups can't be changed right now"
+    },
+    {
+     "id": "Integral2V2_tips6",
+     "text": "Team 1"
+    },
+    {
+     "id": "Integral2V2_tips7",
+     "text": "Team 2"
+    },
+    {
+     "id": "Integral2V2_tips8",
+     "text": "Battle 1"
+    },
+    {
+     "id": "Integral2V2_tips9",
+     "text": "Battle 2"
+    },
+    {
+     "id": "Integral2V2_tips10",
+     "text": "*You can set up lineups in advance as presets\\n*When setting lineups, tap Deploy Preset to put a configured lineup in directly"
+    },
+    {
+     "id": "Integral2V2_tips11",
+     "text": "*Glory Streak is a two-lineup real-time PvP mode.\\n*This season runs from 11/20 to 12/17. Final rewards are sent on 12/21; after the event, the event screen stays open until 22:59 on 12/26 so captains can pick items in the event shop.\\n*While it's open, captains must set up at least 2 teams with 10 characters, and can adjust the teams' battle order.\\n*Once matching starts, your first team fights first and your second team fights next; while using your first team you're only matched with players also using their first team. After both battles, the round ends and you can adjust your lineups and start a new round\\n*Opponents are pushed to you during the event. Beating them raises your points; losing lowers them. Winning both battles in a round counts as a flawless victory and gives bonus points. In lower tiers you may meet Streak Crashers; beat them easily for points!\\n*Changing your second lineup's equipment between the end of the first battle and the start of the second counts as a violation and is penalized.\\n*Each captain has unlimited challenges per day during the event, but only the first three each day give Glory Coins.\\n*At each weekly settlement, rewards are mailed based on your tier, and higher tiers have weekly point decay!\\n*When the event ends, rewards are mailed based on your rank and tier.\\n*Spend Glory Coins on items in the mode shop."
+    },
+    {
+     "id": "Integral2V2_tips12",
+     "text": "Lineup isn't full. Can't start matching"
+    },
+    {
+     "id": "Gem_Level11_tips1",
+     "text": "Confirm Crafting"
+    },
+    {
+     "id": "Gem_Level11_tips2",
+     "text": "Craft all into Lv11 gems?"
+    },
+    {
+     "id": "HC_BattleInfo_2235",
+     "text": "<color=#a32e00>Steadfast Barrier</color>\\nMonsters take 50% less basic attack and skill damage"
+    },
+    {
+     "id": "HC_BattleInfo_2236",
+     "text": "<color=#a32e00>Raging Current</color>\\nWhen monsters take water damage, their water and physical RES drop 10% for two turns, stacking up to 10 times"
+    },
+    {
+     "id": "HC_BattleInfo_2237",
+     "text": "<color=#a32e00>Colossus</color>\\nMonsters' damage +100%, HP +80%"
+    },
+    {
+     "id": "HC_BattleInfo_2238",
+     "text": "<color=#a32e00>Tenacity Surge</color>\\nMonsters' Tenacity +50%"
+    },
+    {
+     "id": "HC_BattleInfo_2239",
+     "text": "<color=#a32e00>Steadfast Barrier</color>\\nMonsters take 30% less basic attack and skill damage"
+    },
+    {
+     "id": "HC_BattleInfo_2240",
+     "text": "<color=#a32e00>Raging Current</color>\\nWhen monsters take water damage, their water and physical RES drop 20% for two turns, stacking up to 10 times"
+    },
+    {
+     "id": "HC_BattleInfo_2241",
+     "text": "<color=#a32e00>Colossus</color>\\nMonsters' damage +100%, HP +100%"
+    },
+    {
+     "id": "HC_BattleInfo_2242",
+     "text": "<color=#a32e00>Tenacity Surge</color>\\nMonsters' Tenacity +80%"
+    },
+    {
+     "id": "HC_TaskTitle_64",
+     "text": "Deploy Wano Jinbe +120 pts"
+    },
+    {
+     "id": "HC_TaskTitle_65",
+     "text": "+3 pts each time you deal water damage"
+    },
+    {
+     "id": "Integral2V2_tips13",
+     "text": "Event End Time"
+    },
+    {
+     "id": "Integral2V2_tips15",
+     "text": "Total Point Rewards"
+    },
+    {
+     "id": "Integral2V2_tips16",
+     "text": "Glory Shop"
+    },
+    {
+     "id": "Integral2V2_tips17",
+     "text": "Can't start a battle right now"
+    },
+    {
+     "id": "Integral2V2_tips18",
+     "text": "You've entered a non-safe zone, so matchmaking was canceled"
+    },
+    {
+     "id": "Integral2V2_tips19",
+     "text": "Entering Recruit will interrupt matchmaking. Continue?"
+    },
+    {
+     "id": "Integral2V2_tips20",
+     "text": "Matchmaking in progress. You can't change your lineup!"
+    },
+    {
+     "id": "UI_Integral2V2coin",
+     "text": "Glory Coins"
+    },
+    {
+     "id": "UI_Integral2V2_cion_text",
+     "text": "Earned from Glory Streak"
+    },
+    {
+     "id": "SeaExplore_Explain",
+     "text": "*$<size=30>Event Period</size>*Setting Sail: after the 2024/9/19 update to 2024/10/3 23:00\\nBoss Exploration: after the 2024/9/19 update to 2024/10/3 23:00\\nReward claiming: after the 2024/9/19 update to 2024/10/3 23:59\\n*$<size=30>Setting Sail</size>*Each voyage triggers a random sea event; complete it for rewards. Rewards shrink as your daily voyages increase and reset the next day\\nEach voyage costs Sea Supplies. Claim some daily at the Supply Station, where you can also gift Sea Supplies to friends (without using your own)\\nReach a certain number of voyages to claim milestone quest rewards"
+    },
+    {
+     "id": "SeaExploreBoss_Explain",
+     "text": "*$<size=30>Boss Exploration</size>*Each time you spend a set amount of Sea Supplies, you randomly find a boss's location in Boss Exploration, unlocking that challenge. Bosses found by sailing have a cap; beyond it, further voyages find no new bosses.*Share bosses you find with friends or guild members; once they accept, they unlock that boss challenge. Accepting shares has a cap; beyond it you can't accept other players' shares.*Shares expire 30 minutes after being sent, so remind your friends to accept quickly.*Bosses unlocked from others' shares can't be shared.*$<size=30>Challenge Options</size>*In Boss Exploration, the enemy details page offers several optional challenge options. They affect your final score; the score change is shown next to each option, and for options without a fixed count, see the description.*Once in battle, the options you checked take effect, giving characters the described effects, and points are added or deducted on the results screen after a win. \\nCheck exact option scores under \"Challenge Option Details\" on the results screen.*$<size=30>Stage Scoring</size>*In Boss Exploration, clearing a stage awards points based on turns used, your remaining HP percentage and how many allies are exhausted. Apart from challenge options, base scoring is:*Turns used:\\n3 turns or fewer 400 pts\\n4 turns 300 pts\\n5 turns 200 pts\\n6 turns 100 pts\\n7 turns or more 50 pts.*Allies exhausted:\\nNo allies exhausted 400 pts\\n1 ally exhausted 300 pts\\n2 allies exhausted 200 pts\\n3 allies exhausted 100 pts\\n4 allies exhausted 50 pts.*Allies' remaining HP at clear:\\n80% or more 400 pts\\n60% or more 300 pts\\n50% or more 200 pts\\n40% or more 100 pts\\nBelow 40% 50 pts"
+    },
+    {
+     "id": "SeaExplore_EventBattle",
+     "text": "Clear Out"
+    },
+    {
+     "id": "SeaExplore_CostNum",
+     "text": "Spend {0} more Sea Supplies for 1 exploration"
+    },
+    {
+     "id": "SeaExplore_UnReceiveReward",
+     "text": "Can't claim"
+    },
+    {
+     "id": "SeaExplore_HasShareReward",
+     "text": "Gifted"
+    },
+    {
+     "id": "SeaExplore_NoDailySupply",
+     "text": "You've already claimed today's Sea Supplies. Come back tomorrow"
+    },
+    {
+     "id": "SeaExplore_NoShareSupply",
+     "text": "You've already gifted Sea Supplies today. Come back tomorrow"
+    },
+    {
+     "id": "SeaExplore_FindBossPostion",
+     "text": "Boss location found"
+    },
+    {
+     "id": "SeaExplore_ExploreNum",
+     "text": "{0} explorations left during the event"
+    },
+    {
+     "id": "SeaExplore_ExploreMaxNum",
+     "text": "Explorations"
+    },
+    {
+     "id": "SeaExplore_CopyGetScore",
+     "text": "Score: {0}"
+    },
+    {
+     "id": "SeaExplore_CopyUnExplore",
+     "text": "Not explored yet"
+    },
+    {
+     "id": "SeaExplore_CopyUnExploreChallenge",
+     "text": "This boss's location hasn't been found yet. Spend Sea Supplies to explore"
+    },
+    {
+     "id": "SeaExplore_ActivityClose",
+     "text": "The event has ended. Claim your rewards soon"
+    },
+    {
+     "id": "SeaExplore_ReceiveShareBoss",
+     "text": "Player {0} shared {1} with you"
+    },
+    {
+     "id": "SeaExplore_AcceptShareBoss",
+     "text": "Accepted"
+    },
+    {
+     "id": "SeaExplore_UnAcceptShareBoss",
+     "text": "Declined"
+    },
+    {
+     "id": "SeaExplore_ShareItemBtn",
+     "text": "Share Boss"
+    },
+    {
+     "id": "ShipResolveTips",
+     "text": "Dismantle Warship"
+    },
+    {
+     "id": "ShipResolveTitle",
+     "text": "Dismantle this warship? It will disappear afterward."
+    },
+    {
+     "id": "Seaport_ScenePageInfo",
+     "text": "*Seaport is a growth mode built on the Dock.\\n*Once captains reach a set level, they each get their own port.\\n*Once captains unlock the Dock and reach a set level, they each get their own port.\\n*Ports consist of five buildings:\\nCommand Post\\nPort Authority\\nCoastal Battery\\nLighthouse\\nCargo Dock\\n*Building Info - Command Post\\nThe Command Post is the port's core building. It has no other function itself, but it's the prerequisite for upgrading the others.\\n*Building Info - Port Authority\\nThe Port Authority moors ships; Great Voyage refinement skills of warships moored here take effect. Higher levels moor more warships, up to three extra besides your deployed warship.\\n*Building Info - Coastal Battery\\nThe Coastal Battery refines battle buff stats; captains can change them with items and strategies. Higher levels give more refinable battle buff slots.\\n*Building Info - Lighthouse\\nThe Lighthouse refines Sea Battle buff stats; captains can change them with items and strategies. Higher levels give more refinable Sea Battle buff slots.\\n*Building Info - Cargo Dock\\nThe Cargo Dock gives captains four quests daily. Dispatch warships based on their level; each quest produces different Great Voyage materials. Each dispatch takes 20 hours, and stopping a quest before it finishes gives no rewards."
+    },
+    {
+     "id": "Seaport_MainPageInfo",
+     "text": "*Seaport is a growth mode built on the Dock.\\n*Once captains reach a set level, they each get their own port.\\n*Once captains unlock the Dock and reach a set level, they each get their own port.\\n*Ports consist of five buildings:\\nCommand Post\\nPort Authority\\nCoastal Battery\\nLighthouse\\nCargo Dock\\n*Building Info - Command Post\\nThe Command Post is the port's core building. It has no other function itself, but it's the prerequisite for upgrading the others.\\n*Building Info - Port Authority\\nThe Port Authority moors ships; Great Voyage refinement skills of warships moored here take effect. Higher levels moor more warships, up to three extra besides your deployed warship.\\n*Building Info - Coastal Battery\\nThe Coastal Battery refines battle buff stats; captains can change them with items and strategies. Higher levels give more refinable battle buff slots.\\n*Building Info - Lighthouse\\nThe Lighthouse refines Sea Battle buff stats; captains can change them with items and strategies. Higher levels give more refinable Sea Battle buff slots.\\n*Building Info - Cargo Dock\\nThe Cargo Dock gives captains four quests daily. Dispatch warships based on their level; each quest produces different Great Voyage materials. Each dispatch takes 20 hours, and stopping a quest before it finishes gives no rewards."
+    },
+    {
+     "id": "Seaport_Text1",
+     "text": "Dock {0}"
+    },
+    {
+     "id": "Seaport_Text2",
+     "text": "Deployed Warship"
+    },
+    {
+     "id": "Seaport_Text3",
+     "text": "Out Gathering"
+    },
+    {
+     "id": "Seaport_Text4",
+     "text": "Back in Port"
+    },
+    {
+     "id": "Seaport_Text6",
+     "text": "Moor"
+    },
+    {
+     "id": "Seaport_Text7",
+     "text": "Run Strategy"
+    },
+    {
+     "id": "Seaport_Text8",
+     "text": "Prerequisite building level too low"
+    },
+    {
+     "id": "Seaport_Text9",
+     "text": "{0} reaches Lv{1}"
+    },
+    {
+     "id": "Seaport_Text10",
+     "text": "Locked. Unlocks when {0} reaches Lv{1}"
+    },
+    {
+     "id": "Seaport_Text11",
+     "text": "Max level reached"
+    },
+    {
+     "id": "Seaport_Text12",
+     "text": "No strategy chosen. Exit anyway?"
+    },
+    {
+     "id": "Seaport_Text13",
+     "text": "Stop the voyage?"
+    },
+    {
+     "id": "Seaport_Text14",
+     "text": "Leave the Seaport?"
+    },
+    {
+     "id": "SeaExplore_RewardNum",
+     "text": "times or more"
+    },
+    {
+     "id": "SeaExplore_ShareSupplySucces",
+     "text": "Gifted"
+    },
+    {
+     "id": "SeaExplore_SendShareBoss",
+     "text": "You shared {1} with player {0}"
+    },
+    {
+     "id": "SeaExplore_SupplyExploreFinish",
+     "text": "Share with friends to unlock the remaining bosses!"
+    },
+    {
+     "id": "TimeTreasureDesc1",
+     "text": "Open this vault? You can't open another vault of the same type until it ends"
+    },
+    {
+     "id": "TimeTreasureDesc2",
+     "text": "Another vault is already active. Open this one after it ends"
+    },
+    {
+     "id": "SeaExplore_AcceptSuccesShareBoss",
+     "text": "Share accepted"
+    },
+    {
+     "id": "SeaExplore_ActivityEnd",
+     "text": "The event has ended. Claim your rewards soon"
+    },
+    {
+     "id": "SeaExplore_selfSupplyDetail",
+     "text": "Claim Sea Supplies daily for your voyages. Don't forget!"
+    },
+    {
+     "id": "SeaExplore_shareSupplyDetail",
+     "text": "Gift Sea Supplies to a friend once a day (without using your own). Share the fun!!"
+    },
+    {
+     "id": "HC_BattleInfo_2243",
+     "text": "<color=#a32e00>Vitality</color>\\nEnemies recover 3% HP at the end of their turn"
+    },
+    {
+     "id": "HC_BattleInfo_2244",
+     "text": "<color=#a32e00>Barrier Charge</color>\\nWhile players are shielded, monsters gain 50% Vulnerability"
+    },
+    {
+     "id": "HC_BattleInfo_2245",
+     "text": "<color=#a32e00>No Gain Without Pain</color>\\nMonsters become invincible when targeted by a basic attack; invincibility ends after taking crit damage or 3 attacks, then they gain 20% Vulnerability until the end of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2246",
+     "text": "<color=#a32e00>Scorching Burnout</color>\\nMonsters' final damage reduction +300%, dropping 10% when attacked and another 10% when hit by fire damage; after 20 times, all effects of this skill are removed"
+    },
+    {
+     "id": "HC_BattleInfo_2247",
+     "text": "<color=#a32e00>Vitality</color>\\nEnemies recover 5% HP at the end of their turn"
+    },
+    {
+     "id": "HC_BattleInfo_2248",
+     "text": "<color=#a32e00>Barrier Charge</color>\\nWhile players are shielded, monsters gain 80% Vulnerability"
+    },
+    {
+     "id": "HC_BattleInfo_2249",
+     "text": "<color=#a32e00>No Gain Without Pain</color>\\nMonsters become invincible when targeted by a basic attack; invincibility ends after taking crit damage or 3 attacks, then they gain 30% Vulnerability until the end of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2250",
+     "text": "<color=#a32e00>Scorching Burnout</color>\\nMonsters' final damage reduction +400%, dropping 10% when attacked and another 10% when hit by fire damage; after 20 times, all effects of this skill are removed"
+    },
+    {
+     "id": "HC_TaskTitle_66",
+     "text": "Deploy Black Maria +120 pts"
+    },
+    {
+     "id": "Gift_2",
+     "text": "Please choose a target"
+    },
+    {
+     "id": "ShipDecompose",
+     "text": "*Warship dismantling unlocks once captains reach a set level and unlock the Dock.\\n*Only some warships can be dismantled.\\n*Dismantling can't be undone; once done, captains get some items from the dismantled warship.\\n*Going Merry, Black Warrior and Marine Ship cost 10,000 Gold Bars; Cute Duck, Thousand Sunny and Sexy Foxy cost 300,000; Blackbeard's Raft, Marine Battleship, Garp's Warship and Sun Pirates' Ship cost 1,000,000; Polar Tang costs 5,000,000; Kuja Pirate Ship, Red Force and Baratie cost 10,000,000; all other warships cost 20,000,000 Gold Bars."
+    },
+    {
+     "id": "Btn_Chaozhixiangou",
+     "text": "Value Limited Offers"
+    },
+    {
+     "id": "IntegralArrayTitle",
+     "text": "United Co-op Formation"
+    },
+    {
+     "id": "integralHonorProtectSuccess",
+     "text": "Rank protected! No tier drop this loss"
+    },
+    {
+     "id": "integralHonorProtectMax",
+     "text": "Points maxed. Got {0} bonus points"
+    },
+    {
+     "id": "integralHonorLowRank",
+     "text": "Losses don't lose points at this tier"
+    },
+    {
+     "id": "integralHonorProtectDetailHP",
+     "text": "Flawless Victory"
+    },
+    {
+     "id": "integralHonorProtectDetailPoint",
+     "text": "Fought a Strong Foe"
+    },
+    {
+     "id": "integralHonorProtectDetailProtectSuccess",
+     "text": "Tier Protection"
+    },
+    {
+     "id": "integralHonorShopTitle",
+     "text": "Shop Level: {0}"
+    },
+    {
+     "id": "integralHonorShopTitleTip",
+     "text": "Rises with the season buff level to unlock more items"
+    },
+    {
+     "id": "integralHonorShopUnlockLevel",
+     "text": "Unlocks at Shop Lv{0}"
+    },
+    {
+     "id": "integralHonorShopLockTip",
+     "text": "Shop level too low"
+    },
+    {
+     "id": "integralHonorShopName",
+     "text": "Co-op Shop"
+    },
+    {
+     "id": "integralHonorMatch",
+     "text": "Matching for United Co-op"
     },
     {
      "id": "RecommendGrowUpSkill_OLD",
@@ -22473,7 +23569,7 @@
      "text": "Limited Recruit"
     }
    ],
-   "partial": "4827/5841 rows translated so far"
+   "partial": "5101/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
