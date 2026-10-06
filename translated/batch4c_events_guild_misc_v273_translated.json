@@ -13,6 +13,46 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "id": "1",
+     "name": "Collect Stars"
+    },
+    {
+     "id": "2",
+     "name": "Collect Stars"
+    },
+    {
+     "id": "3",
+     "name": "Collect Stars"
+    },
+    {
+     "id": "4",
+     "name": "Collect Stars"
+    },
+    {
+     "id": "5",
+     "name": "Collect Stars"
+    },
+    {
+     "id": "6",
+     "name": "Collect Stars"
+    },
+    {
+     "id": "7",
+     "name": "Collect Stars"
+    },
+    {
+     "id": "8",
+     "name": "Collect Stars"
+    },
+    {
+     "id": "9",
+     "name": "Collect Stars"
+    },
+    {
+     "id": "10",
+     "name": "Collect Stars"
+    },
+    {
      "id": "11",
      "name": "Complete Quest"
     },
@@ -73,6 +113,66 @@
      "name": "Complete Quest"
     },
     {
+     "id": "26",
+     "name": "Complete Expeditions"
+    },
+    {
+     "id": "27",
+     "name": "Complete Expeditions"
+    },
+    {
+     "id": "28",
+     "name": "Complete Expeditions"
+    },
+    {
+     "id": "29",
+     "name": "Complete Expeditions"
+    },
+    {
+     "id": "30",
+     "name": "Complete Expeditions"
+    },
+    {
+     "id": "31",
+     "name": "Character Collection"
+    },
+    {
+     "id": "32",
+     "name": "Character Collection"
+    },
+    {
+     "id": "33",
+     "name": "Character Collection"
+    },
+    {
+     "id": "34",
+     "name": "Character Collection"
+    },
+    {
+     "id": "35",
+     "name": "Character Collection"
+    },
+    {
+     "id": "36",
+     "name": "Character Collection"
+    },
+    {
+     "id": "37",
+     "name": "Character Collection"
+    },
+    {
+     "id": "38",
+     "name": "Character Collection"
+    },
+    {
+     "id": "39",
+     "name": "Character Collection"
+    },
+    {
+     "id": "40",
+     "name": "Character Collection"
+    },
+    {
      "id": "41",
      "name": "Hero Gear"
     },
@@ -93,6 +193,66 @@
      "name": "Hero Gear"
     },
     {
+     "id": "46",
+     "name": "Set Collection"
+    },
+    {
+     "id": "47",
+     "name": "Set Collection"
+    },
+    {
+     "id": "48",
+     "name": "Set Collection"
+    },
+    {
+     "id": "49",
+     "name": "Set Collection"
+    },
+    {
+     "id": "50",
+     "name": "Set Collection"
+    },
+    {
+     "id": "61",
+     "name": "Formation Collection"
+    },
+    {
+     "id": "62",
+     "name": "Formation Collection"
+    },
+    {
+     "id": "63",
+     "name": "Formation Collection"
+    },
+    {
+     "id": "64",
+     "name": "Formation Collection"
+    },
+    {
+     "id": "65",
+     "name": "Formation Collection"
+    },
+    {
+     "id": "66",
+     "name": "Formation Collection"
+    },
+    {
+     "id": "67",
+     "name": "Formation Collection"
+    },
+    {
+     "id": "68",
+     "name": "Formation Collection"
+    },
+    {
+     "id": "69",
+     "name": "Formation Collection"
+    },
+    {
+     "id": "70",
+     "name": "Formation Collection"
+    },
+    {
      "id": "75",
      "name": "Upgrade Skill"
     },
@@ -111,6 +271,26 @@
     {
      "id": "79",
      "name": "Upgrade Skill"
+    },
+    {
+     "id": "80",
+     "name": "Max Skill Level"
+    },
+    {
+     "id": "81",
+     "name": "Max Skill Level"
+    },
+    {
+     "id": "82",
+     "name": "Max Skill Level"
+    },
+    {
+     "id": "83",
+     "name": "Max Skill Level"
+    },
+    {
+     "id": "84",
+     "name": "Max Skill Level"
     },
     {
      "id": "85",
@@ -185,6 +365,86 @@
      "name": "Equipment Refine"
     },
     {
+     "id": "103",
+     "name": "Gear Socketing"
+    },
+    {
+     "id": "104",
+     "name": "Gear Socketing"
+    },
+    {
+     "id": "105",
+     "name": "Gear Socketing"
+    },
+    {
+     "id": "106",
+     "name": "Gear Socketing"
+    },
+    {
+     "id": "107",
+     "name": "Gear Socketing"
+    },
+    {
+     "id": "108",
+     "name": "Gear Socketing"
+    },
+    {
+     "id": "109",
+     "name": "Gear Socketing"
+    },
+    {
+     "id": "110",
+     "name": "Gear Socketing"
+    },
+    {
+     "id": "111",
+     "name": "Gear Socketing"
+    },
+    {
+     "id": "112",
+     "name": "Gear Socketing"
+    },
+    {
+     "id": "113",
+     "name": "Exchange Items"
+    },
+    {
+     "id": "114",
+     "name": "Exchange Items"
+    },
+    {
+     "id": "115",
+     "name": "Exchange Items"
+    },
+    {
+     "id": "116",
+     "name": "Exchange Items"
+    },
+    {
+     "id": "117",
+     "name": "Exchange Items"
+    },
+    {
+     "id": "118",
+     "name": "Exchange Items"
+    },
+    {
+     "id": "119",
+     "name": "Exchange Items"
+    },
+    {
+     "id": "120",
+     "name": "Exchange Items"
+    },
+    {
+     "id": "121",
+     "name": "Exchange Items"
+    },
+    {
+     "id": "122",
+     "name": "Exchange Items"
+    },
+    {
      "id": "123",
      "name": "Buy Items"
     },
@@ -203,15 +463,306 @@
     {
      "id": "127",
      "name": "Buy Items"
+    },
+    {
+     "id": "128",
+     "name": "Buy Items"
+    },
+    {
+     "id": "129",
+     "name": "Buy Items"
+    },
+    {
+     "id": "130",
+     "name": "Buy Items"
+    },
+    {
+     "id": "131",
+     "name": "Buy Items"
+    },
+    {
+     "id": "132",
+     "name": "Buy Items"
+    },
+    {
+     "id": "133",
+     "name": "Buy Items"
+    },
+    {
+     "id": "134",
+     "name": "Buy Items"
+    },
+    {
+     "id": "135",
+     "name": "Buy Items"
+    },
+    {
+     "id": "136",
+     "name": "Buy Items"
+    },
+    {
+     "id": "137",
+     "name": "Buy Items"
+    },
+    {
+     "id": "143",
+     "name": "Buy Items"
+    },
+    {
+     "id": "144",
+     "name": "Buy Items"
+    },
+    {
+     "id": "145",
+     "name": "Buy Items"
+    },
+    {
+     "id": "146",
+     "name": "Buy Items"
+    },
+    {
+     "id": "147",
+     "name": "Buy Items"
+    },
+    {
+     "id": "148",
+     "name": "Gem Collection"
+    },
+    {
+     "id": "149",
+     "name": "Gem Collection"
+    },
+    {
+     "id": "150",
+     "name": "Gem Collection"
+    },
+    {
+     "id": "151",
+     "name": "Gem Collection"
+    },
+    {
+     "id": "152",
+     "name": "Gem Collection"
+    },
+    {
+     "id": "153",
+     "name": "Gem Collection"
+    },
+    {
+     "id": "154",
+     "name": "Gem Collection"
+    },
+    {
+     "id": "155",
+     "name": "Gem Collection"
+    },
+    {
+     "id": "156",
+     "name": "Gem Collection"
+    },
+    {
+     "id": "157",
+     "name": "Gem Collection"
+    },
+    {
+     "id": "158",
+     "name": "Perfect Training"
+    },
+    {
+     "id": "159",
+     "name": "Perfect Training"
+    },
+    {
+     "id": "160",
+     "name": "Perfect Training"
+    },
+    {
+     "id": "161",
+     "name": "Perfect Training"
+    },
+    {
+     "id": "162",
+     "name": "Perfect Training"
+    },
+    {
+     "id": "163",
+     "name": "Perfect Training"
+    },
+    {
+     "id": "164",
+     "name": "Perfect Training"
+    },
+    {
+     "id": "165",
+     "name": "Perfect Training"
+    },
+    {
+     "id": "166",
+     "name": "Perfect Training"
+    },
+    {
+     "id": "167",
+     "name": "Perfect Training"
+    },
+    {
+     "id": "168",
+     "name": "Complete Blood Battle"
+    },
+    {
+     "id": "169",
+     "name": "Complete Blood Battle"
+    },
+    {
+     "id": "170",
+     "name": "Complete Blood Battle"
+    },
+    {
+     "id": "171",
+     "name": "Complete Blood Battle"
+    },
+    {
+     "id": "172",
+     "name": "Complete Blood Battle"
+    },
+    {
+     "id": "173",
+     "name": "First Clear"
+    },
+    {
+     "id": "174",
+     "name": "Quick Clear"
+    },
+    {
+     "id": "175",
+     "name": "First Clear"
+    },
+    {
+     "id": "176",
+     "name": "Quick Clear"
+    },
+    {
+     "id": "177",
+     "name": "First Clear"
+    },
+    {
+     "id": "178",
+     "name": "Quick Clear"
+    },
+    {
+     "id": "179",
+     "name": "First Clear"
+    },
+    {
+     "id": "180",
+     "name": "Quick Clear"
+    },
+    {
+     "id": "181",
+     "name": "First Clear"
+    },
+    {
+     "id": "182",
+     "name": "Quick Clear"
+    },
+    {
+     "id": "183",
+     "name": "First Clear"
+    },
+    {
+     "id": "184",
+     "name": "Quick Clear"
+    },
+    {
+     "id": "185",
+     "name": "First Clear"
+    },
+    {
+     "id": "186",
+     "name": "Quick Clear"
+    },
+    {
+     "id": "187",
+     "name": "First Clear"
+    },
+    {
+     "id": "188",
+     "name": "Quick Clear"
+    },
+    {
+     "id": "189",
+     "name": "First Clear"
+    },
+    {
+     "id": "190",
+     "name": "Quick Clear"
+    },
+    {
+     "id": "191",
+     "name": "First Clear"
+    },
+    {
+     "id": "192",
+     "name": "Quick Clear"
+    },
+    {
+     "id": "193",
+     "name": "First Clear"
+    },
+    {
+     "id": "194",
+     "name": "Quick Clear"
+    },
+    {
+     "id": "195",
+     "name": "First Clear"
+    },
+    {
+     "id": "196",
+     "name": "Quick Clear"
     }
    ],
    "other_bundle_rows": [
     {
+     "id": "197",
+     "name": "Character Collection"
+    },
+    {
+     "id": "198",
+     "name": "Character Collection"
+    },
+    {
+     "id": "199",
+     "name": "Character Collection"
+    },
+    {
+     "id": "200",
+     "name": "Character Collection"
+    },
+    {
+     "id": "201",
+     "name": "Character Recruit"
+    },
+    {
+     "id": "202",
+     "name": "Character Recruit"
+    },
+    {
+     "id": "203",
+     "name": "Friends Feature"
+    },
+    {
+     "id": "204",
+     "name": "Cumulative Login"
+    },
+    {
      "id": "205",
      "name": "Arena"
+    },
+    {
+     "id": "206",
+     "name": "Defeat the Troublemakers"
     }
-   ],
-   "partial": "49/187 rows translated so far"
+   ]
   },
   "TableActivityEntrance": {
    "key_column": "typeId",
@@ -703,6 +1254,106 @@
     {
      "typeId": "10023999",
      "nameIndex": "Please Select-----"
+    }
+   ]
+  },
+  "TableAttainmentTask": {
+   "key_column": "Id",
+   "text_columns": [
+    "description",
+    "taskName"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "Id": "1",
+     "description": "Clear Phase 1 Stage 10 with Killer in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "2",
+     "description": "Clear Phase 1 Stage 10 with New World Kid in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "3",
+     "description": "Clear Phase 1 Stage 10 with Wano Trafalgar Law in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "4",
+     "description": "Clear Phase 1 Stage 15 with Killer in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "5",
+     "description": "Clear Phase 1 Stage 15 with New World Kid in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "6",
+     "description": "Clear Phase 1 Stage 15 with Wano Trafalgar Law in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "7",
+     "description": "Clear Phase 2 Stage 15 with Killer in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "8",
+     "description": "Clear Phase 2 Stage 15 with New World Kid in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "9",
+     "description": "Clear Phase 2 Stage 15 with Wano Trafalgar Law in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "10",
+     "description": "Upgrade any 1 character's Enhancement Talent to Lv3 in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "11",
+     "description": "Upgrade any 2 characters' Enhancement Talents to Lv3 in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "12",
+     "description": "Upgrade all characters' Enhancement Talents to Lv3 in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "13",
+     "description": "Upgrade any 1 character's Enhancement Talent to Lv5 in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "14",
+     "description": "Upgrade any 2 characters' Enhancement Talents to Lv5 in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "15",
+     "description": "Upgrade all characters' Enhancement Talents to Lv5 in Route Expedition",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "16",
+     "description": "Deal over 90000 damage with Killer in a single Route Expedition battle",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "17",
+     "description": "Deal over 90000 damage with New World Kid in a single Route Expedition battle",
+     "taskName": "Route Expedition"
+    },
+    {
+     "Id": "18",
+     "description": "Deal over 90000 damage with Wano Trafalgar Law in a single Route Expedition battle",
+     "taskName": "Route Expedition"
     }
    ]
   },
@@ -1212,6 +1863,142 @@
     {
      "id": "6",
      "name": "Jabra"
+    }
+   ]
+  },
+  "TableBeastPiratesStrongholdEntry": {
+   "key_column": "entryId",
+   "text_columns": [
+    "entryInfo"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "entryId": "1",
+     "entryInfo": "Win in 5 turns or fewer"
+    },
+    {
+     "entryId": "2",
+     "entryInfo": "Win with all members alive"
+    },
+    {
+     "entryId": "3",
+     "entryInfo": "Total damage reaches 20,000,000"
+    },
+    {
+     "entryId": "4",
+     "entryInfo": "Total damage reaches 40,000,000"
+    },
+    {
+     "entryId": "5",
+     "entryInfo": "Total damage reaches 100,000,000"
+    },
+    {
+     "entryId": "6",
+     "entryInfo": "Total damage reaches 200,000,000"
+    },
+    {
+     "entryId": "7",
+     "entryInfo": "Max combo reaches 30"
+    },
+    {
+     "entryId": "8",
+     "entryInfo": "Max combo reaches 50"
+    },
+    {
+     "entryId": "9",
+     "entryInfo": "Win in 3 turns or fewer"
+    },
+    {
+     "entryId": "10",
+     "entryInfo": "Win in 2 turns or fewer"
+    },
+    {
+     "entryId": "11",
+     "entryInfo": "Win with all members alive"
+    },
+    {
+     "entryId": "12",
+     "entryInfo": "Win in 8 turns or fewer"
+    },
+    {
+     "entryId": "13",
+     "entryInfo": "Win in 7 turns or fewer"
+    },
+    {
+     "entryId": "14",
+     "entryInfo": "Win in 6 turns or fewer"
+    },
+    {
+     "entryId": "15",
+     "entryInfo": "Win in 5 turns or fewer"
+    },
+    {
+     "entryId": "16",
+     "entryInfo": "Win in 4 turns or fewer"
+    },
+    {
+     "entryId": "17",
+     "entryInfo": "Win using Ultimates no more than 40 times"
+    },
+    {
+     "entryId": "18",
+     "entryInfo": "Win using Ultimates no more than 30 times"
+    },
+    {
+     "entryId": "19",
+     "entryInfo": "Win using Ultimates no more than 20 times"
+    },
+    {
+     "entryId": "20",
+     "entryInfo": "Win using Ultimates no more than 10 times"
+    },
+    {
+     "entryId": "21",
+     "entryInfo": "Win with HP at 100% or above"
+    },
+    {
+     "entryId": "22",
+     "entryInfo": "Win with HP at 90% or above"
+    },
+    {
+     "entryId": "23",
+     "entryInfo": "Win with HP at 80% or above"
+    },
+    {
+     "entryId": "24",
+     "entryInfo": "Win with HP at 60% or above"
+    },
+    {
+     "entryId": "25",
+     "entryInfo": "Win with HP at 50% or above"
+    },
+    {
+     "entryId": "26",
+     "entryInfo": "Win with HP at 40% or above"
+    },
+    {
+     "entryId": "27",
+     "entryInfo": "Win with HP at 30% or above"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "entryId": "3",
+     "entryInfo": "Total damage reaches 2,000,000"
+    },
+    {
+     "entryId": "4",
+     "entryInfo": "Total damage reaches 4,000,000"
+    },
+    {
+     "entryId": "5",
+     "entryInfo": "Total damage reaches 10,000,000"
+    },
+    {
+     "entryId": "6",
+     "entryInfo": "Total damage reaches 20,000,000"
     }
    ]
   },
@@ -3897,12 +4684,91 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "taskId": "1",
+     "taskDesc": "Earn 100 Sailing Pass Activity in total"
+    },
+    {
+     "taskId": "2",
+     "taskDesc": "Earn 200 Sailing Pass Activity in total"
+    },
+    {
+     "taskId": "3",
+     "taskDesc": "Earn 300 Sailing Pass Activity in total"
+    },
+    {
+     "taskId": "4",
+     "taskDesc": "Clear Event Dungeons 10 times"
+    },
+    {
+     "taskId": "5",
+     "taskDesc": "Challenge the Arena 5 times"
+    },
+    {
      "taskId": "6",
      "taskDesc": "Complete 6 Expeditions"
+    },
+    {
+     "taskId": "7",
+     "taskDesc": "Earn 500 Sailing Pass Activity in total"
+    },
+    {
+     "taskId": "8",
+     "taskDesc": "Earn 1000 Sailing Pass Activity in total"
+    },
+    {
+     "taskId": "9",
+     "taskDesc": "Earn 1500 Sailing Pass Activity in total"
+    },
+    {
+     "taskId": "10",
+     "taskDesc": "Make 5 Guild Donations"
+    },
+    {
+     "taskId": "11",
+     "taskDesc": "Complete 20 Ladder matches"
+    },
+    {
+     "taskId": "12",
+     "taskDesc": "Gather herbs or crafting materials 50 times"
+    },
+    {
+     "taskId": "13",
+     "taskDesc": "Make medicine 5 times"
+    },
+    {
+     "taskId": "14",
+     "taskDesc": "Earn 2000 Sailing Pass Activity in total"
+    },
+    {
+     "taskId": "15",
+     "taskDesc": "Earn 6000 Sailing Pass Activity in total"
+    },
+    {
+     "taskId": "16",
+     "taskDesc": "Earn 10000 Sailing Pass Activity in total"
+    },
+    {
+     "taskId": "17",
+     "taskDesc": "Log in for 10 days in total"
+    },
+    {
+     "taskId": "18",
+     "taskDesc": "Log in for 20 days in total"
+    },
+    {
+     "taskId": "19",
+     "taskDesc": "Log in for 30 days in total"
+    },
+    {
+     "taskId": "20",
+     "taskDesc": "Recruit characters 10 times"
+    },
+    {
+     "taskId": "21",
+     "taskDesc": "Buy items 10 times in total in the Rainbow Diamond/Blue Diamond Shop"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "1/21 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableChatConfig": {
    "key_column": "channelId",
@@ -4037,6 +4903,95 @@
     {
      "PropValue": "4",
      "name": "SPD"
+    }
+   ]
+  },
+  "TableEquipmentPreset": {
+   "key_column": "planId",
+   "text_columns": [
+    "initName"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "planId": "1",
+     "initName": "Gear Preset 1"
+    },
+    {
+     "planId": "2",
+     "initName": "Gear Preset 2"
+    },
+    {
+     "planId": "3",
+     "initName": "Gear Preset 3"
+    },
+    {
+     "planId": "4",
+     "initName": "Gear Preset 4"
+    },
+    {
+     "planId": "5",
+     "initName": "Gear Preset 5"
+    },
+    {
+     "planId": "6",
+     "initName": "Gear Preset 6"
+    },
+    {
+     "planId": "7",
+     "initName": "Gear Preset 7"
+    },
+    {
+     "planId": "8",
+     "initName": "Gear Preset 8"
+    },
+    {
+     "planId": "9",
+     "initName": "Gear Preset 9"
+    },
+    {
+     "planId": "10",
+     "initName": "Gear Preset 10"
+    },
+    {
+     "planId": "11",
+     "initName": "Gear Preset 11"
+    },
+    {
+     "planId": "12",
+     "initName": "Gear Preset 12"
+    },
+    {
+     "planId": "13",
+     "initName": "Gear Preset 13"
+    },
+    {
+     "planId": "14",
+     "initName": "Gear Preset 14"
+    },
+    {
+     "planId": "15",
+     "initName": "Gear Preset 15"
+    },
+    {
+     "planId": "16",
+     "initName": "Gear Preset 16"
+    },
+    {
+     "planId": "17",
+     "initName": "Gear Preset 17"
+    },
+    {
+     "planId": "18",
+     "initName": "Gear Preset 18"
+    },
+    {
+     "planId": "19",
+     "initName": "Gear Preset 19"
+    },
+    {
+     "planId": "20",
+     "initName": "Gear Preset 20"
     }
    ]
   },
@@ -4266,8 +5221,16 @@
      "descr": "Clear Event Dungeons 5 times"
     },
     {
+     "id": "3",
+     "descr": "Clear Event Dungeons 10 times"
+    },
+    {
      "id": "5",
      "descr": "Challenge Arena 3 times"
+    },
+    {
+     "id": "6",
+     "descr": "Challenge the Arena 5 times"
     },
     {
      "id": "8",
@@ -4290,7 +5253,155 @@
      "descr": "Make 1 Shop Purchase"
     }
    ],
-   "partial": "8/15 rows translated so far"
+   "partial": "10/15 rows translated so far"
+  },
+  "TableFightReportConfig": {
+   "key_column": "id",
+   "text_columns": [
+    "typeName",
+    "descri"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "typeName": "Buff",
+     "descri": "{0} gains the [{3}] effect of {1}'s talent [{2}] ({4} stacks);{0} gains the [{3}] effect of {1}'s talent [{2}]"
+    },
+    {
+     "id": "2",
+     "typeName": "Buff",
+     "descri": "{0} loses the [{3}] effect of {1}'s talent [{2}] ({4} stacks);{0} loses the [{3}] effect of {1}'s talent [{2}]"
+    },
+    {
+     "id": "3",
+     "typeName": "DMG",
+     "descri": "{0} is hit by {1}'s skill [{2}], taking <color=#ff0901>{3}</color> damage ({4})"
+    },
+    {
+     "id": "8",
+     "typeName": "Interrupt",
+     "descri": "{0} gains the [{3}] effect of {1}'s talent [{2}], interrupting 1 action of {4}"
+    },
+    {
+     "id": "11",
+     "typeName": "Defeated",
+     "descri": "{0} was defeated"
+    },
+    {
+     "id": "12",
+     "typeName": "Revived",
+     "descri": "{0} revived"
+    },
+    {
+     "id": "13",
+     "typeName": "",
+     "descri": "{0} gains the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} gains the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "14",
+     "typeName": "",
+     "descri": "{0} loses the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} loses the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "16",
+     "typeName": "",
+     "descri": "{0} is attacked by {1}'s skill [{2}], triggers [Dodge] and takes <color=#ff0901>0</color> damage ({3})"
+    },
+    {
+     "id": "101",
+     "typeName": "",
+     "descri": "{0} begins acting"
+    },
+    {
+     "id": "102",
+     "typeName": "",
+     "descri": "{0} uses the skill [{1}]"
+    },
+    {
+     "id": "103",
+     "typeName": "",
+     "descri": "{0} after acting"
+    },
+    {
+     "id": "105",
+     "typeName": "",
+     "descri": "{0} all defeated. Victory!"
+    },
+    {
+     "id": "106",
+     "typeName": "",
+     "descri": "{0} all defeated. Defeat!"
+    },
+    {
+     "id": "107",
+     "typeName": "",
+     "descri": "{0} left early"
+    },
+    {
+     "id": "108",
+     "typeName": "",
+     "descri": "{0} triggers the talent [{1}]"
+    },
+    {
+     "id": "109",
+     "typeName": "",
+     "descri": "{0} automatically gains {1} Soul Jade"
+    },
+    {
+     "id": "111",
+     "typeName": "",
+     "descri": "{0}'s skill [{1}] applies the [{2}] effect"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "typeName": "Buff",
+     "descri": "{0} gains the {3} effect of {1}'s talent {2} ({4})"
+    },
+    {
+     "id": "2",
+     "typeName": "Buff",
+     "descri": "{0} loses the {3} effect of {1}'s talent {2} ({4})"
+    },
+    {
+     "id": "3",
+     "typeName": "DMG",
+     "descri": "{0} is hit by {1}'s skill {2}, taking {3} damage ({4})"
+    },
+    {
+     "id": "10",
+     "typeName": "",
+     "descri": "{0}'s Soul Jade is at max; failed to gain {1} Soul Jade"
+    },
+    {
+     "id": "13",
+     "typeName": "",
+     "descri": "{0} gains the {3} effect from {1}'s skill {2} ({4})"
+    },
+    {
+     "id": "14",
+     "typeName": "",
+     "descri": "{0} loses the {3} effect from {1}'s skill {2} ({4})"
+    },
+    {
+     "id": "108",
+     "typeName": "",
+     "descri": "{0} triggers the talent {1}"
+    },
+    {
+     "id": "110",
+     "typeName": "",
+     "descri": "{0}'s Soul Jade is at max; failed to gain {1} Soul Jade"
+    },
+    {
+     "id": "111",
+     "typeName": "",
+     "descri": "{0}'s skill {1} applies the {2} effect"
+    }
+   ]
   },
   "TableFirstRechargeTaskGroup": {
    "key_column": "groupType",
@@ -5729,6 +6840,107 @@
     }
    ]
   },
+  "TableIntegralHonorTask": {
+   "key_column": "id",
+   "text_columns": [
+    "taskText"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "taskText": "Personal points reach 1500"
+    },
+    {
+     "id": "2",
+     "taskText": "Personal points reach 1800"
+    },
+    {
+     "id": "3",
+     "taskText": "Personal points reach 2000"
+    },
+    {
+     "id": "4",
+     "taskText": "Join 10 battles in total"
+    },
+    {
+     "id": "5",
+     "taskText": "Join 20 battles in total"
+    },
+    {
+     "id": "6",
+     "taskText": "Join 30 battles in total"
+    },
+    {
+     "id": "7",
+     "taskText": "Win 3 battles in total"
+    },
+    {
+     "id": "8",
+     "taskText": "Win 5 battles in total"
+    },
+    {
+     "id": "9",
+     "taskText": "Win 10 battles in total"
+    },
+    {
+     "id": "10",
+     "taskText": "Personal season buff level reaches 3"
+    },
+    {
+     "id": "11",
+     "taskText": "Personal season buff level reaches 5"
+    },
+    {
+     "id": "12",
+     "taskText": "Personal season buff level reaches 10"
+    },
+    {
+     "id": "13",
+     "taskText": "10 current guild members reach 1500 points"
+    },
+    {
+     "id": "14",
+     "taskText": "10 current guild members reach 1800 points"
+    },
+    {
+     "id": "15",
+     "taskText": "10 current guild members reach 2000 points"
+    },
+    {
+     "id": "16",
+     "taskText": "15 current guild members reach 1500 points"
+    },
+    {
+     "id": "17",
+     "taskText": "20 current guild members reach 1500 points"
+    },
+    {
+     "id": "18",
+     "taskText": "Guild members join 50 battles in total"
+    },
+    {
+     "id": "19",
+     "taskText": "Guild members join 80 battles in total"
+    },
+    {
+     "id": "20",
+     "taskText": "Guild members join 100 battles in total"
+    },
+    {
+     "id": "21",
+     "taskText": "Guild members join 200 battles in total"
+    },
+    {
+     "id": "22",
+     "taskText": "Guild members win 50 battles in total"
+    },
+    {
+     "id": "23",
+     "taskText": "Guild members win 100 battles in total"
+    }
+   ]
+  },
   "TableIntegralHonorTechTree": {
    "key_column": "id",
    "text_columns": [
@@ -6247,6 +7459,18 @@
      "zoneName": "New World"
     },
     {
+     "id": "888",
+     "zoneName": "Vanguard"
+    },
+    {
+     "id": "890",
+     "zoneName": "Vanguard"
+    },
+    {
+     "id": "891",
+     "zoneName": "Vanguard"
+    },
+    {
      "id": "1",
      "zoneName": "New World"
     },
@@ -6407,6 +7631,278 @@
      "zoneName": "New World"
     },
     {
+     "id": "1001",
+     "zoneName": "East Blue Region"
+    },
+    {
+     "id": "1030",
+     "zoneName": "East Blue Region"
+    },
+    {
+     "id": "7003",
+     "zoneName": "East Blue Region"
+    },
+    {
+     "id": "7004",
+     "zoneName": "East Blue Region"
+    },
+    {
+     "id": "7005",
+     "zoneName": "East Blue Region"
+    },
+    {
+     "id": "7006",
+     "zoneName": "East Blue Region"
+    },
+    {
+     "id": "7007",
+     "zoneName": "East Blue Region"
+    },
+    {
+     "id": "7008",
+     "zoneName": "East Blue Region"
+    },
+    {
+     "id": "7009",
+     "zoneName": "East Blue Region"
+    },
+    {
+     "id": "7010",
+     "zoneName": "East Blue Region"
+    },
+    {
+     "id": "1004",
+     "zoneName": "North Blue Region"
+    },
+    {
+     "id": "1047",
+     "zoneName": "Xiao Y Exclusive"
+    },
+    {
+     "id": "1048",
+     "zoneName": "Xiao Y Exclusive"
+    },
+    {
+     "id": "1049",
+     "zoneName": "Xiao Y Exclusive"
+    },
+    {
+     "id": "1050",
+     "zoneName": "Xiao Y Exclusive"
+    },
+    {
+     "id": "1051",
+     "zoneName": "Xiao Y Exclusive"
+    },
+    {
+     "id": "1052",
+     "zoneName": "Xiao Y Exclusive"
+    },
+    {
+     "id": "1006",
+     "zoneName": "West Blue Region"
+    },
+    {
+     "id": "1057",
+     "zoneName": "West Blue Region"
+    },
+    {
+     "id": "1058",
+     "zoneName": "West Blue Region"
+    },
+    {
+     "id": "1059",
+     "zoneName": "West Blue Region"
+    },
+    {
+     "id": "1060",
+     "zoneName": "West Blue Region"
+    },
+    {
+     "id": "1061",
+     "zoneName": "West Blue Region"
+    },
+    {
+     "id": "1011",
+     "zoneName": "South Blue Region"
+    },
+    {
+     "id": "1014",
+     "zoneName": "South Blue Region"
+    },
+    {
+     "id": "1065",
+     "zoneName": "South Blue Region"
+    },
+    {
+     "id": "1066",
+     "zoneName": "South Blue Region"
+    },
+    {
+     "id": "1067",
+     "zoneName": "South Blue Region"
+    },
+    {
+     "id": "1068",
+     "zoneName": "South Blue Region"
+    },
+    {
+     "id": "1069",
+     "zoneName": "South Blue Region"
+    },
+    {
+     "id": "1070",
+     "zoneName": "South Blue Region"
+    },
+    {
+     "id": "2100",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2102",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2106",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2109",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2111",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2113",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2115",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2117",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2118",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2120",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2122",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2124",
+     "zoneName": "Supernova Region"
+    },
+    {
+     "id": "2125",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2126",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2127",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2128",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2129",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2130",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2131",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2132",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2133",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2134",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2135",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2136",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2137",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2138",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2139",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2140",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2141",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2142",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2143",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2144",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2145",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2146",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2147",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2148",
+     "zoneName": "Zou Region"
+    },
+    {
+     "id": "2149",
+     "zoneName": "Zou Region"
+    },
+    {
      "id": "6001",
      "zoneName": "New World"
     },
@@ -6453,10 +7949,366 @@
     {
      "id": "6025",
      "zoneName": "New World"
+    },
+    {
+     "id": "6026",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6027",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6028",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6029",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6030",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6031",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6032",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6033",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6034",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6035",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6036",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6037",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6038",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6039",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6040",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6041",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6042",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6043",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6044",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6045",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6046",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6047",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6048",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6049",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "6050",
+     "zoneName": "Sky Island Region"
+    },
+    {
+     "id": "4001",
+     "zoneName": "PC Region"
+    },
+    {
+     "id": "4002",
+     "zoneName": "PC Region"
+    },
+    {
+     "id": "4003",
+     "zoneName": "PC Region"
+    },
+    {
+     "id": "4004",
+     "zoneName": "PC Region"
+    },
+    {
+     "id": "4005",
+     "zoneName": "PC Region"
+    },
+    {
+     "id": "4006",
+     "zoneName": "PC Region"
+    },
+    {
+     "id": "4007",
+     "zoneName": "PC Region"
+    },
+    {
+     "id": "4008",
+     "zoneName": "PC Region"
+    },
+    {
+     "id": "4009",
+     "zoneName": "PC Region"
+    },
+    {
+     "id": "4010",
+     "zoneName": "PC Region"
+    },
+    {
+     "id": "4011",
+     "zoneName": "PC Region"
+    },
+    {
+     "id": "4012",
+     "zoneName": "PC Region"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "61/221 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "id": "9992",
+     "zoneName": "Intranet 1"
+    },
+    {
+     "id": "9994",
+     "zoneName": "Intranet 2"
+    },
+    {
+     "id": "9996",
+     "zoneName": "Intranet 3"
+    },
+    {
+     "id": "9997",
+     "zoneName": "Intranet 4"
+    },
+    {
+     "id": "9999",
+     "zoneName": "Intranet 5"
+    },
+    {
+     "id": "9000",
+     "zoneName": "Intranet 1"
+    },
+    {
+     "id": "9001",
+     "zoneName": "Intranet 2"
+    },
+    {
+     "id": "9103",
+     "zoneName": "Classic Server 1 Region"
+    },
+    {
+     "id": "9104",
+     "zoneName": "Classic Server 2 Region"
+    },
+    {
+     "id": "9105",
+     "zoneName": "Classic Server 3 Region"
+    },
+    {
+     "id": "9600",
+     "zoneName": "Intranet 3"
+    },
+    {
+     "id": "9666",
+     "zoneName": "Intranet 4"
+    },
+    {
+     "id": "1",
+     "zoneName": "Intranet 3"
+    },
+    {
+     "id": "2",
+     "zoneName": "Intranet 4"
+    },
+    {
+     "id": "3",
+     "zoneName": "Intranet 5"
+    },
+    {
+     "id": "4",
+     "zoneName": "Intranet 1"
+    },
+    {
+     "id": "5",
+     "zoneName": "Intranet 2"
+    },
+    {
+     "id": "6",
+     "zoneName": "Intranet 3"
+    },
+    {
+     "id": "7",
+     "zoneName": "Intranet 4"
+    },
+    {
+     "id": "8",
+     "zoneName": "Intranet 5"
+    },
+    {
+     "id": "9",
+     "zoneName": "Intranet 1"
+    },
+    {
+     "id": "10",
+     "zoneName": "Intranet 2"
+    },
+    {
+     "id": "11",
+     "zoneName": "Intranet 3"
+    },
+    {
+     "id": "12",
+     "zoneName": "Intranet 4"
+    },
+    {
+     "id": "13",
+     "zoneName": "Intranet 5"
+    },
+    {
+     "id": "14",
+     "zoneName": "Intranet 1"
+    },
+    {
+     "id": "15",
+     "zoneName": "Intranet 2"
+    },
+    {
+     "id": "16",
+     "zoneName": "Intranet 3"
+    },
+    {
+     "id": "17",
+     "zoneName": "Intranet 4"
+    },
+    {
+     "id": "18",
+     "zoneName": "Intranet 5"
+    },
+    {
+     "id": "19",
+     "zoneName": "Intranet 1"
+    },
+    {
+     "id": "20",
+     "zoneName": "Intranet 2"
+    },
+    {
+     "id": "21",
+     "zoneName": "Intranet 3"
+    },
+    {
+     "id": "22",
+     "zoneName": "Intranet 4"
+    },
+    {
+     "id": "23",
+     "zoneName": "Intranet 5"
+    },
+    {
+     "id": "24",
+     "zoneName": "Intranet 1"
+    },
+    {
+     "id": "25",
+     "zoneName": "Intranet 2"
+    },
+    {
+     "id": "26",
+     "zoneName": "Intranet 3"
+    },
+    {
+     "id": "27",
+     "zoneName": "Intranet 4"
+    },
+    {
+     "id": "28",
+     "zoneName": "Intranet 5"
+    },
+    {
+     "id": "29",
+     "zoneName": "Intranet 1"
+    },
+    {
+     "id": "30",
+     "zoneName": "Intranet 2"
+    },
+    {
+     "id": "31",
+     "zoneName": "Intranet 3"
+    },
+    {
+     "id": "32",
+     "zoneName": "Intranet 4"
+    },
+    {
+     "id": "33",
+     "zoneName": "Intranet 5"
+    },
+    {
+     "id": "34",
+     "zoneName": "Intranet 1"
+    },
+    {
+     "id": "35",
+     "zoneName": "Intranet 2"
+    },
+    {
+     "id": "36",
+     "zoneName": "Intranet 3"
+    },
+    {
+     "id": "37",
+     "zoneName": "Intranet 4"
+    },
+    {
+     "id": "38",
+     "zoneName": "Intranet 5"
+    },
+    {
+     "id": "39",
+     "zoneName": "Intranet 1"
+    },
+    {
+     "id": "40",
+     "zoneName": "Intranet 2"
+    }
+   ]
   },
   "TableMainStoryActivity": {
    "key_column": "id",
@@ -6618,6 +8470,314 @@
      "id": "22",
      "name": "Phase 5",
      "desc": "Main Story Chapter 46: \"Bloom the Flower of Friendship\" - Limited-Time Hard Stage Challenge"
+    }
+   ]
+  },
+  "TableMainStoryActivityLevel": {
+   "key_column": "id",
+   "text_columns": [
+    "name",
+    "taskName"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "101",
+     "name": "Episode 1",
+     "taskName": "Chapter 67: Tama in Danger"
+    },
+    {
+     "id": "102",
+     "name": "Episode 2",
+     "taskName": "Chapter 67: Tama in Danger"
+    },
+    {
+     "id": "201",
+     "name": "Episode 1",
+     "taskName": "Chapter 67: Tama in Danger"
+    },
+    {
+     "id": "202",
+     "name": "Episode 2",
+     "taskName": "Chapter 67: Tama in Danger"
+    },
+    {
+     "id": "301",
+     "name": "Episode 1",
+     "taskName": "Chapter 67: Tama in Danger"
+    },
+    {
+     "id": "302",
+     "name": "Episode 2",
+     "taskName": "Chapter 67: Tama in Danger"
+    },
+    {
+     "id": "401",
+     "name": "Episode 1",
+     "taskName": "Chapter 68: Farewell, Tama"
+    },
+    {
+     "id": "402",
+     "name": "Episode 2",
+     "taskName": "Chapter 68: Farewell, Tama"
+    },
+    {
+     "id": "501",
+     "name": "Episode 1",
+     "taskName": "Chapter 68: Farewell, Tama"
+    },
+    {
+     "id": "502",
+     "name": "Episode 2",
+     "taskName": "Chapter 68: Farewell, Tama"
+    },
+    {
+     "id": "601",
+     "name": "Episode 1",
+     "taskName": "Chapter 69: Facing Kaido"
+    },
+    {
+     "id": "602",
+     "name": "Episode 2",
+     "taskName": "Chapter 69: Facing Kaido"
+    },
+    {
+     "id": "701",
+     "name": "Episode 1",
+     "taskName": "Chapter 69: Facing Kaido"
+    },
+    {
+     "id": "801",
+     "name": "Episode 1",
+     "taskName": "Chapter 70: Chaos in the Flower Capital"
+    },
+    {
+     "id": "802",
+     "name": "Episode 1",
+     "taskName": "Chapter 70: Chaos in the Flower Capital"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "101",
+     "name": "Episode 1",
+     "taskName": "Chapter 29: Accurate Forecast"
+    },
+    {
+     "id": "102",
+     "name": "Episode 2",
+     "taskName": "Chapter 29: Accurate Forecast"
+    },
+    {
+     "id": "201",
+     "name": "Episode 1",
+     "taskName": "Chapter 29: Thank You! Merry"
+    },
+    {
+     "id": "202",
+     "name": "Episode 2",
+     "taskName": "Chapter 29: Thank You! Merry"
+    },
+    {
+     "id": "301",
+     "name": "Episode 1",
+     "taskName": "Chapter 30: The New World"
+    },
+    {
+     "id": "302",
+     "name": "Episode 2",
+     "taskName": "Chapter 30: The New World"
+    },
+    {
+     "id": "401",
+     "name": "Episode 1",
+     "taskName": "Chapter 31: Live for Your Dream"
+    },
+    {
+     "id": "402",
+     "name": "Episode 2",
+     "taskName": "Chapter 31: Live for Your Dream"
+    },
+    {
+     "id": "501",
+     "name": "Episode 1",
+     "taskName": "Chapter 32: Welcome to the Ghost Mansion"
+    },
+    {
+     "id": "502",
+     "name": "Episode 2",
+     "taskName": "Chapter 32: Welcome to the Ghost Mansion"
+    },
+    {
+     "id": "601",
+     "name": "Episode 1",
+     "taskName": "Chapter 33: The Legendary Samurai of Wano"
+    },
+    {
+     "id": "602",
+     "name": "Episode 2",
+     "taskName": "Chapter 33: The Legendary Samurai of Wano"
+    },
+    {
+     "id": "701",
+     "name": "Episode 1",
+     "taskName": "Chapter 34: The Promised Reunion"
+    },
+    {
+     "id": "702",
+     "name": "Episode 2",
+     "taskName": "Chapter 34: The Promised Reunion"
+    },
+    {
+     "id": "801",
+     "name": "Episode 1",
+     "taskName": "Chapter 35: Negative Nemesis"
+    },
+    {
+     "id": "802",
+     "name": "Episode 2",
+     "taskName": "Chapter 35: Negative Nemesis"
+    },
+    {
+     "id": "901",
+     "name": "Episode 1",
+     "taskName": "Chapter 36: Sanji's Dream"
+    },
+    {
+     "id": "902",
+     "name": "Episode 2",
+     "taskName": "Chapter 36: Sanji's Dream"
+    },
+    {
+     "id": "1001",
+     "name": "Episode 1",
+     "taskName": "Chapter 37: Chopper's Fury"
+    },
+    {
+     "id": "1002",
+     "name": "Episode 2",
+     "taskName": "Chapter 37: Chopper's Fury"
+    },
+    {
+     "id": "1101",
+     "name": "Episode 1",
+     "taskName": "Chapter 38: Lola's Gift"
+    },
+    {
+     "id": "1102",
+     "name": "Episode 2",
+     "taskName": "Chapter 38: Lola's Gift"
+    },
+    {
+     "id": "1201",
+     "name": "Episode 1",
+     "taskName": "Chapter 21: Wyper the War Demon"
+    },
+    {
+     "id": "1202",
+     "name": "Episode 2",
+     "taskName": "Chapter 21: Wyper the War Demon"
+    },
+    {
+     "id": "1301",
+     "name": "Episode 1",
+     "taskName": "Chapter 22: God Appears"
+    },
+    {
+     "id": "1302",
+     "name": "Episode 2",
+     "taskName": "Chapter 22: God Appears"
+    },
+    {
+     "id": "1401",
+     "name": "Episode 1",
+     "taskName": "Chapter 23: Farewell, White Sea"
+    },
+    {
+     "id": "1402",
+     "name": "Episode 2",
+     "taskName": "Chapter 23: Farewell, White Sea"
+    },
+    {
+     "id": "1501",
+     "name": "Episode 1",
+     "taskName": "Chapter 39: Sabaody, the Dream Archipelago"
+    },
+    {
+     "id": "1502",
+     "name": "Episode 2",
+     "taskName": "Chapter 39: Sabaody, the Dream Archipelago"
+    },
+    {
+     "id": "1601",
+     "name": "Episode 1",
+     "taskName": "Chapter 40: Amusement Park"
+    },
+    {
+     "id": "1602",
+     "name": "Episode 2",
+     "taskName": "Chapter 40: Amusement Park"
+    },
+    {
+     "id": "1701",
+     "name": "Episode 1",
+     "taskName": "Chapter 41: A Powerless Struggle"
+    },
+    {
+     "id": "1702",
+     "name": "Episode 2",
+     "taskName": "Chapter 41: A Powerless Struggle"
+    },
+    {
+     "id": "1801",
+     "name": "Episode 1",
+     "taskName": "Chapter 42: To Impel Down"
+    },
+    {
+     "id": "1802",
+     "name": "Episode 2",
+     "taskName": "Chapter 42: To Impel Down"
+    },
+    {
+     "id": "1901",
+     "name": "Episode 1",
+     "taskName": "Chapter 43: Guardian of the Stairs"
+    },
+    {
+     "id": "1902",
+     "name": "Episode 2",
+     "taskName": "Chapter 43: Guardian of the Stairs"
+    },
+    {
+     "id": "2001",
+     "name": "Episode 1",
+     "taskName": "Chapter 44: All or Nothing"
+    },
+    {
+     "id": "2002",
+     "name": "Episode 2",
+     "taskName": "Chapter 44: All or Nothing"
+    },
+    {
+     "id": "2101",
+     "name": "Episode 1",
+     "taskName": "Chapter 45: Revolutionary Comrades"
+    },
+    {
+     "id": "2102",
+     "name": "Episode 2",
+     "taskName": "Chapter 45: Revolutionary Comrades"
+    },
+    {
+     "id": "2201",
+     "name": "Episode 1",
+     "taskName": "Chapter 46: Target: Marine HQ"
+    },
+    {
+     "id": "2202",
+     "name": "Episode 2",
+     "taskName": "Chapter 46: Target: Marine HQ"
     }
    ]
   },
@@ -7165,6 +9325,143 @@
    ],
    "other_bundle_rows": [],
    "partial": "1/3 rows translated so far"
+  },
+  "TableNewTriggerGiftGroup": {
+   "key_column": "id",
+   "text_columns": [
+    "giftName"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "9",
+     "giftName": "Recruit Pack"
+    },
+    {
+     "id": "10",
+     "giftName": "Recruit Pack"
+    },
+    {
+     "id": "11",
+     "giftName": "Recruit Pack"
+    },
+    {
+     "id": "12",
+     "giftName": "Recruit Pack"
+    },
+    {
+     "id": "13",
+     "giftName": "Transcend Pack 1"
+    },
+    {
+     "id": "14",
+     "giftName": "Transcend Pack 2"
+    },
+    {
+     "id": "15",
+     "giftName": "Transcend Pack 3"
+    },
+    {
+     "id": "16",
+     "giftName": "Transcend Pack 4"
+    },
+    {
+     "id": "17",
+     "giftName": "Soul Infusion Pack 1"
+    },
+    {
+     "id": "18",
+     "giftName": "Soul Infusion Pack 2"
+    },
+    {
+     "id": "19",
+     "giftName": "Soul Infusion Pack 3"
+    },
+    {
+     "id": "20",
+     "giftName": "Soul Infusion Pack 4"
+    },
+    {
+     "id": "21",
+     "giftName": "Training Pack 1"
+    },
+    {
+     "id": "22",
+     "giftName": "Training Pack 2"
+    },
+    {
+     "id": "23",
+     "giftName": "Training Pack 3"
+    },
+    {
+     "id": "24",
+     "giftName": "Training Pack 4"
+    },
+    {
+     "id": "25",
+     "giftName": "Forging Pack 1"
+    },
+    {
+     "id": "26",
+     "giftName": "Forging Pack 2"
+    },
+    {
+     "id": "27",
+     "giftName": "Forging Pack 3"
+    },
+    {
+     "id": "28",
+     "giftName": "Forging Pack 4"
+    },
+    {
+     "id": "29",
+     "giftName": "Refining Pack 1"
+    },
+    {
+     "id": "30",
+     "giftName": "Refining Pack 2"
+    },
+    {
+     "id": "31",
+     "giftName": "Refining Pack 3"
+    },
+    {
+     "id": "32",
+     "giftName": "Refining Pack 4"
+    },
+    {
+     "id": "33",
+     "giftName": "Limited Pack 1"
+    },
+    {
+     "id": "34",
+     "giftName": "Limited Pack 2"
+    },
+    {
+     "id": "35",
+     "giftName": "Limited Pack 3"
+    },
+    {
+     "id": "36",
+     "giftName": "Limited Pack 4"
+    },
+    {
+     "id": "37",
+     "giftName": "Growth Pack"
+    },
+    {
+     "id": "38",
+     "giftName": "Growth Pack"
+    },
+    {
+     "id": "39",
+     "giftName": "Growth Pack"
+    },
+    {
+     "id": "40",
+     "giftName": "Growth Pack"
+    }
+   ]
   },
   "TableOpenCelebrationTaskGroup": {
    "key_column": "groupId",
@@ -12006,6 +14303,198 @@
    ],
    "partial": "2/3 rows translated so far"
   },
+  "TableStrengthVerifyRankReward": {
+   "key_column": "rewardId",
+   "text_columns": [
+    "title"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "rewardId": "40001",
+     "title": "Highest Lineup Power"
+    }
+   ],
+   "partial": "1/8 rows translated so far"
+  },
+  "TableStrengthVerifyReward": {
+   "key_column": "rewardId",
+   "text_columns": [
+    "conditionDes"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "rewardId": "1001",
+     "conditionDes": "SSR count reaches {0}"
+    },
+    {
+     "rewardId": "1002",
+     "conditionDes": "SSR count reaches {0}"
+    },
+    {
+     "rewardId": "1003",
+     "conditionDes": "SSR count reaches {0}"
+    },
+    {
+     "rewardId": "1004",
+     "conditionDes": "SSR count reaches {0}"
+    },
+    {
+     "rewardId": "1005",
+     "conditionDes": "SSR count reaches {0}"
+    },
+    {
+     "rewardId": "2001",
+     "conditionDes": "Voyage Tower reaches {0}"
+    },
+    {
+     "rewardId": "2002",
+     "conditionDes": "Voyage Tower reaches {0}"
+    },
+    {
+     "rewardId": "2003",
+     "conditionDes": "Voyage Tower reaches {0}"
+    },
+    {
+     "rewardId": "2004",
+     "conditionDes": "Voyage Tower reaches {0}"
+    },
+    {
+     "rewardId": "2005",
+     "conditionDes": "Voyage Tower reaches {0}"
+    },
+    {
+     "rewardId": "4001",
+     "conditionDes": "Lineup Power reaches {0}"
+    },
+    {
+     "rewardId": "4002",
+     "conditionDes": "Lineup Power reaches {0}"
+    },
+    {
+     "rewardId": "4003",
+     "conditionDes": "Lineup Power reaches {0}"
+    },
+    {
+     "rewardId": "4004",
+     "conditionDes": "Lineup Power reaches {0}"
+    },
+    {
+     "rewardId": "4005",
+     "conditionDes": "Lineup Power reaches {0}"
+    },
+    {
+     "rewardId": "5001",
+     "conditionDes": "Clear Blood Battle stage {0}"
+    },
+    {
+     "rewardId": "5002",
+     "conditionDes": "Clear Blood Battle stage {0}"
+    },
+    {
+     "rewardId": "5003",
+     "conditionDes": "Clear Blood Battle stage {0}"
+    },
+    {
+     "rewardId": "5004",
+     "conditionDes": "Clear Blood Battle stage {0}"
+    },
+    {
+     "rewardId": "5005",
+     "conditionDes": "Clear Blood Battle stage {0}"
+    },
+    {
+     "rewardId": "8001",
+     "conditionDes": "Peak Arena points reach {0}"
+    },
+    {
+     "rewardId": "8002",
+     "conditionDes": "Peak Arena points reach {0}"
+    },
+    {
+     "rewardId": "8003",
+     "conditionDes": "Peak Arena points reach {0}"
+    },
+    {
+     "rewardId": "8004",
+     "conditionDes": "Peak Arena points reach {0}"
+    },
+    {
+     "rewardId": "8005",
+     "conditionDes": "Peak Arena points reach {0}"
+    }
+   ],
+   "partial": "25/40 rows translated so far"
+  },
+  "TableStrengthVerifyType": {
+   "key_column": "verifyType",
+   "text_columns": [
+    "paramName",
+    "rankDes",
+    "rankRequestDes",
+    "rankTitle"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "verifyType": "101",
+     "paramName": "SSR Count",
+     "rankDes": "SSR Count",
+     "rankRequestDes": "SSR count reaches {0}",
+     "rankTitle": "SSR Count Ranking"
+    },
+    {
+     "verifyType": "102",
+     "paramName": "Voyage Tower",
+     "rankDes": "Voyage Tower",
+     "rankRequestDes": "Voyage Tower reaches {0}",
+     "rankTitle": "Voyage Tower Ranking"
+    },
+    {
+     "verifyType": "103",
+     "paramName": "SSR Stars",
+     "rankDes": "SSR Stars",
+     "rankRequestDes": "Total SSR stars reach {0}",
+     "rankTitle": "SSR Stars Ranking"
+    },
+    {
+     "verifyType": "104",
+     "paramName": "Highest Lineup Power",
+     "rankDes": "Power",
+     "rankRequestDes": "Lineup Power reaches {0}",
+     "rankTitle": "Power Ranking"
+    },
+    {
+     "verifyType": "105",
+     "paramName": "Blood Battle Clear",
+     "rankDes": "Blood Battle",
+     "rankRequestDes": "Clear Blood Battle stage {0}",
+     "rankTitle": "Blood Battle Ranking"
+    },
+    {
+     "verifyType": "106",
+     "paramName": "Legend Activation Value",
+     "rankDes": "Legend Activation Value",
+     "rankRequestDes": "Legend activation value reaches {0}",
+     "rankTitle": "Legend Ranking"
+    },
+    {
+     "verifyType": "107",
+     "paramName": "Sea Conflict Stages",
+     "rankDes": "Sea Conflict",
+     "rankRequestDes": "Sea Conflict reaches {0}",
+     "rankTitle": "Sea Conflict Ranking"
+    },
+    {
+     "verifyType": "108",
+     "paramName": "Peak Arena Points",
+     "rankDes": "Peak Arena",
+     "rankRequestDes": "Peak Arena points reach {0}",
+     "rankTitle": "Peak Arena Ranking"
+    }
+   ]
+  },
   "TableSwitchCondition": {
    "key_column": "switchName",
    "text_columns": [
@@ -13608,6 +16097,122 @@
    ],
    "partial": "2/3 rows translated so far"
   },
+  "TableTimeLimitTreasureType": {
+   "key_column": "id",
+   "text_columns": [
+    "title"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "title": "Monthly Card Vault"
+    },
+    {
+     "id": "2",
+     "title": "Recruit Vault"
+    },
+    {
+     "id": "3",
+     "title": "Golden Soul Vault"
+    },
+    {
+     "id": "4",
+     "title": "Surprise Vault"
+    },
+    {
+     "id": "5",
+     "title": "Rainbow Vault"
+    },
+    {
+     "id": "6",
+     "title": "Thanksgiving Recruit Vault"
+    },
+    {
+     "id": "7",
+     "title": "Thanksgiving Growth Vault"
+    },
+    {
+     "id": "8",
+     "title": "Thanksgiving Surprise Vault"
+    },
+    {
+     "id": "9",
+     "title": "Elite Vault"
+    },
+    {
+     "id": "10",
+     "title": "Reforge Vault"
+    },
+    {
+     "id": "11",
+     "title": "Soul Refining Stone Vault"
+    },
+    {
+     "id": "12",
+     "title": "Advanced Gem Vault"
+    },
+    {
+     "id": "13",
+     "title": "Surprise Weekly Card Vault"
+    },
+    {
+     "id": "14",
+     "title": "Token Vault"
+    },
+    {
+     "id": "15",
+     "title": "7-Day Token Vault"
+    },
+    {
+     "id": "16",
+     "title": "Island Treasure Vault"
+    },
+    {
+     "id": "17",
+     "title": "Soul Infusion Vault"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "2",
+     "title": "Golden Soul Vault"
+    },
+    {
+     "id": "3",
+     "title": "Thanksgiving Recruit Vault"
+    },
+    {
+     "id": "4",
+     "title": "Thanksgiving Surprise Vault"
+    },
+    {
+     "id": "5",
+     "title": "Elite Vault"
+    },
+    {
+     "id": "6",
+     "title": "Warship Modification Vault"
+    },
+    {
+     "id": "7",
+     "title": "Warship Refinement Vault"
+    },
+    {
+     "id": "8",
+     "title": "Surprise Weekly Card Vault"
+    },
+    {
+     "id": "9",
+     "title": "Token Vault"
+    },
+    {
+     "id": "10",
+     "title": "7-Day Token Vault"
+    }
+   ]
+  },
   "TableTitle": {
    "key_column": "titleId",
    "text_columns": [
@@ -14923,6 +17528,109 @@
    ],
    "other_bundle_rows": []
   },
+  "TableUnionBanquetGoods": {
+   "key_column": "goodsId",
+   "text_columns": [
+    "goodsName"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "goodsId": "1",
+     "goodsName": "Drink 1"
+    },
+    {
+     "goodsId": "2",
+     "goodsName": "Drink 2"
+    },
+    {
+     "goodsId": "3",
+     "goodsName": "Drink 3"
+    },
+    {
+     "goodsId": "4",
+     "goodsName": "Main Course 1"
+    },
+    {
+     "goodsId": "5",
+     "goodsName": "Main Course 2"
+    },
+    {
+     "goodsId": "6",
+     "goodsName": "Main Course 3"
+    },
+    {
+     "goodsId": "7",
+     "goodsName": "Dessert 1"
+    },
+    {
+     "goodsId": "8",
+     "goodsName": "Dessert 2"
+    },
+    {
+     "goodsId": "9",
+     "goodsName": "Dessert 3"
+    },
+    {
+     "goodsId": "10",
+     "goodsName": "Music 1"
+    },
+    {
+     "goodsId": "11",
+     "goodsName": "Music 2"
+    },
+    {
+     "goodsId": "12",
+     "goodsName": "Music 3"
+    },
+    {
+     "goodsId": "13",
+     "goodsName": "Dance 1"
+    },
+    {
+     "goodsId": "14",
+     "goodsName": "Dance 2"
+    },
+    {
+     "goodsId": "15",
+     "goodsName": "Dance 3"
+    },
+    {
+     "goodsId": "16",
+     "goodsName": "Free Drink"
+    },
+    {
+     "goodsId": "17",
+     "goodsName": "Free Main Course"
+    },
+    {
+     "goodsId": "18",
+     "goodsName": "Free Dessert"
+    },
+    {
+     "goodsId": "19",
+     "goodsName": "Free Music"
+    },
+    {
+     "goodsId": "20",
+     "goodsName": "Free Dance"
+    }
+   ]
+  },
+  "TableUnionBanquetStage": {
+   "key_column": "stageId",
+   "text_columns": [
+    "stageName"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "stageId": "1",
+     "stageName": "Preparation Phase"
+    }
+   ],
+   "partial": "1/14 rows translated so far"
+  },
   "TableUnionBountyGroup": {
    "key_column": "groupId",
    "text_columns": [
@@ -14974,11 +17682,64 @@
    ],
    "content_diverges_between_bundles": true,
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
-   "rows": [],
+   "rows": [
+    {
+     "id": "1",
+     "showTaskName": "LV.15 Cracker Soldier"
+    },
+    {
+     "id": "2",
+     "showTaskName": "LV.20 Cracker Soldier"
+    },
+    {
+     "id": "3",
+     "showTaskName": "LV.30 Charlotte Cracker"
+    },
+    {
+     "id": "4",
+     "showTaskName": "LV.20 Cracker Soldier"
+    },
+    {
+     "id": "5",
+     "showTaskName": "LV.25 Cracker Soldier"
+    },
+    {
+     "id": "6",
+     "showTaskName": "LV.35 Charlotte Cracker"
+    },
+    {
+     "id": "7",
+     "showTaskName": "LV.40 Cracker Soldier"
+    },
+    {
+     "id": "8",
+     "showTaskName": "LV.45 Cracker Soldier"
+    },
+    {
+     "id": "9",
+     "showTaskName": "LV.60 Charlotte Cracker"
+    }
+   ],
    "other_bundle_rows": [
+    {
+     "id": "1",
+     "showTaskName": "Pirate Grunt"
+    },
     {
      "id": "3",
      "showTaskName": "Crocodile"
+    },
+    {
+     "id": "4",
+     "showTaskName": "Crocodile's Henchmen"
+    },
+    {
+     "id": "5",
+     "showTaskName": "Crocodile's Group"
+    },
+    {
+     "id": "6",
+     "showTaskName": "Beret Grunt"
     },
     {
      "id": "7",
@@ -14989,6 +17750,18 @@
      "showTaskName": "Enel"
     },
     {
+     "id": "9",
+     "showTaskName": "Enel's Henchmen"
+    },
+    {
+     "id": "10",
+     "showTaskName": "Enel's Group"
+    },
+    {
+     "id": "11",
+     "showTaskName": "Zombie Soldier"
+    },
+    {
      "id": "12",
      "showTaskName": "Cerberus"
     },
@@ -14997,15 +17770,34 @@
      "showTaskName": "Gecko Moria"
     },
     {
+     "id": "14",
+     "showTaskName": "Moria's Henchmen"
+    },
+    {
+     "id": "15",
+     "showTaskName": "Moria's Group"
+    },
+    {
+     "id": "16",
+     "showTaskName": "Marine Grunt"
+    },
+    {
      "id": "17",
      "showTaskName": "Smoker"
     },
     {
      "id": "18",
      "showTaskName": "Sengoku"
+    },
+    {
+     "id": "19",
+     "showTaskName": "Sengoku's Henchmen"
+    },
+    {
+     "id": "20",
+     "showTaskName": "Sengoku's Group"
     }
-   ],
-   "partial": "7/28 rows translated so far"
+   ]
   },
   "TableUnionChat": {
    "key_column": "chatId",
@@ -15015,12 +17807,68 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "chatId": "1",
+     "chatContent": "{0} joined the guild"
+    },
+    {
+     "chatId": "2",
+     "chatContent": "{0} left the guild"
+    },
+    {
+     "chatId": "3",
+     "chatContent": "{0} was appointed Vice Leader"
+    },
+    {
+     "chatId": "4",
+     "chatContent": "{0} was removed as Vice Leader"
+    },
+    {
+     "chatId": "5",
+     "chatContent": "{0} was kicked from the guild"
+    },
+    {
+     "chatId": "6",
+     "chatContent": "The Guild Leader transfer to {0} was canceled"
+    },
+    {
+     "chatId": "7",
+     "chatContent": "{0} fed the guild's Divine Beast"
+    },
+    {
+     "chatId": "8",
+     "chatContent": "The guild's Divine Beast reached Lv{0}"
+    },
+    {
+     "chatId": "9",
+     "chatContent": "{0} was appointed Beast Pen Keeper"
+    },
+    {
+     "chatId": "10",
+     "chatContent": "Your {0} has been raised to Lv{1}"
+    },
+    {
+     "chatId": "11",
+     "chatContent": "Congratulations to {0} for recruiting the SSR hero {1}"
+    },
+    {
      "chatId": "12",
      "chatContent": "Thanks to everyone's efforts, our guild has reached Lv{0}. Upkeep now costs {1} Guild Funds per week, deducted automatically every Monday at 0:00."
     },
     {
      "chatId": "13",
      "chatContent": "{0} Guild Funds were spent on guild upkeep."
+    },
+    {
+     "chatId": "14",
+     "chatContent": "Due to insufficient guild funds, the guild lacks maintenance and Training Ground effects are reduced. Maintenance funds are deducted automatically every Monday at 0:00. Everyone, please work hard to develop the guild."
+    },
+    {
+     "chatId": "15",
+     "chatContent": "{0} checked in for the guild today. The guild gained {1} EXP"
+    },
+    {
+     "chatId": "16",
+     "chatContent": "The Guild Leader position has been transferred to {0}. Please keep managing the guild!"
     },
     {
      "chatId": "17",
@@ -15037,9 +17885,28 @@
     {
      "chatId": "20",
      "chatContent": "Not enough Guild Funds for upkeep, so the Guild Store is temporarily closed and the Guild Training Ground's effect is paused. Upkeep is deducted automatically every Monday at 0:00. Let's all work to grow the guild."
+    },
+    {
+     "chatId": "21",
+     "chatContent": "Guild member {0} bought {1} Crystals at the Guild Shop, contributing to the guild's growth, and gained {2} Contribution."
+    },
+    {
+     "chatId": "22",
+     "chatContent": "[Sea Battle] The guild has signed up for Sea Battle!"
+    },
+    {
+     "chatId": "23",
+     "chatContent": "[Guild] The battlefield is about to open. Guild members can enter it to prepare. It officially starts in {0} minutes."
+    },
+    {
+     "chatId": "24",
+     "chatContent": "[Guild] The battle has officially begun. All members, please join the fight!"
+    },
+    {
+     "chatId": "25",
+     "chatContent": "Congratulations to {0} for recruiting the UR hero {1}"
     }
-   ],
-   "partial": "6/25 rows translated so far"
+   ]
   },
   "TableUnionCommandHelp": {
    "key_column": "id",
@@ -15886,6 +18753,81 @@
     {
      "id": "524",
      "rewardTypeName": "King - Guild Weekly Power Rank 4"
+    }
+   ]
+  },
+  "TableUnionSLGStage": {
+   "key_column": "id",
+   "text_columns": [
+    "stageName",
+    "littleStageName",
+    "littleStageDesc",
+    "stageDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "stageName": "Preview Phase",
+     "littleStageName": "",
+     "littleStageDesc": "",
+     "stageDesc": "A new World Domination season is about to enter the Ranking Phase. Captains, please get ready. The Ranking Phase will greatly affect the rewards you get"
+    },
+    {
+     "id": "2",
+     "stageName": "Ranking Phase",
+     "littleStageName": "",
+     "littleStageDesc": "",
+     "stageDesc": "This is the Ranking Phase. Your ranking directly determines the rewards you can get, so captains, please take part actively. The higher your guild's donations in this phase, the higher its heat. Total heat decides your guild's final tier."
+    },
+    {
+     "id": "3",
+     "stageName": "Ranking Waters",
+     "littleStageName": "",
+     "littleStageDesc": "",
+     "stageDesc": "The Ranking Phase has ended. A new sea battle is about to begin"
+    },
+    {
+     "id": "4",
+     "stageName": "World Domination",
+     "littleStageName": "Sea Matchmaking",
+     "littleStageDesc": "Awaiting opponent;{0} left;Opponent matched",
+     "stageDesc": "TBD;Waiting for an opponent;{0}"
+    },
+    {
+     "id": "5",
+     "stageName": "World Domination",
+     "littleStageName": "First Waters",
+     "littleStageDesc": "To explore;{0} left;Far Sea Exploration",
+     "stageDesc": "Something seems to be glittering on the nearby islands;Send your fleets to explore the surrounding islands, defeat enemies and capture islands for rich resources;March on the distant islands"
+    },
+    {
+     "id": "6",
+     "stageName": "World Domination",
+     "littleStageName": "Lost in Far Seas",
+     "littleStageDesc": "To explore;{0} left;Strong Rivals at Sea",
+     "stageDesc": "The distant waters seem to hold great riches;You've entered neutral waters, so be careful;Several fleets spotted in the distance"
+    },
+    {
+     "id": "7",
+     "stageName": "World Domination",
+     "littleStageName": "Red Sea Conquest",
+     "littleStageDesc": "To explore;{0} left;Strong Rivals at Sea",
+     "stageDesc": "Many dangerous elements spotted. Get ready to declare war;Many dangerous elements spotted. Get ready to declare war;Many dangerous elements spotted. Get ready to declare war"
+    },
+    {
+     "id": "8",
+     "stageName": "World Domination",
+     "littleStageName": "Final Showdown",
+     "littleStageDesc": "Raise Guild Power;{0} left;The Sea's Way Home",
+     "stageDesc": "Barring surprises, that sea is your way home;Raise your personal Merit as much as you can to add Power to your guild in the waters;Barring surprises, that sea is your way home"
+    },
+    {
+     "id": "9",
+     "stageName": "Season Settlement",
+     "littleStageName": "",
+     "littleStageDesc": "",
+     "stageDesc": "This season is about to end. Captains, hurry and exchange your rewards. Mode currency will expire after it ends"
     }
    ]
   },
@@ -17061,6 +20003,131 @@
      "rewardTypeName": "Gold - Individual Damage Rank 3"
     }
    ]
+  },
+  "TableUnionWarRoundStage": {
+   "key_column": "id",
+   "text_columns": [
+    "name",
+    "stateDesc",
+    "detailDesc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "101",
+     "name": "Matchmaking Phase",
+     "stateDesc": "Awaiting opponent;;Opponent matched",
+     "detailDesc": "TBD;;{0}"
+    },
+    {
+     "id": "102",
+     "name": "Preparation Phase",
+     "stateDesc": "To prepare;{0} left;Prepared",
+     "detailDesc": "Set Up Teams;Set Up Teams;Set Up Teams"
+    },
+    {
+     "id": "103",
+     "name": "Team Lock",
+     "stateDesc": "Teams to lock;{0} left;Teams locked",
+     "detailDesc": "Lock Teams;Lock Teams;Lock Teams"
+    },
+    {
+     "id": "104",
+     "name": "Final Layout",
+     "stateDesc": "Awaiting leader adjustments;{0} left;Leader confirmed",
+     "detailDesc": "Leader Adjustments;Leader Adjustments;Leader Adjustments"
+    },
+    {
+     "id": "105",
+     "name": "Battle Preparation",
+     "stateDesc": "Awaiting pre-battle prep;{0} left;Battle-ready",
+     "detailDesc": "Pre-Battle Prep;Pre-Battle Prep;Pre-Battle Prep"
+    },
+    {
+     "id": "106",
+     "name": "Sea Battle Open",
+     "stateDesc": "To open;{0} left;This round has ended",
+     "detailDesc": "Sea Battle Combat;Sea Battle Combat;Sea Battle Combat"
+    },
+    {
+     "id": "107",
+     "name": "Next Round Interval",
+     "stateDesc": "To open;;Opened",
+     "detailDesc": "This season has 4 rounds in total;This season has 4 rounds in total;This season has 4 rounds in total"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "101",
+     "name": "Matchmaking Phase",
+     "stateDesc": "Awaiting opponent;{0} left;Opponent matched",
+     "detailDesc": "TBD;Waiting for an opponent;{0}"
+    },
+    {
+     "id": "102",
+     "name": "Preparation Phase",
+     "stateDesc": "To prepare;{0} left;Prepared",
+     "detailDesc": "Set your teams in your Dock;Set your teams on each route;Team setup over"
+    },
+    {
+     "id": "104",
+     "name": "Final Layout",
+     "stateDesc": "Awaiting officer adjustments;{0} left;Officers confirmed",
+     "detailDesc": "Officer Adjustments;Awaiting final adjustments by guild officers;Guild officers confirmed"
+    },
+    {
+     "id": "105",
+     "name": "Battle Preparation",
+     "stateDesc": "Both sides' lineups locked;{0} left;Battle-ready",
+     "detailDesc": "Both sides' lineups locked;Both sides' teams confirmed;Final lock"
+    },
+    {
+     "id": "107",
+     "name": "Waiting for Next Round",
+     "stateDesc": "To open;{0} left;Opened",
+     "detailDesc": "This season has 4 rounds in total;This season has 4 rounds in total;This season has 4 rounds in total"
+    }
+   ]
+  },
+  "TableUnionWarStage": {
+   "key_column": "id",
+   "text_columns": [
+    "stageName",
+    "stageDesc",
+    "roundStageName"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "stageName": "Preview Phase",
+     "stageDesc": "Preview Phase",
+     "roundStageName": ""
+    },
+    {
+     "id": "2",
+     "stageName": "Ranking Phase",
+     "stageDesc": "Ranking Phase",
+     "roundStageName": ""
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "2",
+     "stageName": "Ranking Phase",
+     "stageDesc": "This is the Ranking Phase. Your ranking directly determines the rewards you can get, so captains, please take part actively. The higher your guild's donations in this phase, the higher its heat. Total heat decides your guild's final tier.",
+     "roundStageName": ""
+    },
+    {
+     "id": "12",
+     "stageName": "Season Settlement",
+     "stageDesc": "This season is about to end. Captains, hurry and exchange your rewards. Mode currency will expire after it ends",
+     "roundStageName": ""
+    }
+   ],
+   "partial": "4/24 rows translated so far"
   },
   "TableVideoRecruitUI": {
    "key_column": "id",
