@@ -23535,6 +23535,182 @@
      "text": "Matching for United Co-op"
     },
     {
+     "id": "intrgralHonorHelp",
+     "text": "*United Co-op is a guild-based real-time PvP mode.\\n*This season runs from 6/26 to 7/23. Final rewards are sent on 7/27; after the event, the event screen stays open until 22:59 on 7/28 so captains can pick items in the event shop.\\n*While it's open, captains fight with a team of 5 characters and can't be matched with players from their own guild.\\n*During the event, finish the set number of battles each day to claim daily battle rewards.\\n*Complete set season goals for more rewards.\\nWhen a guild goal is reached, item rewards are mailed to all current guild members with no need to claim; members who join later don't get them. Guild point rewards are added straight to the guild.\\nEach season goal can only be earned once per player; after earning it, switching guilds won't let you earn it again or add to guild goal progress\\n*Spend Boost Coins to raise the season buff level, unlocking more shop items, raising purchase limits on unlocked items and boosting daily battle rewards.\\n*At each weekly settlement, rewards are mailed based on your tier (you must finish at least 10 battles a week to get weekly tier rewards).\\n*When the event ends, rewards are mailed based on your rank (you must play at least 10 battles during the season to get rank rewards).\\n*At each weekly settlement and at the end of the event, guilds are ranked by guild points and rewards are mailed.\\nGuild points can be earned in two ways:\\n1. Completing some guild goals\\n2. Converting United Co-op personal ladder points: guild points = personal ladder points x rank multiplier (rounded down). Multipliers:\\nRank 1: 1.5\\nRank 2: 1.3\\nRank 3: 1.2\\nRank 4--5: 1.1\\nRank 6--10: 1\\nRank 11--20: 0.9\\nRank 21--50: 0.8\\nBelow Rank 50: 0.7\\n*This United Co-op also adds a Co-op Points system: each battle gives Co-op Points based on performance. Once they reach a certain amount, they can offset the point loss from a tier drop; if Co-op Points are maxed, you get some ladder points as a reward."
+    },
+    {
+     "id": "integralHonorBuffSum",
+     "text": "Bonus Overview"
+    },
+    {
+     "id": "item_jingxibi",
+     "text": "Surprise Points"
+    },
+    {
+     "id": "item_desc_jingxibi",
+     "text": "Used to exchange items at the Surprise Wheel event shop"
+    },
+    {
+     "id": "HomeLandDressTips1",
+     "text": "Duration: {0} days"
+    },
+    {
+     "id": "HomeLandDressTips2",
+     "text": "Duration: Permanent"
+    },
+    {
+     "id": "turnTableShopName_3",
+     "text": "Surprise Shop"
+    },
+    {
+     "id": "TurnTableBuyNeed_3_1",
+     "text": "Not enough Surprise Wheel Tickets. Spend {0} Rainbow Diamonds to buy {1} Surprise Wheel Tickets?"
+    },
+    {
+     "id": "TurnTableBuyNeed_3_5",
+     "text": "Not enough Surprise Wheel Tickets. Spend 250 Rainbow Diamonds to buy five Surprise Wheel Tickets?"
+    },
+    {
+     "id": "integralHonorProtectDetailBonus",
+     "text": "Cap Reached"
+    },
+    {
+     "id": "item_tulubi",
+     "text": "Collection Coins"
+    },
+    {
+     "id": "item_desc_tulubi",
+     "text": "Used to exchange collectibles in the [Gallery] - [Collection] module"
+    },
+    {
+     "id": "cycleVipPageInfo_Desc",
+     "text": "*At VIP <color=#a32e00>{0}</color> or above, every <color=#a32e00>{1}</color> Rainbow Diamonds spent gives <color=#a32e00>{2}</color> Peerless Points\\n*Peerless Points last <color=#a32e00>{3}</color> days\\n*Reaching <color=#a32e00>{4}</color> Peerless Points instantly grants the current VIP level and its rewards\\n*Rewards are sent by mail. Time-limited rewards such as titles <color=#a32e00>start their timer automatically in each mode's list</color>"
+    },
+    {
+     "id": "cycleVipPageInfo_Loss",
+     "text": "<color=#a32e00>{0}</color> points expire tomorrow"
+    },
+    {
+     "id": "cycleVipPageInfo_Open",
+     "text": "Requires VIP <color=#a32e00>{0}</color>"
+    },
+    {
+     "id": "HC_TaskTitle_67",
+     "text": "Deploy Golden Lion Shiki +120 pts"
+    },
+    {
+     "id": "HC_BattleInfo_2251",
+     "text": "<color=#a32e00>Shield Recoil</color>\\nWhen hit by a skill while shielded, monsters have a 10% chance to interrupt the player's action"
+    },
+    {
+     "id": "HC_BattleInfo_2252",
+     "text": "<color=#a32e00>Dodge and Weave</color>\\nWhen players dodge, Attack +3%, up to 5 stacks"
+    },
+    {
+     "id": "HC_BattleInfo_2253",
+     "text": "<color=#a32e00>True Break</color>\\nDealing True Damage to an enemy raises all damage it takes by 30% for 1 turn."
+    },
+    {
+     "id": "HC_BattleInfo_2254",
+     "text": "<color=#a32e00>Hidden Giant</color>\\nMonsters recover 10% HP each turn, crit damage taken +120%"
+    },
+    {
+     "id": "HC_BattleInfo_2255",
+     "text": "<color=#a32e00>Temporary Barrier</color>\\nWhen attacking, monsters have a 50% chance to gain a 10% HP shield, up to 1 stack, for 2 turns; it breaks after taking crit damage or 2 attacks"
+    },
+    {
+     "id": "HC_BattleInfo_2256",
+     "text": "<color=#a32e00>Shield Recoil</color>\\nWhen hit by a skill while shielded, enemies have a 15% chance to interrupt the player's action"
+    },
+    {
+     "id": "HC_BattleInfo_2257",
+     "text": "<color=#a32e00>Dodge and Weave</color>\\nWhen players dodge, Attack +5%, up to 5 stacks"
+    },
+    {
+     "id": "HC_BattleInfo_2258",
+     "text": "<color=#a32e00>True Break</color>\\nDealing True Damage to an enemy raises all damage it takes by 50% for 1 turn."
+    },
+    {
+     "id": "HC_BattleInfo_2259",
+     "text": "<color=#a32e00>Hidden Giant</color>\\nMonsters recover 10% HP each turn, crit damage taken +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2260",
+     "text": "<color=#a32e00>Temporary Barrier</color>\\nWhen attacking, monsters have a 50% chance to gain a 15% HP shield, up to 1 stack, for 2 turns; it breaks after taking crit damage or 2 attacks"
+    },
+    {
+     "id": "integralHonorTechTreeSuccess",
+     "text": "Buff upgraded"
+    },
+    {
+     "id": "ChargeTipsDesc",
+     "text": "Congrats, Captain! You've got an instant discount on this order. Go now? (Tap Cancel to hide it for today)"
+    },
+    {
+     "id": "item_gongdoubi",
+     "text": "Co-op Coins"
+    },
+    {
+     "id": "item_desc_gongdoubi",
+     "text": "Used to exchange event rewards at the Co-op Shop"
+    },
+    {
+     "id": "wakeUseCloseWakeItem",
+     "text": "The character's Awakening has been temporarily disabled"
+    },
+    {
+     "id": "closeWakeUseCloseWakeItem",
+     "text": "The character hasn't awakened yet"
+    },
+    {
+     "id": "Integral2V2chengfa_tips1",
+     "text": "Violation Confirmation"
+    },
+    {
+     "id": "HC_BattleInfo_2261",
+     "text": "<color=#a32e00>Barrier Power</color>\\nShielded players deal +5% damage when hitting monsters, up to 5 stacks, until the end of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2262",
+     "text": "<color=#a32e00>Endless Fury</color>\\nPlayers' Finisher and Ultimate skill final damage +100%, and they gain 100 extra Rage at the start of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2263",
+     "text": "<color=#a32e00>Void Body</color>\\nMonsters' Evasion +80%"
+    },
+    {
+     "id": "HC_BattleInfo_2264",
+     "text": "<color=#a32e00>Void Vitality</color>\\nMonsters recover 3% HP on a successful dodge"
+    },
+    {
+     "id": "HC_BattleInfo_2265",
+     "text": "<color=#a32e00>Barrier Power</color>\\nShielded players deal +15% damage when hitting monsters, up to 5 stacks, until the end of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2266",
+     "text": "<color=#a32e00>Endless Fury</color>\\nPlayers' Finisher and Ultimate skill final damage +150%, and they gain 100 extra Rage at the start of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2267",
+     "text": "<color=#a32e00>Void Body</color>\\nMonsters' Evasion +150%"
+    },
+    {
+     "id": "HC_BattleInfo_2268",
+     "text": "<color=#a32e00>Void Vitality</color>\\nMonsters recover 5% HP on a successful dodge"
+    },
+    {
+     "id": "HC_TaskTitle_68",
+     "text": "Deploy Soba Mask +120 pts"
+    },
+    {
+     "id": "HC_TaskTitle_69",
+     "text": "A single skill dealing over 30 million damage +5 pts"
+    },
+    {
+     "id": "HC_TaskTitle_70",
+     "text": "A single skill dealing over 60 million damage +5 pts"
+    },
+    {
      "id": "RecommendGrowUpSkill_OLD",
      "text": "Raise skill level"
     },
@@ -23545,6 +23721,630 @@
     {
      "id": "coin_desc_hjqztz",
      "text": "A currency earned in the Elite Challenge, used to exchange for items in the Elite Shop. Storage cap: 100000."
+    },
+    {
+     "id": "ClassicServerFateSelectHeroPageDesc",
+     "text": "Choose any one character as your Featured Character; recruiting a character always gives them.\\nThe Featured Character list updates every Thursday at 5:00."
+    },
+    {
+     "id": "ClassicServerFateRewardTips",
+     "text": "Recruiting a character always gives your chosen Featured Character!"
+    },
+    {
+     "id": "OpenFateNotEnoughRecruitCount",
+     "text": "Unlocks after 200 total recruits in Elite/Limited Recruit (current: {0})"
+    },
+    {
+     "id": "RecruitFateNoTicket",
+     "text": "Not enough Selected Recruit Tickets. Go buy some"
+    },
+    {
+     "id": "fateRecruitResultPageLeftDownText",
+     "text": "Bought 2000 <color=#ffe703>Gold Bars</color>"
+    },
+    {
+     "id": "fateRecruitResultPageLeftDownTextTen",
+     "text": "Bought 20000 <color=#ffe703>Gold Bars</color>"
+    },
+    {
+     "id": "RecruitFateNoSelectHero",
+     "text": "Choose a character to use Selected Recruit"
+    },
+    {
+     "id": "RechargeReturn_01",
+     "text": "Rebates follow the same-platform account rule: captains must log in with the same account\\non the same platform used in testing to get the rebate, or it can't be claimed"
+    },
+    {
+     "id": "RechargeReturn_02",
+     "text": "Top-up rebates only cover RMB actually paid; system bonuses aren't included\\nRebates from each top-up bracket stack. Example: topping up ¥1100 during testing returns:\\n500*200%*10=10000 Rainbow Diamonds 500*150%*10=7500 Rainbow Diamonds 100*100%*10=1000 Rainbow Diamonds\\nTotal: 18500 Rainbow Diamonds. Each paid-test top-up bracket is calculated separately and returned at open beta based on your history"
+    },
+    {
+     "id": "RechargeReturn_Rank_01",
+     "text": "¥0-500"
+    },
+    {
+     "id": "RechargeReturn_Rank_02",
+     "text": "¥501-1000"
+    },
+    {
+     "id": "RechargeReturn_Rank_03",
+     "text": "Over ¥1000"
+    },
+    {
+     "id": "Exercise_Title",
+     "text": "Enemy Intel"
+    },
+    {
+     "id": "Array_Upgrade_Overview_Title",
+     "text": "Lv{0} Effects"
+    },
+    {
+     "id": "Array_Upgrade_Tips_0",
+     "text": "Not enough materials. Craft the base formation first"
+    },
+    {
+     "id": "Array_Upgrade_Tips_1",
+     "text": "Not enough base formations"
+    },
+    {
+     "id": "Array_Upgrade_Tips_2",
+     "text": "Not enough materials. Tap the button on the right to exchange for Universal Formations"
+    },
+    {
+     "id": "Array_Upgrade_Tips_3",
+     "text": "Use {0} Universal Formations to make up the missing {1} of this formation and finish the upgrade?"
+    },
+    {
+     "id": "Array_Upgrade_Tips_4",
+     "text": "Not enough base formations. Tap the icon on the right to try exchanging for Universal Formations"
+    },
+    {
+     "id": "Array_Upgrade_Exchange_Rate",
+     "text": "{1} Universal Formations make up {0} of this formation"
+    },
+    {
+     "id": "Array_Upgrade_Exchange_Denied",
+     "text": "<color=#d14e0d>Universal Formations can't make up this formation</color>"
+    },
+    {
+     "id": "Array_Upgrade_Decompose",
+     "text": "You'll get {0} Universal Formation Fragments. Confirm?"
+    },
+    {
+     "id": "Array_Upgrade_No_Prop_New",
+     "text": "No new stats or effects at this level"
+    },
+    {
+     "id": "Array_Exchange_Text_1",
+     "text": "Max-level formation fragments and their base formations can be dismantled into Universal Formation Fragments\\nUniversal Formation Fragments can be exchanged for Universal Formations"
+    },
+    {
+     "id": "Array_Exchange_Text_2",
+     "text": "Universal Formation Fragments obtainable:"
+    },
+    {
+     "id": "NewWPBoss_8",
+     "text": "Elite Shop"
+    },
+    {
+     "id": "NewWPBoss_9",
+     "text": "Not within opening hours"
+    },
+    {
+     "id": "UNION_BOUNTY_FUNC_NOT_OPEN",
+     "text": "Feature not available"
+    },
+    {
+     "id": "UNION_BOUNTY_NO_UNION",
+     "text": "You don't have a guild yet"
+    },
+    {
+     "id": "UNION_BOUNTY_DATA_ERR",
+     "text": "Data error"
+    },
+    {
+     "id": "UNION_BOUNTY_BOSS_NOT_FINISH",
+     "text": "The dungeon isn't finished yet"
+    },
+    {
+     "id": "UNION_BOUNTY_BOSS_RESET_TIME_ERR",
+     "text": "Not enough resets. You can open or reset dungeons only 4 times per week."
+    },
+    {
+     "id": "UNION_BOUNTY_BOSS_RESET_COST_ERR",
+     "text": "Not enough Activity"
+    },
+    {
+     "id": "UNION_BOUNTY_BOSS_IS_NOT_OPEN",
+     "text": "Open the dungeon first"
+    },
+    {
+     "id": "UNION_BOUNTY_BOSS_IS_FIGHTING",
+     "text": "Please wait for other members to finish their challenge"
+    },
+    {
+     "id": "UNION_BOUNTY_BOSS_TASK_FINISH",
+     "text": "This stage is already cleared"
+    },
+    {
+     "id": "UNION_BOUNTY_BOSS_NOT_IN_TIME",
+     "text": "Not during event hours"
+    },
+    {
+     "id": "equipAtkAddPer",
+     "text": "Equipment Attack Amplify"
+    },
+    {
+     "id": "equipDefAddPer",
+     "text": "Equipment Defense Amplify"
+    },
+    {
+     "id": "equipHpAddPer",
+     "text": "Equipment HP Amplify"
+    },
+    {
+     "id": "Gift_1",
+     "text": "Captain, give {0} to {1}?"
+    },
+    {
+     "id": "Gift_3",
+     "text": "Gift sent!"
+    },
+    {
+     "id": "EquipRefine_ExtraAttr_1",
+     "text": "Extra stat gained at Enhance +{0}"
+    },
+    {
+     "id": "EquipRefine_ExtraAttr_2",
+     "text": "Gained at Refine +{0}"
+    },
+    {
+     "id": "Exercise_Error",
+     "text": "Not enough Action Points"
+    },
+    {
+     "id": "IslandTrain",
+     "text": "*$<size=30>Challenge Mode Unlock</size>*Clear all prerequisite difficulty stages of the trial dungeon to get star rewards and star collection rewards. This also unlocks Challenge Mode, where captains can practice character combinations. At this difficulty, learning more about the enemy and building effective counters based on the challenge options will help you score higher.*$<size=30>Challenge Options</size>*In Challenge Mode, the enemy details page offers several optional challenge options. They affect your final score; the score change is shown next to each option, and for options without a fixed count, see the description.*Once in battle, the options you checked take effect, giving characters the described effects, and points are added or deducted on the results screen after a win. \\nCheck exact option scores under \"Challenge Option Details\" on the results screen.*$<size=30>Stage Scoring</size>*In Challenge Mode, clearing a stage awards points based on turns used, your remaining HP percentage and how many allies are exhausted. Apart from challenge options, base scoring is:*Turns used:\\n3 turns or fewer 500 pts\\n4 turns 400 pts\\n5 turns 300 pts\\n6 turns 200 pts\\n7 turns or more 100 pts.*Allies exhausted:\\nNo allies exhausted 500 pts\\n1 ally exhausted 400 pts\\n2 allies exhausted 300 pts\\n3 allies exhausted 200 pts\\n4 allies exhausted 100 pts.*Allies' remaining HP at clear:\\n80% or more 500 pts\\n60% or more 400 pts\\n50% or more 300 pts\\n40% or more 200 pts\\nBelow 40% 100 pts."
+    },
+    {
+     "id": "IslandTrainEntryDifficultLimit",
+     "text": "Unlocks after clearing {0} {1}-{2}"
+    },
+    {
+     "id": "UI_HJFgonghuihaizhan_cion",
+     "text": "Passion Coins"
+    },
+    {
+     "id": "UI_HJFgonghuihaizhan_cion_text",
+     "text": "Honor currency earned in the new Guild Sea Battle, exchangeable for rewards at the Guild Sea Battle Shop"
+    },
+    {
+     "id": "UnionWar_HJ_Text",
+     "text": "Overview#Guild Sea Battle opens irregularly. In each period, servers that have been open for 30 days unlock it\\nOnce unlocked, players in a guild at Lv40 or above can take part\\nGuild Sea Battle has three phases: the preview phase, the ranking phase and the match phase\\nIn the ranking phase, guild donations during the event are converted to Heat at 10 to 1 for ranking. The higher the rank, the higher the guild's war zone tier and the better the players' rewards\\nThe match phase lasts several rounds; each round, guilds are matched against opponents in their current war zone;Ranking Phase#The ranking phase lasts 3 days. Each day, guild donations add Heat to the player's guild; once the guild's total Heat reaches set values, its ranking tier rises (10 donation contribution = 1 Heat)\\nOn the last day of the ranking phase, Heat stops being counted and each guild's final ranking tier is settled\\nOnce guild tiers are set, war zones are assigned at the same time\\nThe system groups guilds of the same tier from neighboring servers into one war zone for Guild Sea Battle\\nAfter war zones are assigned, Guild Sea Battle officially begins\\nEach round, guilds are matched against opponents in the same war zone;Match Phase - Schedule#The match phase has 4 rounds, each lasting 7 days\\nEach round goes as follows:\\nMonday: the system matches each guild with an opponent\\nMonday-Saturday: all guild members can deploy multiple teams to the routes\\nSaturday-Sunday: guild members can no longer deploy, edit or delete teams; the leader and vice leaders can plan strategy and adjust each team's route\\nSunday daytime: both sides' teams are finally locked (character data stops updating), awaiting the decisive battle\\nSunday evening: the decisive battle officially begins!;Match Phase - Battle#Each route's battle is decided by 1 match with forced auto-battle. If the turn limit is reached, the side with more surviving characters wins; if equal, the side that dealt more damage wins\\nAfter a team wins in a row, its stats decay somewhat each time it enters battle: the longer the streak, the greater the decay\\nThe winning team can go on to challenge the enemy's next team. If on a route we defeat all enemy teams, or the enemy deployed none, we win that route\\nIf neither side deployed teams on a route, the system randomly picks one guild to win it\\nWhen all route battles are over, the side that won more routes wins the round;Rewards#Round rewards: after each round, round rewards are mailed to all guild members who fought, based on the guild's war zone and the round result\\nSettlement rewards: after all matches, season rewards are mailed to all guild members who fought, based on the guild's war zone and total wins\\nRanking rewards: after all matches, special rewards are given based on the personal damage ranking and personal teams-defeated ranking\\nMode currency in the rewards can be exchanged at the Guild Sea Battle Shop\\nThe Guild Sea Battle Shop closes when the season ends, and this season's mode currency expires then, so mind the exchange deadline;"
+    },
+    {
+     "id": "UnionWar_HJ_Title",
+     "text": "The new Guild Sea Battle is a multi-team guild strategy mode full of social fun. Captains, see the detailed guide below"
+    },
+    {
+     "id": "UnionWar_HJ_tips1",
+     "text": "Donate Rainbow Diamonds to the guild daily to add 40 Guild Heat"
+    },
+    {
+     "id": "UnionWar_HJ_tips2",
+     "text": "Fewer than {0} characters deployed in this lineup. Can't deploy"
+    },
+    {
+     "id": "UnionWar_HJ_tips3",
+     "text": "The enemy coast is too far away; enemy intel is unknown and can't be viewed"
+    },
+    {
+     "id": "UnionWar_HJ_tips4",
+     "text": "Our leader/vice leader is adjusting strategy. Can't view right now"
+    },
+    {
+     "id": "UnionWar_HJ_tips5",
+     "text": "{0} defeated <color=#F3A694>{1}</color>"
+    },
+    {
+     "id": "UnionWar_HJ_tips6",
+     "text": "{0} defeated <color=#F3A694>{1}</color> and is on a <color=#EACD76>{2}</color> win streak"
+    },
+    {
+     "id": "UnionWar_HJ_tips7",
+     "text": "Matching is in progress. Can't view right now; please wait for an opponent"
+    },
+    {
+     "id": "UnionWar_HJ_tips8",
+     "text": "Another officer is making adjustments. Please try again later"
+    },
+    {
+     "id": "MultiTeamFightTips14",
+     "text": "Not the current battle formation"
+    },
+    {
+     "id": "UnionBossFight_RemainCountIsZero",
+     "text": "No attempts left"
+    },
+    {
+     "id": "FRAGMENT_COLLECT_CION_SR",
+     "text": "Mithril Training Coin"
+    },
+    {
+     "id": "FRAGMENT_COLLECT_CION_SSR",
+     "text": "Adamant Training Coin"
+    },
+    {
+     "id": "ShipConfirmToMaterial",
+     "text": "Not enough raw materials. Go get some?"
+    },
+    {
+     "id": "SeaFightRandom_Text",
+     "text": "Once 1 PvP trait is active, PvP traits no longer appear randomly in other slots"
+    },
+    {
+     "id": "VoucherPayTipsDesc",
+     "text": "You have a usable cash voucher. Use it to pay?"
+    },
+    {
+     "id": "item_gongxun_desc",
+     "text": "In World Domination, a symbol of a player's performance in campaigns; those with outstanding records usually have more"
+    },
+    {
+     "id": "item_zonghengbi",
+     "text": "Domination Coins"
+    },
+    {
+     "id": "item_zonghengbi_desc",
+     "text": "Earned by actively joining campaigns in World Domination; exchange for many rare rewards in the Domination Shop"
+    },
+    {
+     "id": "UnionSLG_Text_1",
+     "text": "Declare war on <color=#a32e00>{1}</color> owned by <color=#a32e00>{0}</color>?"
+    },
+    {
+     "id": "UnionSLG_Text_2",
+     "text": "Each member's clear adds <color=#a32e00>{0}%</color>"
+    },
+    {
+     "id": "UnionSLG_Text_3",
+     "text": "Capturing this island needs <color=#a32e00>{0}%</color>"
+    },
+    {
+     "id": "UnionSLG_Text_4",
+     "text": "Members who captured and cleared it, every <color=#a32e00>{0}</color> minutes"
+    },
+    {
+     "id": "UnionSLG_Text_5",
+     "text": "For every <color=#a32e00>{0}</color> more members who clear, all members gain every {1} minutes"
+    },
+    {
+     "id": "UnionSLG_Text_6",
+     "text": "All members in a good mood"
+    },
+    {
+     "id": "UnionSLG_Text_7",
+     "text": "Garrison Details"
+    },
+    {
+     "id": "UnionSLG_Text_8",
+     "text": "Choose Team"
+    },
+    {
+     "id": "UnionSLG_Text_9",
+     "text": "You can add {0} more teams"
+    },
+    {
+     "id": "UnionSLG_Text_10",
+     "text": "Team limit reached"
+    },
+    {
+     "id": "UnionSLG_Text_11",
+     "text": "Guild garrison {0}/{1} teams ({2} players)"
+    },
+    {
+     "id": "UnionSLG_Text_12",
+     "text": "My teams: {0}"
+    },
+    {
+     "id": "UnionSLG_Text_13",
+     "text": "Clear the previous floor first"
+    },
+    {
+     "id": "UnionSLG_Text_14",
+     "text": "This island is in a truce period"
+    },
+    {
+     "id": "UnionSLG_Text_15",
+     "text": "Preparation Phase"
+    },
+    {
+     "id": "UnionSLG_Text_16",
+     "text": "Siege Battle"
+    },
+    {
+     "id": "UnionSLG_Text_17",
+     "text": "Island Battle"
+    },
+    {
+     "id": "UnionSLG_Text_18",
+     "text": "Rebuilding"
+    },
+    {
+     "id": "UnionSLG_Text_19",
+     "text": "{0}s"
+    },
+    {
+     "id": "UnionSLG_Text_20",
+     "text": "Capture {0}%"
+    },
+    {
+     "id": "UnionSLG_Text_21",
+     "text": "Sent {0} teams, {1} players in total"
+    },
+    {
+     "id": "UnionSLG_Text_22",
+     "text": "Donate Rainbow Diamonds to the guild daily to add <color=#a32e00>{0}</color> Guild Heat"
+    },
+    {
+     "id": "UnionSLG_Text_23",
+     "text": "World Domination"
+    },
+    {
+     "id": "UnionSLG_Text_24",
+     "text": "{0} {1} War Zone"
+    },
+    {
+     "id": "UnionSLG_Text_25",
+     "text": "Garrison teams need at least {0} characters deployed"
+    },
+    {
+     "id": "UnionSLG_Text_26",
+     "text": "During this phase you can <color=#a32e00>set up battle fleets</color> and station them on nearby <color=#a32e00>linked islands</color>. <color=#a32e00>Island Battles start</color> in {0}. Battles follow <color=#a32e00>the order war was declared</color>; <color=#a32e00>5 minutes before each battle</color>, choose stationed teams to join;"
+    },
+    {
+     "id": "UnionSLG_Text_27",
+     "text": "The home port is your starting island"
+    },
+    {
+     "id": "UnionSLG_Text_28",
+     "text": "Home ports and banner outposts can't be targeted by war declarations"
+    },
+    {
+     "id": "UnionSLG_Text_29",
+     "text": "See the schedule details in the top left for this season's phases and guide"
+    },
+    {
+     "id": "UnionSLG_Text_30",
+     "text": "<color=#a32e00>Tap another island to direct your fleet</color>"
+    },
+    {
+     "id": "UnionSLG_Text_31",
+     "text": "Exploring this island gives <color=#a32e00>extra income</color>"
+    },
+    {
+     "id": "UnionSLG_Text_32",
+     "text": "This island <color=#a32e00>can't be captured</color>"
+    },
+    {
+     "id": "UnionSLG_Text_33",
+     "text": "All exploration stages <color=#a32e00>reset</color> on Monday"
+    },
+    {
+     "id": "UnionSLG_Text_34",
+     "text": "Some stages open at different times each week"
+    },
+    {
+     "id": "UnionSLG_Text_35",
+     "text": "Each of our members who clears all [Outer Defenders] reduces it by\\n<color=#a32e00>{0}%</color>"
+    },
+    {
+     "id": "UnionSLG_Text_36",
+     "text": "Island Battle starts when enemy [Outer Defenders] reach 0%\\n<color=#a32e00></color>"
+    },
+    {
+     "id": "UnionSLG_Text_37",
+     "text": "Remaining to clear [Outer Defenders]:\\n<color=#a32e00>{0}</color>"
+    },
+    {
+     "id": "UnionSLG_Text_38",
+     "text": "If several guilds declare war on this island at once, the guild that <color=#a32e00>clears fastest</color> enters the Island Battle. Others must wait for it to end and declare again"
+    },
+    {
+     "id": "UnionSLG_Text_39",
+     "text": "This home port seems abandoned; no fleets are stationed here"
+    },
+    {
+     "id": "UnionSLG_Text_40",
+     "text": "This island is outside your captured zone; enemy intel is unknown and can't be viewed"
+    },
+    {
+     "id": "UnionSLG_Text_41",
+     "text": "Domination Shop"
+    },
+    {
+     "id": "UnionSLG_Text_42",
+     "text": "The waters are too far away and enemy intel is unknown. Capture a nearby island and try again"
+    },
+    {
+     "id": "UnionSLG_Text_43",
+     "text": "You have no teams stationed on this island or nearby islands. Go edit your teams?"
+    },
+    {
+     "id": "UnionSLG_Text_44",
+     "text": "This island is {0}'s exclusive captured zone near the enemy home port and can't be contested"
+    },
+    {
+     "id": "UnionSLG_Text_45",
+     "text": "This stage opens for exploration on {0}. Please come back then"
+    },
+    {
+     "id": "UnionSLG_Text_46",
+     "text": "Locked and can't set sail. Wait for the team to rest: {0}"
+    },
+    {
+     "id": "UnionSLG_Text_desc1",
+     "text": "1. In the ranking phase, each member's donations are converted to Heat for ranking. The higher the rank, the higher the guild's war zone and the better the rewards\\n\\n2. The ranking phase lasts 3 days. Each day, members' guild donations add Heat to their guild; once the guild's total Heat reaches set values, its ranking war zone rises\\n\\n3. On the last day of the ranking phase, Heat stops being counted and each guild's final war zone is settled\\n\\n4. Once the system has grouped the matches, the next phase begins"
+    },
+    {
+     "id": "UnionSLG_Text_desc2",
+     "text": "1. The flow is as follows:\\n[First Waters] Players set out from their guild's home port and explore nearby outposts. For protection, these outposts aren't contested\\n\\n[Lost in Far Seas] Keep heading toward the center of the sea\\n\\n[Red Sea Conquest] Battles heat up; keep capturing other outposts\\n\\n[Final Showdown] Capture more outposts and earn more Merit\\n\\nThis season's flow is simplified: all outposts can be explored from the start\\n\\n\\n2. Team Editing\\nYou can edit multiple teams; the team cap depends on Maritime level, and is 5 in the current version\\n\\nOnce stationed at an outpost, you can start battles against your current or adjacent outposts\\n\\nAfter any battle, a team becomes locked: it can't move between islands or be edited for a while, then recovers on its own\\n\\n\\n3. Neutral Outposts\\nStart: contestable outposts begin neutral; uncontested outposts around the home port begin captured\\n\\nCapture: each outpost has several stages. Each guild member who clears all of them raises the guild's capture rate there; once it meets the target, the outpost is captured\\n\\nOutput: while the guild holds an outpost and you've personally cleared all its stages, you start earning personal Merit and other rewards, and keep earning [Capture Rewards] offline; output stops after season settlement\\n\\nExtra: once captured, every few more members who clear all stages boost everyone's [Capture Rewards]\\n\\n\\n4. Declaring War\\n[Declare War] Every Mon, Wed, Fri and Sun 13:00--14:30 you can declare war on other guilds' outposts; each declaration costs Sailing Orders\\n\\n[Preparation]: after a successful declaration, the outpost enters preparation for a while, during which both attackers and defenders can [Assign Teams] to adjacent outposts\\n\\n[Island Battle]: after preparation, defenders fight attackers in [Island Battles] in the order war was declared. If an attacker wins, the island goes to them and enters a truce; otherwise the defender faces the next attacker, until all of today's attackers on that island have lost;\\n\\nOther rules:\\n[Island Battles] were improved this season: guilds can now take part in two [Island Battles] at once with no delay. 5 minutes before each [Island Battle], players choose which stationed teams join; no teams can be added once it starts (in the first round, team selection starts immediately; from the second round, selection opens about 35 minutes after the first [Island Battle] starts; follow the countdown shown)\\n\\nEach team can join only one [Island Battle] per day, and after joining it can't challenge PvE stages that day. Plan your teams wisely and the weak can beat the strong\\n\\nFor fairness, formations can't be changed after 19:00 daily, and character stats in lineups are fixed; growth outside the event (leveling, swapping equipment, etc.) doesn't affect stats in the event\\n\\nIf the attacker has no teams when an [Island Battle] starts, the attack counts as failed and that stage is skipped\\n\\n\\n5. Maritime\\nDuring the season, raise your Maritime level for buffs that only apply in this mode\\n\\nMaritime comes in personal and guild types: personal Maritime only affects you; guild Maritime affects all guild members\\n\\nOnly the leader and vice leaders can upgrade guild Maritime\\n\\n\\nRewards\\nWeekly rewards: every Monday at 4:00, ranking rewards are mailed based on personal Merit and guild Power\\n\\nSeason rewards: when the World Domination phase ends and the season-end phase begins, ranking rewards are mailed based on personal Merit and guild Power (the sum of all members' Merit)\\n\\nShop exchange: mode currency can be exchanged in the exclusive shop. It expires when the season ends, so mind the exchange deadline"
+    },
+    {
+     "id": "UnionSLG_Text_desc3",
+     "text": "*[Phases]:\\nThe battlefield is a separate 3D scene with a preparation phase and a battle phase*[Turrets]\\nThe battlefield map has several outposts that can be turned into turrets, each giving different buffs. (On the Classic Server, for balance, everyone enters with a preset turret setup.) Turret levels rise with guild Maritime level, strengthening their effects*[Contest]\\nTap an outpost to move your fleet there; movement auto-paths, and encounters trigger battles. Several fleets (up to 5) rotate in; when one falls, the next steps in automatically. When all fleets fall, you enter regrouping (only 1 regroup per battle), after which all fleets can sail again*[Victory]\\nMeet any one of these conditions to win:\\n1. Destroy the enemy home port\\n2. Wipe out all enemy fleets\\n3. Hold more outposts than the enemy when time runs out"
+    },
+    {
+     "id": "UnionSLG_Text_desc4",
+     "text": "World Domination opens irregularly. Players in a guild at Lv60 or above can take part. Players can't leave their guild during or after ranking\\n\\nWorld Domination is a guild team battle mode. By wisely deploying and assigning guild members' lineups and capturing key outposts first, the weak can beat the strong and compete for higher ranks\\n\\nThis season, World Domination keeps the promotion system: after the season, groups' first place in the Lower/Middle Division advances to the Middle/Upper Division next season, while groups' last place in the Middle/Upper Division drops to the Lower/Middle Division. Climb higher to reach better war zones and win more deluxe rewards!\\n\\nMatching brackets (guilds are only matched with guilds in the same bracket):\\nLower Division:\\n1. East Blue Region\\n2. West Blue Region\\n3. South Blue Region\\n4. North Blue Region\\n5. Supernova Region\\n6. Supernova (New) Region\\n7. New World Region\\n8. New World (New) Region\\n9. Zou Region\\n10. Skypiea Region\\nMiddle Division:\\n1. East Blue Region & West Blue Region & South Blue Region & North Blue Region\\n2. Supernova Region & Supernova (New) Region\\n3. New World Region & New World (New) Region\\n4. Zou Region\\n5. Skypiea Region\\nUpper Division:\\n1. East Blue Region & West Blue Region & South Blue Region & North Blue Region & Supernova Region & Supernova (New) Region & New World Region & New World (New) Region\\n2. Zou Region\\n5. Skypiea Region"
+    },
+    {
+     "id": "UnionSLG_Text_desc5",
+     "text": "World Domination has a ranking phase and a match phase"
+    },
+    {
+     "id": "UnionSLG_Text_51",
+     "text": "Guild Power is the total personal Merit of all listed guild members"
+    },
+    {
+     "id": "UnionSLG_Text_54",
+     "text": "My Guild Rank:"
+    },
+    {
+     "id": "UnionSLG_Text_55",
+     "text": "Station fleets to join defense and attacks"
+    },
+    {
+     "id": "UnionSLG_Text_56",
+     "text": "This island is rebuilding after battle and can't be viewed. Try again in {0}"
+    },
+    {
+     "id": "UnionSLG_Text_57",
+     "text": "The fleet of {1} stationed at {0} will have fewer than {2} characters, so it will leave the garrison and return to the Dock. Confirm?"
+    },
+    {
+     "id": "UnionSLG_Text_58",
+     "text": "At guild Maritime Lv{0}, the Sailing Order cap +{1}"
+    },
+    {
+     "id": "UnionSLG_Text_59",
+     "text": "Mailed after the season ends"
+    },
+    {
+     "id": "UnionSLG_Text_60",
+     "text": "Mailed every Monday at 4:00"
+    },
+    {
+     "id": "UnionSLG_Text_62",
+     "text": "For guild officers only; upgrades guild Maritime level in World Domination"
+    },
+    {
+     "id": "UnionSLG_Text_63",
+     "text": "The fleet of {1} stationed at {0} will lose its ship and can't stay garrisoned. Confirm?"
+    },
+    {
+     "id": "UnionSLG_Text_64",
+     "text": "Fleet {0} Battle Log"
+    },
+    {
+     "id": "UnionSLG_Text_65",
+     "text": "Send Fleet {0}"
+    },
+    {
+     "id": "UnionSLG_Text_66",
+     "text": "Maritime Log"
+    },
+    {
+     "id": "UnionSLG_Text_67",
+     "text": "Upgrades personal Maritime level in World Domination; earned from outpost clear rewards and capture rewards"
+    },
+    {
+     "id": "UnionSLG_Text_68",
+     "text": "The waters ahead are shrouded in fog and unsafe to enter. Unlocks when the season reaches <color=#d14e0d>{0}</color>; current phase ends in {1}"
+    },
+    {
+     "id": "UnionSLG_Text_69",
+     "text": "Matching in progress, please wait. {0} left"
+    },
+    {
+     "id": "UnionSLG_Text_70",
+     "text": "The siege phase is closed and the season is ending. Exchange and claim your rewards soon"
+    },
+    {
+     "id": "UnionSLG_Text_71",
+     "text": "This outpost is in fierce battle. Your guild is expected to enter the battlefield in {0} (team selection opens 5 minutes before battle)"
+    },
+    {
+     "id": "UnionSLG_Text_72",
+     "text": "Island Battle Sinkings"
+    },
+    {
+     "id": "UnionSLG_Text_73",
+     "text": "Team selection for the next island siege opens in {0}"
+    },
+    {
+     "id": "UnionSLG_Text_74",
+     "text": "Choosing teams; entering the battlefield in {0}"
+    },
+    {
+     "id": "UnionSLG_Text_75",
+     "text": "Other guilds are fighting now. If the attacker loses, your guild is expected to start choosing teams in {0}"
+    },
+    {
+     "id": "UnionSLG_Text_76",
+     "text": "Your guild has lost or didn't join this island siege today"
+    },
+    {
+     "id": "ChoiceGift_Text_1",
+     "text": "Contains <color=#a32e00>{0}</color> items"
+    },
+    {
+     "id": "ChoiceGift_Text_2",
+     "text": "Choose <color=#a32e00>{0}</color> items"
+    },
+    {
+     "id": "ChoiceGift_Text_3",
+     "text": "You've chosen <color=#a32e00>{0}</color> items; <color=#a32e00>{1}</color> left to choose. Choose them, then tap Buy again"
+    },
+    {
+     "id": "RechargeVoyage_01",
+     "text": "Before the event expires, purchased passes close once all rewards have been claimed"
+    },
+    {
+     "id": "TownPage_feixing",
+     "text": "Fly"
+    },
+    {
+     "id": "ShipConfirmTitle",
+     "text": "Duplicate Warship"
+    },
+    {
+     "id": "ShipConfirmContent",
+     "text": "Only one of each warship can exist at a time. Duplicates go to the warehouse and can only be dismantled for a few resources! Accept?"
+    },
+    {
+     "id": "ShipPlanUnlock1",
+     "text": "Spend"
+    },
+    {
+     "id": "ShipPlanUnlock2",
+     "text": "Unlock {0}"
+    },
+    {
+     "id": "ShipPlanUnlock3",
+     "text": "Once unlocked, you can store multiple refinement trait sets and switch freely (items come from dismantling warships)"
+    },
+    {
+     "id": "ShipPlanUnlockSuccess",
+     "text": "Plan unlocked"
+    },
+    {
+     "id": "ShipGroup_Text_01",
+     "text": "Create Fleet"
+    },
+    {
+     "id": "ShipGroup_Text_02",
+     "text": "Spend {0}{1} to create a fleet?"
     },
     {
      "id": "HC_BattleInfo_2273",
@@ -23569,7 +24369,7 @@
      "text": "Limited Recruit"
     }
    ],
-   "partial": "5101/5841 rows translated so far"
+   "partial": "5301/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
