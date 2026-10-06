@@ -10642,14 +10642,554 @@
       "intro": "Open for a 45% chance of Reforge Rune Stone*40, 35% of Reforge Rune Stone*45, 19.8% of Reforge Rune Stone*50, and 0.2% of Outfit Exchange Coin*150 plus a Wano Franky Outfit Choice Chest."
      },
      {
+      "itemId": "619373",
+      "name": "Forging Ticket Chest",
+      "intro": "Open for a 10% chance of Forging Ticket*10, 25% of Forging Ticket*11, 30% of Forging Ticket*12, 20% of Forging Ticket*13, 10% of Forging Ticket*14, 4.8% of Forging Ticket*15, and 0.2% of Outfit Exchange Coin*150 plus a Wano Franky Outfit Choice Chest."
+     },
+     {
+      "itemId": "619374",
+      "name": "Soul Refining Stone Chest",
+      "intro": "Open for a 45% chance of Soul Refining Stone*40, 35% of Soul Refining Stone*45, 19.8% of Soul Refining Stone*50, and 0.2% of Outfit Exchange Coin*150 plus a Wano Franky Outfit Choice Chest."
+     },
+     {
+      "itemId": "619375",
+      "name": "Rainbow Gem Chest",
+      "intro": "Open for a 60% chance of a Lv7 Rainbow Gem Choice Bag, 39.8% of a Lv8 Rainbow Gem Choice Bag, and 0.2% of Outfit Exchange Coin*150 plus a Wano Franky Outfit Choice Chest."
+     },
+     {
+      "itemId": "619376",
+      "name": "Surprise Item Choice Box",
+      "intro": "Use to get Outfit Exchange Coin*10 for sure, plus your choice of a UR Recruitment Ticket Chest, Reforge Rune Stone Chest, Forging Ticket Chest, Soul Refining Stone Chest or Rainbow Gem Chest, with a further chance at Outfit Exchange Coin*150 and the Wano Franky outfit."
+     },
+     {
+      "itemId": "619377",
+      "name": "Item Choice Box",
+      "intro": "Use to choose one of these chests (UR Recruitment Ticket Chest, Reforge Rune Stone Chest, Forging Ticket Chest, Soul Refining Stone Chest, Rainbow Gem Chest), with a further chance at Outfit Exchange Coin*150 and the Wano Franky outfit."
+     },
+     {
+      "itemId": "619378",
+      "name": "First Voyage Gift",
+      "intro": "Open to get Elite Recruit Ticket*1 and Master EXP Scroll*5"
+     },
+     {
+      "itemId": "619379",
+      "name": "First Voyage Gift A",
+      "intro": "Open to get Elite Recruit Ticket*10 and Master EXP Scroll*10"
+     },
+     {
+      "itemId": "619380",
+      "name": "First Voyage Gift B",
+      "intro": "Open to get UR Recruitment Ticket*16 and Master EXP Scroll*10"
+     },
+     {
+      "itemId": "619381",
+      "name": "First Voyage Gift C",
+      "intro": "Open to get Limited Forge Ticket*20 and Master EXP Scroll*10"
+     },
+     {
+      "itemId": "619382",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 2 outfits (Wano Luffy (Luffytaro), Wano Usopp (Usohachi))"
+     },
+     {
+      "itemId": "619383",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Sabo (Black Crow Costume), Wano Robin (O-Robi), O-Kiku (Heavy Armor))"
+     },
+     {
+      "itemId": "619384",
+      "name": "SSR Choice Box",
+      "intro": "Open to choose one of these 10 SSRs (Uta, New World Mihawk, Yamato, Charlotte Pudding, New World Luffy, New World Perona, Portgas D. Ace, Shanks, New World Sanji, Impel Down Boa Hancock)"
+     },
+     {
+      "itemId": "619385",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 9 outfits (Uta (Armor), New World Perona (Formal Wear), New World Mihawk (Kimono), Ace (Halloween Costume), Yamato (Mask), New World Robin (Swimsuit), New World Nami Swimsuit, Charlotte Pudding Outfit (Wedding Dress), New World Sanji (Prince Outfit))"
+     },
+     {
+      "itemId": "619386",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Wano Trafalgar Law (Onigashima Raid Outfit), Wano Franky (Franosuke), New World Kid (Gifter))"
+     },
+     {
+      "itemId": "619387",
+      "name": "SSR Choice Box",
+      "intro": "Open to choose one of these 6 SSRs (Caesar Clown, Kin'emon, O-Kiku, Baby 5, Killer, Kaido)"
+     },
+     {
+      "itemId": "619388",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 4 outfits (Wano Brook (Honekichi), King (Pteranodon), Wano Zoro (Zorojuro), Queen (Brachiosaurus Form))"
+     },
+     {
+      "itemId": "619389",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Wano Sanji (Sangoro), Wano Robin (O-Robi), New World Perona (Formal Wear))"
+     },
+     {
+      "itemId": "619390",
+      "name": "Classic Outfit Gift",
+      "intro": "Open to get Luffy (Suit)"
+     },
+     {
+      "itemId": "619391",
+      "name": "Deluxe Outfit Gift",
+      "intro": "Open to get (Luffy (Suit), Golden Battle Soul*30, Elite Recruit Ticket*10 and Deluxe Exotic Ore*1)"
+     },
+     {
+      "itemId": "619392",
+      "name": "Collector's Outfit Gift",
+      "intro": "Open to get (Luffy (Suit), Golden Battle Soul*50, Elite Recruit Ticket*20 and Deluxe Exotic Ore*2)"
+     },
+     {
+      "itemId": "619400",
+      "name": "Slaughter Set Choice Box",
+      "intro": "Choose 1 of the 4 Slaughter Set pieces."
+     },
+     {
+      "itemId": "619401",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Wano Chopper (Chopaemon), Wano Luffy (Luffytaro), Page One Transformation Costume)"
+     },
+     {
+      "itemId": "619402",
+      "name": "Anniversary Bronze Chest",
+      "intro": "Open for a chance at Rainbow Diamonds*6, *18, *30 or *66. If you don't open it, it can be exchanged for a higher-tier chest"
+     },
+     {
+      "itemId": "619403",
+      "name": "Anniversary Silver Chest",
+      "intro": "Open for a chance at Rainbow Diamonds*88, *188, *388 or *688. If you don't open it, it can be exchanged for a higher-tier chest"
+     },
+     {
+      "itemId": "619404",
+      "name": "Level Four Formation Choice Box",
+      "intro": "Choose one of these formations (Assault, Elemental, Focus, Aggression, Meditation, Haste, Supremacy, Guardian, Defense, Hero Formation)"
+     },
+     {
+      "itemId": "619405",
+      "name": "UR Choice Box",
+      "intro": "Open to choose one: UR Kaido or UR Big Mom"
+     },
+     {
+      "itemId": "619406",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 4 outfits (Wano Usopp (Usohachi), Ulti (Pachycephalosaurus), Wano Nami (O-Nami), O-Kiku (Heavy Armor))"
+     },
+     {
+      "itemId": "619407",
+      "name": "SSR Choice Box",
+      "intro": "Open to choose one of these 8 SSRs (Wano Luffy, Wano Robin, Wano Sanji, Wano Zoro, Wano Chopper, Wano Usopp, Wano Nami, Wano Jinbe)"
+     },
+     {
+      "itemId": "619408",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Nami Swimsuit, Robin Swimsuit, Baby 5 Swimsuit)"
+     },
+     {
+      "itemId": "619409",
+      "name": "Warship Choice Box",
+      "intro": "Open to choose one of these 5 warships (Hanjomaru, Marine Battleship, Blackbeard's Raft, Garp's Warship, Sun Pirates' Ship)"
+     },
+     {
+      "itemId": "619412",
+      "name": "Red Streamer",
+      "intro": "Used during the event to exchange for New World Blackbeard shards"
+     },
+     {
+      "itemId": "619414",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 2 outfits (Basil Hawkins (Komainu Deer), New World Marco (Blue Flames))"
+     },
+     {
+      "itemId": "619415",
+      "name": "SSR Choice Box",
+      "intro": "Open to choose one of these 10 SSRs (Wano Luffy, Wano Robin, Wano Sanji, Wano Zoro, Wano Chopper, Wano Usopp, Wano Nami, Wano Jinbe, Wano Franky, Wano Brook)"
+     },
+     {
+      "itemId": "619416",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 8 outfits (Baby 5 Swimsuit, New World Zoro - Black Suit, New World Luffy - Traditional Chinese Outfit, New World Sanji - Traditional Chinese Outfit, Rose Gown (Boa Hancock) outfit, Vinsmoke Reiju Formal Wear, Kozuki Oden outfit, Young Whitebeard Kimono)"
+     },
+     {
+      "itemId": "619417",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 10 outfits (Nami (Alabasta Dancer Outfit), Vivi (Swimsuit), Vivi (Princess Outfit), Nami (Swimsuit), Robin (Swimsuit), Luffy (Hawaiian Outfit), Boa Hancock (Rose Gown), New World Robin (Swimsuit), New World Tashigi (Swimsuit), New World Zoro - Black Suit)"
+     },
+     {
+      "itemId": "619418",
+      "name": "Roger Crew Pack",
+      "intro": "Open to choose one of these 3 SSRs (Silvers Rayleigh, Kozuki Oden, Shanks)"
+     },
+     {
       "itemId": "619419",
       "name": "Lv10 Rainbow Gem Choice Bag",
       "intro": "Open to choose one Lv10 Rainbow Gem"
      },
      {
+      "itemId": "619420",
+      "name": "SSR Choice Box",
+      "intro": "Open to choose one of these 11 SSRs (Wano Trafalgar Law, Wano Luffy, Wano Robin, Wano Sanji, Wano Zoro, Wano Chopper, Wano Usopp, Wano Nami, Wano Jinbe, Wano Franky, Wano Brook)"
+     },
+     {
+      "itemId": "619421",
+      "name": "SSR Choice Box",
+      "intro": "Open to choose one of these 14 SSRs (Killer, Yamato, Crocodile, Charlotte Pudding, Sabo, New World Nami, New World Robin, New World Usopp, New World Franky, New World Chopper, Wano Trafalgar Law, Wano Sanji, Wano Luffy, Wano Usopp)"
+     },
+     {
+      "itemId": "619422",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 6 outfits (New World Robin (Swimsuit), New World Nami - Swimsuit, Crocodile (Marineford), New World Usopp (Traditional Chinese Outfit), New World Nami (Traditional Chinese Outfit), New World Robin (Traditional Chinese Outfit))"
+     },
+     {
+      "itemId": "619423",
+      "name": "Anniversary Gold Chest",
+      "intro": "Open to choose one of these 3 rewards (Outfit Choice Box*1, Lv10 Rainbow Gem Choice Bag*1, SSR Choice Box*1)"
+     },
+     {
+      "itemId": "619434",
+      "name": "Material Choice Box",
+      "intro": "Open to choose Reforge Rune Stone*15 or Warship Refining Stone*15"
+     },
+     {
+      "itemId": "619435",
+      "name": "Pirate King Outfit Pack",
+      "intro": "Open to get Reforge Rune Stone*15 or Warship Refining Stone*15 plus 10-15 Outfit Exchange Coins, with a 0.5% chance of the Roger Pirate King outfit directly"
+     },
+     {
+      "itemId": "619436",
+      "name": "Celebration SSR Choice Box",
+      "intro": "Open to choose one of these 62 SSRs (Sentomaru, Crocodile, Enel, Aokiji, Garp, Gecko Moria, Bartholomew Kuma, Portgas D. Ace, Mihawk, Rob Lucci, Jinbe, Boa Hancock, Trafalgar Law, Eustass Kid, Silvers Rayleigh, Sengoku, Magellan, Emporio Ivankov, Jozu, Whitebeard, Marco, Vista, New World Usopp, New World Zoro, Blackbeard, New World Nami, New World Robin, New World Luffy, New World Tashigi, New World Brook, New World Sanji, New World Chopper, New World Law, Charlotte Katakuri, Sabo, Fujitora, Big Mom, Charlotte Cracker, Charlotte Smoothie, Kaido, Cavendish, New World Akainu, Vinsmoke Reiju, Impel Down Boa Hancock, Bartolomeo, New World Marco, New World Mihawk, Sugar, Kozuki Oden, Carrot, O-Kiku, Baby 5, Young Whitebeard, New World Perona, Hero Garp, New World Blackbeard, Inuarashi, Nekomamushi, Charlotte Pudding, Basil Hawkins, X Drake, Shiryu)"
+     },
+     {
+      "itemId": "619437",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 4 outfits (Wano Nami (O-Nami), Wano Robin (O-Robi), Wano Brook (Honekichi), Wano Franky (Franosuke))"
+     },
+     {
+      "itemId": "619438",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Sabo (Black Crow Costume), Wano Chopper (Chopaemon), Page One (Spinosaurus))"
+     },
+     {
+      "itemId": "619442",
+      "name": "Title Exchange Coin",
+      "intro": "An event item used to exchange for event titles."
+     },
+     {
+      "itemId": "619443",
+      "name": "Title Exchange Coin Chest",
+      "intro": "Open to get 10-15 Title Exchange Coins"
+     },
+     {
+      "itemId": "619444",
+      "name": "Star of Fortune Pack",
+      "intro": "Open to get Reforge Rune Stone*15 or Warship Refining Stone*15 plus 10-15 Title Exchange Coins, with a 0.5% chance of the \"Star of Fortune\" title directly"
+     },
+     {
+      "itemId": "619445",
+      "name": "Formation Choice Box",
+      "intro": "Open to choose one of these formations (Dawn, Protection, Spirit, Supreme Guard, Ferocious, Inspiration, Winter, Precision, Critical, Calm, Swift March, Healing, Steadfast Formation)"
+     },
+     {
+      "itemId": "619446",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 2 outfits (New World Kid (Gifter), Jack (Mammoth Form))"
+     },
+     {
+      "itemId": "619447",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 2 outfits (New World Kid (Gifter), Drake (Allosaurus))"
+     },
+     {
+      "itemId": "619448",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Wano Franky (Franosuke), Charlotte Smoothie (Swimsuit), Wano Sanji (Sangoro))"
+     },
+     {
+      "itemId": "619449",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 5 outfits (Wano Nami (O-Nami), King (Pteranodon), Wano Robin (O-Robi), Wano Luffy (Luffytaro), Dragon Kaido (Dragon-Human Form))"
+     },
+     {
+      "itemId": "619450",
+      "name": "Halloween Outfit Choice Box",
+      "intro": "Open to choose one of these 8 outfits (Ace (Halloween Costume), Sabo (Halloween Outfit), New World Luffy (Halloween Outfit), New World Law (Halloween), New World Robin (Halloween), New World Sanji (Halloween), New World Zoro (Halloween), New World Nami (Halloween))"
+     },
+     {
+      "itemId": "619451",
+      "name": "Halloween Surprise Outfit Pack",
+      "intro": "Open to get Reforge Rune Stone*15 or Warship Refining Stone*15 plus 10-15 Outfit Exchange Coins, with a 0.5% chance of a Halloween Outfit Choice Box directly (Ace (Halloween Costume), Sabo (Halloween Outfit), New World Luffy (Halloween Outfit), New World Law (Halloween), New World Robin (Halloween), New World Sanji (Halloween), New World Zoro (Halloween), New World Nami (Halloween))"
+     },
+     {
+      "itemId": "619453",
+      "name": "Title Choice Box",
+      "intro": "Open to choose either the title Big Spender or 100 Title Exchange Coins"
+     },
+     {
+      "itemId": "619458",
+      "name": "Zoan Shard Choice Box",
+      "intro": "Open to choose one of: Rob Lucci Shard*1, Sengoku Shard*1, Marco Shard*1, New World Chopper Shard*1, Kaido Shard*1, New World Rob Lucci Shard*1, New World Marco Shard*1, X Drake Shard*1, Fleet Admiral Sengoku Shard*1, Jack Shard*1, Queen Shard*1, Yamato Shard*1, Ulti Shard*1, King Shard*1, Page One Shard*1, Killer Shard*1, Wano Chopper"
+     },
+     {
+      "itemId": "619459",
+      "name": "Logia Shard Choice Box",
+      "intro": "Open to choose one of: Crocodile Shard*1, Enel Shard*1, Aokiji Shard*1, Kizaru Shard*1, Ace Shard*1, Akainu Shard*1, Blackbeard Shard*1, New World Smoker Shard*1, Sabo Shard*1, New World Akainu Shard*1, New World Blackbeard"
+     },
+     {
+      "itemId": "619460",
+      "name": "Paramecia Shard Choice Box",
+      "intro": "Open to choose one of: Gecko Moria Shard*1, Bartholomew Kuma Shard*1, Boa Hancock Shard*1, Law Shard*1, Eustass Kid Shard*1, Magellan Shard*1, Emporio Ivankov Shard*1, Jozu Shard*1, Whitebeard Shard*1, New World Robin Shard*1, Donquixote Doflamingo Shard*1, New World Luffy Shard*1, New World Brook Shard*1, New World Law Shard*1, Katakuri Shard*1, Fujitora Shard*1, Big Mom Shard*1, Charlotte Cracker Shard*1, Charlotte Smoothie Shard*1, Impel Down Boa Hancock Shard*1, Bartolomeo Shard*1, Sugar Shard*1, Baby 5 Shard*1, Young Whitebeard Shard*1, New World Perona Shard*1, Charlotte Pudding Shard*1, Basil Hawkins Shard*1, Shiryu Shard*1, New World Kid Shard*1, Wano Law Shard*1, Wano Luffy Shard*1, Wano Robin Shard*1, Wano Brook"
+     },
+     {
+      "itemId": "619461",
+      "name": "Fighter Shard Choice Box",
+      "intro": "Open to choose one of: Sentomaru Shard*1, Garp Shard*1, Jinbe Shard*1, New World Franky Shard*1, New World Sanji Shard*1, Vinsmoke Reiju Shard*1, Carrot Shard*1, Hero Garp Shard*1, Nekomamushi Shard*1, Wano Sanji Shard*1, Wano Franky Shard*1, Wano Jinbe"
+     },
+     {
+      "itemId": "619462",
+      "name": "Swordsman Shard Choice Box",
+      "intro": "Open to choose one of: Mihawk Shard*1, Rayleigh Shard*1, Vista Shard*1, New World Zoro Shard*1, New World Tashigi Shard*1, New World Mihawk Shard*1, Cavendish Shard*1, Kozuki Oden Shard*1, O-Kiku Shard*1, Wano Zoro"
+     },
+     {
+      "itemId": "619463",
+      "name": "Shooter Shard Choice Box",
+      "intro": "Open to choose one of: New World Usopp Shard*1, New World Nami Shard*1, Wano Usopp Shard*1, Wano Nami"
+     },
+     {
+      "itemId": "619464",
+      "name": "All-Class Shard Choice Box",
+      "intro": "Open to choose one of: Zoan Shard Choice Box, Logia Shard Choice Box, Paramecia Shard Choice Box, Fighter Shard Choice Box, Swordsman Shard Choice Box or Shooter Shard Choice Box (includes all characters up to before Wano Jinbe, except some special characters)"
+     },
+     {
+      "itemId": "619465",
+      "name": "Judgment Set Choice Box",
+      "intro": "Use to choose one piece of the Judgment Set"
+     },
+     {
+      "itemId": "619466",
+      "name": "Hero　Judgment　Cane",
+      "intro": "Use to get an unidentified Lv100 Hero Judgment Cane"
+     },
+     {
+      "itemId": "619467",
+      "name": "Hero　Judgment　Armor",
+      "intro": "Use to get an unidentified Lv100 Hero Judgment Armor"
+     },
+     {
+      "itemId": "619468",
+      "name": "Hero　Judgment　Ring",
+      "intro": "Use to get an unidentified Lv100 Hero Judgment Ring"
+     },
+     {
+      "itemId": "619469",
+      "name": "Hero　Judgment　Necklace",
+      "intro": "Use to get an unidentified Lv100 Hero Judgment Necklace"
+     },
+     {
+      "itemId": "619470",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (King (Pteranodon Form), Wano Brook (Honekichi), Gol D. Roger (Great Pirate))"
+     },
+     {
+      "itemId": "619471",
+      "name": "Sweet Outfit Choice Box",
+      "intro": "Open to choose one of: New World Sanji · Prince Outfit*1, Charlotte Pudding Wedding Dress Flying Carpet*1, Outfit Exchange Coin*200"
+     },
+     {
+      "itemId": "619472",
+      "name": "Supreme Gift Choice Box",
+      "intro": "Open to choose one of: Rapid Strike Formation*1, Sweet Outfit Choice Box*1"
+     },
+     {
+      "itemId": "619473",
+      "name": "Wanderer Set Choice Box",
+      "intro": "Use to choose one piece of the Wanderer Set"
+     },
+     {
+      "itemId": "619474",
+      "name": "Hero　Wanderer　Long　Blade",
+      "intro": "Use to get an unidentified Lv100 Hero Wanderer Long Blade"
+     },
+     {
+      "itemId": "619475",
+      "name": "Hero　Wanderer　Robe",
+      "intro": "Use to get an unidentified Lv100 Hero Wanderer Robe"
+     },
+     {
+      "itemId": "619476",
+      "name": "Hero　Wanderer　Ring",
+      "intro": "Use to get an unidentified Lv100 Hero Wanderer Ring"
+     },
+     {
+      "itemId": "619477",
+      "name": "Hero　Wanderer　Necklace",
+      "intro": "Use to get an unidentified Lv100 Hero Wanderer Necklace"
+     },
+     {
+      "itemId": "619478",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 6 outfits (Wano Zoro (Zorojuro), Charlotte Pudding (Flying Carpet), Charlotte Pudding (Wedding Dress), Wano Franky (Franosuke), New World Sanji (Halloween), Gol D. Roger (Great Pirate))"
+     },
+     {
+      "itemId": "619479",
+      "name": "King Surprise Outfit Pack",
+      "intro": "Open to get Reforge Rune Stone*15 or Warship Refining Stone*15 plus 10-15 Outfit Exchange Coins, with a 0.5% chance of the King outfit directly"
+     },
+     {
+      "itemId": "619481",
+      "name": "Unrivaled Member Chest Lv0",
+      "intro": "Open to get Elite Recruit Ticket*2, Blue Diamonds*200 and Golden Battle Soul*10"
+     },
+     {
+      "itemId": "619482",
+      "name": "Unrivaled Member Chest Lv1",
+      "intro": "Open to get Outfit Exchange Coin*30, Limited Forge Ticket*5, Golden Battle Soul*20 and Elite Recruit Ticket*8"
+     },
+     {
+      "itemId": "619483",
+      "name": "Unrivaled Member Chest Lv2",
+      "intro": "Open to get Outfit Exchange Coin*40, Home Decor - [Falling Sakura] 7 days*1, Warship Dismantling Supply Choice (refinement materials)*20, Limited Forge Ticket*10 and Warship Dismantling Material Choice (upgrade materials)*30"
+     },
+     {
+      "itemId": "619484",
+      "name": "Unrivaled Member Chest Lv3",
+      "intro": "Open to get Outfit Exchange Coin*50, Home Decor - [Falling Sakura] 7 days*1, Warship Dismantling Supply Choice (refinement materials)*30, Limited Forge Ticket*15 and Warship Dismantling Material Choice (upgrade materials)*50"
+     },
+     {
+      "itemId": "619485",
+      "name": "Unrivaled Member Chest Lv4",
+      "intro": "Open to get Outfit Exchange Coin*60, Home Decor - [Falling Sakura] 7 days*2, Warship Dismantling Supply Choice (refinement materials)*50, Limited Forge Ticket*20 and Warship Dismantling Material Choice (upgrade materials)*80"
+     },
+     {
+      "itemId": "619486",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Wano Robin (O-Robi), Drake Transformation (Allosaurus Form), New World Kid (Gifter))"
+     },
+     {
+      "itemId": "619487",
+      "name": "Level Two Formation Choice Box",
+      "intro": "Choose one of these formations (Fury, Inspiration, Battle Soul, Hunter, Winter Formation)"
+     },
+     {
       "itemId": "619488",
       "name": "Level Three Formation Choice Box",
       "intro": "Choose one of these formations (Bulwark, Ambush, Ferocious, Supreme Guard, Duel, Elite, Spirit, Void, Thunderflame, Protection, Impact, Dawn Formation)"
+     },
+     {
+      "itemId": "619490",
+      "name": "Double 12 Silver Chest",
+      "intro": "Open to get one at random from: Rainbow Diamonds*12, *22, *32, *42 or *52 (if you don't open it, you can exchange it for higher-tier rewards in the Double 12 event!)"
+     },
+     {
+      "itemId": "619491",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Queen (Brachiosaurus Form), Yamato (Mask), Jack (Mammoth Form))"
+     },
+     {
+      "itemId": "619492",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Wano Chopper (Chopaemon), Wano Brook (Honekichi), New World Perona (Formal Wear))"
+     },
+     {
+      "itemId": "619493",
+      "name": "Double 12 Gold Chest",
+      "intro": "Open to choose one of: Rainbow Diamonds*1212, Elite Recruit Ticket 8, Limited Forge Ticket*10"
+     },
+     {
+      "itemId": "619494",
+      "name": "Rainbow Diamond Bag",
+      "intro": "Open to get Rainbow Diamonds*1212"
+     },
+     {
+      "itemId": "619495",
+      "name": "Young Rayleigh Gift Box",
+      "intro": "Open to choose one of: Young Rayleigh Shard*50, Young Silvers Rayleigh Awakening Badge*50"
+     },
+     {
+      "itemId": "619496",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Wano Robin (O-Robi), New World Usopp (Dressrosa), Queen (Brachiosaurus Form))"
+     },
+     {
+      "itemId": "619497",
+      "name": "Christmas Outfit Pack",
+      "intro": "Open to get Reforge Rune Stone*15 or Warship Refining Stone*15 plus 10-15 Outfit Exchange Coins, with a 0.5% chance of a Christmas Outfit Choice Box (New World Chopper, New World Nami, New World Robin)"
+     },
+     {
+      "itemId": "619498",
+      "name": "Christmas Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Christmas Nami, Christmas Robin, Christmas Chopper)"
+     },
+     {
+      "itemId": "619503",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 4 outfits (Wano Zoro (Zorojuro), New World Mihawk (Kimono), Young Whitebeard (Kimono), New World Rob Lucci (Kimono))"
+     },
+     {
+      "itemId": "619504",
+      "name": "SSR Choice Chest",
+      "intro": "A choice chest. Use to choose one of: Big Mom, Charlotte Pudding, Vinsmoke Reiju, Charlotte Smoothie, Charlotte Cracker, Charlotte Katakuri, Kozuki Oden, Kin'emon, O-Kiku, Carrot."
+     },
+     {
+      "itemId": "619505",
+      "name": "Lunar New Year Celebration Mysterious Gift",
+      "intro": "Open for a chance at Rainbow Diamonds*20, *25, *66 or *88, with a very low chance of Rainbow Diamonds*2025. If you don't open it, it can be exchanged for a higher-tier gift"
+     },
+     {
+      "itemId": "619506",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 2 outfits (Gol D. Roger (Great Pirate), Ryokugyu Green Bull (Flying))"
+     },
+     {
+      "itemId": "619507",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 6 outfits (Charlotte Pudding (Wedding Dress), Charlotte Pudding (Flying Carpet), Ryokugyu Green Bull (Flying), Wano Robin (O-Robi), Wano Chopper (Chopaemon), Gol D. Roger (Great Pirate))"
+     },
+     {
+      "itemId": "619508",
+      "name": "King's Companion Choice Box",
+      "intro": "Choose one: Kaido or Big Mom"
+     },
+     {
+      "itemId": "619509",
+      "name": "Classic Outfit Choice Box",
+      "intro": "Open to choose one of these items (Yamato (Mask), Jack (Mammoth Form), Big Mom (Pajamas), Classic Outfit Choice Box*1)"
+     },
+     {
+      "itemId": "619510",
+      "name": "Classic Outfit Choice Box",
+      "intro": "Open to choose one of these outfits (Luffy (Afro), Crocodile (Marineford), Zoro (Water Seven), Garp (Dog-Head Hat), Boa Hancock (Purple Cheongsam), Ace (Alabasta), Usopp (Long Ring Long Land Outfit), Nami (Wedding Dress), Sanji (Skypiea Outfit), Buggy (Marine Outfit), Vivi (Princess Outfit), Rob Lucci (Shipwright Outfit), Nami (Swimsuit), Robin (Swimsuit), Nami (Alabasta Dancer), Robin (Baroque Works Outfit), Luffy (Hawaiian))"
+     },
+     {
+      "itemId": "619511",
+      "name": "Lunar New Year Celebration Surprise Gift",
+      "intro": "Open for a chance at Rainbow Diamonds*188, *288, *588 or *888, a small chance of Rainbow Diamonds*1588 and a very low chance of Rainbow Diamonds*2025. If you don't open it, it can be exchanged for a higher-tier gift"
+     },
+     {
+      "itemId": "619512",
+      "name": "Lunar New Year Celebration Deluxe Gift",
+      "intro": "Open to choose one of: Rainbow Diamonds*2025, Outfit Choice Box*1, Lv8 Rainbow Gem Choice*1, 2024 SSR Choice Box*1, Tier-4 Formation Choice*1"
+     },
+     {
+      "itemId": "619513",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these outfits (Luffy - Afro, Crocodile - Marineford, Zoro - Water Seven, Garp - Dog-Head Hat, Boa Hancock - Purple Cheongsam, Ace - Alabasta, Usopp - Long Ring Long Land, Nami - Wedding Dress, Sanji - Skypiea, Buggy - Marine Outfit, Vivi - Princess Outfit, Rob Lucci - Shipwright Outfit)"
+     },
+     {
+      "itemId": "619514",
+      "name": "2024SSR Choice Box",
+      "intro": "Open to choose one of: Wano Sanji*50, Wano Zoro*50, Wano Chopper*50, Wano Usopp*50, Wano Nami*50, Wano Franky*50, Wano Brook*50, Wano Jinbe*50, Black Maria*50, Soba Mask*50"
+     },
+     {
+      "itemId": "619519",
+      "name": "UR Premium Gift Choice Box",
+      "intro": "Open to choose one reward: Dragon Kaido Shard*80 or UR Recruitment Ticket*6"
+     },
+     {
+      "itemId": "619520",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Ryokugyu Green Bull (Flying), Wano Brook (Honekichi), Wano Chopper (Chopaemon))"
      },
      {
       "itemId": "619522",
@@ -10662,9 +11202,1409 @@
       "intro": "A red rose.\\nHas a chance to drop from Bounty Quests during the event. Can be exchanged for special items."
      },
      {
+      "itemId": "619526",
+      "name": "Valentine's Day SSR Choice Box",
+      "intro": "Open to choose one of these rewards: Yamato Shard*50, Uta Shard*50, Ulti Shard*50, Page One Shard*50, Killer Shard*50, New World Perona Shard*50, Hero Garp Shard*50, New World Blackbeard Shard*50, Inuarashi Shard*50, Nekomamushi Shard*50, Charlotte Pudding Shard*50, Basil Hawkins Shard*50, X Drake Shard*50, Shiryu Shard*50, Caesar Clown Shard*50, Sabo Shard*50, Fujitora Shard*50, Big Mom Shard*50, Charlotte Cracker Shard*50, Charlotte Smoothie Shard*50, Kaido Shard*50"
+     },
+     {
+      "itemId": "619527",
+      "name": "Valentine's Day Outfit Choice Box",
+      "intro": "Open to choose one of these outfits: Uta (Armor), New World Perona (Formal Wear), Ace (Halloween Costume), Yamato (Mask), Boa Hancock (Rose Gown), New World Robin (Swimsuit), New World Nami (Swimsuit), New World Lucci (Leopard), New World Zoro (Battle Form), New World Sanji (Prince Outfit), Wedding Dress (Flying Carpet), Wano Zoro (Zorojuro), Wano Franky (Franosuke), Kaido (Dragon Form), Impel Down Boa Hancock (Kimono)"
+     },
+     {
+      "itemId": "619528",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these outfits (Jack (Mammoth Form), Wano Brook (Honekichi), Wano Robin (O-Robi), Carrot (Kimono))"
+     },
+     {
+      "itemId": "619529",
+      "name": "King Set Choice Box",
+      "intro": "Choose 1 of the 4 King Set pieces."
+     },
+     {
+      "itemId": "619530",
+      "name": "Conquest Equipment Chest",
+      "intro": "Choose one: Precision Set Choice Box*1 or Limited Forge Ticket*10"
+     },
+     {
+      "itemId": "619531",
+      "name": "Rare Choice Box",
+      "intro": "Open to choose one: Execution Formation, Rapid Strike Formation or Reforge Rune Stone*300"
+     },
+     {
+      "itemId": "619532",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Jewelry Bonney (Casual Outfit), Page One (Spinosaurus), Ulti (Pachycephalosaurus) or Gol D. Roger (Great Pirate)"
+     },
+     {
+      "itemId": "619533",
+      "name": "Labor Day Gift Chest",
+      "intro": "Open to choose one: Blossoms and Willows or Labor Day Chest*3"
+     },
+     {
+      "itemId": "619534",
+      "name": "Luffy Birthday Gift",
+      "intro": "Open to choose one: Wano Luffy (Gifter) or Outfit Exchange Coin*30"
+     },
+     {
+      "itemId": "619538",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Wano Brook (Honekichi), Wano Sanji (Sangoro), Wano Franky (Franosuke), Gol D. Roger (Great Pirate) or New World Mihawk (Kimono)"
+     },
+     {
+      "itemId": "619539",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Okuchi no Makami Yamato (Beast Form), Wano Zoro (Zorojuro), Wano Robin (O-Robi), Wano Nami (O-Nami) or New World Kuzan (Penguin)"
+     },
+     {
+      "itemId": "619540",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Wano Chopper (Chopaemon), Wano Usopp (Usohachi), New World Kuzan (Penguin) or Drake (Allosaurus)"
+     },
+     {
+      "itemId": "619541",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Wano Luffy (Luffytaro), Big Mom (Pajamas), Sabo (Black Crow Costume) or Jack (Mammoth Form)"
+     },
+     {
+      "itemId": "619542",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Okuchi no Makami Yamato (Beast Form), Jewelry Bonney (Casual Outfit) or King (Pteranodon)"
+     },
+     {
+      "itemId": "619543",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Ryokugyu Green Bull (Flying), New World Kid (Gifter), New World Kuzan (Penguin) or New World Sanji (Prince Outfit)"
+     },
+     {
+      "itemId": "619544",
+      "name": "Equipment Choice Chest",
+      "intro": "Choose 1: Excellence Set Choice Box, Rampage Set Choice Box, Precision Set Choice Box or Limited Forge Ticket*10."
+     },
+     {
+      "itemId": "619545",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Wano Brook (Honekichi), Gol D. Roger (Great Pirate) or Kozuki Oden (Crown)"
+     },
+     {
+      "itemId": "619546",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Gol D. Roger (Great Pirate), Kozuki Oden (Crown) or Wano Chopper (Chopaemon)"
+     },
+     {
+      "itemId": "619547",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Jewelry Bonney (Casual Outfit), Okuchi no Makami Yamato (Beast Form), O-Kiku (Heavy Armor) or Queen (Brachiosaurus Form)"
+     },
+     {
+      "itemId": "619548",
+      "name": "Breakthrough Material Choice Pack",
+      "intro": "Choose one: Basic Breakthrough Material*15, Intermediate Breakthrough Material*10, Advanced Breakthrough Material*4 or Super Breakthrough Material*1"
+     },
+     {
+      "itemId": "619549",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Jack (Mammoth Form), Ryokugyu Green Bull (Flying), New World Robin (Swimsuit), New World Tashigi (Swimsuit) or New World Nami (Swimsuit)"
+     },
+     {
+      "itemId": "619550",
+      "name": "Outfit Choice Pack",
+      "intro": "Open to choose one: S-Hawk (Flying) or S-Snake (Flying)"
+     },
+     {
+      "itemId": "619551",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Charlotte Smoothie (Swimsuit), Sugar (Swimsuit), Baby 5 (Swimsuit), New World Robin (Swimsuit) or Big Mom (Pajamas)"
+     },
+     {
+      "itemId": "619552",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Gol D. Roger (Great Pirate), Wano Trafalgar Law (Onigashima Raid Outfit), Okuchi no Makami Yamato (Beast Form), Drake (Allosaurus), Charlotte Pudding (Wedding Dress) or Charlotte Pudding (Flying Carpet)"
+     },
+     {
+      "itemId": "619553",
+      "name": "SSR Choice Box",
+      "intro": "Open to choose one of these 97 SSRs (Sentomaru, Crocodile, Enel, Aokiji, Garp, Gecko Moria, Bartholomew Kuma, Kizaru, Portgas D. Ace, Akainu, Mihawk, Rob Lucci, Jinbe, Boa Hancock, Trafalgar Law, Eustass Kid, Silvers Rayleigh, Sengoku, Magellan, Emporio Ivankov, Jozu, Whitebeard, Marco, Vista, Shanks, New World Usopp, New World Zoro, Blackbeard, New World Nami, New World Robin, Donquixote Doflamingo, New World Luffy, New World Smoker, New World Tashigi, Kin'emon, New World Franky, New World Brook, New World Sanji, New World Chopper, New World Law, Fujitora, Charlotte Katakuri, Caesar Clown, Sabo, Big Mom, Charlotte Cracker, Charlotte Smoothie, Kaido, New World Kuzan, New World Akainu, Vinsmoke Reiju, New World Rob Lucci, Impel Down Boa Hancock, Bartolomeo, New World Marco, New World Mihawk, Sugar, Cavendish, Kozuki Oden, Young Silvers Rayleigh, Carrot, O-Kiku, Baby 5, Young Whitebeard, New World Perona, Hero Garp, New World Blackbeard, Inuarashi, Nekomamushi, Charlotte Pudding, Basil Hawkins, X Drake, Shiryu, Fleet Admiral Sengoku, Jack, Queen, Yamato, Ulti, King, Page One, Killer, New World Kid, Wano Trafalgar Law, Wano Luffy, Wano Robin, Wano Sanji, Wano Zoro, Wano Chopper, Wano Usopp, Wano Nami, Wano Franky, Wano Brook, Wano Jinbe, Black Maria, Soba Mask, Ryokugyu Green Bull, Okuchi no Makami Yamato)"
+     },
+     {
+      "itemId": "619554",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Ryokugyu Green Bull (Flying), Wano Zoro (Zorojuro) or Yamato (Mask)"
+     },
+     {
+      "itemId": "619555",
+      "name": "SSR Choice Box",
+      "intro": "Open to choose one of these 18 SSRs (Wano Trafalgar Law, Wano Luffy, Wano Robin, Wano Sanji, Wano Zoro, Wano Chopper, Wano Usopp, Wano Nami, Wano Franky, Wano Brook, Wano Jinbe, Black Maria, Soba Mask, Ryokugyu Green Bull, Okuchi no Makami Yamato, Kid & Law, Jewelry Bonney, S-Hawk)"
+     },
+     {
+      "itemId": "619556",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Nami Swimsuit, Robin Swimsuit, Baby 5 Swimsuit)"
+     },
+     {
+      "itemId": "619557",
+      "name": "Warship Choice Box",
+      "intro": "Open to choose one of these 5 warships (Hanjomaru, Marine Battleship, Blackbeard's Raft, Garp's Warship, Sun Pirates' Ship)"
+     },
+     {
+      "itemId": "619558",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Wano Brook (Honekichi), Kaido (Dragon Form), Sugar (Swimsuit), Sabo (Black Crow Costume), New World Kid (Gifter) or King (Pteranodon)"
+     },
+     {
+      "itemId": "619559",
+      "name": "7th Anniversary Bronze Chest",
+      "intro": "Open for a chance at Rainbow Diamonds*7, *27, *57 or *77, with a very small chance of Rainbow Diamonds*777. If you don't open the chest now, you can exchange it at a set ratio for a higher-tier chest in a later anniversary event for higher-tier rewards."
+     },
+     {
       "itemId": "619562",
       "name": "Qixi Festival Chest",
       "intro": "A surprise chest full of love. Rumor has it there's a chance of the mysterious Crystal of Pure Love"
+     },
+     {
+      "itemId": "619563",
+      "name": "Celebration Mysterious Gift A",
+      "intro": "Earned in the web team-up event. Used to exchange for the designated 7th anniversary celebration battle pass"
+     },
+     {
+      "itemId": "619564",
+      "name": "Celebration Mysterious Gift B",
+      "intro": "Earned in the web team-up event. Used to exchange for the designated 7th anniversary celebration battle pass"
+     },
+     {
+      "itemId": "619565",
+      "name": "Qixi Festival SSR Choice Box",
+      "intro": "Open to choose one of: Uta, New World Mihawk, Yamato, Charlotte Pudding, New World Luffy, New World Robin, Shanks, New World Perona, Portgas D. Ace, New World Sanji, Boa Hancock, Impel Down Boa Hancock."
+     },
+     {
+      "itemId": "619566",
+      "name": "Qixi Festival Outfit Choice Box",
+      "intro": "Open to choose one: Uta (Armor), New World Perona (Formal Wear), New World Mihawk (Kimono), Ace (Halloween Costume), Yamato (Mask), New World Robin (Swimsuit), New World Nami (Swimsuit), Charlotte Pudding (Wedding Dress), New World Sanji (Prince Outfit), New World Zoro (Black Suit), Boa Hancock (Swimsuit), Luffy (Battle Suit), New World Law (Halloween) or Impel Down Boa Hancock (Kimono)"
+     },
+     {
+      "itemId": "619567",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Egghead Kaku (Giraffe), Wano Robin (O-Robi) or Wano Franky (Franosuke)"
+     },
+     {
+      "itemId": "619568",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Egghead Kaku (Giraffe), Charlotte Pudding (Wedding Dress), Charlotte Pudding (Flying Carpet) or Wedding Dress (Flying Carpet)"
+     },
+     {
+      "itemId": "619569",
+      "name": "Awakening Badge Choice Chest",
+      "intro": "Open to choose one: Jack Awakening Badge*10, Queen Awakening Badge*10 or King Awakening Badge*10"
+     },
+     {
+      "itemId": "619570",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Wano Luffy (Luffytaro), Wano Nami (O-Nami), Jack (Mammoth Form) or Vinsmoke Reiju (Formal Wear)"
+     },
+     {
+      "itemId": "619571",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Jewelry Bonney (Casual Outfit) or Okuchi no Makami Yamato (Beast Form)"
+     },
+     {
+      "itemId": "619572",
+      "name": "Mid-Autumn Surprise Chest",
+      "intro": "Open for a chance at Rainbow Diamonds*88, Elite Recruit Ticket*1, UR Recruitment Ticket*1, Ultimate Skill Manual*5, Master EXP Scroll*10, Advanced Refining Stone*10, Hero Stone*5 or Reforge Rune Stone*5"
+     },
+     {
+      "itemId": "619573",
+      "name": "Mid-Autumn Moon Choice Box",
+      "intro": "Choose one reward: Title Exchange Coin*30, Fashion Coins*300, Shuttlecock*30, Lightning-Scale Ore*10, Earth Soul Ore*5 or Rainbow Diamonds*666"
+     },
+     {
+      "itemId": "619574",
+      "name": "UR Choice Box",
+      "intro": "Choose one reward: UR Dragon Kaido Shard*80 or UR Oiran Big Mom Shard*80"
+     },
+     {
+      "itemId": "619575",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Okuchi no Makami Yamato (Beast Form), Wano Usopp (Usohachi), Ryokugyu Green Bull (Flying) or Jewelry Bonney (Casual Outfit)"
+     },
+     {
+      "itemId": "619576",
+      "name": "Recruitment Ticket Choice Box",
+      "intro": "Choose one reward: Elite Recruit Ticket*1 or UR Recruitment Ticket*1"
+     },
+     {
+      "itemId": "619577",
+      "name": "Halloween Outfit Pack",
+      "intro": "Open to choose one: Ace (Halloween Costume), New World Zoro (Halloween), New World Nami (Halloween), New World Robin (Halloween), New World Luffy (Halloween Outfit), New World Sanji (Halloween), Sabo (Halloween Outfit) or New World Law (Halloween)"
+     },
+     {
+      "itemId": "619578",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: New World Rob Lucci (Kimono), New World Lucci (Leopard), Wano Brook (Honekichi) or New World Mihawk (Kimono)"
+     },
+     {
+      "itemId": "619579",
+      "name": "Halloween Surprise Outfit Pack",
+      "intro": "Open to get Reforge Rune Stone*15 or Warship Refining Stone*15 plus 10-15 Outfit Exchange Coins, with a 0.5% chance of a Halloween Outfit Pack directly"
+     },
+     {
+      "itemId": "619580",
+      "name": "Outfit Exchange Coin Chest",
+      "intro": "Open to get 10-15 Outfit Exchange Coins, with a 0.5% chance of a Halloween Outfit Pack directly"
+     },
+     {
+      "itemId": "619581",
+      "name": "Halloween Candy",
+      "intro": "Open for a chance at Rainbow Diamonds*33, Rainbow Diamonds*66, Elite Recruit Ticket*1, Master EXP Scroll*5, Soul Search Ticket*2, Reforge Rune Stone*2 or Warship Refining Stone*3, with a very small chance of Halloween Outfit Pack*1."
+     },
+     {
+      "itemId": "619582",
+      "name": "Collector's Title Chest",
+      "intro": "Choose 1 of: Title: Swallows Return, Spring Awakens, Title: Springtime Stroll, Title: Together Through Storms, Title: Sailing Together, Title: Never Apart, Title: Auspicious Clouds"
+     },
+     {
+      "itemId": "619583",
+      "name": "Carnival Surprise Choice Box",
+      "intro": "Open to choose one: Title Exchange Coin*20 or Fashion Coins*300"
+     },
+     {
+      "itemId": "619584",
+      "name": "Lucci's Gift A",
+      "intro": "A gift from Egghead Rob Lucci. Earned from achievements after unlocking Egghead Rob Lucci - Leopard Form; exchange it for the Egghead Rob Lucci - Leopard Form dash animation."
+     },
+     {
+      "itemId": "619585",
+      "name": "Lucci's Gift B",
+      "intro": "A gift from Egghead Rob Lucci. Earned from daily online time rewards; exchange it for the Egghead Rob Lucci - Leopard Form dash animation."
+     },
+     {
+      "itemId": "619586",
+      "name": "Carnival Preview Gift",
+      "intro": "Open for a chance at Rainbow Diamonds*88, Elite Recruit Ticket*1, UR Recruitment Ticket*1, Ultimate Skill Manual*5, Master EXP Scroll*10, Super Refining Stone*10, Hero Stone*5, Reforge Rune Stone*5 or Warship Refining Stone*5"
+     },
+     {
+      "itemId": "619587",
+      "name": "Carnival Preview Choice Box",
+      "intro": "Open to choose one: Title Exchange Coin*30, Fashion Coins*300, Shuttlecock*30, Lightning-Scale Ore*10, Earth Soul Ore*5 or Rainbow Diamonds*666"
+     },
+     {
+      "itemId": "619588",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Egghead Rob Lucci (Mask), New World Rob Lucci (Kimono), New World Lucci (Leopard) or New World Perona (Formal Wear)"
+     },
+     {
+      "itemId": "619589",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Egghead Rob Lucci (Mask), Wano Nami (O-Nami) or Egghead Kaku (Giraffe)"
+     },
+     {
+      "itemId": "619590",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Jewelry Bonney (Casual Outfit), Okuchi no Makami Yamato (Beast Form) or O-Kiku (Heavy Armor)"
+     },
+     {
+      "itemId": "619591",
+      "name": "Wish Choice Box",
+      "intro": "Open to choose one: Rampage Set Choice Box*1 or Limited Forge Ticket*10"
+     },
+     {
+      "itemId": "619592",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Egghead Stussy (Bat Wings), Wano Chopper (Chopaemon), Carrot (Kimono) or O-Kiku (Heavy Armor)"
+     },
+     {
+      "itemId": "619597",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Egghead Stussy (Bat Wings), Wano Robin (O-Robi) or Egghead Kaku (Giraffe)"
+     },
+     {
+      "itemId": "619598",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Egghead Rob Lucci (Mask), Impel Down Boa Hancock (Kimono) or Jack (Mammoth Form)"
+     },
+     {
+      "itemId": "619599",
+      "name": "Collector's Title Chest",
+      "intro": "Choose 1 of: Title: Swallows Return, Spring Awakens, Title: Springtime Stroll, Title: Together Through Storms, Title: Sailing Together, Title: Never Apart, Title: Auspicious Clouds, Title: Spring Sakura Dream, Title: Unforgettable Night, Title: A Fresh Beginning"
+     },
+     {
+      "itemId": "619600",
+      "name": "Double 12 Carnival Chest",
+      "intro": "Open for a chance at Reforge Rune Stone*5, Refined Gold Ingot*1, Exquisite Gem Bag*2, Sprint Training Book*5, Golden Battle Soul*3, Limited Forge Ticket*1, Elite Recruit Ticket*1, Warship Refining Stone*5, Blue Diamonds*500 or Gold Bars*500000"
+     },
+     {
+      "itemId": "619601",
+      "name": "Swiftness Set Choice Box",
+      "intro": "Choose 1 of the 4 Swiftness Set pieces."
+     },
+     {
+      "itemId": "619602",
+      "name": "Fashion Coin Chest",
+      "intro": "Open to get Fashion Coins*10"
+     },
+     {
+      "itemId": "619603",
+      "name": "Kin'emon Surprise Chest I",
+      "intro": "Open to choose one: Kin'emon Shard*10 or Elite Recruit Ticket*1"
+     },
+     {
+      "itemId": "619604",
+      "name": "Kin'emon Surprise Chest II",
+      "intro": "Open to choose one: Kin'emon Shard*30 or Elite Recruit Ticket*3"
+     },
+     {
+      "itemId": "619605",
+      "name": "Lv6 Formation Choice Box",
+      "intro": "Open to choose any one Lv6 formation: Rapid Strike, Guard, Execution or Whirlpool Formation"
+     },
+     {
+      "itemId": "619606",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: Egghead Kaku (Giraffe), Page One (Spinosaurus), Yamato (Mask) or Sabo (Black Crow Costume)"
+     },
+     {
+      "itemId": "619609",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one: New World Tashigi (Swimsuit), Egghead Rob Lucci (Mask) or Ryokugyu Green Bull (Flying)"
+     },
+     {
+      "itemId": "619610",
+      "name": "Antler Ornament",
+      "intro": "A mysterious Christmas antler ornament. Can be exchanged for items."
+     },
+     {
+      "itemId": "619611",
+      "name": "Santa Hat",
+      "intro": "The Santa hat every Christmas needs. Can be exchanged for items."
+     },
+     {
+      "itemId": "619613",
+      "name": "Christmas Outfit Choice Box",
+      "intro": "Open to choose one: New World Nami (Christmas), New World Robin (Christmas) or New World Chopper (Christmas)"
+     },
+     {
+      "itemId": "619614",
+      "name": "Christmas Chest",
+      "intro": "Open for a chance at Rainbow Diamonds*66, Rainbow Diamonds*88, Blue Diamonds*200, Golden Battle Soul*10, Elite Recruit Ticket*1, UR Recruitment Ticket*1, Equipment Forging Ticket*1 or Gold Bars*88888"
+     },
+     {
+      "itemId": "619615",
+      "name": "Christmas Secret Treasure Chest",
+      "intro": "Open for a chance at Gold Bars*10000, Rainbow Diamonds*15, Blue Diamonds*50, Golden Battle Soul*1 or Fashion Coins*15, with a very low chance of Christmas Outfit Choice Box*1"
+     },
+     {
+      "itemId": "721001",
+      "name": "Elemental Soul Tempering Stone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes elemental stats more likely to appear"
+     },
+     {
+      "itemId": "721002",
+      "name": "Offense Soul Tempering Stone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes offensive stats more likely to appear"
+     },
+     {
+      "itemId": "721003",
+      "name": "Survival Soul Tempering Stone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes survival stats more likely to appear"
+     },
+     {
+      "itemId": "721004",
+      "name": "Support Soul Tempering Stone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes mechanic-effect stats more likely to appear"
+     },
+     {
+      "itemId": "721005",
+      "name": "Rare Soul Tempering Stone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes rare stats such as Speed more likely to appear"
+     },
+     {
+      "itemId": "721100",
+      "name": "Basic Soul Imbuing Charge Stone",
+      "intro": "A low-tier charge item for Overload Soul Infusion. Charges Overload Soul Infusion by 10%"
+     },
+     {
+      "itemId": "721101",
+      "name": "Intermediate Soul Imbuing Charge Stone",
+      "intro": "A mid-tier charge item for Overload Soul Infusion. Charges Overload Soul Infusion by 50%"
+     },
+     {
+      "itemId": "721102",
+      "name": "Advanced Soul Imbuing Charge Stone",
+      "intro": "A high-tier charge item for Overload Soul Infusion. Fully charges Overload Soul Infusion."
+     },
+     {
+      "itemId": "721103",
+      "name": "Attack Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the Attack stat more likely to appear"
+     },
+     {
+      "itemId": "721104",
+      "name": "Crit Rate Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the Crit Rate stat more likely to appear"
+     },
+     {
+      "itemId": "721105",
+      "name": "Resilience Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the Tenacity stat more likely to appear"
+     },
+     {
+      "itemId": "721106",
+      "name": "Accuracy Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the Accuracy stat more likely to appear"
+     },
+     {
+      "itemId": "721107",
+      "name": "Dodge Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the Evasion stat more likely to appear"
+     },
+     {
+      "itemId": "721108",
+      "name": "Block Break Chance Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the Block Break Chance stat more likely to appear"
+     },
+     {
+      "itemId": "721109",
+      "name": "Block Chance Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the Block Chance stat more likely to appear"
+     },
+     {
+      "itemId": "721110",
+      "name": "All Damage Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the All Damage stat more likely to appear"
+     },
+     {
+      "itemId": "721111",
+      "name": "All Resistance Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the All Resistance stat more likely to appear"
+     },
+     {
+      "itemId": "721112",
+      "name": "Crit Damage Rate Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the Crit Damage Rate stat more likely to appear"
+     },
+     {
+      "itemId": "721113",
+      "name": "Speed Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the Speed stat more likely to appear"
+     },
+     {
+      "itemId": "721114",
+      "name": "HP Soulstone",
+      "intro": "A special material for Super Soul Infusion refinement. Makes the HP stat more likely to appear"
+     },
+     {
+      "itemId": "711200",
+      "name": "Shells Town Image One",
+      "intro": "Use to get the photo: Rika's Get-Well Visit"
+     },
+     {
+      "itemId": "711201",
+      "name": "Shells Town Image Two",
+      "intro": "Use to get the photo: Farewell with Coby"
+     },
+     {
+      "itemId": "712020",
+      "name": "Arena Tournament Challenge Ticket",
+      "intro": "A ticket needed to enter the Arena Tournament. Use to gain Arena Tournament challenge attempts."
+     },
+     {
+      "itemId": "720006",
+      "name": "Giant Lizard Egg",
+      "intro": "A precious egg laid by a giant lizard. Gather it to turn in for quests."
+     },
+     {
+      "itemId": "720007",
+      "name": "Pebble",
+      "intro": "A small pebble from the fields. Gather it to turn in for quests."
+     },
+     {
+      "itemId": "720008",
+      "name": "Wooden Plank Fragment",
+      "intro": "A piece of plank from an old house. Gather it to turn in for quests."
+     },
+     {
+      "itemId": "720009",
+      "name": "Driftwood",
+      "intro": "Wood that drifted ashore. Gather it to turn in for quests."
+     },
+     {
+      "itemId": "720010",
+      "name": "Conch Shell",
+      "intro": "A conch shell from Kuri Beach. Gather it to turn in for quests."
+     },
+     {
+      "itemId": "720011",
+      "name": "Poisonous Mushroom",
+      "intro": "A deadly poisonous mushroom. Gather it to turn in for quests."
+     },
+     {
+      "itemId": "720012",
+      "name": "Fake Wanted Poster",
+      "intro": "A forged wanted poster. Gather it to turn in for quests."
+     },
+     {
+      "itemId": "720013",
+      "name": "Loincloth",
+      "intro": "A loincloth for sumo training. Gather it to turn in for quests."
+     },
+     {
+      "itemId": "720014",
+      "name": "Apple",
+      "intro": "A dropped apple. Gather it to turn in for quests."
+     },
+     {
+      "itemId": "720015",
+      "name": "Roadside Stone",
+      "intro": "A stone lying in the road. Gather it to turn in for quests."
+     },
+     {
+      "itemId": "720016",
+      "name": "Extinguished Lantern",
+      "intro": "A lantern that has gone out. Gather it to turn in for quests."
+     },
+     {
+      "itemId": "720017",
+      "name": "Bamboo Cage",
+      "intro": "A bamboo cage stolen from an old man by the sea. Used to turn in for quests."
+     },
+     {
+      "itemId": "720018",
+      "name": "Large Bell",
+      "intro": "A large bell stolen from an expert bamboo shoot picker. Used to turn in for quests."
+     },
+     {
+      "itemId": "720019",
+      "name": "Giant Millstone",
+      "intro": "A giant millstone stolen from an Okobore Town resident. Used to turn in for quests."
+     },
+     {
+      "itemId": "720020",
+      "name": "Embroidered Sumo Apron",
+      "intro": "An embroidered apron stolen from a sumo wrestler's little brother. Used to turn in for quests."
+     },
+     {
+      "itemId": "720021",
+      "name": "Ledger",
+      "intro": "The ledger of the kimono shop's proprietress. Used to turn in for quests."
+     },
+     {
+      "itemId": "690111",
+      "name": "Formation Choice Gift Box",
+      "intro": "Choose one formation blueprint: Calm, Hero, Elemental, Steadfast, Swift March, Healing or Fury Formation."
+     },
+     {
+      "itemId": "690112",
+      "name": "Lv60 Random Equipment Box",
+      "intro": "Open to get 1 random Lv60 equipment piece."
+     },
+     {
+      "itemId": "619342",
+      "name": "Awakening Badge Gift Box ( Pudding )",
+      "intro": "Open to get a Pudding Awakening Badge."
+     },
+     {
+      "itemId": "511634",
+      "name": "Title: Arena Champion",
+      "intro": "Use to get the title: Arena Champion"
+     },
+     {
+      "itemId": "225003",
+      "name": "Cute Apple",
+      "intro": "Gian's apple. Use to learn the skill \"Leipu\""
+     },
+     {
+      "itemId": "619364",
+      "name": "Triumph Set Choice Box",
+      "intro": "Choose 1 of the 4 Triumph Set pieces."
+     },
+     {
+      "itemId": "619368",
+      "name": "Title: Masters Tournament Rising Star",
+      "intro": "Use to get the title: Masters Tournament Rising Star"
+     },
+     {
+      "itemId": "619369",
+      "name": "Beyond Set Choice Box",
+      "intro": "Choose 1 of the 4 Beyond Set pieces."
+     },
+     {
+      "itemId": "730001",
+      "name": "Sea Supplies",
+      "intro": "An event item. Spend it in Sea Clash to set sail"
+     },
+     {
+      "itemId": "910001",
+      "name": "Monthly Pass Vault Key",
+      "intro": "Use to open the Monthly Pass Vault. Log in daily for 30 days to receive a total of Rainbow Diamonds*4700, Blue Diamonds*1500 and Quick Challenge Ticket*300"
+     },
+     {
+      "itemId": "910002",
+      "name": "Recruitment Vault Key",
+      "intro": "Use to open the Recruitment Vault. Log in daily for 7 days to receive a total of UR Recruitment Ticket*35 and a Wano Straw Hat character choice box*1 (Wano Luffy, Wano Robin, Wano Sanji, Wano Zoro, Wano Usopp, Wano Nami, Wano Jinbe, Wano Chopper, Wano Franky, Wano Brook)."
+     },
+     {
+      "itemId": "910003",
+      "name": "Golden Soul Vault Key",
+      "intro": "Use to open the Golden Soul Vault. Log in daily for 15 days to receive a total of 470 Golden Battle Souls."
+     },
+     {
+      "itemId": "910004",
+      "name": "Surprise Vault Key",
+      "intro": "Use to open the Surprise Vault. Log in daily for 10 days to receive a total of Reforge Rune Stone*10, Golden Battle Soul*5, Master EXP Scroll*10, Prismatic Ore*20, Elite Recruit Ticket*1, Rainbow Diamonds*88, Basic Soul Refining Stone*10, Warship Refining Stone*10, Advanced Refining Stone*10 and Celebration SSR Choice Box*1."
+     },
+     {
+      "itemId": "910005",
+      "name": "Rainbow Vault Key",
+      "intro": "Use to open the Rainbow Vault. Log in daily for 7 days to receive a total of 6 Lv7 Rainbow Gem Choices, 1 Lv8 Rainbow Gem Choice and a Rainbow Glow!"
+     },
+     {
+      "itemId": "910006",
+      "name": "Thanksgiving Recruitment Vault Key",
+      "intro": "Use to open the Thanksgiving Recruitment Vault. Log in daily for 7 days to receive 15 Elite Recruit Tickets."
+     },
+     {
+      "itemId": "910007",
+      "name": "Thanksgiving Development Vault Key",
+      "intro": "Use to open the Thanksgiving Growth Vault. Log in daily for 7 days to receive a total of Reforge Rune Stone*110 and Sprint Training Book*60."
+     },
+     {
+      "itemId": "910008",
+      "name": "Thanksgiving Surprise Vault Key",
+      "intro": "Use to open the Thanksgiving Surprise Vault. Log in daily for 9 days to receive a total of Elite Recruit Ticket*3, Limited Forge Ticket*3 and Rainbow Chest*3."
+     },
+     {
+      "itemId": "1200001",
+      "name": "Rainbow Glow",
+      "intro": "Used to synthesize Lv11 Rainbow Gems"
+     },
+     {
+      "itemId": "920001",
+      "name": "Skill Book: Hakai",
+      "intro": "Used to unlock the Hakai advanced skill of Dragon Kaido and Oiran Big Mom"
+     },
+     {
+      "itemId": "931008",
+      "name": "Title: Steadfast - Sixth Anniversary",
+      "intro": "Use to get the title: Steadfast · 6th Anniversary"
+     },
+     {
+      "itemId": "931009",
+      "name": "Title: Lucky Star - Sixth Anniversary",
+      "intro": "Use to get the title: Lucky Star · 6th Anniversary"
+     },
+     {
+      "itemId": "931010",
+      "name": "Title: Legend - Sixth Anniversary",
+      "intro": "Use to get the title: Legend · 6th Anniversary"
+     },
+     {
+      "itemId": "931011",
+      "name": "Title: Never Apart",
+      "intro": "Use to get the title: Never Apart"
+     },
+     {
+      "itemId": "931012",
+      "name": "Title: Expert Recruiter",
+      "intro": "Use to get the title: Expert Recruiter"
+     },
+     {
+      "itemId": "931013",
+      "name": "Title: Fortune Smiles",
+      "intro": "Use to get the title: Fortune Smiles"
+     },
+     {
+      "itemId": "931014",
+      "name": "Title: Unyielding Will",
+      "intro": "Use to get the title: Unyielding Will"
+     },
+     {
+      "itemId": "931015",
+      "name": "Title: Big Spender",
+      "intro": "Use to get the title: Big Spender"
+     },
+     {
+      "itemId": "931016",
+      "name": "Title: Star of Fortune",
+      "intro": "Use to get the title: Star of Fortune"
+     },
+     {
+      "itemId": "931017",
+      "name": "Title: Outfit Collector",
+      "intro": "Use to get the title: Outfit Collector"
+     },
+     {
+      "itemId": "931018",
+      "name": "Title: Together - Sixth Anniversary",
+      "intro": "Use to get the title: Together · 6th Anniversary"
+     },
+     {
+      "itemId": "931023",
+      "name": "Warship Dismantling Supply Choice",
+      "intro": "Use to choose either \"Combat Strategy Plans\" or \"Naval Strategy Plans\"."
+     },
+     {
+      "itemId": "931024",
+      "name": "Surprise Wheel Ticket",
+      "intro": "Used to spin the Surprise Wheel event. Best bought while the Surprise Wheel event is running"
+     },
+     {
+      "itemId": "730002",
+      "name": "Advancement Coin",
+      "intro": "Used to raise the Season 1 season buff level in United Co-op (expired; can be recycled for Gold Bars)"
+     },
+     {
+      "itemId": "730004",
+      "name": "Title: Co-op Pinnacle",
+      "intro": "Use to get the title: Co-op Pinnacle"
+     },
+     {
+      "itemId": "730005",
+      "name": "Title: Co-op Champion",
+      "intro": "Use to get the title: Co-op Champion"
+     },
+     {
+      "itemId": "730006",
+      "name": "Title: Co-op Master",
+      "intro": "Use to get the title: Co-op Master"
+     },
+     {
+      "itemId": "730007",
+      "name": "Title: Co-op Veteran",
+      "intro": "Use to get the title: Co-op Veteran"
+     },
+     {
+      "itemId": "730008",
+      "name": "Title: Co-op Rising Star",
+      "intro": "Use to get the title: Co-op Rising Star"
+     },
+     {
+      "itemId": "730009",
+      "name": "Advancement Coin S2",
+      "intro": "Used to raise the season buff level in United Co-op Season 2"
+     },
+     {
+      "itemId": "721006",
+      "name": "King Awakening Badge Gift Box",
+      "intro": "Open to get a King Awakening Badge"
+     },
+     {
+      "itemId": "721007",
+      "name": "Young Silvers Rayleigh Awakening Badge Gift Box",
+      "intro": "Open to get a Young Silvers Rayleigh Awakening Badge"
+     },
+     {
+      "itemId": "721008",
+      "name": "Jack Awakening Badge Gift Box",
+      "intro": "Open to get a Jack Awakening Badge"
+     },
+     {
+      "itemId": "721009",
+      "name": "Queen Awakening Badge Gift Box",
+      "intro": "Open to get a Queen Awakening Badge"
+     },
+     {
+      "itemId": "721010",
+      "name": "New World Kuzan Awakening Badge Gift Box",
+      "intro": "Open to get a New World Kuzan Awakening Badge"
+     },
+     {
+      "itemId": "721011",
+      "name": "Kozuki Oden Awakening Badge Gift Box",
+      "intro": "Open to get a Kozuki Oden Awakening Badge"
+     },
+     {
+      "itemId": "721012",
+      "name": "Awakening Badge Gift Box ( Garp )",
+      "intro": "Open to get a Garp Awakening Badge"
+     },
+     {
+      "itemId": "721013",
+      "name": "O-Kiku Awakening Badge Gift Box",
+      "intro": "Open to get an O-Kiku Awakening Badge"
+     },
+     {
+      "itemId": "721014",
+      "name": "Kin'emon Awakening Badge Gift Box",
+      "intro": "Open to get a Kin'emon Awakening Badge"
+     },
+     {
+      "itemId": "931025",
+      "name": "Warship Dismantling Material Choice",
+      "intro": "Use to choose one of \"Command HQ Stone\", \"Harbor Office Stone\", \"Dock Timber\", \"Lighthouse Stone\" or \"Coastal Gun Iron\"."
+     },
+     {
+      "itemId": "730003",
+      "name": "Lv4 Formation Choice Box",
+      "intro": "Choose one formation blueprint: Dawn, Protection, Impact, Assault, Elemental, Focus, Aggression, Meditation, Haste, Supremacy, Guardian, Defense or Hero Formation"
+     },
+     {
+      "itemId": "1000001",
+      "name": "Pudding Awakening Seal",
+      "intro": "Switches Pudding's Awakening from temporarily disabled to enabled"
+     },
+     {
+      "itemId": "1000002",
+      "name": "Pudding Sealing Seal",
+      "intro": "Switches Pudding's Awakening from enabled to temporarily disabled"
+     },
+     {
+      "itemId": "931026",
+      "name": "Warship Dismantling Material Pack (Small)",
+      "intro": "Open to get: Warship Dismantling Supply Pack*20, Warship Dismantling Material Pack*30"
+     },
+     {
+      "itemId": "931027",
+      "name": "Warship Dismantling Material Pack (Medium)",
+      "intro": "Open to get: Warship Dismantling Supply Pack*30, Warship Dismantling Material Pack*50"
+     },
+     {
+      "itemId": "931028",
+      "name": "Warship Dismantling Material Pack (Large)",
+      "intro": "Open to get: Warship Dismantling Supply Pack*50, Warship Dismantling Material Pack*80"
+     },
+     {
+      "itemId": "11010001",
+      "name": "Gol D. Roger Chronicle 1",
+      "intro": "Use to unlock [Gol D. Roger Chronicle 1]"
+     },
+     {
+      "itemId": "11010002",
+      "name": "Wano Brook Chronicle 1",
+      "intro": "Use to unlock [Wano Brook Chronicle 1]"
+     },
+     {
+      "itemId": "11010003",
+      "name": "Wano Luffy Chronicle 1",
+      "intro": "Use to unlock [Wano Luffy Chronicle 1]"
+     },
+     {
+      "itemId": "11010004",
+      "name": "Oiran Big Mom Chronicle 1",
+      "intro": "Use to unlock [Oiran Big Mom Chronicle 1]"
+     },
+     {
+      "itemId": "11010005",
+      "name": "Wano Nami Chronicle 1",
+      "intro": "Use to unlock [Wano Nami Chronicle 1]"
+     },
+     {
+      "itemId": "11010006",
+      "name": "Wano Chopper Chronicle 1",
+      "intro": "Use to unlock [Wano Chopper Chronicle 1]"
+     },
+     {
+      "itemId": "11010007",
+      "name": "Wano Jinbe Chronicle 1",
+      "intro": "Use to unlock [Wano Jinbe Chronicle 1]"
+     },
+     {
+      "itemId": "11010008",
+      "name": "Wano Franky Chronicle 1",
+      "intro": "Use to unlock [Wano Franky Chronicle 1]"
+     },
+     {
+      "itemId": "11010009",
+      "name": "Black Maria Chronicle 1",
+      "intro": "Use to unlock [Black Maria Chronicle 1]"
+     },
+     {
+      "itemId": "11010010",
+      "name": "Wano Zoro Chronicle 1",
+      "intro": "Use to unlock [Wano Zoro Chronicle 1]"
+     },
+     {
+      "itemId": "11010011",
+      "name": "Okuchi no Makami Yamato Chronicle 1",
+      "intro": "Use to unlock [Okuchi no Makami Yamato Chronicle 1]"
+     },
+     {
+      "itemId": "11010012",
+      "name": "Sabo Chronicle 1",
+      "intro": "Use to unlock [Sabo Chronicle 1]"
+     },
+     {
+      "itemId": "11010013",
+      "name": "Blackbeard Chronicle 1",
+      "intro": "Use to unlock [Blackbeard Chronicle 1]"
+     },
+     {
+      "itemId": "11010014",
+      "name": "Donquixote Doflamingo Chronicle 1",
+      "intro": "Use to unlock [Donquixote Doflamingo Chronicle 1]"
+     },
+     {
+      "itemId": "11010015",
+      "name": "Charlotte Katakuri Chronicle 1",
+      "intro": "Use to unlock [Charlotte Katakuri Chronicle 1]"
+     },
+     {
+      "itemId": "931029",
+      "name": "Wish Choice Box",
+      "intro": "Use to choose either \"Origin Set Choice Box\" or \"Limited Forge Ticket*10\"."
+     },
+     {
+      "itemId": "931030",
+      "name": "Origin Set Choice Box",
+      "intro": "Choose 1 of the 4 Origin Set pieces."
+     },
+     {
+      "itemId": "931031",
+      "name": "Title: Christmas Guardian",
+      "intro": "Use to get the title: Christmas Guardian"
+     },
+     {
+      "itemId": "910009",
+      "name": "Champion Vault Key",
+      "intro": "Use to open the Champion Vault. Log in daily for 30 days to receive a total of Elite Recruit Ticket*30"
+     },
+     {
+      "itemId": "910010",
+      "name": "Reforging Vault Key",
+      "intro": "Use to open the Reforge Vault. Log in daily for 10 days to receive a total of Reforge Rune Stone*120"
+     },
+     {
+      "itemId": "910011",
+      "name": "Soul Refining Stone Vault Key",
+      "intro": "Use to open the Soul Refining Stone Vault. Log in daily for 7 days to receive a total of Basic Soul Refining Stone*126"
+     },
+     {
+      "itemId": "910012",
+      "name": "Advanced Gem Vault Key",
+      "intro": "Use to open the Advanced Gem Vault. Log in daily for 7 days to receive a total of Prismatic Ore*280"
+     },
+     {
+      "itemId": "910013",
+      "name": "Surprise Weekly Pass Vault Key",
+      "intro": "Use to open the Surprise Weekly Pass Vault. Log in daily for 7 days to receive a total of Rainbow Diamonds*1500"
+     },
+     {
+      "itemId": "910014",
+      "name": "Keepsake Vault Key",
+      "intro": "Use to open the Keepsake Vault. Log in daily for 14 days to receive a total of Rainbow Diamonds*800, Fleet Commemorative Badge - Gold*28 and Elite Recruit Ticket*10"
+     },
+     {
+      "itemId": "910015",
+      "name": "Seven-Day Keepsake Vault Key",
+      "intro": "Use to open the Seven-Day Keepsake Vault. Log in daily for 7 days to receive a total of Rainbow Diamonds*800, Fleet Commemorative Badge - Gold*28 and Elite Recruit Ticket*10"
+     },
+     {
+      "itemId": "910016",
+      "name": "Island Treasure Vault Key",
+      "intro": "(This item will be removed on 8/28!) Use to open the Island Treasure Vault. Log in daily for 45 days to receive a total of Conquest Coin*27000"
+     },
+     {
+      "itemId": "910017",
+      "name": "Soul Imbuing Vault Key",
+      "intro": "Use to open the Soul Infusion Vault. Log in daily for 15 days to receive a total of Soul Search Ticket*60."
+     },
+     {
+      "itemId": "931032",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these 3 outfits (Wano Sanji (Sangoro), Wano Usopp (Usohachi), Ulti (Pachycephalosaurus))"
+     },
+     {
+      "itemId": "940001",
+      "name": "Sailing Order",
+      "intro": "Used in World Domination. Consumed when declaring war on a stronghold"
+     },
+     {
+      "itemId": "940002",
+      "name": "Maritime Log",
+      "intro": "Raises your personal Maritime Level in World Domination"
+     },
+     {
+      "itemId": "940003",
+      "name": "Maritime Handbook",
+      "intro": "Raises your guild's Maritime Level in World Domination"
+     },
+     {
+      "itemId": "931033",
+      "name": "Title: A Fresh Beginning",
+      "intro": "Use to get the title: A Fresh Beginning"
+     },
+     {
+      "itemId": "931034",
+      "name": "Title: New Year Begins",
+      "intro": "Use to get the title: New Year Begins"
+     },
+     {
+      "itemId": "122036",
+      "name": "Shirahoshi's Promise",
+      "intro": "Use to see Shirahoshi at the dock"
+     },
+     {
+      "itemId": "931035",
+      "name": "Title: Lunar New Year Star",
+      "intro": "Use to get the title: Lunar New Year Star"
+     },
+     {
+      "itemId": "931036",
+      "name": "Title: May All Go Well",
+      "intro": "Use to get the title: May All Go Well"
+     },
+     {
+      "itemId": "931037",
+      "name": "Title: Unforgettable Night",
+      "intro": "Use to get the title: Unforgettable Night"
+     },
+     {
+      "itemId": "931038",
+      "name": "Title: Champion of the Land",
+      "intro": "Use to get the title: Champion of the Land"
+     },
+     {
+      "itemId": "931039",
+      "name": "Title: Lantern Festival Ambassador",
+      "intro": "Use to get the title: Lantern Festival Ambassador"
+     },
+     {
+      "itemId": "931040",
+      "name": "Title: Lantern Festival Star",
+      "intro": "Use to get the title: Lantern Festival Star"
+     },
+     {
+      "itemId": "931041",
+      "name": "Title: Auspicious Clouds",
+      "intro": "Use to get the title: Auspicious Clouds"
+     },
+     {
+      "itemId": "931042",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these outfits (Wano Luffy (Luffytaro), Jack (Mammoth Form), Wano Usopp (Usohachi), Cavendish (Farul))"
+     },
+     {
+      "itemId": "931044",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these outfits (Okuchi no Makami Yamato (Beast Form), Wano Chopper (Chopaemon))"
+     },
+     {
+      "itemId": "931045",
+      "name": "Title: Spring Sakura Dream",
+      "intro": "Use to get the title: Spring Sakura Dream"
+     },
+     {
+      "itemId": "931046",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these outfits (Basil Hawkins (Komainu Deer), King (Pteranodon Form), O-Kiku (Heavy Armor))"
+     },
+     {
+      "itemId": "931047",
+      "name": "Lv6 Formation Choice Box",
+      "intro": "Open to choose one of these Lv6 formations (Rapid Strike Formation, Execution Formation)"
+     },
+     {
+      "itemId": "931048",
+      "name": "Title: Supreme One",
+      "intro": "Use to get the title: Supreme One"
+     },
+     {
+      "itemId": "931049",
+      "name": "Title: Island Noble",
+      "intro": "Use to get the title: Island Noble"
+     },
+     {
+      "itemId": "931050",
+      "name": "Title: Island Lord",
+      "intro": "Use to get the title: Island Lord"
+     },
+     {
+      "itemId": "931051",
+      "name": "Title: Island Legend",
+      "intro": "Use to get the title: Island Legend"
+     },
+     {
+      "itemId": "931052",
+      "name": "Island Gift Box",
+      "intro": "Open to get: Treasure Coin*5, Conquest Coin*200"
+     },
+     {
+      "itemId": "931053",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these outfits: New World Chopper (Christmas), Gol D. Roger (Great Pirate)"
+     },
+     {
+      "itemId": "931054",
+      "name": "Title: Swallows Return, Spring Awakens",
+      "intro": "Use to get the title: Swallows Return, Spring Awakens"
+     },
+     {
+      "itemId": "931055",
+      "name": "Title: Set Sail with Luck",
+      "intro": "Use to get the title: Set Sail with Luck"
+     },
+     {
+      "itemId": "931056",
+      "name": "Title: Spring Waters",
+      "intro": "Use to get the title: Spring Waters"
+     },
+     {
+      "itemId": "931057",
+      "name": "Title: Forest in Bloom",
+      "intro": "Use to get the title: Forest in Bloom"
+     },
+     {
+      "itemId": "931058",
+      "name": "Title: Winter Trees, Spring Flowers",
+      "intro": "Use to get the title: Winter Trees, Spring Flowers"
+     },
+     {
+      "itemId": "931059",
+      "name": "Title: Spring Awakening",
+      "intro": "Use to get the title: Spring Awakening"
+     },
+     {
+      "itemId": "931060",
+      "name": "Title: Springtime Stroll",
+      "intro": "Use to get the title: Springtime Stroll"
+     },
+     {
+      "itemId": "931061",
+      "name": "Outfit Choice Box",
+      "intro": "Open to choose one of these outfits: Gol D. Roger (Great Pirate), Ryokugyu Green Bull (Flying), Impel Down Boa Hancock (Kimono), New World Law (Halloween)"
+     },
+     {
+      "itemId": "931062",
+      "name": "Outfit Choice Box",
+      "intro": "Choose one of these items: Queen (Brachiosaurus Form), Wano Nami (O-Nami), Carrot (Kimono), Sugar (Swimsuit)"
+     },
+     {
+      "itemId": "931063",
+      "name": "Outfit Choice Box",
+      "intro": "Choose one of these items: Queen (Brachiosaurus Form), Wano Brook (Honekichi), New World Zoro (Black Suit), New World Zoro (Battle Form), New World Zoro (Halloween)"
+     },
+     {
+      "itemId": "931064",
+      "name": "Outfit Choice Box",
+      "intro": "Choose one of these items: Okuchi no Makami Yamato (Beast Form), Wano Robin (O-Robi), Charlotte Pudding (Wedding Dress), Charlotte Pudding (Flying Carpet), Wedding Dress (Flying Carpet)"
+     },
+     {
+      "itemId": "931065",
+      "name": "Outfit Choice Box",
+      "intro": "Choose one of these items: Jewelry Bonney (Casual Outfit)*1, Ryokugyu Green Bull (Flying)*1"
+     },
+     {
+      "itemId": "931066",
+      "name": "Unrivaled Gift",
+      "intro": "Choose one of these items: Falling Sakura Blueprint*1, Outfit Exchange Coin*360, Title Exchange Coin*200"
+     },
+     {
+      "itemId": "931067",
+      "name": "Commemorative Title Choice Box",
+      "intro": "Choose one of these titles: Expert Recruiter*1, Never Apart*1, Lunar New Year Star*1, Christmas Guardian*1, New Year Begins*1"
+     },
+     {
+      "itemId": "931068",
+      "name": "Unrivaled Gift I",
+      "intro": "Open to get Elite Recruit Ticket*2, Blue Diamonds*200, Golden Battle Soul*10 and Gold Bars*500,000"
+     },
+     {
+      "itemId": "931069",
+      "name": "Unrivaled Gift II",
+      "intro": "Open to get Outfit Exchange Coin*30, Limited Forge Ticket*5, Golden Battle Soul*20 and Elite Recruit Ticket*8"
+     },
+     {
+      "itemId": "931070",
+      "name": "Unrivaled Gift III",
+      "intro": "Open to get Outfit Exchange Coin*40, Warship Dismantling Supply Choice (refinement materials)*20, Limited Forge Ticket*10, Warship Dismantling Material Choice (upgrade materials)*30 and Quintessence Stone*25"
+     },
+     {
+      "itemId": "931071",
+      "name": "Unrivaled Gift IV",
+      "intro": "Open to get Outfit Exchange Coin*50, Warship Dismantling Supply Choice (refinement materials)*20, Limited Forge Ticket*10, Warship Dismantling Material Choice (upgrade materials)*50 and Reforge Rune Stone*50"
+     },
+     {
+      "itemId": "931072",
+      "name": "Unrivaled Gift V",
+      "intro": "Open to get Outfit Exchange Coin*60, Warship Dismantling Supply Choice (refinement materials)*50, Limited Forge Ticket*20, Warship Dismantling Material Choice (upgrade materials)*80 and Unrivaled Gift*1"
+     },
+     {
+      "itemId": "931079",
+      "name": "Outfit Choice Box",
+      "intro": "Choose one of these items: Wano Nami (O-Nami)*1, Ryokugyu Green Bull (Flying)*1, Yamato (Mask)*1, New World Nami (Swimsuit)*1, Queen (Brachiosaurus Form)*1"
+     },
+     {
+      "itemId": "931084",
+      "name": "Shirahoshi Warship Choice Box",
+      "intro": "Choose one of these items: Warship Shirahoshi*1, Reforge Rune Stone*60, Equipment Forging Ticket*15"
+     },
+     {
+      "itemId": "931085",
+      "name": "Mysterious Deluxe Choice Box",
+      "intro": "Choose one of these items: Rapid Strike Formation*1, Execution Formation*1, Reforge Rune Stone*350, Elite Recruit Ticket*35"
+     },
+     {
+      "itemId": "932010",
+      "name": "Lv100 Equipment Choice Box",
+      "intro": "Choose 1: Cruelty Set Choice Box, Destruction Set Choice Box or Negotiator Set Choice Box."
+     },
+     {
+      "itemId": "932011",
+      "name": "Cruelty Set Choice Box",
+      "intro": "Choose 1 of the 4 Cruelty Set pieces."
+     },
+     {
+      "itemId": "932012",
+      "name": "Lv100 Equipment Choice Box",
+      "intro": "Choose 1: Falling Sakura Set Choice Box, Sharp Blade Set Choice Box or Great General Set Choice Box."
+     },
+     {
+      "itemId": "932013",
+      "name": "Falling Sakura Set Choice Box",
+      "intro": "Choose 1 of the 4 Falling Sakura Set pieces."
+     },
+     {
+      "itemId": "932014",
+      "name": "Sharp Blade Set Choice Box",
+      "intro": "Choose 1 of the 4 Sharp Blade Set pieces."
+     },
+     {
+      "itemId": "932015",
+      "name": "Great General Set Choice Box",
+      "intro": "Choose 1 of the 4 Great General Set pieces."
+     },
+     {
+      "itemId": "932016",
+      "name": "Shirahoshi's Gift",
+      "intro": "Open to get: Rainbow Diamonds*3000, UR Choice*10"
+     },
+     {
+      "itemId": "932017",
+      "name": "Power Boost Pack",
+      "intro": "Use to get Golden Soul Vault Key*1 and Monthly Pass Vault Key*1"
+     },
+     {
+      "itemId": "932018",
+      "name": "Item Gift Packet",
+      "intro": "Red packet"
+     },
+     {
+      "itemId": "932019",
+      "name": "Ruler Set Choice Box",
+      "intro": "Choose 1 of the 4 Ruler Set pieces."
+     },
+     {
+      "itemId": "960001",
+      "name": "Fleet Commemorative Badge - Gold",
+      "intro": "Use it to earn 1 point in the Grand Fleet event, or gift it to another player, who receives 1 Fleet Commemorative Badge - Silver"
+     },
+     {
+      "itemId": "960002",
+      "name": "Fleet Commemorative Badge - Silver",
+      "intro": "Use it to earn 1 point in the Grand Fleet event"
+     },
+     {
+      "itemId": "960004",
+      "name": "Name Frame: Fleet Star",
+      "intro": "Use to get the name frame: Fleet Star"
+     },
+     {
+      "itemId": "960005",
+      "name": "Title: Fleet Sets Sail",
+      "intro": "Use to get the title: Fleet Sets Sail (this title expired on 8-31; please recycle this item)"
+     },
+     {
+      "itemId": "960006",
+      "name": "Title: Riding the Waves Together",
+      "intro": "Use to get the title: Riding the Waves Together (this title expired on 8-31; please recycle this item)"
+     },
+     {
+      "itemId": "960007",
+      "name": "Title: Legend of the Seas",
+      "intro": "Use to get the title: Legend of the Seas (this title expired on 8-31; please recycle this item)"
+     },
+     {
+      "itemId": "960008",
+      "name": "Title: Fleet Sets Sail",
+      "intro": "Use to get the title: Fleet Sets Sail"
+     },
+     {
+      "itemId": "960009",
+      "name": "Title: Riding the Waves Together",
+      "intro": "Use to get the title: Riding the Waves Together"
+     },
+     {
+      "itemId": "690130",
+      "name": "Exquisite Gem Bag",
+      "intro": "A small bag of gems. Open it for a chance at gems of various levels."
+     },
+     {
+      "itemId": "932020",
+      "name": "Wish Choice Box",
+      "intro": "Use to choose either \"Bloodthirst Set Choice Box\" or \"Limited Forge Ticket*10\"."
+     },
+     {
+      "itemId": "932021",
+      "name": "Bloodthirst Set Choice Box",
+      "intro": "Choose 1 of the 4 Bloodthirst Set pieces."
+     },
+     {
+      "itemId": "932022",
+      "name": "Dark Flame Set Choice Box",
+      "intro": "Choose 1 of the 4 Dark Flame Set pieces."
+     },
+     {
+      "itemId": "932023",
+      "name": "Deadly Set Choice Box",
+      "intro": "Choose 1 of the 4 Deadly Set pieces."
+     },
+     {
+      "itemId": "932024",
+      "name": "Heavy Armor Set Choice Box",
+      "intro": "Choose 1 of the 4 Heavy Armor Set pieces."
+     },
+     {
+      "itemId": "932025",
+      "name": "Anniversary Promise Gift Box",
+      "intro": "Open to get Rainbow Diamonds*777, UR Recruitment Ticket*7, Fashion Coins*777 and Master EXP Scroll*77"
+     },
+     {
+      "itemId": "932026",
+      "name": "Sprint Animation Pack",
+      "intro": "Open to get: Gear 5 Luffy (Running)*1, Gear 5 Luffy (Jacket - Running)*1, Gear 5 Luffy (Glasses - Running)*1"
+     },
+     {
+      "itemId": "932027",
+      "name": "Beast Pirates SSR Choice Box",
+      "intro": "Choose one of these SSRs: Yamato Shard*50, King Shard*50, Queen Shard*50, Jack Shard*50, Ulti Shard*50, Page One Shard*50, X Drake Shard*50, Black Maria Shard*50, Basil Hawkins Shard*50"
+     },
+     {
+      "itemId": "932028",
+      "name": "All-Stars Outfit Gift Box",
+      "intro": "Open to get: King (Hybrid Form)*1, Queen (Hybrid Form)*1, Jack (Hybrid Form)*1"
+     },
+     {
+      "itemId": "932029",
+      "name": "7th Anniversary Silver Chest",
+      "intro": "Open for a chance at Rainbow Diamonds*77, *177, *477 or *777, with a very small chance of Rainbow Diamonds*7777. If you don't open the chest now, you can exchange it at a set ratio for a higher-tier chest in a later anniversary event for higher-tier rewards."
+     },
+     {
+      "itemId": "932030",
+      "name": "7th Anniversary Gold Chest",
+      "intro": "Choose one reward: Rainbow Diamonds*2025, Outfit Choice Box (Traditional Chinese Edition)*1, SSR Choice Box*1 or Lv10 Rainbow Gem*1"
+     },
+     {
+      "itemId": "932031",
+      "name": "Outfit Choice Box (Traditional Chinese Edition)",
+      "intro": "Choose one reward: New World Zoro (Traditional Chinese Outfit)*1, New World Nami (Traditional Chinese Outfit)*1, New World Usopp (Traditional Chinese Outfit)*1, New World Robin (Traditional Chinese Outfit)*1, New World Luffy (Traditional Chinese Outfit)*1, New World Sanji (Traditional Chinese Outfit)*1, New World Brook (Traditional Chinese Outfit)*1"
+     },
+     {
+      "itemId": "932032",
+      "name": "SSR Choice Box",
+      "intro": "Choose one reward: New World Kid Shard*50, Wano Law Shard*50, Wano Luffy Shard*50, Wano Robin Shard*50, Wano Sanji Shard*50, Wano Zoro Shard*50, Wano Chopper Shard*50, Wano Usopp Shard*50, Wano Nami Shard*50, Wano Franky Shard*50, Wano Jinbe Shard*50, Wano Brook Shard*50, Soba Mask Shard*50, Green Bull Shard*50, Makami Yamato Shard*50"
+     },
+     {
+      "itemId": "932033",
+      "name": "Straw Hat Crew Pack",
+      "intro": "Open to get: New World Usopp Shard*50, New World Zoro Shard*50, New World Nami Shard*50, New World Robin Shard*50, New World Luffy Shard*50, New World Franky Shard*50, New World Brook Shard*50, New World Sanji Shard*50, New World Chopper Shard*50"
+     },
+     {
+      "itemId": "932034",
+      "name": "Straw Hat Outfit Choice Box",
+      "intro": "Choose one reward: New World Zoro (Black Suit)*1, New World Zoro (Battle Form)*1, New World Usopp (Dressrosa)*1, New World Zoro (Traditional Chinese Outfit)*1, New World Nami (Traditional Chinese Outfit)*1, New World Usopp (Traditional Chinese Outfit)*1, New World Robin (Traditional Chinese Outfit)*1, New World Luffy (Traditional Chinese Outfit)*1, New World Sanji (Traditional Chinese Outfit)*1, New World Franky (Black Rhino FR)*1, New World Luffy (Royal Cape)*1, New World Nami (Swimsuit)*1, New World Brook (Traditional Chinese Outfit)*1, New World Robin (Swimsuit)*1, New World Luffy (Lucy Outfit)*1, New World Luffy (Crown Outfit)*1, New World Luffy (Halloween Outfit)*1, New World Robin (Halloween)*1, New World Sanji (Halloween)*1, New World Zoro (Halloween)*1, New World Nami (Halloween)*1, New World Nami (Christmas)*1, New World Robin (Christmas)*1, New World Chopper (Christmas)*1, New World Sanji (Prince Outfit)*1"
+     },
+     {
+      "itemId": "932035",
+      "name": "UR Choice Box",
+      "intro": "Choose one reward: Dragon Kaido Shard*80, Oiran Big Mom*80, Gol D. Roger*80"
      },
      {
       "itemId": "932036",
@@ -10680,6 +12620,321 @@
       "itemId": "932038",
       "name": "Anniversary Chest",
       "intro": "A lucky chest from the anniversary. Use for a chance at a high-quality item"
+     },
+     {
+      "itemId": "932039",
+      "name": "Medal Exchange Coin",
+      "intro": "Used to exchange for limited-time medals in the 7th anniversary celebration event"
+     },
+     {
+      "itemId": "932040",
+      "name": "Wano SSR Choice Box",
+      "intro": "Choose one reward: Wano Brook Shard*50, Wano Franky Shard*50, Wano Chopper Shard*50, Wano Zoro Shard*50, Wano Sanji Shard*50, Wano Robin Shard*50, Wano Luffy Shard*50, Wano Law Shard*50, New World Kid Shard*50, Nekomamushi Shard*50, Inuarashi Shard*50, O-Kiku Shard*50, Carrot Shard*50, Kozuki Oden Shard*50, Soba Mask Shard*50, Wano Jinbe Shard*50, Wano Nami Shard*50, Wano Usopp Shard*50"
+     },
+     {
+      "itemId": "932041",
+      "name": "Celebration Level Five Formation Choice Box",
+      "intro": "Choose one reward: Destruction Formation*1, Warrior Formation*1, Magic Formation*1, Fantasy Formation*1, Extreme Damage Formation*1, Group Immunity Formation*1, Enemy Resistance Formation*1, Long Throw Formation*1, Contempt Formation*1, Finisher Formation*1"
+     },
+     {
+      "itemId": "932042",
+      "name": "Destruction Set / Limited Forging Ticket Choice Box",
+      "intro": "Choose one reward: Destruction Set Choice Box*1 or Limited Forge Ticket*5"
+     },
+     {
+      "itemId": "932043",
+      "name": "8-Star UR Choice Box",
+      "intro": "Choose one reward: Dragon Kaido Shard*560, Oiran Big Mom Shard*560, Gol D. Roger Shard*560 or Gear 5 Luffy Shard*560"
+     },
+     {
+      "itemId": "932044",
+      "name": "Celebration Web Gift Box I",
+      "intro": "Open to get: Lv8 Rainbow Gem Choice Box*1, Rainbow Glow*1"
+     },
+     {
+      "itemId": "932045",
+      "name": "Celebration Web Gift Box II",
+      "intro": "Open to get: Limited Forge Ticket*10, Medal Exchange Coin*10, Sprint Training Book*40"
+     },
+     {
+      "itemId": "932046",
+      "name": "Celebration Web Gift Box III",
+      "intro": "Open to get: Navigator (title)*1, Wano SSR Choice Box*1"
+     },
+     {
+      "itemId": "932047",
+      "name": "Celebration Web Gift Box IV",
+      "intro": "Open to get: Sprint Training Book*20, Soul Search Ticket*10"
+     },
+     {
+      "itemId": "932048",
+      "name": "Nika Outfit Pack",
+      "intro": "Open to get Reforge Rune Stone*15 or Warship Refining Stone*15 plus 10-15 Outfit Exchange Coins, with a 0.5% chance of Gear 5 Luffy (Glasses) directly"
+     },
+     {
+      "itemId": "932050",
+      "name": "Celebration Web Gift Box V",
+      "intro": "Open to get: Soul Search Ticket*30, Basic Soul Refining Stone*200"
+     },
+     {
+      "itemId": "932051",
+      "name": "Outfit Choice Box",
+      "intro": "Choose one reward: Wano Brook (Honekichi)*1, O-Kiku (Heavy Armor)*1, Cavendish (Farul)*1, Charlotte Smoothie (Swimsuit)*1"
+     },
+     {
+      "itemId": "932052",
+      "name": "Outfit Choice Box",
+      "intro": "Choose one reward: Jewelry Bonney (Casual Outfit)*1, Sugar (Swimsuit)*1, Big Mom (Pajamas)*1, O-Kiku (Heavy Armor)*1"
+     },
+     {
+      "itemId": "810001",
+      "name": "Profile Image - Rika",
+      "intro": "Use to unlock Profile Image - Rika"
+     },
+     {
+      "itemId": "810002",
+      "name": "Profile Image - Kaya",
+      "intro": "Use to unlock Profile Image - Kaya"
+     },
+     {
+      "itemId": "810003",
+      "name": "Profile Image - Miss Monday",
+      "intro": "Use to unlock Profile Image - Miss Monday"
+     },
+     {
+      "itemId": "933001",
+      "name": "Verdant Stone",
+      "intro": "A rare green ore used to raise equipment promotion level."
+     },
+     {
+      "itemId": "933002",
+      "name": "Amber Stone",
+      "intro": "A rare metal ore used to unlock equipment resonance."
+     },
+     {
+      "itemId": "931086",
+      "name": "Title: Glory Rising Star",
+      "intro": "Use to get the title: Glory Rising Star (this item was voided on 6/26)"
+     },
+     {
+      "itemId": "931087",
+      "name": "Title: Glory Champion",
+      "intro": "Use to get the title: Glory Champion (this item was voided on 6/26)"
+     },
+     {
+      "itemId": "931088",
+      "name": "Title: Glory Master",
+      "intro": "Use to get the title: Glory Master (this item was voided on 6/26)"
+     },
+     {
+      "itemId": "931089",
+      "name": "Title: Glory King",
+      "intro": "Use to get the title: Glory King (this item was voided on 6/26)"
+     },
+     {
+      "itemId": "931090",
+      "name": "Title: Sea Vanguard",
+      "intro": "Use to get the title: Sea Vanguard (this item was voided on 6/26)"
+     },
+     {
+      "itemId": "931091",
+      "name": "Medal: Beast Pirates Challenge Conqueror - Gold",
+      "intro": "Use to activate the medal \"Beast Pirates Challenge Conqueror - Gold\". View it on the Personalization screen"
+     },
+     {
+      "itemId": "931092",
+      "name": "Title: Sea Vanguard",
+      "intro": "Use to get the title: Sea Vanguard (this item will be voided on 7/17)"
+     },
+     {
+      "itemId": "931093",
+      "name": "Outfit Choice Box",
+      "intro": "Choose one of these items: Jewelry Bonney (Casual Outfit)*1, Ulti (Pachycephalosaurus)*1, Gol D. Roger (Great Pirate)*1, Queen (Brachiosaurus Form)*1, Kozuki Oden (Crown)*1"
+     },
+     {
+      "itemId": "931094",
+      "name": "Conquest Title Choice Box (Rank 1)",
+      "intro": "Choose 1 of four titles: Formation Breaker, Battle-Hardened, Tide Turner or Unstoppable Defender. The title expires on 2026/03/01 23:59:59, so use it soon"
+     },
+     {
+      "itemId": "931095",
+      "name": "Conquest Title Choice Box (Ranks 2-3)",
+      "intro": "Choose 1 of three titles: Formation Breaker, Battle-Hardened or Tide Turner. The title expires on 2026/03/01 23:59:59, so use it soon"
+     },
+     {
+      "itemId": "931096",
+      "name": "Conquest Title Choice Box (Ranks 4-20)",
+      "intro": "Choose 1 of two titles: Formation Breaker or Battle-Hardened. The title expires on 2026/03/01 23:59:59, so use it soon"
+     },
+     {
+      "itemId": "931097",
+      "name": "Set Sail Draw Ticket",
+      "intro": "Used to spin the Set Sail Wheel event"
+     },
+     {
+      "itemId": "931098",
+      "name": "Freedom Battle Pass",
+      "intro": "Use to activate the Freedom Battle Pass"
+     },
+     {
+      "itemId": "931099",
+      "name": "Freedom Battle Pass Level",
+      "intro": "Use to raise the Freedom Battle Pass by 1 level"
+     },
+     {
+      "itemId": "933007",
+      "name": "Skypiea Challenge Ticket",
+      "intro": "Skypiea Challenge Ticket"
+     },
+     {
+      "itemId": "931100",
+      "name": "Medal: Beast Pirates Challenge Conqueror - Silver",
+      "intro": "Use to activate the medal \"Beast Pirates Challenge Conqueror - Silver\". View it on the Personalization screen"
+     },
+     {
+      "itemId": "931101",
+      "name": "Medal: Beast Pirates Challenge Conqueror - Bronze",
+      "intro": "Use to activate the medal \"Beast Pirates Challenge Conqueror - Bronze\". View it on the Personalization screen"
+     },
+     {
+      "itemId": "931102",
+      "name": "Medal: Wavebreaker",
+      "intro": "Use to activate the medal \"Wavebreaker\". View it on the Personalization screen"
+     },
+     {
+      "itemId": "931103",
+      "name": "Medal: Fearless",
+      "intro": "Use to activate the medal \"Fearless\". View it on the Personalization screen"
+     },
+     {
+      "itemId": "931104",
+      "name": "Title: True to the Beginning",
+      "intro": "Use to get the title: True to the Beginning"
+     },
+     {
+      "itemId": "931105",
+      "name": "Title: Navigator",
+      "intro": "Use to get the title: Navigator"
+     },
+     {
+      "itemId": "931106",
+      "name": "Title: Dream Igniter",
+      "intro": "Use to get the title: Dream Igniter"
+     },
+     {
+      "itemId": "931107",
+      "name": "Title: Seven Years Together",
+      "intro": "Use to get the title: Seven Years Together"
+     },
+     {
+      "itemId": "931108",
+      "name": "Title: Seven Years with You",
+      "intro": "Use to get the title: Seven Years with You"
+     },
+     {
+      "itemId": "931109",
+      "name": "Title: Warm Welcome",
+      "intro": "Use to get the title: Warm Welcome"
+     },
+     {
+      "itemId": "931110",
+      "name": "Title: Burning Brighter",
+      "intro": "Use to get the title: Burning Brighter"
+     },
+     {
+      "itemId": "931111",
+      "name": "Title: Witness to Dawn",
+      "intro": "Use to get the title: Witness to Dawn"
+     },
+     {
+      "itemId": "931112",
+      "name": "Title: Unfading Spark",
+      "intro": "Use to get the title: Unfading Spark"
+     },
+     {
+      "itemId": "931113",
+      "name": "Title: Together Again",
+      "intro": "Use to get the title: Together Again"
+     },
+     {
+      "itemId": "931114",
+      "name": "Name Frame: Seventh Anniversary",
+      "intro": "Use to get the name frame: Seventh Anniversary"
+     },
+     {
+      "itemId": "931115",
+      "name": "Beast Pirates Advanced Battle Pass",
+      "intro": "Use to activate the Beast Pirates Advanced Pass"
+     },
+     {
+      "itemId": "941001",
+      "name": "Duel Letter",
+      "intro": "Send it to an opponent you've faced on the Ladder by tapping their avatar in your Ladder battle history to request a rematch."
+     },
+     {
+      "itemId": "931116",
+      "name": "Beast Pirates Conquest Token",
+      "intro": "Proof of defeating enemies. Can be donated"
+     },
+     {
+      "itemId": "931117",
+      "name": "Final Battle Conquest Token",
+      "intro": "Proof of defeating powerful enemies. Can be donated"
+     },
+     {
+      "itemId": "933008",
+      "name": "Final Battle Challenge Ticket",
+      "intro": "Final Battle Challenge Ticket, used to challenge the final enemy of the Beast Pirates Challenge"
+     },
+     {
+      "itemId": "931118",
+      "name": "Collector's Title Choice Box",
+      "intro": "Choose 1 of these titles: Chasing Dreams - Third Anniversary, Passion - Third Anniversary, Surpass - Third Anniversary, Dreams Never End, Battle Expert, Never Apart, New Year Begins, Auspicious Clouds, Swallows Return, Spring Awakens"
+     },
+     {
+      "itemId": "931119",
+      "name": "National Day Preview Surprise Chest",
+      "intro": "Choose 1 of: Medal Exchange Coin*10, Fashion Coins*777, Title Exchange Coin*77, UR Recruitment Ticket*17"
+     },
+     {
+      "itemId": "931120",
+      "name": "Solo Duel Token",
+      "intro": "Used in the Fervent Duel event to challenge other players to a duel"
+     },
+     {
+      "itemId": "931121",
+      "name": "Guild Duel Token",
+      "intro": "Used in the Fervent Duel event to challenge other guilds to a duel"
+     },
+     {
+      "itemId": "931122",
+      "name": "Test Stage Five",
+      "intro": "Test Stage Five"
+     },
+     {
+      "itemId": "931123",
+      "name": "Title: Together Through Storms",
+      "intro": "Title: Together Through Storms"
+     },
+     {
+      "itemId": "931124",
+      "name": "Title: Sailing Together",
+      "intro": "Title: Sailing Together"
+     },
+     {
+      "itemId": "931125",
+      "name": "Skypiea Relic Box",
+      "intro": "Used in the Skypiea event. Open it directly or with a key"
+     },
+     {
+      "itemId": "931126",
+      "name": "Sky Key",
+      "intro": "Used in the Skypiea event to open chests on the event screen"
+     },
+     {
+      "itemId": "931127",
+      "name": "Arena Celebration Chest",
+      "intro": "Choose 1 of: Jewelry Bonney (Future Outfit - Child) or 500 Fashion Coins"
      },
      {
       "itemId": "932125",
@@ -10705,6 +12960,41 @@
       "itemId": "932129",
       "name": "Arena Celebration Chest E",
       "intro": "Use to get Elite Recruit Ticket*1, Skypiea Relic Box*5, Sky Key*5"
+     },
+     {
+      "itemId": "932130",
+      "name": "Arena Celebration Chest F",
+      "intro": "Use to get Arena Celebration Chest*1 (choose 1 of: Jewelry Bonney (Future Outfit - Child) or 500 Fashion Coins), Skypiea Relic Box*5 and Sky Key*5"
+     },
+     {
+      "itemId": "123003",
+      "name": "Shard Choice Gift Box",
+      "intro": "Choose one shard: New World Rob Lucci Shard, Kaido Shard, Fujitora Shard, New World Akainu Shard, Impel Down Boa Hancock Shard or Bartolomeo Shard."
+     },
+     {
+      "itemId": "123004",
+      "name": "Pony Mihawk White Horse Box",
+      "intro": "Choose one: New World Marco Shard*50, New World Mihawk Shard*50 or Cavendish Shard*50."
+     },
+     {
+      "itemId": "520062",
+      "name": "Title: Island Legend",
+      "intro": "Use to get the title: Island Legend"
+     },
+     {
+      "itemId": "520063",
+      "name": "Title: Island Lord",
+      "intro": "Use to get the title: Island Lord"
+     },
+     {
+      "itemId": "520064",
+      "name": "Title: Island Noble",
+      "intro": "Use to get the title: Island Noble"
+     },
+     {
+      "itemId": "520065",
+      "name": "Title: Supreme One",
+      "intro": "Use to get the title: Supreme One"
      }
     ],
     "other_bundle_rows": [
@@ -11187,6 +13477,11 @@
       "itemId": "240105",
       "name": "Wooden Crate",
       "intro": "A big crate that can hold all sorts of things"
+     },
+     {
+      "itemId": "240126",
+      "name": "Lv60 Random Equipment Box",
+      "intro": "Open to get 1 random Lv60 equipment piece."
      },
      {
       "itemId": "216111",
@@ -16219,14 +18514,59 @@
       "intro": "A white rose.\\nHas a chance to drop from Daily Quests and Story Replay during the event. Can be exchanged for special items."
      },
      {
+      "itemId": "712020",
+      "name": "Arena Tournament Challenge Ticket",
+      "intro": "A ticket needed to enter the Arena Tournament. Use to gain Arena Tournament challenge attempts."
+     },
+     {
+      "itemId": "690111",
+      "name": "Formation Choice Gift Box",
+      "intro": "Choose one formation blueprint: Calm, Hero, Elemental, Steadfast, Swift March, Healing or Fury Formation."
+     },
+     {
+      "itemId": "690112",
+      "name": "Lv60 Random Equipment Box",
+      "intro": "Open to get 1 random Lv60 equipment piece."
+     },
+     {
+      "itemId": "690113",
+      "name": "Formation Choice Gift Box (Discount)",
+      "intro": "Choose one formation blueprint: Calm, Hero, Elemental, Steadfast, Swift March, Healing or Fury Formation."
+     },
+     {
       "itemId": "690121",
       "name": "Basket of Bamboo Leaves",
       "intro": "A basket of gathered bamboo leaves, with a chance to drop from Daily Quests and Story Replay during the event. Can be exchanged for special items."
      },
      {
+      "itemId": "690130",
+      "name": "Exquisite Gem Bag",
+      "intro": "A small bag of gems. Open it for a chance at gems of various levels."
+     },
+     {
+      "itemId": "690218",
+      "name": "Lunar New Year Celebration Mysterious Gift",
+      "intro": "Open for a chance at Rainbow Diamonds*20, *25, *66 or *88, with a very low chance of Rainbow Diamonds*2025. If you don't open it, it can be exchanged for a higher-tier gift"
+     },
+     {
       "itemId": "690237",
       "name": "Red Rose",
       "intro": "A red rose.\\nHas a chance to drop from Bounty Quests during the event. Can be exchanged for special items."
+     },
+     {
+      "itemId": "690507",
+      "name": "Surprise Weekly Pass Vault Key",
+      "intro": "Use to open the Surprise Weekly Pass Vault. Log in daily for 7 days to receive a total of Rainbow Diamonds*1500"
+     },
+     {
+      "itemId": "690516",
+      "name": "Keepsake Vault Key",
+      "intro": "Use to open the Keepsake Vault. Log in daily for 14 days to receive a total of Rainbow Diamonds*800, Fleet Commemorative Badge - Gold*28 and Elite Recruit Ticket*10"
+     },
+     {
+      "itemId": "690517",
+      "name": "Seven-Day Keepsake Vault Key",
+      "intro": "Use to open the Seven-Day Keepsake Vault. Log in daily for 7 days to receive a total of Rainbow Diamonds*800, Fleet Commemorative Badge - Gold*28 and Elite Recruit Ticket*10"
      },
      {
       "itemId": "690522",
@@ -16237,6 +18577,181 @@
       "itemId": "690523",
       "name": "24-Hour 2x EXP Card",
       "intro": "24-hour 2x EXP card"
+     },
+     {
+      "itemId": "511634",
+      "name": "Title: Arena Champion",
+      "intro": "Use to get the title: Arena Champion"
+     },
+     {
+      "itemId": "730002",
+      "name": "Advancement Coin",
+      "intro": "Used to raise the Season 1 season buff level in United Co-op (expired; can be recycled for Gold Bars)"
+     },
+     {
+      "itemId": "730004",
+      "name": "Title: Co-op Pinnacle",
+      "intro": "Use to get the title: Co-op Pinnacle"
+     },
+     {
+      "itemId": "730005",
+      "name": "Title: Co-op Champion",
+      "intro": "Use to get the title: Co-op Champion"
+     },
+     {
+      "itemId": "730006",
+      "name": "Title: Co-op Master",
+      "intro": "Use to get the title: Co-op Master"
+     },
+     {
+      "itemId": "730007",
+      "name": "Title: Co-op Veteran",
+      "intro": "Use to get the title: Co-op Veteran"
+     },
+     {
+      "itemId": "730008",
+      "name": "Title: Co-op Rising Star",
+      "intro": "Use to get the title: Co-op Rising Star"
+     },
+     {
+      "itemId": "730009",
+      "name": "Advancement Coin S2",
+      "intro": "Used to raise the season buff level in United Co-op Season 2"
+     },
+     {
+      "itemId": "931023",
+      "name": "Title: Christmas Guardian",
+      "intro": "Use to get the title: Christmas Guardian"
+     },
+     {
+      "itemId": "940001",
+      "name": "Sailing Order",
+      "intro": "Used in World Domination. Consumed when declaring war on a stronghold"
+     },
+     {
+      "itemId": "940002",
+      "name": "Maritime Log",
+      "intro": "Raises your personal Maritime Level in World Domination"
+     },
+     {
+      "itemId": "940003",
+      "name": "Maritime Handbook",
+      "intro": "Raises your guild's Maritime Level in World Domination"
+     },
+     {
+      "itemId": "931024",
+      "name": "Title: New Year Begins",
+      "intro": "Use to get the title: New Year Begins"
+     },
+     {
+      "itemId": "931025",
+      "name": "Title: Unforgettable Night",
+      "intro": "Use to get the title: Unforgettable Night"
+     },
+     {
+      "itemId": "931027",
+      "name": "Title: Lantern Festival Ambassador",
+      "intro": "Use to get the title: Lantern Festival Ambassador"
+     },
+     {
+      "itemId": "931028",
+      "name": "Title: Lantern Festival Star",
+      "intro": "Use to get the title: Lantern Festival Star"
+     },
+     {
+      "itemId": "931029",
+      "name": "Title: Auspicious Clouds",
+      "intro": "Use to get the title: Auspicious Clouds"
+     },
+     {
+      "itemId": "931030",
+      "name": "Title: Spring Sakura Dream",
+      "intro": "Use to get the title: Spring Sakura Dream"
+     },
+     {
+      "itemId": "931031",
+      "name": "Surprise Wheel Ticket",
+      "intro": "Used to spin the Surprise Wheel event. Best bought while the Surprise Wheel event is running"
+     },
+     {
+      "itemId": "931032",
+      "name": "Title: Swallows Return, Spring Awakens",
+      "intro": "Use to get the title: Swallows Return, Spring Awakens"
+     },
+     {
+      "itemId": "931033",
+      "name": "Title: Set Sail with Luck",
+      "intro": "Use to get the title: Set Sail with Luck"
+     },
+     {
+      "itemId": "931034",
+      "name": "Title: Spring Waters",
+      "intro": "Use to get the title: Spring Waters"
+     },
+     {
+      "itemId": "931035",
+      "name": "Title: Forest in Bloom",
+      "intro": "Use to get the title: Forest in Bloom"
+     },
+     {
+      "itemId": "931036",
+      "name": "Title: Winter Trees, Spring Flowers",
+      "intro": "Use to get the title: Winter Trees, Spring Flowers"
+     },
+     {
+      "itemId": "931037",
+      "name": "Title: Spring Awakening",
+      "intro": "Use to get the title: Spring Awakening"
+     },
+     {
+      "itemId": "931038",
+      "name": "Title: Springtime Stroll",
+      "intro": "Use to get the title: Springtime Stroll"
+     },
+     {
+      "itemId": "932018",
+      "name": "Item Gift Packet",
+      "intro": "Red packet"
+     },
+     {
+      "itemId": "11010001",
+      "name": "Sabo Chronicle 1",
+      "intro": "Use to unlock [Sabo Chronicle 1]"
+     },
+     {
+      "itemId": "11010002",
+      "name": "Blackbeard Chronicle 1",
+      "intro": "Use to unlock [Blackbeard Chronicle 1]"
+     },
+     {
+      "itemId": "11010003",
+      "name": "Donquixote Doflamingo Chronicle 1",
+      "intro": "Use to unlock [Donquixote Doflamingo Chronicle 1]"
+     },
+     {
+      "itemId": "11010004",
+      "name": "Charlotte Katakuri Chronicle 1",
+      "intro": "Use to unlock [Charlotte Katakuri Chronicle 1]"
+     },
+     {
+      "itemId": "960001",
+      "name": "Fleet Commemorative Badge - Gold",
+      "intro": "Use it to earn 1 point in the Grand Fleet event, or gift it to another player, who receives 1 Fleet Commemorative Badge - Silver"
+     },
+     {
+      "itemId": "960002",
+      "name": "Fleet Commemorative Badge - Silver",
+      "intro": "Use it to earn 1 point in the Grand Fleet event"
+     },
+     {
+      "itemId": "960005",
+      "name": "Title: Fleet Sets Sail",
+      "intro": "Use to get the title: Fleet Sets Sail (this title expired on 8-31; please recycle this item)"
+     },
+     {
+      "itemId": "960006",
+      "name": "Title: Riding the Waves Together",
+      "intro": "Use to get the title: Riding the Waves Together (this title expired on 8-31; please recycle this item)"
      },
      {
       "itemId": "21000001",
@@ -16259,6 +18774,16 @@
       "intro": "Use to add 50% to warship Resonance pity progress"
      },
      {
+      "itemId": "933001",
+      "name": "Verdant Stone",
+      "intro": "A rare green ore used to raise equipment promotion level."
+     },
+     {
+      "itemId": "933002",
+      "name": "Amber Stone",
+      "intro": "A rare metal ore used to unlock equipment resonance."
+     },
+     {
       "itemId": "933004",
       "name": "Basic Grinding Lucky Charm - Tier 1",
       "intro": "For gem polishing stages +1--+5. Raises success rate by 5%"
@@ -16272,6 +18797,106 @@
       "itemId": "933006",
       "name": "Advanced Grinding Lucky Charm - Tier 1",
       "intro": "For gem polishing stages +1--+5. Raises success rate by 30%"
+     },
+     {
+      "itemId": "810001",
+      "name": "Profile Image - Rika",
+      "intro": "Use to unlock Profile Image - Rika"
+     },
+     {
+      "itemId": "810002",
+      "name": "Profile Image - Kaya",
+      "intro": "Use to unlock Profile Image - Kaya"
+     },
+     {
+      "itemId": "810003",
+      "name": "Profile Image - Miss Monday",
+      "intro": "Use to unlock Profile Image - Miss Monday"
+     },
+     {
+      "itemId": "933007",
+      "name": "Skypiea Challenge Ticket",
+      "intro": "Skypiea Challenge Ticket"
+     },
+     {
+      "itemId": "931094",
+      "name": "Conquest Title Choice Box (Rank 1)",
+      "intro": "Choose 1 of four titles: Formation Breaker, Battle-Hardened, Tide Turner or Unstoppable Defender. The title expires on 2026/03/01 23:59:59, so use it soon"
+     },
+     {
+      "itemId": "931095",
+      "name": "Conquest Title Choice Box (Ranks 2-3)",
+      "intro": "Choose 1 of three titles: Formation Breaker, Battle-Hardened or Tide Turner. The title expires on 2026/03/01 23:59:59, so use it soon"
+     },
+     {
+      "itemId": "931096",
+      "name": "Conquest Title Choice Box (Ranks 4-20)",
+      "intro": "Choose 1 of two titles: Formation Breaker or Battle-Hardened. The title expires on 2026/03/01 23:59:59, so use it soon"
+     },
+     {
+      "itemId": "941001",
+      "name": "Duel Letter",
+      "intro": "Send it to an opponent you've faced on the Ladder by tapping their avatar in your Ladder battle history to request a rematch."
+     },
+     {
+      "itemId": "931097",
+      "name": "Set Sail Draw Ticket",
+      "intro": "Used to spin the Set Sail Wheel event"
+     },
+     {
+      "itemId": "931102",
+      "name": "Medal: Wavebreaker",
+      "intro": "Use to activate the medal \"Wavebreaker\". View it on the Personalization screen"
+     },
+     {
+      "itemId": "931103",
+      "name": "Medal: Fearless",
+      "intro": "Use to activate the medal \"Fearless\". View it on the Personalization screen"
+     },
+     {
+      "itemId": "931104",
+      "name": "Title: Dream Igniter",
+      "intro": "Use to get the title: Dream Igniter"
+     },
+     {
+      "itemId": "931116",
+      "name": "Enies Lobby Conquest Token",
+      "intro": "Proof of defeating enemies. Can be donated"
+     },
+     {
+      "itemId": "931117",
+      "name": "Final Battle Conquest Token",
+      "intro": "Proof of defeating powerful enemies. Can be donated"
+     },
+     {
+      "itemId": "931105",
+      "name": "Title: Warm Welcome",
+      "intro": "Use to get the title: Warm Welcome"
+     },
+     {
+      "itemId": "931120",
+      "name": "Solo Duel Token",
+      "intro": "Used in the Fervent Duel event to challenge other players to a duel"
+     },
+     {
+      "itemId": "931121",
+      "name": "Guild Duel Token",
+      "intro": "Used in the Fervent Duel event to challenge other guilds to a duel"
+     },
+     {
+      "itemId": "931122",
+      "name": "Test Stage Five",
+      "intro": "Test Stage Five"
+     },
+     {
+      "itemId": "931125",
+      "name": "Skypiea Relic Box",
+      "intro": "Used in the Skypiea event. Open it directly or with a key"
+     },
+     {
+      "itemId": "931126",
+      "name": "Sky Key",
+      "intro": "Used in the Skypiea event to open chests on the event screen"
      },
      {
       "itemId": "932125",
@@ -16299,7 +18924,7 @@
       "intro": "Use to get Elite Recruit Ticket*3, Skypiea Relic Box*5, Sky Key*5"
      }
     ],
-    "partial": "2344/3447 rows translated so far"
+    "partial": "2869/3447 rows translated so far"
    }
   }
  },
