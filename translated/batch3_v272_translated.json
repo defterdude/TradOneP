@@ -12977,6 +12977,526 @@
       "intro": "Choose one: New World Marco Shard*50, New World Mihawk Shard*50 or Cavendish Shard*50."
      },
      {
+      "itemId": "123005",
+      "name": "Choose 1 of 6 Large Chest",
+      "intro": "Choose one shard: Impel Down Boa Hancock Shard*50, New World Marco Shard*50, New World Mihawk Shard*50, Sugar Shard*50, Cavendish Shard*50 or Bartolomeo Shard*50."
+     },
+     {
+      "itemId": "123006",
+      "name": "Shard Choice Gift Box Two",
+      "intro": "Choose one: New World Marco Shard*1, New World Mihawk Shard*1 or Cavendish Shard*1."
+     },
+     {
+      "itemId": "123007",
+      "name": "Lv7 Rainbow Gem Box",
+      "intro": "Choose one: Lv7 Fortitude Gem*1, Lv7 Agility Gem*1, Lv7 Vengeance Gem*1, Lv7 Radiance Gem*1, Lv7 Fate Gem*1 or Lv7 Freedom Gem*1."
+     },
+     {
+      "itemId": "123008",
+      "name": "Lv8 Rainbow Gem Box",
+      "intro": "Choose one: Lv8 Fortitude Gem*1, Lv8 Agility Gem*1, Lv8 Vengeance Gem*1, Lv8 Radiance Gem*1, Lv8 Fate Gem*1 or Lv8 Freedom Gem*1."
+     },
+     {
+      "itemId": "123009",
+      "name": "Lv9 Rainbow Gem Box",
+      "intro": "Choose one: Lv9 Fortitude Gem*1, Lv9 Agility Gem*1, Lv9 Vengeance Gem*1, Lv9 Radiance Gem*1, Lv9 Fate Gem*1 or Lv9 Freedom Gem*1."
+     },
+     {
+      "itemId": "123010",
+      "name": "Lv10 Rainbow Gem Box",
+      "intro": "Choose one: Lv10 Fortitude Gem*1, Lv10 Agility Gem*1, Lv10 Vengeance Gem*1, Lv10 Radiance Gem*1, Lv10 Fate Gem*1 or Lv10 Freedom Gem*1."
+     },
+     {
+      "itemId": "123011",
+      "name": "Choose 1 of 7 Large Chest",
+      "intro": "Choose one shard: Impel Down Boa Hancock Shard*50, New World Marco Shard*50, New World Mihawk Shard*50, Sugar Shard*50, Cavendish Shard*50, Bartolomeo Shard*50 or Kozuki Oden Shard*50."
+     },
+     {
+      "itemId": "123012",
+      "name": "New Choose 1 of 6 Large Chest",
+      "intro": "Choose one shard: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Sugar Shard*50, Cavendish Shard*50 or Kozuki Oden Shard*50."
+     },
+     {
+      "itemId": "123013",
+      "name": "Choose 1 of 8 Large Chest",
+      "intro": "Choose one shard: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Sugar Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Kaido Shard*50 or Carrot Shard*50."
+     },
+     {
+      "itemId": "123014",
+      "name": "Choose 1 of 10 Large Chest",
+      "intro": "Choose one shard: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Kaido Shard*50, Carrot Shard*50, O-Kiku Shard*50 or Young Whitebeard Shard*50."
+     },
+     {
+      "itemId": "123015",
+      "name": "New Choose 1 of 10 Large Chest",
+      "intro": "Choose one shard: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Kaido Shard*50, Carrot Shard*50, New World Perona Shard*50 or Young Whitebeard Shard*50."
+     },
+     {
+      "itemId": "123016",
+      "name": "Choose 1 of 15 Large Pack",
+      "intro": "Choose one shard: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50 or Impel Down Boa Hancock Shard*50."
+     },
+     {
+      "itemId": "123017",
+      "name": "Choose 1 of 17 Large Pack",
+      "intro": "Choose one shard: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50, Impel Down Boa Hancock Shard*50, New World Blackbeard Shard*50 or Hero Garp Shard*50."
+     },
+     {
+      "itemId": "123018",
+      "name": "Choose 1 of 19 Large Pack",
+      "intro": "Choose one: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50, Impel Down Boa Hancock Shard*50, New World Blackbeard Shard*50, Hero Garp Shard*50, Baby 5 Shard*50 or New World Luffy Awakening Badge*300."
+     },
+     {
+      "itemId": "123019",
+      "name": "Choose 1 of 20 Large Pack",
+      "intro": "Choose one: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50, Impel Down Boa Hancock Shard*50, New World Blackbeard Shard*50, Hero Garp Shard*50, Baby 5 Shard*50, New World Luffy Awakening Badge*300 or Nekomamushi Shard*50."
+     },
+     {
+      "itemId": "123020",
+      "name": "Choose 1 of 21 Large Pack",
+      "intro": "Choose one: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50, Impel Down Boa Hancock Shard*50, New World Blackbeard Shard*50, Hero Garp Shard*50, Baby 5 Shard*50, New World Luffy Awakening Badge*300, Nekomamushi Shard*50 or Inuarashi Shard*50."
+     },
+     {
+      "itemId": "123021",
+      "name": "Choose 1 of 22 Large Pack",
+      "intro": "Choose one: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50, Impel Down Boa Hancock Shard*50, New World Blackbeard Shard*50, Hero Garp Shard*50, Baby 5 Shard*50, New World Luffy Awakening Badge*300, Nekomamushi Shard*50, Inuarashi Shard*50 or Portgas D. Ace Awakening Badge*300."
+     },
+     {
+      "itemId": "123022",
+      "name": "Choose 1 of 23 Large Pack",
+      "intro": "Choose one: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50, Impel Down Boa Hancock Shard*50, New World Blackbeard Shard*50, Hero Garp Shard*50, Baby 5 Shard*50, New World Luffy Awakening Badge*300, Nekomamushi Shard*50, Inuarashi Shard*50, Portgas D. Ace Awakening Badge*300 or Charlotte Pudding Shard*50."
+     },
+     {
+      "itemId": "123023",
+      "name": "Choose 1 of 24 Large Pack",
+      "intro": "Choose one: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50, Impel Down Boa Hancock Shard*50, New World Blackbeard Shard*50, Hero Garp Shard*50, Baby 5 Shard*50, New World Luffy Awakening Badge*300, Nekomamushi Shard*50, Inuarashi Shard*50, Portgas D. Ace Awakening Badge*300, Charlotte Pudding Shard*50 or Enel Awakening Badge*300."
+     },
+     {
+      "itemId": "123024",
+      "name": "Choose 1 of 25 Large Pack",
+      "intro": "Choose one: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50, Impel Down Boa Hancock Shard*50, New World Blackbeard Shard*50, Hero Garp Shard*50, Baby 5 Shard*50, New World Luffy Awakening Badge*300, Nekomamushi Shard*50, Inuarashi Shard*50, Portgas D. Ace Awakening Badge*300, Charlotte Pudding Shard*50, Enel Awakening Badge*300 or Basil Hawkins Shard*50."
+     },
+     {
+      "itemId": "123025",
+      "name": "Choose 1 of 26 Large Pack",
+      "intro": "Choose one: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50, Impel Down Boa Hancock Shard*50, New World Blackbeard Shard*50, Hero Garp Shard*50, Baby 5 Shard*50, New World Luffy Awakening Badge*300, Nekomamushi Shard*50, Inuarashi Shard*50, Portgas D. Ace Awakening Badge*300, Charlotte Pudding Shard*50, Enel Awakening Badge*300, Basil Hawkins Shard*50 or Impel Down Boa Hancock Awakening Badge*300."
+     },
+     {
+      "itemId": "123026",
+      "name": "Choose 1 of 27 Large Pack",
+      "intro": "Choose one: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50, Impel Down Boa Hancock Shard*50, New World Blackbeard Shard*50, Hero Garp Shard*50, Baby 5 Shard*50, New World Luffy Awakening Badge*300, Nekomamushi Shard*50, Inuarashi Shard*50, Portgas D. Ace Awakening Badge*300, Charlotte Pudding Shard*50, Enel Awakening Badge*300, Basil Hawkins Shard*50, Impel Down Boa Hancock Awakening Badge*300 or X Drake Shard*50."
+     },
+     {
+      "itemId": "123027",
+      "name": "Choose 1 of 28 Large Pack",
+      "intro": "Choose one: Young Rayleigh*50, New World Marco Shard*50, New World Mihawk Shard*50, Bartolomeo Shard*50, Cavendish Shard*50, Kozuki Oden Shard*50, Fujitora Shard*50, Carrot Shard*50, New World Perona Shard*50, Young Whitebeard Shard*50, Big Mom Shard*50, New World Kuzan Shard*50, New World Akainu Shard*50, New World Rob Lucci Shard*50, Impel Down Boa Hancock Shard*50, New World Blackbeard Shard*50, Hero Garp Shard*50, Baby 5 Shard*50, New World Luffy Awakening Badge*300, Nekomamushi Shard*50, Inuarashi Shard*50, Portgas D. Ace Awakening Badge*300, Charlotte Pudding Shard*50, Enel Awakening Badge*300, Basil Hawkins Shard*50, Impel Down Boa Hancock Awakening Badge*300, X Drake Shard*50 or Crocodile Awakening Badge*300."
+     },
+     {
+      "itemId": "123028",
+      "name": "Choose 1 of 29 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1 or New World Rob Lucci Awakening Pack*1."
+     },
+     {
+      "itemId": "123029",
+      "name": "Choose 1 of 30 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1 or Big Mom Awakening Pack*1."
+     },
+     {
+      "itemId": "123030",
+      "name": "Choose 1 of 31 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1 or Katakuri Awakening Pack*1."
+     },
+     {
+      "itemId": "123031",
+      "name": "Choose 1 of 32 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1 or Sabo Awakening Pack*1."
+     },
+     {
+      "itemId": "123032",
+      "name": "Choose 1 of 33 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1 or Jack Shard*400."
+     },
+     {
+      "itemId": "123033",
+      "name": "Choose 1 of 34 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400 or Kizaru Awakening Pack*1."
+     },
+     {
+      "itemId": "123034",
+      "name": "Choose 1 of 35 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1 or Queen Shard*400."
+     },
+     {
+      "itemId": "123035",
+      "name": "Choose 1 of 36 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400 or Bartholomew Kuma Awakening Pack*1."
+     },
+     {
+      "itemId": "123036",
+      "name": "Choose 1 of 37 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1 or Yamato Shard*400."
+     },
+     {
+      "itemId": "123037",
+      "name": "Choose 1 of 38 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400 or Uta Shard*400."
+     },
+     {
+      "itemId": "123038",
+      "name": "Choose 1 of 39 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400, Uta Shard*400 or Ulti Shard*400."
+     },
+     {
+      "itemId": "123039",
+      "name": "Choose 1 of 40 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400, Uta Shard*400, Ulti Shard*400 or King Shard*400."
+     },
+     {
+      "itemId": "123040",
+      "name": "Choose 1 of 41 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400, Uta Shard*400, Ulti Shard*400, King Shard*400 or Page One Shard*400."
+     },
+     {
+      "itemId": "123041",
+      "name": "Choose 1 of 42 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400, Uta Shard*400, Ulti Shard*400, King Shard*400, Page One Shard*400 or Killer Shard*400."
+     },
+     {
+      "itemId": "123042",
+      "name": "Choose 1 of 43 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400, Uta Shard*400, Ulti Shard*400, King Shard*400, Page One Shard*400, Killer Shard*400 or New World Kid Shard*400."
+     },
+     {
+      "itemId": "123043",
+      "name": "Choose 1 of 44 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400, Uta Shard*400, Ulti Shard*400, King Shard*400, Page One Shard*400, Killer Shard*400, New World Kid Shard*400 or Wano Law Shard*400."
+     },
+     {
+      "itemId": "123044",
+      "name": "Choose 1 of 45 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400, Uta Shard*400, Ulti Shard*400, King Shard*400, Page One Shard*400, Killer Shard*400, New World Kid Shard*400, Wano Law Shard*400 or Wano Luffy Shard*400."
+     },
+     {
+      "itemId": "123045",
+      "name": "Choose 1 of 46 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400, Uta Shard*400, Ulti Shard*400, King Shard*400, Page One Shard*400, Killer Shard*400, New World Kid Shard*400, Wano Law Shard*400, Wano Luffy Shard*400 or Wano Robin Shard*400."
+     },
+     {
+      "itemId": "123046",
+      "name": "Choose 1 of 47 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400, Uta Shard*400, Ulti Shard*400, King Shard*400, Page One Shard*400, Killer Shard*400, New World Kid Shard*400, Wano Law Shard*400, Wano Luffy Shard*400, Wano Robin Shard*400 or Wano Sanji Shard*400."
+     },
+     {
+      "itemId": "123047",
+      "name": "Choose 1 of 48 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400, Uta Shard*400, Ulti Shard*400, King Shard*400, Page One Shard*400, Killer Shard*400, New World Kid Shard*400, Wano Law Shard*400, Wano Luffy Shard*400, Wano Robin Shard*400, Wano Sanji Shard*400 or Charlotte Smoothie Awakening Pack*1."
+     },
+     {
+      "itemId": "123048",
+      "name": "Choose 1 of 49 Large Pack",
+      "intro": "Choose one: Young Rayleigh*400, New World Marco Shard*400, New World Mihawk Shard*400, Bartolomeo Shard*400, Cavendish Shard*400, Kozuki Oden Shard*400, Fujitora Shard*400, Carrot Shard*400, New World Perona Shard*400, Young Whitebeard Shard*400, Big Mom Shard*400, New World Kuzan Shard*400, New World Akainu Shard*400, New World Blackbeard Shard*400, Hero Garp Shard*400, Baby 5 Shard*400, Nekomamushi Shard*400, Inuarashi Shard*400, Charlotte Pudding Shard*400, Basil Hawkins Shard*400, X Drake Shard*400, Shiryu Shard*400, Fleet Admiral Sengoku Shard*400, New World Luffy Awakening Pack*1, Portgas D. Ace Awakening Pack*1, Enel Awakening Pack*1, Impel Down Boa Hancock Awakening Pack*1, Crocodile Awakening Pack*1, New World Rob Lucci Awakening Pack*1, Big Mom Awakening Pack*1, Katakuri Awakening Pack*1, Sabo Awakening Pack*1, Jack Shard*400, Kizaru Awakening Pack*1, Queen Shard*400, Bartholomew Kuma Awakening Pack*1, Yamato Shard*400, Uta Shard*400, Ulti Shard*400, King Shard*400, Page One Shard*400, Killer Shard*400, New World Kid Shard*400, Wano Law Shard*400, Wano Luffy Shard*400, Wano Robin Shard*400, Wano Sanji Shard*400, Charlotte Smoothie Awakening Pack*1 or Wano Zoro Shard*400."
+     },
+     {
+      "itemId": "520001",
+      "name": "Lv100 Hero Merit Set",
+      "intro": "Open to get a full Lv100 Merit set"
+     },
+     {
+      "itemId": "520002",
+      "name": "Lv100 Hero Beast Set",
+      "intro": "Open to get a full Lv100 Beast set"
+     },
+     {
+      "itemId": "520003",
+      "name": "Lv100 Hero Feral Set",
+      "intro": "Open to get a full Lv100 Feral set"
+     },
+     {
+      "itemId": "520004",
+      "name": "Lv100 Hero Deadly Set",
+      "intro": "Open to get a full Lv100 Deadly set"
+     },
+     {
+      "itemId": "520005",
+      "name": "Lv100 Hero King Set",
+      "intro": "Open to get a full Lv100 King set"
+     },
+     {
+      "itemId": "520006",
+      "name": "Hero Garp Shard Pack",
+      "intro": "Open to get 2, 5, 10 or 50 Hero Garp shards at random."
+     },
+     {
+      "itemId": "520007",
+      "name": "Random Enhanced Training Book Pack",
+      "intro": "Open to get one random Lv1-12 Enhanced Training Book."
+     },
+     {
+      "itemId": "520008",
+      "name": "Lv100 Random Formation Pack",
+      "intro": "Open to get one random formation out of all formations."
+     },
+     {
+      "itemId": "520009",
+      "name": "Warship Choice Pack",
+      "intro": "Choose any one ship."
+     },
+     {
+      "itemId": "520010",
+      "name": "Lv100 Hero Triumph Set",
+      "intro": "Open to get a full Lv100 Triumph set"
+     },
+     {
+      "itemId": "520011",
+      "name": "Lv100 Hero Bloodthirst Set",
+      "intro": "Open to get a full Lv100 Bloodthirst set"
+     },
+     {
+      "itemId": "520012",
+      "name": "Lv100 Hero Destruction Set",
+      "intro": "Open to get a full Lv100 Destruction set"
+     },
+     {
+      "itemId": "520013",
+      "name": "Lv100 Hero Negotiator Set",
+      "intro": "Open to get a full Lv100 Negotiator set"
+     },
+     {
+      "itemId": "520014",
+      "name": "Lv100 Hero Rampage Set",
+      "intro": "Open to get a full Lv100 Rampage set"
+     },
+     {
+      "itemId": "520015",
+      "name": "Lv100 Hero Cruelty Set",
+      "intro": "Open to get a full Lv100 Cruelty set"
+     },
+     {
+      "itemId": "520016",
+      "name": "Lv100 Hero Lord Set",
+      "intro": "Open to get a full Lv100 Lord set"
+     },
+     {
+      "itemId": "520017",
+      "name": "Lv100 Hero Fortress Set",
+      "intro": "Open to get a full Lv100 Fortress set"
+     },
+     {
+      "itemId": "520018",
+      "name": "Lv100 Hero Archbishop Set",
+      "intro": "Open to get a full Lv100 Archbishop set"
+     },
+     {
+      "itemId": "520019",
+      "name": "Lv100 Hero Marshal Set",
+      "intro": "Open to get a full Lv100 Marshal set"
+     },
+     {
+      "itemId": "520020",
+      "name": "Lv100 Hero Nightfall Set",
+      "intro": "Open to get a full Lv100 Nightfall set"
+     },
+     {
+      "itemId": "520021",
+      "name": "Lv100 Hero Valor Set",
+      "intro": "Open to get a full Lv100 Valor set"
+     },
+     {
+      "itemId": "520022",
+      "name": "Title: Pinnacle of Conquest",
+      "intro": "Use to get the limited title: Pinnacle of Conquest"
+     },
+     {
+      "itemId": "520023",
+      "name": "One Piece Treasure",
+      "intro": "Open to get one of these at random: Rainbow Diamonds*20000, Elite Recruit Ticket*300, UR Recruitment Ticket*300, Hundred-Yuan Grand Prize, Five-Hundred-Yuan Grand Prize, Thousand-Yuan Grand Prize, Two-Thousand-Yuan Grand Prize, Five-Thousand-Yuan Grand Prize, Ten-Thousand-Yuan Grand Prize."
+     },
+     {
+      "itemId": "520024",
+      "name": "Hundred-Yuan Grand Prize",
+      "intro": "Open to get one of these at random: Rainbow Diamonds*50000, Blue Diamond Bag*100, Holy Light Stone*50, Sprint Training Book*100, Purification Stone*200, Basic Break Box*100, Medium Break Box*100, Adv. Break Box*100, Super Break Box*100, Master EXP Scroll*500, Warship Refining Stone*200, Random Enhanced Training Book Pack*500, Rare Refining Stone Bag*200, Manual Chest*500, Hero Stone*300, Gold Bar Bag*500, UR Recruitment Ticket*500, Elite Recruit Ticket*1000, Crystal*100, Bag of Sailing Coins*500."
+     },
+     {
+      "itemId": "520025",
+      "name": "Five-Hundred-Yuan Grand Prize",
+      "intro": "Open to get one of these at random: Rainbow Diamonds*250,000, Blue Diamond Bag*500, Random Enhanced Training Book Pack*1000, Lv100 Random Formation Pack*4, Sprint Training Book*100, Crystal*200, Guild Materials Pack*200, Guild EXP Scroll*500, Lucky Lottery Ticket*200, Limited Forge Ticket*200, Bag of Sailing Coins*1000, Old World Warship Choice Pack*1, Rainbow Chest*1000, Master EXP Scroll*1000, Reforge Rune Stone*500, Hero Stone*500, Gold Bar Bag*1000, Lv7 Gem Choice Box*10, Warship Refining Stone*500, Rare Refining Stone Bag*1000."
+     },
+     {
+      "itemId": "520026",
+      "name": "Thousand-Yuan Grand Prize",
+      "intro": "Open to get one of these at random: Rainbow Diamonds*500,000, Rainbow Diamonds*750,000, Blue Diamond Bag*1000, Blue Diamond Bag*1500, Sprint Training Book*200, Lucky Lottery Ticket*400, Limited Forge Ticket*400, Lv7 Gem Choice Box*20, Bag of Sailing Coins*2000, Lv100 Random Formation Pack*10, Lightning-Scale Ore*400, Random Enhanced Training Book Pack*2000, Old World Warship Choice Pack*2, Rainbow Chest*2000, Reforge Rune Stone*1000, New World All-Titles Random Pack*2, Hero Stone*1000, Gold Bar Bag*2000, Verdant Stone*20, Amber Stone*5, Lv7 Rainbow Gem Box*10."
+     },
+     {
+      "itemId": "520027",
+      "name": "Two-Thousand-Yuan Grand Prize",
+      "intro": "Open to get one of these at random: Rainbow Diamonds*1,000,000, Rainbow Diamonds*1,500,000, Blue Diamond Bag*2000, Blue Diamond Bag*3000, Lucky Lottery Ticket*1000, Limited Forge Ticket*1000, Random Enhanced Training Book Pack*5000, Lv100 Random Formation Pack*20, Lv7 Gem Choice Box*50, Rainbow Chest*5000, Lightning-Scale Ore*600, Sprint Training Book*500, New World All-Titles Random Pack*5, Reforge Rune Stone*2000, Gold Formation Choice Pack*1, Old World Warship Choice Pack*4, Gold Bar Bag*5000, Verdant Stone*40, Amber Stone*10, Lv7 Rainbow Gem Box*20."
+     },
+     {
+      "itemId": "520028",
+      "name": "Five-Thousand-Yuan Grand Prize",
+      "intro": "Open to get one of these at random: Rainbow Diamonds*2,500,000, Rainbow Diamonds*3,750,000, Blue Diamond Bag*5000, Blue Diamond Bag*7500, Lucky Lottery Ticket*2000, Limited Forge Ticket*2000, Lv7 Gem Choice Box*100, Lv7 Gem Choice Box*150, Reforge Rune Stone*5000, Reforge Rune Stone*7500, Gold Formation Choice Pack*2, New World All-Titles Random Pack*10, Lightning-Scale Ore*1000, Sprint Training Book*1000, Random Enhanced Training Book Pack*10000, Title: Pinnacle of Conquest*1, Title: Sea Conqueror*1, Verdant Stone*100, Amber Stone*20, Lv7 Rainbow Gem Box*40."
+     },
+     {
+      "itemId": "520029",
+      "name": "Ten-Thousand-Yuan Grand Prize",
+      "intro": "Open to get one of these at random: Rainbow Diamonds*5,000,000, Rainbow Diamonds*7,500,000, Blue Diamond Bag*10000, Blue Diamond Bag*15000, Lucky Lottery Ticket*4000, Limited Forge Ticket*4000, Lightning-Scale Ore*3000, Lv7 Rainbow Gem Box*60, New World All-Titles Random Pack*20, Random Enhanced Training Book Pack*20000, Lv7 Gem Choice Box*200, Lv7 Gem Choice Box*300, Gold Formation Choice Pack*2, Title: Pinnacle of Conquest*1, Title: Sea Conqueror*1, Reforge Rune Stone*10,000, Reforge Rune Stone*15,000, Verdant Stone*200, Amber Stone*40, Title: Rising Star Marshal*1."
+     },
+     {
+      "itemId": "520030",
+      "name": "Lv100 Hero Excellence Set",
+      "intro": "Open to get a full Lv100 Excellence set"
+     },
+     {
+      "itemId": "520031",
+      "name": "Lv100 Hero Precision Set",
+      "intro": "Open to get a full Lv100 Precision set"
+     },
+     {
+      "itemId": "520032",
+      "name": "Luffy Awakening Box",
+      "intro": "Open to get one at random: New World Luffy Shard*1, New World Luffy Awakening Badge*1, Master EXP Scroll*1, Golden Battle Soul*1, Random Enhanced Training Book Pack*1, Bronze Battle Soul*1, Gold Bar Bag*1, Soul Search Ticket*1."
+     },
+     {
+      "itemId": "520033",
+      "name": "New World Blackbeard Shard Pack",
+      "intro": "Open to get 2, 5, 10 or 50 New World Blackbeard shards at random."
+     },
+     {
+      "itemId": "520034",
+      "name": "Nekomamushi Shard Pack",
+      "intro": "Open to get 2, 5, 10 or 50 Nekomamushi shards at random."
+     },
+     {
+      "itemId": "520035",
+      "name": "Inuarashi Shard Pack",
+      "intro": "Open to get 2, 5, 10 or 50 Inuarashi shards at random."
+     },
+     {
+      "itemId": "520036",
+      "name": "New World Luffy Awakening Badge Pack",
+      "intro": "Open to get 12, 30, 60 or 300 New World Luffy Awakening Badges at random."
+     },
+     {
+      "itemId": "520037",
+      "name": "Random Awakened Character Pack",
+      "intro": "Open to get one at random: New World Luffy Shard*50, New World Luffy Awakening Badge*50, Ace Shard*50, Portgas D. Ace Awakening Badge*50, Master EXP Scroll*1, Golden Battle Soul*1, Random Enhanced Training Book Pack*1, Bronze Battle Soul*1, Gold Bar Bag*1, Soul Search Ticket*1."
+     },
+     {
+      "itemId": "520038",
+      "name": "Portgas D. Ace Awakening Badge Pack",
+      "intro": "Open to get 12, 30, 60 or 300 Portgas D. Ace Awakening Badges at random."
+     },
+     {
+      "itemId": "520039",
+      "name": "Random Awakened Character Pack",
+      "intro": "Open to get one at random: New World Luffy Awakening Badge*50, Portgas D. Ace Awakening Badge*50, Enel Awakening Badge*50."
+     },
+     {
+      "itemId": "520040",
+      "name": "Conqueror's Haki Elixir Pack",
+      "intro": "Open to get Advanced Speed Elixir*1, Advanced Crit Elixir*1, Advanced Tenacity Elixir*1, Advanced Block Break Elixir*1, Advanced Block Elixir*1, Advanced Accuracy Elixir*1, Advanced Dodge Elixir*1, Advanced Crit Damage Elixir*1 and Advanced Crit Damage Resistance Elixir*1"
+     },
+     {
+      "itemId": "520041",
+      "name": "Lv100 Hero Swiftness Set",
+      "intro": "Open to get a full Lv100 Swiftness set"
+     },
+     {
+      "itemId": "520042",
+      "name": "Enel Awakening Badge Pack",
+      "intro": "Open to get 12, 30, 60 or 300 Enel Awakening Badges at random."
+     },
+     {
+      "itemId": "520043",
+      "name": "Random Awakened Character Pack",
+      "intro": "Open to get one at random: New World Luffy Awakening Badge*50, Portgas D. Ace Awakening Badge*50, Enel Awakening Badge*50, Impel Down Boa Hancock Awakening Badge*50."
+     },
+     {
+      "itemId": "520044",
+      "name": "Lv100 Hero Stealth Set",
+      "intro": "Open to get a full Lv100 Stealth set"
+     },
+     {
+      "itemId": "520045",
+      "name": "Impel Down Hancock Awakening Badge Pack",
+      "intro": "Open to get 12, 30, 60 or 300 Impel Down Boa Hancock Awakening Badges at random."
+     },
+     {
+      "itemId": "520046",
+      "name": "Crocodile Awakening Badge Pack",
+      "intro": "Open to get 12, 30, 60 or 300 Crocodile Awakening Badges at random."
+     },
+     {
+      "itemId": "520047",
+      "name": "Random Awakened Character Pack",
+      "intro": "Open to get one at random: New World Luffy Awakening Badge*50, Portgas D. Ace Awakening Badge*50, Enel Awakening Badge*50, Impel Down Boa Hancock Awakening Badge*50, Crocodile Awakening Badge*50."
+     },
+     {
+      "itemId": "520048",
+      "name": "Guild EXP Scroll",
+      "intro": "Use to gain 100 Guild EXP"
+     },
+     {
+      "itemId": "520049",
+      "name": "Title: Sea Conqueror",
+      "intro": "Use to get the title: Sea Conqueror"
+     },
+     {
+      "itemId": "520050",
+      "name": "Title: Sea Lord",
+      "intro": "Use to get the title: Sea Lord"
+     },
+     {
+      "itemId": "520051",
+      "name": "Title: Sea Commander",
+      "intro": "Use to get the title: Sea Commander"
+     },
+     {
+      "itemId": "520052",
+      "name": "Title: Sea Leader",
+      "intro": "Use to get the title: Sea Leader"
+     },
+     {
+      "itemId": "520054",
+      "name": "Title: Sea Vanguard",
+      "intro": "Use to get the title: Sea Vanguard"
+     },
+     {
+      "itemId": "520055",
+      "name": "Title: Legend Teller",
+      "intro": "Use to get the title: Legend Teller"
+     },
+     {
+      "itemId": "520056",
+      "name": "Title: Legend Chronicler",
+      "intro": "Use to get the title: Legend Chronicler"
+     },
+     {
+      "itemId": "520057",
+      "name": "Title: Legend Witness",
+      "intro": "Use to get the title: Legend Witness"
+     },
+     {
+      "itemId": "520058",
+      "name": "Title: Together Through Storms",
+      "intro": "Use to get the title: Together Through Storms"
+     },
+     {
+      "itemId": "520059",
+      "name": "Title: Unfading - Second Anniversary",
+      "intro": "Use to get the title: Unfading · 2nd Anniversary"
+     },
+     {
+      "itemId": "520060",
+      "name": "Title: Dream Igniter - Second Anniversary",
+      "intro": "Use to get the title: Burning Dreams · 2nd Anniversary"
+     },
+     {
+      "itemId": "520061",
+      "name": "Title: Set Sail - Second Anniversary",
+      "intro": "Use to get the title: Set Sail · 2nd Anniversary"
+     },
+     {
       "itemId": "520062",
       "name": "Title: Island Legend",
       "intro": "Use to get the title: Island Legend"
@@ -12995,6 +13515,381 @@
       "itemId": "520065",
       "name": "Title: Supreme One",
       "intro": "Use to get the title: Supreme One"
+     },
+     {
+      "itemId": "520066",
+      "name": "Charlotte Pudding Shard Pack",
+      "intro": "Open to get 2, 5, 10 or 50 Charlotte Pudding shards at random."
+     },
+     {
+      "itemId": "520067",
+      "name": "Version 2.5 Rare Ship Choice Pack",
+      "intro": "Choose any one rare ship."
+     },
+     {
+      "itemId": "520068",
+      "name": "Slot: All",
+      "intro": "Draws one random piece from all Lv100 Hero equipment (including pieces never sold)."
+     },
+     {
+      "itemId": "520069",
+      "name": "Title: Arena Rising Star",
+      "intro": "Use to get the title: Arena Rising Star"
+     },
+     {
+      "itemId": "520070",
+      "name": "Title: Arena Master",
+      "intro": "Use to get the title: Arena Master"
+     },
+     {
+      "itemId": "520071",
+      "name": "Title: Arena Champion",
+      "intro": "Use to get the title: Arena Champion"
+     },
+     {
+      "itemId": "520072",
+      "name": "Title: Arena Emperor",
+      "intro": "Use to get the title: Arena Emperor"
+     },
+     {
+      "itemId": "520073",
+      "name": "Title: Sea Veteran",
+      "intro": "Use to get the title: Sea Veteran"
+     },
+     {
+      "itemId": "520074",
+      "name": "Title: Sea Pioneer",
+      "intro": "Use to get the title: Sea Pioneer"
+     },
+     {
+      "itemId": "520081",
+      "name": "Title: Master Shipwright",
+      "intro": "Use to get the title: Master Shipwright"
+     },
+     {
+      "itemId": "520082",
+      "name": "Title: Famous Across the Seas",
+      "intro": "Use to get the title: Famous Across the Seas"
+     },
+     {
+      "itemId": "520083",
+      "name": "Title: Renowned Across the Seas",
+      "intro": "Use to get the title: Renowned Across the Seas"
+     },
+     {
+      "itemId": "520084",
+      "name": "Title: World Voyager",
+      "intro": "Use to get the title: World Voyager"
+     },
+     {
+      "itemId": "520091",
+      "name": "Guild Materials Pack",
+      "intro": "Open to get Guild Funds*10000, Sand*1, Wood*1, Stone*1 and Refined Iron*1"
+     },
+     {
+      "itemId": "520093",
+      "name": "Azure Dragon Set Choice Box",
+      "intro": "Choose 1 of the 4 Azure Dragon Set pieces."
+     },
+     {
+      "itemId": "520094",
+      "name": "Azure Dragon Set Random Box",
+      "intro": "Get a random Azure Dragon Set piece or 50,000 Blue Diamonds."
+     },
+     {
+      "itemId": "520100",
+      "name": "Protector Set Random Box",
+      "intro": "Get a random Protector Set piece or 50,000 Blue Diamonds."
+     },
+     {
+      "itemId": "520101",
+      "name": "Title: Bond of Unity",
+      "intro": "Use to get the title: Bond of Unity"
+     },
+     {
+      "itemId": "520104",
+      "name": "Vengeance Set Random Box",
+      "intro": "Get a random Vengeance Set piece or 50,000 Blue Diamonds."
+     },
+     {
+      "itemId": "520105",
+      "name": "Title: Wealth Beyond Measure",
+      "intro": "Use to get the title: Wealth Beyond Measure"
+     },
+     {
+      "itemId": "520106",
+      "name": "Title: Money to Burn",
+      "intro": "Use to get the title: Money to Burn"
+     },
+     {
+      "itemId": "520107",
+      "name": "Title: Center of Attention",
+      "intro": "Use to get the title: Center of Attention"
+     },
+     {
+      "itemId": "520108",
+      "name": "Title: Style Ambassador",
+      "intro": "Use to get the title: Style Ambassador"
+     },
+     {
+      "itemId": "520109",
+      "name": "Title: Beyond the Peak",
+      "intro": "Use to get the title: Beyond the Peak"
+     },
+     {
+      "itemId": "520110",
+      "name": "Title: Extraordinary Rising Star",
+      "intro": "Use to get the title: Extraordinary Rising Star"
+     },
+     {
+      "itemId": "520111",
+      "name": "Title: Battle Supreme",
+      "intro": "Use to get the title: Battle Supreme"
+     },
+     {
+      "itemId": "520112",
+      "name": "Title: Battle Champion",
+      "intro": "Use to get the title: Battle Champion"
+     },
+     {
+      "itemId": "520113",
+      "name": "Title: Battle Master",
+      "intro": "Use to get the title: Battle Master"
+     },
+     {
+      "itemId": "520114",
+      "name": "Title: Battle Expert",
+      "intro": "Use to get the title: Battle Expert"
+     },
+     {
+      "itemId": "520115",
+      "name": "Title: Conquest Champion",
+      "intro": "Use to get the title: Conquest Champion"
+     },
+     {
+      "itemId": "520116",
+      "name": "Random Title Pack",
+      "intro": "Open to get one random title: Legend Teller, Legend Chronicler, Legend Witness, Together Through Storms, Unfading 2nd Anniversary, Burning Dreams 2nd Anniversary, Set Sail 2nd Anniversary, Wealth Beyond Measure, Money to Burn, World Voyager, Center of Attention, Style Ambassador, Renowned Across the Seas, Famous Across the Seas, Master Shipwright, Island Legend, Island Lord, Island Noble, Supreme One, Tournament Warrior, Tournament Contender, Tournament Rising Star, Tournament Champion, Pinnacle of Conquest, Beyond the Peak, Extraordinary Rising Star, Sea Leader, Sea Elite, Sea Vanguard, Sea Conqueror, Sea Lord, Sea Commander, Arena Emperor, Arena Champion, Arena Master, Arena Rising Star, Money to Burn, Battle Supreme, Battle Champion, Battle Master, Battle Expert, Dreams Never End, Peak Challenger, Conquest Champion, Sailing Together, Surpass Third Anniversary, Passion Third Anniversary, Chasing Dreams Third Anniversary, Bond of Unity, Partners Forever, Sea Vanguard, Sea Warrior, Sea Pioneer, Sea Veteran."
+     },
+     {
+      "itemId": "520117",
+      "name": "Attack Stat Potion Choice Pack",
+      "intro": "Basic Poison Pill*100, Basic Water Pill*100, Basic Fire Pill*100, Basic Ice Pill*100, Basic Wind Pill*100, Basic Lightning Pill*100, Basic Light Potion*100, Basic Dark Pill*100."
+     },
+     {
+      "itemId": "520118",
+      "name": "Defense Stat Potion Choice Pack",
+      "intro": "Advanced Poison Resistance Potion*100, Advanced Water Resistance Potion*100, Advanced Fire Resistance Potion*100, Advanced Wind Resistance Potion*100, Advanced Ice Resistance Potion*100, Advanced Lightning Resistance Potion*100, Advanced Light Resistance Potion*100, Advanced Dark Resistance Potion*100."
+     },
+     {
+      "itemId": "520119",
+      "name": "Random Name Frame Pack",
+      "intro": "Open to get one random name frame: Arena Star, Blossoms and Willows, S1 Battle Tournament Champion, Set Sail - 25th Anniversary, Fourth Anniversary, 2022 Halloween, Dream Adventure, Christmas Celebration, Sweet Valentine's Day, World Diva, Shining Diva, Cross-Server Conquest Champion, Cross-Server Conquest Runner-Up, Cross-Server Conquest Third Place, Fifth Anniversary, 2024 Lunar New Year."
+     },
+     {
+      "itemId": "520120",
+      "name": "Random Common Ship Pack",
+      "intro": "Open to get one random ship: Lovely Duck, Thousand Sunny, Sexy Foxy, Blackbeard's Raft, Marine Battleship, Garp's Warship, Sun Pirates' Ship, Polar Tang, Black Warrior, Marine Warship."
+     },
+     {
+      "itemId": "520124",
+      "name": "Lv100 Hero Admiral Set",
+      "intro": "Open to get a full Lv100 Admiral set"
+     },
+     {
+      "itemId": "520125",
+      "name": "Lv100 Hero Gentleman Set",
+      "intro": "Open to get a full Lv100 Gentleman set"
+     },
+     {
+      "itemId": "520126",
+      "name": "Lv100 Hero Mercenary Set",
+      "intro": "Open to get a full Lv100 Mercenary set"
+     },
+     {
+      "itemId": "520127",
+      "name": "Lv100 Hero Commander Set",
+      "intro": "Open to get a full Lv100 Commander set"
+     },
+     {
+      "itemId": "520128",
+      "name": "Lv100 Hero Ranger Set",
+      "intro": "Open to get a full Lv100 Ranger set"
+     },
+     {
+      "itemId": "520129",
+      "name": "Lv100 Hero Voyage Set",
+      "intro": "Open to get a full Lv100 Voyage set"
+     },
+     {
+      "itemId": "520130",
+      "name": "Lv100 Hero Courage Set",
+      "intro": "Open to get a full Lv100 Courage set"
+     },
+     {
+      "itemId": "520131",
+      "name": "Lv100 Hero Candy Set",
+      "intro": "Open to get a full Lv100 Candy set"
+     },
+     {
+      "itemId": "520132",
+      "name": "Lv100 Hero Wanderer Set",
+      "intro": "Open to get a full Lv100 Wanderer set"
+     },
+     {
+      "itemId": "520133",
+      "name": "Lv100 Hero Judgment Set",
+      "intro": "Open to get a full Lv100 Judgment set"
+     },
+     {
+      "itemId": "520134",
+      "name": "Lv100 Hero War Set",
+      "intro": "Open to get a full Lv100 War set"
+     },
+     {
+      "itemId": "520135",
+      "name": "Lv100 Hero Defiance Set",
+      "intro": "Open to get a full Lv100 Defiance set"
+     },
+     {
+      "itemId": "520136",
+      "name": "Lv100 Hero Origin Set",
+      "intro": "Open to get a full Lv100 Origin set"
+     },
+     {
+      "itemId": "520137",
+      "name": "Lv100 Hero Impact Set",
+      "intro": "Open to get a full Lv100 Impact set"
+     },
+     {
+      "itemId": "520138",
+      "name": "Lv100 Hero Shackles Set",
+      "intro": "Open to get a full Lv100 Shackles set"
+     },
+     {
+      "itemId": "520139",
+      "name": "Lv100 Hero Slaughter Set",
+      "intro": "Open to get a full Lv100 Slaughter set"
+     },
+     {
+      "itemId": "520140",
+      "name": "Lv100 Hero Fighting Spirit Set",
+      "intro": "Open to get a full Lv100 Fighting Spirit set"
+     },
+     {
+      "itemId": "520141",
+      "name": "Lv100 Hero Ronin Set",
+      "intro": "Open to get a full Lv100 Ronin set"
+     },
+     {
+      "itemId": "520142",
+      "name": "Lv100 Hero Falling Sakura Set",
+      "intro": "Open to get a full Lv100 Falling Sakura set"
+     },
+     {
+      "itemId": "520143",
+      "name": "Lv100 Hero Sharp Blade Set",
+      "intro": "Open to get a full Lv100 Sharp Blade set"
+     },
+     {
+      "itemId": "520144",
+      "name": "Lv100 Hero Destiny Set",
+      "intro": "Open to get a full Lv100 Destiny set"
+     },
+     {
+      "itemId": "520145",
+      "name": "Lv100 Hero Azure Dragon Set",
+      "intro": "Open to get a full Lv100 Azure Dragon set"
+     },
+     {
+      "itemId": "520146",
+      "name": "Old World All Lv100 Set Choice Box",
+      "intro": "Open to choose one of the following sets"
+     },
+     {
+      "itemId": "520147",
+      "name": "Old World Lv1-5 Formation Choice Pack",
+      "intro": "Choose one of the following items"
+     },
+     {
+      "itemId": "520150",
+      "name": "Old World Max-Star UR Character Choice Pack",
+      "intro": "Open to choose one of the following character shards*1000."
+     },
+     {
+      "itemId": "520160",
+      "name": "Essence Chest",
+      "intro": "Use to get 3000 Essence"
+     },
+     {
+      "itemId": "520161",
+      "name": "Title: Masters Tournament Supreme",
+      "intro": "Use to get the title: Masters Tournament Supreme"
+     },
+     {
+      "itemId": "520162",
+      "name": "Title: Masters Tournament Champion",
+      "intro": "Use to get the title: Masters Tournament Champion"
+     },
+     {
+      "itemId": "520163",
+      "name": "Title: Masters Tournament Veteran",
+      "intro": "Use to get the title: Masters Tournament Veteran"
+     },
+     {
+      "itemId": "520169",
+      "name": "Title: Uncrowned Emperor",
+      "intro": "Use to get the title: Uncrowned Emperor"
+     },
+     {
+      "itemId": "520171",
+      "name": "New World Max-Star SSR Character Choose 1 of 5 Pack",
+      "intro": "Open to choose one: Kid & Law Shard*400, Jack Awakening Pack*1, Queen Awakening Pack*1, Jewelry Bonney Shard*400 or New World Kuzan Awakening Pack*1."
+     },
+     {
+      "itemId": "520173",
+      "name": "Lv6 Formation Choice Pack",
+      "intro": "Choose any one formation blueprint: Rapid Strike, Guard or Execution Formation."
+     },
+     {
+      "itemId": "520175",
+      "name": "Chronicle Choice Pack",
+      "intro": "Open to choose one: Gol D. Roger Chronicle 1, Wano Brook Chronicle 1, Wano Luffy Chronicle 1, Oiran Big Mom Chronicle 1, Wano Nami Chronicle 1, Wano Chopper Chronicle 1, Wano Jinbe Chronicle 1, Wano Franky Chronicle 1, Wano Zoro Chronicle 1, Black Maria Chronicle 1, Okuchi no Makami Yamato Chronicle 1, Sabo Chronicle 1, Blackbeard Chronicle 1, Donquixote Doflamingo Chronicle 1 or Charlotte Katakuri Chronicle 1."
+     },
+     {
+      "itemId": "520177",
+      "name": "New World All Titles Random Pack",
+      "intro": "Open to get one of these titles at random: Witness - New Route, Pinnacle of Kings, Hand in Hand · 5th Anniversary, Masters Tournament Supreme, Masters Tournament Champion, Masters Tournament Veteran, Masters Tournament Rising Star, Legend · 6th Anniversary, Lucky Star · 6th Anniversary, Expert Recruiter, Fortune Smiles, Unyielding Will, Big Spender, Together · 6th Anniversary, Steadfast · 6th Anniversary, Never Apart, Star of Fortune, Glory Rising Star, Glory Champion, Glory Master, Glory King, Co-op Rising Star, Co-op Veteran, Co-op Master, Co-op Champion, Co-op Pinnacle, Christmas Guardian, A Fresh Beginning, New Year Begins, Formation Breaker, Battle-Hardened, Tide Turner, Unstoppable Defender, Lion of the Vast Seas, Lunar New Year Star, May All Go Well, Unforgettable Night, Champion of the Land, Uncrowned Emperor, Lantern Festival Ambassador, Lantern Festival Star, Auspicious Clouds, Spring Sakura Dream, Swallows Return, Spring Awakens, Springtime Stroll, Navigator, Warm Welcome, Witness to Dawn, Unfading Spark, Together Again, Spring Waters, Riding the Waves Together."
+     },
+     {
+      "itemId": "520179",
+      "name": "Armament Haki Elixir Pack",
+      "intro": "Open to get Advanced HP Elixir*1, Advanced Attack Elixir*1 and Advanced Defense Elixir*1"
+     },
+     {
+      "itemId": "520183",
+      "name": "Lv100 Hero Great General Set",
+      "intro": "Open to get a full Lv100 Great General set"
+     },
+     {
+      "itemId": "520184",
+      "name": "Medal Choice Box",
+      "intro": "Open to choose one: Medal Beast Pirates Conqueror - Gold*1, Medal Beast Pirates Conqueror - Silver*1, Medal Beast Pirates Conqueror - Bronze*1, Medal Wavebreaker*1 or Medal Fearless*1."
+     },
+     {
+      "itemId": "520185",
+      "name": "Lv6 Formation Choice Box",
+      "intro": "Choose any one formation blueprint: Rapid Strike, Guard, Execution, Radiance or Whirlpool Formation."
+     },
+     {
+      "itemId": "520186",
+      "name": "Equipment Random Box 1",
+      "intro": "Open to get one of these at random: Hero Fighter's Rapier, Hero Golden Crown, Hero Bright Green Ring, Hero Red Jewel Necklace, Hero Warhammer, Hero Guard Pointed Helmet, Hero Blue Crystal Ring, Hero Pearl Flower Necklace, Hero Battle Gun, Hero Conductor's Hat, Hero Red Jade Ring, Hero Golden Pearl Chain, Hero Merit Longsword, Hero Merit Outfit, Hero Merit Ring, Hero Merit Necklace, Hero Feral Rifle, Hero Feral Battle Suit, Hero Feral Ring, Hero Feral Necklace, Hero Deadly Twin Hammers, Hero Deadly Outfit, Hero Deadly Ring, Hero Deadly Necklace, Hero Triumph Blade Sword, Hero Triumph Outfit, Hero Triumph Ring, Hero Triumph Necklace, Hero Bloodthirst Longsword, Hero Bloodthirst Cape, Hero Bloodthirst Ring, Hero Bloodthirst Necklace, Hero Destruction Cannon, Hero Destruction Uniform, Hero Destruction Ring, Hero Destruction Necklace, Hero Negotiator Revolver, Hero Negotiator Battle Suit, Hero Negotiator Ring, Hero Negotiator Necklace, Hero Rampage Long Blade, Hero Rampage Cape, Hero Rampage Ring, Hero Rampage Necklace, Hero Cruelty Long Spear, Hero Cruelty Uniform, Hero Cruelty Ring, Hero Cruelty Necklace, Hero Lord Naginata, Hero Lord Armor, Hero Lord Ring, Hero Lord Necklace, Hero Fortress Golden Spear, Hero Fortress Golden Armor, Hero Fortress Ring, Hero Fortress Necklace, Hero Archbishop Scepter, Hero Archbishop Ceremonial Robe, Hero Archbishop Ring, Hero Archbishop Necklace, Hero Marshal Longsword, Hero Marshal Outfit, Hero Marshal Ring, Hero Marshal Necklace, Hero Executioner Great Axe, Hero Executioner Armor, Hero Executioner Ring, Hero Executioner Necklace, Hero Nightfall Scythe, Hero Nightfall Cloak, Hero Nightfall Ring, Hero Nightfall Necklace, Hero Valor Great Axe, Hero Valor Battle Armor, Hero Valor Ring, Hero Valor Necklace, Hero Judgment Cane, Hero Judgment Armor, Hero Judgment Ring, Hero Judgment Necklace, Hero Excellence Longsword, Hero Excellence Armor, Hero Excellence Ring, Hero Excellence Necklace, Hero Origin Sword, Hero Origin Armor, Hero Origin Ring, Hero Origin Necklace, Hero Ranger Lance, Hero Ranger Long Coat, Hero Ranger Ring, Hero Ranger Necklace."
+     },
+     {
+      "itemId": "520187",
+      "name": "Equipment Random Box 2",
+      "intro": "Open to get one of these at random: Hero Fighter's Rapier, Hero Golden Crown, Hero Bright Green Ring, Hero Red Jewel Necklace, Hero Warhammer, Hero Guard Pointed Helmet, Hero Blue Crystal Ring, Hero Pearl Flower Necklace, Hero Battle Gun, Hero Conductor's Hat, Hero Red Jade Ring, Hero Golden Pearl Chain, , Hero Impact Lance, Hero Impact Long Coat, Hero Impact Ring, Hero Impact Necklace, Hero Protector Pointed Spear, Hero Protector Ring Armor, Hero Protector Ring, Hero Protector Necklace, Hero Vengeance Scythe, Hero Vengeance Battle Suit, Hero Vengeance Ring, Hero Vengeance Necklace, Hero War Flying Shield, Hero War Heavy Armor, Hero War Ring, Hero War Necklace, Hero Candy Scepter, Hero Candy Outfit, Hero Candy Ring, Hero Candy Chain, Hero Courage Sword, Hero Courage Outfit, Hero Courage Ring, Hero Courage Necklace, Hero Voyage Sword, Hero Voyage Outfit, Hero Voyage Ring, Hero Voyage Necklace, Hero Commander Longsword, Hero Commander Uniform, Hero Commander Ring, Hero Commander Necklace, Hero Mercenary Rifle, Hero Mercenary Battle Suit, Hero Mercenary Ring, Hero Mercenary Necklace, Hero Gentleman Staff, Hero Gentleman Formalwear, Hero Gentleman Ring, Hero Gentleman Necklace, Hero Admiral Long Whip, Hero Admiral Robe, Hero Admiral Ring, Hero Admiral Necklace, Hero Defiance Staff, Hero Defiance Outfit, Hero Defiance Ring, Hero Defiance Necklace, Hero King Gauntlets, Hero King Battle Suit, Hero King Ring, Hero King Necklace, Hero Precision Revolver, Hero Precision Outfit, Hero Precision Ring, Hero Precision Necklace, Hero Swiftness Long Blade, Hero Swiftness Outfit, Hero Swiftness Ring, Hero Swiftness Necklace, Hero Stealth Dagger, Hero Stealth Long Coat, Hero Stealth Ring, Hero Stealth Necklace, Hero Wanderer Long Blade, Hero Wanderer Robe, Hero Wanderer Ring, Hero Wanderer Necklace, Hero Beyond Spear, Hero Beyond Outfit, Hero Beyond Ring, Hero Beyond Necklace, Hero Shackles Long Chain, Hero Shackles Long Coat, Hero Shackles Ring, Hero Shackles Necklace, Hero Fighting Spirit Short Staff, Hero Fighting Spirit Battle Suit, Hero Fighting Spirit Ring."
      }
     ],
     "other_bundle_rows": [
@@ -13144,6 +14039,26 @@
       "intro": "The Hawkins Pirates' warship. The straw doll on its bow hints at its captain's unique power."
      },
      {
+      "itemId": "122034",
+      "name": "Oak Boat",
+      "intro": "An ordinary oak boat that can handle basic sailing and hauling. Almost no stat bonuses."
+     },
+     {
+      "itemId": "122035",
+      "name": "Birch Boat",
+      "intro": "An ordinary birch boat that can handle basic sailing and hauling. Almost no stat bonuses."
+     },
+     {
+      "itemId": "122036",
+      "name": "Pine Boat",
+      "intro": "An ordinary pine boat that can handle basic sailing and hauling. Almost no stat bonuses."
+     },
+     {
+      "itemId": "122037",
+      "name": "Palmwood Boat",
+      "intro": "An ordinary palm-wood boat that can handle basic sailing and hauling. Almost no stat bonuses."
+     },
+     {
       "itemId": "122038",
       "name": "Ace's Dinghy",
       "intro": "Ace's Dinghy"
@@ -13157,6 +14072,26 @@
       "itemId": "123002",
       "name": "Formation Choice Gift Box",
       "intro": "Choose one formation blueprint: Aggression Formation, Dawn Formation, Elemental Formation, Impact Formation or Focus Formation."
+     },
+     {
+      "itemId": "123003",
+      "name": "Warship Choice Box",
+      "intro": "Choose any one warship: Going Merry, Marine Warship, Marine Battleship, Kuja Pirate Ship, Moby Dick or Mihawk's Boat."
+     },
+     {
+      "itemId": "123004",
+      "name": "Warship Choice Box - Supernova",
+      "intro": "Choose any one warship: Going Merry, Marine Warship, Marine Battleship, Kuja Pirate Ship, Moby Dick, Mihawk's Boat or Polar Tang."
+     },
+     {
+      "itemId": "123005",
+      "name": "Warship Choice Box",
+      "intro": "Choose any one warship: Going Merry, Marine Warship, Marine Battleship, Kuja Pirate Ship, Moby Dick, Mihawk's Boat, Polar Tang or Wicked Wolf."
+     },
+     {
+      "itemId": "215007",
+      "name": "Beginner Ultimate Log Box",
+      "intro": "Choose any one Ultimate Training Log."
      },
      {
       "itemId": "214050",
@@ -13237,6 +14172,11 @@
       "itemId": "210021",
       "name": "Lv10 Enhanced Training Manual",
       "intro": "Lv10 enhanced training material for character Enhanced Training."
+     },
+     {
+      "itemId": "211022",
+      "name": "1-Lv8 Training Manual Box",
+      "intro": "Choose any one Lv1~8 Enhanced Training Book."
      },
      {
       "itemId": "221001",
@@ -13479,6 +14419,11 @@
       "intro": "A big crate that can hold all sorts of things"
      },
      {
+      "itemId": "240125",
+      "name": "Lv40 Hero Assassin Choice",
+      "intro": "Open to choose any one Hero Assassin equipment piece."
+     },
+     {
       "itemId": "240126",
       "name": "Lv60 Random Equipment Box",
       "intro": "Open to get 1 random Lv60 equipment piece."
@@ -13699,9 +14644,54 @@
       "intro": "Permanently increases Water damage by 2%. Max 30 per character"
      },
      {
+      "itemId": "492009",
+      "name": "Advanced Poison Resistance Potion",
+      "intro": "Permanently reduces Poison damage taken by 1.35%. Max 30 per character"
+     },
+     {
+      "itemId": "492010",
+      "name": "Advanced Water Resistance Potion",
+      "intro": "Permanently reduces Water damage taken by 1.35%. Max 30 per character"
+     },
+     {
+      "itemId": "492011",
+      "name": "Advanced Fire Resistance Potion",
+      "intro": "Permanently reduces Fire damage taken by 1.35%. Max 30 per character"
+     },
+     {
+      "itemId": "492012",
+      "name": "Advanced Wind Resistance Potion",
+      "intro": "Permanently reduces Wind damage taken by 1.35%. Max 30 per character"
+     },
+     {
+      "itemId": "492013",
+      "name": "Advanced Ice Resistance Potion",
+      "intro": "Permanently reduces Ice damage taken by 1.35%. Max 30 per character"
+     },
+     {
+      "itemId": "492014",
+      "name": "Advanced Lightning Resistance Potion",
+      "intro": "Permanently reduces Lightning damage taken by 1.35%. Max 30 per character"
+     },
+     {
+      "itemId": "492015",
+      "name": "Advanced Light Resistance Potion",
+      "intro": "Permanently reduces Light damage taken by 1.35%. Max 30 per character"
+     },
+     {
+      "itemId": "492016",
+      "name": "Advanced Dark Resistance Potion",
+      "intro": "Permanently reduces Dark damage taken by 1.35%. Max 30 per character"
+     },
+     {
       "itemId": "492025",
       "name": "Advanced Harvest Potion",
       "intro": "Gold Bars and EXP from defeating monsters +15% for 30 min. Same-type effects don't stack"
+     },
+     {
+      "itemId": "492028",
+      "name": "Advanced Crit Damage Resistance Potion",
+      "intro": "Permanently reduces Crit Damage taken by 0.67%. Max 30 per character"
      },
      {
       "itemId": "493001",
@@ -14594,6 +15584,26 @@
       "intro": "Get a Lv20 weapon, with a chance of Hero gear."
      },
      {
+      "itemId": "700003",
+      "name": "Gold Dust",
+      "intro": "Use to get a large amount of Gold Bars"
+     },
+     {
+      "itemId": "700004",
+      "name": "Gold Dust",
+      "intro": "Use to get a large amount of Gold Bars"
+     },
+     {
+      "itemId": "700005",
+      "name": "Bag of Gold Dust",
+      "intro": "Use to get a large amount of Gold Bars"
+     },
+     {
+      "itemId": "700006",
+      "name": "Box of Gold Dust",
+      "intro": "Use to get a large amount of Gold Bars"
+     },
+     {
       "itemId": "700009",
       "name": "Royal Weapon Chest",
       "intro": "Open to get a Hero Royal Hunting Rifle."
@@ -15379,6 +16389,131 @@
       "intro": "Used to refine warship skills."
      },
      {
+      "itemId": "514033",
+      "name": "Oak Boat Compass",
+      "intro": "Unlocks Oak Boat refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514034",
+      "name": "Birch Boat Compass",
+      "intro": "Unlocks Birch Boat refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514035",
+      "name": "Pine Boat Compass",
+      "intro": "Unlocks Pine Boat refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514036",
+      "name": "Palmwood Boat Compass",
+      "intro": "Unlocks Palm-Wood Boat refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514037",
+      "name": "Wooden Boat Compass",
+      "intro": "Unlocks Wooden Boat refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514038",
+      "name": "Going Merry Compass",
+      "intro": "Unlocks Going Merry refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514039",
+      "name": "Black Warrior Compass",
+      "intro": "Unlocks Black Warrior refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514040",
+      "name": "Marine Warship Compass",
+      "intro": "Unlocks Marine Warship refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514041",
+      "name": "Lovely Duck Compass",
+      "intro": "Unlocks Lovely Duck refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514042",
+      "name": "Thousand Sunny Compass",
+      "intro": "Unlocks Thousand Sunny refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514043",
+      "name": "Sexy Foxy Compass",
+      "intro": "Unlocks Sexy Foxy refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514044",
+      "name": "Blackbeard's Raft Compass",
+      "intro": "Unlocks Blackbeard's Raft refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514045",
+      "name": "Marine Battleship Compass",
+      "intro": "Unlocks Marine Battleship refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514046",
+      "name": "Kuja Pirate Ship Compass",
+      "intro": "Unlocks Kuja Pirate Ship refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514047",
+      "name": "Red Force Compass",
+      "intro": "Unlocks Red Force refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514048",
+      "name": "Baratie Compass",
+      "intro": "Unlocks Baratie refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514049",
+      "name": "Wind Granma Compass",
+      "intro": "Unlocks Wind Granma refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514050",
+      "name": "Garp's Warship Compass",
+      "intro": "Unlocks Garp's Warship refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514051",
+      "name": "Sun Pirates' Ship Compass",
+      "intro": "Unlocks Sun Pirates' Ship refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514052",
+      "name": "Moby Dick Compass",
+      "intro": "Unlocks Moby Dick refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514053",
+      "name": "Mihawk's Boat Compass",
+      "intro": "Unlocks Mihawk's Boat refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514054",
+      "name": "Wicked Wolf Compass",
+      "intro": "Unlocks Wicked Wolf refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514055",
+      "name": "Polar Tang Compass",
+      "intro": "Unlocks Polar Tang refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514056",
+      "name": "Ace's Boat Compass",
+      "intro": "Unlocks Ace's boat refinement presets. Obtained by dismantling warships"
+     },
+     {
+      "itemId": "514057",
+      "name": "Ark Maxim Compass",
+      "intro": "Unlocks Ark Maxim refinement presets. Obtained by dismantling warships"
+     },
+     {
       "itemId": "511118",
       "name": "Toy Rabbit",
       "intro": "A toy Wapol always carries around. Can be exchanged for items"
@@ -16029,6 +17164,11 @@
       "intro": "A chest full of Home building materials. Use to get 1500 Steel and 1500 Stone Bricks"
      },
      {
+      "itemId": "511363",
+      "name": "Formation Choice Pack",
+      "intro": "Choose one of these 13 formations (Meditation, Haste, Aggression, Focus, Guardian, Impact, Dawn, Assault, Elemental, Supremacy, Guardian, Defense, Hero)"
+     },
+     {
       "itemId": "511364",
       "name": "Warship Choice Pack",
       "intro": "Use to choose one of these warships (Sexy Foxy, Blackbeard's Raft, Marine Battleship, Garp's Warship or Sun Pirates' Ship)"
@@ -16232,6 +17372,11 @@
       "itemId": "511417",
       "name": "Formation Scroll",
       "intro": "A scroll for upgrading formations. Use to gain 5000 formation EXP"
+     },
+     {
+      "itemId": "511418",
+      "name": "Formation Choice Pack",
+      "intro": "Choose one of these 13 formations (Meditation, Haste, Aggression, Focus, Protection, Impact, Dawn, Assault, Elemental, Supremacy, Guardian, Defense, Hero)"
      },
      {
       "itemId": "511420",
@@ -16704,6 +17849,16 @@
       "intro": "Choose one of these 4 SSR characters (Whitebeard, Silvers Rayleigh, New World Zoro, New World Usopp)"
      },
      {
+      "itemId": "511605",
+      "name": "Advanced Breakthrough Material Choice",
+      "intro": "Open to choose any one Advanced Breakthrough Material"
+     },
+     {
+      "itemId": "511606",
+      "name": "Super Breakthrough Material Choice",
+      "intro": "Open to choose any one Super Breakthrough Material"
+     },
+     {
       "itemId": "511607",
       "name": "Outfit Choice Box",
       "intro": "Choose one of these 5 outfits [ Young Whitebeard (Kimono), Kaido (Dragon Form), Sugar (Swimsuit), Vinsmoke Reiju (Formal Wear), Charlotte Smoothie (Swimsuit)]"
@@ -17077,6 +18232,11 @@
       "itemId": "555008",
       "name": "Christmas Celebration",
       "intro": "Use to get the name frame: Christmas Celebration"
+     },
+     {
+      "itemId": "555009",
+      "name": "Sweet Christmas",
+      "intro": "Use to get the name frame: Sweet Christmas"
      },
      {
       "itemId": "555010",
@@ -17874,6 +19034,16 @@
       "intro": "Luffy Trial Card (Test)"
      },
      {
+      "itemId": "619055",
+      "name": "Rainbow Diamond Gift Packet",
+      "intro": "A New Year red packet that brings good luck for the new year."
+     },
+     {
+      "itemId": "619056",
+      "name": "Item Gift Packet",
+      "intro": "A New Year red packet that brings good luck for the new year."
+     },
+     {
       "itemId": "619057",
       "name": "Beginner Recruitment Ticket",
       "intro": "A Beginner Recruitment Ticket for Beginner Recruit at the Tavern."
@@ -17979,6 +19149,41 @@
       "intro": "Open to get a Bartholomew Kuma Awakening Badge."
      },
      {
+      "itemId": "619068",
+      "name": "Item Gift Packet",
+      "intro": "A celebration red packet that brings you good luck."
+     },
+     {
+      "itemId": "619069",
+      "name": "Item Gift Packet",
+      "intro": "A celebration red packet that brings you good luck."
+     },
+     {
+      "itemId": "619070",
+      "name": "Item Gift Packet",
+      "intro": "A celebration red packet that brings you good luck."
+     },
+     {
+      "itemId": "619071",
+      "name": "Item Gift Packet",
+      "intro": "A celebration red packet that brings you good luck."
+     },
+     {
+      "itemId": "790003",
+      "name": "Shanks Trial Card",
+      "intro": "Trial Cards can only be used in main quests, Daily Quests, Story Replay, Event Dungeons, Character Stories and the Voyage Tower, not in other PvP or PvE modes. The Trial Card stops working once you own the matching character"
+     },
+     {
+      "itemId": "790004",
+      "name": "Blackbeard Trial Card",
+      "intro": "Trial Cards can only be used in main quests, Daily Quests, Story Replay, Event Dungeons, Character Stories and the Voyage Tower, not in other PvP or PvE modes. The Trial Card stops working once you own the matching character"
+     },
+     {
+      "itemId": "790005",
+      "name": "Donquixote Doflamingo Trial Card",
+      "intro": "Trial Cards can only be used in main quests, Daily Quests, Story Replay, Event Dungeons, Character Stories and the Voyage Tower, not in other PvP or PvE modes. The Trial Card stops working once you own the matching character"
+     },
+     {
       "itemId": "619072",
       "name": "Beginner Handbook SSR Choice Chest",
       "intro": "Choose one of these SSR characters (Nekomamushi, Jozu, Vista, New World Tashigi, Donquixote Doflamingo)"
@@ -18034,6 +19239,11 @@
       "intro": "Choose one of these outfits [New World Rob Lucci (Leopard), New World Robin (Halloween), Charlotte Pudding (Flying Carpet), Vinsmoke Reiju (Formal Wear), Carrot (Kimono)]"
      },
      {
+      "itemId": "619088",
+      "name": "Special Wish Ticket",
+      "intro": "A special spring ticket. Any wish you make with it comes true~"
+     },
+     {
       "itemId": "619089",
       "name": "Outfit Choice Box",
       "intro": "Choose one of these 4 outfits [Crocodile (Marineford), Garp (Dog-Head Hat), Rob Lucci (Shipwright Outfit), Boa Hancock (Purple Cheongsam)]"
@@ -18057,6 +19267,46 @@
       "itemId": "511629",
       "name": "Title: Pinnacle of Kings",
       "intro": "Use to get the title: Pinnacle of Kings"
+     },
+     {
+      "itemId": "511631",
+      "name": "Title: Advance Crew Member",
+      "intro": "Use to get the title: Advance Crew Member"
+     },
+     {
+      "itemId": "511637",
+      "name": "Anniversary Gift Box",
+      "intro": "Celebrating the upcoming anniversary. Have fun, Captains! Open to get a random high-quality item"
+     },
+     {
+      "itemId": "511638",
+      "name": "Formation Choice Pack",
+      "intro": "Choose any one formation blueprint: Hero, Elemental, Steadfast, Swift March, Healing, Fury or Impact Formation."
+     },
+     {
+      "itemId": "511639",
+      "name": "Anniversary Formation Pack",
+      "intro": "Open to get: Universal Formation Fragment*1~6, Shuttlecock*10, with a very small chance of a Formation Choice Pack*1 directly!"
+     },
+     {
+      "itemId": "511640",
+      "name": "Anniversary Promise Gift",
+      "intro": "Choose one of these items: Large Outfit Pack, Anniversary SSR Choice Chest, 1111 Rainbow Diamonds, Lv7 Gem Choice Box"
+     },
+     {
+      "itemId": "511641",
+      "name": "Premium Vault Pack",
+      "intro": "Choose one of these items: Outfit Exchange Coin*200, Boa Hancock Swimsuit*1"
+     },
+     {
+      "itemId": "511642",
+      "name": "Deluxe Premium Vault Pack",
+      "intro": "Choose one of these items: Formation Choice Box*1, Universal Formation Fragment*100, Lv8 Gem Choice Box*1"
+     },
+     {
+      "itemId": "511643",
+      "name": "Universal Shard Chest",
+      "intro": "Open to get Universal Formation Fragment*1~6, with a very small chance of a Formation Choice Pack*1 directly!"
      },
      {
       "itemId": "650000",
@@ -18284,14 +19534,89 @@
       "intro": "Choose one of these outfits [New World Kid (Gifter), Sabo (Halloween Outfit), Vinsmoke Reiju (Formal Wear), Jack (Mammoth Form), Charlotte Pudding (Wedding Dress)]"
      },
      {
+      "itemId": "619106",
+      "name": "R Choice Box",
+      "intro": "Choose any one R character."
+     },
+     {
+      "itemId": "619107",
+      "name": "SR Choice Box",
+      "intro": "Choose any one basic SR character."
+     },
+     {
       "itemId": "619108",
       "name": "SSR Random Shard Box",
       "intro": "Open to get 10 random SSR shards."
      },
      {
+      "itemId": "619109",
+      "name": "SR Random Shard Box",
+      "intro": "Open to get 10 random SR shards."
+     },
+     {
+      "itemId": "619110",
+      "name": "SR Random Box",
+      "intro": "Open to get 1 random SR."
+     },
+     {
+      "itemId": "619301",
+      "name": "Daily Pack",
+      "intro": "Open to get one of three rewards at random: Blue Diamonds*20, Gold Bars*5000 or Mid EXP Scroll*1"
+     },
+     {
       "itemId": "619311",
       "name": "SSR Random Shard Box",
       "intro": "Open to get 1 random SSR shards."
+     },
+     {
+      "itemId": "619401",
+      "name": "Lv60 Random Hero Set Box",
+      "intro": "Open to get a random Lv60 Hero set piece. (Possible sets: Wild, Royal, Hunter, Royal, Duke, Merchant)"
+     },
+     {
+      "itemId": "619402",
+      "name": "Lv40 Random Hero Set Box",
+      "intro": "Open to get a random Lv40 Hero set piece. (Possible sets: Sailor, Chef, Assassin, Officer, Island)"
+     },
+     {
+      "itemId": "619403",
+      "name": "Lv40 Choice Hero Set Box",
+      "intro": "Choose one piece from these Hero sets: Sailor, Chef, Assassin, Officer or Pirate Set."
+     },
+     {
+      "itemId": "619404",
+      "name": "Lv20 Choice Hero Set Box",
+      "intro": "Choose one piece from these Hero sets: Warden, Battle or Adventurer Set."
+     },
+     {
+      "itemId": "619405",
+      "name": "Random Hero Equipment Pack",
+      "intro": "Open to get a random Hero equipment piece."
+     },
+     {
+      "itemId": "619406",
+      "name": "Lv60 Random Common Set Box",
+      "intro": "Open to get a random Lv60 common set piece. (Possible sets: Navigator, Gladiator, Desert)"
+     },
+     {
+      "itemId": "619407",
+      "name": "Lv40 Random Common Set Box",
+      "intro": "Open to get a random Lv40 common set piece. (Possible sets: Sailor, Chef, Assassin, Officer, Island)"
+     },
+     {
+      "itemId": "619408",
+      "name": "Lv40 Choice Common Set Box",
+      "intro": "Choose one piece from these common sets: Sailor, Chef, Assassin, Officer or Pirate Set."
+     },
+     {
+      "itemId": "619409",
+      "name": "Lv20 Choice Common Set Box",
+      "intro": "Choose one piece from these common sets: Warden, Battle or Adventurer Set."
+     },
+     {
+      "itemId": "619410",
+      "name": "Random Common Equipment Pack",
+      "intro": "Open to get a random common equipment piece."
      },
      {
       "itemId": "999801",
@@ -18312,6 +19637,16 @@
       "itemId": "999901",
       "name": "Fatigue Recovery Potion",
       "intro": "Use to restore Fatigue"
+     },
+     {
+      "itemId": "990001",
+      "name": "Space-Time Pocket Watch",
+      "intro": "Use to unlock the permanent pass"
+     },
+     {
+      "itemId": "555501",
+      "name": "Star Training Manual",
+      "intro": "Used by non-Devil Fruit characters to raise skill power. Needed at certain special skill levels. Very rare"
      },
      {
       "itemId": "555502",
@@ -18409,6 +19744,321 @@
       "intro": "Used to upgrade skills of Lv60 Paramecia characters."
      },
      {
+      "itemId": "555541",
+      "name": "Basic Training Log Chest",
+      "intro": "Choose any one Basic Training Log."
+     },
+     {
+      "itemId": "555542",
+      "name": "Intermediate Training Log Chest",
+      "intro": "Choose any one Intermediate Training Log."
+     },
+     {
+      "itemId": "555543",
+      "name": "Advanced Training Log Chest",
+      "intro": "Choose any one Advanced Training Log."
+     },
+     {
+      "itemId": "555544",
+      "name": "Ultimate Training Log Chest",
+      "intro": "Choose any one Ultimate Training Log."
+     },
+     {
+      "itemId": "555545",
+      "name": "Basic Training Log Stack",
+      "intro": "Use to get one of each Basic Training Log."
+     },
+     {
+      "itemId": "555546",
+      "name": "Intermediate Training Log Stack",
+      "intro": "Use to get one of each Intermediate Training Log."
+     },
+     {
+      "itemId": "555547",
+      "name": "Advanced Training Log Stack",
+      "intro": "Use to get one of each Advanced Training Log."
+     },
+     {
+      "itemId": "555548",
+      "name": "Ultimate Training Log Stack",
+      "intro": "Use to get one of each Ultimate Training Log."
+     },
+     {
+      "itemId": "233999",
+      "name": "Universal Formation",
+      "intro": "50 Universal Formation Fragments can be exchanged for 1 Universal Formation, used as the base copy when upgrading formations."
+     },
+     {
+      "itemId": "333007",
+      "name": "Precision Formation Shard",
+      "intro": "Precision Formation shard. 50 can be combined into a Precision Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333008",
+      "name": "Critical Formation Shard",
+      "intro": "Critical Formation shard. 50 can be combined into a Critical Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333009",
+      "name": "Calm Formation Shard",
+      "intro": "Calm Formation shard. 50 can be combined into a Calm Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333010",
+      "name": "Swift March Formation Shard",
+      "intro": "Swift March Formation shard. 50 can be combined into a Swift March Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333011",
+      "name": "Healing Formation Shard",
+      "intro": "Healing Formation shard. 50 can be combined into a Healing Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333012",
+      "name": "Steadfast Formation Shard",
+      "intro": "Steadfast Formation shard. 50 can be combined into a Steadfast Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333013",
+      "name": "Fury Formation Shard",
+      "intro": "Fury Formation shard. 50 can be combined into a Fury Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333014",
+      "name": "Bulwark Formation Shard",
+      "intro": "Bulwark Formation shard. 50 can be combined into a Bulwark Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333015",
+      "name": "Inspiration Formation Shard",
+      "intro": "Inspiration Formation shard. 50 can be combined into a Inspiration Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333016",
+      "name": "Battle Soul Formation Shard",
+      "intro": "Battle Soul Formation shard. 50 can be combined into a Battle Soul Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333017",
+      "name": "Ambush Formation Shard",
+      "intro": "Ambush Formation shard. 50 can be combined into a Ambush Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333018",
+      "name": "Duel Formation Shard",
+      "intro": "Duel Formation shard. 50 can be combined into a Duel Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333019",
+      "name": "Supreme Guard Formation Shard",
+      "intro": "Supreme Guard Formation shard. 50 can be combined into a Supreme Guard Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333020",
+      "name": "Elite Formation Shard",
+      "intro": "Elite Formation shard. 50 can be combined into a Elite Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333021",
+      "name": "Ferocious Formation Shard",
+      "intro": "Ferocious Formation shard. 50 can be combined into a Ferocious Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333022",
+      "name": "Joy Formation Shard",
+      "intro": "Joy Formation shard. 50 can be combined into a Joy Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333023",
+      "name": "Hunter Formation Shard",
+      "intro": "Hunter Formation shard. 50 can be combined into a Hunter Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333024",
+      "name": "Spirit Formation Shard",
+      "intro": "Spirit Formation shard. 50 can be combined into a Spirit Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333025",
+      "name": "Void Formation Shard",
+      "intro": "Void Formation shard. 50 can be combined into a Void Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333026",
+      "name": "Winter Formation Shard",
+      "intro": "Winter Formation shard. 50 can be combined into a Winter Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333027",
+      "name": "Thunderflame Formation Shard",
+      "intro": "Thunderflame Formation shard. 50 can be combined into a Thunderflame Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333028",
+      "name": "Dawn Formation Shard",
+      "intro": "Dawn Formation shard. 50 can be combined into a Dawn Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333029",
+      "name": "Protection Formation Shard",
+      "intro": "Protection Formation shard. 50 can be combined into a Protection Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333030",
+      "name": "Impact Formation Shard",
+      "intro": "Impact Formation shard. 50 can be combined into a Impact Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333031",
+      "name": "Assault Formation Shard",
+      "intro": "Assault Formation shard. 50 can be combined into a Assault Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333032",
+      "name": "Elemental Formation Shard",
+      "intro": "Elemental Formation shard. 50 can be combined into a Elemental Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333033",
+      "name": "Focus Formation Shard",
+      "intro": "Focus Formation shard. 50 can be combined into a Focus Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333034",
+      "name": "Aggression Formation Shard",
+      "intro": "Aggression Formation shard. 50 can be combined into a Aggression Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333035",
+      "name": "Meditation Formation Shard",
+      "intro": "Meditation Formation shard. 50 can be combined into a Meditation Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333036",
+      "name": "Haste Formation Shard",
+      "intro": "Haste Formation shard. 50 can be combined into a Haste Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333037",
+      "name": "Supremacy Formation Shard",
+      "intro": "Supremacy Formation shard. 50 can be combined into a Supremacy Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333038",
+      "name": "Guardian Formation Shard",
+      "intro": "Guardian Formation shard. 50 can be combined into a Guardian Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333039",
+      "name": "Defense Formation Shard",
+      "intro": "Defense Formation shard. 50 can be combined into a Defense Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333040",
+      "name": "Hero Formation Shard",
+      "intro": "Hero Formation shard. 50 can be combined into a Hero Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333041",
+      "name": "Destruction Formation Shard",
+      "intro": "Destruction Formation shard. 50 can be combined into a Destruction Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333042",
+      "name": "Warrior Formation Shard",
+      "intro": "Warrior Formation shard. 50 can be combined into a Warrior Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333043",
+      "name": "Magic Formation Shard",
+      "intro": "Magic Formation shard. 50 can be combined into a Magic Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333044",
+      "name": "Fantasy Formation Shard",
+      "intro": "Fantasy Formation shard. 50 can be combined into a Fantasy Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333045",
+      "name": "Group Immunity Formation Shard",
+      "intro": "Group Immunity Formation shard. 50 can be combined into a Group Immunity Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333046",
+      "name": "Extreme Damage Formation Shard",
+      "intro": "Extreme Damage Formation shard. 50 can be combined into a Extreme Damage Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333047",
+      "name": "Enemy Resistance Formation Shard",
+      "intro": "Enemy Resistance Formation shard. 50 can be combined into a Enemy Resistance Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333048",
+      "name": "Rivalry Formation Shard",
+      "intro": "Rivalry Formation shard. 50 can be combined into a Rivalry Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333049",
+      "name": "Boldness Formation Shard",
+      "intro": "Boldness Formation shard. 50 can be combined into a Boldness Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333050",
+      "name": "Dominance Formation Shard",
+      "intro": "Dominance Formation shard. 50 can be combined into a Dominance Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333051",
+      "name": "Long Throw Formation Shard",
+      "intro": "Long Throw Formation shard. 50 can be combined into a Long Throw Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333052",
+      "name": "Contempt Formation Shard",
+      "intro": "Contempt Formation shard. 50 can be combined into a Contempt Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333053",
+      "name": "Finisher Formation Shard",
+      "intro": "Finisher Formation shard. 50 can be combined into a Finisher Formation. Breaks down into 1 Universal Formation Shard at max level"
+     },
+     {
+      "itemId": "333999",
+      "name": "Universal Formation Fragment",
+      "intro": "Universal Formation fragment. 50 can be combined into a Universal Formation."
+     },
+     {
+      "itemId": "660001",
+      "name": "Tenfold Basic Training Log Chest",
+      "intro": "Choose any ten Basic Training Logs."
+     },
+     {
+      "itemId": "660002",
+      "name": "Tenfold Intermediate Training Log Chest",
+      "intro": "Choose any ten Intermediate Training Logs."
+     },
+     {
+      "itemId": "660003",
+      "name": "Tenfold Advanced Training Log Chest",
+      "intro": "Choose any ten Advanced Training Logs."
+     },
+     {
+      "itemId": "660004",
+      "name": "Tenfold Ultimate Training Log Chest",
+      "intro": "Choose any ten Ultimate Training Logs."
+     },
+     {
+      "itemId": "660005",
+      "name": "Tenfold Training Book Box",
+      "intro": "Choose 10 Lv1~10 Enhanced Training Books."
+     },
+     {
+      "itemId": "660006",
+      "name": "Tenfold Sprint Training Book",
+      "intro": "10 Sprint Training Books"
+     },
+     {
       "itemId": "660007",
       "name": "Lv20 Random Equipment Box",
       "intro": "Open to get a random Lv20 gear piece."
@@ -18449,6 +20099,66 @@
       "intro": "Open to get a random Lv60 Hero gear piece."
      },
      {
+      "itemId": "660015",
+      "name": "Super Breakthrough Material Choice",
+      "intro": "Choose 1 of these materials (Basic Breakthrough Book*30, Basic Breakthrough Crown*30, Basic Breakthrough Scroll*30, Basic Breakthrough Sea Chart*30, Basic Breakthrough Elixir*30, Intermediate Breakthrough Book*20, Intermediate Breakthrough Crown*20, Intermediate Breakthrough Scroll*20, Intermediate Breakthrough Sea Chart*20, Intermediate Breakthrough Elixir*20, Advanced Breakthrough Book*10, Advanced Breakthrough Crown*10, Advanced Breakthrough Scroll*10, Advanced Breakthrough Sea Chart*10, Advanced Breakthrough Elixir*10)"
+     },
+     {
+      "itemId": "660016",
+      "name": "Deluxe Skill Book Choice Box",
+      "intro": "Choose 1 of these materials (Star Basic Training Log*120, Star Intermediate Training Log*80, Star Advanced Training Log*60, Star Ultimate Training Log*40, Illusion Basic Training Log*120, Illusion Intermediate Training Log*80, Illusion Advanced Training Log*60, Illusion Ultimate Training Log*40, Storm Basic Training Log*120, Storm Intermediate Training Log*80, Storm Advanced Training Log*60, Storm Ultimate Training Log*40, Transcendence Basic Training Log*120, Transcendence Intermediate Training Log*80, Transcendence Advanced Training Log*60, Transcendence Ultimate Training Log*40)"
+     },
+     {
+      "itemId": "660017",
+      "name": "Basic Mystery Vault Pack",
+      "intro": "Use to get Elite Recruit Ticket*1 and Blue Diamonds*200"
+     },
+     {
+      "itemId": "660018",
+      "name": "Intermediate Mystery Vault Pack",
+      "intro": "Use to get Elite Recruit Ticket*2, Selected Recruit Ticket*2 and Blue Diamonds*300"
+     },
+     {
+      "itemId": "660019",
+      "name": "Advanced Mystery Vault Pack",
+      "intro": "Use to get Exquisite Gem Bag*8, Advanced Skill Book Choice*20 and Blue Diamonds*500"
+     },
+     {
+      "itemId": "660020",
+      "name": "Super Mystery Vault Pack",
+      "intro": "Use to get Golden Battle Soul*30, Advanced Skill Book Choice*30 and Equipment Refining Stone*50"
+     },
+     {
+      "itemId": "660021",
+      "name": "Basic Mystery Vault Large Pack",
+      "intro": "Use to get Exquisite Gem Bag*15, Sprint Training Book*20 and Elite Recruit Ticket*5"
+     },
+     {
+      "itemId": "660022",
+      "name": "Intermediate Mystery Vault Large Pack",
+      "intro": "Use to get Selected Recruit Ticket*10, Sprint Training Book*30 and Advanced Breakthrough Material Choice*10"
+     },
+     {
+      "itemId": "660023",
+      "name": "Advanced Mystery Vault Large Pack",
+      "intro": "Use to get Selected Recruit Ticket*15, Lv8 Gem Choice*1 and Super Breakthrough Material Choice*5"
+     },
+     {
+      "itemId": "660024",
+      "name": "Super Mystery Vault Large Pack",
+      "intro": "Use to get Elite Recruit Ticket*20, Deluxe Breakthrough Material Chest*1 and Hero Stone*10"
+     },
+     {
+      "itemId": "660025",
+      "name": "Ultimate Mystery Vault Large Pack",
+      "intro": "Use to get Selected Recruit Ticket*20, Deluxe Skill Choice Box*1 and Hero Stone*20"
+     },
+     {
+      "itemId": "660026",
+      "name": "Ultimate Mystery Vault Large Pack",
+      "intro": "Use to get Elite Recruit Ticket*20, Equipment Refining Stone*100 and Lv8 Gem Choice*2"
+     },
+     {
       "itemId": "660117",
       "name": "Basic Mystery Vault Gift Box",
       "intro": "Use to get Elite Recruit Ticket*1"
@@ -18457,6 +20167,96 @@
       "itemId": "660118",
       "name": "Intermediate Mystery Vault Gift Box",
       "intro": "Use to get Elite Recruit Ticket*5"
+     },
+     {
+      "itemId": "660119",
+      "name": "Advanced Mystery Vault Gift Box",
+      "intro": "Use to get Elite Recruit Ticket*10, Breakthrough Material Choice Pack*5 and Sprint Training Book*5"
+     },
+     {
+      "itemId": "660120",
+      "name": "Super Mystery Vault Gift Box",
+      "intro": "Use to get Selected Recruit Ticket*5 and Discount Skill Book Choice Pack*5"
+     },
+     {
+      "itemId": "660121",
+      "name": "Basic Mystery Vault Large Gift Box",
+      "intro": "Use to get Lv8 Gem Choice*1 and Refining Stone*100"
+     },
+     {
+      "itemId": "660122",
+      "name": "Intermediate Mystery Vault Large Gift Box",
+      "intro": "Use to get Selected Recruit Ticket*10 and Hero Stone*20"
+     },
+     {
+      "itemId": "660123",
+      "name": "Advanced Mystery Vault Large Gift Box",
+      "intro": "Use to get Lv8 Gem Choice*2 and Hero Stone*50"
+     },
+     {
+      "itemId": "660124",
+      "name": "Super Mystery Vault Large Gift Box",
+      "intro": "Use to get Universal Formation Fragment*25 and Selected Recruit Ticket*15"
+     },
+     {
+      "itemId": "670001",
+      "name": "Advanced Rainbow Diamond Gift",
+      "intro": "A mysterious gift by mail that can be sent to a chosen friend. Contains Rainbow Diamonds*500"
+     },
+     {
+      "itemId": "670002",
+      "name": "Monthly Pass Item",
+      "intro": "Use to unlock the Monthly Pass."
+     },
+     {
+      "itemId": "670003",
+      "name": "Lifetime Investment Unlock Item",
+      "intro": "Use to unlock Lifetime Investment. If already unlocked, recycle it for the equivalent in Rainbow Diamonds."
+     },
+     {
+      "itemId": "670004",
+      "name": "Advanced Pass Unlock Item",
+      "intro": "Use to unlock the Advanced Pass."
+     },
+     {
+      "itemId": "670005",
+      "name": "Voyage Investment Gift",
+      "intro": "A mysterious gift for mailing, containing Lifetime Investment unlock item*1. Can only be sent to a chosen friend or guild member."
+     },
+     {
+      "itemId": "670006",
+      "name": "Advanced Pass Gift",
+      "intro": "A mysterious gift for mailing, containing Advanced Pass unlock item*1. Can only be sent to a chosen friend or guild member."
+     },
+     {
+      "itemId": "670007",
+      "name": "Choice Outfit Gift",
+      "intro": "A mysterious gift for mailing, containing Perona/Garp Outfit Choice Box*1. Can only be sent to a chosen friend or guild member."
+     },
+     {
+      "itemId": "670008",
+      "name": "Perona/Garp Outfit Choice Box",
+      "intro": "Choose one of these outfits [Perona (Swimsuit), Garp (Dog-Head Hat)]"
+     },
+     {
+      "itemId": "670009",
+      "name": "Title: Unwavering Resolve",
+      "intro": "Use to get the title: Unwavering Resolve"
+     },
+     {
+      "itemId": "680018",
+      "name": "Supreme Points",
+      "intro": "Earned from the Kaido Supreme Training event mode. Used to raise training value"
+     },
+     {
+      "itemId": "690001",
+      "name": "Title: Strategy Master",
+      "intro": "Use to get the SR Balanced Match title: Strategy Master"
+     },
+     {
+      "itemId": "690002",
+      "name": "Title: Strategist",
+      "intro": "Use to get the SR Balanced Match title: Strategist"
      },
      {
       "itemId": "690010",
@@ -18509,6 +20309,51 @@
       "intro": "Open to get: Blue Diamonds*300, Rainbow Diamonds*50."
      },
      {
+      "itemId": "690050",
+      "name": "Super Breakthrough Material Choice Box",
+      "intro": "Choose 1 of any one Super Breakthrough Material"
+     },
+     {
+      "itemId": "690051",
+      "name": "Advanced Breakthrough Material Choice Box",
+      "intro": "Choose 1 of any one Advanced Breakthrough Material"
+     },
+     {
+      "itemId": "690052",
+      "name": "Intermediate Breakthrough Material Choice Box",
+      "intro": "Choose 1 of any one Intermediate Breakthrough Material"
+     },
+     {
+      "itemId": "690053",
+      "name": "Basic Breakthrough Material Choice Box",
+      "intro": "Choose 1 of any one Basic Breakthrough Material"
+     },
+     {
+      "itemId": "690054",
+      "name": "Breakthrough Material Choice Chest",
+      "intro": "Choose one: Basic*500, Intermediate*340, Advanced*145 or Super*35 Breakthrough Material"
+     },
+     {
+      "itemId": "690055",
+      "name": "Breakthrough Material Choice Pack",
+      "intro": "Choose one: Basic*15, Intermediate*10, Advanced*4 or Super*1 Breakthrough Material"
+     },
+     {
+      "itemId": "690060",
+      "name": "Advanced Elemental Resistance Potion Choice Box",
+      "intro": "Choose any one Advanced Resistance Potion: Poison, Fire, Water, Wind, Ice, Lightning, Light or Dark"
+     },
+     {
+      "itemId": "690061",
+      "name": "Great-Value Skill Choice Pack",
+      "intro": "Choose one: Basic Log*330, Intermediate Log*110, Advanced Log*50 or Ultimate Log*35"
+     },
+     {
+      "itemId": "690062",
+      "name": "Discount Skill Book Choice Pack",
+      "intro": "Choose one: Basic Log*10, Intermediate Log*3, Advanced Log*2 or Ultimate Log*1"
+     },
+     {
       "itemId": "690101",
       "name": "White Rose",
       "intro": "A white rose.\\nHas a chance to drop from Daily Quests and Story Replay during the event. Can be exchanged for special items."
@@ -18554,6 +20399,11 @@
       "intro": "A red rose.\\nHas a chance to drop from Bounty Quests during the event. Can be exchanged for special items."
      },
      {
+      "itemId": "690244",
+      "name": "Formation Choice Pack",
+      "intro": "Choose any one formation blueprint: Hero, Elemental, Steadfast, Swift March, Healing, Fury or Impact Formation."
+     },
+     {
       "itemId": "690507",
       "name": "Surprise Weekly Pass Vault Key",
       "intro": "Use to open the Surprise Weekly Pass Vault. Log in daily for 7 days to receive a total of Rainbow Diamonds*1500"
@@ -18567,6 +20417,11 @@
       "itemId": "690517",
       "name": "Seven-Day Keepsake Vault Key",
       "intro": "Use to open the Seven-Day Keepsake Vault. Log in daily for 7 days to receive a total of Rainbow Diamonds*800, Fleet Commemorative Badge - Gold*28 and Elite Recruit Ticket*10"
+     },
+     {
+      "itemId": "690521",
+      "name": "Summer Formation Supplies",
+      "intro": "Open to get: Universal Formation Fragment*1~6, Shuttlecock*10, with a very small chance of a Formation Choice Pack*1 directly!"
      },
      {
       "itemId": "690522",
@@ -18924,7 +20779,7 @@
       "intro": "Use to get Elite Recruit Ticket*3, Skypiea Relic Box*5, Sky Key*5"
      }
     ],
-    "partial": "2869/3447 rows translated so far"
+    "partial": "3240/3447 rows translated so far"
    }
   }
  },
