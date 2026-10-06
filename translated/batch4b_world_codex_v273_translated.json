@@ -502,6 +502,516 @@
    ],
    "partial": "1/17 rows translated so far"
   },
+  "TableBloodChapter": {
+   "key_column": "id",
+   "text_columns": [
+    "enemyName",
+    "chapterName"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "enemyName": "Stage 1",
+     "chapterName": "Alubarna 1"
+    },
+    {
+     "id": "2",
+     "enemyName": "Stage 2",
+     "chapterName": "Alubarna 2"
+    },
+    {
+     "id": "3",
+     "enemyName": "Stage 3",
+     "chapterName": "Alubarna 3"
+    },
+    {
+     "id": "4",
+     "enemyName": "Stage 4",
+     "chapterName": "Alubarna 4"
+    },
+    {
+     "id": "5",
+     "enemyName": "Stage 5",
+     "chapterName": "Alubarna 5"
+    },
+    {
+     "id": "6",
+     "enemyName": "Stage 6",
+     "chapterName": "Alubarna 6"
+    },
+    {
+     "id": "7",
+     "enemyName": "Stage 7",
+     "chapterName": "Alubarna 7"
+    },
+    {
+     "id": "8",
+     "enemyName": "Stage 8",
+     "chapterName": "Alubarna 8"
+    },
+    {
+     "id": "9",
+     "enemyName": "Stage 9",
+     "chapterName": "Alubarna 9"
+    },
+    {
+     "id": "10",
+     "enemyName": "Stage 10",
+     "chapterName": "Alubarna 10"
+    },
+    {
+     "id": "11",
+     "enemyName": "Stage 11",
+     "chapterName": "Alubarna 11"
+    },
+    {
+     "id": "12",
+     "enemyName": "Stage 12",
+     "chapterName": "Alubarna 12"
+    },
+    {
+     "id": "13",
+     "enemyName": "Stage 13",
+     "chapterName": "Alubarna 13"
+    },
+    {
+     "id": "14",
+     "enemyName": "Stage 14",
+     "chapterName": "Alubarna 14"
+    },
+    {
+     "id": "15",
+     "enemyName": "Stage 15",
+     "chapterName": "Alubarna 15"
+    },
+    {
+     "id": "16",
+     "enemyName": "Stage 16",
+     "chapterName": "Alubarna 16"
+    },
+    {
+     "id": "17",
+     "enemyName": "Stage 17",
+     "chapterName": "Alubarna 17"
+    },
+    {
+     "id": "18",
+     "enemyName": "Stage 18",
+     "chapterName": "Alubarna 18"
+    },
+    {
+     "id": "19",
+     "enemyName": "Stage 19",
+     "chapterName": "Alubarna 19"
+    },
+    {
+     "id": "20",
+     "enemyName": "Stage 20",
+     "chapterName": "Alubarna 20"
+    },
+    {
+     "id": "21",
+     "enemyName": "Stage 21",
+     "chapterName": "Skypiea 1"
+    },
+    {
+     "id": "22",
+     "enemyName": "Stage 22",
+     "chapterName": "Skypiea 2"
+    },
+    {
+     "id": "23",
+     "enemyName": "Stage 23",
+     "chapterName": "Skypiea 3"
+    },
+    {
+     "id": "24",
+     "enemyName": "Stage 24",
+     "chapterName": "Skypiea 4"
+    },
+    {
+     "id": "25",
+     "enemyName": "Stage 25",
+     "chapterName": "Skypiea 5"
+    },
+    {
+     "id": "26",
+     "enemyName": "Stage 26",
+     "chapterName": "Skypiea 6"
+    },
+    {
+     "id": "27",
+     "enemyName": "Stage 27",
+     "chapterName": "Skypiea 7"
+    },
+    {
+     "id": "28",
+     "enemyName": "Stage 28",
+     "chapterName": "Skypiea 8"
+    },
+    {
+     "id": "29",
+     "enemyName": "Stage 29",
+     "chapterName": "Skypiea 9"
+    },
+    {
+     "id": "30",
+     "enemyName": "Stage 30",
+     "chapterName": "Skypiea 10"
+    },
+    {
+     "id": "31",
+     "enemyName": "Stage 31",
+     "chapterName": "Skypiea 11"
+    },
+    {
+     "id": "32",
+     "enemyName": "Stage 32",
+     "chapterName": "Skypiea 12"
+    },
+    {
+     "id": "33",
+     "enemyName": "Stage 33",
+     "chapterName": "Skypiea 13"
+    },
+    {
+     "id": "34",
+     "enemyName": "Stage 34",
+     "chapterName": "Skypiea 14"
+    },
+    {
+     "id": "35",
+     "enemyName": "Stage 35",
+     "chapterName": "Skypiea 15"
+    },
+    {
+     "id": "36",
+     "enemyName": "Stage 36",
+     "chapterName": "Skypiea 16"
+    },
+    {
+     "id": "37",
+     "enemyName": "Stage 37",
+     "chapterName": "Skypiea 17"
+    },
+    {
+     "id": "38",
+     "enemyName": "Stage 38",
+     "chapterName": "Skypiea 18"
+    },
+    {
+     "id": "39",
+     "enemyName": "Stage 39",
+     "chapterName": "Skypiea 19"
+    },
+    {
+     "id": "40",
+     "enemyName": "Stage 40",
+     "chapterName": "Skypiea 20"
+    },
+    {
+     "id": "41",
+     "enemyName": "Stage 41",
+     "chapterName": "Enies Lobby 1"
+    },
+    {
+     "id": "42",
+     "enemyName": "Stage 42",
+     "chapterName": "Enies Lobby 2"
+    },
+    {
+     "id": "43",
+     "enemyName": "Stage 43",
+     "chapterName": "Enies Lobby 3"
+    },
+    {
+     "id": "44",
+     "enemyName": "Stage 44",
+     "chapterName": "Enies Lobby 4"
+    },
+    {
+     "id": "45",
+     "enemyName": "Stage 45",
+     "chapterName": "Enies Lobby 5"
+    },
+    {
+     "id": "46",
+     "enemyName": "Stage 46",
+     "chapterName": "Enies Lobby 6"
+    },
+    {
+     "id": "47",
+     "enemyName": "Stage 47",
+     "chapterName": "Enies Lobby 7"
+    },
+    {
+     "id": "48",
+     "enemyName": "Stage 48",
+     "chapterName": "Enies Lobby 8"
+    },
+    {
+     "id": "49",
+     "enemyName": "Stage 49",
+     "chapterName": "Enies Lobby 9"
+    },
+    {
+     "id": "50",
+     "enemyName": "Stage 50",
+     "chapterName": "Enies Lobby 10"
+    },
+    {
+     "id": "51",
+     "enemyName": "Stage 51",
+     "chapterName": "Enies Lobby 11"
+    },
+    {
+     "id": "52",
+     "enemyName": "Stage 52",
+     "chapterName": "Enies Lobby 12"
+    },
+    {
+     "id": "53",
+     "enemyName": "Stage 53",
+     "chapterName": "Enies Lobby 13"
+    },
+    {
+     "id": "54",
+     "enemyName": "Stage 54",
+     "chapterName": "Enies Lobby 14"
+    },
+    {
+     "id": "55",
+     "enemyName": "Stage 55",
+     "chapterName": "Enies Lobby 15"
+    },
+    {
+     "id": "56",
+     "enemyName": "Stage 56",
+     "chapterName": "Enies Lobby 16"
+    },
+    {
+     "id": "57",
+     "enemyName": "Stage 57",
+     "chapterName": "Enies Lobby 17"
+    },
+    {
+     "id": "58",
+     "enemyName": "Stage 58",
+     "chapterName": "Enies Lobby 18"
+    },
+    {
+     "id": "59",
+     "enemyName": "Stage 59",
+     "chapterName": "Enies Lobby 19"
+    },
+    {
+     "id": "60",
+     "enemyName": "Stage 60",
+     "chapterName": "Enies Lobby 20"
+    },
+    {
+     "id": "61",
+     "enemyName": "Stage 61",
+     "chapterName": "Thriller Bark 1"
+    },
+    {
+     "id": "62",
+     "enemyName": "Stage 62",
+     "chapterName": "Thriller Bark 2"
+    },
+    {
+     "id": "63",
+     "enemyName": "Stage 63",
+     "chapterName": "Thriller Bark 3"
+    },
+    {
+     "id": "64",
+     "enemyName": "Stage 64",
+     "chapterName": "Thriller Bark 4"
+    },
+    {
+     "id": "65",
+     "enemyName": "Stage 65",
+     "chapterName": "Thriller Bark 5"
+    },
+    {
+     "id": "66",
+     "enemyName": "Stage 66",
+     "chapterName": "Thriller Bark 6"
+    },
+    {
+     "id": "67",
+     "enemyName": "Stage 67",
+     "chapterName": "Thriller Bark 7"
+    },
+    {
+     "id": "68",
+     "enemyName": "Stage 68",
+     "chapterName": "Thriller Bark 8"
+    },
+    {
+     "id": "69",
+     "enemyName": "Stage 69",
+     "chapterName": "Thriller Bark 9"
+    },
+    {
+     "id": "70",
+     "enemyName": "Stage 70",
+     "chapterName": "Thriller Bark 10"
+    },
+    {
+     "id": "71",
+     "enemyName": "Stage 71",
+     "chapterName": "Thriller Bark 11"
+    },
+    {
+     "id": "72",
+     "enemyName": "Stage 72",
+     "chapterName": "Thriller Bark 12"
+    },
+    {
+     "id": "73",
+     "enemyName": "Stage 73",
+     "chapterName": "Thriller Bark 13"
+    },
+    {
+     "id": "74",
+     "enemyName": "Stage 74",
+     "chapterName": "Thriller Bark 14"
+    },
+    {
+     "id": "75",
+     "enemyName": "Stage 75",
+     "chapterName": "Thriller Bark 15"
+    },
+    {
+     "id": "76",
+     "enemyName": "Stage 76",
+     "chapterName": "Thriller Bark 16"
+    },
+    {
+     "id": "77",
+     "enemyName": "Stage 77",
+     "chapterName": "Thriller Bark 17"
+    },
+    {
+     "id": "78",
+     "enemyName": "Stage 78",
+     "chapterName": "Thriller Bark 18"
+    },
+    {
+     "id": "79",
+     "enemyName": "Stage 79",
+     "chapterName": "Thriller Bark 19"
+    },
+    {
+     "id": "80",
+     "enemyName": "Stage 80",
+     "chapterName": "Thriller Bark 20"
+    },
+    {
+     "id": "81",
+     "enemyName": "Stage 81",
+     "chapterName": "Impel Down 1"
+    },
+    {
+     "id": "82",
+     "enemyName": "Stage 82",
+     "chapterName": "Impel Down 2"
+    },
+    {
+     "id": "83",
+     "enemyName": "Stage 83",
+     "chapterName": "Impel Down 3"
+    },
+    {
+     "id": "84",
+     "enemyName": "Stage 84",
+     "chapterName": "Impel Down 4"
+    },
+    {
+     "id": "85",
+     "enemyName": "Stage 85",
+     "chapterName": "Impel Down 5"
+    },
+    {
+     "id": "86",
+     "enemyName": "Stage 86",
+     "chapterName": "Impel Down 6"
+    },
+    {
+     "id": "87",
+     "enemyName": "Stage 87",
+     "chapterName": "Impel Down 7"
+    },
+    {
+     "id": "88",
+     "enemyName": "Stage 88",
+     "chapterName": "Impel Down 8"
+    },
+    {
+     "id": "89",
+     "enemyName": "Stage 89",
+     "chapterName": "Impel Down 9"
+    },
+    {
+     "id": "90",
+     "enemyName": "Stage 90",
+     "chapterName": "Impel Down 10"
+    },
+    {
+     "id": "91",
+     "enemyName": "Stage 91",
+     "chapterName": "Impel Down 11"
+    },
+    {
+     "id": "92",
+     "enemyName": "Stage 92",
+     "chapterName": "Impel Down 12"
+    },
+    {
+     "id": "93",
+     "enemyName": "Stage 93",
+     "chapterName": "Impel Down 13"
+    },
+    {
+     "id": "94",
+     "enemyName": "Stage 94",
+     "chapterName": "Impel Down 14"
+    },
+    {
+     "id": "95",
+     "enemyName": "Stage 95",
+     "chapterName": "Impel Down 15"
+    },
+    {
+     "id": "96",
+     "enemyName": "Stage 96",
+     "chapterName": "Impel Down 16"
+    },
+    {
+     "id": "97",
+     "enemyName": "Stage 97",
+     "chapterName": "Impel Down 17"
+    },
+    {
+     "id": "98",
+     "enemyName": "Stage 98",
+     "chapterName": "Impel Down 18"
+    },
+    {
+     "id": "99",
+     "enemyName": "Stage 99",
+     "chapterName": "Impel Down 19"
+    },
+    {
+     "id": "100",
+     "enemyName": "Stage 100",
+     "chapterName": "Impel Down 20"
+    }
+   ]
+  },
   "TableBloodConfig": {
    "key_column": "id",
    "text_columns": [
@@ -859,6 +1369,126 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "BossId": "10001",
+     "BossName": "Buggy",
+     "BossTitle": "Buggy Pirates Captain",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10002",
+     "BossName": "Coby",
+     "BossTitle": "Buggy Pirates Captain",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10003",
+     "BossName": "Buggy",
+     "BossTitle": "Buggy Pirates Captain",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10004",
+     "BossName": "Kuro",
+     "BossTitle": "Former Black Cat Pirates Captain",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10005",
+     "BossName": "Don Krieg",
+     "BossTitle": "Former Black Cat Pirates Captain",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10006",
+     "BossName": "Don Krieg",
+     "BossTitle": "Former Black Cat Pirates Captain",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10007",
+     "BossName": "Mihawk",
+     "BossTitle": "World's Greatest Swordsman",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10008",
+     "BossName": "Arlong",
+     "BossTitle": "Arlong Pirates Captain",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10009",
+     "BossName": "Tashigi",
+     "BossTitle": "Marine HQ Master Sergeant",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10010",
+     "BossName": "Tashigi",
+     "BossTitle": "Marine HQ Master Sergeant",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10011",
+     "BossName": "Smoker",
+     "BossTitle": "Marine HQ Colonel",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10012",
+     "BossName": "Smoker",
+     "BossTitle": "Marine HQ Colonel",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10013",
+     "BossName": "Smoker",
+     "BossTitle": "Marine HQ Colonel",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10014",
+     "BossName": "Smoker",
+     "BossTitle": "Marine HQ Colonel",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10015",
+     "BossName": "Mr.5",
+     "BossTitle": "Baroque Works Chief Commander",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10016",
+     "BossName": "Mr.5",
+     "BossTitle": "Baroque Works Chief Commander",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10017",
+     "BossName": "Mr.3",
+     "BossTitle": "Baroque Works Chief Commander",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10018",
+     "BossName": "Mr.3",
+     "BossTitle": "Baroque Works Chief Commander",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10019",
+     "BossName": "Wapol",
+     "BossTitle": "Wapol Pirates Captain",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10020",
+     "BossName": "Wapol",
+     "BossTitle": "Former King of Drum Kingdom",
+     "BossDesc": ""
+    },
+    {
      "BossId": "10021",
      "BossName": "Crocodile",
      "BossTitle": "Seven Warlords",
@@ -883,14 +1513,458 @@
      "BossDesc": ""
     },
     {
+     "BossId": "10025",
+     "BossName": "Mr.4",
+     "BossTitle": "Baroque Works Chief Commander",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10026",
+     "BossName": "Miss Doublefinger",
+     "BossTitle": "Baroque Works Chief Commander",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10027",
+     "BossName": "Mr.2",
+     "BossTitle": "Baroque Works Chief Commander",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10028",
+     "BossName": "Mr.1",
+     "BossTitle": "Baroque Works Chief Commander",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10029",
+     "BossName": "Bellamy",
+     "BossTitle": "Bellamy Pirates Captain",
+     "BossDesc": ""
+    },
+    {
      "BossId": "10030",
      "BossName": "Wyper",
      "BossTitle": "Shandian Warrior",
      "BossDesc": ""
+    },
+    {
+     "BossId": "10031",
+     "BossName": "Enel",
+     "BossTitle": "The Only \"God\" of the Sky Sanctuary",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10032",
+     "BossName": "Boa Hancock",
+     "BossTitle": "Seven Warlords",
+     "BossDesc": "One of the Seven Warlords, skilled at offense.\\nLove-Love Fruit user and current captain of the Kuja Pirates.\\nHailed as the most beautiful woman in the world."
+    },
+    {
+     "BossId": "10033",
+     "BossName": "Saint Charlos",
+     "BossTitle": "World Government",
+     "BossDesc": "A World Noble who transfers damage to others and can recover somewhat"
+    },
+    {
+     "BossId": "10034",
+     "BossName": "Kizaru",
+     "BossTitle": "Marines",
+     "BossDesc": "One of the three Marine Admirals, skilled at elemental damage.\\nGlint-Glint Fruit user with extremely high light damage.\\nVery high Evasion; Crit Rate rises with Speed"
+    },
+    {
+     "BossId": "10035",
+     "BossName": "Minotaurus",
+     "BossTitle": "Jailer Beast",
+     "BossDesc": "One of Impel Down's four Jailer Beasts, known for cruelty and ferocity."
+    },
+    {
+     "BossId": "10036",
+     "BossName": "Magellan",
+     "BossTitle": "Impel Down Warden",
+     "BossDesc": "The warden of Impel Down, Venom-Venom Fruit user."
+    },
+    {
+     "BossId": "10037",
+     "BossName": "Jinbe",
+     "BossTitle": "Seven Warlords",
+     "BossDesc": "One of the Seven Warlords, with terrifying strength.\\nMaster of \"Fish-Man Karate\" and \"Fish-Man Jujutsu\".\\nExcellent survivability and counterattacks."
+    },
+    {
+     "BossId": "10038",
+     "BossName": "Minotaurus",
+     "BossTitle": "Jailer Beast",
+     "BossDesc": "One of Impel Down's four Jailer Beasts, known for cruelty and ferocity."
+    },
+    {
+     "BossId": "10039",
+     "BossName": "Marigold",
+     "BossTitle": "Gorgon",
+     "BossDesc": "The strongest Gorgon under the Empress of the Sabaody Archipelago."
+    },
+    {
+     "BossId": "10040",
+     "BossName": "Hody",
+     "BossTitle": "New Fish-Man Pirates Captain",
+     "BossDesc": "Cold-blooded and ruthless; will do anything to achieve his goals."
+    },
+    {
+     "BossId": "10041",
+     "BossName": "Fire Dragon",
+     "BossTitle": "Punk Hazard Creature",
+     "BossDesc": "A fierce, savage dragon skilled at fire attacks.\\nAttacks enemies with group flames; its breath sets the ground under enemies ablaze."
+    },
+    {
+     "BossId": "10042",
+     "BossName": "Tashigi",
+     "BossTitle": "Marine G-5 Branch Captain",
+     "BossDesc": "An indomitable swordswoman whose strength grew greatly after two years of training."
+    },
+    {
+     "BossId": "10043",
+     "BossName": "Smoker",
+     "BossTitle": "Marine G-5 Branch Vice Admiral",
+     "BossDesc": "Logia Smoke-Smoke Fruit user who trains himself with Luffy as his lifelong rival."
+    },
+    {
+     "BossId": "10044",
+     "BossName": "Caesar Clown",
+     "BossTitle": "PH Squad Leader",
+     "BossDesc": "Gas-Gas Fruit user."
+    },
+    {
+     "BossId": "10045",
+     "BossName": "Smiley",
+     "BossTitle": "Punk Hazard Creature",
+     "BossDesc": "A monster of Punk Hazard, said to be afraid of fire attacks at times."
+    },
+    {
+     "BossId": "10046",
+     "BossName": "Brownbeard",
+     "BossTitle": "Brownbeard Pirates Captain",
+     "BossDesc": "Captain of the Brownbeard Pirates, who loves his men."
+    },
+    {
+     "BossId": "10047",
+     "BossName": "Caesar Normal",
+     "BossTitle": "PH Squad Leader",
+     "BossDesc": "Gas-Gas Fruit user."
+    },
+    {
+     "BossId": "10048",
+     "BossName": "Caesar Elite",
+     "BossTitle": "PH Squad Leader",
+     "BossDesc": "Gas-Gas Fruit user."
+    },
+    {
+     "BossId": "10049",
+     "BossName": "Caesar Hard",
+     "BossTitle": "PH Squad Leader",
+     "BossDesc": "Gas-Gas Fruit user."
+    },
+    {
+     "BossId": "10050",
+     "BossName": "Caesar Abyss",
+     "BossTitle": "PH Squad Leader",
+     "BossDesc": "Gas-Gas Fruit user."
+    },
+    {
+     "BossId": "10051",
+     "BossName": "Ucy",
+     "BossTitle": "Colosseum Grim Reaper",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10052",
+     "BossName": "Don Chinjao",
+     "BossTitle": "Happo Navy Don",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10053",
+     "BossName": "Fujitora",
+     "BossTitle": "Marine HQ Admiral",
+     "BossDesc": "\"Marine HQ\" top fighting force; gentle and upright."
+    },
+    {
+     "BossId": "10054",
+     "BossName": "Gecko Moria",
+     "BossTitle": "Gecko",
+     "BossDesc": "\"Shadow-Shadow Fruit\" user, a shadow human who can steal others' shadows."
+    },
+    {
+     "BossId": "10055",
+     "BossName": "Gecko Moria",
+     "BossTitle": "Gecko",
+     "BossDesc": "\"Shadow-Shadow Fruit\" user, a shadow human who can steal others' shadows."
+    },
+    {
+     "BossId": "10056",
+     "BossName": "Gecko Moria",
+     "BossTitle": "Gecko",
+     "BossDesc": "\"Shadow-Shadow Fruit\" user, a shadow human who can steal others' shadows."
+    },
+    {
+     "BossId": "10057",
+     "BossName": "Pica",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": "Pica has very high physical defense; elemental attack skills are recommended against him"
+    },
+    {
+     "BossId": "10058",
+     "BossName": "Senor Pink",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": ""
+    },
+    {
+     "BossId": "10059",
+     "BossName": "Sugar",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": "Hobby-Hobby Fruit user."
+    },
+    {
+     "BossId": "10060",
+     "BossName": "Diamante",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": "Diamante has high physical attack and defense. Watch your HP recovery when fighting him."
+    },
+    {
+     "BossId": "10061",
+     "BossName": "Trebol",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": "Sticky-Sticky Fruit user."
+    },
+    {
+     "BossId": "10062",
+     "BossName": "Pica",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": "Stone-Stone Fruit user."
+    },
+    {
+     "BossId": "10063",
+     "BossName": "Diamante",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": "Flutter-Flutter Fruit user, a flag human."
+    },
+    {
+     "BossId": "10064",
+     "BossName": "Gladius",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": "Pop-Pop Fruit user."
+    },
+    {
+     "BossId": "10065",
+     "BossName": "Gladius",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": "Pop-Pop Fruit user."
+    },
+    {
+     "BossId": "10066",
+     "BossName": "Baby5",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": "Longs to be needed. Paramecia Arms-Arms Fruit user."
+    },
+    {
+     "BossId": "10067",
+     "BossName": "Donquixote Doflamingo",
+     "BossTitle": "Seven Warlords",
+     "BossDesc": "Doflamingo deals heavy damage to your whole team in battle, so keep your team's HP up when fighting him."
+    },
+    {
+     "BossId": "10068",
+     "BossName": "Fujitora",
+     "BossTitle": "Marine HQ Admiral",
+     "BossDesc": "\"Marine HQ\" top fighting force; gentle and upright."
+    },
+    {
+     "BossId": "10069",
+     "BossName": "Jack",
+     "BossTitle": "Beasts Pirates Headliner",
+     "BossDesc": "Elephant-Elephant Fruit user, the infamous \"Drought\"\\nof the \"Three Disasters\"."
+    },
+    {
+     "BossId": "10070",
+     "BossName": "Capone",
+     "BossTitle": "Big Mom Pirates Castle",
+     "BossDesc": "Castle-Castle Fruit user, captain of the Fire Tank Pirates,\\none of the Worst Generation."
+    },
+    {
+     "BossId": "10071",
+     "BossName": "Jack",
+     "BossTitle": "Beasts Pirates Headliner",
+     "BossDesc": "Elephant-Elephant Fruit user, the infamous \"Drought\"\\nof the \"Three Disasters\"."
+    },
+    {
+     "BossId": "10073",
+     "BossName": "Capone Gang Bege",
+     "BossTitle": "Capone Gang Bege",
+     "BossDesc": "Elephant-Elephant Fruit user, the infamous \"Drought\"\\nof the \"Three Disasters\"."
+    },
+    {
+     "BossId": "10074",
+     "BossName": "Vinsmoke Reiju",
+     "BossTitle": "Vinsmoke Reiju",
+     "BossDesc": "Elephant-Elephant Fruit user, the infamous \"Drought\"\\nof the \"Three Disasters\"."
+    },
+    {
+     "BossId": "10075",
+     "BossName": "Charlotte Katakuri",
+     "BossTitle": "Charlotte Katakuri",
+     "BossDesc": "Elephant-Elephant Fruit user, the infamous \"Drought\"\\nof the \"Three Disasters\"."
+    },
+    {
+     "BossId": "10076",
+     "BossName": "Big Mom",
+     "BossTitle": "Big Mom",
+     "BossDesc": "Elephant-Elephant Fruit user, the infamous \"Drought\"\\nof the \"Three Disasters\"."
+    },
+    {
+     "BossId": "10077",
+     "BossName": "New World Smoker",
+     "BossTitle": "New World Smoker",
+     "BossDesc": "Logia Smoke-Smoke Fruit user who trains himself with Luffy as his lifelong rival."
+    },
+    {
+     "BossId": "10078",
+     "BossName": "Fujitora",
+     "BossTitle": "Fujitora",
+     "BossDesc": "One of the three Marine Admirals; gentle and upright."
+    },
+    {
+     "BossId": "10079",
+     "BossName": "Kizaru",
+     "BossTitle": "Kizaru",
+     "BossDesc": "One of the three Marine Admirals, skilled at elemental damage.\\nGlint-Glint Fruit user with extremely high light damage.\\nVery high Evasion; Crit Rate rises with Speed"
+    },
+    {
+     "BossId": "10080",
+     "BossName": "New World Akainu",
+     "BossTitle": "New World Akainu",
+     "BossDesc": "\"Marine HQ\" top fighting force, a firm believer in \"Absolute Justice\"."
+    },
+    {
+     "BossId": "10081",
+     "BossName": "Pica",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": "Pica has very high physical defense; elemental attack skills are recommended against him."
+    },
+    {
+     "BossId": "10082",
+     "BossName": "Diamante",
+     "BossTitle": "Donquixote Family Executive",
+     "BossDesc": "Diamante has high physical attack and defense. Watch your HP recovery when fighting him."
+    },
+    {
+     "BossId": "10083",
+     "BossName": "Donquixote Doflamingo",
+     "BossTitle": "Seven Warlords",
+     "BossDesc": "Doflamingo deals heavy damage to your whole team in battle, so keep your team's HP up when fighting him."
+    },
+    {
+     "BossId": "10084",
+     "BossName": "Big Mom",
+     "BossTitle": "",
+     "BossDesc": "Minion deaths lower Linlin's Attack, Speed and Defense. When [Calamity Wave] hits, it drains allies' [Souls]; every two drains cause [Oblivion]. Hitting Linlin with an Ultimate deducts an extra 5% of her max HP and reclaims your [Soul]"
+    },
+    {
+     "BossId": "10085",
+     "BossName": "Shanks",
+     "BossTitle": "",
+     "BossDesc": "Gains [Swordsmanship] when attacking; at 10 stacks, consumes all to gain [Mastery]. No [Swordsmanship] is gained while in [Mastery]"
+    },
+    {
+     "BossId": "10086",
+     "BossName": "Kaido",
+     "BossTitle": "",
+     "BossDesc": "Hits lower the target's Defense by 30%, stackable\\nGains 10 stacks of [Dragon Armor] at the start of the turn, losing 1 stack per 1 elemental hit; without [Dragon Armor], damage taken +150% and elemental damage can crit"
+    },
+    {
+     "BossId": "10087",
+     "BossName": "Whitebeard",
+     "BossTitle": "",
+     "BossDesc": "After using [Continental Collapse], enters [Defensive Stance] until his next action; critting Whitebeard in this stance gives the player a shield of 10% max HP for 2 turns. After [Defensive Stance] ends, his next action deals heavy damage"
+    },
+    {
+     "BossId": "10088",
+     "BossName": "Blackbeard",
+     "BossTitle": "",
+     "BossDesc": "Attacks deal extra dark damage equal to 100% of Attack\\nHits inflict [Erosion] on the target\\nMinion deaths interrupt your character's action, restore 10% of Blackbeard's max HP and let him act immediately\\nOn even turns, casts an extra [Black Hole] after acting"
+    },
+    {
+     "BossId": "10089",
+     "BossName": "Kaido",
+     "BossTitle": "Beasts Pirates Governor-General",
+     "BossDesc": "One of the \"Four Emperors\", the pirate known as the \"Strongest Creature\"."
+    },
+    {
+     "BossId": "10090",
+     "BossName": "Kaido",
+     "BossTitle": "Beasts Pirates Governor-General",
+     "BossDesc": "One of the \"Four Emperors\", the pirate known as the \"Strongest Creature\"."
+    },
+    {
+     "BossId": "10091",
+     "BossName": "Kyoshiro",
+     "BossTitle": "Orochi's Retainers",
+     "BossDesc": "Boss of the \"Kyoshiro Family\", invited by Orochi to be his\\nofficial merchant; known as \"Dozing Kyoshiro\"."
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "5/99 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "BossId": "11001",
+     "BossName": "Crocodile",
+     "BossTitle": "Seven Warlords",
+     "BossDesc": "Publicly playing \"Alubarna's guardian\", he is secretly the boss of Baroque Works, plotting to rule the Kingdom of Alubarna. One of the \"Seven Warlords\", with a bounty of 81 million Berries."
+    },
+    {
+     "BossId": "11002",
+     "BossName": "Enel",
+     "BossTitle": "The Only \"God\" of the Sky Sanctuary",
+     "BossDesc": "The only god of the Sky Island, dreaming of returning to the holy land. A lightning man with the power of the Rumble-Rumble Fruit. Until Luffy, his only natural enemy, appeared, he ruled the sky sanctuary with terror for 6 years."
+    },
+    {
+     "BossId": "11003",
+     "BossName": "Gecko Moria",
+     "BossTitle": "Gecko",
+     "BossDesc": "\"Shadow-Shadow Fruit\" user, a shadow human who can steal others' shadows."
+    },
+    {
+     "BossId": "11004",
+     "BossName": "Sengoku",
+     "BossTitle": "Marines",
+     "BossDesc": "\"Sengoku the Buddha\", the wise commander leading powerful elite Marines!! Fleet Admiral of Marine HQ since before the Great Pirate Era, he earned countless merits with brilliant strategy and faith in absolute justice."
+    },
+    {
+     "BossId": "12000",
+     "BossName": "Akainu",
+     "BossTitle": "Marines",
+     "BossDesc": "One of the three Marine Admirals, upholding \"Absolute Justice\""
+    },
+    {
+     "BossId": "12001",
+     "BossName": "Whitebeard",
+     "BossTitle": "Whitebeard",
+     "BossDesc": "Captain of the Whitebeard Pirates, hailed as the \"World's Strongest Man\"."
+    },
+    {
+     "BossId": "12002",
+     "BossName": "Doflamingo",
+     "BossTitle": "Heavenly Yaksha",
+     "BossDesc": "String-String Fruit user. Donquixote Doflamingo, nicknamed \"Heavenly Yaksha\""
+    },
+    {
+     "BossId": "12003",
+     "BossName": "Mihawk",
+     "BossTitle": "Mihawk",
+     "BossDesc": "Mihawk, the Marine hunter known as \"Hawk-Eye\", hailed as the \"World's Greatest Swordsman\""
+    },
+    {
+     "BossId": "12004",
+     "BossName": "Perona",
+     "BossTitle": "Thriller Bark Pirates",
+     "BossDesc": "A ghost human who ate the Hollow-Hollow Fruit.\\nCommander of the Animal Zombies and Surprise Zombies.\\nA girl who looks cute and is pure at heart."
+    }
+   ]
   },
   "TableBountyHuntBoss": {
    "key_column": "bossId",
@@ -1112,6 +2186,1138 @@
     {
      "chapterId": "2010",
      "name": "Stage 10"
+    }
+   ]
+  },
+  "TableCrawlTowerChapter": {
+   "key_column": "chapterId",
+   "text_columns": [
+    "chapterDesc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "chapterId": "1",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "2",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "3",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "4",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "5",
+     "chapterDesc": "*The Buggy Pirates occupy this outpost\\nDefeat the Buggy Pirates for lots of rewards."
+    },
+    {
+     "chapterId": "6",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "7",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "8",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "9",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "10",
+     "chapterDesc": "*The Kuro Pirates occupy this outpost\\nDefeat the Kuro Pirates for lots of rewards"
+    },
+    {
+     "chapterId": "11",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "12",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "13",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "14",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "15",
+     "chapterDesc": "*The Krieg Pirates occupy this outpost\\nAfter taking elemental damage, Krieg briefly gains all-element damage reduction\\nKrieg periodically shields himself; if the shield isn't broken in time, he recovers HP; if it's broken, he's weakened for one turn.\\nAfter turn 7, Krieg goes berserk and his Attack rises sharply."
+    },
+    {
+     "chapterId": "16",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "17",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "18",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "19",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "20",
+     "chapterDesc": "*The Arlong Pirates occupy this outpost\\nDefeat the Arlong Pirates for lots of rewards"
+    },
+    {
+     "chapterId": "21",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "22",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "23",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "24",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "25",
+     "chapterDesc": "*Hawk-Eye awaits strong challengers at this outpost\\nHawk-Eye is immune to player damage and control here\\nYou only need to survive until turn 6 to win\\nOn turns 1, 3 and 5, Hawk-Eye makes lethal attacks on players."
+    },
+    {
+     "chapterId": "26",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "27",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "28",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "29",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "30",
+     "chapterDesc": "*Mr.3 and Miss Goldenweek await captains' challenges at this outpost\\nEach time they take physical damage, they gain physical damage reduction\\nEach turn Miss Goldenweek colors uncolored allies (red/green). Each color must be hit with a different element to clear it and inflict an elemental Vulnerability buff; no color can be applied while that buff lasts\\nAttacking with the wrong element changes the target's color and stops a random character from acting next turn\\nIf players fail to clear colors for two turns in a row, Mr.3 gives all allies damage reduction and Attack buffs."
+    },
+    {
+     "chapterId": "31",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "32",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "33",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "34",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "35",
+     "chapterDesc": "*The Wapol Army occupies this outpost\\nThe Wapol Army gains elemental damage reduction when taking elemental damage\\nEnemies taking fatal damage don't leave the battlefield; they fall asleep and move to a random position.\\nSleeping units wake after one or two turns with full HP.\\nSleeping units can be defeated.\\nWhen a Wapol Army member is defeated, Wapol summons the sleeping ones\\nAfter 7 turns, both sides gain a large damage bonus."
+    },
+    {
+     "chapterId": "36",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "37",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "38",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "39",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "40",
+     "chapterDesc": "*Smoker is stationed at this outpost, ready to enforce his \"justice\" on invaders\\nSmoker has higher HP\\nAt the end of each turn, your max HP drops\\nAt the end of each turn, both sides gain a damage buff\\nBelow 15% HP, Smoker is unaffected by the per-turn HP loss rule\\nFor every 10% HP Smoker loses, he uses an AoE attack."
+    },
+    {
+     "chapterId": "41",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "42",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "43",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "44",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "45",
+     "chapterDesc": "*Crocodile is stationed at this outpost; every invader he defeats feeds his ambition\\nAt the start of battle, Crocodile gains a \"Charge\" buff, gaining stacks with each action\\nAfter many physical combo hits, Crocodile loses his Charge buff and gains physical Vulnerability\\nElemental damage speeds up Crocodile's charging\\nWhen fully charged, Crocodile unleashes a powerful AoE attack and gains damage reduction, then starts charging again"
+    },
+    {
+     "chapterId": "46",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "47",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "48",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "49",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "50",
+     "chapterDesc": "*Aokiji is stationed at this outpost; only strong challengers make him go all out\\nAokiji starts battle with an elemental shield that only takes fire damage. When it breaks, his team suffers elemental Vulnerability for some turns; when that ends, he regains the shield\\nFor every 10% HP his team loses, they gain a stack of Attack buff\\nWhen defeated, Aokiji gains a shield with some HP that only takes fire damage\\nIf that shield isn't broken within a set number of turns, Aokiji recovers his strength and full HP."
+    },
+    {
+     "chapterId": "51",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "52",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "53",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "54",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "55",
+     "chapterDesc": "*The Buggy Pirates occupy this outpost\\nDefeat the Buggy Pirates for lots of rewards."
+    },
+    {
+     "chapterId": "56",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "57",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "58",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "59",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "60",
+     "chapterDesc": "*The Kuro Pirates occupy this outpost\\nDefeat the Kuro Pirates for lots of rewards"
+    },
+    {
+     "chapterId": "61",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "62",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "63",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "64",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "65",
+     "chapterDesc": "*The Krieg Pirates occupy this outpost\\nAfter taking elemental damage, Krieg briefly gains all-element damage reduction\\nKrieg periodically shields himself; if the shield isn't broken in time, he recovers HP; if it's broken, he's weakened for one turn.\\nAfter turn 7, Krieg goes berserk and his Attack rises sharply."
+    },
+    {
+     "chapterId": "66",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "67",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "68",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "69",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "70",
+     "chapterDesc": "*The Arlong Pirates occupy this outpost\\nDefeat the Arlong Pirates for lots of rewards"
+    },
+    {
+     "chapterId": "71",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "72",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "73",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "74",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "75",
+     "chapterDesc": "*Hawk-Eye awaits strong challengers at this outpost\\nHawk-Eye is immune to player damage and control here\\nYou only need to survive until turn 6 to win\\nOn turns 1, 3 and 5, Hawk-Eye makes lethal attacks on players."
+    },
+    {
+     "chapterId": "76",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "77",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "78",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "79",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "80",
+     "chapterDesc": "*Mr.3 and Miss Goldenweek await captains' challenges at this outpost\\nEach time they take physical damage, they gain physical damage reduction\\nEach turn Miss Goldenweek colors uncolored allies (red/green). Each color must be hit with a different element to clear it and inflict an elemental Vulnerability buff; no color can be applied while that buff lasts\\nAttacking with the wrong element changes the target's color and stops a random character from acting next turn\\nIf players fail to clear colors for two turns in a row, Mr.3 gives all allies damage reduction and Attack buffs."
+    },
+    {
+     "chapterId": "81",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "82",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "83",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "84",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "85",
+     "chapterDesc": "*The Wapol Army occupies this outpost\\nThe Wapol Army gains elemental damage reduction when taking elemental damage\\nEnemies taking fatal damage don't leave the battlefield; they fall asleep and move to a random position.\\nSleeping units wake after one or two turns with full HP.\\nSleeping units can be defeated.\\nWhen a Wapol Army member is defeated, Wapol summons the sleeping ones\\nAfter 7 turns, both sides gain a large damage bonus."
+    },
+    {
+     "chapterId": "86",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "87",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "88",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "89",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "90",
+     "chapterDesc": "*Smoker is stationed at this outpost, ready to enforce his \"justice\" on invaders\\nSmoker has higher HP\\nAt the end of each turn, your max HP drops\\nAt the end of each turn, both sides gain a damage buff\\nBelow 15% HP, Smoker is unaffected by the per-turn HP loss rule\\nFor every 10% HP Smoker loses, he uses an AoE attack."
+    },
+    {
+     "chapterId": "91",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "92",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "93",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "94",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "95",
+     "chapterDesc": "*Crocodile is stationed at this outpost; every invader he defeats feeds his ambition\\nAt the start of battle, Crocodile gains a \"Charge\" buff, gaining stacks with each action\\nAfter many physical combo hits, Crocodile loses his Charge buff and gains physical Vulnerability\\nElemental damage speeds up Crocodile's charging\\nWhen fully charged, Crocodile unleashes a powerful AoE attack and gains damage reduction, then starts charging again"
+    },
+    {
+     "chapterId": "96",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "97",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "98",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "99",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "100",
+     "chapterDesc": "*Aokiji is stationed at this outpost; only strong challengers make him go all out\\nAokiji starts battle with an elemental shield that only takes fire damage. When it breaks, his team suffers elemental Vulnerability for some turns; when that ends, he regains the shield\\nFor every 10% HP his team loses, they gain a stack of Attack buff\\nWhen defeated, Aokiji gains a shield with some HP that only takes fire damage\\nIf that shield isn't broken within a set number of turns, Aokiji recovers his strength and full HP."
+    },
+    {
+     "chapterId": "101",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "102",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "103",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "104",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "105",
+     "chapterDesc": "*Franky and the shipwrights have taken this outpost\\nFranky's Attack, Defense and Speed are greatly boosted for the first three turns, and each enemy he defeats adds 50% damage to his skills next turn"
+    },
+    {
+     "chapterId": "106",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "107",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "108",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "109",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "110",
+     "chapterDesc": "*Blueno and the Marines occupy this outpost\\nBlueno's forces gain physical damage reduction and reflect physical damage when hit by physical skill damage. Blueno gains a shield for every 20% HP he loses; if it isn't broken, he recovers 20% max HP"
+    },
+    {
+     "chapterId": "111",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "112",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "113",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "114",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "115",
+     "chapterDesc": "*Garp and the Marines have taken the outpost\\nGarp gains physical and elemental damage reduction when hit by physical and elemental skill damage. His damage rises after each action."
+    },
+    {
+     "chapterId": "116",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "117",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "118",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "119",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "120",
+     "chapterDesc": "*Perona and the zombies have occupied the outpost\\nPerona becomes invincible after acting; it ends at the end of the turn, lowering her Speed somewhat"
+    },
+    {
+     "chapterId": "121",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "122",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "123",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "124",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "125",
+     "chapterDesc": "*Outpost Boss Battle Info\\nThis outpost's boss has high Evasion, and its skills lower players' Accuracy."
+    },
+    {
+     "chapterId": "126",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "127",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "128",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "129",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "130",
+     "chapterDesc": "*Outpost Boss Battle Info\\nThe boss has high physical damage; the fewer characters you deploy (including summons), the more damage it deals, and it deals True Damage."
+    },
+    {
+     "chapterId": "131",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "132",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "133",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "134",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "135",
+     "chapterDesc": "*Outpost Boss Battle Info\\nThe boss has high damage reduction, but when it attacks shielded characters, it takes reflected damage from them."
+    },
+    {
+     "chapterId": "136",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "137",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "138",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "139",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "140",
+     "chapterDesc": "*Outpost Boss Battle Info\\nThe boss stacks a damage buff on itself every turn, but being controlled resets its stacks."
+    },
+    {
+     "chapterId": "141",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "142",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "143",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "144",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "145",
+     "chapterDesc": "*Outpost Boss Battle Info\\nDefeated non-boss units in this outpost empower the boss; if you defeat all of them, the boss isn't empowered."
+    },
+    {
+     "chapterId": "146",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "147",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "148",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "149",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "150",
+     "chapterDesc": "*Outpost Boss Battle Info\\nThe boss has a minion in front, on the left and on the right.\\nFront minion: if it's defeated while other minions live, the boss's Attack and Defense double, it recovers 30% max HP at the end of each turn, and revives with 50% max HP on its first death\\nLeft minion: when defeated, lowers the boss's damage reduction and stuns it for one turn\\nRight minion: when defeated, boosts all player characters' damage and lowers the boss's Accuracy."
+    },
+    {
+     "chapterId": "151",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "152",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "153",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "154",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "155",
+     "chapterDesc": "*Franky and the shipwrights have taken this outpost\\nFranky's Attack, Defense and Speed are greatly boosted for the first three turns, and each enemy he defeats adds 50% damage to his skills next turn"
+    },
+    {
+     "chapterId": "156",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "157",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "158",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "159",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "160",
+     "chapterDesc": "*Blueno and the Marines occupy this outpost\\nBlueno's forces gain physical damage reduction and reflect physical damage when hit by physical skill damage. Blueno gains a shield for every 20% HP he loses; if it isn't broken, he recovers 20% max HP"
+    },
+    {
+     "chapterId": "161",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "162",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "163",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "164",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "165",
+     "chapterDesc": "*Garp and the Marines have taken the outpost\\nGarp gains physical and elemental damage reduction when hit by physical and elemental skill damage. His damage rises after each action."
+    },
+    {
+     "chapterId": "166",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "167",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "168",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "169",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "170",
+     "chapterDesc": "*Perona and the zombies have occupied the outpost\\nPerona becomes invincible after acting; it ends at the end of the turn, lowering her Speed somewhat"
+    },
+    {
+     "chapterId": "171",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "172",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "173",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "174",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "175",
+     "chapterDesc": "*Outpost Boss Battle Info\\nThis outpost's boss has high Evasion, and its skills lower players' Accuracy."
+    },
+    {
+     "chapterId": "176",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "177",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "178",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "179",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "180",
+     "chapterDesc": "*Outpost Boss Battle Info\\nThe boss has high physical damage; the fewer characters you deploy (including summons), the more damage it deals, and it deals True Damage."
+    },
+    {
+     "chapterId": "181",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "182",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "183",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "184",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "185",
+     "chapterDesc": "*Outpost Boss Battle Info\\nThe boss has high damage reduction, but when it attacks shielded characters, it takes reflected damage from them."
+    },
+    {
+     "chapterId": "186",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "187",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "188",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "189",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "190",
+     "chapterDesc": "*Outpost Boss Battle Info\\nThe boss stacks a damage buff on itself every turn, but being controlled resets its stacks."
+    },
+    {
+     "chapterId": "191",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "192",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "193",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "194",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "195",
+     "chapterDesc": "*Outpost Boss Battle Info\\nDefeated non-boss units in this outpost empower the boss; if you defeat all of them, the boss isn't empowered."
+    },
+    {
+     "chapterId": "196",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "197",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "198",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "199",
+     "chapterDesc": "*Defeat the enemies in an outpost for rewards and the right to challenge the next outpost"
+    },
+    {
+     "chapterId": "200",
+     "chapterDesc": "*Outpost Boss Battle Info\\nThe boss has a minion in front, on the left and on the right.\\nFront minion: if it's defeated while other minions live, the boss's Attack and Defense double, it recovers 30% max HP at the end of each turn, and revives with 50% max HP on its first death\\nLeft minion: when defeated, lowers the boss's damage reduction and stuns it for one turn\\nRight minion: when defeated, boosts all player characters' damage and lowers the boss's Accuracy."
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "chapterId": "1",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "2",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "3",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "4",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "6",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "7",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "8",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "9",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "11",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "12",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "13",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "14",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "16",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "17",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "18",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "19",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "21",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "22",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "23",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "24",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "26",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "27",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "28",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "29",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "31",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "32",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "33",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "34",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "36",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "37",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "38",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "39",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "41",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "42",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "43",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "44",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "46",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "47",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "48",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "49",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "51",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "52",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "53",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "54",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "56",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "57",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "58",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "59",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "61",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "62",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "63",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "64",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "66",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "67",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "68",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "69",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "71",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "72",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "73",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "74",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "76",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "77",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "78",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "79",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "81",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "82",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "83",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "84",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "86",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "87",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "88",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "89",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "91",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "92",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "93",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "94",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "96",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "97",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "98",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
+    },
+    {
+     "chapterId": "99",
+     "chapterDesc": "*Enemies in the outpost gain +30% resistance to all elemental damage"
     }
    ]
   },
@@ -34349,6 +36555,1241 @@
    "other_bundle_rows": [],
    "partial": "28/71 rows translated so far"
   },
+  "TableRaidSweepEpisode": {
+   "key_column": "sweepEpisodeId",
+   "text_columns": [
+    "episedDes"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "sweepEpisodeId": "1",
+     "episedDes": "Unlocks after clearing Chapter 1's story"
+    },
+    {
+     "sweepEpisodeId": "2",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "3",
+     "episedDes": "Unlocks after clearing Chapter 1's story"
+    },
+    {
+     "sweepEpisodeId": "4",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "5",
+     "episedDes": "Unlocks after clearing Chapter 1 on Easy"
+    },
+    {
+     "sweepEpisodeId": "6",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "7",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "8",
+     "episedDes": "Unlocks after clearing Chapter 1 on Hard"
+    },
+    {
+     "sweepEpisodeId": "9",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "10",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "11",
+     "episedDes": "Unlocks after clearing Chapter 2 on Easy"
+    },
+    {
+     "sweepEpisodeId": "12",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "13",
+     "episedDes": "Unlocks after clearing Chapter 2 on Hard"
+    },
+    {
+     "sweepEpisodeId": "14",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "15",
+     "episedDes": "Unlocks after clearing Chapter 3 on Easy"
+    },
+    {
+     "sweepEpisodeId": "16",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "17",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "18",
+     "episedDes": "Unlocks after clearing Chapter 3 on Hard"
+    },
+    {
+     "sweepEpisodeId": "19",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "20",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "21",
+     "episedDes": "Unlocks after clearing Chapter 4 on Easy"
+    },
+    {
+     "sweepEpisodeId": "22",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "23",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "24",
+     "episedDes": "Unlocks after clearing Chapter 4 on Hard"
+    },
+    {
+     "sweepEpisodeId": "25",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "26",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "27",
+     "episedDes": "Unlocks after clearing Chapter 5 on Easy"
+    },
+    {
+     "sweepEpisodeId": "28",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "29",
+     "episedDes": "Unlocks after clearing Chapter 5 on Hard"
+    },
+    {
+     "sweepEpisodeId": "30",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "31",
+     "episedDes": "Unlocks after clearing Chapter 6 on Easy"
+    },
+    {
+     "sweepEpisodeId": "32",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "33",
+     "episedDes": "Unlocks after clearing Chapter 6 on Hard"
+    },
+    {
+     "sweepEpisodeId": "34",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "35",
+     "episedDes": "Unlocks after clearing Chapter 7 on Easy"
+    },
+    {
+     "sweepEpisodeId": "36",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "37",
+     "episedDes": "Unlocks after clearing Chapter 7 on Hard"
+    },
+    {
+     "sweepEpisodeId": "38",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "39",
+     "episedDes": "Unlocks after clearing Chapter 8 on Easy"
+    },
+    {
+     "sweepEpisodeId": "40",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "41",
+     "episedDes": "Unlocks after clearing Chapter 8 on Hard"
+    },
+    {
+     "sweepEpisodeId": "42",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "43",
+     "episedDes": "Unlocks after clearing Chapter 9 on Easy"
+    },
+    {
+     "sweepEpisodeId": "44",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "45",
+     "episedDes": "Unlocks after clearing Chapter 9 on Hard"
+    },
+    {
+     "sweepEpisodeId": "46",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "47",
+     "episedDes": "Unlocks after clearing Chapter 10 on Easy"
+    },
+    {
+     "sweepEpisodeId": "48",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "49",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "50",
+     "episedDes": "Unlocks after clearing Chapter 10 on Hard"
+    },
+    {
+     "sweepEpisodeId": "51",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "52",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "53",
+     "episedDes": "Unlocks after clearing Chapter 11 on Easy"
+    },
+    {
+     "sweepEpisodeId": "54",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "55",
+     "episedDes": "Unlocks after clearing Chapter 11 on Hard"
+    },
+    {
+     "sweepEpisodeId": "56",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "57",
+     "episedDes": "Unlocks after clearing Chapter 12 on Easy"
+    },
+    {
+     "sweepEpisodeId": "58",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "59",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "60",
+     "episedDes": "Unlocks after clearing Chapter 12 on Hard"
+    },
+    {
+     "sweepEpisodeId": "61",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "62",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "63",
+     "episedDes": "Unlocks after clearing Chapter 13 on Easy"
+    },
+    {
+     "sweepEpisodeId": "64",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "65",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "66",
+     "episedDes": "Unlocks after clearing Chapter 13 on Hard"
+    },
+    {
+     "sweepEpisodeId": "67",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "68",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "69",
+     "episedDes": "Unlocks after clearing Chapter 14 on Easy"
+    },
+    {
+     "sweepEpisodeId": "70",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "71",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "72",
+     "episedDes": "Unlocks after clearing Chapter 14 on Hard"
+    },
+    {
+     "sweepEpisodeId": "73",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "74",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "75",
+     "episedDes": "Unlocks after clearing Chapter 15 on Easy"
+    },
+    {
+     "sweepEpisodeId": "76",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "77",
+     "episedDes": "Unlocks after clearing Chapter 15 on Hard"
+    },
+    {
+     "sweepEpisodeId": "78",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "79",
+     "episedDes": "Unlocks after clearing Chapter 16 on Easy"
+    },
+    {
+     "sweepEpisodeId": "80",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "81",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "82",
+     "episedDes": "Unlocks after clearing Chapter 16 on Hard"
+    },
+    {
+     "sweepEpisodeId": "83",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "84",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "85",
+     "episedDes": "Unlocks after clearing Chapter 17 on Easy"
+    },
+    {
+     "sweepEpisodeId": "86",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "87",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "88",
+     "episedDes": "Unlocks after clearing Chapter 17 on Hard"
+    },
+    {
+     "sweepEpisodeId": "89",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "90",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "91",
+     "episedDes": "Unlocks after clearing Chapter 18 on Easy"
+    },
+    {
+     "sweepEpisodeId": "92",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "95",
+     "episedDes": "Unlocks after clearing Chapter 18 on Hard"
+    },
+    {
+     "sweepEpisodeId": "96",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "97",
+     "episedDes": "Unlocks after clearing Chapter 19 on Easy"
+    },
+    {
+     "sweepEpisodeId": "98",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "99",
+     "episedDes": "Unlocks after clearing Chapter 19 on Hard"
+    },
+    {
+     "sweepEpisodeId": "100",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "101",
+     "episedDes": "Unlocks after clearing Chapter 20 on Easy"
+    },
+    {
+     "sweepEpisodeId": "102",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "103",
+     "episedDes": "Unlocks after clearing Chapter 20 on Hard"
+    },
+    {
+     "sweepEpisodeId": "104",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "105",
+     "episedDes": "Unlocks after clearing Chapter 21 on Easy"
+    },
+    {
+     "sweepEpisodeId": "106",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "107",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "108",
+     "episedDes": "Unlocks after clearing Chapter 21 on Hard"
+    },
+    {
+     "sweepEpisodeId": "109",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "110",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "111",
+     "episedDes": "Unlocks after clearing Chapter 22 on Easy"
+    },
+    {
+     "sweepEpisodeId": "112",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "113",
+     "episedDes": "Unlocks after clearing Chapter 22 on Hard"
+    },
+    {
+     "sweepEpisodeId": "114",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "115",
+     "episedDes": "Unlocks after clearing Chapter 23 on Easy"
+    },
+    {
+     "sweepEpisodeId": "116",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "117",
+     "episedDes": "Unlocks after clearing Chapter 23 on Hard"
+    },
+    {
+     "sweepEpisodeId": "118",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "119",
+     "episedDes": "Unlocks after clearing Chapter 24 on Easy"
+    },
+    {
+     "sweepEpisodeId": "120",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "121",
+     "episedDes": "Unlocks after clearing Chapter 24 on Hard"
+    },
+    {
+     "sweepEpisodeId": "122",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "123",
+     "episedDes": "Unlocks after clearing Chapter 25 on Easy"
+    },
+    {
+     "sweepEpisodeId": "124",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "125",
+     "episedDes": "Unlocks after clearing Chapter 25 on Hard"
+    },
+    {
+     "sweepEpisodeId": "126",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "127",
+     "episedDes": "Unlocks after clearing Chapter 26 on Easy"
+    },
+    {
+     "sweepEpisodeId": "128",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "129",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "130",
+     "episedDes": "Unlocks after clearing Chapter 26 on Hard"
+    },
+    {
+     "sweepEpisodeId": "131",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "132",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "133",
+     "episedDes": "Unlocks after clearing Chapter 27 on Easy"
+    },
+    {
+     "sweepEpisodeId": "134",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "135",
+     "episedDes": "Unlocks after clearing Chapter 27 on Hard"
+    },
+    {
+     "sweepEpisodeId": "136",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "137",
+     "episedDes": "Unlocks after clearing Chapter 28 on Easy"
+    },
+    {
+     "sweepEpisodeId": "138",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "139",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "140",
+     "episedDes": "Unlocks after clearing Chapter 28 on Hard"
+    },
+    {
+     "sweepEpisodeId": "141",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "142",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "143",
+     "episedDes": "Unlocks after clearing Chapter 29 on Easy"
+    },
+    {
+     "sweepEpisodeId": "144",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "145",
+     "episedDes": "Unlocks after clearing Chapter 29 on Hard"
+    },
+    {
+     "sweepEpisodeId": "146",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "147",
+     "episedDes": "Unlocks after clearing Chapter 30 on Easy"
+    },
+    {
+     "sweepEpisodeId": "148",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "149",
+     "episedDes": "Unlocks after clearing Chapter 30 on Hard"
+    },
+    {
+     "sweepEpisodeId": "150",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "151",
+     "episedDes": "Unlocks after clearing Chapter 31 on Easy"
+    },
+    {
+     "sweepEpisodeId": "152",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "153",
+     "episedDes": "Unlocks after clearing Chapter 31 on Hard"
+    },
+    {
+     "sweepEpisodeId": "154",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "155",
+     "episedDes": "Unlocks after clearing Chapter 32 on Easy"
+    },
+    {
+     "sweepEpisodeId": "156",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "157",
+     "episedDes": "Unlocks after clearing Chapter 32 on Hard"
+    },
+    {
+     "sweepEpisodeId": "158",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "159",
+     "episedDes": "Unlocks after clearing Chapter 33 on Easy"
+    },
+    {
+     "sweepEpisodeId": "160",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "161",
+     "episedDes": "Unlocks after clearing Chapter 33 on Hard"
+    },
+    {
+     "sweepEpisodeId": "162",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "163",
+     "episedDes": "Unlocks after clearing Chapter 34 on Easy"
+    },
+    {
+     "sweepEpisodeId": "164",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "165",
+     "episedDes": "Unlocks after clearing Chapter 34 on Hard"
+    },
+    {
+     "sweepEpisodeId": "166",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "167",
+     "episedDes": "Unlocks after clearing Chapter 35 on Easy"
+    },
+    {
+     "sweepEpisodeId": "168",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "169",
+     "episedDes": "Unlocks after clearing Chapter 35 on Hard"
+    },
+    {
+     "sweepEpisodeId": "170",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "171",
+     "episedDes": "Unlocks after clearing Chapter 36 on Easy"
+    },
+    {
+     "sweepEpisodeId": "172",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "173",
+     "episedDes": "Unlocks after clearing Chapter 36 on Hard"
+    },
+    {
+     "sweepEpisodeId": "174",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "175",
+     "episedDes": "Unlocks after clearing Chapter 37 on Easy"
+    },
+    {
+     "sweepEpisodeId": "176",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "177",
+     "episedDes": "Unlocks after clearing Chapter 37 on Hard"
+    },
+    {
+     "sweepEpisodeId": "178",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "179",
+     "episedDes": "Unlocks after clearing Chapter 38 on Easy"
+    },
+    {
+     "sweepEpisodeId": "180",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "181",
+     "episedDes": "Unlocks after clearing Chapter 38 on Hard"
+    },
+    {
+     "sweepEpisodeId": "182",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "183",
+     "episedDes": "Unlocks after clearing Chapter 39 on Easy"
+    },
+    {
+     "sweepEpisodeId": "184",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "185",
+     "episedDes": "Unlocks after clearing Chapter 39 on Hard"
+    },
+    {
+     "sweepEpisodeId": "186",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "187",
+     "episedDes": "Unlocks after clearing Chapter 40 on Easy"
+    },
+    {
+     "sweepEpisodeId": "188",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "189",
+     "episedDes": "Unlocks after clearing Chapter 40 on Hard"
+    },
+    {
+     "sweepEpisodeId": "190",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "191",
+     "episedDes": "Unlocks after clearing Chapter 41 on Easy"
+    },
+    {
+     "sweepEpisodeId": "192",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "193",
+     "episedDes": "Unlocks after clearing Chapter 41 on Hard"
+    },
+    {
+     "sweepEpisodeId": "194",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "195",
+     "episedDes": "Unlocks after clearing Chapter 42 on Easy"
+    },
+    {
+     "sweepEpisodeId": "196",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "197",
+     "episedDes": "Unlocks after clearing Chapter 42 on Hard"
+    },
+    {
+     "sweepEpisodeId": "198",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "199",
+     "episedDes": "Unlocks after clearing Chapter 43 on Easy"
+    },
+    {
+     "sweepEpisodeId": "200",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "201",
+     "episedDes": "Unlocks after clearing Chapter 43 on Hard"
+    },
+    {
+     "sweepEpisodeId": "202",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "203",
+     "episedDes": "Unlocks after clearing Chapter 44 on Easy"
+    },
+    {
+     "sweepEpisodeId": "204",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "205",
+     "episedDes": "Unlocks after clearing Chapter 44 on Hard"
+    },
+    {
+     "sweepEpisodeId": "206",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "207",
+     "episedDes": "Unlocks after clearing Chapter 45 on Easy"
+    },
+    {
+     "sweepEpisodeId": "208",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "209",
+     "episedDes": "Unlocks after clearing Chapter 45 on Hard"
+    },
+    {
+     "sweepEpisodeId": "210",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "211",
+     "episedDes": "Unlocks after clearing Chapter 46 on Easy"
+    },
+    {
+     "sweepEpisodeId": "212",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "213",
+     "episedDes": "Unlocks after clearing Chapter 46 on Hard"
+    },
+    {
+     "sweepEpisodeId": "214",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "215",
+     "episedDes": "Unlocks after clearing Chapter 47 on Easy"
+    },
+    {
+     "sweepEpisodeId": "216",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "217",
+     "episedDes": "Unlocks after clearing Chapter 47 on Hard"
+    },
+    {
+     "sweepEpisodeId": "218",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "219",
+     "episedDes": "Unlocks after clearing Chapter 48 on Easy"
+    },
+    {
+     "sweepEpisodeId": "220",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "221",
+     "episedDes": "Unlocks after clearing Chapter 48 on Hard"
+    },
+    {
+     "sweepEpisodeId": "222",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "223",
+     "episedDes": "Unlocks after clearing Chapter 49 on Easy"
+    },
+    {
+     "sweepEpisodeId": "224",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "225",
+     "episedDes": "Unlocks after clearing Chapter 49 on Hard"
+    },
+    {
+     "sweepEpisodeId": "226",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "227",
+     "episedDes": "Unlocks after clearing Chapter 50 on Easy"
+    },
+    {
+     "sweepEpisodeId": "228",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "229",
+     "episedDes": "Unlocks after clearing Chapter 50 on Hard"
+    },
+    {
+     "sweepEpisodeId": "230",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "231",
+     "episedDes": "Unlocks after clearing Chapter 51 on Easy"
+    },
+    {
+     "sweepEpisodeId": "232",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "233",
+     "episedDes": "Unlocks after clearing Chapter 51 on Hard"
+    },
+    {
+     "sweepEpisodeId": "234",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "235",
+     "episedDes": "Unlocks after clearing Chapter 52 on Easy"
+    },
+    {
+     "sweepEpisodeId": "236",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "237",
+     "episedDes": "Unlocks after clearing Chapter 52 on Hard"
+    },
+    {
+     "sweepEpisodeId": "238",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "239",
+     "episedDes": "Unlocks after clearing Chapter 53 on Easy"
+    },
+    {
+     "sweepEpisodeId": "240",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "241",
+     "episedDes": "Unlocks after clearing Chapter 53 on Hard"
+    },
+    {
+     "sweepEpisodeId": "242",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "243",
+     "episedDes": "Unlocks after clearing Chapter 54 on Easy"
+    },
+    {
+     "sweepEpisodeId": "244",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "245",
+     "episedDes": "Unlocks after clearing Chapter 54 on Hard"
+    },
+    {
+     "sweepEpisodeId": "246",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "247",
+     "episedDes": "Unlocks after clearing Chapter 55 on Easy"
+    },
+    {
+     "sweepEpisodeId": "248",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "249",
+     "episedDes": "Unlocks after clearing Chapter 55 on Hard"
+    },
+    {
+     "sweepEpisodeId": "250",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "251",
+     "episedDes": "Unlocks after clearing Chapter 56 on Easy"
+    },
+    {
+     "sweepEpisodeId": "252",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "253",
+     "episedDes": "Unlocks after clearing Chapter 56 on Hard"
+    },
+    {
+     "sweepEpisodeId": "254",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "255",
+     "episedDes": "Unlocks after clearing Chapter 57 on Easy"
+    },
+    {
+     "sweepEpisodeId": "256",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "257",
+     "episedDes": "Unlocks after clearing Chapter 57 on Hard"
+    },
+    {
+     "sweepEpisodeId": "258",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "259",
+     "episedDes": "Unlocks after clearing Chapter 58 on Easy"
+    },
+    {
+     "sweepEpisodeId": "260",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "261",
+     "episedDes": "Unlocks after clearing Chapter 58 on Hard"
+    },
+    {
+     "sweepEpisodeId": "262",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "263",
+     "episedDes": "Unlocks after clearing Chapter 59 on Easy"
+    },
+    {
+     "sweepEpisodeId": "264",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "265",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "266",
+     "episedDes": "Unlocks after clearing Chapter 59 on Hard"
+    },
+    {
+     "sweepEpisodeId": "267",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "268",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "269",
+     "episedDes": "Unlocks after clearing Chapter 60 on Easy"
+    },
+    {
+     "sweepEpisodeId": "270",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "271",
+     "episedDes": "Unlocks after clearing Chapter 60 on Hard"
+    },
+    {
+     "sweepEpisodeId": "272",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "273",
+     "episedDes": "Unlocks after clearing Chapter 61 on Easy"
+    },
+    {
+     "sweepEpisodeId": "274",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "275",
+     "episedDes": "Unlocks after clearing Chapter 61 on Hard"
+    },
+    {
+     "sweepEpisodeId": "276",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "277",
+     "episedDes": "Unlocks after clearing Chapter 62 on Easy"
+    },
+    {
+     "sweepEpisodeId": "278",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "279",
+     "episedDes": "Unlocks after clearing Chapter 62 on Hard"
+    },
+    {
+     "sweepEpisodeId": "280",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "281",
+     "episedDes": "Unlocks after clearing Chapter 63 on Easy"
+    },
+    {
+     "sweepEpisodeId": "282",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "283",
+     "episedDes": "Unlocks after clearing Chapter 63 on Hard"
+    },
+    {
+     "sweepEpisodeId": "284",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "285",
+     "episedDes": "Unlocks after clearing Chapter 64 on Easy"
+    },
+    {
+     "sweepEpisodeId": "286",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "287",
+     "episedDes": "Unlocks after clearing Chapter 64 on Hard"
+    },
+    {
+     "sweepEpisodeId": "288",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "289",
+     "episedDes": "Unlocks after clearing Chapter 65 on Easy"
+    },
+    {
+     "sweepEpisodeId": "290",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "291",
+     "episedDes": "Unlocks after clearing Chapter 65 on Hard"
+    },
+    {
+     "sweepEpisodeId": "292",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "293",
+     "episedDes": "Unlocks after clearing Chapter 66 on Easy"
+    },
+    {
+     "sweepEpisodeId": "294",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "295",
+     "episedDes": "Unlocks after clearing Chapter 66 on Hard"
+    },
+    {
+     "sweepEpisodeId": "296",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "297",
+     "episedDes": "Unlocks after clearing Chapter 67 on Easy"
+    },
+    {
+     "sweepEpisodeId": "298",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "299",
+     "episedDes": "Unlocks after clearing Chapter 67 on Hard"
+    },
+    {
+     "sweepEpisodeId": "300",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "301",
+     "episedDes": "Unlocks after clearing Chapter 68 on Easy"
+    },
+    {
+     "sweepEpisodeId": "302",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "303",
+     "episedDes": "Unlocks after clearing Chapter 68 on Hard"
+    },
+    {
+     "sweepEpisodeId": "304",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "305",
+     "episedDes": "Unlocks after clearing Chapter 69 on Easy"
+    },
+    {
+     "sweepEpisodeId": "306",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    },
+    {
+     "sweepEpisodeId": "307",
+     "episedDes": "Unlocks after clearing Chapter 69 on Hard"
+    },
+    {
+     "sweepEpisodeId": "308",
+     "episedDes": "Unlocks after clearing the previous episode on this difficulty"
+    }
+   ],
+   "other_bundle_rows": []
+  },
   "TableReturnSeaHero2D": {
    "key_column": "id",
    "text_columns": [
@@ -37765,6 +41206,566 @@
    ],
    "other_bundle_rows": []
   },
+  "TableSecretPlaceFightChpater": {
+   "key_column": "chapterId",
+   "text_columns": [
+    "chapterName",
+    "chapterDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "chapterId": "10111",
+     "chapterName": "Pirate Showdown",
+     "chapterDesc": "Lv60 Speed Difficulty 1"
+    },
+    {
+     "chapterId": "10112",
+     "chapterName": "Pirate Showdown",
+     "chapterDesc": "Lv60 Speed Difficulty 2"
+    },
+    {
+     "chapterId": "10113",
+     "chapterName": "Pirate Showdown",
+     "chapterDesc": "Lv60 Speed Difficulty 3"
+    },
+    {
+     "chapterId": "10211",
+     "chapterName": "Gods Descend",
+     "chapterDesc": "Lv80 Speed Difficulty 1"
+    },
+    {
+     "chapterId": "10212",
+     "chapterName": "Gods Descend",
+     "chapterDesc": "Lv80 Speed Difficulty 2"
+    },
+    {
+     "chapterId": "10213",
+     "chapterName": "Gods Descend",
+     "chapterDesc": "Lv80 Speed Difficulty 3"
+    },
+    {
+     "chapterId": "10311",
+     "chapterName": "Snowfield Showdown",
+     "chapterDesc": "Lv100 Speed Difficulty 1"
+    },
+    {
+     "chapterId": "10312",
+     "chapterName": "Snowfield Showdown",
+     "chapterDesc": "Lv100 Speed Difficulty 2"
+    },
+    {
+     "chapterId": "10313",
+     "chapterName": "Snowfield Showdown",
+     "chapterDesc": "Lv100 Speed Difficulty 3"
+    },
+    {
+     "chapterId": "20111",
+     "chapterName": "Grandpa on Vacation",
+     "chapterDesc": "Lv60 Damage 1 Difficulty 1"
+    },
+    {
+     "chapterId": "20112",
+     "chapterName": "Grandpa on Vacation",
+     "chapterDesc": "Lv60 Damage 1 Difficulty 2"
+    },
+    {
+     "chapterId": "20113",
+     "chapterName": "Grandpa on Vacation",
+     "chapterDesc": "Lv60 Damage 1 Difficulty 3"
+    },
+    {
+     "chapterId": "20121",
+     "chapterName": "Grandpa on Vacation",
+     "chapterDesc": "Lv80 Damage 1 Difficulty 1"
+    },
+    {
+     "chapterId": "20122",
+     "chapterName": "Grandpa on Vacation",
+     "chapterDesc": "Lv80 Damage 1 Difficulty 2"
+    },
+    {
+     "chapterId": "20123",
+     "chapterName": "Grandpa on Vacation",
+     "chapterDesc": "Lv80 Damage 1 Difficulty 3"
+    },
+    {
+     "chapterId": "20131",
+     "chapterName": "Grandpa on Vacation",
+     "chapterDesc": "Lv100 Damage 1 Difficulty 1"
+    },
+    {
+     "chapterId": "20132",
+     "chapterName": "Grandpa on Vacation",
+     "chapterDesc": "Lv100 Damage 1 Difficulty 2"
+    },
+    {
+     "chapterId": "20133",
+     "chapterName": "Grandpa on Vacation",
+     "chapterDesc": "Lv100 Damage 1 Difficulty 3"
+    },
+    {
+     "chapterId": "20211",
+     "chapterName": "Pond Beast",
+     "chapterDesc": "Lv60 Damage 2 Difficulty 1"
+    },
+    {
+     "chapterId": "20212",
+     "chapterName": "Pond Beast",
+     "chapterDesc": "Lv60 Damage 2 Difficulty 2"
+    },
+    {
+     "chapterId": "20213",
+     "chapterName": "Pond Beast",
+     "chapterDesc": "Lv60 Damage 2 Difficulty 3"
+    },
+    {
+     "chapterId": "20221",
+     "chapterName": "Pond Beast",
+     "chapterDesc": "Lv80 Damage 2 Difficulty 1"
+    },
+    {
+     "chapterId": "20222",
+     "chapterName": "Pond Beast",
+     "chapterDesc": "Lv80 Damage 2 Difficulty 2"
+    },
+    {
+     "chapterId": "20223",
+     "chapterName": "Pond Beast",
+     "chapterDesc": "Lv80 Damage 2 Difficulty 3"
+    },
+    {
+     "chapterId": "20231",
+     "chapterName": "Pond Beast",
+     "chapterDesc": "Lv100 Damage 2 Difficulty 1"
+    },
+    {
+     "chapterId": "20232",
+     "chapterName": "Pond Beast",
+     "chapterDesc": "Lv100 Damage 2 Difficulty 2"
+    },
+    {
+     "chapterId": "20233",
+     "chapterName": "Pond Beast",
+     "chapterDesc": "Lv100 Damage 2 Difficulty 3"
+    },
+    {
+     "chapterId": "20311",
+     "chapterName": "Relaxing Gorgon",
+     "chapterDesc": "Lv60 Damage 3 Difficulty 1"
+    },
+    {
+     "chapterId": "20312",
+     "chapterName": "Relaxing Gorgon",
+     "chapterDesc": "Lv60 Damage 3 Difficulty 2"
+    },
+    {
+     "chapterId": "20313",
+     "chapterName": "Relaxing Gorgon",
+     "chapterDesc": "Lv60 Damage 3 Difficulty 3"
+    },
+    {
+     "chapterId": "20321",
+     "chapterName": "Relaxing Gorgon",
+     "chapterDesc": "Lv80 Damage 3 Difficulty 1"
+    },
+    {
+     "chapterId": "20322",
+     "chapterName": "Relaxing Gorgon",
+     "chapterDesc": "Lv80 Damage 3 Difficulty 2"
+    },
+    {
+     "chapterId": "20323",
+     "chapterName": "Relaxing Gorgon",
+     "chapterDesc": "Lv80 Damage 3 Difficulty 3"
+    },
+    {
+     "chapterId": "20331",
+     "chapterName": "Relaxing Gorgon",
+     "chapterDesc": "Lv100 Damage 3 Difficulty 1"
+    },
+    {
+     "chapterId": "20332",
+     "chapterName": "Relaxing Gorgon",
+     "chapterDesc": "Lv100 Damage 3 Difficulty 2"
+    },
+    {
+     "chapterId": "20333",
+     "chapterName": "Relaxing Gorgon",
+     "chapterDesc": "Lv100 Damage 3 Difficulty 3"
+    },
+    {
+     "chapterId": "20411",
+     "chapterName": "Lost Minotaurus",
+     "chapterDesc": "Lv60 Damage 4 Difficulty 1"
+    },
+    {
+     "chapterId": "20412",
+     "chapterName": "Lost Minotaurus",
+     "chapterDesc": "Lv60 Damage 4 Difficulty 2"
+    },
+    {
+     "chapterId": "20413",
+     "chapterName": "Lost Minotaurus",
+     "chapterDesc": "Lv60 Damage 4 Difficulty 3"
+    },
+    {
+     "chapterId": "20421",
+     "chapterName": "Lost Minotaurus",
+     "chapterDesc": "Lv80 Damage 4 Difficulty 1"
+    },
+    {
+     "chapterId": "20422",
+     "chapterName": "Lost Minotaurus",
+     "chapterDesc": "Lv80 Damage 4 Difficulty 2"
+    },
+    {
+     "chapterId": "20423",
+     "chapterName": "Lost Minotaurus",
+     "chapterDesc": "Lv80 Damage 4 Difficulty 3"
+    },
+    {
+     "chapterId": "20431",
+     "chapterName": "Lost Minotaurus",
+     "chapterDesc": "Lv100 Damage 4 Difficulty 1"
+    },
+    {
+     "chapterId": "20432",
+     "chapterName": "Lost Minotaurus",
+     "chapterDesc": "Lv100 Damage 4 Difficulty 2"
+    },
+    {
+     "chapterId": "20433",
+     "chapterName": "Lost Minotaurus",
+     "chapterDesc": "Lv100 Damage 4 Difficulty 3"
+    },
+    {
+     "chapterId": "30111",
+     "chapterName": "Pirates' Revelry",
+     "chapterDesc": "Lv60 Survival 1 Difficulty 1"
+    },
+    {
+     "chapterId": "30112",
+     "chapterName": "Pirates' Revelry",
+     "chapterDesc": "Lv60 Survival 1 Difficulty 2"
+    },
+    {
+     "chapterId": "30113",
+     "chapterName": "Pirates' Revelry",
+     "chapterDesc": "Lv60 Survival 1 Difficulty 3"
+    },
+    {
+     "chapterId": "30121",
+     "chapterName": "Pirates' Revelry",
+     "chapterDesc": "Lv80 Survival 1 Difficulty 1"
+    },
+    {
+     "chapterId": "30122",
+     "chapterName": "Pirates' Revelry",
+     "chapterDesc": "Lv80 Survival 1 Difficulty 2"
+    },
+    {
+     "chapterId": "30123",
+     "chapterName": "Pirates' Revelry",
+     "chapterDesc": "Lv80 Survival 1 Difficulty 3"
+    },
+    {
+     "chapterId": "30131",
+     "chapterName": "Pirates' Revelry",
+     "chapterDesc": "Lv100 Survival 1 Difficulty 1"
+    },
+    {
+     "chapterId": "30132",
+     "chapterName": "Pirates' Revelry",
+     "chapterDesc": "Lv100 Survival 1 Difficulty 2"
+    },
+    {
+     "chapterId": "30133",
+     "chapterName": "Pirates' Revelry",
+     "chapterDesc": "Lv100 Survival 1 Difficulty 3"
+    },
+    {
+     "chapterId": "40111",
+     "chapterName": "Rainforest Sisters",
+     "chapterDesc": "Lv60 Survival Speed 1 Difficulty 1"
+    },
+    {
+     "chapterId": "40112",
+     "chapterName": "Rainforest Sisters",
+     "chapterDesc": "Lv60 Survival Speed 1 Difficulty 2"
+    },
+    {
+     "chapterId": "40113",
+     "chapterName": "Rainforest Sisters",
+     "chapterDesc": "Lv60 Survival Speed 1 Difficulty 3"
+    },
+    {
+     "chapterId": "40121",
+     "chapterName": "Rainforest Sisters",
+     "chapterDesc": "Lv80 Survival Speed 1 Difficulty 1"
+    },
+    {
+     "chapterId": "40122",
+     "chapterName": "Rainforest Sisters",
+     "chapterDesc": "Lv80 Survival Speed 1 Difficulty 2"
+    },
+    {
+     "chapterId": "40123",
+     "chapterName": "Rainforest Sisters",
+     "chapterDesc": "Lv80 Survival Speed 1 Difficulty 3"
+    },
+    {
+     "chapterId": "40131",
+     "chapterName": "Rainforest Sisters",
+     "chapterDesc": "Lv100 Survival Speed 1 Difficulty 1"
+    },
+    {
+     "chapterId": "40132",
+     "chapterName": "Rainforest Sisters",
+     "chapterDesc": "Lv100 Survival Speed 1 Difficulty 2"
+    },
+    {
+     "chapterId": "40133",
+     "chapterName": "Rainforest Sisters",
+     "chapterDesc": "Lv100 Survival Speed 1 Difficulty 3"
+    },
+    {
+     "chapterId": "50111",
+     "chapterName": "Shadow in the Chapel",
+     "chapterDesc": "Lv100 Three Admirals Difficulty 1"
+    },
+    {
+     "chapterId": "50112",
+     "chapterName": "Shadow in the Chapel",
+     "chapterDesc": "Lv100 Three Admirals Difficulty 2"
+    },
+    {
+     "chapterId": "50113",
+     "chapterName": "Shadow in the Chapel",
+     "chapterDesc": "Lv100 Three Admirals Difficulty 3"
+    },
+    {
+     "chapterId": "50211",
+     "chapterName": "Sand Hell",
+     "chapterDesc": "Lv100 Four Jailers Difficulty 1"
+    },
+    {
+     "chapterId": "50212",
+     "chapterName": "Sand Hell",
+     "chapterDesc": "Lv100 Four Jailers Difficulty 2"
+    },
+    {
+     "chapterId": "50213",
+     "chapterName": "Sand Hell",
+     "chapterDesc": "Lv100 Four Jailers Difficulty 3"
+    },
+    {
+     "chapterId": "50311",
+     "chapterName": "Desert Beast",
+     "chapterDesc": "Lv100 Sphinx Difficulty 1"
+    },
+    {
+     "chapterId": "50312",
+     "chapterName": "Desert Beast",
+     "chapterDesc": "Lv100 Sphinx Difficulty 2"
+    },
+    {
+     "chapterId": "50313",
+     "chapterName": "Desert Beast",
+     "chapterDesc": "Lv100 Sphinx Difficulty 3"
+    },
+    {
+     "chapterId": "11011",
+     "chapterName": "Chapel Speed Battle",
+     "chapterDesc": "Lv60 New Speed Difficulty 1"
+    },
+    {
+     "chapterId": "11012",
+     "chapterName": "Chapel Speed Battle",
+     "chapterDesc": "Lv60 New Speed Difficulty 2"
+    },
+    {
+     "chapterId": "11013",
+     "chapterName": "Chapel Speed Battle",
+     "chapterDesc": "Lv60 New Speed Difficulty 3"
+    },
+    {
+     "chapterId": "11021",
+     "chapterName": "Chapel Speed Battle",
+     "chapterDesc": "Lv80 New Speed Difficulty 1"
+    },
+    {
+     "chapterId": "11022",
+     "chapterName": "Chapel Speed Battle",
+     "chapterDesc": "Lv80 New Speed Difficulty 2"
+    },
+    {
+     "chapterId": "11023",
+     "chapterName": "Chapel Speed Battle",
+     "chapterDesc": "Lv80 New Speed Difficulty 3"
+    },
+    {
+     "chapterId": "11031",
+     "chapterName": "Chapel Speed Battle",
+     "chapterDesc": "Lv100 New Speed Difficulty 1"
+    },
+    {
+     "chapterId": "11032",
+     "chapterName": "Chapel Speed Battle",
+     "chapterDesc": "Lv100 New Speed Difficulty 2"
+    },
+    {
+     "chapterId": "11033",
+     "chapterName": "Chapel Speed Battle",
+     "chapterDesc": "Lv100 New Speed Difficulty 3"
+    },
+    {
+     "chapterId": "31011",
+     "chapterName": "Desert Survival",
+     "chapterDesc": "Lv60 New Survival Difficulty 1"
+    },
+    {
+     "chapterId": "31012",
+     "chapterName": "Desert Survival",
+     "chapterDesc": "Lv60 New Survival Difficulty 2"
+    },
+    {
+     "chapterId": "31013",
+     "chapterName": "Desert Survival",
+     "chapterDesc": "Lv60 New Survival Difficulty 3"
+    },
+    {
+     "chapterId": "31021",
+     "chapterName": "Desert Survival",
+     "chapterDesc": "Lv80 New Survival Difficulty 1"
+    },
+    {
+     "chapterId": "31022",
+     "chapterName": "Desert Survival",
+     "chapterDesc": "Lv80 New Survival Difficulty 2"
+    },
+    {
+     "chapterId": "31023",
+     "chapterName": "Desert Survival",
+     "chapterDesc": "Lv80 New Survival Difficulty 3"
+    },
+    {
+     "chapterId": "31031",
+     "chapterName": "Desert Survival",
+     "chapterDesc": "Lv100 New Survival Difficulty 1"
+    },
+    {
+     "chapterId": "31032",
+     "chapterName": "Desert Survival",
+     "chapterDesc": "Lv100 New Survival Difficulty 2"
+    },
+    {
+     "chapterId": "31033",
+     "chapterName": "Desert Survival",
+     "chapterDesc": "Lv100 New Survival Difficulty 3"
+    },
+    {
+     "chapterId": "61011",
+     "chapterName": "Meadow Endurance Battle",
+     "chapterDesc": "Lv60 New Skill Limit Difficulty 1"
+    },
+    {
+     "chapterId": "61012",
+     "chapterName": "Meadow Endurance Battle",
+     "chapterDesc": "Lv60 New Skill Limit Difficulty 2"
+    },
+    {
+     "chapterId": "61013",
+     "chapterName": "Meadow Endurance Battle",
+     "chapterDesc": "Lv60 New Skill Limit Difficulty 3"
+    },
+    {
+     "chapterId": "61021",
+     "chapterName": "Meadow Endurance Battle",
+     "chapterDesc": "Lv80 New Skill Limit Difficulty 1"
+    },
+    {
+     "chapterId": "61022",
+     "chapterName": "Meadow Endurance Battle",
+     "chapterDesc": "Lv80 New Skill Limit Difficulty 2"
+    },
+    {
+     "chapterId": "61023",
+     "chapterName": "Meadow Endurance Battle",
+     "chapterDesc": "Lv80 New Skill Limit Difficulty 3"
+    },
+    {
+     "chapterId": "61031",
+     "chapterName": "Meadow Endurance Battle",
+     "chapterDesc": "Lv100 New Skill Limit Difficulty 1"
+    },
+    {
+     "chapterId": "61032",
+     "chapterName": "Meadow Endurance Battle",
+     "chapterDesc": "Lv100 New Skill Limit Difficulty 2"
+    },
+    {
+     "chapterId": "61033",
+     "chapterName": "Meadow Endurance Battle",
+     "chapterDesc": "Lv100 New Skill Limit Difficulty 3"
+    }
+   ]
+  },
+  "TableSecretPlaceFightChpaterGroup": {
+   "key_column": "groupId",
+   "text_columns": [
+    "groupName",
+    "groupDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "groupId": "1101",
+     "groupName": "Chapel Speed Battle",
+     "groupDesc": "Lv60 New Speed"
+    },
+    {
+     "groupId": "1102",
+     "groupName": "Chapel Speed Battle",
+     "groupDesc": "Lv80 New Speed"
+    },
+    {
+     "groupId": "1103",
+     "groupName": "Chapel Speed Battle",
+     "groupDesc": "Lv100 New Speed"
+    },
+    {
+     "groupId": "3101",
+     "groupName": "Desert Survival",
+     "groupDesc": "Lv60 New Survival"
+    },
+    {
+     "groupId": "3102",
+     "groupName": "Desert Survival",
+     "groupDesc": "Lv80 New Survival"
+    },
+    {
+     "groupId": "3103",
+     "groupName": "Desert Survival",
+     "groupDesc": "Lv100 New Survival"
+    },
+    {
+     "groupId": "6101",
+     "groupName": "Meadow Endurance Battle",
+     "groupDesc": "Lv60 New Skill Limit"
+    },
+    {
+     "groupId": "6102",
+     "groupName": "Meadow Endurance Battle",
+     "groupDesc": "Lv80 New Skill Limit"
+    },
+    {
+     "groupId": "6103",
+     "groupName": "Meadow Endurance Battle",
+     "groupDesc": "Lv100 New Skill Limit"
+    }
+   ]
+  },
   "TableUSFFortress": {
    "key_column": "id",
    "text_columns": [
@@ -38071,6 +42072,11 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "id": "1",
+     "levelDesc": "Basic Stronghold",
+     "fortressDescription": "Fleets in the outpost gain +5% Defense; can be converted into other outpost types"
+    },
+    {
      "id": "2",
      "levelDesc": "Restores 11 HP per Second",
      "fortressDescription": "Fleets in the outpost restore 55 HP every 5s; doesn't stack with other HP regen effects"
@@ -38119,6 +42125,11 @@
      "id": "11",
      "levelDesc": "Restores 20 HP per Second",
      "fortressDescription": "Fleets in the outpost restore 100 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "12",
+     "levelDesc": "Buff Outpost",
+     "fortressDescription": "Gives fleets in the outpost a 10% stat boost for 90 seconds; the type of boost changes randomly every minute"
     },
     {
      "id": "13",
@@ -38271,6 +42282,46 @@
      "fortressDescription": "Fleets in the outpost gain Attack +15%; the first connected allied normal outpost also gains this effect"
     },
     {
+     "id": "43",
+     "levelDesc": "Base",
+     "fortressDescription": "A key Sea Battle building. Capturing the enemy base wins instantly; allied fleets can garrison it for defense"
+    },
+    {
+     "id": "44",
+     "levelDesc": "Dock Outpost",
+     "fortressDescription": "Every 60 seconds, produces a warship targeting the enemy HQ that self-destructs when defeated, damaging enemies."
+    },
+    {
+     "id": "45",
+     "levelDesc": "Tsunami Cannon Outpost",
+     "fortressDescription": "Every 5 seconds, automatically attacks all enemy warships on one connected route"
+    },
+    {
+     "id": "46",
+     "levelDesc": "Rally Outpost",
+     "fortressDescription": "Rallies auto-played player ships to this outpost, then charges other outposts."
+    },
+    {
+     "id": "47",
+     "levelDesc": "Tailwind Outpost",
+     "fortressDescription": "Tailwind outpost; affects allied players' movement speed on routes"
+    },
+    {
+     "id": "48",
+     "levelDesc": "Headwind Outpost",
+     "fortressDescription": "Headwind outpost; affects enemy players' movement speed on routes"
+    },
+    {
+     "id": "49",
+     "levelDesc": "Advanced Dock Outpost",
+     "fortressDescription": "Every 60 seconds, produces a warship targeting the enemy HQ that becomes a temporary cannon outpost on entering an outpost, attacking enemies on adjacent routes."
+    },
+    {
+     "id": "50",
+     "levelDesc": "Basic Stronghold",
+     "fortressDescription": "Fleets in the outpost gain +5% Defense; can be converted into other outpost types"
+    },
+    {
      "id": "51",
      "levelDesc": "Restores 11 HP per Second",
      "fortressDescription": "Fleets in the outpost restore 55 HP every 5s; doesn't stack with other HP regen effects"
@@ -38319,6 +42370,11 @@
      "id": "60",
      "levelDesc": "Restores 20 HP per Second",
      "fortressDescription": "Fleets in the outpost restore 100 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "61",
+     "levelDesc": "Buff Outpost",
+     "fortressDescription": "Gives fleets in the outpost a 10% stat boost for 90 seconds; the type of boost changes randomly every minute"
     },
     {
      "id": "62",
@@ -38469,9 +42525,43 @@
      "id": "91",
      "levelDesc": "Attack +15%",
      "fortressDescription": "Fleets in the outpost gain Attack +15%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "92",
+     "levelDesc": "Base",
+     "fortressDescription": "A key Sea Battle building. Capturing the enemy base wins instantly; allied fleets can garrison it for defense"
+    },
+    {
+     "id": "93",
+     "levelDesc": "Dock Outpost",
+     "fortressDescription": "Every 60 seconds, produces a warship targeting the enemy HQ that self-destructs when defeated, damaging enemies."
+    },
+    {
+     "id": "94",
+     "levelDesc": "Tsunami Cannon Outpost",
+     "fortressDescription": "Every 5 seconds, automatically attacks all enemy warships on one connected route"
+    },
+    {
+     "id": "95",
+     "levelDesc": "Rally Outpost",
+     "fortressDescription": "Rallies auto-played player ships to this outpost, then charges other outposts."
+    },
+    {
+     "id": "96",
+     "levelDesc": "Tailwind Outpost",
+     "fortressDescription": "Tailwind outpost; affects allied players' movement speed on routes"
+    },
+    {
+     "id": "97",
+     "levelDesc": "Headwind Outpost",
+     "fortressDescription": "Headwind outpost; affects enemy players' movement speed on routes"
+    },
+    {
+     "id": "98",
+     "levelDesc": "Advanced Dock Outpost",
+     "fortressDescription": "Every 60 seconds, produces a warship targeting the enemy HQ that becomes a temporary cannon outpost on entering an outpost, attacking enemies on adjacent routes."
     }
-   ],
-   "partial": "80/98 rows translated so far"
+   ]
   },
   "TableUnionBossTask": {
    "key_column": "id",
