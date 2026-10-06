@@ -24347,8 +24347,1188 @@
      "text": "Spend {0}{1} to create a fleet?"
     },
     {
+     "id": "ShipGroup_Text_04",
+     "text": "[Event Phases]\\nThe event has three phases:\\n1. Warm-up phase: 9/11 0:00 -- 9/11 14:00. Players can create fleets, invite others, leave fleets and remove players, but can't complete quests or earn personal points\\n\\n2. Active phase: 9/11 14:00 -- 9/26 0:00. Players can manage fleets, complete quests and join Fleet Trial to build points and compete for rank.\\n\\n3. Display phase: 9/26 0:00 -- 9/29 0:00. Players can claim completed quest rewards and view their rank but can't earn more points. Ranking rewards are sent around 0:00 on 9/29, and the event entrance closes\\n\\n\\n[How It Works]\\nGrand Fleet is a limited-time event where players form their own squads, complete event quests and join Fleet Trial to build points and compete for higher ranks\\n\\n[Create Fleet] Spend 100 Rainbow Diamonds to form your own fleet\\n\\n[Invite] Fleet creators can invite friends and guild members. Invitees can see invitations in the message notice at the top right of the event and join once they confirm.\\n\\n[Leave] You can leave your current fleet, but can't create or join another for 1 hour. If a fleet has only 1 member left, it disbands and no longer counts in the rankings\\n\\n[Remove] Fleet creators can remove 1 member from the fleet, then can't remove anyone again for 24 hours\\nNote: leaving or being removed doesn't affect fleet points, but your personal points are cleared and must be rebuilt after joining another fleet. Leaving/joining doesn't reset quest progress or completion\\n\\n[Fleet/Personal Points] Complete quests and use badges to earn personal points, which also add to your fleet's points\\n\\n[Badges] The event has two special items: Fleet Commemorative Badge (Gold) and Fleet Commemorative Badge (Silver). Both can be used straight from the Bag for 1 personal point. Gold badges can be gifted from the badge section on the right side of the event, and the recipient gets 1 Silver badge by mail. During the event, each player can gift up to 55 Silver badges to another player, and needs 200 personal points to gift\\n\\n[Quests] Once the event officially starts, earn points by completing quests, which come in these types:\\nDaily quests: reset daily at 0:00\\nWeekly quests: reset every Monday at 0:00\\nEvent quests && Fleet quests: don't reset during the event and can be completed only 1 time; Fleet quests are completed by joining Fleet Trial\\nComplete the set number of quests to claim extra rewards from the progress bar below"
+    },
+    {
+     "id": "ShipGroup_Text_05",
+     "text": "Not enough Fleet Commemorative Badges (Gold)"
+    },
+    {
+     "id": "ShipGroup_Text_06",
+     "text": "Leave Fleet"
+    },
+    {
+     "id": "ShipGroup_Text_07",
+     "text": "Leave your current fleet?\\n<color=#a32e00>Note: leaving clears your personal points, and quest progress won't reset. Think carefully!"
+    },
+    {
+     "id": "ShipGroup_Text_08",
+     "text": "Remove from Fleet"
+    },
+    {
+     "id": "ShipGroup_Text_09",
+     "text": "Remove this player from the fleet?"
+    },
+    {
+     "id": "ShipGroup_Text_10",
+     "text": "Player {0} joined the fleet"
+    },
+    {
+     "id": "ShipGroup_Text_11",
+     "text": "Player {0} left the fleet"
+    },
+    {
+     "id": "ShipGroup_Text_12",
+     "text": "Your fleet rose to Rank {0}. Keep it up!"
+    },
+    {
+     "id": "ShipGroup_Text_13",
+     "text": "Player {0} invited you to join their fleet"
+    },
+    {
+     "id": "ShipGroup_Text_14",
+     "text": "Joined the fleet"
+    },
+    {
+     "id": "ShipGroup_Text_16",
+     "text": "You're already in a fleet and can't join another"
+    },
+    {
+     "id": "ShipGroup_Text_17",
+     "text": "Fleet name is too long. Please change it"
+    },
+    {
+     "id": "ShipGroup_Text_18",
+     "text": "Invitation sent"
+    },
+    {
+     "id": "ShipGroupTrialBossNoBuff",
+     "text": "This boss has no special buffs"
+    },
+    {
+     "id": "ShipGroupTrialClearState",
+     "text": "Settling. Can't challenge the boss right now"
+    },
+    {
+     "id": "ShipGroupTrialCostLessthan",
+     "text": "Not enough Trial Proofs to challenge the boss"
+    },
+    {
+     "id": "ShipGroupTrialCostContent",
+     "text": "Spend {0} to buy a Trial Proof?"
+    },
+    {
+     "id": "ShipRegimentsTrial_Explain",
+     "text": "[How It Works]\\nIn Fleet Trial, players take on bosses as a fleet, competing for rank with higher damage records\\n\\n[Bosses]\\nDuring the event, 1 boss rotates every 2 days. From 0:00 on the first day to 23:00 the next day is challenge time, when you can challenge the boss repeatedly for damage records; from 23:00 to 24:00 on the second day the boss is settled and can't be challenged (KOC periods may be adjusted)\\nEach boss has certain traits; building lineups around them helps deal more damage\\n\\n[Challenges]\\nEach boss challenge costs 1 Trial Proof\\nIt refills to 5 daily and can also be bought, with the price rising with each daily purchase\\nAfter each challenge, you can choose to save that battle record or keep your previous one; the boss is settled using your saved record\\nFor easy comparison, boss damage converts to Battle Score at 1:10000000, rounded down\\n\\n[Buffs and Duplicate Heroes]\\nEvery boss except the first has several powerful buffs; activating them greatly boosts combat power and helps deal more damage\\nThe fewer duplicate heroes used in fleet members' battle records against the current boss, the more buffs can be activated for the next boss (buffs activate automatically from top to bottom, no manual activation needed). See the help in \"Records\" for details. Talk with your fleetmates and use as many different characters as possible!\\n\\n[Rankings]\\nAfter the last boss, total Battle Score across all bosses decides the rankings and rewards\\nPoints from ranking rewards are added directly to the fleet's total points, not to personal points\\n\\n[Other]\\nFleet member changes don't affect finished boss records; records for the boss in progress change accordingly"
+    },
+    {
+     "id": "ShipRegimentsTrial_NoChallenge",
+     "text": "Not challenged yet"
+    },
+    {
+     "id": "ShipRegimentsTrial_DamageToScore",
+     "text": "10 million damage = 1 Battle Score, rounded down"
+    },
+    {
+     "id": "AccruedCharge_Text1",
+     "text": "This reward can only be earned once per account. Continue?"
+    },
+    {
+     "id": "AccruedCharge_Text2",
+     "text": "Your piggy bank has been sent. Claim it from your mailbox"
+    },
+    {
+     "id": "AccruedCharge_Text3",
+     "text": "Your piggy bank is still being made. Please wait a while"
+    },
+    {
+     "id": "AccruedCharge_Text4",
+     "text": "Web top-ups don't count toward the total if you didn't log in to any character before the event started"
+    },
+    {
+     "id": "AccruedCharge_Text5",
+     "text": "The total top-up amount is calculated up to the event start. When the event ends, claim your savings bonus on this screen; it's sent by mail"
+    },
+    {
+     "id": "AccruedCharge_Text6",
+     "text": "[Savings Bonus] = account's total historical top-up across all characters*10*{0}"
+    },
+    {
+     "id": "AccruedCharge_Text7",
+     "text": "[Under 1 Diamond] Rainbow Diamond remainders round up by 1"
+    },
+    {
+     "id": "AccruedCharge_Text8",
+     "text": "[Bonus Cap] The savings bonus cap in this version is {0} Rainbow Diamonds"
+    },
+    {
+     "id": "AccruedCharge_Text9",
+     "text": "Total top-up: ¥{0}"
+    },
+    {
+     "id": "AccruedCharge_Text10",
+     "text": "Piggy bank Rainbow Diamonds: {0}"
+    },
+    {
+     "id": "AccruedCharge_Text11",
+     "text": "A character on your account has already claimed this reward; each account can claim it only 1 time"
+    },
+    {
+     "id": "CelebrationServer_tips2",
+     "text": "First Clear Reward"
+    },
+    {
+     "id": "CelebrationServer_tips3",
+     "text": "Rank {0}-{1} Clear Reward"
+    },
+    {
+     "id": "CelebrationServer_tips4",
+     "text": "Before {0}/{1},\\nreach Lv{2}"
+    },
+    {
+     "id": "CelebrationServer_tips5",
+     "text": "Event Time: {0:00}/{1:00} {2:00}:{3:00}-{4:00}/{5:00} {6:00}:{7:00}"
+    },
+    {
+     "id": "CelebrationServer_tips7",
+     "text": "As of {0:00}/{1:00} {2:00}:{3:00}, the Power ranking top ten get:"
+    },
+    {
+     "id": "CelebrationServer_tips8",
+     "text": "As of {0:00}/{1:00} {2:00}:{3:00}, Power ranking Rank {0}-{1} get"
+    },
+    {
+     "id": "CelebrationServer_tips9",
+     "text": "As of {0:00}/{1:00} {2:00}:{3:00}, Guild ranking Rank {1} gets"
+    },
+    {
+     "id": "CelebrationServer_tips10",
+     "text": "As of {0:00}/{1:00} {2:00}:{3:00}, Guild ranking Rank {0}-{1} get"
+    },
+    {
+     "id": "CelebrationServer_tips11",
+     "text": "As of {0:00}/{1:00} {2:00}:{3:00}, Ladder ranking Rank {1} gets"
+    },
+    {
+     "id": "CelebrationServer_tips12",
+     "text": "As of {0:00}/{1:00} {2:00}:{3:00}, Ladder ranking Rank {0}-{1} get"
+    },
+    {
+     "id": "TownPage_qiehuan",
+     "text": "Switch"
+    },
+    {
+     "id": "ACLevelChallengeDesc",
+     "text": "Reach the set levels before 10/17 to claim rewards!"
+    },
+    {
+     "id": "ACRankChallengeDesc",
+     "text": "Rankings close at 0:00 on 10/17. Compete for the top of each ranking!\\nThe Power ranking is by Power, the Ladder ranking by Ladder points, the Gallery ranking by Legends activated, and the Guild ranking by members' total activity, earned from Pass quests."
+    },
+    {
+     "id": "ACPlotChallengeDesc",
+     "text": "Be the first to clear stages for rewards!"
+    },
+    {
+     "id": "ActivityWeekPVP_Text1",
+     "text": "Streak ends after {0} losses ({1}/{2})"
+    },
+    {
+     "id": "ActivityWeekPVP_Text2",
+     "text": "You've completed all win streak quests!"
+    },
+    {
+     "id": "Opdex_tips1",
+     "text": "You already have the right to use this equipment"
+    },
+    {
+     "id": "Opdex_tips2",
+     "text": "You don't have the right to use this title yet"
+    },
+    {
+     "id": "Opdex_tips3",
+     "text": "Title expired"
+    },
+    {
+     "id": "Opdex_tips4",
+     "text": "Time left {0}"
+    },
+    {
+     "id": "HC_BattleInfo_2269",
+     "text": "<color=#a32e00>Unyielding</color>\\nMonsters gain 5% Tenacity at the end of their turn"
+    },
+    {
+     "id": "HC_BattleInfo_2270",
+     "text": "<color=#a32e00>Seize the Initiative</color>\\nEnemies take 95% less damage from characters slower than them"
+    },
+    {
+     "id": "HC_BattleInfo_2271",
+     "text": "<color=#a32e00>Violence</color>\\nMonsters' crit +30%, crit damage +100%"
+    },
+    {
+     "id": "HC_BattleInfo_2272",
+     "text": "<color=#a32e00>Restraint</color>\\nMonsters' Tenacity +40%, crit damage taken +80%"
+    },
+    {
      "id": "HC_BattleInfo_2273",
      "text": "<color=#a32e00>Unyielding</color>\\nMonsters gain 10% Tenacity at the end of their turn"
+    },
+    {
+     "id": "HC_BattleInfo_2274",
+     "text": "<color=#a32e00>Violence</color>\\nMonsters' crit +50%, crit damage +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2275",
+     "text": "<color=#a32e00>Restraint</color>\\nMonsters' Tenacity +80%, crit damage taken +120%"
+    },
+    {
+     "id": "HC_TaskTitle_71",
+     "text": "Deploy Kid & Law +120 pts"
+    },
+    {
+     "id": "UI_cangbao",
+     "text": "Treasure Coins"
+    },
+    {
+     "id": "item_cangbao_desc",
+     "text": "A very precious currency, used to buy goods at the Old Storehouse."
+    },
+    {
+     "id": "SuperSoulOverHaulTitle",
+     "text": "Overload Refinement Value"
+    },
+    {
+     "id": "SuperSoulOverHaulChance",
+     "text": "Overload Rate"
+    },
+    {
+     "id": "SuperSoulOverHaulAtOne",
+     "text": "Overload Refinement"
+    },
+    {
+     "id": "SuperSoulOverHaulAtFive",
+     "text": "Overload Refinement x5"
+    },
+    {
+     "id": "SuperSoulOverHaulUseful",
+     "text": "*$<size=30>Overload Soul Infusion:</size>*\\nEach Super Refinement gives Overload; each Overload Refinement spends it.\\n*Overload Mode:\\nIn Super Soul Infusion mode, once Overload exceeds 100% you enter Overload Soul Infusion mode, where rare traits are much more likely but no Overload is gained. Excess Overload when entering is added back once you exit the mode (Overload at 0).\\nTap the plus next to the charge value to use Charge Stones for quick charge. In this mode, once Overload drops to 0%, you return to Super Soul Infusion mode.\\n*Tap Overload Rates to see the current odds for each rarity and type."
+    },
+    {
+     "id": "SuperSoulOverHaulChanceDtail",
+     "text": "Detailed Rates"
+    },
+    {
+     "id": "SuperSoulOverHaulOpen",
+     "text": "Overload Active"
+    },
+    {
+     "id": "SuperSoulRollAtOne",
+     "text": "Refine"
+    },
+    {
+     "id": "SuperSoulRollAtFive",
+     "text": "Refine x5"
+    },
+    {
+     "id": "ReIdentifyOverloadHelp",
+     "text": "Overload Reforge Info:\\n[Reforge] Each reforge builds up some charge progress.\\n\\n[Build-Up] When charge progress reaches 100%, you enter Overload mode.\\n\\n[Spend] In Overload mode, each reforge has a higher chance of better stats.\\n\\n[Cycle] In Overload mode, each reforge spends charge; at 0% you switch back to normal mode.\\n\\n[Overflow] If luck is above 100% when entering Overload mode, the excess is kept until you return to normal mode.\\n\\n[Other] Overload mode's rate boost grows further with a piece of equipment's total Overload reforges (normal reforges don't stack this; counts are tracked per piece, and same-name equipment doesn't inherit them)\\n\\nOverload rate boosts don't apply to UR equipment. UR reforges still build charge progress normally but don't spend charge in Overload mode"
+    },
+    {
+     "id": "ReIdentifyOverloadConfirm",
+     "text": "You're in Overload Reforge mode. This will spend {0}% Overload progress for a special reforge with a high chance of advanced stats. Continue?"
+    },
+    {
+     "id": "LuckyItemCost",
+     "text": "Spend 1 {0} to charge {1} Overload"
+    },
+    {
+     "id": "ShipGroupDefaultName",
+     "text": "{0}'s Grand Fleet"
+    },
+    {
+     "id": "ShipSkillRepair_Explain",
+     "text": "Refinement Luck Info:\\n[Refine] Besides Talent/Resonance skills, each refinement gives some Luck.\\n\\n[Build-Up] When Talent/Resonance Luck reaches 100%, you enter Lucky mode.\\n\\n[Spend] In Lucky mode, each refinement has a higher chance of better skills.\\n\\n[Cycle] In Lucky mode, each refinement spends Luck; at 0% you switch back to normal mode.\\n\\n[Overflow] If Luck is above 100% when entering Lucky mode, the excess is kept until you return to normal mode."
+    },
+    {
+     "id": "ShipGroup_Text_19",
+     "text": "Available after 9/11; all quest progress refreshes daily at 00:00"
+    },
+    {
+     "id": "ShipGroup_Text_20",
+     "text": "Available after 9/11; all quest progress refreshes every Monday at 00:00"
+    },
+    {
+     "id": "ShipGroup_Text_21",
+     "text": "Available after 9/11; quests don't refresh during the event"
+    },
+    {
+     "id": "ShipGroup_Text_22",
+     "text": "Mailed after rankings close at 0:00 on 9/29"
+    },
+    {
+     "id": "ShipGroup_Text_23",
+     "text": "Fleet total points: {0}"
+    },
+    {
+     "id": "ShipGroup_Text_24",
+     "text": "Points: {0}"
+    },
+    {
+     "id": "ShipGroup_Text_25",
+     "text": "Join any fleet to unlock this feature"
+    },
+    {
+     "id": "ShipGroup_Text_26",
+     "text": "Opens after the warm-up phase"
+    },
+    {
+     "id": "ShipGroup_Text_27",
+     "text": "Warm-up phase time left: {0}"
+    },
+    {
+     "id": "ShipGroup_Text_28",
+     "text": "Active phase time left: {0}"
+    },
+    {
+     "id": "ShipGroup_Text_29",
+     "text": "Display phase time left: {0}"
+    },
+    {
+     "id": "WeekendVictories_Explain",
+     "text": "Event period: 12/4-12/17\\Build win streaks to earn rewards based on streak count. A streak breaks after 4 total losses; streak and loss counts then reset to zero."
+    },
+    {
+     "id": "EquipResonance_Text_1",
+     "text": "Resonance locked"
+    },
+    {
+     "id": "EquipResonance_Text_2",
+     "text": "Can Resonate"
+    },
+    {
+     "id": "EquipResonance_Text_3",
+     "text": "Resonated"
+    },
+    {
+     "id": "EquipResonance_Text_4",
+     "text": "Lv{1} Resonance unlocks at refine {0}"
+    },
+    {
+     "id": "EquipResonance_Text_5",
+     "text": "Unlock Lv{0} Resonance"
+    },
+    {
+     "id": "EquipResonance_Text_8",
+     "text": "Unlock refine level {0}"
+    },
+    {
+     "id": "EquipResonance_Text_9",
+     "text": "Lv{0} Resonance"
+    },
+    {
+     "id": "EquipResonance_Text_10",
+     "text": "Guaranteed success in {0} more tries"
+    },
+    {
+     "id": "EquipResonance_tips1",
+     "text": "Equipment Resonance Info:\\n\\nEquipment that can resonate: Dark Flame, Wild Hunt, Heavy Armor, Stealth, Liberator\\n\\nAt refine Lv25/30, equipment opens its Lv1 and Lv2 resonance slots respectively; spend materials to try activating them. Opening a slot gives one free resonance attempt automatically.\\n\\nActivating a resonance slot has a certain chance; after several failures the next try always succeeds.\\n\\nActivated slots give fixed, non-random stats, though they may differ between pieces of equipment\\n\\nSlots must be activated in order: the Lv1 slot must be activated before trying the Lv2 slot\\n\\nOnce all four pieces of a set unlock Lv2 resonance, the set can enter Equipment Attunement from its entry in Legends!"
+    },
+    {
+     "id": "EquipPromotion_tips1",
+     "text": "Equipment Promotion Info:\\n\\nEquipment that can be promoted: Dark Flame, Wild Hunt, Heavy Armor, Stealth, Liberator\\n\\nSome equipment can be promoted once upgraded to 120, by spending materials.\\n\\nAfter 2 promotions, the refine cap rises to 25; after 4, it rises to 30\\n\\nEquipment promotion requires a certain player level."
+    },
+    {
+     "id": "AutoRepairCantStart",
+     "text": "Can't start auto-refine"
+    },
+    {
+     "id": "AutoRepairShipNoSelect",
+     "text": "Choose conditions first"
+    },
+    {
+     "id": "AutoRepairEqiupSelectSame",
+     "text": "Duplicate stats can't be selected. Please change them"
+    },
+    {
+     "id": "AutoRepairSuperState",
+     "text": "You're in Overload mode. Can't start auto-refine"
+    },
+    {
+     "id": "AutoRepairItemNotEnnough",
+     "text": "Not enough items. Auto-refine stopped"
+    },
+    {
+     "id": "AutoRepairGetTarget",
+     "text": "Target trait obtained. Auto-refine stopped"
+    },
+    {
+     "id": "AutoRepairPlayStop",
+     "text": "Auto-refine stopped"
+    },
+    {
+     "id": "AutoRepairToMaxNum",
+     "text": "Refine limit reached. Auto-refine stopped"
+    },
+    {
+     "id": "AutoRepairEnterLucky",
+     "text": "Entered Overload mode. Auto-refine stopped"
+    },
+    {
+     "id": "AutoRepairMonthCard",
+     "text": "This feature requires the Trade Pass. Go buy it?"
+    },
+    {
+     "id": "AutoRepairUREquip",
+     "text": "UR equipment can't use auto-refine"
+    },
+    {
+     "id": "desperateChallenge_tips1",
+     "text": "Switch to auto battle to skip the battle"
+    },
+    {
+     "id": "ChargeEnergyTitle",
+     "text": "Charge"
+    },
+    {
+     "id": "ChargeEnergyUse",
+     "text": "Spend {0} {1} to charge {2}%"
+    },
+    {
+     "id": "HC_BattleInfo_2276",
+     "text": "<color=#a32e00>Void Power</color>\\nMonsters' Evasion +50%"
+    },
+    {
+     "id": "HC_BattleInfo_2277",
+     "text": "<color=#a32e00>Restraint</color>\\nMonsters' Tenacity +40%, crit damage taken +80%"
+    },
+    {
+     "id": "HC_BattleInfo_2278",
+     "text": "<color=#a32e00>At a Loss</color>\\nAll damage taken from non-Finisher, non-Ultimate skills +50%"
+    },
+    {
+     "id": "HC_BattleInfo_2279",
+     "text": "<color=#a32e00>Power of the Pack</color>\\nEach surviving monster gives all monsters +5% final damage reduction"
+    },
+    {
+     "id": "HC_BattleInfo_2280",
+     "text": "<color=#a32e00>Void Power</color>\\nMonsters' Evasion +100%"
+    },
+    {
+     "id": "HC_BattleInfo_2281",
+     "text": "<color=#a32e00>Restraint</color>\\nMonsters' Tenacity +80%, crit damage taken +120%"
+    },
+    {
+     "id": "HC_BattleInfo_2282",
+     "text": "<color=#a32e00>Power of the Pack</color>\\nEach surviving monster gives all monsters +8% final damage reduction"
+    },
+    {
+     "id": "HC_TaskTitle_72",
+     "text": "Deploy Jewelry Bonney +120 pts"
+    },
+    {
+     "id": "desperateChallenge_tips2",
+     "text": "This character has already been used today"
+    },
+    {
+     "id": "desperateChallenge_tips3",
+     "text": "No challenges left today"
+    },
+    {
+     "id": "desperateChallenge_tips4",
+     "text": "Characters and equipment used can't be used again in today's Abyss Challenge. Challenges left today {0}/{1}"
+    },
+    {
+     "id": "desperateChallenge_tips5",
+     "text": "In a trial challenge you can fight any boss; its difficulty matches the real challenge."
+    },
+    {
+     "id": "desperateChallenge_tips6",
+     "text": "Not enough team members"
+    },
+    {
+     "id": "desperateChallenge_tips9",
+     "text": "New Abyss Challenge Info:\\n\\nNew Abyss Challenge is a guild-based mode. Players must be Lv60 and in a guild to join, and guildmates share progress.\\n\\nThe event lasts three weeks. Thursday to the following Monday are battle days; Tuesday and Wednesday are rest and settlement days.\\n\\nBuild different lineups to take on the bosses in turn. Each player can challenge 3 times a day, each with a different lineup. Characters used can't be used again that day, and reusing equipment that day lowers damage on that challenge as a penalty. Attempts reset daily at 00:00\\n\\nIn the first week, guilds that defeat more than 50 bosses move up to S Tier for the next week; other guilds go to A Tier. S Tier starts directly from the second difficulty stage at the start of weeks two and three!\\n\\nIn the second week, the top 20 guilds in S Tier move up to SS Tier for the next week, and the top 20 guilds in A Tier move up to S Tier. SS Tier starts directly from the third difficulty stage at the start of week three!\\n\\nProgress resets weekly and settles on Wednesday. Week one rewards are based on bosses defeated; weeks two and three are based on the guild's rank in its tier. (Leaving the guild early may forfeit settlement rewards.) Each challenge also gives some rewards.\\n\\nOn battle days, players above Lv60 can't leave or be removed from their guild; this doesn't apply on rest days.\\n\\nTrial challenges don't use attempts, so you can test lineups there.\\n\\nYou can skip battles; they're settled as auto-battles."
+    },
+    {
+     "id": "desperateChallenge_tips10",
+     "text": "Bosses Defeated"
+    },
+    {
+     "id": "desperateChallenge_tips11",
+     "text": "Guild Rank Rewards"
+    },
+    {
+     "id": "desperateChallenge_tips12",
+     "text": "{0}+"
+    },
+    {
+     "id": "desperateChallenge_tips13",
+     "text": "{0}-{1}"
+    },
+    {
+     "id": "desperateChallenge_tips14",
+     "text": "Stage 1"
+    },
+    {
+     "id": "desperateChallenge_tips15",
+     "text": "Stage 2"
+    },
+    {
+     "id": "desperateChallenge_tips16",
+     "text": "Stage 3"
+    },
+    {
+     "id": "desperateChallenge_tips17",
+     "text": "Stage 4"
+    },
+    {
+     "id": "desperateChallenge_tips18",
+     "text": "Stage 5"
+    },
+    {
+     "id": "desperateChallenge_tips19",
+     "text": "Stage 6"
+    },
+    {
+     "id": "desperateChallenge_tips20",
+     "text": "Equipment used can't be used again in today's Abyss Challenge. Fighting with this lineup incurs a penalty that may reduce damage in this battle."
+    },
+    {
+     "id": "desperateChallenge_tips21",
+     "text": "Personal"
+    },
+    {
+     "id": "desperateChallenge_tips22",
+     "text": "The event closes at 23:00 on 8/20"
+    },
+    {
+     "id": "desperateChallenge_tips23",
+     "text": "Defeated {0} bosses in total (resets weekly)"
+    },
+    {
+     "id": "desperateChallenge_tips24",
+     "text": "This lineup includes characters already used today. Can't deploy"
+    },
+    {
+     "id": "EquipResonance_Text_11",
+     "text": "Player level too low"
+    },
+    {
+     "id": "RememberPhotoUseful",
+     "text": "*Get moments recorded on your journey through various events and sources\\n*Activated images can be exchanged for Image Points in the Gallery."
+    },
+    {
+     "id": "Choose_Refine_11",
+     "text": "Choose equipment to promote"
+    },
+    {
+     "id": "Choose_Refine_12",
+     "text": "Choose equipment to resonate"
+    },
+    {
+     "id": "Space_Resonanc",
+     "text": "Resonate"
+    },
+    {
+     "id": "Equipvariation_Tip1",
+     "text": "Equipment can't be removed while attuned"
+    },
+    {
+     "id": "Equipvariation_Tip2",
+     "text": "Only equipment with Lv2 resonance unlocked can attune"
+    },
+    {
+     "id": "Equipvariation_Tip3",
+     "text": "Extra activation points +{0}"
+    },
+    {
+     "id": "Equipvariation_Tip4",
+     "text": "Attuned equipment unlocks an extra gem slot"
+    },
+    {
+     "id": "Equipvariation_Tip5",
+     "text": "The set is now attuned!"
+    },
+    {
+     "id": "EquipPromotion_tips2",
+     "text": "Equipment is at max promotion"
+    },
+    {
+     "id": "Equipvariation_Tip_text",
+     "text": "Equipment Attunement Info:\\n\\nEquipment that can attune: Dark Flame, Wild Hunt, Heavy Armor, Stealth, Liberator\\n\\nSome equipment can attune after activating Lv2 resonance\\n\\nEquipment with Lv2 resonance can go in the attunement slots; once all four pieces of a set are in, the set enters Attunement and gains extra activation points!\\n\\nWhile attuned, equipment can't be taken out of the attunement slots; cancel Attunement first to remove it."
+    },
+    {
+     "id": "EquipPromotion_tips3",
+     "text": "This equipment has completed all resonance!"
+    },
+    {
+     "id": "EquipResonance_Text_12",
+     "text": "Please raise the equipment level"
+    },
+    {
+     "id": "UI_text_xjjgm",
+     "text": "Abyss Resonance Coins"
+    },
+    {
+     "id": "UI_desc_xjjgm",
+     "text": "Buy equipment resonance items in the shop"
+    },
+    {
+     "id": "UI_text_xjjtz",
+     "text": "Abyss Platinum Coins"
+    },
+    {
+     "id": "UI_desc_xjjtz",
+     "text": "Buy items in the Abyss Challenge Shop"
+    },
+    {
+     "id": "Equipvariation_Tip6",
+     "text": "Attuned equipment can't be smelted!"
+    },
+    {
+     "id": "DC_BattleInfo_0001",
+     "text": "Each AoE skill a player uses in a turn gives the next skill +50% damage"
+    },
+    {
+     "id": "DC_BattleInfo_0002",
+     "text": "Player healing +300%, damage taken +200%, and front-row max HP +300% from the start of turn 1"
+    },
+    {
+     "id": "DC_BattleInfo_0003",
+     "text": "Enemy single-target basic attacks or skills apply one stack of Heal Block on hit; for AoE, the chance is 30% lower; lasts 1 turn"
+    },
+    {
+     "id": "DC_BattleInfo_0004",
+     "text": "Monster damage +100%, elemental damage reduction 1000%"
+    },
+    {
+     "id": "DC_BattleInfo_0005",
+     "text": "Enemies' damage +100% and max HP +200%"
+    },
+    {
+     "id": "DC_BattleInfo_0006",
+     "text": "From turn 2, enemies gain 20% damage each turn; above 20% HP, they have a 50% chance to copy skill damage taken back to the attacker, and are immune to and reflect debuffs"
+    },
+    {
+     "id": "DC_BattleInfo_0007",
+     "text": "Enemies' lightning damage +100%, and their attacks deal extra lightning damage equal to 100% of Attack"
+    },
+    {
+     "id": "DC_BattleInfo_0008",
+     "text": "Our side's healing +20%"
+    },
+    {
+     "id": "DC_BattleInfo_0009",
+     "text": "After a successful block, that ally's damage +10%, up to 100%"
+    },
+    {
+     "id": "DC_BattleInfo_0010",
+     "text": "Dealing True Damage to an enemy raises all damage it takes by 50% for 1 turn."
+    },
+    {
+     "id": "DC_BattleInfo_0011",
+     "text": "When players use a single-target skill, Attack +200% and it always crits."
+    },
+    {
+     "id": "DC_BattleInfo_0012",
+     "text": "On even turns, enemies gain 95% final damage reduction."
+    },
+    {
+     "id": "DC_BattleInfo_0013",
+     "text": "Enemies' Block +300%, but they can't block while stunned."
+    },
+    {
+     "id": "DC_BattleInfo_0014",
+     "text": "Monsters gain 10% Tenacity at the end of their turn"
+    },
+    {
+     "id": "DC_BattleInfo_0015",
+     "text": "Monsters' crit rate +50%, crit damage taken +100%"
+    },
+    {
+     "id": "DC_BattleInfo_0016",
+     "text": "Monsters start with 100% final damage reduction, which drops 8% each time they're crit. Every 5 turns they regain 100% final damage reduction, and all reduction penalties and Tenacity gains are cleared"
+    },
+    {
+     "id": "DC_BattleInfo_0017",
+     "text": "When players attack, all damage +20% per 1 remaining Soul Jade"
+    },
+    {
+     "id": "DC_BattleInfo_0018",
+     "text": "The first skill a player uses each action gets +80% final damage; when later skills hit monsters, their final damage reduction +80%"
+    },
+    {
+     "id": "DC_BattleInfo_0019",
+     "text": "Players' Finisher and Ultimate skill final damage +300%, and they gain 100 extra Rage at the start of the turn"
+    },
+    {
+     "id": "DC_BattleInfo_0020",
+     "text": "After being hit by a skill, monsters have a 20% chance to interrupt the target and act immediately, with +50% all damage on that attack; triggers once per enemy per turn"
+    },
+    {
+     "id": "DC_BattleInfo_0021",
+     "text": "For every 1 skill hit on a monster during the turn, its final damage reduction +10%, up to 10 stacks"
+    },
+    {
+     "id": "DC_BattleInfo_0022",
+     "text": "From turn 2, enemies gain a 25% shield every three turns until the end of the turn; if the shield is broken before it fades, they gain 200% Vulnerability for 2 turns"
+    },
+    {
+     "id": "DC_BattleInfo_0023",
+     "text": "Player crit damage +200%"
+    },
+    {
+     "id": "DC_BattleInfo_0024",
+     "text": "Each time the player recovers HP, all damage +30%, up to 10 times (recovery and Lifesteal Gems don't count)"
+    },
+    {
+     "id": "DC_BattleInfo_0025",
+     "text": "When hit while shielded, enemies have a 10% chance to interrupt the player's action"
+    },
+    {
+     "id": "DC_BattleInfo_0026",
+     "text": "Monsters hit by non-Finishers gain a mark; Finisher hits convert the marks. If fewer than 5 marks are converted, final damage reduction +10%, up to 5 stacks; if more than 10, final damage reduction -10%, up to 10 stacks."
+    },
+    {
+     "id": "DC_BattleInfo_0027",
+     "text": "Monster hits slow the target by 30% for 1 of the target's actions; monsters deal 50% more damage to slower targets."
+    },
+    {
+     "id": "DC_BattleInfo_0028",
+     "text": "All damage taken from non-Finisher, non-Ultimate skills +50%"
+    },
+    {
+     "id": "DC_BattleInfo_0029",
+     "text": "Each surviving monster gives all monsters +8% final damage reduction"
+    },
+    {
+     "id": "DC_BattleInfo_0030",
+     "text": "While shielded, players have a 30% chance to be immune to damage"
+    },
+    {
+     "id": "DC_BattleInfo_0031",
+     "text": "When taking fatal damage, monsters revive with 30% max HP"
+    },
+    {
+     "id": "DC_BattleInfo_0032",
+     "text": "While shielded, players' final damage +100% when attacking"
+    },
+    {
+     "id": "DC_BattleInfo_0033",
+     "text": "Monsters deal 30% more final damage to slower units, and gain 30% more final damage reduction when hit by slower units"
+    },
+    {
+     "id": "DC_BattleInfo_0034",
+     "text": "Monsters take 200% more fire damage"
+    },
+    {
+     "id": "DC_BattleInfo_0035",
+     "text": "Each AoE skill a player uses in a turn gives the next skill +20% physical damage"
+    },
+    {
+     "id": "DC_BattleInfo_0036",
+     "text": "Player healing +300%, damage taken +200%, and front-row max HP +300% from the start of turn 1"
+    },
+    {
+     "id": "DC_BattleInfo_0037",
+     "text": "Enemy single-target basic attacks or skills apply one stack of Heal Block on hit; for AoE, the chance is 30% lower; lasts 1 turn"
+    },
+    {
+     "id": "DC_BattleInfo_0038",
+     "text": "Monster damage +100%, elemental damage reduction 1000%"
+    },
+    {
+     "id": "DC_BattleInfo_0039",
+     "text": "Dealing True Damage to an enemy raises all damage it takes by 30% for 1 turn."
+    },
+    {
+     "id": "DC_BattleInfo_0040",
+     "text": "When players use a single-target skill, Attack +50% and it always crits."
+    },
+    {
+     "id": "DC_BattleInfo_0041",
+     "text": "Enemy attacks apply Weaken, lowering our characters' Attack by 20% until the end of their next action."
+    },
+    {
+     "id": "DC_BattleInfo_0042",
+     "text": "Enemies' Block +100%, but they can't block while stunned."
+    },
+    {
+     "id": "DC_BattleInfo_0043",
+     "text": "Monsters are immune to elemental damage"
+    },
+    {
+     "id": "DC_BattleInfo_0044",
+     "text": "Monsters' crit rate +30%, crit damage taken +60%"
+    },
+    {
+     "id": "DC_BattleInfo_0045",
+     "text": "Monsters start with 100% final damage reduction, which drops 10% each time they're crit. Every 5 turns they regain 100% final damage reduction and all reduction penalties are cleared"
+    },
+    {
+     "id": "DC_BattleInfo_0046",
+     "text": "When players attack, all damage +10% per 1 remaining Soul Jade"
+    },
+    {
+     "id": "DC_BattleInfo_0047",
+     "text": "The first skill a player uses each action gets +60% final damage; when later skills hit monsters, their final damage reduction +70%"
+    },
+    {
+     "id": "DC_BattleInfo_0048",
+     "text": "Players' Finisher and Ultimate skill final damage +150%, and they gain 100 extra Rage at the start of the turn"
+    },
+    {
+     "id": "DC_BattleInfo_0049",
+     "text": "After being hit by a skill, monsters have a 20% chance to interrupt the target and act immediately, with +20% damage on that attack; triggers once per enemy per turn"
+    },
+    {
+     "id": "DC_BattleInfo_0050",
+     "text": "For every 1 skill hit on a monster during the turn, its final damage reduction +5%, up to 10 stacks"
+    },
+    {
+     "id": "DC_BattleInfo_0051",
+     "text": "From turn 2, enemies gain a 10% shield every three turns until the end of the turn; if the shield is broken before it fades, they gain 200% Vulnerability for 2 turns"
+    },
+    {
+     "id": "DC_BattleInfo_0052",
+     "text": "Player crit damage +100%"
+    },
+    {
+     "id": "DC_BattleInfo_0053",
+     "text": "Each time the player recovers HP, all damage +10%, up to 10 times (recovery and Lifesteal Gems don't count)"
+    },
+    {
+     "id": "DC_BattleInfo_0054",
+     "text": "When hit by a skill while shielded, enemies have a 10% chance to interrupt the player's action"
+    },
+    {
+     "id": "DC_BattleInfo_0055",
+     "text": "Monsters hit by non-Finishers gain a mark; Finisher hits convert the marks. If fewer than 5 marks are converted, final damage reduction +10%, up to 5 stacks; if more than 10, final damage reduction -10%, up to 10 stacks."
+    },
+    {
+     "id": "DC_BattleInfo_0056",
+     "text": "Monster hits slow the target by 20% for 1 of the target's actions; monsters deal 50% more damage to slower targets."
+    },
+    {
+     "id": "DC_BattleInfo_0057",
+     "text": "All damage taken from non-Finisher, non-Ultimate skills +50%"
+    },
+    {
+     "id": "DC_BattleInfo_0058",
+     "text": "Each surviving monster gives all monsters +5% final damage reduction"
+    },
+    {
+     "id": "DC_BattleInfo_0059",
+     "text": "While shielded, players have a 30% chance to be immune to damage and debuffs"
+    },
+    {
+     "id": "DC_BattleInfo_0060",
+     "text": "When taking fatal damage, monsters revive with 30% max HP"
+    },
+    {
+     "id": "DC_BattleInfo_0061",
+     "text": "While shielded, players' all damage +50% when attacking"
+    },
+    {
+     "id": "DC_BattleInfo_0062",
+     "text": "Monsters deal 30% more damage to slower units, and gain 30% more damage reduction when hit by slower units"
+    },
+    {
+     "id": "DC_BattleInfo_0063",
+     "text": "Monsters take 30% more fire damage"
+    },
+    {
+     "id": "DC_BattleInfo_0064",
+     "text": "When player characters recover HP, they gain 50% damage until their next action (gem effects don't trigger it)"
+    },
+    {
+     "id": "DC_BattleInfo_0065",
+     "text": "Enemies' damage +300%, immune to control; player characters with a shield gain 200% Attack"
+    },
+    {
+     "id": "DC_BattleInfo_0066",
+     "text": "Enemies deal 200% more damage to our characters above 50% HP"
+    },
+    {
+     "id": "DC_BattleInfo_0067",
+     "text": "On turns that are multiples of 5, enemies deal 500% skill damage to our front-most character"
+    },
+    {
+     "id": "DC_BattleInfo_0068",
+     "text": "When player characters recover HP, they gain 20% damage until their next action (gem effects don't trigger it)"
+    },
+    {
+     "id": "DC_BattleInfo_0069",
+     "text": "Enemies' damage +200%, immune to control. Player characters with a shield gain 50% Attack"
+    },
+    {
+     "id": "DC_BattleInfo_0070",
+     "text": "Enemies deal 100% more damage to our characters above 50% HP"
+    },
+    {
+     "id": "DC_BattleInfo_0071",
+     "text": "On turns that are multiples of 5, enemies deal 200% True Damage to our front-most character"
+    },
+    {
+     "id": "DC_Theme_1",
+     "text": "Trial"
+    },
+    {
+     "id": "DC_Theme_2",
+     "text": "Breakthrough"
+    },
+    {
+     "id": "DC_Theme_3",
+     "text": "Elite"
+    },
+    {
+     "id": "DC_Theme_5",
+     "text": "Abyss"
+    },
+    {
+     "id": "item_luandoubi",
+     "text": "Brawl Coins"
+    },
+    {
+     "id": "item_desc_luandoubi",
+     "text": "Earned from Brawl matches; exchange for rewards at the Brawl Shop"
+    },
+    {
+     "id": "GemMemory_WaitUnLock",
+     "text": "Locked"
+    },
+    {
+     "id": "GemMemory_WaitSave",
+     "text": "Not Saved"
+    },
+    {
+     "id": "GemMemory_WaitBind",
+     "text": "Not Synced"
+    },
+    {
+     "id": "GemMemory_Empty",
+     "text": "No Sockets"
+    },
+    {
+     "id": "GemMemory_UnInlay",
+     "text": "Not Socketed"
+    },
+    {
+     "id": "GemMemory_Lock",
+     "text": "Not Drilled"
+    },
+    {
+     "id": "GemMemory_OneKeyInlay",
+     "text": "One-tap socketing done"
+    },
+    {
+     "id": "GemMemory_ReplacePlan",
+     "text": "Overwrite this slot with the current equipment's socketing plan?"
+    },
+    {
+     "id": "GemMemory_GoToInlay",
+     "text": "Go to this equipment's gem socketing?"
+    },
+    {
+     "id": "GemMemory_WaitUnLockDetial",
+     "text": "Tap to unlock memory for more equipment gem plans"
+    },
+    {
+     "id": "GemMemory_NoGemInformation",
+     "text": "This preset has no gems"
+    },
+    {
+     "id": "GemMemory_ChangeReplaceName",
+     "text": "Renamed"
+    },
+    {
+     "id": "GemMemory_ChangeReplacePlan",
+     "text": "This equipment's gem plan has been saved/overwritten. Continue with other actions"
+    },
+    {
+     "id": "GemMemory_ChangeUnLockPlan",
+     "text": "This memory plan is unlocked"
+    },
+    {
+     "id": "GemMemory_QuickReplacePlan",
+     "text": "The gem plan is socketed. Also save/overwrite the current equipment to this slot?"
+    },
+    {
+     "id": "ReIdentifyOverloadTip",
+     "text": "Overload Reforge greatly raises the chance of Speed traits, and all traits roll high values more easily (the effect grows with this equipment's Overload reforge count)"
+    },
+    {
+     "id": "ArrayPrivilege_BuyConfirm",
+     "text": "Activate the privilege to unlock privilege formation {0} (Lv{1})? Formation use lasts {2} days, and privilege quests last {3} days."
+    },
+    {
+     "id": "ArrayPrivilege_CurrentTotalLevel",
+     "text": "Current total formation level:"
+    },
+    {
+     "id": "ArrayPrivilege_GetArrowLevel",
+     "text": "After unlocking, the formation will be"
+    },
+    {
+     "id": "ArrayPrivilege_BuyTxt",
+     "text": "Unlock ¥{0}"
+    },
+    {
+     "id": "ArrayPrivilege_UnSelectArrow",
+     "text": "You haven't chosen a formation yet"
+    },
+    {
+     "id": "ArrayPrivilege_CurrentLevel",
+     "text": "Current Level:"
+    },
+    {
+     "id": "ArrayPrivilege_ArrayShow",
+     "text": "{0} Lv{1}"
+    },
+    {
+     "id": "ArrayPrivilege_ArrayEndTime",
+     "text": "Time left: {0}"
+    },
+    {
+     "id": "ArrayPrivilege_ArrayOutEndTime",
+     "text": "Privilege formation has expired"
+    },
+    {
+     "id": "ArrayPrivilege_ArrayUnLockAndUpgrate",
+     "text": "Privilege formations can't be upgraded"
+    },
+    {
+     "id": "ArrayPrivilege_tips",
+     "text": "Formation Privilege Info:\\n\\nOn the Formation Privilege screen you can choose one formation. Its level depends on the total level of formations you already own: a total of 0-3 gives temporary formation level 0; 4-8 gives level 1; 9-15 gives level 2; 16-23 gives level 3; 24 or above gives level 4\\n\\nYou can only choose formations you don't own or whose level is below the temporary formation level. This relationship may be adjusted as new formations are released\\n\\nNew formations may not join the Formation Privilege pool right away\\n\\nBuying Formation Privilege gives 15 days of use of the chosen formation and unlocks privilege quests lasting 30 days.\\n\\nOnce unlocked, the temporary formation's level won't change even if your total formation level changes.\\n\\nComplete privilege quests for Activity; accumulate enough for generous rewards"
+    },
+    {
+     "id": "PassName",
+     "text": "Summer Pass"
+    },
+    {
+     "id": "TaskName",
+     "text": "Summer Quests"
+    },
+    {
+     "id": "PassAccount",
+     "text": "All Summer Pass tiers share EXP and level."
+    },
+    {
+     "id": "PassBuy",
+     "text": "Spend {0}*{1} to buy the selected pass tier?"
+    },
+    {
+     "id": "PassBuyLevel",
+     "text": "Buying Summer Pass levels costs {0}*{1} per level. Confirm?"
+    },
+    {
+     "id": "FestivalPass_Question",
+     "text": "Summer Pass Info:\\nThe Summer Pass has three tiers that share Pass EXP and level.\\nBuying only unlocks the right to claim pass rewards. Without buying, you still level up and accumulate rewards, and can claim them all once you unlock the right.\\nRaise your pass level with EXP from summer quests, or buy levels with Rainbow Diamonds. The max level is 50."
+    },
+    {
+     "id": "FestivalPassTask_FreshTime",
+     "text": "Quests refresh daily at 00:00"
+    },
+    {
+     "id": "IntegralHonorRank2",
+     "text": "Middle Division"
+    },
+    {
+     "id": "IntegralHonorRank3",
+     "text": "Upper Division"
+    },
+    {
+     "id": "BeastPiratesStage2_Tip1",
+     "text": "Refreshes after the regular boss period ends"
+    },
+    {
+     "id": "BeastPiratesStage2_Tip2",
+     "text": "Refreshes at 0:00"
+    },
+    {
+     "id": "GemComposeTip",
+     "text": "Crushing gems can't be undone! Gems will be broken down into Gem Dust. Confirm?"
+    },
+    {
+     "id": "GemDecompose_Noluck",
+     "text": "No Lucky Charms to use"
+    },
+    {
+     "id": "GemDecompose_LuckItemTitle",
+     "text": "Use Lucky Charm"
+    },
+    {
+     "id": "GemDecompose_LuckItemTip",
+     "text": "Use a Lucky Charm to raise the grinding success rate"
+    },
+    {
+     "id": "GemMaster_desc",
+     "text": "Equip {0} gems with grind level +{1}"
+    },
+    {
+     "id": "Exp_Card_Time",
+     "text": "Left: {0}"
+    },
+    {
+     "id": "Exp_Card_Magnification",
+     "text": "Current player EXP gain: {0}x"
+    },
+    {
+     "id": "Exp_Card_Explain",
+     "text": "EXP card popup description goes here"
+    },
+    {
+     "id": "Exp_Card_Up",
+     "text": "Using a higher-level card over a lower-level one!"
+    },
+    {
+     "id": "Exp_Card_Lower",
+     "text": "Using a lower-level card over a higher-level one! Blocked!"
+    },
+    {
+     "id": "Exp_Card_Longer",
+     "text": "Time extended!"
+    },
+    {
+     "id": "Exp_Card_LevelUp",
+     "text": "Until level up: {0}"
+    },
+    {
+     "id": "Exp_Card_Title",
+     "text": "EXP Boost"
+    },
+    {
+     "id": "PersonCanival_HasUnLockBattlePass",
+     "text": "Battle Pass already unlocked"
+    },
+    {
+     "id": "PersonCanival_UnLockBattlePassTimeTip",
+     "text": "This Battle Pass is ending soon. Unlock it anyway?"
+    },
+    {
+     "id": "PersonCanival_ReceiveAllRewards",
+     "text": "No rewards to claim"
+    },
+    {
+     "id": "PersonCanival_OnMaxLevel",
+     "text": "Already at max level"
+    },
+    {
+     "id": "PersonCanival_BuyBattlePassLevelUp",
+     "text": "Instant +{0} levels"
+    },
+    {
+     "id": "PersonCanival_BuyBattlePassReward",
+     "text": "Buy to get [Rainbow Diamonds*680] instantly"
+    },
+    {
+     "id": "PersonCanival_BuyBattlePassLevelUpCount",
+     "text": "+{0} levels"
+    },
+    {
+     "id": "PersonCanival_BuyBattlePassLevelTarget",
+     "text": "Can reach Lv{0}"
     },
     {
      "id": "awakeLevelUpBtn",
@@ -24369,7 +25549,7 @@
      "text": "Limited Recruit"
     }
    ],
-   "partial": "5301/5841 rows translated so far"
+   "partial": "5596/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
