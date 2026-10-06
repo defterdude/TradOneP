@@ -41579,10 +41579,1293 @@
     {
      "runMapId": "6101",
      "desc": "While searching for Sanji, another Luffy appears before the Straw Hats. A chaotic battle breaks out between Luffy and Luffy!"
+    },
+    {
+     "runMapId": "6102",
+     "desc": "Sanji's figure appears again, but a sudden shadow blocks Nami and the others."
+    },
+    {
+     "runMapId": "6103",
+     "desc": "The silent rabbit keeps up the chase. Facing the relentless enemy, Carrot decides to hold them off alone!"
+    },
+    {
+     "runMapId": "6104",
+     "desc": "The other Luffy is an assassin sent by Big Mom! For everyone's sake, you must defeat her!"
+    },
+    {
+     "runMapId": "6105",
+     "desc": "The persistent rabbit has caught up again. Unless you beat him, there's no way out of this dangerous forest!"
+    },
+    {
+     "runMapId": "6106",
+     "desc": "The giant buried in the ground reveals the terrifying truth about Totland... Just then, a man in biscuit armor suddenly appears behind him."
+    },
+    {
+     "runMapId": "6107",
+     "desc": "Against an enemy stronger than imagined, \"Sweet Commander\" Cracker, Luffy has to fight seriously with everything he has!"
+    },
+    {
+     "runMapId": "6108",
+     "desc": "Mirror-Mirror Fruit user Caramel Pudding has her eye on Nami, but Nami pulls out an unexpected weapon...!"
+    },
+    {
+     "runMapId": "6109",
+     "desc": "At a disadvantage, Luffy can't stand Cracker insulting Sanji, and goes into Gear Fourth for an all-out assault!!"
+    },
+    {
+     "runMapId": "6110",
+     "desc": "Beneath the shattered biscuit pieces, an unfamiliar man appears. This is the real Sweet Commander Cracker!"
+    },
+    {
+     "runMapId": "6111",
+     "desc": "A well-fed Luffy against Cracker at full power! Settle it here!!"
+    },
+    {
+     "runMapId": "6201",
+     "desc": "Over a single disagreement, Yonji attacks the son he hasn't seen in ages. Stop him."
+    },
+    {
+     "runMapId": "6202",
+     "desc": "Niji has crossed Sanji's line. Make the scumbag who hurts innocent women pay the price!"
+    },
+    {
+     "runMapId": "6203",
+     "desc": "This is a duel full of sorrow and helplessness."
+    },
+    {
+     "runMapId": "6204",
+     "desc": "The Angry Legion sweeps in, vowing to avenge Cracker. Defeat them!"
+    },
+    {
+     "runMapId": "6205",
+     "desc": "Butter Biscuit has set its sights on Nami. Defeat the enemy!"
+    },
+    {
+     "runMapId": "6206",
+     "desc": "Luffy is exhausted, but for the sake of his promise he can't fall yet! Defeat the attacking enemies!"
+    },
+    {
+     "runMapId": "6207",
+     "desc": "An old friend has arrived. Rescue Luffy and Nami!"
+    },
+    {
+     "runMapId": "6208",
+     "desc": "Defeat the Chess Soldiers before you and make enough of a commotion!"
+    },
+    {
+     "runMapId": "6209",
+     "desc": "A head-on clash between archrivals. Defeat Baron Tamago!"
+    },
+    {
+     "runMapId": "6210",
+     "desc": "Maybe death is part of the plan too. Take the enemy down with you!"
+    },
+    {
+     "runMapId": "6211",
+     "desc": "Brook's soul power might counter the Chess Soldiers. Try to defeat them!"
+    },
+    {
+     "runMapId": "6212",
+     "desc": "Without the Chess Soldiers, the remaining enemies are no match at all. Fight to your heart's content!"
+    },
+    {
+     "runMapId": "6213",
+     "desc": "You've caught the eye of the most terrifying person on all of Whole Cake Island. Use everything you've got!"
+    },
+    {
+     "runMapId": "6214",
+     "desc": "The Soul King hasn't fallen yet. Keep fighting!"
+    },
+    {
+     "runMapId": "6215",
+     "desc": "A wild Caramel Pudding jumped out. Defeat her!"
+    },
+    {
+     "runMapId": "6216",
+     "desc": "Chopper's plan is a great success! Time to fight back!"
+    },
+    {
+     "runMapId": "6217",
+     "desc": "Sanji has backed himself into a corner. Snap him out of it!"
+    },
+    {
+     "runMapId": "6301",
+     "desc": "Someone is causing trouble before the tea party even starts? Teach him a lesson!"
+    },
+    {
+     "runMapId": "6302",
+     "desc": "Just a bunch of overconfident small fry. Defeat them"
+    },
+    {
+     "runMapId": "6303",
+     "desc": "Pudding is no longer a threat. Watch out for Katakuri's shots!"
+    },
+    {
+     "runMapId": "6304",
+     "desc": "The plan begins! Overturn this fake wedding!"
+    },
+    {
+     "runMapId": "6305",
+     "desc": "He dares to hit the bride in front of the groom? Show him what for!"
+    },
+    {
+     "runMapId": "6306",
+     "desc": "Show your resolve!"
+    },
+    {
+     "runMapId": "6307",
+     "desc": "Seeing the future doesn't mean controlling it. Defeat Katakuri!"
+    },
+    {
+     "runMapId": "6308",
+     "desc": "Only Sanji can save Germa 66 now! Defeat the obstacle before you!"
+    },
+    {
+     "runMapId": "6309",
+     "desc": "Until his crew falls, no one can stop the captain's advance"
+    },
+    {
+     "runMapId": "6310",
+     "desc": "The mission failed! Retreat now!"
+    },
+    {
+     "runMapId": "6311",
+     "desc": "Time to strike back!"
+    },
+    {
+     "runMapId": "6312",
+     "desc": "Time to strike back!"
+    },
+    {
+     "runMapId": "6313",
+     "desc": "Don't get surrounded. Break out!"
+    },
+    {
+     "runMapId": "6314",
+     "desc": "Don't let the enemy tie you down. Drive them off fast!"
+    },
+    {
+     "runMapId": "6315",
+     "desc": "Do your best to fight off Big Mom!"
+    },
+    {
+     "runMapId": "6316",
+     "desc": "Fight for freedom!"
+    },
+    {
+     "runMapId": "6317",
+     "desc": "Even against an invincible foe, have the courage to face them! Throw your strongest punch!"
+    },
+    {
+     "runMapId": "6318",
+     "desc": "Yonji, unleash your fury!"
+    },
+    {
+     "runMapId": "6319",
+     "desc": "Yonji is in grave danger. Save him!"
+    },
+    {
+     "runMapId": "6320",
+     "desc": "The roadblock is right in front of you. Defeat him!"
+    },
+    {
+     "runMapId": "6321",
+     "desc": "More enemies have arrived. Hold on!"
+    },
+    {
+     "runMapId": "6322",
+     "desc": "Break through the enemies ahead!"
+    },
+    {
+     "runMapId": "6323",
+     "desc": "Break through the enemies ahead!"
+    },
+    {
+     "runMapId": "6401",
+     "desc": "Big Mom has caught up!"
+    },
+    {
+     "runMapId": "6402",
+     "desc": "Break out of the encirclement!"
+    },
+    {
+     "runMapId": "6403",
+     "desc": "Break out of the encirclement!"
+    },
+    {
+     "runMapId": "6404",
+     "desc": "Big Mom has caught up again. Fight back!"
+    },
+    {
+     "runMapId": "6405",
+     "desc": "Big Mom in the grip of a \"Craving\" is unstoppable!"
+    },
+    {
+     "runMapId": "6406",
+     "desc": "Big Mom is hot on your heels! Watch your defense!"
+    },
+    {
+     "runMapId": "6407",
+     "desc": "Defend the Sunny!"
+    },
+    {
+     "runMapId": "6408",
+     "desc": "Against uninvited \"guests\", show no mercy!"
+    },
+    {
+     "runMapId": "6409",
+     "desc": "The enemy is strong. Hold on!"
+    },
+    {
+     "runMapId": "6410",
+     "desc": "The disaster continues! Meet the battle head-on!"
+    },
+    {
+     "runMapId": "6411",
+     "desc": "You're caught in a pincer attack! Drive the enemies off the ship!"
+    },
+    {
+     "runMapId": "6412",
+     "desc": "You're caught in a pincer attack! Drive the enemies off the ship!"
+    },
+    {
+     "runMapId": "6413",
+     "desc": "Full of hatred, you must defeat the enemy!"
+    },
+    {
+     "runMapId": "6414",
+     "desc": "Big Mom has chased you out to sea. Fight!"
+    },
+    {
+     "runMapId": "6501",
+     "desc": "Defeat Oven and rescue Chiffon!"
+    },
+    {
+     "runMapId": "6502",
+     "desc": "Defeat the Big Mom Pirates and rescue Chiffon!"
+    },
+    {
+     "runMapId": "6503",
+     "desc": "Defeat Katakuri and get back to the Sunny!"
+    },
+    {
+     "runMapId": "6504",
+     "desc": "You can't die here! However strong the enemy, keep fighting!"
+    },
+    {
+     "runMapId": "6505",
+     "desc": "However strong the enemy, keep fighting!"
+    },
+    {
+     "runMapId": "6506",
+     "desc": "Uh-oh, you woke up and discovered Katakuri's secret. Keep fighting!"
+    },
+    {
+     "runMapId": "6507",
+     "desc": "Furious and humiliated, Katakuri attacks even more fiercely. Hold on!"
+    },
+    {
+     "runMapId": "6508",
+     "desc": "You've seen through Katakuri's ability, and the battle now has hope!"
+    },
+    {
+     "runMapId": "6509",
+     "desc": "Fight with everything you've got!"
+    },
+    {
+     "runMapId": "6510",
+     "desc": "Deal with the enemies that appear!"
+    },
+    {
+     "runMapId": "6511",
+     "desc": "Deal with the enemies that appear!"
+    },
+    {
+     "runMapId": "6512",
+     "desc": "Fight Katakuri again!"
+    },
+    {
+     "runMapId": "6513",
+     "desc": "Fight Katakuri again!"
+    },
+    {
+     "runMapId": "6514",
+     "desc": "Hold on!"
+    },
+    {
+     "runMapId": "6515",
+     "desc": "Hold on, you're getting closer to victory, aren't you!"
+    },
+    {
+     "runMapId": "6516",
+     "desc": "Katakuri is an opponent worthy of respect. Keep fighting seriously with all your might!"
+    },
+    {
+     "runMapId": "6601",
+     "desc": "Carrot transforms into a Sulong and clashes with Daifuku's fleet on the full-moon sea."
+    },
+    {
+     "runMapId": "6602",
+     "desc": "Carrot wrecks the helm of Daifuku's fleet and buys precious time, but falls into danger herself."
+    },
+    {
+     "runMapId": "6603",
+     "desc": "Starving, Big Mom is convinced the cake is on the Sunny. To protect the Sunny, Jinbe holds Big Mom back."
+    },
+    {
+     "runMapId": "6604",
+     "desc": "Driven off the Sunny by Jinbe, Big Mom keeps chasing for the cake. To defend the Sunny, Brook fights Big Mom."
+    },
+    {
+     "runMapId": "6605",
+     "desc": "Nami tames Zeus, but Big Mom still won't give up on the cake. To protect themselves, the Straw Hats on board must keep fighting Big Mom."
+    },
+    {
+     "runMapId": "6606",
+     "desc": "With Caramel Pudding held hostage, Oven refuses to be threatened and steps in to protect his sister."
+    },
+    {
+     "runMapId": "6607",
+     "desc": "The Big Mom Pirates intercept the Straw Hats, and Sanji carries Luffy through the predicament."
+    },
+    {
+     "runMapId": "6608",
+     "desc": "Sanji escapes into the sky, but the Big Mom Pirates were ready for him."
+    },
+    {
+     "runMapId": "6609",
+     "desc": "Pekoms is defeated by overwhelming numbers, and the Germa army joins the battle too."
+    },
+    {
+     "runMapId": "6610",
+     "desc": "Germa 66 joins the fight, and Sanji keeps carrying Luffy toward the Sunny."
+    },
+    {
+     "runMapId": "6611",
+     "desc": "Germa 66 joins the fight, and Sanji keeps carrying Luffy toward the Sunny."
+    },
+    {
+     "runMapId": "6612",
+     "desc": "Germa 66 joins the fight, and Sanji keeps carrying Luffy toward the Sunny."
+    },
+    {
+     "runMapId": "6613",
+     "desc": "Germa 66 joins the fight, and Sanji keeps carrying Luffy toward the Sunny."
+    },
+    {
+     "runMapId": "6614",
+     "desc": "Germa 66 joins the fight, and Sanji keeps carrying Luffy toward the Sunny."
+    },
+    {
+     "runMapId": "6615",
+     "desc": "A great fleet surrounds the Sunny, and Daifuku's genie relentlessly chases Carrot, vowing to wipe out his past shame."
+    },
+    {
+     "runMapId": "6616",
+     "desc": "The Emperor's fleet has surrounded the Sunny. At the critical moment, the Fish-Men come to help and open a path for the Sunny."
+    },
+    {
+     "runMapId": "6617",
+     "desc": "Oven arrives on the battlefield! His tricky ability puts the Fish-Men in a tough fight. Aladine, vice captain of the Sun Pirates, keeps covering the Straw Hats!"
+    },
+    {
+     "runMapId": "6701",
+     "desc": "2 beasts fighting...! Don't let them wreck the Sunny. Stop them."
+    },
+    {
+     "runMapId": "6702",
+     "desc": "A hostile sneak attack, but Luffy easily dodges it with Observation Haki. Still, he can't let the attacker go!"
+    },
+    {
+     "runMapId": "6703",
+     "desc": "The guys chasing the woman are carrying fine sake. For a drink, Zoro draws his sword."
+    },
+    {
+     "runMapId": "6704",
+     "desc": "Luffy and Zoro reunite, but the pursuing Hawkins spots them. A fierce battle is unavoidable!"
+    },
+    {
+     "runMapId": "6705",
+     "desc": "Hawkins, who sided with Kaido, draws a bad card, and something unexpected happens."
+    },
+    {
+     "runMapId": "6706",
+     "desc": "Facing Hawkins's eerie straw-man ability, Zoro has Luffy protect Tama while he fights alone."
+    },
+    {
+     "runMapId": "6707",
+     "desc": "Batman fires an arrow at Tsuru, but Zoro blocks it. Batman keeps attacking. Stop his rampage!"
+    },
+    {
+     "runMapId": "6801",
+     "desc": "The sumo wrestlers who obey Urashima intend to take O-Kiku by force. Drive them off!"
+    },
+    {
+     "runMapId": "6802",
+     "desc": "Luffy and Urashima get ready for a bout in the sumo ring. In this mismatched fight, who will win?"
+    },
+    {
+     "runMapId": "6803",
+     "desc": "Luffy's victory draws interference from Holdem's men. Drive them off!"
+    },
+    {
+     "runMapId": "6804",
+     "desc": "Speed's subordinates block the escape route. Crush them!"
+    },
+    {
+     "runMapId": "6805",
+     "desc": "Luffy's group, about to flee, is blocked by Holdem. Drive him off!"
+    },
+    {
+     "runMapId": "6901",
+     "desc": "Kaido, appearing in dragon form, instantly destroys the ruins of Oden Castle with \"Bolo Breath\". With his crewmates in danger, Luffy charges at Kaido!"
+    },
+    {
+     "runMapId": "6902",
+     "desc": "Hearing that Tama and Speed were hurt because of Kaido, a furious Luffy charges at him. The battle with the Emperor Kaido officially begins!"
+    },
+    {
+     "runMapId": "6903",
+     "desc": "Kaido, who had turned into a giant dragon, finally returns to human form. Can Luffy, in \"Gear 4\", end this battle here and now?"
+    },
+    {
+     "runMapId": "7001",
+     "desc": "The thugs of the \"Kyoshiro\" Family failed to collect protection money and knocked over the diners' noodles. As a chef, Sanji will never tolerate it. Crush them!"
+    },
+    {
+     "runMapId": "7002",
+     "desc": "To keep his identity hidden, Sanji puts on the \"Stealth Black\" suit. As \"Soba Mask\", defeat the attacking Page One!"
+    },
+    {
+     "runMapId": "7003",
+     "desc": "Orochi wants to catch Toko, and his men are in a total mess. Use this chance to drive them off and escape!"
+    },
+    {
+     "runMapId": "7004",
+     "desc": "With their identities exposed during the Kaido crew's search, Nami's group tries to escape, but Drake and Hawkins block them. Then Sanji arrives and crushes the searchers to give everyone a chance to escape!"
+    },
+    {
+     "runMapId": "7005",
+     "desc": "Zoro has finally found the one who stole \"Shusui\", but they call Zoro a bandit. Defeat them and take back \"Shusui\"!"
+    },
+    {
+     "runMapId": "7006",
+     "desc": "Women hunted by \"Kamazo the Killer\" ask Zoro for help. Help them defeat the attacking assassin!"
+    },
+    {
+     "runMapId": "7007",
+     "desc": "Fighting Kamazo, Zoro realizes the enemy before him is no ordinary foe. Missing one sword, can Zoro win?!"
+    },
+    {
+     "runMapId": "7008",
+     "desc": "Learning that Yasuie is about to be executed, the townsfolk pouring in from Ebisu Town riot too. Orochi sends his men to stop them. Drive these men off!"
+    },
+    {
+     "runMapId": "7009",
+     "desc": "After Yasuie's execution, Orochi intends to execute Toko as well. Then Zoro and Sanji appear together. Protect Toko and drive off Orochi's men!"
+    },
+    {
+     "runMapId": "7010",
+     "desc": "Having driven off the first wave of enemies, Zoro and Sanji start bickering as usual, but more enemies have appeared. Defeat them!"
+    },
+    {
+     "runMapId": "7011",
+     "desc": "Leaving Toko in Sanji's care, Zoro charges toward Orochi alone. Defeat those men!"
+    },
+    {
+     "runMapId": "7012",
+     "desc": "As Zoro charges in, Orochi hastily calls his men to protect him. Crush them with \"720 Pound Phoenix\"!"
+    },
+    {
+     "runMapId": "7013",
+     "desc": "While Sanji surveys the situation, Drake turns into a dinosaur and ambushes him. Drive him off!"
+    },
+    {
+     "runMapId": "7014",
+     "desc": "Meanwhile, Nami's group is ready for battle too. Just as Zoro is surrounded by ninjas, Franky arrives to help. Crush these ninjas!"
+    },
+    {
+     "runMapId": "7015",
+     "desc": "The enemy has targeted Usopp standing up high. Help him drive off these samurai!"
+    },
+    {
+     "runMapId": "7016",
+     "desc": "The enemy has decided to surround Nami's group. Use the Clima-Tact's power to force your way through!"
+    },
+    {
+     "runMapId": "7017",
+     "desc": "Zoro has finally reached Orochi, but Kyoshiro blocks his way. Defeat him!"
+    },
+    {
+     "runMapId": "7101",
+     "desc": "Dobon attacks Luffy and Kid because all the dango were eaten. Defeat him!"
+    },
+    {
+     "runMapId": "7102",
+     "desc": "Raizo was spotted by the guards while stealing the key. Defeat them and steal the key!"
+    },
+    {
+     "runMapId": "7103",
+     "desc": "Solitaire brings the guards to corner Raizo. Defeat them and escape with your life!"
+    },
+    {
+     "runMapId": "7104",
+     "desc": "Having attacked Daifugo, Luffy is besieged by the guards. Defeat them and help Old Man Hyogoro!"
+    },
+    {
+     "runMapId": "7105",
+     "desc": "The \"Great Sumo Inferno\" begins! Queen commands the Pleasures to attack Luffy and Hyogoro. Defeat them!"
+    },
+    {
+     "runMapId": "7106",
+     "desc": "A second wave strikes. Queen sends the Gifters to keep wearing down Luffy's stamina. Crush them!"
+    },
+    {
+     "runMapId": "7107",
+     "desc": "Alpacaman and Armadilloman step into the ring to fight Luffy. Carrying Hyogoro on his back, Luffy fights them both. Defeat them!"
+    },
+    {
+     "runMapId": "7108",
+     "desc": "To master \"Flowing Cherry Blossom\", Luffy decides to practice on Armadilloman. Defeat him with \"Flowing Cherry Blossom\"!"
+    },
+    {
+     "runMapId": "23201",
+     "desc": "The cowardly survivor is terrified of zombies, but there are zombies everywhere here. Defeat them."
+    },
+    {
+     "runMapId": "23202",
+     "desc": "The zombies have found you! The pursuing zombies launch a fierce attack. Fight back!!"
+    },
+    {
+     "runMapId": "23203",
+     "desc": "To get through the forest you must get past the zombies, and the drowsy zombie trees have been startled awake!"
+    },
+    {
+     "runMapId": "23204",
+     "desc": "Cerberus has come out of the moat! Defeat it!"
+    },
+    {
+     "runMapId": "23205",
+     "desc": "A zombie has charged right up to us! Defeat it!"
+    },
+    {
+     "runMapId": "23206",
+     "desc": "Wipe out the zombies hot on your heels!"
+    },
+    {
+     "runMapId": "23207",
+     "desc": "A General Zombie has appeared! We can't stay here! Defeat it!!"
+    },
+    {
+     "runMapId": "23208",
+     "desc": "The careless General Zombie is caught off guard by our surprise attack. Seize the moment and defeat it!"
+    },
+    {
+     "runMapId": "23209",
+     "desc": "Animal zombies spotted us searching everywhere for items, and they're charging in!"
+    },
+    {
+     "runMapId": "23210",
+     "desc": "Opening the treasure chest gave you quite a scare!"
+    },
+    {
+     "runMapId": "23211",
+     "desc": "To help the survivors, you must hold this place!!"
+    },
+    {
+     "runMapId": "23212",
+     "desc": "To help the survivors, you must hold this place!!"
+    },
+    {
+     "runMapId": "23213",
+     "desc": "To help the survivors, you must hold this place!!"
+    },
+    {
+     "runMapId": "23901",
+     "desc": "What are the pirates plotting? For the village! Stop them!"
+    },
+    {
+     "runMapId": "23902",
+     "desc": "What are the pirates plotting? For the village! Stop them!"
+    },
+    {
+     "runMapId": "23903",
+     "desc": "That father's son was taken by human traffickers! Rescue him quickly!"
+    },
+    {
+     "runMapId": "23904",
+     "desc": "That father's son was taken by human traffickers! Rescue him quickly!"
+    },
+    {
+     "runMapId": "23905",
+     "desc": "Bounty Hunters somehow got word of us. Fend off their attack!"
+    },
+    {
+     "runMapId": "23906",
+     "desc": "Bounty Hunters somehow got word of us. Fend off their attack!"
+    },
+    {
+     "runMapId": "23907",
+     "desc": "Bounty Hunters somehow got word of us. Fend off their attack!"
+    },
+    {
+     "runMapId": "23908",
+     "desc": "The shopkeeper is in trouble. A gang of pirates took goods without paying. Help the shopkeeper collect the debt."
+    },
+    {
+     "runMapId": "23909",
+     "desc": "The shopkeeper is in trouble. A gang of pirates took goods without paying. Help the shopkeeper collect the debt."
+    },
+    {
+     "runMapId": "23910",
+     "desc": "The shopkeeper is in trouble. A gang of pirates took goods without paying. Help the shopkeeper collect the debt."
+    },
+    {
+     "runMapId": "23911",
+     "desc": "The shopkeeper is in trouble. A gang of pirates took goods without paying. Help the shopkeeper collect the debt."
+    },
+    {
+     "runMapId": "23912",
+     "desc": "You've arrived at a strange Human Auction Market! Defeat the guards at the entrance!"
+    },
+    {
+     "runMapId": "23913",
+     "desc": "You've arrived at a strange Human Auction Market! Defeat the guards at the entrance!"
+    },
+    {
+     "runMapId": "23914",
+     "desc": "You've arrived at a strange Human Auction Market! Defeat the guards at the entrance!"
+    },
+    {
+     "runMapId": "24301",
+     "desc": "A patrolling guard has discovered the prisoners' escape plan! Get through here! Defeat the guards!"
+    },
+    {
+     "runMapId": "24302",
+     "desc": "The Blugoris block the way forward..."
+    },
+    {
+     "runMapId": "24303",
+     "desc": "You've met an angry guard. No matter what, don't back down!"
+    },
+    {
+     "runMapId": "24304",
+     "desc": "Manticores! The beasts of the second level have spotted us!"
+    },
+    {
+     "runMapId": "24305",
+     "desc": "There are too many guards here! You get spotted wherever you go! Defeat the enemies!"
+    },
+    {
+     "runMapId": "24306",
+     "desc": "The Blugoris block the way forward..."
+    },
+    {
+     "runMapId": "24307",
+     "desc": "The Jailers hold the last line of defense. Can you escape?"
+    },
+    {
+     "runMapId": "24501",
+     "desc": "An exhausted prisoner held back a group of guards. From here on, you're on your own!"
+    },
+    {
+     "runMapId": "24502",
+     "desc": "The guards stagger in front of you. You think you saw them on your way down earlier..."
+    },
+    {
+     "runMapId": "24503",
+     "desc": "The Jailers are charging! Fend off this wave!"
+    },
+    {
+     "runMapId": "24504",
+     "desc": "A big pack of Blugoris has been summoned by the Jailers! To keep going, you must defeat them!"
+    },
+    {
+     "runMapId": "24505",
+     "desc": "The last wave of Jailers. Defeat them and you'll see the light ahead!"
+    },
+    {
+     "runMapId": "24506",
+     "desc": "The Jailers hunting fugitives are shocked to find Okamas here! Shocked as they are, they still attack!"
+    },
+    {
+     "runMapId": "24507",
+     "desc": "The Army Wolves have caught our scent! Be careful! These are the fiercest beasts in the prison!!!"
+    },
+    {
+     "runMapId": "24508",
+     "desc": "The Jailers have circled around in front of us! Break through them!! They show the Okamas absolutely no mercy!!!"
+    },
+    {
+     "runMapId": "24509",
+     "desc": "The entrance to Newkama Land is right ahead! Break through the Army Wolves' blockade!!!"
+    },
+    {
+     "runMapId": "24510",
+     "desc": "The Army Wolves have cornered a prisoner! Go save him!!!"
+    },
+    {
+     "runMapId": "24701",
+     "desc": "The Marines block the way forward! Break through here! Defeat the cowardly Marines!"
+    },
+    {
+     "runMapId": "24702",
+     "desc": "The Marine Colonel is furious! He insists on avenging his subordinates! Help him cool off!"
+    },
+    {
+     "runMapId": "24703",
+     "desc": "The Marines are holding the road! Defeat him and destroy the road!"
+    },
+    {
+     "runMapId": "24704",
+     "desc": "They're charging straight at us! Hold off the assault to buy time to destroy the road!"
+    },
+    {
+     "runMapId": "24705",
+     "desc": "Marines are already waiting on the road. Defeat him and push on!"
+    },
+    {
+     "runMapId": "24706",
+     "desc": "So calm on a battlefield like this? What's with this Marine? But now's not the time to stop!"
+    },
+    {
+     "runMapId": "24707",
+     "desc": "The Colonel got the report and has rushed over too! He's not letting his guard down, so give it everything!"
+    },
+    {
+     "runMapId": "24708",
+     "desc": "The captain can no longer tell friend from foe!! You have to calm him down!"
+    },
+    {
+     "runMapId": "24709",
+     "desc": "Under the captain's onslaught, the Marine is badly weakened! Seize the chance to finish him off!"
+    },
+    {
+     "runMapId": "24710",
+     "desc": "He showed up alone on a battlefield like this? Such an arrogant guy needs to be taught a lesson!"
+    },
+    {
+     "runMapId": "24711",
+     "desc": "The Marines' momentum is fading! A perfect chance to press on! Defeat the Marines and push forward!"
+    },
+    {
+     "runMapId": "24712",
+     "desc": "He shows no mercy to subordinates who fail! Yet the Marines have regained their momentum! You must give it everything to defeat the Colonel!"
+    },
+    {
+     "runMapId": "24713",
+     "desc": "Is this the guy who betrayed his comrades? You have to get a straight answer out of him!"
+    },
+    {
+     "runMapId": "24714",
+     "desc": "This guy even attacks his own comrades! You need to make him behave!"
+    },
+    {
+     "runMapId": "24715",
+     "desc": "A Marine infiltrated our ranks? This guy needs a thorough investigation!!"
+    },
+    {
+     "runMapId": "24716",
+     "desc": "The Marine Colonel is charging in! Stop him! Protect the medicine supply!"
+    },
+    {
+     "runMapId": "24717",
+     "desc": "Still thinking about getting rich at a time like this? What a faithless guy! He needs to be taught a lesson!"
+    },
+    {
+     "runMapId": "24718",
+     "desc": "The Marines have formed up and completely sealed off the road! Break through them! Ace is right ahead!"
+    },
+    {
+     "runMapId": "24719",
+     "desc": "He never lets his guard down! The Marine Colonel is holding this spot to the last! Give it everything to defeat him!"
+    },
+    {
+     "runMapId": "24801",
+     "desc": "The Marines have caught up! Stop them quickly!"
+    },
+    {
+     "runMapId": "24802",
+     "desc": "The Marines have caught up! Stop them quickly!"
+    },
+    {
+     "runMapId": "24803",
+     "desc": "Trying a sneak attack, what a coward! Take him down for good!"
+    },
+    {
+     "runMapId": "24804",
+     "desc": "There are still wounded who need treatment! Stop the Marines' attack!"
+    },
+    {
+     "runMapId": "24805",
+     "desc": "What a pain this guy is! Unless you beat him here, you can't retreat safely! Give it everything to defeat the Marine!"
+    },
+    {
+     "runMapId": "24806",
+     "desc": "Have his comrades come to back him up? Looks like you'll have to defeat them all!"
+    },
+    {
+     "runMapId": "24807",
+     "desc": "The Marine Colonel has arrived! This guy looks dangerous! Be careful!"
+    },
+    {
+     "runMapId": "24808",
+     "desc": "Marines keep coming! Resist the Marine assault and break through here!"
+    },
+    {
+     "runMapId": "24809",
+     "desc": "Marines keep coming! Resist the Marine assault and break through here!"
+    },
+    {
+     "runMapId": "24810",
+     "desc": "Marines keep coming! Resist the Marine assault and break through here!"
+    },
+    {
+     "runMapId": "24811",
+     "desc": "The war is over! Every life saved counts! Defeat the Marine Colonel and escape with your comrades!"
+    },
+    {
+     "runMapId": "24812",
+     "desc": "The war is over! Every life saved counts! Defeat the Marine Colonel and escape with your comrades!"
+    },
+    {
+     "runMapId": "24901",
+     "desc": "This guy sure is passionate! Looks like you'll have to return the passion!"
+    },
+    {
+     "runMapId": "24902",
+     "desc": "No choice. Looks like the only way out is to beat them! Give it everything!"
+    },
+    {
+     "runMapId": "24903",
+     "desc": "No choice. Looks like the only way out is to beat them! Give it everything!"
+    },
+    {
+     "runMapId": "24904",
+     "desc": "No choice. Looks like the only way out is to beat them! Give it everything!"
+    },
+    {
+     "runMapId": "24905",
+     "desc": "Everything that was stolen is here! Defeat the pirates and give it all back!"
+    },
+    {
+     "runMapId": "25101",
+     "desc": "A villain who kidnaps mermaids. You can't let him do as he pleases."
+    },
+    {
+     "runMapId": "25102",
+     "desc": "A villain who kidnaps mermaids. You can't let him do as he pleases."
+    },
+    {
+     "runMapId": "25103",
+     "desc": "Take back the mermaid's treasure!"
+    },
+    {
+     "runMapId": "25104",
+     "desc": "If you want to go to the New World, you'll need strength."
+    },
+    {
+     "runMapId": "25105",
+     "desc": "If you want to go to the New World, you'll need strength."
+    },
+    {
+     "runMapId": "25106",
+     "desc": "If you want to go to the New World, you'll need strength."
+    },
+    {
+     "runMapId": "25107",
+     "desc": "Escaped pirates are running wild in the plaza. You can't let them be."
+    },
+    {
+     "runMapId": "25108",
+     "desc": "Escaped pirates are running wild in the plaza. You can't let them be."
+    },
+    {
+     "runMapId": "25109",
+     "desc": "Escaped pirates are running wild in the plaza. You can't let them be."
+    },
+    {
+     "runMapId": "25110",
+     "desc": "Escaped pirates are running wild in the plaza. You can't let them be."
+    },
+    {
+     "runMapId": "25111",
+     "desc": "Escaped pirates are running wild in the plaza. You can't let them be."
+    },
+    {
+     "runMapId": "25112",
+     "desc": "Help the café owner crack down on people eating without paying."
+    },
+    {
+     "runMapId": "25113",
+     "desc": "Help the café owner crack down on people eating without paying."
+    },
+    {
+     "runMapId": "25114",
+     "desc": "Help the café owner crack down on people eating without paying."
+    },
+    {
+     "runMapId": "25115",
+     "desc": "Help the café owner crack down on people eating without paying."
+    },
+    {
+     "runMapId": "25116",
+     "desc": "Test yourself against the Ryugu Palace soldiers and prove your strength."
+    },
+    {
+     "runMapId": "25301",
+     "desc": "The weather on the ice island is too cold. Grab some warm clothes from Brownbeard's men!"
+    },
+    {
+     "runMapId": "25302",
+     "desc": "The weather on the ice island is too cold. Grab some warm clothes from Brownbeard's men!"
+    },
+    {
+     "runMapId": "25303",
+     "desc": "The weather on the ice island is too cold. Grab some warm clothes from Brownbeard's men!"
+    },
+    {
+     "runMapId": "25304",
+     "desc": "You ran into a Marine squad. Drive them off!"
+    },
+    {
+     "runMapId": "25305",
+     "desc": "Brownbeard's men seem completely off guard. It's a good chance to defeat them!"
+    },
+    {
+     "runMapId": "25306",
+     "desc": "You ran into a Marine squad. Drive them off!"
+    },
+    {
+     "runMapId": "25307",
+     "desc": "The Marine squad keeps on chasing you. Go all in!"
+    },
+    {
+     "runMapId": "25308",
+     "desc": "The Marine squad keeps on chasing you. Go all in!"
+    },
+    {
+     "runMapId": "25309",
+     "desc": "The Marine squad keeps on chasing you. Go all in!"
+    },
+    {
+     "runMapId": "25310",
+     "desc": "The Marine squad seems to have run into something terrifying."
+    },
+    {
+     "runMapId": "25311",
+     "desc": "Smiley's clones keep multiplying! Clear them out!"
+    },
+    {
+     "runMapId": "25312",
+     "desc": "The PH Squad is giving chase. Defeat them!"
+    },
+    {
+     "runMapId": "25313",
+     "desc": "The PH Squad is giving chase. Defeat them!"
+    },
+    {
+     "runMapId": "25501",
+     "desc": "You ran into a Marine squad. Drive them off!"
+    },
+    {
+     "runMapId": "25502",
+     "desc": "You ran into a Marine squad. Drive them off!"
+    },
+    {
+     "runMapId": "25503",
+     "desc": "Thugs are making trouble in the street. Drive them off!"
+    },
+    {
+     "runMapId": "25504",
+     "desc": "The thugs called for backup. Drive them off!"
+    },
+    {
+     "runMapId": "25601",
+     "desc": "Pirates want to loot amid the chaos. Stop them!"
+    },
+    {
+     "runMapId": "25602",
+     "desc": "The pirates called for backup. Stop them!"
+    },
+    {
+     "runMapId": "25603",
+     "desc": "Looks like even tougher pirates are coming. Drive them off!"
+    },
+    {
+     "runMapId": "25604",
+     "desc": "A pirate is under Doflamingo's control and attacking the people around him. Stop him quickly!"
+    },
+    {
+     "runMapId": "25605",
+     "desc": "A pirate is under Doflamingo's control and attacking the people around him. Stop him quickly!"
+    },
+    {
+     "runMapId": "25606",
+     "desc": "Another one after the bounty. What a pain. Drive him off quickly!"
+    },
+    {
+     "runMapId": "25607",
+     "desc": "This gladiator seems to have gotten something wrong. Calm him down with a fight!"
+    },
+    {
+     "runMapId": "25608",
+     "desc": "A pirate is under Doflamingo's control and attacking the people around him. Stop him quickly!"
+    },
+    {
+     "runMapId": "25609",
+     "desc": "Doflamingo has fallen, but his men are still stubborn. Drive them off!"
+    },
+    {
+     "runMapId": "25610",
+     "desc": "Doflamingo has fallen, but his men are still stubborn. Drive them off!"
+    },
+    {
+     "runMapId": "25611",
+     "desc": "Looks like someone wants to cause a ruckus. Let's give it a try!"
+    },
+    {
+     "runMapId": "25612",
+     "desc": "Doflamingo has fallen, but his men are still stubborn. Drive them off!"
+    },
+    {
+     "runMapId": "25613",
+     "desc": "More pirates want to make trouble. Stop them!"
+    },
+    {
+     "runMapId": "26007",
+     "desc": "A mock battle with a Powerful Mink."
+    },
+    {
+     "runMapId": "26009",
+     "desc": "A mock battle with a hardworking Mink."
+    },
+    {
+     "runMapId": "26013",
+     "desc": "The Beast Pirates remaining on the island are attacking the traitors. Defeat them."
+    },
+    {
+     "runMapId": "26014",
+     "desc": "The Beast Pirates remaining on the island are attacking the traitors. Defeat them."
+    },
+    {
+     "runMapId": "26016",
+     "desc": "The Beast Pirates remaining on the island are attacking the traitors. Defeat them."
+    },
+    {
+     "runMapId": "26019",
+     "desc": "Help the Minks drive off the pirates who sneaked onto the island."
+    },
+    {
+     "runMapId": "26020",
+     "desc": "Help the Minks drive off the pirates who sneaked onto the island."
+    },
+    {
+     "runMapId": "26021",
+     "desc": "Help the Minks drive off the pirates who sneaked onto the island."
+    },
+    {
+     "runMapId": "26101",
+     "desc": "Greedy pirates are eating people's houses. Stop them!"
+    },
+    {
+     "runMapId": "26102",
+     "desc": "Help the Chocolate Police defeat the repeat-offender pirates!"
+    },
+    {
+     "runMapId": "26103",
+     "desc": "A patrolling soldier spotted you. Defeat them!"
+    },
+    {
+     "runMapId": "26104",
+     "desc": "Hold off the guard soldiers and cover the pirates' retreat."
+    },
+    {
+     "runMapId": "26105",
+     "desc": "A tiny pirate doesn't know his place. Teach him a lesson!"
+    },
+    {
+     "runMapId": "26106",
+     "desc": "This pirate may have been lost so long he's lost his mind. Snap him out of it!"
+    },
+    {
+     "runMapId": "26107",
+     "desc": "The sentries spotted you. Drive them off!"
+    },
+    {
+     "runMapId": "26108",
+     "desc": "You're only pretending to be thieves, but still give it double effort! Teach the recruits a good lesson!"
+    },
+    {
+     "runMapId": "26109",
+     "desc": "Show this arrogant guard what we can do!"
+    },
+    {
+     "runMapId": "26110",
+     "desc": "Trade blows with this strong veteran."
+    },
+    {
+     "runMapId": "26111",
+     "desc": "The dim-witted guards seem to have mistaken you for someone else. Defeat them!"
+    },
+    {
+     "runMapId": "26112",
+     "desc": "Fake thieves against a real criminal. Show him what we're made of!"
+    },
+    {
+     "runMapId": "26113",
+     "desc": "Stealing other people's things is not nice. Teach them a lesson!"
+    },
+    {
+     "runMapId": "26114",
+     "desc": "Bread made from stolen flour won't taste good. Take back the flour!"
+    },
+    {
+     "runMapId": "26115",
+     "desc": "This thief doesn't seem to know his flour types. Broaden his horizons!"
+    },
+    {
+     "runMapId": "26116",
+     "desc": "If you can't cook, don't steal flour!"
+    },
+    {
+     "runMapId": "26117",
+     "desc": "Not just anyone can be a pirate. Teach this naive kid a lesson!"
+    },
+    {
+     "runMapId": "41500501",
+     "desc": "Stop the criminal who eats household objects from doing more damage."
+    },
+    {
+     "runMapId": "41500502",
+     "desc": "Defeat the recipe thief and recover the stolen recipe."
+    },
+    {
+     "runMapId": "41500503",
+     "desc": "Stop the mischievous big brother from fooling around any more."
+    },
+    {
+     "runMapId": "41500504",
+     "desc": "Drive off the noisy youngsters so they stop making trouble."
+    },
+    {
+     "runMapId": "41500505",
+     "desc": "Catch the escaped convict with no sense of direction and lead him out of the forest."
+    },
+    {
+     "runMapId": "41500506",
+     "desc": "Catch the picky-eater pirate and take him home to eat his wife's cooking."
+    },
+    {
+     "runMapId": "41500507",
+     "desc": "Catch the thief who stole the frying pan and get the stolen frying pan back."
+    },
+    {
+     "runMapId": "41500508",
+     "desc": "Stop the desperate pirate from giving up on himself."
+    },
+    {
+     "runMapId": "41500509",
+     "desc": "Drive off the slacking Chess Soldier."
+    },
+    {
+     "runMapId": "41500510",
+     "desc": "Catch this fake soldier."
+    },
+    {
+     "runMapId": "27001",
+     "desc": "A mock battle with a former sumo wrestler guard."
+    },
+    {
+     "runMapId": "27002",
+     "desc": "Show the sumo wrestler who came to help what you can do."
+    },
+    {
+     "runMapId": "27003",
+     "desc": "Many bandits roam the wilderness. Drive them off!"
+    },
+    {
+     "runMapId": "27004",
+     "desc": "The glutton bandit is angry because his giant lizard eggs were stolen. Drive him off!"
+    },
+    {
+     "runMapId": "27005",
+     "desc": "Defeat the youngest Bull Brother who came to rob you."
+    },
+    {
+     "runMapId": "27006",
+     "desc": "Defeat the second Bull Brother who came to rob you."
+    },
+    {
+     "runMapId": "27007",
+     "desc": "Defeat the eldest Bull Brother who came to rob you."
+    },
+    {
+     "runMapId": "41620126",
+     "desc": "Drive off the villain who took over the cave."
+    },
+    {
+     "runMapId": "41620127",
+     "desc": "Drive off the trap hunter."
+    },
+    {
+     "runMapId": "41620128",
+     "desc": "Drive off the bandits who took over someone else's nest."
+    },
+    {
+     "runMapId": "41620129",
+     "desc": "Drive off the suspicious person."
+    },
+    {
+     "runMapId": "41620130",
+     "desc": "Drive off the fat man who ate without paying."
+    },
+    {
+     "runMapId": "41620131",
+     "desc": "Drive off the sumo wrestler on a losing streak."
+    },
+    {
+     "runMapId": "41620132",
+     "desc": "Drive off the pest."
+    },
+    {
+     "runMapId": "41620133",
+     "desc": "Drive off the unknown thing lurking in the dark."
+    },
+    {
+     "runMapId": "41620134",
+     "desc": "Drive off the drunken sumo wrestler."
+    },
+    {
+     "runMapId": "41620135",
+     "desc": "Defeat the Blade Hunter."
+    },
+    {
+     "runMapId": "900001",
+     "desc": "Sky Island Co-op Part 1"
+    },
+    {
+     "runMapId": "900002",
+     "desc": "Sky Island Co-op Part 2"
+    },
+    {
+     "runMapId": "900003",
+     "desc": "Sky Island Co-op Part 3"
+    },
+    {
+     "runMapId": "900004",
+     "desc": "Sky Island Co-op Part 4"
+    },
+    {
+     "runMapId": "900005",
+     "desc": "Sky Island Co-op Part 5"
+    },
+    {
+     "runMapId": "900006",
+     "desc": "Sky Island Co-op Part 6"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "578/899 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableRaidSweepEpisode": {
    "key_column": "sweepEpisodeId",
