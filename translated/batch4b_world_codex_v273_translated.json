@@ -13,6 +13,46 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "chapterId": "301",
+     "difficulty": "Floor 1"
+    },
+    {
+     "chapterId": "302",
+     "difficulty": "Floor 2"
+    },
+    {
+     "chapterId": "303",
+     "difficulty": "Floor 3"
+    },
+    {
+     "chapterId": "304",
+     "difficulty": "Floor 4"
+    },
+    {
+     "chapterId": "305",
+     "difficulty": "Floor 5"
+    },
+    {
+     "chapterId": "306",
+     "difficulty": "Floor 6"
+    },
+    {
+     "chapterId": "307",
+     "difficulty": "Floor 7"
+    },
+    {
+     "chapterId": "308",
+     "difficulty": "Floor 8"
+    },
+    {
+     "chapterId": "309",
+     "difficulty": "Floor 9"
+    },
+    {
+     "chapterId": "310",
+     "difficulty": "Floor 10"
+    },
+    {
      "chapterId": "311",
      "difficulty": "Floor 11"
     },
@@ -21,16 +61,104 @@
      "difficulty": "Floor 12"
     },
     {
+     "chapterId": "401",
+     "difficulty": "Floor 1"
+    },
+    {
+     "chapterId": "402",
+     "difficulty": "Floor 2"
+    },
+    {
+     "chapterId": "403",
+     "difficulty": "Floor 3"
+    },
+    {
+     "chapterId": "404",
+     "difficulty": "Floor 4"
+    },
+    {
+     "chapterId": "405",
+     "difficulty": "Floor 5"
+    },
+    {
+     "chapterId": "406",
+     "difficulty": "Floor 6"
+    },
+    {
+     "chapterId": "407",
+     "difficulty": "Floor 7"
+    },
+    {
+     "chapterId": "408",
+     "difficulty": "Floor 8"
+    },
+    {
+     "chapterId": "409",
+     "difficulty": "Floor 9"
+    },
+    {
+     "chapterId": "410",
+     "difficulty": "Floor 10"
+    },
+    {
      "chapterId": "411",
      "difficulty": "Floor 11"
     },
     {
      "chapterId": "412",
      "difficulty": "Floor 12"
+    },
+    {
+     "chapterId": "1",
+     "difficulty": "Lv1 Training"
+    },
+    {
+     "chapterId": "2",
+     "difficulty": "Lv2 Training"
+    },
+    {
+     "chapterId": "3",
+     "difficulty": "Lv3 Training"
+    },
+    {
+     "chapterId": "4",
+     "difficulty": "Lv4 Training"
+    },
+    {
+     "chapterId": "5",
+     "difficulty": "Lv5 Training"
+    },
+    {
+     "chapterId": "6",
+     "difficulty": "Lv6 Training"
+    },
+    {
+     "chapterId": "7",
+     "difficulty": "Lv7 Training"
+    },
+    {
+     "chapterId": "8",
+     "difficulty": "Lv8 Training"
+    },
+    {
+     "chapterId": "9",
+     "difficulty": "Lv9 Training"
+    },
+    {
+     "chapterId": "10",
+     "difficulty": "Lv10 Training"
+    },
+    {
+     "chapterId": "16",
+     "difficulty": "Lv11 Training"
+    },
+    {
+     "chapterId": "17",
+     "difficulty": "Lv12 Training"
     }
    ],
    "other_bundle_rows": [],
-   "partial": "4/80 rows translated so far"
+   "partial": "36/80 rows translated so far"
   },
   "TableBeastPiratesBoss": {
    "key_column": "bossId",
@@ -42,6 +170,18 @@
    "content_diverges_between_bundles": true,
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
+    {
+     "bossId": "1",
+     "bossName": "King",
+     "bossDesc": "Beasts Pirates",
+     "bossTimeInfo": "9/25-9/27"
+    },
+    {
+     "bossId": "2",
+     "bossName": "Queen",
+     "bossDesc": "Beasts Pirates",
+     "bossTimeInfo": "9/28-9/30"
+    },
     {
      "bossId": "4",
      "bossName": "X Drake",
@@ -104,6 +244,18 @@
     }
    ],
    "other_bundle_rows": [
+    {
+     "bossId": "1",
+     "bossName": "Rob Lucci",
+     "bossDesc": "CP9",
+     "bossTimeInfo": "9/25-9/27"
+    },
+    {
+     "bossId": "2",
+     "bossName": "Kaku",
+     "bossDesc": "CP9",
+     "bossTimeInfo": "9/28-9/30"
+    },
     {
      "bossId": "3",
      "bossName": "Jabra",
@@ -177,7 +329,7 @@
      "bossTimeInfo": "12:00-22:59"
     }
    ],
-   "partial": "22/36 rows translated so far"
+   "partial": "26/36 rows translated so far"
   },
   "TableBeastPiratesStrongholdBoss": {
    "key_column": "bossId",
@@ -332,6 +484,24 @@
     }
    ]
   },
+  "TableBeastPiratesUnionRaid": {
+   "key_column": "id",
+   "text_columns": [
+    "bossName",
+    "copyName",
+    "copyText"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "17",
+     "bossName": "Enel",
+     "copyName": "Gods",
+     "copyText": "Boss Stage: every 1% damage dealt removes 50 Durability"
+    }
+   ],
+   "partial": "1/17 rows translated so far"
+  },
   "TableBloodConfig": {
    "key_column": "id",
    "text_columns": [
@@ -349,6 +519,334 @@
     }
    ],
    "partial": "2/11 rows translated so far"
+  },
+  "TableBloodyFightRaidTollgate": {
+   "key_column": "id",
+   "text_columns": [
+    "tollgateName",
+    "desc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "101",
+     "tollgateName": "Stage 1",
+     "desc": ""
+    },
+    {
+     "id": "102",
+     "tollgateName": "Stage 2",
+     "desc": ""
+    },
+    {
+     "id": "103",
+     "tollgateName": "Stage 3",
+     "desc": ""
+    },
+    {
+     "id": "104",
+     "tollgateName": "Stage 4",
+     "desc": ""
+    },
+    {
+     "id": "105",
+     "tollgateName": "Stage 5",
+     "desc": ""
+    },
+    {
+     "id": "106",
+     "tollgateName": "Stage 6",
+     "desc": ""
+    },
+    {
+     "id": "201",
+     "tollgateName": "Stage 1",
+     "desc": ""
+    },
+    {
+     "id": "202",
+     "tollgateName": "Stage 2",
+     "desc": ""
+    },
+    {
+     "id": "203",
+     "tollgateName": "Stage 3",
+     "desc": ""
+    },
+    {
+     "id": "204",
+     "tollgateName": "Stage 4",
+     "desc": ""
+    },
+    {
+     "id": "205",
+     "tollgateName": "Stage 5",
+     "desc": ""
+    },
+    {
+     "id": "206",
+     "tollgateName": "Stage 6",
+     "desc": ""
+    },
+    {
+     "id": "207",
+     "tollgateName": "Stage 7",
+     "desc": ""
+    },
+    {
+     "id": "208",
+     "tollgateName": "Stage 8",
+     "desc": ""
+    },
+    {
+     "id": "209",
+     "tollgateName": "Stage 9",
+     "desc": ""
+    },
+    {
+     "id": "301",
+     "tollgateName": "Stage 1",
+     "desc": ""
+    },
+    {
+     "id": "302",
+     "tollgateName": "Stage 2",
+     "desc": ""
+    },
+    {
+     "id": "303",
+     "tollgateName": "Stage 3",
+     "desc": ""
+    },
+    {
+     "id": "304",
+     "tollgateName": "Stage 4",
+     "desc": ""
+    },
+    {
+     "id": "305",
+     "tollgateName": "Stage 5",
+     "desc": ""
+    },
+    {
+     "id": "306",
+     "tollgateName": "Stage 6",
+     "desc": ""
+    },
+    {
+     "id": "307",
+     "tollgateName": "Stage 7",
+     "desc": ""
+    },
+    {
+     "id": "308",
+     "tollgateName": "Stage 8",
+     "desc": ""
+    },
+    {
+     "id": "309",
+     "tollgateName": "Stage 9",
+     "desc": ""
+    },
+    {
+     "id": "310",
+     "tollgateName": "Stage 10",
+     "desc": ""
+    },
+    {
+     "id": "311",
+     "tollgateName": "Stage 11",
+     "desc": ""
+    },
+    {
+     "id": "312",
+     "tollgateName": "Stage 12",
+     "desc": ""
+    },
+    {
+     "id": "401",
+     "tollgateName": "Stage 1",
+     "desc": ""
+    },
+    {
+     "id": "402",
+     "tollgateName": "Stage 2",
+     "desc": ""
+    },
+    {
+     "id": "403",
+     "tollgateName": "Stage 3",
+     "desc": ""
+    },
+    {
+     "id": "404",
+     "tollgateName": "Stage 4",
+     "desc": ""
+    },
+    {
+     "id": "405",
+     "tollgateName": "Stage 5",
+     "desc": ""
+    },
+    {
+     "id": "406",
+     "tollgateName": "Stage 6",
+     "desc": ""
+    },
+    {
+     "id": "407",
+     "tollgateName": "Stage 7",
+     "desc": ""
+    },
+    {
+     "id": "408",
+     "tollgateName": "Stage 8",
+     "desc": ""
+    },
+    {
+     "id": "409",
+     "tollgateName": "Stage 9",
+     "desc": ""
+    },
+    {
+     "id": "410",
+     "tollgateName": "Stage 10",
+     "desc": ""
+    },
+    {
+     "id": "411",
+     "tollgateName": "Stage 11",
+     "desc": ""
+    },
+    {
+     "id": "412",
+     "tollgateName": "Stage 12",
+     "desc": ""
+    },
+    {
+     "id": "501",
+     "tollgateName": "Stage 1",
+     "desc": ""
+    },
+    {
+     "id": "502",
+     "tollgateName": "Stage 2",
+     "desc": ""
+    },
+    {
+     "id": "503",
+     "tollgateName": "Stage 3",
+     "desc": ""
+    },
+    {
+     "id": "504",
+     "tollgateName": "Stage 4",
+     "desc": ""
+    },
+    {
+     "id": "505",
+     "tollgateName": "Stage 5",
+     "desc": ""
+    },
+    {
+     "id": "506",
+     "tollgateName": "Stage 6",
+     "desc": ""
+    },
+    {
+     "id": "507",
+     "tollgateName": "Stage 7",
+     "desc": ""
+    },
+    {
+     "id": "508",
+     "tollgateName": "Stage 8",
+     "desc": ""
+    },
+    {
+     "id": "509",
+     "tollgateName": "Stage 9",
+     "desc": ""
+    },
+    {
+     "id": "510",
+     "tollgateName": "Stage 10",
+     "desc": ""
+    },
+    {
+     "id": "511",
+     "tollgateName": "Stage 11",
+     "desc": ""
+    },
+    {
+     "id": "512",
+     "tollgateName": "Stage 12",
+     "desc": ""
+    },
+    {
+     "id": "601",
+     "tollgateName": "Stage 1",
+     "desc": ""
+    },
+    {
+     "id": "602",
+     "tollgateName": "Stage 2",
+     "desc": ""
+    },
+    {
+     "id": "603",
+     "tollgateName": "Stage 3",
+     "desc": ""
+    },
+    {
+     "id": "604",
+     "tollgateName": "Stage 4",
+     "desc": ""
+    },
+    {
+     "id": "605",
+     "tollgateName": "Stage 5",
+     "desc": ""
+    },
+    {
+     "id": "606",
+     "tollgateName": "Stage 6",
+     "desc": ""
+    },
+    {
+     "id": "607",
+     "tollgateName": "Stage 7",
+     "desc": ""
+    },
+    {
+     "id": "608",
+     "tollgateName": "Stage 8",
+     "desc": ""
+    },
+    {
+     "id": "609",
+     "tollgateName": "Stage 9",
+     "desc": ""
+    },
+    {
+     "id": "610",
+     "tollgateName": "Stage 10",
+     "desc": ""
+    },
+    {
+     "id": "611",
+     "tollgateName": "Stage 11",
+     "desc": ""
+    },
+    {
+     "id": "612",
+     "tollgateName": "Stage 12",
+     "desc": ""
+    }
+   ],
+   "other_bundle_rows": [],
+   "partial": "63/90 rows translated so far"
   },
   "TableBossInfo": {
    "key_column": "BossId",
@@ -447,6 +945,689 @@
     }
    ],
    "partial": "11/14 rows translated so far"
+  },
+  "TableCelebrationChallengeChapter": {
+   "key_column": "chapterId",
+   "text_columns": [
+    "name"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "chapterId": "1001",
+     "name": "Stage 1"
+    },
+    {
+     "chapterId": "1002",
+     "name": "Stage 2"
+    },
+    {
+     "chapterId": "1003",
+     "name": "Stage 3"
+    },
+    {
+     "chapterId": "1004",
+     "name": "Stage 4"
+    },
+    {
+     "chapterId": "1005",
+     "name": "Stage 5"
+    },
+    {
+     "chapterId": "1006",
+     "name": "Stage 6"
+    },
+    {
+     "chapterId": "1007",
+     "name": "Stage 7"
+    },
+    {
+     "chapterId": "1008",
+     "name": "Stage 8"
+    },
+    {
+     "chapterId": "1009",
+     "name": "Stage 9"
+    },
+    {
+     "chapterId": "1010",
+     "name": "Stage 10"
+    },
+    {
+     "chapterId": "1011",
+     "name": "Stage 11"
+    },
+    {
+     "chapterId": "1012",
+     "name": "Stage 12"
+    },
+    {
+     "chapterId": "1013",
+     "name": "Stage 13"
+    },
+    {
+     "chapterId": "1014",
+     "name": "Stage 14"
+    },
+    {
+     "chapterId": "1015",
+     "name": "Stage 15"
+    },
+    {
+     "chapterId": "1016",
+     "name": "Stage 16"
+    },
+    {
+     "chapterId": "1017",
+     "name": "Stage 17"
+    },
+    {
+     "chapterId": "1018",
+     "name": "Stage 18"
+    },
+    {
+     "chapterId": "1019",
+     "name": "Stage 19"
+    },
+    {
+     "chapterId": "1020",
+     "name": "Stage 20"
+    },
+    {
+     "chapterId": "1021",
+     "name": "Stage 21"
+    },
+    {
+     "chapterId": "1022",
+     "name": "Stage 22"
+    },
+    {
+     "chapterId": "1023",
+     "name": "Stage 23"
+    },
+    {
+     "chapterId": "1024",
+     "name": "Stage 24"
+    },
+    {
+     "chapterId": "1025",
+     "name": "Stage 25"
+    },
+    {
+     "chapterId": "1026",
+     "name": "Stage 26"
+    },
+    {
+     "chapterId": "1027",
+     "name": "Stage 27"
+    },
+    {
+     "chapterId": "1028",
+     "name": "Stage 28"
+    },
+    {
+     "chapterId": "1029",
+     "name": "Stage 29"
+    },
+    {
+     "chapterId": "1030",
+     "name": "Stage 30"
+    },
+    {
+     "chapterId": "2001",
+     "name": "Stage 1"
+    },
+    {
+     "chapterId": "2002",
+     "name": "Stage 2"
+    },
+    {
+     "chapterId": "2003",
+     "name": "Stage 3"
+    },
+    {
+     "chapterId": "2004",
+     "name": "Stage 4"
+    },
+    {
+     "chapterId": "2005",
+     "name": "Stage 5"
+    },
+    {
+     "chapterId": "2006",
+     "name": "Stage 6"
+    },
+    {
+     "chapterId": "2007",
+     "name": "Stage 7"
+    },
+    {
+     "chapterId": "2008",
+     "name": "Stage 8"
+    },
+    {
+     "chapterId": "2009",
+     "name": "Stage 9"
+    },
+    {
+     "chapterId": "2010",
+     "name": "Stage 10"
+    }
+   ]
+  },
+  "TableCrawlTowerPassReward": {
+   "key_column": "rewardId",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "rewardId": "1",
+     "desc": "Clear Voyage Tower Floor 1"
+    },
+    {
+     "rewardId": "2",
+     "desc": "Clear Voyage Tower Floor 2"
+    },
+    {
+     "rewardId": "3",
+     "desc": "Clear Voyage Tower Floor 3"
+    },
+    {
+     "rewardId": "4",
+     "desc": "Clear Voyage Tower Floor 4"
+    },
+    {
+     "rewardId": "5",
+     "desc": "Clear Voyage Tower Floor 5"
+    },
+    {
+     "rewardId": "6",
+     "desc": "Clear Voyage Tower Floor 6"
+    },
+    {
+     "rewardId": "7",
+     "desc": "Clear Voyage Tower Floor 7"
+    },
+    {
+     "rewardId": "8",
+     "desc": "Clear Voyage Tower Floor 8"
+    },
+    {
+     "rewardId": "9",
+     "desc": "Clear Voyage Tower Floor 9"
+    },
+    {
+     "rewardId": "10",
+     "desc": "Clear Voyage Tower Floor 10"
+    },
+    {
+     "rewardId": "11",
+     "desc": "Clear Voyage Tower Floor 11"
+    },
+    {
+     "rewardId": "12",
+     "desc": "Clear Voyage Tower Floor 12"
+    },
+    {
+     "rewardId": "13",
+     "desc": "Clear Voyage Tower Floor 13"
+    },
+    {
+     "rewardId": "14",
+     "desc": "Clear Voyage Tower Floor 14"
+    },
+    {
+     "rewardId": "15",
+     "desc": "Clear Voyage Tower Floor 15"
+    },
+    {
+     "rewardId": "16",
+     "desc": "Clear Voyage Tower Floor 16"
+    },
+    {
+     "rewardId": "17",
+     "desc": "Clear Voyage Tower Floor 17"
+    },
+    {
+     "rewardId": "18",
+     "desc": "Clear Voyage Tower Floor 18"
+    },
+    {
+     "rewardId": "19",
+     "desc": "Clear Voyage Tower Floor 19"
+    },
+    {
+     "rewardId": "20",
+     "desc": "Clear Voyage Tower Floor 20"
+    },
+    {
+     "rewardId": "21",
+     "desc": "Clear Voyage Tower Floor 21"
+    },
+    {
+     "rewardId": "22",
+     "desc": "Clear Voyage Tower Floor 22"
+    },
+    {
+     "rewardId": "23",
+     "desc": "Clear Voyage Tower Floor 23"
+    },
+    {
+     "rewardId": "24",
+     "desc": "Clear Voyage Tower Floor 24"
+    },
+    {
+     "rewardId": "25",
+     "desc": "Clear Voyage Tower Floor 25"
+    },
+    {
+     "rewardId": "26",
+     "desc": "Clear Voyage Tower Floor 26"
+    },
+    {
+     "rewardId": "27",
+     "desc": "Clear Voyage Tower Floor 27"
+    },
+    {
+     "rewardId": "28",
+     "desc": "Clear Voyage Tower Floor 28"
+    },
+    {
+     "rewardId": "29",
+     "desc": "Clear Voyage Tower Floor 29"
+    },
+    {
+     "rewardId": "30",
+     "desc": "Clear Voyage Tower Floor 30"
+    },
+    {
+     "rewardId": "31",
+     "desc": "Clear Voyage Tower Floor 31"
+    },
+    {
+     "rewardId": "32",
+     "desc": "Clear Voyage Tower Floor 32"
+    },
+    {
+     "rewardId": "33",
+     "desc": "Clear Voyage Tower Floor 33"
+    },
+    {
+     "rewardId": "34",
+     "desc": "Clear Voyage Tower Floor 34"
+    },
+    {
+     "rewardId": "35",
+     "desc": "Clear Voyage Tower Floor 35"
+    },
+    {
+     "rewardId": "36",
+     "desc": "Clear Voyage Tower Floor 36"
+    },
+    {
+     "rewardId": "37",
+     "desc": "Clear Voyage Tower Floor 37"
+    },
+    {
+     "rewardId": "38",
+     "desc": "Clear Voyage Tower Floor 38"
+    },
+    {
+     "rewardId": "39",
+     "desc": "Clear Voyage Tower Floor 39"
+    },
+    {
+     "rewardId": "40",
+     "desc": "Clear Voyage Tower Floor 40"
+    },
+    {
+     "rewardId": "41",
+     "desc": "Clear Voyage Tower Floor 41"
+    },
+    {
+     "rewardId": "42",
+     "desc": "Clear Voyage Tower Floor 42"
+    },
+    {
+     "rewardId": "43",
+     "desc": "Clear Voyage Tower Floor 43"
+    },
+    {
+     "rewardId": "44",
+     "desc": "Clear Voyage Tower Floor 44"
+    },
+    {
+     "rewardId": "45",
+     "desc": "Clear Voyage Tower Floor 45"
+    },
+    {
+     "rewardId": "46",
+     "desc": "Clear Voyage Tower Floor 46"
+    },
+    {
+     "rewardId": "47",
+     "desc": "Clear Voyage Tower Floor 47"
+    },
+    {
+     "rewardId": "48",
+     "desc": "Clear Voyage Tower Floor 48"
+    },
+    {
+     "rewardId": "49",
+     "desc": "Clear Voyage Tower Floor 49"
+    },
+    {
+     "rewardId": "50",
+     "desc": "Clear Voyage Tower Floor 50"
+    },
+    {
+     "rewardId": "51",
+     "desc": "Clear Voyage Tower Floor 51"
+    },
+    {
+     "rewardId": "52",
+     "desc": "Clear Voyage Tower Floor 52"
+    },
+    {
+     "rewardId": "53",
+     "desc": "Clear Voyage Tower Floor 53"
+    },
+    {
+     "rewardId": "54",
+     "desc": "Clear Voyage Tower Floor 54"
+    },
+    {
+     "rewardId": "55",
+     "desc": "Clear Voyage Tower Floor 55"
+    },
+    {
+     "rewardId": "56",
+     "desc": "Clear Voyage Tower Floor 56"
+    },
+    {
+     "rewardId": "57",
+     "desc": "Clear Voyage Tower Floor 57"
+    },
+    {
+     "rewardId": "58",
+     "desc": "Clear Voyage Tower Floor 58"
+    },
+    {
+     "rewardId": "59",
+     "desc": "Clear Voyage Tower Floor 59"
+    },
+    {
+     "rewardId": "60",
+     "desc": "Clear Voyage Tower Floor 60"
+    },
+    {
+     "rewardId": "61",
+     "desc": "Clear Voyage Tower Floor 61"
+    },
+    {
+     "rewardId": "62",
+     "desc": "Clear Voyage Tower Floor 62"
+    },
+    {
+     "rewardId": "63",
+     "desc": "Clear Voyage Tower Floor 63"
+    },
+    {
+     "rewardId": "64",
+     "desc": "Clear Voyage Tower Floor 64"
+    },
+    {
+     "rewardId": "65",
+     "desc": "Clear Voyage Tower Floor 65"
+    },
+    {
+     "rewardId": "66",
+     "desc": "Clear Voyage Tower Floor 66"
+    },
+    {
+     "rewardId": "67",
+     "desc": "Clear Voyage Tower Floor 67"
+    },
+    {
+     "rewardId": "68",
+     "desc": "Clear Voyage Tower Floor 68"
+    },
+    {
+     "rewardId": "69",
+     "desc": "Clear Voyage Tower Floor 69"
+    },
+    {
+     "rewardId": "70",
+     "desc": "Clear Voyage Tower Floor 70"
+    },
+    {
+     "rewardId": "71",
+     "desc": "Clear Voyage Tower Floor 71"
+    },
+    {
+     "rewardId": "72",
+     "desc": "Clear Voyage Tower Floor 72"
+    },
+    {
+     "rewardId": "73",
+     "desc": "Clear Voyage Tower Floor 73"
+    },
+    {
+     "rewardId": "74",
+     "desc": "Clear Voyage Tower Floor 74"
+    },
+    {
+     "rewardId": "75",
+     "desc": "Clear Voyage Tower Floor 75"
+    },
+    {
+     "rewardId": "76",
+     "desc": "Clear Voyage Tower Floor 76"
+    },
+    {
+     "rewardId": "77",
+     "desc": "Clear Voyage Tower Floor 77"
+    },
+    {
+     "rewardId": "78",
+     "desc": "Clear Voyage Tower Floor 78"
+    },
+    {
+     "rewardId": "79",
+     "desc": "Clear Voyage Tower Floor 79"
+    },
+    {
+     "rewardId": "80",
+     "desc": "Clear Voyage Tower Floor 80"
+    },
+    {
+     "rewardId": "81",
+     "desc": "Clear Voyage Tower Floor 81"
+    },
+    {
+     "rewardId": "82",
+     "desc": "Clear Voyage Tower Floor 82"
+    },
+    {
+     "rewardId": "83",
+     "desc": "Clear Voyage Tower Floor 83"
+    },
+    {
+     "rewardId": "84",
+     "desc": "Clear Voyage Tower Floor 84"
+    },
+    {
+     "rewardId": "85",
+     "desc": "Clear Voyage Tower Floor 85"
+    },
+    {
+     "rewardId": "86",
+     "desc": "Clear Voyage Tower Floor 86"
+    },
+    {
+     "rewardId": "87",
+     "desc": "Clear Voyage Tower Floor 87"
+    },
+    {
+     "rewardId": "88",
+     "desc": "Clear Voyage Tower Floor 88"
+    },
+    {
+     "rewardId": "89",
+     "desc": "Clear Voyage Tower Floor 89"
+    },
+    {
+     "rewardId": "90",
+     "desc": "Clear Voyage Tower Floor 90"
+    },
+    {
+     "rewardId": "91",
+     "desc": "Clear Voyage Tower Floor 91"
+    },
+    {
+     "rewardId": "92",
+     "desc": "Clear Voyage Tower Floor 92"
+    },
+    {
+     "rewardId": "93",
+     "desc": "Clear Voyage Tower Floor 93"
+    },
+    {
+     "rewardId": "94",
+     "desc": "Clear Voyage Tower Floor 94"
+    },
+    {
+     "rewardId": "95",
+     "desc": "Clear Voyage Tower Floor 95"
+    },
+    {
+     "rewardId": "96",
+     "desc": "Clear Voyage Tower Floor 96"
+    },
+    {
+     "rewardId": "97",
+     "desc": "Clear Voyage Tower Floor 97"
+    },
+    {
+     "rewardId": "98",
+     "desc": "Clear Voyage Tower Floor 98"
+    },
+    {
+     "rewardId": "99",
+     "desc": "Clear Voyage Tower Floor 99"
+    },
+    {
+     "rewardId": "100",
+     "desc": "Clear Voyage Tower Floor 100"
+    }
+   ]
+  },
+  "TableCrawlTowerWeekTask": {
+   "key_column": "taskId",
+   "text_columns": [
+    "taskDesc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "taskId": "1",
+     "taskDesc": "Clear 50 Voyage Tower Floors This Week"
+    },
+    {
+     "taskId": "2",
+     "taskDesc": "Clear 100 Voyage Tower Floors This Week"
+    },
+    {
+     "taskId": "3",
+     "taskDesc": "Clear 200 Voyage Tower Floors This Week"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "taskId": "1",
+     "taskDesc": "Clear 10 Voyage Tower Floors This Week"
+    },
+    {
+     "taskId": "2",
+     "taskDesc": "Clear 40 Voyage Tower Floors This Week"
+    },
+    {
+     "taskId": "3",
+     "taskDesc": "Clear 80 Voyage Tower Floors This Week"
+    }
+   ]
+  },
+  "TableDefenseFigthAchievement": {
+   "key_column": "id",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "11001",
+     "desc": "Stage 1"
+    },
+    {
+     "id": "11002",
+     "desc": "Stage 2"
+    },
+    {
+     "id": "11003",
+     "desc": "Stage 3"
+    },
+    {
+     "id": "11004",
+     "desc": "Stage 4"
+    },
+    {
+     "id": "11005",
+     "desc": "Stage 5"
+    },
+    {
+     "id": "11006",
+     "desc": "Stage 6"
+    },
+    {
+     "id": "11007",
+     "desc": "Stage 7"
+    },
+    {
+     "id": "11008",
+     "desc": "Stage 8"
+    },
+    {
+     "id": "11009",
+     "desc": "Stage 9"
+    },
+    {
+     "id": "11010",
+     "desc": "Stage 10"
+    },
+    {
+     "id": "11011",
+     "desc": "Stage 11"
+    },
+    {
+     "id": "11012",
+     "desc": "Stage 12"
+    },
+    {
+     "id": "11013",
+     "desc": "Stage 13"
+    },
+    {
+     "id": "11014",
+     "desc": "Stage 14"
+    },
+    {
+     "id": "11015",
+     "desc": "Stage 15"
+    }
+   ]
   },
   "TableDesperateChallengeChapter": {
    "key_column": "id",
@@ -629,9 +1810,910 @@
     {
      "id": "100",
      "name": "Training Route"
+    },
+    {
+     "id": "101",
+     "name": "Training Route 1"
+    },
+    {
+     "id": "102",
+     "name": "Training Route 2"
+    },
+    {
+     "id": "103",
+     "name": "Training Route 3"
+    },
+    {
+     "id": "104",
+     "name": "Training Route 4"
+    },
+    {
+     "id": "105",
+     "name": "Training Route 5"
+    },
+    {
+     "id": "106",
+     "name": "Training Route 6"
+    },
+    {
+     "id": "107",
+     "name": "Training Route 7"
+    },
+    {
+     "id": "108",
+     "name": "Training Route 8"
+    },
+    {
+     "id": "109",
+     "name": "Training Route 9"
+    },
+    {
+     "id": "110",
+     "name": "Training Route 10"
+    },
+    {
+     "id": "111",
+     "name": "Training Route 11"
+    },
+    {
+     "id": "112",
+     "name": "Training Route 12"
+    },
+    {
+     "id": "113",
+     "name": "Training Route 13"
+    },
+    {
+     "id": "114",
+     "name": "Training Route 14"
+    },
+    {
+     "id": "115",
+     "name": "Training Route 15"
+    },
+    {
+     "id": "116",
+     "name": "Training Route 16"
+    },
+    {
+     "id": "117",
+     "name": "Training Route 17"
+    },
+    {
+     "id": "118",
+     "name": "Training Route 18"
+    },
+    {
+     "id": "119",
+     "name": "Training Route 19"
+    },
+    {
+     "id": "120",
+     "name": "Training Route 20"
+    },
+    {
+     "id": "121",
+     "name": "Training Route 21"
+    },
+    {
+     "id": "122",
+     "name": "Training Route 22"
+    },
+    {
+     "id": "123",
+     "name": "Training Route 23"
+    },
+    {
+     "id": "124",
+     "name": "Training Route 24"
+    },
+    {
+     "id": "125",
+     "name": "Training Route 25"
+    },
+    {
+     "id": "126",
+     "name": "Training Route 26"
+    },
+    {
+     "id": "127",
+     "name": "Training Route 27"
+    },
+    {
+     "id": "128",
+     "name": "Training Route 28"
+    },
+    {
+     "id": "129",
+     "name": "Training Route 29"
+    },
+    {
+     "id": "130",
+     "name": "Training Route 30"
+    },
+    {
+     "id": "131",
+     "name": "Training Route 31"
+    },
+    {
+     "id": "132",
+     "name": "Training Route 32"
+    },
+    {
+     "id": "133",
+     "name": "Training Route 33"
+    },
+    {
+     "id": "134",
+     "name": "Training Route 34"
+    },
+    {
+     "id": "135",
+     "name": "Training Route 35"
+    },
+    {
+     "id": "136",
+     "name": "Training Route 36"
+    },
+    {
+     "id": "137",
+     "name": "Training Route 37"
+    },
+    {
+     "id": "138",
+     "name": "Training Route 38"
+    },
+    {
+     "id": "139",
+     "name": "Training Route 39"
+    },
+    {
+     "id": "140",
+     "name": "Training Route 40"
+    },
+    {
+     "id": "141",
+     "name": "Training Route 41"
+    },
+    {
+     "id": "142",
+     "name": "Training Route 42"
+    },
+    {
+     "id": "143",
+     "name": "Training Route 43"
+    },
+    {
+     "id": "144",
+     "name": "Training Route 44"
+    },
+    {
+     "id": "145",
+     "name": "Training Route 45"
+    },
+    {
+     "id": "146",
+     "name": "Training Route 46"
+    },
+    {
+     "id": "147",
+     "name": "Training Route 47"
+    },
+    {
+     "id": "148",
+     "name": "Training Route 48"
+    },
+    {
+     "id": "149",
+     "name": "Training Route 49"
+    },
+    {
+     "id": "150",
+     "name": "Training Route 50"
+    },
+    {
+     "id": "151",
+     "name": "Training Route 51"
+    },
+    {
+     "id": "152",
+     "name": "Training Route 52"
+    },
+    {
+     "id": "153",
+     "name": "Training Route 53"
+    },
+    {
+     "id": "154",
+     "name": "Training Route 54"
+    },
+    {
+     "id": "155",
+     "name": "Training Route 55"
+    },
+    {
+     "id": "156",
+     "name": "Training Route 56"
+    },
+    {
+     "id": "157",
+     "name": "Training Route 57"
+    },
+    {
+     "id": "158",
+     "name": "Training Route 58"
+    },
+    {
+     "id": "159",
+     "name": "Training Route 59"
+    },
+    {
+     "id": "160",
+     "name": "Training Route 60"
+    },
+    {
+     "id": "161",
+     "name": "Training Route 61"
+    },
+    {
+     "id": "162",
+     "name": "Training Route 62"
+    },
+    {
+     "id": "163",
+     "name": "Training Route 63"
+    },
+    {
+     "id": "164",
+     "name": "Training Route 64"
+    },
+    {
+     "id": "165",
+     "name": "Training Route 65"
+    },
+    {
+     "id": "166",
+     "name": "Training Route 66"
+    },
+    {
+     "id": "167",
+     "name": "Training Route 67"
+    },
+    {
+     "id": "168",
+     "name": "Training Route 68"
+    },
+    {
+     "id": "169",
+     "name": "Training Route 69"
+    },
+    {
+     "id": "170",
+     "name": "Training Route 70"
+    },
+    {
+     "id": "171",
+     "name": "Training Route 71"
+    },
+    {
+     "id": "172",
+     "name": "Training Route 72"
+    },
+    {
+     "id": "173",
+     "name": "Training Route 73"
+    },
+    {
+     "id": "174",
+     "name": "Training Route 74"
+    },
+    {
+     "id": "175",
+     "name": "Training Route 75"
+    },
+    {
+     "id": "176",
+     "name": "Training Route 76"
+    },
+    {
+     "id": "177",
+     "name": "Training Route 77"
+    },
+    {
+     "id": "178",
+     "name": "Training Route 78"
+    },
+    {
+     "id": "179",
+     "name": "Training Route 79"
+    },
+    {
+     "id": "180",
+     "name": "Training Route 80"
+    },
+    {
+     "id": "181",
+     "name": "Training Route 81"
+    },
+    {
+     "id": "182",
+     "name": "Training Route 82"
+    },
+    {
+     "id": "183",
+     "name": "Training Route 83"
+    },
+    {
+     "id": "184",
+     "name": "Training Route 84"
+    },
+    {
+     "id": "185",
+     "name": "Training Route 85"
+    },
+    {
+     "id": "186",
+     "name": "Training Route 86"
+    },
+    {
+     "id": "187",
+     "name": "Training Route 87"
+    },
+    {
+     "id": "188",
+     "name": "Training Route 88"
+    },
+    {
+     "id": "189",
+     "name": "Training Route 89"
+    },
+    {
+     "id": "190",
+     "name": "Training Route 90"
+    },
+    {
+     "id": "191",
+     "name": "Training Route 91"
+    },
+    {
+     "id": "192",
+     "name": "Training Route 92"
+    },
+    {
+     "id": "193",
+     "name": "Training Route 93"
+    },
+    {
+     "id": "194",
+     "name": "Training Route 94"
+    },
+    {
+     "id": "195",
+     "name": "Training Route 95"
+    },
+    {
+     "id": "196",
+     "name": "Training Route 96"
+    },
+    {
+     "id": "197",
+     "name": "Training Route 97"
+    },
+    {
+     "id": "198",
+     "name": "Training Route 98"
+    },
+    {
+     "id": "199",
+     "name": "Training Route 99"
+    },
+    {
+     "id": "200",
+     "name": "Training Route 100"
+    },
+    {
+     "id": "201",
+     "name": "Training Route 101"
+    },
+    {
+     "id": "202",
+     "name": "Training Route 102"
+    },
+    {
+     "id": "203",
+     "name": "Training Route 103"
+    },
+    {
+     "id": "204",
+     "name": "Training Route 104"
+    },
+    {
+     "id": "205",
+     "name": "Training Route 105"
+    },
+    {
+     "id": "206",
+     "name": "Training Route 106"
+    },
+    {
+     "id": "207",
+     "name": "Training Route 107"
+    },
+    {
+     "id": "208",
+     "name": "Training Route 108"
+    },
+    {
+     "id": "209",
+     "name": "Training Route 109"
+    },
+    {
+     "id": "210",
+     "name": "Training Route 110"
+    },
+    {
+     "id": "211",
+     "name": "Training Route 111"
+    },
+    {
+     "id": "212",
+     "name": "Training Route 112"
+    },
+    {
+     "id": "213",
+     "name": "Training Route 113"
+    },
+    {
+     "id": "214",
+     "name": "Training Route 114"
+    },
+    {
+     "id": "215",
+     "name": "Training Route 115"
+    },
+    {
+     "id": "216",
+     "name": "Training Route 116"
+    },
+    {
+     "id": "217",
+     "name": "Training Route 117"
+    },
+    {
+     "id": "218",
+     "name": "Training Route 118"
+    },
+    {
+     "id": "219",
+     "name": "Training Route 119"
+    },
+    {
+     "id": "220",
+     "name": "Training Route 120"
+    },
+    {
+     "id": "221",
+     "name": "Training Route 121"
+    },
+    {
+     "id": "222",
+     "name": "Training Route 122"
+    },
+    {
+     "id": "223",
+     "name": "Training Route 123"
+    },
+    {
+     "id": "224",
+     "name": "Training Route 124"
+    },
+    {
+     "id": "225",
+     "name": "Training Route 125"
+    },
+    {
+     "id": "226",
+     "name": "Training Route 126"
+    },
+    {
+     "id": "227",
+     "name": "Training Route 127"
+    },
+    {
+     "id": "228",
+     "name": "Training Route 128"
+    },
+    {
+     "id": "229",
+     "name": "Training Route 129"
+    },
+    {
+     "id": "230",
+     "name": "Training Route 130"
+    },
+    {
+     "id": "231",
+     "name": "Training Route 131"
+    },
+    {
+     "id": "232",
+     "name": "Training Route 132"
+    },
+    {
+     "id": "233",
+     "name": "Training Route 133"
+    },
+    {
+     "id": "234",
+     "name": "Training Route 134"
+    },
+    {
+     "id": "235",
+     "name": "Training Route 135"
+    },
+    {
+     "id": "236",
+     "name": "Training Route 136"
+    },
+    {
+     "id": "237",
+     "name": "Training Route 137"
+    },
+    {
+     "id": "238",
+     "name": "Training Route 138"
+    },
+    {
+     "id": "239",
+     "name": "Training Route 139"
+    },
+    {
+     "id": "240",
+     "name": "Training Route 140"
+    },
+    {
+     "id": "241",
+     "name": "Training Route 141"
+    },
+    {
+     "id": "242",
+     "name": "Training Route 142"
+    },
+    {
+     "id": "243",
+     "name": "Training Route 143"
+    },
+    {
+     "id": "244",
+     "name": "Training Route 144"
+    },
+    {
+     "id": "245",
+     "name": "Training Route 145"
+    },
+    {
+     "id": "246",
+     "name": "Training Route 146"
+    },
+    {
+     "id": "247",
+     "name": "Training Route 147"
+    },
+    {
+     "id": "248",
+     "name": "Training Route 148"
+    },
+    {
+     "id": "249",
+     "name": "Training Route 149"
+    },
+    {
+     "id": "250",
+     "name": "Training Route 150"
+    },
+    {
+     "id": "251",
+     "name": "Training Route 151"
+    },
+    {
+     "id": "252",
+     "name": "Training Route 152"
+    },
+    {
+     "id": "253",
+     "name": "Training Route 153"
+    },
+    {
+     "id": "254",
+     "name": "Training Route 154"
+    },
+    {
+     "id": "255",
+     "name": "Training Route 155"
+    },
+    {
+     "id": "256",
+     "name": "Training Route 156"
+    },
+    {
+     "id": "257",
+     "name": "Training Route 157"
+    },
+    {
+     "id": "258",
+     "name": "Training Route 158"
+    },
+    {
+     "id": "259",
+     "name": "Training Route 159"
+    },
+    {
+     "id": "260",
+     "name": "Training Route 160"
+    },
+    {
+     "id": "261",
+     "name": "Training Route 161"
+    },
+    {
+     "id": "262",
+     "name": "Training Route 162"
+    },
+    {
+     "id": "263",
+     "name": "Training Route 163"
+    },
+    {
+     "id": "264",
+     "name": "Training Route 164"
+    },
+    {
+     "id": "265",
+     "name": "Training Route 165"
+    },
+    {
+     "id": "266",
+     "name": "Training Route 166"
+    },
+    {
+     "id": "267",
+     "name": "Training Route 167"
+    },
+    {
+     "id": "268",
+     "name": "Training Route 168"
+    },
+    {
+     "id": "269",
+     "name": "Training Route 169"
+    },
+    {
+     "id": "270",
+     "name": "Training Route 170"
+    },
+    {
+     "id": "271",
+     "name": "Training Route 171"
+    },
+    {
+     "id": "272",
+     "name": "Training Route 172"
+    },
+    {
+     "id": "273",
+     "name": "Training Route 173"
+    },
+    {
+     "id": "274",
+     "name": "Training Route 174"
+    },
+    {
+     "id": "275",
+     "name": "Training Route 175"
+    },
+    {
+     "id": "276",
+     "name": "Training Route 176"
+    },
+    {
+     "id": "277",
+     "name": "Training Route 177"
+    },
+    {
+     "id": "278",
+     "name": "Training Route 178"
+    },
+    {
+     "id": "279",
+     "name": "Training Route 179"
+    },
+    {
+     "id": "280",
+     "name": "Training Route 180"
+    },
+    {
+     "id": "281",
+     "name": "Training Route 181"
+    },
+    {
+     "id": "282",
+     "name": "Training Route 182"
+    },
+    {
+     "id": "283",
+     "name": "Training Route 183"
+    },
+    {
+     "id": "284",
+     "name": "Training Route 184"
+    },
+    {
+     "id": "285",
+     "name": "Training Route 185"
+    },
+    {
+     "id": "286",
+     "name": "Training Route 186"
+    },
+    {
+     "id": "287",
+     "name": "Training Route 187"
+    },
+    {
+     "id": "288",
+     "name": "Training Route 188"
+    },
+    {
+     "id": "289",
+     "name": "Training Route 189"
+    },
+    {
+     "id": "290",
+     "name": "Training Route 190"
+    },
+    {
+     "id": "291",
+     "name": "Training Route 191"
+    },
+    {
+     "id": "292",
+     "name": "Training Route 192"
+    },
+    {
+     "id": "293",
+     "name": "Training Route 193"
+    },
+    {
+     "id": "294",
+     "name": "Training Route 194"
+    },
+    {
+     "id": "295",
+     "name": "Training Route 195"
+    },
+    {
+     "id": "296",
+     "name": "Training Route 196"
+    },
+    {
+     "id": "297",
+     "name": "Training Route 197"
+    },
+    {
+     "id": "298",
+     "name": "Training Route 198"
+    },
+    {
+     "id": "299",
+     "name": "Training Route 199"
+    },
+    {
+     "id": "300",
+     "name": "Training Route 200"
+    }
+   ]
+  },
+  "TableExploreExtraConditionPool": {
+   "key_column": "id",
+   "text_columns": [
+    "alias"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "alias": "Deploy 5 Characters at Lv40 or Above"
+    },
+    {
+     "id": "5",
+     "alias": "Deploy 5 Characters at Lv60 or Above"
+    },
+    {
+     "id": "9",
+     "alias": "Deploy 5 Characters at Lv80 or Above"
+    },
+    {
+     "id": "13",
+     "alias": "Deal 2,000,000 Damage in Total"
+    },
+    {
+     "id": "14",
+     "alias": "Lower enemies' Defense 5 Times in Battle"
+    },
+    {
+     "id": "15",
+     "alias": "Gain Shields 10 Times in Battle"
+    },
+    {
+     "id": "18",
+     "alias": "Max Combo Exceeds 70 Hits"
+    },
+    {
+     "id": "19",
+     "alias": "Deal 300,000 Elemental Damage in Total"
+    },
+    {
+     "id": "21",
+     "alias": "Deal 4,000,000 Damage in Total"
+    },
+    {
+     "id": "22",
+     "alias": "Lower enemies' Defense 10 Times in Battle"
+    },
+    {
+     "id": "23",
+     "alias": "Gain Shields 15 Times in Battle"
+    },
+    {
+     "id": "26",
+     "alias": "Max Combo Exceeds 50 Hits"
+    },
+    {
+     "id": "27",
+     "alias": "Deal 500,000 Elemental Damage in Total"
+    },
+    {
+     "id": "29",
+     "alias": "Deal 6,000,000 Damage in Total"
+    },
+    {
+     "id": "30",
+     "alias": "Lower enemies' Defense 15 Times in Battle"
+    },
+    {
+     "id": "31",
+     "alias": "Gain Shields 20 Times in Battle"
+    },
+    {
+     "id": "34",
+     "alias": "Max Combo Exceeds 150 Hits"
+    },
+    {
+     "id": "35",
+     "alias": "Deal 1,000,000 Elemental Damage in Total"
+    },
+    {
+     "id": "37",
+     "alias": "Deal 8,000,000 Damage in Total"
+    },
+    {
+     "id": "38",
+     "alias": "Lower enemies' Defense 20 Times in Battle"
+    },
+    {
+     "id": "39",
+     "alias": "Gain Shields 25 Times in Battle"
+    },
+    {
+     "id": "42",
+     "alias": "Max Combo Exceeds 150 Hits"
+    },
+    {
+     "id": "43",
+     "alias": "Deal 2,000,000 Elemental Damage in Total"
     }
    ],
-   "partial": "1/201 rows translated so far"
+   "partial": "23/44 rows translated so far"
   },
   "TableGvoPlaceChapter": {
    "key_column": "id",
@@ -650,6 +2732,615 @@
     }
    ],
    "partial": "2/3 rows translated so far"
+  },
+  "TableGvoPlaceTollgate": {
+   "key_column": "id",
+   "text_columns": [
+    "tollgateName"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "101",
+     "tollgateName": "Stage 1"
+    },
+    {
+     "id": "102",
+     "tollgateName": "Stage 2"
+    },
+    {
+     "id": "103",
+     "tollgateName": "Stage 3"
+    },
+    {
+     "id": "104",
+     "tollgateName": "Stage 4"
+    },
+    {
+     "id": "105",
+     "tollgateName": "Stage 5"
+    },
+    {
+     "id": "106",
+     "tollgateName": "Stage 6"
+    },
+    {
+     "id": "107",
+     "tollgateName": "Stage 7"
+    },
+    {
+     "id": "108",
+     "tollgateName": "Stage 8"
+    },
+    {
+     "id": "109",
+     "tollgateName": "Stage 9"
+    },
+    {
+     "id": "110",
+     "tollgateName": "Stage 10"
+    },
+    {
+     "id": "111",
+     "tollgateName": "Stage 11"
+    },
+    {
+     "id": "112",
+     "tollgateName": "Stage 12"
+    },
+    {
+     "id": "113",
+     "tollgateName": "Stage 13"
+    },
+    {
+     "id": "114",
+     "tollgateName": "Stage 14"
+    },
+    {
+     "id": "115",
+     "tollgateName": "Stage 15"
+    },
+    {
+     "id": "116",
+     "tollgateName": "Stage 16"
+    },
+    {
+     "id": "117",
+     "tollgateName": "Stage 17"
+    },
+    {
+     "id": "118",
+     "tollgateName": "Stage 18"
+    },
+    {
+     "id": "119",
+     "tollgateName": "Stage 19"
+    },
+    {
+     "id": "120",
+     "tollgateName": "Stage 20"
+    },
+    {
+     "id": "121",
+     "tollgateName": "Stage 21"
+    },
+    {
+     "id": "122",
+     "tollgateName": "Stage 22"
+    },
+    {
+     "id": "123",
+     "tollgateName": "Stage 23"
+    },
+    {
+     "id": "124",
+     "tollgateName": "Stage 24"
+    },
+    {
+     "id": "125",
+     "tollgateName": "Stage 25"
+    },
+    {
+     "id": "126",
+     "tollgateName": "Stage 26"
+    },
+    {
+     "id": "127",
+     "tollgateName": "Stage 27"
+    },
+    {
+     "id": "128",
+     "tollgateName": "Stage 28"
+    },
+    {
+     "id": "129",
+     "tollgateName": "Stage 29"
+    },
+    {
+     "id": "130",
+     "tollgateName": "Stage 30"
+    },
+    {
+     "id": "131",
+     "tollgateName": "Stage 31"
+    },
+    {
+     "id": "132",
+     "tollgateName": "Stage 32"
+    },
+    {
+     "id": "133",
+     "tollgateName": "Stage 33"
+    },
+    {
+     "id": "134",
+     "tollgateName": "Stage 34"
+    },
+    {
+     "id": "135",
+     "tollgateName": "Stage 35"
+    },
+    {
+     "id": "136",
+     "tollgateName": "Stage 36"
+    },
+    {
+     "id": "137",
+     "tollgateName": "Stage 37"
+    },
+    {
+     "id": "138",
+     "tollgateName": "Stage 38"
+    },
+    {
+     "id": "139",
+     "tollgateName": "Stage 39"
+    },
+    {
+     "id": "140",
+     "tollgateName": "Stage 40"
+    },
+    {
+     "id": "141",
+     "tollgateName": "Stage 41"
+    },
+    {
+     "id": "142",
+     "tollgateName": "Stage 42"
+    },
+    {
+     "id": "143",
+     "tollgateName": "Stage 43"
+    },
+    {
+     "id": "144",
+     "tollgateName": "Stage 44"
+    },
+    {
+     "id": "145",
+     "tollgateName": "Stage 45"
+    },
+    {
+     "id": "146",
+     "tollgateName": "Stage 46"
+    },
+    {
+     "id": "147",
+     "tollgateName": "Stage 47"
+    },
+    {
+     "id": "148",
+     "tollgateName": "Stage 48"
+    },
+    {
+     "id": "149",
+     "tollgateName": "Stage 49"
+    },
+    {
+     "id": "150",
+     "tollgateName": "Stage 50"
+    },
+    {
+     "id": "201",
+     "tollgateName": "Stage 1"
+    },
+    {
+     "id": "202",
+     "tollgateName": "Stage 2"
+    },
+    {
+     "id": "203",
+     "tollgateName": "Stage 3"
+    },
+    {
+     "id": "204",
+     "tollgateName": "Stage 4"
+    },
+    {
+     "id": "205",
+     "tollgateName": "Stage 5"
+    },
+    {
+     "id": "206",
+     "tollgateName": "Stage 6"
+    },
+    {
+     "id": "207",
+     "tollgateName": "Stage 7"
+    },
+    {
+     "id": "208",
+     "tollgateName": "Stage 8"
+    },
+    {
+     "id": "209",
+     "tollgateName": "Stage 9"
+    },
+    {
+     "id": "210",
+     "tollgateName": "Stage 10"
+    },
+    {
+     "id": "211",
+     "tollgateName": "Stage 11"
+    },
+    {
+     "id": "212",
+     "tollgateName": "Stage 12"
+    },
+    {
+     "id": "213",
+     "tollgateName": "Stage 13"
+    },
+    {
+     "id": "214",
+     "tollgateName": "Stage 14"
+    },
+    {
+     "id": "215",
+     "tollgateName": "Stage 15"
+    },
+    {
+     "id": "216",
+     "tollgateName": "Stage 16"
+    },
+    {
+     "id": "217",
+     "tollgateName": "Stage 17"
+    },
+    {
+     "id": "218",
+     "tollgateName": "Stage 18"
+    },
+    {
+     "id": "219",
+     "tollgateName": "Stage 19"
+    },
+    {
+     "id": "220",
+     "tollgateName": "Stage 20"
+    },
+    {
+     "id": "221",
+     "tollgateName": "Stage 21"
+    },
+    {
+     "id": "222",
+     "tollgateName": "Stage 22"
+    },
+    {
+     "id": "223",
+     "tollgateName": "Stage 23"
+    },
+    {
+     "id": "224",
+     "tollgateName": "Stage 24"
+    },
+    {
+     "id": "225",
+     "tollgateName": "Stage 25"
+    },
+    {
+     "id": "226",
+     "tollgateName": "Stage 26"
+    },
+    {
+     "id": "227",
+     "tollgateName": "Stage 27"
+    },
+    {
+     "id": "228",
+     "tollgateName": "Stage 28"
+    },
+    {
+     "id": "229",
+     "tollgateName": "Stage 29"
+    },
+    {
+     "id": "230",
+     "tollgateName": "Stage 30"
+    },
+    {
+     "id": "231",
+     "tollgateName": "Stage 31"
+    },
+    {
+     "id": "232",
+     "tollgateName": "Stage 32"
+    },
+    {
+     "id": "233",
+     "tollgateName": "Stage 33"
+    },
+    {
+     "id": "234",
+     "tollgateName": "Stage 34"
+    },
+    {
+     "id": "235",
+     "tollgateName": "Stage 35"
+    },
+    {
+     "id": "236",
+     "tollgateName": "Stage 36"
+    },
+    {
+     "id": "237",
+     "tollgateName": "Stage 37"
+    },
+    {
+     "id": "238",
+     "tollgateName": "Stage 38"
+    },
+    {
+     "id": "239",
+     "tollgateName": "Stage 39"
+    },
+    {
+     "id": "240",
+     "tollgateName": "Stage 40"
+    },
+    {
+     "id": "241",
+     "tollgateName": "Stage 41"
+    },
+    {
+     "id": "242",
+     "tollgateName": "Stage 42"
+    },
+    {
+     "id": "243",
+     "tollgateName": "Stage 43"
+    },
+    {
+     "id": "244",
+     "tollgateName": "Stage 44"
+    },
+    {
+     "id": "245",
+     "tollgateName": "Stage 45"
+    },
+    {
+     "id": "246",
+     "tollgateName": "Stage 46"
+    },
+    {
+     "id": "247",
+     "tollgateName": "Stage 47"
+    },
+    {
+     "id": "248",
+     "tollgateName": "Stage 48"
+    },
+    {
+     "id": "249",
+     "tollgateName": "Stage 49"
+    },
+    {
+     "id": "250",
+     "tollgateName": "Stage 50"
+    },
+    {
+     "id": "301",
+     "tollgateName": "Stage 1"
+    },
+    {
+     "id": "302",
+     "tollgateName": "Stage 2"
+    },
+    {
+     "id": "303",
+     "tollgateName": "Stage 3"
+    },
+    {
+     "id": "304",
+     "tollgateName": "Stage 4"
+    },
+    {
+     "id": "305",
+     "tollgateName": "Stage 5"
+    },
+    {
+     "id": "306",
+     "tollgateName": "Stage 6"
+    },
+    {
+     "id": "307",
+     "tollgateName": "Stage 7"
+    },
+    {
+     "id": "308",
+     "tollgateName": "Stage 8"
+    },
+    {
+     "id": "309",
+     "tollgateName": "Stage 9"
+    },
+    {
+     "id": "310",
+     "tollgateName": "Stage 10"
+    },
+    {
+     "id": "311",
+     "tollgateName": "Stage 11"
+    },
+    {
+     "id": "312",
+     "tollgateName": "Stage 12"
+    },
+    {
+     "id": "313",
+     "tollgateName": "Stage 13"
+    },
+    {
+     "id": "314",
+     "tollgateName": "Stage 14"
+    },
+    {
+     "id": "315",
+     "tollgateName": "Stage 15"
+    },
+    {
+     "id": "316",
+     "tollgateName": "Stage 16"
+    },
+    {
+     "id": "317",
+     "tollgateName": "Stage 17"
+    },
+    {
+     "id": "318",
+     "tollgateName": "Stage 18"
+    },
+    {
+     "id": "319",
+     "tollgateName": "Stage 19"
+    },
+    {
+     "id": "320",
+     "tollgateName": "Stage 20"
+    },
+    {
+     "id": "321",
+     "tollgateName": "Stage 21"
+    },
+    {
+     "id": "322",
+     "tollgateName": "Stage 22"
+    },
+    {
+     "id": "323",
+     "tollgateName": "Stage 23"
+    },
+    {
+     "id": "324",
+     "tollgateName": "Stage 24"
+    },
+    {
+     "id": "325",
+     "tollgateName": "Stage 25"
+    },
+    {
+     "id": "326",
+     "tollgateName": "Stage 26"
+    },
+    {
+     "id": "327",
+     "tollgateName": "Stage 27"
+    },
+    {
+     "id": "328",
+     "tollgateName": "Stage 28"
+    },
+    {
+     "id": "329",
+     "tollgateName": "Stage 29"
+    },
+    {
+     "id": "330",
+     "tollgateName": "Stage 30"
+    },
+    {
+     "id": "331",
+     "tollgateName": "Stage 31"
+    },
+    {
+     "id": "332",
+     "tollgateName": "Stage 32"
+    },
+    {
+     "id": "333",
+     "tollgateName": "Stage 33"
+    },
+    {
+     "id": "334",
+     "tollgateName": "Stage 34"
+    },
+    {
+     "id": "335",
+     "tollgateName": "Stage 35"
+    },
+    {
+     "id": "336",
+     "tollgateName": "Stage 36"
+    },
+    {
+     "id": "337",
+     "tollgateName": "Stage 37"
+    },
+    {
+     "id": "338",
+     "tollgateName": "Stage 38"
+    },
+    {
+     "id": "339",
+     "tollgateName": "Stage 39"
+    },
+    {
+     "id": "340",
+     "tollgateName": "Stage 40"
+    },
+    {
+     "id": "341",
+     "tollgateName": "Stage 41"
+    },
+    {
+     "id": "342",
+     "tollgateName": "Stage 42"
+    },
+    {
+     "id": "343",
+     "tollgateName": "Stage 43"
+    },
+    {
+     "id": "344",
+     "tollgateName": "Stage 44"
+    },
+    {
+     "id": "345",
+     "tollgateName": "Stage 45"
+    },
+    {
+     "id": "346",
+     "tollgateName": "Stage 46"
+    },
+    {
+     "id": "347",
+     "tollgateName": "Stage 47"
+    },
+    {
+     "id": "348",
+     "tollgateName": "Stage 48"
+    },
+    {
+     "id": "349",
+     "tollgateName": "Stage 49"
+    },
+    {
+     "id": "350",
+     "tollgateName": "Stage 50"
+    }
+   ]
   },
   "TableHero2D": {
    "key_column": "id",
@@ -28614,6 +31305,2906 @@
     }
    ]
   },
+  "TableOpDexActiveValueReward": {
+   "key_column": "barId",
+   "text_columns": [
+    "buff"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "barId": "1",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "2",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "3",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "4",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "5",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "6",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "7",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "8",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "9",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "10",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "11",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "12",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "13",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "14",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "15",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "16",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "17",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "18",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "19",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "20",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "21",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "22",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "23",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "24",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "25",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "26",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "27",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "28",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "29",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "30",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "31",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "32",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "33",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "34",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "35",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "36",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "37",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "38",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "39",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "40",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "41",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "42",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "43",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "44",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "45",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "46",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "47",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "48",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "49",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "50",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "51",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "52",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "53",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "54",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "55",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "56",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "57",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "58",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "59",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "60",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "61",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "62",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "63",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "64",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "65",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "66",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "67",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "68",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "69",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "70",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "71",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "72",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "73",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "74",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "75",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "76",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "77",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "78",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "79",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "80",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "81",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "82",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "83",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "84",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "85",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "86",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "87",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "88",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "89",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "90",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "91",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "92",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "93",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "94",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "95",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "96",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "97",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "98",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "99",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "100",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "101",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "102",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "103",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "104",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "105",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "106",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "107",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "108",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "109",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "110",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "111",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "112",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "113",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "114",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "115",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "116",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "117",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "118",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "119",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "120",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "121",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "122",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "123",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "124",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "125",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "126",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "127",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "128",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "129",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "130",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "131",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "132",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "133",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "134",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "135",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "136",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "137",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "138",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "139",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "140",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "141",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "142",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "143",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "144",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "145",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "146",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "147",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "148",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "149",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "150",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "151",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "152",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "153",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "154",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "155",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "156",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "157",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "158",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "159",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "160",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "161",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "162",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "163",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "164",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "165",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "166",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "167",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "168",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "169",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "170",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "171",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "172",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "173",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "174",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "175",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "176",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "177",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "178",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "179",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "180",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "181",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "182",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "183",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "184",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "185",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "186",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "187",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "188",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "189",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "190",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "191",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "192",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "193",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "194",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "195",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "196",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "197",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "198",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "199",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "200",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "201",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "202",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "203",
+     "buff": "HP,480;Attack,60;Defense,24;Speed,2"
+    },
+    {
+     "barId": "204",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "205",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "206",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "207",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "208",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "209",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "210",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "211",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "212",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "213",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "214",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "215",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "216",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "217",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "218",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "219",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "220",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "221",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "222",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "223",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "224",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "225",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "226",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "227",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "228",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "229",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "230",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "231",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "232",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "233",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "234",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "235",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "236",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "237",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "238",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "239",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "240",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "241",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "242",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "243",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "244",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "245",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "246",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "247",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "248",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "249",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "250",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "251",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "252",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "253",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "254",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "255",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "256",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "257",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "258",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "259",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "260",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "261",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "262",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "263",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "264",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "265",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "266",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "267",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "268",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "269",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "270",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "271",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "272",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "273",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "274",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "275",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "276",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "277",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "278",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "279",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "280",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "281",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "282",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "283",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "284",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "285",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "286",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "287",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "288",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "289",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "290",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "291",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "292",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "293",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "294",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "295",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "296",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "297",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "298",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "299",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "300",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "301",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "302",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "303",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "304",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "305",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "306",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "307",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "308",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "309",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "310",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "311",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "312",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "313",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "314",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "315",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "316",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "317",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "318",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "319",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "320",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "321",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "322",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "323",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "324",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "325",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "326",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "327",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "328",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "329",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "330",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "331",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "332",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "333",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "334",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "335",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "336",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "337",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "338",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "339",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "340",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "341",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "342",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "343",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "344",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "345",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "346",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "347",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "348",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "349",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "350",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "351",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "352",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "353",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "354",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "355",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "356",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "357",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "358",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "359",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "360",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "361",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "362",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "363",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "364",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "365",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "366",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "367",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "368",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "369",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "370",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "371",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "372",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "373",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "374",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "375",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "376",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "377",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "378",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "379",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "380",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "381",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "382",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "383",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "384",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "385",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "386",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "387",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "388",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "389",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "390",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "391",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "392",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "393",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "394",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "395",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "396",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "397",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "398",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "399",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "400",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "401",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "402",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "403",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "404",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "405",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "406",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "407",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "408",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "409",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "410",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "411",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "412",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "413",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "414",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "415",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "416",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "417",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "418",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "419",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "420",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "421",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "422",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "423",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "424",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "425",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "426",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "427",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "428",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "429",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "430",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "431",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "432",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "433",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "434",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "435",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "436",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "437",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "438",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "439",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "440",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "441",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "442",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "443",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "444",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "445",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "446",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "447",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "448",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "449",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "450",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "451",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "452",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "453",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "454",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "455",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "456",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "457",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "458",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "459",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "460",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "461",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "462",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "463",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "464",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "465",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "466",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "467",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "468",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "469",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "470",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "471",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "472",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "473",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "474",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "475",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "476",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "477",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "478",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "479",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "480",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "481",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "482",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "483",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "484",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "485",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "486",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "487",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "488",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "489",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "490",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "491",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "492",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "493",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "494",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "495",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "496",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "497",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "498",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "499",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "500",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "501",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "502",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "503",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "504",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "505",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "506",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "507",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "508",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "509",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "510",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "511",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "512",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "513",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "514",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "515",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "516",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "517",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "518",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "519",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "520",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "521",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "522",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "523",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "524",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "525",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "526",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "527",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "528",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "529",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "530",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "531",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "532",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "533",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "534",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "535",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "536",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "537",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "538",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "539",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "540",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "541",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "542",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "543",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "544",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "545",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "546",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "547",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "548",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "549",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "550",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "551",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "552",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "553",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "554",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "555",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "556",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "557",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "558",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "559",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "560",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "561",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "562",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "563",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "564",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "565",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "566",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "567",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "568",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "569",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "570",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "571",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "572",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "573",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "574",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "575",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "576",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "577",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "578",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "579",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "580",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "581",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "582",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "583",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "584",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "585",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "586",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "587",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "588",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "589",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "590",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "591",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "592",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "593",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "594",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "595",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "596",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "597",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "598",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "599",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "600",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "601",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "602",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "603",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "604",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "605",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "606",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "607",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "608",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "609",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "610",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "611",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "612",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "613",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "614",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "615",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "616",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "617",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "618",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "619",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "620",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "621",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "622",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "623",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "624",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "625",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "626",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "627",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "628",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "629",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "630",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "631",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "632",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "633",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "634",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "635",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "636",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "637",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "638",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "639",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "640",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "641",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "642",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "643",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "644",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "645",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "646",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "647",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "648",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "649",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "650",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "651",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "652",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "653",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "654",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "655",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "656",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "657",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "658",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "659",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "660",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "661",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "662",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "663",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "664",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "665",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "666",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "667",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "668",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "669",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "670",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "671",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "672",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "673",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "674",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "675",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "676",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "677",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "678",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "679",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "680",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "681",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "682",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "683",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "684",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "685",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "686",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "687",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "688",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "689",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "690",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "691",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "692",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "693",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "694",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "695",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "696",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "697",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "698",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "699",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "700",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "701",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "702",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "703",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "704",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "705",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "706",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "707",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "708",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "709",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "710",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "711",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "712",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "713",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "714",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "715",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "716",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "717",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "718",
+     "buff": "HP,240;Attack,30;Defense,12;Speed,2"
+    },
+    {
+     "barId": "788",
+     "buff": "HP,40;Attack,5;Defense,2;Speed,5"
+    },
+    {
+     "barId": "793",
+     "buff": "HP,40;Attack,5;Defense,2;Speed,5"
+    },
+    {
+     "barId": "798",
+     "buff": "HP,40;Attack,5;Defense,2;Speed,5"
+    },
+    {
+     "barId": "803",
+     "buff": "HP,40;Attack,5;Defense,2;Speed,5"
+    }
+   ],
+   "other_bundle_rows": [],
+   "partial": "722/803 rows translated so far"
+  },
   "TablePokedex": {
    "key_column": "heroId",
    "text_columns": [
@@ -32042,6 +37633,950 @@
     }
    ],
    "partial": "1/7 rows translated so far"
+  },
+  "TableSeaExploreTask": {
+   "key_column": "id",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "desc": "Spend 5 Sea Supplies in Total"
+    },
+    {
+     "id": "2",
+     "desc": "Spend 10 Sea Supplies in Total"
+    },
+    {
+     "id": "3",
+     "desc": "Spend 15 Sea Supplies in Total"
+    },
+    {
+     "id": "4",
+     "desc": "Spend 20 Sea Supplies in Total"
+    },
+    {
+     "id": "5",
+     "desc": "Spend 30 Sea Supplies in Total"
+    },
+    {
+     "id": "6",
+     "desc": "Spend 40 Sea Supplies in Total"
+    },
+    {
+     "id": "7",
+     "desc": "Spend 50 Sea Supplies in Total"
+    },
+    {
+     "id": "8",
+     "desc": "Spend 70 Sea Supplies in Total"
+    },
+    {
+     "id": "9",
+     "desc": "Spend 90 Sea Supplies in Total"
+    },
+    {
+     "id": "10",
+     "desc": "Spend 120 Sea Supplies in Total"
+    },
+    {
+     "id": "11",
+     "desc": "Earn 500 Points in Total from All Bosses"
+    },
+    {
+     "id": "12",
+     "desc": "Earn 1000 Points in Total from All Bosses"
+    },
+    {
+     "id": "13",
+     "desc": "Earn 1500 Points in Total from All Bosses"
+    },
+    {
+     "id": "14",
+     "desc": "Earn 2000 Points in Total from All Bosses"
+    },
+    {
+     "id": "15",
+     "desc": "Earn 2500 Points in Total from All Bosses"
+    },
+    {
+     "id": "16",
+     "desc": "Earn 3000 Points in Total from All Bosses"
+    },
+    {
+     "id": "17",
+     "desc": "Earn 3500 Points in Total from All Bosses"
+    },
+    {
+     "id": "18",
+     "desc": "Earn 4000 Points in Total from All Bosses"
+    },
+    {
+     "id": "19",
+     "desc": "Earn 4500 Points in Total from All Bosses"
+    },
+    {
+     "id": "20",
+     "desc": "Earn 5000 Points in Total from All Bosses"
+    },
+    {
+     "id": "21",
+     "desc": "Other Players Earn 500 Points in Total from Bosses You Shared"
+    },
+    {
+     "id": "22",
+     "desc": "Other Players Earn 1000 Points in Total from Bosses You Shared"
+    },
+    {
+     "id": "23",
+     "desc": "Other Players Earn 1200 Points in Total from Bosses You Shared"
+    },
+    {
+     "id": "24",
+     "desc": "Other Players Earn 1400 Points in Total from Bosses You Shared"
+    },
+    {
+     "id": "25",
+     "desc": "Other Players Earn 1600 Points in Total from Bosses You Shared"
+    },
+    {
+     "id": "26",
+     "desc": "Other Players Earn 1800 Points in Total from Bosses You Shared"
+    },
+    {
+     "id": "27",
+     "desc": "Other Players Earn 2000 Points in Total from Bosses You Shared"
+    },
+    {
+     "id": "28",
+     "desc": "Other Players Earn 2300 Points in Total from Bosses You Shared"
+    },
+    {
+     "id": "29",
+     "desc": "Other Players Earn 2600 Points in Total from Bosses You Shared"
+    },
+    {
+     "id": "30",
+     "desc": "Other Players Earn 3000 Points in Total from Bosses You Shared"
+    }
+   ],
+   "other_bundle_rows": []
+  },
+  "TableUSFFortress": {
+   "key_column": "id",
+   "text_columns": [
+    "name"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1001",
+     "name": "No. 1"
+    },
+    {
+     "id": "1002",
+     "name": "No. 2"
+    },
+    {
+     "id": "1003",
+     "name": "No. 3"
+    },
+    {
+     "id": "1004",
+     "name": "No. 4"
+    },
+    {
+     "id": "1005",
+     "name": "No. 5"
+    },
+    {
+     "id": "1006",
+     "name": "No. 6"
+    },
+    {
+     "id": "1007",
+     "name": "No. 7"
+    },
+    {
+     "id": "1008",
+     "name": "No. 8"
+    },
+    {
+     "id": "1009",
+     "name": "No. 9"
+    },
+    {
+     "id": "1010",
+     "name": "No. 10"
+    },
+    {
+     "id": "1011",
+     "name": "No. 11"
+    },
+    {
+     "id": "1012",
+     "name": "No. 12"
+    },
+    {
+     "id": "1013",
+     "name": "No. 13"
+    },
+    {
+     "id": "1014",
+     "name": "No. 14"
+    },
+    {
+     "id": "1015",
+     "name": "No. 15"
+    },
+    {
+     "id": "1016",
+     "name": "No. 16"
+    },
+    {
+     "id": "1017",
+     "name": "No. 17"
+    },
+    {
+     "id": "1018",
+     "name": "No. 18"
+    },
+    {
+     "id": "1019",
+     "name": "No. 19"
+    },
+    {
+     "id": "2001",
+     "name": "No. 1"
+    },
+    {
+     "id": "2002",
+     "name": "No. 2"
+    },
+    {
+     "id": "2003",
+     "name": "No. 3"
+    },
+    {
+     "id": "2004",
+     "name": "No. 4"
+    },
+    {
+     "id": "2005",
+     "name": "No. 5"
+    },
+    {
+     "id": "2006",
+     "name": "No. 6"
+    },
+    {
+     "id": "2007",
+     "name": "No. 7"
+    },
+    {
+     "id": "2008",
+     "name": "No. 8"
+    },
+    {
+     "id": "2009",
+     "name": "No. 9"
+    },
+    {
+     "id": "2010",
+     "name": "No. 10"
+    },
+    {
+     "id": "2011",
+     "name": "No. 11"
+    },
+    {
+     "id": "2012",
+     "name": "No. 12"
+    },
+    {
+     "id": "2013",
+     "name": "No. 13"
+    },
+    {
+     "id": "2014",
+     "name": "No. 14"
+    },
+    {
+     "id": "2015",
+     "name": "No. 15"
+    },
+    {
+     "id": "2016",
+     "name": "No. 16"
+    },
+    {
+     "id": "2017",
+     "name": "No. 17"
+    },
+    {
+     "id": "2018",
+     "name": "No. 18"
+    },
+    {
+     "id": "2019",
+     "name": "No. 19"
+    },
+    {
+     "id": "2050",
+     "name": "No. 1"
+    },
+    {
+     "id": "2051",
+     "name": "No. 2"
+    },
+    {
+     "id": "2052",
+     "name": "No. 3"
+    },
+    {
+     "id": "2053",
+     "name": "No. 4"
+    },
+    {
+     "id": "2054",
+     "name": "No. 5"
+    },
+    {
+     "id": "2055",
+     "name": "No. 6"
+    },
+    {
+     "id": "2056",
+     "name": "No. 7"
+    },
+    {
+     "id": "2057",
+     "name": "No. 8"
+    },
+    {
+     "id": "2058",
+     "name": "No. 9"
+    },
+    {
+     "id": "2059",
+     "name": "No. 10"
+    },
+    {
+     "id": "2060",
+     "name": "No. 11"
+    },
+    {
+     "id": "2061",
+     "name": "No. 12"
+    },
+    {
+     "id": "2062",
+     "name": "No. 13"
+    },
+    {
+     "id": "2063",
+     "name": "No. 14"
+    },
+    {
+     "id": "2064",
+     "name": "No. 15"
+    },
+    {
+     "id": "2065",
+     "name": "No. 16"
+    },
+    {
+     "id": "2066",
+     "name": "No. 17"
+    },
+    {
+     "id": "2100",
+     "name": "No. 1"
+    },
+    {
+     "id": "2101",
+     "name": "No. 2"
+    },
+    {
+     "id": "2102",
+     "name": "No. 3"
+    },
+    {
+     "id": "2103",
+     "name": "No. 4"
+    },
+    {
+     "id": "2104",
+     "name": "No. 5"
+    },
+    {
+     "id": "2105",
+     "name": "No. 6"
+    },
+    {
+     "id": "2106",
+     "name": "No. 7"
+    },
+    {
+     "id": "2107",
+     "name": "No. 8"
+    },
+    {
+     "id": "2108",
+     "name": "No. 9"
+    },
+    {
+     "id": "2109",
+     "name": "No. 10"
+    },
+    {
+     "id": "2110",
+     "name": "No. 11"
+    },
+    {
+     "id": "2111",
+     "name": "No. 12"
+    },
+    {
+     "id": "2112",
+     "name": "No. 13"
+    },
+    {
+     "id": "2113",
+     "name": "No. 14"
+    },
+    {
+     "id": "2114",
+     "name": "No. 15"
+    },
+    {
+     "id": "2115",
+     "name": "No. 16"
+    },
+    {
+     "id": "2116",
+     "name": "No. 17"
+    }
+   ]
+  },
+  "TableUSFFortressLevel": {
+   "key_column": "id",
+   "text_columns": [
+    "levelDesc",
+    "fortressDescription"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "2",
+     "levelDesc": "Restores 11 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 55 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "3",
+     "levelDesc": "Restores 12 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 60 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "4",
+     "levelDesc": "Restores 13 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 65 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "5",
+     "levelDesc": "Restores 14 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 70 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "6",
+     "levelDesc": "Restores 15 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 75 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "7",
+     "levelDesc": "Restores 16 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 80 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "8",
+     "levelDesc": "Restores 17 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 85 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "9",
+     "levelDesc": "Restores 18 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 90 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "10",
+     "levelDesc": "Restores 19 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 95 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "11",
+     "levelDesc": "Restores 20 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 100 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "13",
+     "levelDesc": "11% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 11% of their max HP"
+    },
+    {
+     "id": "14",
+     "levelDesc": "12% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 12% of their max HP"
+    },
+    {
+     "id": "15",
+     "levelDesc": "13% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 13% of their max HP"
+    },
+    {
+     "id": "16",
+     "levelDesc": "14% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 14% of their max HP"
+    },
+    {
+     "id": "17",
+     "levelDesc": "15% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 15% of their max HP"
+    },
+    {
+     "id": "18",
+     "levelDesc": "16% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 16% of their max HP"
+    },
+    {
+     "id": "19",
+     "levelDesc": "17% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 17% of their max HP"
+    },
+    {
+     "id": "20",
+     "levelDesc": "18% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 18% of their max HP"
+    },
+    {
+     "id": "21",
+     "levelDesc": "19% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 19% of their max HP"
+    },
+    {
+     "id": "22",
+     "levelDesc": "20% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 20% of their max HP"
+    },
+    {
+     "id": "23",
+     "levelDesc": "Attack +11% & Defense +11%",
+     "fortressDescription": "Fleets in the outpost gain Attack +11% and Defense +11%"
+    },
+    {
+     "id": "24",
+     "levelDesc": "Attack +12% & Defense +12%",
+     "fortressDescription": "Fleets in the outpost gain Attack +12% and Defense +12%"
+    },
+    {
+     "id": "25",
+     "levelDesc": "Attack +13% & Defense +13%",
+     "fortressDescription": "Fleets in the outpost gain Attack +13% and Defense +13%"
+    },
+    {
+     "id": "26",
+     "levelDesc": "Attack +14% & Defense +14%",
+     "fortressDescription": "Fleets in the outpost gain Attack +14% and Defense +14%"
+    },
+    {
+     "id": "27",
+     "levelDesc": "Attack +15% & Defense +15%",
+     "fortressDescription": "Fleets in the outpost gain Attack +15% and Defense +15%"
+    },
+    {
+     "id": "28",
+     "levelDesc": "Attack +16% & Defense +16%",
+     "fortressDescription": "Fleets in the outpost gain Attack +16% and Defense +16%"
+    },
+    {
+     "id": "29",
+     "levelDesc": "Attack +17% & Defense +17%",
+     "fortressDescription": "Fleets in the outpost gain Attack +17% and Defense +17%"
+    },
+    {
+     "id": "30",
+     "levelDesc": "Attack +18% & Defense +18%",
+     "fortressDescription": "Fleets in the outpost gain Attack +18% and Defense +18%"
+    },
+    {
+     "id": "31",
+     "levelDesc": "Attack +19% & Defense +19%",
+     "fortressDescription": "Fleets in the outpost gain Attack +19% and Defense +19%"
+    },
+    {
+     "id": "32",
+     "levelDesc": "Attack +20% & Defense +20%",
+     "fortressDescription": "Fleets in the outpost gain Attack +20% and Defense +20%"
+    },
+    {
+     "id": "33",
+     "levelDesc": "Attack +6%",
+     "fortressDescription": "Fleets in the outpost gain Attack +6%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "34",
+     "levelDesc": "Attack +7%",
+     "fortressDescription": "Fleets in the outpost gain Attack +7%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "35",
+     "levelDesc": "Attack +8%",
+     "fortressDescription": "Fleets in the outpost gain Attack +8%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "36",
+     "levelDesc": "Attack +9%",
+     "fortressDescription": "Fleets in the outpost gain Attack +9%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "37",
+     "levelDesc": "Attack +10%",
+     "fortressDescription": "Fleets in the outpost gain Attack +10%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "38",
+     "levelDesc": "Attack +11%",
+     "fortressDescription": "Fleets in the outpost gain Attack +11%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "39",
+     "levelDesc": "Attack +12%",
+     "fortressDescription": "Fleets in the outpost gain Attack +12%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "40",
+     "levelDesc": "Attack +13%",
+     "fortressDescription": "Fleets in the outpost gain Attack +13%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "41",
+     "levelDesc": "Attack +14%",
+     "fortressDescription": "Fleets in the outpost gain Attack +14%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "42",
+     "levelDesc": "Attack +15%",
+     "fortressDescription": "Fleets in the outpost gain Attack +15%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "51",
+     "levelDesc": "Restores 11 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 55 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "52",
+     "levelDesc": "Restores 12 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 60 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "53",
+     "levelDesc": "Restores 13 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 65 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "54",
+     "levelDesc": "Restores 14 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 70 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "55",
+     "levelDesc": "Restores 15 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 75 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "56",
+     "levelDesc": "Restores 16 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 80 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "57",
+     "levelDesc": "Restores 17 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 85 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "58",
+     "levelDesc": "Restores 18 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 90 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "59",
+     "levelDesc": "Restores 19 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 95 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "60",
+     "levelDesc": "Restores 20 HP per Second",
+     "fortressDescription": "Fleets in the outpost restore 100 HP every 5s; doesn't stack with other HP regen effects"
+    },
+    {
+     "id": "62",
+     "levelDesc": "11% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 11% of their max HP"
+    },
+    {
+     "id": "63",
+     "levelDesc": "12% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 12% of their max HP"
+    },
+    {
+     "id": "64",
+     "levelDesc": "13% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 13% of their max HP"
+    },
+    {
+     "id": "65",
+     "levelDesc": "14% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 14% of their max HP"
+    },
+    {
+     "id": "66",
+     "levelDesc": "15% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 15% of their max HP"
+    },
+    {
+     "id": "67",
+     "levelDesc": "16% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 16% of their max HP"
+    },
+    {
+     "id": "68",
+     "levelDesc": "17% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 17% of their max HP"
+    },
+    {
+     "id": "69",
+     "levelDesc": "18% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 18% of their max HP"
+    },
+    {
+     "id": "70",
+     "levelDesc": "19% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 19% of their max HP"
+    },
+    {
+     "id": "71",
+     "levelDesc": "20% of Target HP as DMG",
+     "fortressDescription": "Every 5s, automatically attacks enemy warships on connected routes for 20% of their max HP"
+    },
+    {
+     "id": "72",
+     "levelDesc": "Attack +11% & Defense +11%",
+     "fortressDescription": "Fleets in the outpost gain Attack +11% and Defense +11%"
+    },
+    {
+     "id": "73",
+     "levelDesc": "Attack +12% & Defense +12%",
+     "fortressDescription": "Fleets in the outpost gain Attack +12% and Defense +12%"
+    },
+    {
+     "id": "74",
+     "levelDesc": "Attack +13% & Defense +13%",
+     "fortressDescription": "Fleets in the outpost gain Attack +13% and Defense +13%"
+    },
+    {
+     "id": "75",
+     "levelDesc": "Attack +14% & Defense +14%",
+     "fortressDescription": "Fleets in the outpost gain Attack +14% and Defense +14%"
+    },
+    {
+     "id": "76",
+     "levelDesc": "Attack +15% & Defense +15%",
+     "fortressDescription": "Fleets in the outpost gain Attack +15% and Defense +15%"
+    },
+    {
+     "id": "77",
+     "levelDesc": "Attack +16% & Defense +16%",
+     "fortressDescription": "Fleets in the outpost gain Attack +16% and Defense +16%"
+    },
+    {
+     "id": "78",
+     "levelDesc": "Attack +17% & Defense +17%",
+     "fortressDescription": "Fleets in the outpost gain Attack +17% and Defense +17%"
+    },
+    {
+     "id": "79",
+     "levelDesc": "Attack +18% & Defense +18%",
+     "fortressDescription": "Fleets in the outpost gain Attack +18% and Defense +18%"
+    },
+    {
+     "id": "80",
+     "levelDesc": "Attack +19% & Defense +19%",
+     "fortressDescription": "Fleets in the outpost gain Attack +19% and Defense +19%"
+    },
+    {
+     "id": "81",
+     "levelDesc": "Attack +20% & Defense +20%",
+     "fortressDescription": "Fleets in the outpost gain Attack +20% and Defense +20%"
+    },
+    {
+     "id": "82",
+     "levelDesc": "Attack +6%",
+     "fortressDescription": "Fleets in the outpost gain Attack +6%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "83",
+     "levelDesc": "Attack +7%",
+     "fortressDescription": "Fleets in the outpost gain Attack +7%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "84",
+     "levelDesc": "Attack +8%",
+     "fortressDescription": "Fleets in the outpost gain Attack +8%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "85",
+     "levelDesc": "Attack +9%",
+     "fortressDescription": "Fleets in the outpost gain Attack +9%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "86",
+     "levelDesc": "Attack +10%",
+     "fortressDescription": "Fleets in the outpost gain Attack +10%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "87",
+     "levelDesc": "Attack +11%",
+     "fortressDescription": "Fleets in the outpost gain Attack +11%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "88",
+     "levelDesc": "Attack +12%",
+     "fortressDescription": "Fleets in the outpost gain Attack +12%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "89",
+     "levelDesc": "Attack +13%",
+     "fortressDescription": "Fleets in the outpost gain Attack +13%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "90",
+     "levelDesc": "Attack +14%",
+     "fortressDescription": "Fleets in the outpost gain Attack +14%; the first connected allied normal outpost also gains this effect"
+    },
+    {
+     "id": "91",
+     "levelDesc": "Attack +15%",
+     "fortressDescription": "Fleets in the outpost gain Attack +15%; the first connected allied normal outpost also gains this effect"
+    }
+   ],
+   "partial": "80/98 rows translated so far"
+  },
+  "TableUnionBossTask": {
+   "key_column": "id",
+   "text_columns": [
+    "description"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "description": "Pica Phase 1"
+    },
+    {
+     "id": "2",
+     "description": "Pica Phase 2"
+    },
+    {
+     "id": "3",
+     "description": "Pica Phase 3"
+    },
+    {
+     "id": "4",
+     "description": "Pica Phase 4"
+    },
+    {
+     "id": "5",
+     "description": "Pica Phase 5"
+    },
+    {
+     "id": "6",
+     "description": "Pica Phase 6"
+    },
+    {
+     "id": "7",
+     "description": "Pica Phase 7"
+    },
+    {
+     "id": "8",
+     "description": "Pica Phase 8"
+    },
+    {
+     "id": "9",
+     "description": "Diamante Phase 1"
+    },
+    {
+     "id": "10",
+     "description": "Diamante Phase 2"
+    },
+    {
+     "id": "11",
+     "description": "Diamante Phase 3"
+    },
+    {
+     "id": "12",
+     "description": "Diamante Phase 4"
+    },
+    {
+     "id": "13",
+     "description": "Diamante Phase 5"
+    },
+    {
+     "id": "14",
+     "description": "Diamante Phase 6"
+    },
+    {
+     "id": "15",
+     "description": "Diamante Phase 7"
+    },
+    {
+     "id": "16",
+     "description": "Diamante Phase 8"
+    },
+    {
+     "id": "17",
+     "description": "Donquixote Doflamingo Phase 1"
+    },
+    {
+     "id": "18",
+     "description": "Donquixote Doflamingo Phase 2"
+    },
+    {
+     "id": "19",
+     "description": "Donquixote Doflamingo Phase 3"
+    },
+    {
+     "id": "20",
+     "description": "Donquixote Doflamingo Phase 4"
+    },
+    {
+     "id": "21",
+     "description": "Donquixote Doflamingo Phase 5"
+    },
+    {
+     "id": "22",
+     "description": "Donquixote Doflamingo Phase 6"
+    },
+    {
+     "id": "23",
+     "description": "Donquixote Doflamingo Phase 7"
+    },
+    {
+     "id": "24",
+     "description": "Donquixote Doflamingo Phase 8"
+    }
+   ]
   },
   "TableWorldMap": {
    "key_column": "id",
