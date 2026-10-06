@@ -3163,8 +3163,428 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "id": "task_desc_001",
+     "text": "Find <color=#00fff0>Usopp</color> and learn about the villagers' situation"
+    },
+    {
+     "id": "task_desc_002",
+     "text": "Help <color=#00fff0>Usopp</color> set traps"
+    },
+    {
+     "id": "task_desc_003",
+     "text": "Wait for the <color=#00fff0>Black Cat Pirates</color>"
+    },
+    {
+     "id": "task_desc_004",
+     "text": "Hurry to the <color=#00fff0>beach on the other side</color> of the island"
+    },
+    {
+     "id": "task_desc_005",
+     "text": "Face the <color=#00fff0>Black Cat Pirates</color>"
+    },
+    {
+     "id": "stepName_talk",
+     "text": "Usopp, how are things in the village?"
+    },
+    {
+     "id": "stepName_assistant",
+     "text": "Help Usopp set traps"
+    },
+    {
+     "id": "stepName_assistantContent",
+     "text": "Usopp, I've done what you asked!"
+    },
+    {
+     "id": "stepName_wait",
+     "text": "Ugh... so boring. Where are the enemies?"
+    },
+    {
+     "id": "stepName_fight",
+     "text": "Haha, come at me all at once! Fight the Black Cat Pirates!"
+    },
+    {
+     "id": "story_DemoContent_001000",
+     "text": "text test\\nasdf<size=44>Demo</size>Hello!"
+    },
+    {
+     "id": "story_DemoContent_001001",
+     "text": "Usopp: Because I'm a liar"
+    },
+    {
+     "id": "story_DemoContent_001002",
+     "text": "Usopp: Nobody would ever believe me"
+    },
+    {
+     "id": "story_DemoContent_001003",
+     "text": "Nami: The pirates really are coming, aren't they?"
+    },
+    {
+     "id": "story_DemoContent_001004",
+     "text": "Usopp: They'll definitely come, but everyone thinks I'm lying"
+    },
+    {
+     "id": "story_DemoContent_001005",
+     "text": "Usopp: They all think tomorrow will be another peaceful day"
+    },
+    {
+     "id": "story_DemoContent_001006",
+     "text": "Usopp: So I'll fight the pirates on the shore and turn this into a lie!"
+    },
+    {
+     "id": "story_DemoContent_001007",
+     "text": "Usopp: I love this village! I want to protect everyone!"
+    },
+    {
+     "id": "story_DemoContent_001008",
+     "text": "Luffy: Okay! We'll help too!"
+    },
+    {
+     "id": "story_DemoContent_001009",
+     "text": "This way they can't climb up this slope"
+    },
+    {
+     "id": "story_DemoContent_001010",
+     "text": "Because it's covered in oil"
+    },
+    {
+     "id": "story_DemoContent_001011",
+     "text": "No matter what, we have to hold this slope"
+    },
+    {
+     "id": "story_DemoContent_001012",
+     "text": "Um... maybe it's just me, but I feel like I heard sounds from somewhere"
+    },
+    {
+     "id": "story_DemoContent_001013",
+     "text": "N-now that you mention it... there's a place just like this to the north!"
+    },
+    {
+     "id": "story_DemoContent_001014",
+     "text": "Did you get the wrong shore?"
+    },
+    {
+     "id": "story_DemoContent_001015",
+     "text": "Hurry! They're about to attack the village! Where is it?"
+    },
+    {
+     "id": "story_DemoContent_001016",
+     "text": "Run straight north from here and you'll get there in 3 minutes"
+    },
+    {
+     "id": "story_DemoContent_001017",
+     "text": "Get there within 20 seconds!"
+    },
+    {
+     "id": "story_DemoContent_001018",
+     "text": "The Black Cat Pirates have landed. They're on the shore ahead!"
+    },
+    {
+     "id": "story_DemoContent_001019",
+     "text": "It's the time we agreed with Captain Kuro! Men, trample the village on this island!"
+    },
+    {
+     "id": "story_DemoContent_001020",
+     "text": "The Straw Hat kid is this strong... Nyaban Brothers, it's up to you!"
+    },
+    {
+     "id": "story_DemoContent_001021",
+     "text": "Damn it! This is nothing like what Captain Kuro said..."
+    },
+    {
+     "id": "story_Content_002",
+     "text": "The pirates have landed on the beach!"
+    },
+    {
+     "id": "story_Content_003",
+     "text": "Aaah~~ so many pirates, what do we do?"
+    },
+    {
+     "id": "story_Content_004",
+     "text": "What nice weather today~"
+    },
+    {
+     "id": "story_Content_005",
+     "text": "Ah... so sleepy..."
+    },
+    {
+     "id": "story_EnemyContent_001",
+     "text": "Nyaban Brothers, go!"
+    },
+    {
+     "id": "story_EnemyContent_002",
+     "text": "Meow?!"
+    },
+    {
+     "id": "story_EnemyContent_003",
+     "text": "Meow!?"
+    },
+    {
+     "id": "battle_guide_text_001",
+     "text": "This is the turn bar. The action order of every character on the battlefield is shown here."
+    },
+    {
+     "id": "battle_guide_text_002",
+     "text": "After a character acts, a combo countdown appears. You can launch a combo before it ends."
+    },
+    {
+     "id": "battle_guide_text_003",
+     "text": "Skills cost Soul Jade. This shows how much Soul Jade the current character has."
+    },
+    {
+     "id": "battle_guide_text_004",
+     "text": "Different skills cost different amounts of Soul Jade. Now spend {0} Soul Jade to use {1} as a combo."
+    },
+    {
+     "id": "battle_guide_text_005",
+     "text": "Some skills can't combo. These are Finishers and have a special mark on their icons. Watch out for them!"
+    },
+    {
+     "id": "battle_skill_attrTip",
+     "text": "[Finisher, can't combo]"
+    },
+    {
+     "id": "story_DemoContent_002001",
+     "text": "What was that bunch of pushovers just now?"
+    },
+    {
+     "id": "story_DemoContent_002002",
+     "text": "Who knows. That wasn't nearly enough to let off steam!"
+    },
+    {
+     "id": "story_DemoContent_002003",
+     "text": "Who are those two..."
+    },
+    {
+     "id": "story_DemoContent_002004",
+     "text": "Okay, look closely at this ring. When I say \"1, 2, Jango\", you'll get stronger"
+    },
+    {
+     "id": "story_DemoContent_002005",
+     "text": "1... 2... Jango!"
+    },
+    {
+     "id": "story_DemoContent_002006",
+     "text": "You got hypnotized too!"
+    },
+    {
+     "id": "story_DemoContent_002007",
+     "text": "Gum-Gum... Gatling"
+    },
+    {
+     "id": "story_DemoContent_002008",
+     "text": "When I say \"1, 2, Jango\", you'll fall asleep..."
+    },
+    {
+     "id": "story_DemoContent_002009",
+     "text": "1, 2, Jango"
+    },
+    {
+     "id": "story_Haijunjidi_Content_001001",
+     "text": "Ahh! What great weather!"
+    },
+    {
+     "id": "story_Haijunjidi_Content_001002",
+     "text": "If we keep going like this, we'll see the Marine Base soon!"
+    },
+    {
+     "id": "story_Haijunjidi_Content_001003",
+     "text": "Hahahahahaha."
+    },
+    {
+     "id": "story_Haijunjidi_Content_001004",
+     "text": "This is no time to laugh, Mr. Luffy. He was captured right there, the famous pirate hunter \"Roronoa Zoro\""
+    },
+    {
+     "id": "story_Haijunjidi_Content_001005",
+     "text": "They say he's like a bloodthirsty beast, a man who takes the heads of wanted pirates and cuts them to pieces. People call him a demon in human skin!"
+    },
+    {
+     "id": "story_Haijunjidi_Content_001006",
+     "text": "We finally made it to the Marine Base town."
+    },
+    {
+     "id": "story_Louguetown_Content_002001",
+     "text": "What a huge town!"
+    },
+    {
+     "id": "story_Louguetown_Content_002002",
+     "text": "This town was once where pirates bound for the \"Grand Line\" gathered. You can buy anything you need here."
+    },
+    {
+     "id": "story_Louguetown_Content_002003",
+     "text": "Okay! I'll gather some gear for the big adventure ahead."
+    },
+    {
+     "id": "story_Louguetown_Content_002004",
+     "text": "Looks like I can get some good ingredients here. And beautiful women."
+    },
+    {
+     "id": "story_Louguetown_Content_002005",
+     "text": "There's something I want to buy too."
+    },
+    {
+     "id": "story_Louguetown_Content_002006",
+     "text": "Oh my, what are you going to pay with? I seem to remember you don't have a penny~"
+    },
+    {
+     "id": "story_Louguetown_Content_002007",
+     "text": "Right, I'm going to see the execution platform! I want to see where the Pirate King was executed."
+    },
+    {
+     "id": "story_Louguetown_Content_002008",
+     "text": "Hey, we haven't decided where to meet up yet... he's hopeless."
+    },
+    {
+     "id": "pleaseShowActiveCode",
+     "text": "Please enter the activation code"
+    },
+    {
+     "id": "get",
+     "text": "Get"
+    },
+    {
+     "id": "SoulSummon",
+     "text": "Soul Search"
+    },
+    {
+     "id": "levelColorBreak",
+     "text": "Level: <color=#ba5714>{0}</color>"
+    },
+    {
+     "id": "skillLevelUpCondition",
+     "text": "Upgrade requirements: {0}"
+    },
+    {
+     "id": "skillLevelUpCondition_preSkill",
+     "text": "Activation requires the prerequisite skill at Lv <color=#a32e00>{0}</color>"
+    },
+    {
+     "id": "skillLevelUpCondition_level",
+     "text": "Upgrade requires character Lv <color=#a32e00>{0}</color>"
+    },
+    {
+     "id": "skillLevelUpCondition_star",
+     "text": "Activation requires the character to Transcend to <color=#a32e00>{0}</color> stars"
+    },
+    {
+     "id": "skillLevelUpCondition_breach",
+     "text": "Activation requires Breakthrough Level <color=#a32e00>{0}</color>"
+    },
+    {
+     "id": "skillLevelUpMax",
+     "text": "Already at max level"
+    },
+    {
+     "id": "costSoul_colon",
+     "text": "Soul Jade Cost"
+    },
+    {
+     "id": "costCoin_colon",
+     "text": "Gold Cost:"
+    },
+    {
+     "id": "skillPoint_colon",
+     "text": "Skill Points:"
+    },
+    {
+     "id": "skillPoint_lack",
+     "text": "Not enough Skill Points"
+    },
+    {
+     "id": "skillTypeName_1",
+     "text": "Basic Skill"
+    },
+    {
+     "id": "skillTypeName_2",
+     "text": "Finisher Skill"
+    },
+    {
+     "id": "heroDesc_1",
+     "text": "1 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "heroDesc_2",
+     "text": "2 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "heroDesc_3",
+     "text": "3 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "heroDesc_4",
+     "text": "4 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "heroDesc_5",
+     "text": "5 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "heroDesc_6",
+     "text": "6 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "heroDesc_7",
+     "text": "7 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "heroDesc_8",
+     "text": "8 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "heroDesc_9",
+     "text": "9 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "heroDesc_10",
+     "text": "10 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "heroDesc_11",
+     "text": "11 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "heroDesc_12",
+     "text": "12 character description, heaven and earth, character description, heaven and earth, character description, heaven and earth,"
+    },
+    {
+     "id": "BreakPassiveLimit",
+     "text": "Break through at Affinity Lv{0}"
+    },
+    {
+     "id": "item_desc_221034",
+     "text": "Sends a server-wide broadcast."
+    },
+    {
+     "id": "breakMaxLevel",
+     "text": "Already at max Breakthrough"
+    },
+    {
+     "id": "copySectionWorld",
+     "text": "Episode {0}"
+    },
+    {
+     "id": "1star1Text",
+     "text": "Clear within 10 rounds"
+    },
+    {
+     "id": "1star2Text",
+     "text": "More than 3 characters left"
+    },
+    {
+     "id": "1star3Text",
+     "text": "Total HP left above 60%"
+    },
+    {
      "id": "lifeSystem",
      "text": "Life System"
+    },
+    {
+     "id": "reward_skillpoint",
+     "text": "Get Skill Points"
+    },
+    {
+     "id": "refineMaster",
+     "text": "Refine Master"
     },
     {
      "id": "warehouse11",
@@ -3191,12 +3611,48 @@
      "text": "Warehouse 6"
     },
     {
+     "id": "reward_skillpoint_fail_msg",
+     "text": "Please choose an item and quantity"
+    },
+    {
      "id": "WarehouseNotOpen",
      "text": "Warehouse not unlocked"
     },
     {
      "id": "warehouseCellOpen",
      "text": "Reach VIP{0} to unlock this row of slots"
+    },
+    {
+     "id": "itemBaseCoinType2",
+     "text": "Free Rainbow Diamonds"
+    },
+    {
+     "id": "itemBaseCoinType1101",
+     "text": "Hero EXP"
+    },
+    {
+     "id": "itemBaseCoinType1017",
+     "text": "Rainbow Crystal"
+    },
+    {
+     "id": "itemBaseCoinType1301",
+     "text": "Intel"
+    },
+    {
+     "id": "skillResetSuccess",
+     "text": "Skills reset. {0} Gold Bars refunded"
+    },
+    {
+     "id": "skillResetFail",
+     "text": "Skill reset failed"
+    },
+    {
+     "id": "skillResetWarning",
+     "text": "Resetting skills costs {0} {1}. Reset?"
+    },
+    {
+     "id": "putOut",
+     "text": "Take Out"
     },
     {
      "id": "recycleStand",
@@ -3231,6 +3687,54 @@
      "text": "Buy Warehouse"
     },
     {
+     "id": "storageBuyContent",
+     "text": "Buying {0} costs {1}. Buy?"
+    },
+    {
+     "id": "equipIsEmpty",
+     "text": "No equipment"
+    },
+    {
+     "id": "skill_level_up_success",
+     "text": "Skill upgraded!"
+    },
+    {
+     "id": "outfitProp",
+     "text": "Set Bonus ({0})"
+    },
+    {
+     "id": "star_max_tip",
+     "text": "Max stars"
+    },
+    {
+     "id": "star_up_success_tip",
+     "text": "Star Upgrade successful!"
+    },
+    {
+     "id": "autoadd_notenough",
+     "text": "No materials to add"
+    },
+    {
+     "id": "IdentityCanKnow",
+     "text": "Identifying grants the fixed stat: {0}"
+    },
+    {
+     "id": "bindCannotShell",
+     "text": "Bound equipment can't be sold"
+    },
+    {
+     "id": "outfitAdd",
+     "text": "{0}-Piece Set Bonus:"
+    },
+    {
+     "id": "outfitAdd4",
+     "text": "4-Piece Set Bonus:"
+    },
+    {
+     "id": "outfitAdd3",
+     "text": "3-Piece Set Bonus:"
+    },
+    {
      "id": "recycleGetOutTitle",
      "text": "Take Out"
     },
@@ -3243,12 +3747,320 @@
      "text": "{0} can't be moved to the warehouse"
     },
     {
+     "id": "NAME_CANNOT_EMPTY",
+     "text": "Name can't be empty"
+    },
+    {
+     "id": "NAME_CONTAIN_ILLEGAL_CHARS",
+     "text": "Name contains forbidden content. Please change it"
+    },
+    {
+     "id": "NAME_LEN_MUST_IN_RANGE",
+     "text": "Name must be {0}-{1} Chinese characters long. Please try again"
+    },
+    {
+     "id": "KEYWORD_LEN_TOO_MIN",
+     "text": "Keyword too short"
+    },
+    {
+     "id": "FormationNotOpen",
+     "text": "This formation isn't available yet"
+    },
+    {
+     "id": "MailCountdownContent3",
+     "text": "Less than {0} hours"
+    },
+    {
+     "id": "MailSenderText",
+     "text": "From:"
+    },
+    {
+     "id": "MailRewardGetSuccess",
+     "text": "Items claimed"
+    },
+    {
+     "id": "StrorageOpen",
+     "text": "You bought Warehouse {0}"
+    },
+    {
      "id": "storageSortCDTips",
      "text": "Sorting the bag too often. Please try again later"
     },
     {
+     "id": "OfflineAutoReply",
+     "text": "Hi! I'm away right now. I'll get back to you later!"
+    },
+    {
+     "id": "notice_enter_battle",
+     "text": "About to enter battle. Continue?"
+    },
+    {
      "id": "itemMoveToRecycle",
      "text": "{0} moved to the Recycle Bin"
+    },
+    {
+     "id": "text_autopath_fail_cross_server",
+     "text": "The target is in a cross-server scene. Can't go there."
+    },
+    {
+     "id": "text_task_type_abbr_main_line",
+     "text": "[Main]"
+    },
+    {
+     "id": "text_task_type_abbr_side_line",
+     "text": "[Side]"
+    },
+    {
+     "id": "text_task_type_abbr_teamone",
+     "text": "[Bounty]"
+    },
+    {
+     "id": "text_task_type_abbr_union_task",
+     "text": "[Guild]"
+    },
+    {
+     "id": "text_task_daily_recommend",
+     "text": "[Daily Pick]"
+    },
+    {
+     "id": "text_task_recommend_daily_task_person",
+     "text": "Complete Daily Quests"
+    },
+    {
+     "id": "text_task_recommend_daily_task_team",
+     "text": "Complete daily team quests"
+    },
+    {
+     "id": "text_task_get_limit_fight_num",
+     "text": "Raise your crew's Power to {0}"
+    },
+    {
+     "id": "text_task_get_limit_level",
+     "text": "Raise your crew's level to Lv{0}"
+    },
+    {
+     "id": "text_task_get_limit_team_member_num",
+     "text": "Requires at least {0} people in the team"
+    },
+    {
+     "id": "text_task_all_main_task_completed",
+     "text": "All main quests completed"
+    },
+    {
+     "id": "text_task_type_main",
+     "text": "Main"
+    },
+    {
+     "id": "text_task_type_side",
+     "text": "Side"
+    },
+    {
+     "id": "text_task_type_loop",
+     "text": "Voyage"
+    },
+    {
+     "id": "text_task_type_daily_person",
+     "text": "Daily"
+    },
+    {
+     "id": "text_task_type_daily_team",
+     "text": "Bounty"
+    },
+    {
+     "id": "text_task_accepted",
+     "text": "Accept Quest"
+    },
+    {
+     "id": "text_task_complete",
+     "text": "Quest Complete"
+    },
+    {
+     "id": "text_task_fail",
+     "text": "Quest Failed"
+    },
+    {
+     "id": "text_task_fail_tag",
+     "text": "(Failed)"
+    },
+    {
+     "id": "text_task_fail_desc",
+     "text": "Quest failed. Tap here to open details and abandon it"
+    },
+    {
+     "id": "text_task_fight_enter",
+     "text": "Battle Notice"
+    },
+    {
+     "id": "text_task_get_reward",
+     "text": "Claim"
+    },
+    {
+     "id": "text_task_detail",
+     "text": "Details"
+    },
+    {
+     "id": "text_task_npc_default_selection",
+     "text": "Nothing"
+    },
+    {
+     "id": "text_task_npc_hud_handoverable",
+     "text": "Ready to Turn In"
+    },
+    {
+     "id": "text_task_npc_goto_type",
+     "text": "Go to {0}"
+    },
+    {
+     "id": "text_task_item_invalid",
+     "text": "Doesn't seem to have any effect"
+    },
+    {
+     "id": "text_task_time_remaining",
+     "text": "<color='#d4d7c3'>Time left {0}</color>"
+    },
+    {
+     "id": "text_task_loop_limit_reached",
+     "text": "You've reached today's quest limit. Please continue tomorrow."
+    },
+    {
+     "id": "text_task_loop_completed",
+     "text": "All {0} quests this round are done. Start a new round?"
+    },
+    {
+     "id": "text_task_level_not_reached",
+     "text": "Lv{0} not reached"
+    },
+    {
+     "id": "text_task_level_not_reached_raid",
+     "text": "Raise your crew's level to Lv{0}. Daily Quests and Bounty Quests level you up fast."
+    },
+    {
+     "id": "text_task_level_not_reached_raid2",
+     "text": "Raise your crew's level first"
+    },
+    {
+     "id": "text_task_not_have_task_for_resource",
+     "text": "Quest not accepted. Can't gather"
+    },
+    {
+     "id": "text_task_autogoto_daily_task_person",
+     "text": "Solo Daily"
+    },
+    {
+     "id": "text_task_autogoto_daily_task_person_desc",
+     "text": "Go accept solo daily quests"
+    },
+    {
+     "id": "text_task_autogoto_daily_task_team_desc",
+     "text": "Go accept Bounty Quests"
+    },
+    {
+     "id": "text_task_daily_task_team_noteam_tip",
+     "text": "You need a team for Bounty Quests. Form a team, then accept one"
+    },
+    {
+     "id": "text_task_daily_task_team_low_level_npc_tip",
+     "text": "Member <color=red>{0}</color> hasn't unlocked higher-level Bounty Quests. Accept a lower-level Bounty Quest? (Lower-level quests give fewer rewards and less EXP)"
+    },
+    {
+     "id": "text_task_daily_task_reward",
+     "text": "Round {0} Reward"
+    },
+    {
+     "id": "text_task_daily_task_reward_special",
+     "text": "Special Reward"
+    },
+    {
+     "id": "text_task_not_at_can_get_time_0",
+     "text": "Quest starts in {0}h {1}m {2}s"
+    },
+    {
+     "id": "text_task_not_at_can_get_time_2",
+     "text": "Preparing. Next quest in {0}h {1}m {2}s"
+    },
+    {
+     "id": "task_fail_promt_title",
+     "text": "Abandon Quest"
+    },
+    {
+     "id": "task_fail_promt_desc",
+     "text": "Really abandon this quest?"
+    },
+    {
+     "id": "text_task_daily_fail_prompt",
+     "text": "Abandoning will void the whole round of quests"
+    },
+    {
+     "id": "text_task_daily_fail_confirm",
+     "text": "Abandon Anyway"
+    },
+    {
+     "id": "text_task_daily_fail_cancel",
+     "text": "Let Me Think"
+    },
+    {
+     "id": "text_task_raid_fight_level_notice",
+     "text": "Recommended level: <color=#ba5714>{0}</color>\\nYour level: <color=#ba5714>{1}</color>\\nUnderpowered captains may lose this battle\\nEnter battle anyway?"
+    },
+    {
+     "id": "text_task_raid_fight_level_forbidden",
+     "text": "Recommended level: <color=#ba5714>{0}</color>\\nYour level: <color=#ba5714>{1}</color>\\nYou're not strong enough for this battle\\nPlease reach Lv{2} or higher"
+    },
+    {
+     "id": "text_npc_chat_type_shop",
+     "text": "[Open NPC Shop]"
+    },
+    {
+     "id": "text_npc_chat_type_smelting",
+     "text": "[Open Smelting House]"
+    },
+    {
+     "id": "text_npc_chat_type_medicine",
+     "text": "[Open Pharmacy]"
+    },
+    {
+     "id": "text_npc_chat_type_cooking",
+     "text": "[Open Kitchen]"
+    },
+    {
+     "id": "text_npc_chat_type_shipdock_admin",
+     "text": "[Open Shipyard]"
+    },
+    {
+     "id": "text_npc_chat_type_union_admin",
+     "text": "[Open Guild]"
+    },
+    {
+     "id": "text_npc_chat_type_storage_admin",
+     "text": "[Open Warehouse]"
+    },
+    {
+     "id": "text_reputation_reward_content_fast_daily",
+     "text": "Unlocks <color=red>One-Tap Complete</color>"
+    },
+    {
+     "id": "text_reputation_reward_content_title",
+     "text": "Earn the <color=red>{0}</color> achievement"
+    },
+    {
+     "id": "text_dailysweep_again",
+     "text": "Dispatch Again"
+    },
+    {
+     "id": "PleaseChooseHandOverObject",
+     "text": "Please choose the items to turn in"
+    },
+    {
+     "id": "ChooseNeedGroupFriend",
+     "text": "Please choose the friends to regroup first"
+    },
+    {
+     "id": "ChatingWithFriend",
+     "text": "Chatting with <color=#e49315>{0}</color> <color=#74aa56>[Friendship {1}]</color>"
+    },
+    {
+     "id": "KuafuChatingWithFriend",
+     "text": "Chatting with <color=#e49315>{0}</color>"
     },
     {
      "id": "recycleGet",
@@ -3259,24 +4071,1440 @@
      "text": "Socketing"
     },
     {
+     "id": "Punch",
+     "text": "Socketing"
+    },
+    {
+     "id": "GemMounting",
+     "text": "Socket Gems"
+    },
+    {
      "id": "EquipRefining",
      "text": "Equipment Refine"
+    },
+    {
+     "id": "CritAttribute",
+     "text": "Crit Stats"
     },
     {
      "id": "EquipPunch",
      "text": "Socketing"
     },
     {
+     "id": "PunchPosition",
+     "text": "Socket Slot"
+    },
+    {
+     "id": "RefineRequire",
+     "text": "Refine Requirements"
+    },
+    {
+     "id": "DrawCountDown",
+     "text": "Card flip countdown:"
+    },
+    {
+     "id": "FlopResultsTitle",
+     "text": "Boost cards will be used in your next Refines"
+    },
+    {
+     "id": "RefineCardContent_1",
+     "text": "Get {0} Gold if this Refine fails"
+    },
+    {
+     "id": "PunchColor",
+     "text": "Socket Color"
+    },
+    {
+     "id": "text_map_fenxian",
+     "text": "Line"
+    },
+    {
+     "id": "text_map_location",
+     "text": "Location:"
+    },
+    {
+     "id": "text_map_location_template",
+     "text": "<color='#f2637d'>Location:</color>{0}"
+    },
+    {
+     "id": "info_playerID",
+     "text": "ID:"
+    },
+    {
+     "id": "info_society",
+     "text": "Guild Quests"
+    },
+    {
+     "id": "info_service",
+     "text": "Support"
+    },
+    {
      "id": "info_team",
      "text": "Squad"
+    },
+    {
+     "id": "info_changeFlag",
+     "text": "Change Flag"
+    },
+    {
+     "id": "info_enterNew",
+     "text": "Enter new nickname"
+    },
+    {
+     "id": "ChannelChat_AutoPlayWorld",
+     "text": "Auto-play World voice"
+    },
+    {
+     "id": "ChannelChat_AutoPlayGuild",
+     "text": "Auto-play Guild voice"
+    },
+    {
+     "id": "ChannelChat_AutoPlayTeam",
+     "text": "Auto-play Team voice"
+    },
+    {
+     "id": "ChannelChat_AutoPlayCurrent",
+     "text": "Auto-play Current voice"
     },
     {
      "id": "ChannelChat_System",
      "text": "System"
     },
     {
+     "id": "ChannelChat_Broadcast",
+     "text": "Radio"
+    },
+    {
+     "id": "ChatGagText",
+     "text": "You're muted. The mute lifts in {0} minutes"
+    },
+    {
+     "id": "ChatGagForeverText",
+     "text": "You're permanently muted"
+    },
+    {
+     "id": "ChatVoiceClose",
+     "text": "You're in open mic mode and can't use push-to-talk"
+    },
+    {
+     "id": "TotalCombatEffectiveness",
+     "text": "Total Power"
+    },
+    {
+     "id": "PreventDamage",
+     "text": "Prevent Damage"
+    },
+    {
+     "id": "RecommendedLevel",
+     "text": "Recommended Level:"
+    },
+    {
+     "id": "RaidMainCopyExistTitle",
+     "text": "Exit Dungeon"
+    },
+    {
+     "id": "RaidMainCopyExistContent",
+     "text": "If you exit, you won't get this dungeon's drops. Exit?"
+    },
+    {
+     "id": "NPCShop",
+     "text": "NPC Shop"
+    },
+    {
+     "id": "Choose_Refine_0",
+     "text": "Choose equipment to refine"
+    },
+    {
+     "id": "Choose_Refine_1",
+     "text": "Choose equipment to socket"
+    },
+    {
+     "id": "Choose_Refine_2",
+     "text": "Choose equipment to punch"
+    },
+    {
+     "id": "EquipWith",
+     "text": "Equipped on:"
+    },
+    {
+     "id": "Space_Punch",
+     "text": "Socket"
+    },
+    {
+     "id": "ReturnList",
+     "text": "Back to List"
+    },
+    {
+     "id": "BodyRefineLevel",
+     "text": "All 4 equipped pieces Refine +{0}"
+    },
+    {
+     "id": "MasterMaster",
+     "text": "Normal Refine Master"
+    },
+    {
+     "id": "AntiknockProperty",
+     "text": "Crit RES Stats"
+    },
+    {
+     "id": "Biography_Total",
+     "text": "Story Overview"
+    },
+    {
+     "id": "Biography_Deblocking",
+     "text": "Stories Unlocked:"
+    },
+    {
+     "id": "Biography_finished",
+     "text": "Stories Completed:"
+    },
+    {
+     "id": "BiographyReward_1",
+     "text": "Reach {0} total stars"
+    },
+    {
+     "id": "BiographyReward_2",
+     "text": "Unlock {0} SR Character Stories"
+    },
+    {
+     "id": "BiographyReward_3",
+     "text": "Unlock {0} SSR Character Stories"
+    },
+    {
+     "id": "BiographyReward_4",
+     "text": "{0} SR stars"
+    },
+    {
+     "id": "BiographyReward_5",
+     "text": "{0} SSR stars"
+    },
+    {
+     "id": "BiographyReward_6",
+     "text": "Unlock {0} Character Stories"
+    },
+    {
+     "id": "HaveTotalStars",
+     "text": "Total Stars:"
+    },
+    {
+     "id": "StarReward",
+     "text": "Star Rewards"
+    },
+    {
+     "id": "FollowingCannotOperate",
+     "text": "Can't use the joystick while following"
+    },
+    {
+     "id": "renameInput_error",
+     "text": "Player names must be 2 to 6 characters"
+    },
+    {
+     "id": "shop_limit_daliy",
+     "text": "Daily limit:"
+    },
+    {
+     "id": "shop_limit_needPassChapter",
+     "text": "Clear the required stage first"
+    },
+    {
+     "id": "shop_limit_weekly",
+     "text": "Weekly limit:"
+    },
+    {
+     "id": "shop_limit_monthly",
+     "text": "Monthly limit:"
+    },
+    {
+     "id": "shop_limit_lifetime",
+     "text": "Lifetime limit:"
+    },
+    {
+     "id": "shop_selectItem",
+     "text": "Please choose an item"
+    },
+    {
+     "id": "shop_itemisLimited",
+     "text": "Item is purchase-limited"
+    },
+    {
+     "id": "shop_selectItemCount",
+     "text": "Please choose a quantity"
+    },
+    {
+     "id": "shop_gloab_limit",
+     "text": "{0} left"
+    },
+    {
+     "id": "Section_num",
+     "text": "Section {0}"
+    },
+    {
+     "id": "DegreeOfDifficulty",
+     "text": "Difficulty:"
+    },
+    {
+     "id": "ChannelChat_NotInGuild",
+     "text": "Not in a guild"
+    },
+    {
+     "id": "ChannelChat_NotInTeam",
+     "text": "Not in a team"
+    },
+    {
+     "id": "ChannelChat_ChannelLevelLimit",
+     "text": "You need Lv{0} to chat in this channel"
+    },
+    {
+     "id": "ChannelChat_CDLimit",
+     "text": "Sending too fast. Please wait {0} seconds"
+    },
+    {
+     "id": "ChannelChat_NoInput",
+     "text": "Please enter text to send"
+    },
+    {
+     "id": "AddNewGroup",
+     "text": "Add New Group"
+    },
+    {
+     "id": "DealMarket",
+     "text": "Market"
+    },
+    {
+     "id": "Shopping",
+     "text": "Buy"
+    },
+    {
+     "id": "Selling",
+     "text": "Sell"
+    },
+    {
+     "id": "LivingMaterial",
+     "text": "Life Materials"
+    },
+    {
+     "id": "Upanishad",
+     "text": "Ultimate Book"
+    },
+    {
+     "id": "PriceUp",
+     "text": "Price Up"
+    },
+    {
+     "id": "PriceDown",
+     "text": "Price Down"
+    },
+    {
+     "id": "HaveItemNum",
+     "text": "You own {0} of this item"
+    },
+    {
+     "id": "Function",
+     "text": "[Effect]"
+    },
+    {
+     "id": "BriefIntroduction",
+     "text": "[Overview]"
+    },
+    {
+     "id": "PriceSituation",
+     "text": "Price Trend"
+    },
+    {
+     "id": "NoGoodsSelling",
+     "text": "You have nothing to sell right now~"
+    },
+    {
+     "id": "Choose_Refine_3",
+     "text": "Choose equipment"
+    },
+    {
+     "id": "MasterJudgeInvitation",
+     "text": "{0} invited {1} to group chat {2}. Agree?"
+    },
+    {
+     "id": "ChatGroupInvitation",
+     "text": "{0} invited you to group chat {1}. Accept?"
+    },
+    {
+     "id": "MemberJoinChatGroup",
+     "text": "{0} joined group chat {1}"
+    },
+    {
+     "id": "TeamLineup",
+     "text": "Squad Lineup"
+    },
+    {
+     "id": "FightingCapacity",
+     "text": "Power {0}"
+    },
+    {
+     "id": "liftMonsterCount",
+     "text": "Enemies Left"
+    },
+    {
+     "id": "DisbandChatGroup",
+     "text": "Disband this group?"
+    },
+    {
+     "id": "QuitChatGroup",
+     "text": "Leave this group?"
+    },
+    {
+     "id": "EquipmentScheme",
+     "text": "Equipment Preset"
+    },
+    {
+     "id": "EquipmentScheme_TemporaryUse",
+     "text": "Equipment presets are only for temporary use by team characters"
+    },
+    {
+     "id": "Equipment_Number",
+     "text": "Lineup Slot {0} Equipment"
+    },
+    {
+     "id": "Equipment_Own",
+     "text": "Character Gear"
+    },
+    {
+     "id": "CanMasterDisbandChatGroup",
+     "text": "Only the group owner can disband the group"
+    },
+    {
+     "id": "PassThrough",
+     "text": "Stage Run"
+    },
+    {
+     "id": "Copy",
+     "text": "Dungeon"
+    },
+    {
+     "id": "WorldBoss",
+     "text": "World Boss"
+    },
+    {
+     "id": "MilitaryExploits",
+     "text": "Record"
+    },
+    {
+     "id": "MaximumDamage",
+     "text": "Max Damage"
+    },
+    {
+     "id": "gemPosNum",
+     "text": "[Slot {0}]"
+    },
+    {
+     "id": "equipCannotPunch",
+     "text": "This equipment can't be socketed"
+    },
+    {
+     "id": "Adventure",
+     "text": "Adventure"
+    },
+    {
+     "id": "Sports",
+     "text": "Competitive"
+    },
+    {
+     "id": "AchievementLevel",
+     "text": "Achievement Level:"
+    },
+    {
+     "id": "AchievementPoint",
+     "text": "Total Achievement Points:"
+    },
+    {
+     "id": "AchievementRank",
+     "text": "Achievement Ranking"
+    },
+    {
+     "id": "GetAchievementPoint",
+     "text": "[Achievement Points: {0}]"
+    },
+    {
+     "id": "QuitGameContent",
+     "text": "Exit to the login screen?"
+    },
+    {
+     "id": "taskItemCantRecycle",
+     "text": "Quest items can't be recycled"
+    },
+    {
+     "id": "dropItem",
+     "text": "Drops"
+    },
+    {
+     "id": "dropReward",
+     "text": "Clear to get all rewards"
+    },
+    {
+     "id": "haventGetReward",
+     "text": "No rewards yet"
+    },
+    {
+     "id": "NotEnoughCoin",
+     "text": "Not enough Gold"
+    },
+    {
+     "id": "CreateChatGroup",
+     "text": "Create Group Chat"
+    },
+    {
+     "id": "InputChatGroupName",
+     "text": "Enter a group name"
+    },
+    {
+     "id": "Resolve_Refine",
+     "text": "Confirm Dismantle"
+    },
+    {
+     "id": "Resolve_HaveGoods",
+     "text": "Smelting gives the following items"
+    },
+    {
+     "id": "Resetting_Refine",
+     "text": "Confirm Reset"
+    },
+    {
+     "id": "Resetting_HaveGoods",
+     "text": "Resetting gives the following items"
+    },
+    {
+     "id": "NotEnoughDiamond",
+     "text": "Not enough Rainbow Diamonds"
+    },
+    {
+     "id": "shopmall_buyDiamondTip",
+     "text": "Not enough Rainbow Diamonds. Go top up?"
+    },
+    {
+     "id": "shopmall_outOfSendDiamond",
+     "text": "Price exceeds this month's remaining gift allowance"
+    },
+    {
+     "id": "shopmall_rate",
+     "text": "Discount"
+    },
+    {
+     "id": "shopmall_sureSend",
+     "text": "Confirm Gift"
+    },
+    {
+     "id": "shopmall_sendContext",
+     "text": "Gift {1}*{2} worth {3} Rainbow Diamonds to your friend {0}?"
+    },
+    {
+     "id": "VoiceRecordSecondMinTip",
+     "text": "Message too short"
+    },
+    {
+     "id": "VoiceRecordSecondMaxTip",
+     "text": "Message too long"
+    },
+    {
+     "id": "MasterCannotQuitChatGroup",
+     "text": "The group owner can't leave the group, only disband it"
+    },
+    {
+     "id": "RefineCardTitle_1",
+     "text": "Discount Card"
+    },
+    {
+     "id": "refineSuccess",
+     "text": "Refine successful"
+    },
+    {
+     "id": "refineFail",
+     "text": "Refine failed"
+    },
+    {
+     "id": "Subline",
+     "text": "Line {0}"
+    },
+    {
+     "id": "refineLevelLess",
+     "text": "Refine level too low"
+    },
+    {
+     "id": "colorNotMatch",
+     "text": "Color doesn't match"
+    },
+    {
+     "id": "noMoreHole",
+     "text": "No more sockets"
+    },
+    {
+     "id": "QuantityReceived",
+     "text": "Accepted:"
+    },
+    {
+     "id": "TRADEMARKET_BUY_SUCCESS",
+     "text": "Spent {0} Blue Diamonds and bought {1}"
+    },
+    {
+     "id": "TRADEMARKET_BUY_WITH_DIMOND_SUCCESS",
+     "text": "Spent {0} Blue Diamonds and {1} Rainbow Diamonds and bought {2}"
+    },
+    {
+     "id": "TRADEMARKET_SELL_SUCCESS",
+     "text": "You sold {0} {1} for {2} Blue Diamonds (after a {3} Blue Diamond fee)"
+    },
+    {
+     "id": "CanMasterOperate",
+     "text": "Only the group owner can do this"
+    },
+    {
+     "id": "ChooseNeedRemoveMember",
+     "text": "Please choose the members to remove first"
+    },
+    {
+     "id": "ChooseNeedInviteFriend",
+     "text": "Please choose the friends to invite first"
+    },
+    {
+     "id": "InputCanotContainSpaceChar",
+     "text": "Input can't contain whitespace"
+    },
+    {
+     "id": "DiamondSupplement",
+     "text": "Not enough Blue Diamonds. Spend an equal amount of Rainbow Diamonds to cover the difference?"
+    },
+    {
+     "id": "PlayDealinfo_1",
+     "text": "Shop Requirements"
+    },
+    {
+     "id": "PlayDealinfo_2",
+     "text": "Level {0}."
+    },
+    {
+     "id": "PlayDealinfo_3",
+     "text": "Upkeep"
+    },
+    {
+     "id": "PlayDealinfo_4",
+     "text": "Upkeep based on the business index is paid every night at 0:00 and deducted from operating funds."
+    },
+    {
+     "id": "PlayDealinfo_5",
+     "text": "Tax"
+    },
+    {
+     "id": "PlayDealinfo_6",
+     "text": "Transaction tax, deducted from every trade."
+    },
+    {
+     "id": "PlayDealinfo_8",
+     "text": "A fee is charged for listing goods."
+    },
+    {
+     "id": "PlayDealinfo_9",
+     "text": "Rename Shop"
+    },
+    {
+     "id": "PlayDealinfo_10",
+     "text": "Costs {0} Gold Bars."
+    },
+    {
+     "id": "PlayDealinfo_11",
+     "text": "Operating Funds"
+    },
+    {
+     "id": "PlayDealinfo_12",
+     "text": "Deducted automatically when you open the shop. Funds below {0} days of upkeep can't be withdrawn."
+    },
+    {
+     "id": "PlayerDealTips",
+     "text": "Top 20 trades by value"
+    },
+    {
+     "id": "PlayerDealTax",
+     "text": "Player Shop trades are charged a <color=#ca2600>{0}</color> transaction tax"
+    },
+    {
+     "id": "PlayerDealclass_001",
+     "text": "Consumables"
+    },
+    {
      "id": "PlayerDealclass_004",
      "text": "Characters"
+    },
+    {
+     "id": "PlayerDealclass_0012",
+     "text": "Refining Stones"
+    },
+    {
+     "id": "PlayerDealclass_0014",
+     "text": "Formation Books"
+    },
+    {
+     "id": "PlayerDealclass_0021",
+     "text": "Stones"
+    },
+    {
+     "id": "PlayerDealclass_0022",
+     "text": "Ingredients"
+    },
+    {
+     "id": "PlayerDealclass_0023",
+     "text": "Special"
+    },
+    {
+     "id": "PlayerDealclass_0024",
+     "text": "Breakthrough Materials"
+    },
+    {
+     "id": "PlayerDealclass_0082",
+     "text": "Clothes"
+    },
+    {
+     "id": "PlayerDealclass_0083",
+     "text": "Rings"
+    },
+    {
+     "id": "PlayerDealclass_0084",
+     "text": "Necklaces"
+    },
+    {
+     "id": "PlayerDealclass_0090",
+     "text": "Common Gear"
+    },
+    {
+     "id": "PlayerDealclass_0092",
+     "text": "Equipment Boxes"
+    },
+    {
+     "id": "doyouwantToUseDiamond",
+     "text": "Not enough Blue Diamonds. Spend Rainbow Diamonds to cover the difference?"
+    },
+    {
+     "id": "recoverHp",
+     "text": "Restore HP"
+    },
+    {
+     "id": "recoverCostTip",
+     "text": "Restoring HP costs {0}. Continue?"
+    },
+    {
+     "id": "equipResolveNeedReset",
+     "text": "Refined or socketed equipment must be reset before dismantling"
+    },
+    {
+     "id": "equipResolved",
+     "text": "Equipment dismantled"
+    },
+    {
+     "id": "equipReseted",
+     "text": "Equipment reset"
+    },
+    {
+     "id": "Channel_Chat_Unread_Message",
+     "text": "{0} unread messages"
+    },
+    {
+     "id": "ChatGroupMaster",
+     "text": "[Owner]"
+    },
+    {
+     "id": "ChooseNeedRemoveFriend",
+     "text": "Please choose the friends to remove first"
+    },
+    {
+     "id": "MakeSureRemoveFriends",
+     "text": "Remove {0} and {1} other friends?"
+    },
+    {
+     "id": "HeroGroup_CommentTooLong",
+     "text": "Comments can't exceed 100 characters"
+    },
+    {
+     "id": "Task_Time",
+     "text": "Quest Time:"
+    },
+    {
+     "id": "Task_Form",
+     "text": "Quest Type:"
+    },
+    {
+     "id": "Task_Target",
+     "text": "Quest Objective:"
+    },
+    {
+     "id": "Task_Description",
+     "text": "Quest Details:"
+    },
+    {
+     "id": "Task_Reward",
+     "text": "Quest Rewards:"
+    },
+    {
+     "id": "holecolor_1",
+     "text": "Blue"
+    },
+    {
+     "id": "holecolor_2",
+     "text": "Green"
+    },
+    {
+     "id": "holecolor_3",
+     "text": "Purple"
+    },
+    {
+     "id": "holecolor_4",
+     "text": "Orange"
+    },
+    {
+     "id": "holecolor_5",
+     "text": "Red"
+    },
+    {
+     "id": "holecolor_6",
+     "text": "White"
+    },
+    {
+     "id": "use_level",
+     "text": "Level Range"
+    },
+    {
+     "id": "use_level_tipText",
+     "text": "Below Lv{0}"
+    },
+    {
+     "id": "no_more_than_tip",
+     "text": "Item quantity limit reached"
+    },
+    {
+     "id": "Choose_Refine_4",
+     "text": "Choose equipment to inherit from"
+    },
+    {
+     "id": "cannot_use_beacuseLevelless",
+     "text": "Level too low to use"
+    },
+    {
+     "id": "teamsettingLevel",
+     "text": "Team Settings"
+    },
+    {
+     "id": "teamsettingLevel_autoresponse",
+     "text": "Auto-respond to team summons"
+    },
+    {
+     "id": "Expedition_task_count",
+     "text": "At Expedition Lv{0} you can take up to <color=#BA5714FF>{1}</color> missions at once"
+    },
+    {
+     "id": "InheritLeftLimit",
+     "text": "This equipment has no Refine level to inherit"
+    },
+    {
+     "id": "Settle_Faver",
+     "text": "Favor"
+    },
+    {
+     "id": "Settle_ThroughEvaluation",
+     "text": "Clear Rating"
+    },
+    {
+     "id": "Activity_DailyTask_teamFlag",
+     "text": "Team quests are best done in a team"
+    },
+    {
+     "id": "Activity_Team",
+     "text": "Team Up"
+    },
+    {
+     "id": "Item_Synthesis",
+     "text": "Item Synthesis"
+    },
+    {
+     "id": "Synthesis_ChooseNum",
+     "text": "Choose synthesis quantity"
+    },
+    {
+     "id": "HeroRefineLevel",
+     "text": "All 4 Hero gear pieces Refine +{0}"
+    },
+    {
+     "id": "Not_Receive_Experience",
+     "text": "No missions received yet"
+    },
+    {
+     "id": "IsRemoveChatRecord",
+     "text": "Clear chat history?"
+    },
+    {
+     "id": "equipInherit",
+     "text": "Inherit Equipment"
+    },
+    {
+     "id": "costInherit",
+     "text": "Switching to stronger equipment. Transfer this equipment's Refine level to it?"
+    },
+    {
+     "id": "freeInherit",
+     "text": "You can inherit the old equipment's Refine level for free. Inherit?"
+    },
+    {
+     "id": "Transaction_Shell",
+     "text": "I Want to Sell"
+    },
+    {
+     "id": "Transaction_Buy",
+     "text": "I Want to Buy"
+    },
+    {
+     "id": "FaceToFacePurpose_Ask",
+     "text": "Player <color='#C53420'>{0}</color> sent you a trade request"
+    },
+    {
+     "id": "TransactionPurpose_ShellOrBuy",
+     "text": "Face-to-face trades are for selling or buying items. Choose what you want to do:"
+    },
+    {
+     "id": "FaceToFaceTradeSendTips",
+     "text": "Trade request sent. Waiting for a response..."
+    },
+    {
+     "id": "FaceToFaceTradeRefuseTips",
+     "text": "The other player declined the trade"
+    },
+    {
+     "id": "FaceToFaceTradeCancelTips",
+     "text": "Trade canceled"
+    },
+    {
+     "id": "FaceToFaceTradeWaitBuyerInput",
+     "text": "Waiting for buyer"
+    },
+    {
+     "id": "FaceToFaceTradeBuyerInputPrice",
+     "text": "Enter your offer"
+    },
+    {
+     "id": "FaceToFaceTradeNoneGoods",
+     "text": "Only rare items can be traded face-to-face, and you have none in your bag"
+    },
+    {
+     "id": "FaceToFaceTradeTaxContent",
+     "text": "Tax rate {0}% (paid to the system)"
+    },
+    {
+     "id": "FaceToFaceTradeSuccessDetailTip",
+     "text": "Trade successful! You spent {0} Gold on {1}*1"
+    },
+    {
+     "id": "Level_Num",
+     "text": "Level:{0}"
+    },
+    {
+     "id": "Others",
+     "text": "Outsiders"
+    },
+    {
+     "id": "FaceToFaceTradeMiniNumPrice",
+     "text": "The price can't be below the minimum"
+    },
+    {
+     "id": "Transaction_MinPrice",
+     "text": "Minimum Price"
+    },
+    {
+     "id": "Transaction_BuyPrice",
+     "text": "Buyer Pays"
+    },
+    {
+     "id": "Transaction_ChooseSellItem",
+     "text": "Choose an item to sell"
+    },
+    {
+     "id": "FaceToFaceTradeSuccess",
+     "text": "Traded with {0}"
+    },
+    {
+     "id": "NativeMsgAddMember",
+     "text": "{0} joined the group chat"
+    },
+    {
+     "id": "NativeMsgDelMember",
+     "text": "{0} left the group chat"
+    },
+    {
+     "id": "NativeMsgChangeChatGroupName",
+     "text": "Group renamed to {0}"
+    },
+    {
+     "id": "BroadcastDefaultText",
+     "text": "Tap here to type a message!"
+    },
+    {
+     "id": "BroadcastWorldText",
+     "text": "Up to {0} characters, {1} left"
+    },
+    {
+     "id": "ViewAuditFunds",
+     "text": "View Escrowed Funds"
+    },
+    {
+     "id": "AuditGold",
+     "text": "Gold in Review"
+    },
+    {
+     "id": "AuditedGold",
+     "text": "Reviewed Gold"
+    },
+    {
+     "id": "GetBack",
+     "text": "Retrieve"
+    },
+    {
+     "id": "PackageGold",
+     "text": "Bag Gold"
+    },
+    {
+     "id": "ViewAuditDetails",
+     "text": "View Review Details"
+    },
+    {
+     "id": "Audit_Price",
+     "text": "Amount in Review"
+    },
+    {
+     "id": "AgainDate",
+     "text": "Start Date"
+    },
+    {
+     "id": "EndDate",
+     "text": "End Date"
+    },
+    {
+     "id": "Audit_PriceExplain",
+     "text": "Fund Review Info"
+    },
+    {
+     "id": "Audit_AutomaticSaving_FaceToFaceDeal",
+     "text": "Gold earned from face-to-face trades of valuable items goes into escrow for review automatically."
+    },
+    {
+     "id": "Audit_AutomaticSaving_PlayerShop",
+     "text": "Gold earned from Player Shop trades of valuable items goes into escrow for review automatically"
+    },
+    {
+     "id": "Audit_EndAudit_FaceToFaceDeal",
+     "text": "Gold in review for over {0} hours is released automatically and can be withdrawn to your bag manually."
+    },
+    {
+     "id": "Audit_EndAudit_PlayerShop",
+     "text": "Gold in review for over {0} hours is released automatically into your shop's operating funds"
+    },
+    {
+     "id": "Audit_Lock",
+     "text": "<color=red>Frozen</color>"
+    },
+    {
+     "id": "Audit_GetSuccess",
+     "text": "Withdrew {0} Gold"
+    },
+    {
+     "id": "PublicGoods",
+     "text": "Items on Display"
+    },
+    {
+     "id": "PlayerShopItemPriceTips",
+     "text": "Suggested price: {0}"
+    },
+    {
+     "id": "PlayerShop_Publicity_AllGoods",
+     "text": "All Displays"
+    },
+    {
+     "id": "PlayerShopItemOnSell",
+     "text": "On Sale:"
+    },
+    {
+     "id": "PlayerShopGetOutMoneySuccess",
+     "text": "Withdrawn"
+    },
+    {
+     "id": "PlayerShopPutInMoneySuccess",
+     "text": "Deposited"
+    },
+    {
+     "id": "PlayerShopCreateSuccess",
+     "text": "Your Player Shop is open"
+    },
+    {
+     "id": "PlayerShopItemCancelAttentionSuccessTip",
+     "text": "Unfollowed!"
+    },
+    {
+     "id": "PlayerShopItemAttentionSuccessTip",
+     "text": "Item followed!"
+    },
+    {
+     "id": "PlayerShopGetOutMoney",
+     "text": "Enter the amount to withdraw"
+    },
+    {
+     "id": "PlayerShopCreateShopMoneyLimit",
+     "text": "Not enough Gold Bars!"
+    },
+    {
+     "id": "PlayerShopCreateShopLength",
+     "text": "Shop names must be 2-5 Chinese characters"
+    },
+    {
+     "id": "PlayerShopCreateShopLevelLimit",
+     "text": "Level too low. Reach Lv{0} to open a shop"
+    },
+    {
+     "id": "PlayerShopAttentionIsMySelf",
+     "text": "You own this item; no need to follow it"
+    },
+    {
+     "id": "PlayerShopDiscussMySelf",
+     "text": "You own this item"
+    },
+    {
+     "id": "PlayerShopAttentionImageClick",
+     "text": "{0} followers"
+    },
+    {
+     "id": "PlayerShopPutInMoney",
+     "text": "Enter the amount to deposit"
+    },
+    {
+     "id": "PlayerShopMyAttention",
+     "text": "Following"
+    },
+    {
+     "id": "PlayerShopSearchType",
+     "text": "1~Weapons&2~Armor&3~Gloves&4~Neckwear"
+    },
+    {
+     "id": "PlayerShopSearchQuality",
+     "text": "2~Common&3~Set"
+    },
+    {
+     "id": "PlayerShopSearchSingleQuality",
+     "text": "1~Common"
+    },
+    {
+     "id": "PlayerShopSearchNameSellInfo",
+     "text": "{0} (Selling: {1})"
+    },
+    {
+     "id": "PlayerShopHistorySearchTips",
+     "text": "Tap here to search"
+    },
+    {
+     "id": "PlayerShopAttention",
+     "text": "Follow"
+    },
+    {
+     "id": "PlayerShopStoreMoney",
+     "text": "Shop Funds"
+    },
+    {
+     "id": "PlayerShopLeftCellNumOnSellPage",
+     "text": "(   slots left)"
+    },
+    {
+     "id": "PlayerShopBuyGoodsSuccess",
+     "text": "You bought {0} {1} for {2} Gold"
+    },
+    {
+     "id": "PlayerShopCantBuyOneselfItem",
+     "text": "You can't buy your own items"
+    },
+    {
+     "id": "PlayerShopCell",
+     "text": "Slots"
+    },
+    {
+     "id": "PlayerShopCheck",
+     "text": "Ledger"
+    },
+    {
+     "id": "PlayerShopUnlockCell",
+     "text": "Unlock Slot"
+    },
+    {
+     "id": "PlayerShopUnlockCellTips",
+     "text": "Spend {0} Gold to unlock a shop slot?"
+    },
+    {
+     "id": "PlayerShopGoodSelling",
+     "text": "Listed"
+    },
+    {
+     "id": "PlayerShopGoodInvalid",
+     "text": "Invalid"
+    },
+    {
+     "id": "PlayerShopGoodInChecking",
+     "text": "On Display"
+    },
+    {
+     "id": "PlayerShopSetUpTips_2",
+     "text": "Name up to 10 characters (5 Chinese characters)"
+    },
+    {
+     "id": "PlayerShopChangeNameSuccessTips",
+     "text": "Shop renamed!"
+    },
+    {
+     "id": "PlayerShopNameChangeTips",
+     "text": "Renaming the shop costs {0} Gold Bars"
+    },
+    {
+     "id": "Counteroffer",
+     "text": "Counteroffer"
+    },
+    {
+     "id": "SearchEquipNone",
+     "text": "No matching equipment in this level range!"
+    },
+    {
+     "id": "PlayerShopItemSellLowestPrice",
+     "text": "Minimum price {0}"
+    },
+    {
+     "id": "PlayerShopItemSellDownSuccess",
+     "text": "Item delisted"
+    },
+    {
+     "id": "PlayerShopItemSellSuccess",
+     "text": "Item listed"
+    },
+    {
+     "id": "PlayerShopNoItemPublicity",
+     "text": "No items on display"
+    },
+    {
+     "id": "PlayerShopNoItemAttention",
+     "text": "No followed items"
+    },
+    {
+     "id": "NoItemSell",
+     "text": "Nothing available to trade right now~"
+    },
+    {
+     "id": "GeneralEquipmentSearch",
+     "text": "Common Gear Search"
+    },
+    {
+     "id": "PlayerShopPreciousEquipSearch",
+     "text": "Rare Gear Search"
+    },
+    {
+     "id": "Superior",
+     "text": "Selected Recruit"
+    },
+    {
+     "id": "Genre",
+     "text": "Category"
+    },
+    {
+     "id": "Search",
+     "text": "Search"
+    },
+    {
+     "id": "HistorySearch",
+     "text": "Search History"
+    },
+    {
+     "id": "ShopInstructions",
+     "text": "Shop Rules"
+    },
+    {
+     "id": "FirmName",
+     "text": "Shop Name"
+    },
+    {
+     "id": "Line_Shop",
+     "text": "Open Shop"
+    },
+    {
+     "id": "ChooseLeftItem",
+     "text": "Choose an item on the left to list"
+    },
+    {
+     "id": "BuyNumber",
+     "text": "Quantity"
+    },
+    {
+     "id": "Revise",
+     "text": "Edit"
+    },
+    {
+     "id": "EnterNewName",
+     "text": "Enter a new shop name, up to 10 characters"
+    },
+    {
+     "id": "ClickThisInput",
+     "text": "Tap to enter, up to 10 characters (5 Chinese characters)"
+    },
+    {
+     "id": "AgainRecruit",
+     "text": "Recruit Again"
+    },
+    {
+     "id": "RecruitTen",
+     "text": "Recruit x10"
+    },
+    {
+     "id": "OtherPlayerSell",
+     "text": "Other players selling"
+    },
+    {
+     "id": "Grounding",
+     "text": "List"
+    },
+    {
+     "id": "UnitPrice",
+     "text": "Unit Price"
+    },
+    {
+     "id": "InputChangePrice",
+     "text": "Unsold items are delisted automatically after 72 hours"
+    },
+    {
+     "id": "Line_Shelves",
+     "text": "List"
+    },
+    {
+     "id": "Recruit",
+     "text": "Single Recruit"
+    },
+    {
+     "id": "RecruitSuccessTips",
+     "text": "Bought <color=#ffe703>{0} Gold Bars</color>. Bonus: a <color=#ffe703>Voyage Companion</color>"
+    },
+    {
+     "id": "AlreadyOwnedTips",
+     "text": "You already own this character; it was converted into <color=#ffe703>character shards</color>"
+    },
+    {
+     "id": "GoodsShelf",
+     "text": "Delist"
+    },
+    {
+     "id": "InSale",
+     "text": "On Sale"
+    },
+    {
+     "id": "ResetShelf",
+     "text": "Relist"
+    },
+    {
+     "id": "FreeShelf",
+     "text": "Free Delist"
+    },
+    {
+     "id": "StoreInformation",
+     "text": "Shop Info"
+    },
+    {
+     "id": "StroeName",
+     "text": "Shop Name"
+    },
+    {
+     "id": "Popularity",
+     "text": "Fame"
+    },
+    {
+     "id": "ShopKeeper",
+     "text": "Owner"
+    },
+    {
+     "id": "Shop_Date",
+     "text": "Opened On"
+    },
+    {
+     "id": "StorageQuantity",
+     "text": "Storage"
+    },
+    {
+     "id": "BasicOperatingCapital",
+     "text": "Base Operating Funds"
+    },
+    {
+     "id": "DailyMaintenanceCost",
+     "text": "Daily Upkeep"
+    },
+    {
+     "id": "AuditFunds",
+     "text": "Escrowed Funds"
+    },
+    {
+     "id": "WithholdingInstruction",
+     "text": "Tax Info"
+    },
+    {
+     "id": "Advanced",
+     "text": "Advanced"
+    },
+    {
+     "id": "MakeItem_6",
+     "text": "Make Medicine"
+    },
+    {
+     "id": "Cost_GoldBullionNum",
+     "text": "Gold Bar Cost: {0}"
+    },
+    {
+     "id": "Resource_Download",
+     "text": "Resource Download"
+    },
+    {
+     "id": "Resource_CurrentNetwork",
+     "text": "Current network:"
+    },
+    {
+     "id": "Resource_WifiNetwork",
+     "text": "Wi-Fi"
+    },
+    {
+     "id": "Resource_MobileNetwork",
+     "text": "Mobile data"
+    },
+    {
+     "id": "Resource_AutomaticDownload",
+     "text": "Download resources automatically on Wi-Fi."
+    },
+    {
+     "id": "Resource_FirstChargeReward",
+     "text": "Complete the first update download to get <color=#aa3000>300 Rainbow Diamonds</color>, sent via the Reward Center"
+    },
+    {
+     "id": "Line_Retry",
+     "text": "Retry"
+    },
+    {
+     "id": "Complete",
+     "text": "Done"
+    },
+    {
+     "id": "Resource_LoadOver",
+     "text": "Download complete. Enjoy your adventure!"
+    },
+    {
+     "id": "Resource_LoadError",
+     "text": "Resource download failed"
+    },
+    {
+     "id": "commonnotEnough",
+     "text": "Not enough currency"
+    },
+    {
+     "id": "inputNumisMax",
+     "text": "Input limit reached"
+    },
+    {
+     "id": "makeItemNameCategory_6",
+     "text": "Medicine Name"
     },
     {
      "id": "Copy_Just",
@@ -3295,20 +5523,1344 @@
      "text": "Golden Trial"
     },
     {
+     "id": "Copy_Interactive",
+     "text": "Interactive Item Dungeon"
+    },
+    {
+     "id": "TodayRemainingTime",
+     "text": "Attempts left today: <color=#ad4500>{0}</color>"
+    },
+    {
+     "id": "Difficulty",
+     "text": "Difficulty"
+    },
+    {
+     "id": "Food_LevelNum",
+     "text": "Lv<size=30>{0}</size> Dish"
+    },
+    {
+     "id": "Food_MakeNum",
+     "text": "Can Cook"
+    },
+    {
+     "id": "Food_ChooseMake",
+     "text": "Choose a dish to cook"
+    },
+    {
+     "id": "Food_Level",
+     "text": "Dish Level"
+    },
+    {
+     "id": "Food_MakeLevel",
+     "text": "Cooking Skill Level:"
+    },
+    {
+     "id": "Monday",
+     "text": "Monday"
+    },
+    {
+     "id": "Tuesday",
+     "text": "Tuesday"
+    },
+    {
+     "id": "Wednesday",
+     "text": "Wednesday"
+    },
+    {
+     "id": "Thursday",
+     "text": "Thursday"
+    },
+    {
+     "id": "Friday",
+     "text": "Friday"
+    },
+    {
+     "id": "Saturday",
+     "text": "Saturday"
+    },
+    {
+     "id": "Sunday",
+     "text": "Sunday"
+    },
+    {
+     "id": "ActivityCopy_BuyTimes_Limit",
+     "text": "Purchase limit reached"
+    },
+    {
+     "id": "ActivityCopy_BuyTimes_Title",
+     "text": "Buy Attempts"
+    },
+    {
+     "id": "ActivityCopy_BuyTimes_Tips",
+     "text": "Buying attempts costs {0} Blue Diamonds. Buy?"
+    },
+    {
+     "id": "Open_AllDay",
+     "text": "Open All Day"
+    },
+    {
+     "id": "Buy_Refresh_Times",
+     "text": "Refresh Notice"
+    },
+    {
+     "id": "Buy_Refresh_Tips",
+     "text": "This refresh costs {0}{1}"
+    },
+    {
+     "id": "ExecuteTask_HalfEarn",
+     "text": "You've exceeded today's dispatch limit; rewards are halved"
+    },
+    {
+     "id": "Title_List",
+     "text": "Title List"
+    },
+    {
+     "id": "Title_DateTime",
+     "text": "Valid Until:"
+    },
+    {
+     "id": "Title_Reach",
+     "text": "Requirement:"
+    },
+    {
+     "id": "Title_Content",
+     "text": "Title Info:"
+    },
+    {
+     "id": "Title_HaveNone",
+     "text": "Title not obtained"
+    },
+    {
+     "id": "Title_Show",
+     "text": "Show Title"
+    },
+    {
+     "id": "Title_Hide",
+     "text": "Hide Title"
+    },
+    {
+     "id": "SeeMoney",
+     "text": "View Funds"
+    },
+    {
+     "id": "medicine_level_title",
+     "text": "Lv{0} Medicine"
+    },
+    {
+     "id": "food_level_title",
+     "text": "Lv{0} Dish"
+    },
+    {
      "id": "SceneType1",
      "text": "Field"
+    },
+    {
+     "id": "SceneType2",
+     "text": "City"
+    },
+    {
+     "id": "SceneType3",
+     "text": "Main Dungeon"
+    },
+    {
+     "id": "SceneProp1",
+     "text": "Safe Zone"
+    },
+    {
+     "id": "SceneProp2",
+     "text": "Free Zone"
     },
     {
      "id": "SceneProp5",
      "text": "Field Area"
     },
     {
+     "id": "SceneProp3",
+     "text": "Combat Zone"
+    },
+    {
+     "id": "pleaseaddMaterial",
+     "text": "Please add materials"
+    },
+    {
+     "id": "pleaseLevelUpPlayer",
+     "text": "Character level is capped at player level. Please raise your player level"
+    },
+    {
+     "id": "MedicineShop",
+     "text": "Herb Shop"
+    },
+    {
+     "id": "medicineShopTool",
+     "text": "Pharmacy Tools"
+    },
+    {
+     "id": "FoodShop",
+     "text": "Ingredient Shop"
+    },
+    {
+     "id": "CointReplaceGold",
+     "text": "Not enough Gold Bars. Spend an equal amount of Gold to cover the difference?"
+    },
+    {
+     "id": "redeemCodeTooLong",
+     "text": "Redeem code too long"
+    },
+    {
+     "id": "areadyTeam",
+     "text": "You're already in a team"
+    },
+    {
+     "id": "lifeSkillLevelUpContent_MakeDrag",
+     "text": "Advancing your Pharmacy skill costs the following items."
+    },
+    {
+     "id": "lifeSkillLevelUpContent",
+     "text": "Advancing your Cooking skill costs the following items."
+    },
+    {
+     "id": "ChooseLine",
+     "text": "Choose Line"
+    },
+    {
+     "id": "GoOn",
+     "text": "Enter>"
+    },
+    {
+     "id": "AdvancedSkill_5",
+     "text": "Shipbuilding Advance"
+    },
+    {
+     "id": "AdvancedSkill_6",
+     "text": "Advance Pharmacy Skill"
+    },
+    {
+     "id": "AdvancedSkill_7",
+     "text": "Advance Cooking Skill"
+    },
+    {
+     "id": "AdvancedSkill_8",
+     "text": "Advance Gem Skill"
+    },
+    {
+     "id": "SyntheticGem",
+     "text": "Synthesize Gems"
+    },
+    {
+     "id": "HaveMakeNum",
+     "text": "Can make: {0}"
+    },
+    {
+     "id": "Gem_ChooseMake",
+     "text": "Choose a gem to make"
+    },
+    {
+     "id": "Gem_Level",
+     "text": "Smelting Level"
+    },
+    {
+     "id": "Gem_MakeLevel",
+     "text": "Smelting Skill Level:"
+    },
+    {
+     "id": "GemShop",
+     "text": "Gem Shop"
+    },
+    {
+     "id": "costEnergy",
+     "text": "Vigor Cost:"
+    },
+    {
+     "id": "levelUpSucess",
+     "text": "Advance successful"
+    },
+    {
+     "id": "InheritSucess",
+     "text": "Equipment inherited"
+    },
+    {
+     "id": "lifeSkillLevel",
+     "text": "Life Skill Level"
+    },
+    {
+     "id": "lifeSkillLevel_1",
+     "text": "Logging Level:"
+    },
+    {
+     "id": "lifeSkillLevel_2",
+     "text": "Gathering Level:"
+    },
+    {
+     "id": "lifeSkillLevel_3",
+     "text": "Fishing Level:"
+    },
+    {
+     "id": "lifeSkillLevel_4",
+     "text": "Mining Level:"
+    },
+    {
+     "id": "gemcolor_1",
+     "text": "Red"
+    },
+    {
+     "id": "gemcolor_6",
+     "text": "Black"
+    },
+    {
+     "id": "recycleCheck",
+     "text": "Select common equipment"
+    },
+    {
+     "id": "forLook",
+     "text": "Coming soon"
+    },
+    {
+     "id": "fullStar",
+     "text": "Max Stars"
+    },
+    {
+     "id": "AdvancedSkill_1",
+     "text": "Advance Logging Skill"
+    },
+    {
+     "id": "AdvancedSkill_2",
+     "text": "Advance Gathering Skill"
+    },
+    {
+     "id": "AdvancedSkill_3",
+     "text": "Advance Fishing Skill"
+    },
+    {
+     "id": "AdvancedSkill_4",
+     "text": "Advance Mining Skill"
+    },
+    {
+     "id": "sweepChapterLimit",
+     "text": "Unlocks after clearing main dungeon Chapter {0}"
+    },
+    {
+     "id": "MakeGem_AddGem",
+     "text": "Tap the plus to add gems"
+    },
+    {
+     "id": "MakeGem_PremiumGem",
+     "text": "3 identical gems can be combined into a higher-level gem"
+    },
+    {
+     "id": "titleLeftTimeForever",
+     "text": "Permanent"
+    },
+    {
+     "id": "New",
+     "text": "New"
+    },
+    {
+     "id": "server_Congestion",
+     "text": "Busy"
+    },
+    {
+     "id": "Inviting_Nearby",
+     "text": "Nearby"
+    },
+    {
+     "id": "Inviting_World",
+     "text": "World Shout"
+    },
+    {
+     "id": "Invitation_Team",
+     "text": "Invite Method"
+    },
+    {
+     "id": "FieldModePiceDes",
+     "text": "You can't attack other players in the Free Zone."
+    },
+    {
+     "id": "FieldModeFightDes",
+     "text": "You can attack all players in the Free Zone."
+    },
+    {
+     "id": "FieldFightContent",
+     "text": "The field has Safe Zones, Free Zones and Combat Zones. In Free Zones, players with War Mode on can attack others, and their names gradually turn red as they defeat players. Defeat enough and you'll be sent to prison. In Combat Zones, everyone can attack everyone without triggering the red-name system."
+    },
+    {
+     "id": "FieldModeChangeTitle",
+     "text": "Switch Combat Mode"
+    },
+    {
+     "id": "SeaTrader_Level",
+     "text": "Merchant Level:"
+    },
+    {
+     "id": "SeaTrader_Free",
+     "text": "Free:"
+    },
+    {
+     "id": "SeaTrader_Set",
+     "text": "Set Lineup"
+    },
+    {
+     "id": "Report_Player",
+     "text": "Report Target"
+    },
+    {
+     "id": "SublineText",
+     "text": "Line"
+    },
+    {
+     "id": "people",
+     "text": "people"
+    },
+    {
+     "id": "Gem_NotSource",
+     "text": "This gem can't be combined into others"
+    },
+    {
+     "id": "Gem_NotEnough",
+     "text": "You need at least 3 identical gems to combine"
+    },
+    {
+     "id": "Gem_SyntheticSuccess",
+     "text": "Gems combined!"
+    },
+    {
+     "id": "Gem_PleaseSelectGem",
+     "text": "Please choose a gem"
+    },
+    {
+     "id": "Gem_ZeroGem",
+     "text": "No gems to combine"
+    },
+    {
+     "id": "SkillResetTipTitle",
+     "text": "Reset Skills"
+    },
+    {
+     "id": "SeaArea_ChallengeTarget",
+     "text": "Challenge Target:"
+    },
+    {
+     "id": "SeaArea_Get",
+     "text": "Ready"
+    },
+    {
+     "id": "mainLineLimit",
+     "text": "Unlocks after clearing main dungeon Chapter 1"
+    },
+    {
+     "id": "makeItemNameCategory_7",
+     "text": "Dish Name"
+    },
+    {
+     "id": "ExploreResult",
+     "text": "Exploration Results"
+    },
+    {
+     "id": "ExploreResult_PlayerExp",
+     "text": "Player EXP"
+    },
+    {
+     "id": "notPice",
+     "text": "War"
+    },
+    {
+     "id": "hangup_kill",
+     "text": "<color=#FF8080>Battle</color>"
+    },
+    {
+     "id": "hangup_dig",
+     "text": "<color=#FFCF80>Mining</color>"
+    },
+    {
+     "id": "hangup_log",
+     "text": "<color=#80FFE5>Logging</color>"
+    },
+    {
+     "id": "hangup_medi",
+     "text": "<color=#B9FF80>Gathering</color>"
+    },
+    {
+     "id": "hangup_fish",
+     "text": "<color=#80DAFF>Fishing</color>"
+    },
+    {
+     "id": "AdventureTeamList",
+     "text": "Adventure Lineup"
+    },
+    {
+     "id": "Adventure_FirstTeam",
+     "text": "[First Lineup]"
+    },
+    {
+     "id": "Adventure_SecondTeam",
+     "text": "[Second Lineup]"
+    },
+    {
+     "id": "Login_TeamList",
+     "text": "Login Queue"
+    },
+    {
+     "id": "ServerName",
+     "text": "Server: <color=#AA3000>Server {0}-{1}</color>"
+    },
+    {
+     "id": "PlayerListNum",
+     "text": "Server full. {0} players in queue"
+    },
+    {
+     "id": "WaitTime",
+     "text": "Estimated wait: <color=#AA3000>{0}</color>"
+    },
+    {
+     "id": "ExitList",
+     "text": "Leave Queue"
+    },
+    {
+     "id": "fieldReLife",
+     "text": "Respawn in: <color=#BA5714FF>{0}</color>"
+    },
+    {
+     "id": "FieldRelifeText",
+     "text": "Respawn Notice"
+    },
+    {
+     "id": "FieldReLifeDesc",
+     "text": "You've been defeated. You'll respawn at a safe point in the field. Spend 100 Blue Diamonds to revive here with full HP?"
+    },
+    {
+     "id": "MysteriouSeaLevel_Sunshine",
+     "text": "Sunny Waters"
+    },
+    {
+     "id": "MysteriouSeaLevel_Storm",
+     "text": "Storm Sea"
+    },
+    {
+     "id": "MysteriouSeaLevel_Terrible",
+     "text": "Terror Waters"
+    },
+    {
+     "id": "MysteriouSeaLevel_Hell",
+     "text": "Hell Waters"
+    },
+    {
+     "id": "MSeaTeam_GetReady",
+     "text": "Ready"
+    },
+    {
+     "id": "MSeaTeam_CancelReady",
+     "text": "Cancel Ready"
+    },
+    {
+     "id": "MSeaTeam_NoFriends",
+     "text": "Your friends aren't online, so you can't invite them to the Mysterious Waters."
+    },
+    {
+     "id": "MSeaTeam_CaptainCannotLevel",
+     "text": "Cancel matching before leaving!"
+    },
+    {
+     "id": "MSeaTeam_GetInvitationFromFriends",
+     "text": "Your friend {0} invited you to the \"Mysterious Waters\". Accept?"
+    },
+    {
+     "id": "MSeaTeam_LevelNotEnough",
+     "text": "Your level is too low for this Mysterious Waters difficulty!"
+    },
+    {
+     "id": "MSeaTeam_FriendLevelNotEnough",
+     "text": "This friend's level is too low for the difficulty you chose. Can't invite."
+    },
+    {
+     "id": "MSeaTeam_AskGetReady",
+     "text": "Enter the Mysterious Waters?"
+    },
+    {
+     "id": "MSeaTeam_WaitingForOthersReady",
+     "text": "Please wait for your teammates to get ready!"
+    },
+    {
+     "id": "MSeaTeam_CannotEnterWhenMatching",
+     "text": "Matching. Can't start the challenge"
+    },
+    {
+     "id": "MysteriousSea_CounterBoss",
+     "text": "Boss encountered!"
+    },
+    {
+     "id": "MysteriousSea_NoEffect",
+     "text": "No effect!"
+    },
+    {
+     "id": "MysteriousSea_CounterMonster",
+     "text": "Enemy encountered!"
+    },
+    {
+     "id": "MysteriousSea_GetTreatureClip",
+     "text": "Treasure Fragment obtained!"
+    },
+    {
+     "id": "MysteriousSea_OpenTreasure",
+     "text": "Treasure opened!"
+    },
+    {
+     "id": "Found_House",
+     "text": "Create Room"
+    },
+    {
+     "id": "Solo_Challenge",
+     "text": "Solo Challenge"
+    },
+    {
+     "id": "Quick_Match",
+     "text": "Quick Match"
+    },
+    {
+     "id": "FieldTeamReLifeDesc",
+     "text": "Your team has been wiped out and will revive at a safe point in the field.\\nYou can revive on the spot with one of the options below"
+    },
+    {
+     "id": "FieldTeamCaptainReLifeDesc",
+     "text": "Your team has been wiped out. The leader chose to revive on the spot, costing {0}."
+    },
+    {
+     "id": "ceacleDialyTask",
+     "text": "Cancel this quest?"
+    },
+    {
+     "id": "cancelDialyTitle",
+     "text": "Confirm Cancel"
+    },
+    {
+     "id": "SharedToWorld",
+     "text": "Share to World"
+    },
+    {
+     "id": "SharedToUnion",
+     "text": "Share to Guild"
+    },
+    {
+     "id": "FightReplay",
+     "text": "Replay"
+    },
+    {
+     "id": "Activity_DailyTask_TeamFinish",
+     "text": "<color=#831212FF>{0} (team play recommended)</color>"
+    },
+    {
+     "id": "SureMatch",
+     "text": "Confirm Match"
+    },
+    {
+     "id": "MatchingNotChangeForamtion",
+     "text": "Matchmaking in progress. You can't change your lineup!"
+    },
+    {
+     "id": "Activity_LoginAward",
+     "text": "Log in on Day <color=#ba5714>2</color> to claim <color=#ba5714>SR Smoker</color>"
+    },
+    {
+     "id": "Activity_SerialLoginAward",
+     "text": "Log in for <color=#ba5714>{0}</color> days in total to get generous rewards"
+    },
+    {
+     "id": "Activity_TimeAward",
+     "text": "Stay online for a set time to get <color=#ba5714>generous rewards</color>"
+    },
+    {
      "id": "Remain_Days",
      "text": "/30 days"
     },
     {
+     "id": "Remain_BuyAgain",
+     "text": "The cumulative top-up Monthly Card event will reopen after your Monthly Card expires"
+    },
+    {
+     "id": "Receive_Today",
+     "text": "Claimed today"
+    },
+    {
+     "id": "Get_Diamonds",
+     "text": "Claim Rainbow Diamonds"
+    },
+    {
+     "id": "TeamEquip",
+     "text": "Team Items"
+    },
+    {
+     "id": "AddEquip_Explore",
+     "text": "Add items to use them for exploring"
+    },
+    {
+     "id": "Find_Treasure",
+     "text": "Follow the <color=#b4131e>arrows</color> to find the treasure"
+    },
+    {
+     "id": "Map_Treasure",
+     "text": "Treasure Map: <color=#b4131e>{0}/6</color>"
+    },
+    {
+     "id": "AddEquip",
+     "text": "Add Item"
+    },
+    {
+     "id": "Line_Explore",
+     "text": "Explore"
+    },
+    {
+     "id": "Server_Busy_Tips",
+     "text": "This server is very busy. Please log in to another server"
+    },
+    {
+     "id": "Request_Frequently_Tips",
+     "text": "Too many requests. Please try again later!"
+    },
+    {
+     "id": "TeamSpeakSetting",
+     "text": "Team Voice Settings"
+    },
+    {
+     "id": "TeamSpeak_NotHear",
+     "text": "Mute Mode - <color=#241204FF>Don't hear team open chat</color>"
+    },
+    {
+     "id": "TeamSpeak_NotSpeak",
+     "text": "Mic Off Mode - <color=#241204FF>Hear team open chat only; you can't speak freely</color>"
+    },
+    {
+     "id": "TeamSpeak_Speak",
+     "text": "Mic On Mode - <color=#241204FF>Hear team open chat and speak freely yourself</color>"
+    },
+    {
+     "id": "Task_Accept",
+     "text": "Accepted"
+    },
+    {
+     "id": "Task_Acceptable",
+     "text": "Available"
+    },
+    {
+     "id": "Reward_Accept",
+     "text": "Accepted Bounties"
+    },
+    {
+     "id": "Refresh_Times",
+     "text": "Refreshes:"
+    },
+    {
+     "id": "Free_Times",
+     "text": "Free ({0}/2)"
+    },
+    {
+     "id": "Reward_NoPlayerAccept",
+     "text": "No player bounties available right now. Try refreshing"
+    },
+    {
+     "id": "Reward_Reward",
+     "text": "Bounty Reward"
+    },
+    {
+     "id": "Reward_PlayerPlace",
+     "text": "Seen at:"
+    },
+    {
+     "id": "CanMasterChangeGroupChatName",
+     "text": "Only the group owner can change the group name"
+    },
+    {
+     "id": "CanMasterChangeGroupChatNotice",
+     "text": "Only the group owner can change the group notice"
+    },
+    {
+     "id": "IntegralReward",
+     "text": "Points: {0}-{1}"
+    },
+    {
+     "id": "Choose_Refine_4_1",
+     "text": "Choose the equipment to inherit"
+    },
+    {
+     "id": "SeasonRankTitle",
+     "text": "Season Rank Rewards"
+    },
+    {
+     "id": "SeasonEndTime",
+     "text": "Season Ends In"
+    },
+    {
+     "id": "IntegralTitle",
+     "text": "Weekly Point Rewards"
+    },
+    {
+     "id": "SignUpTime",
+     "text": "Reward Time"
+    },
+    {
+     "id": "Currency_Desc_Type_6",
+     "text": "Stamina description"
+    },
+    {
+     "id": "Currency_Desc_Type_7",
+     "text": "Team and character EXP needed to level up."
+    },
+    {
+     "id": "Currency_Desc_Type_1101",
+     "text": "Character EXP. Characters earn EXP when deployed."
+    },
+    {
+     "id": "Currency_Desc_Type_1011",
+     "text": "Arena currency, used to buy items in the Prestige Shop.\\n\\n\\nMain source: <color=#ff5809>Arena Rank Rewards</color>"
+    },
+    {
+     "id": "Currency_Desc_Type_1013",
+     "text": "Ladder currency, used to buy items in the Arena Shop.\\n\\n\\nMain source: <color=#ff5809>Ladder Arena Point Rewards</color>"
+    },
+    {
+     "id": "res_num_less",
+     "text": "Not enough {0}"
+    },
+    {
+     "id": "Self",
+     "text": "[Self]"
+    },
+    {
+     "id": "Stranger",
+     "text": "[Stranger]"
+    },
+    {
+     "id": "ChatGroupMemberReachMax",
+     "text": "This group is full"
+    },
+    {
+     "id": "openLevel",
+     "text": "Unlocks at Player Lv{0}"
+    },
+    {
+     "id": "MedicinePlayerUse",
+     "text": "Choose a character to use the medicine on"
+    },
+    {
+     "id": "StarLevel_Player",
+     "text": "Stars: {0}"
+    },
+    {
+     "id": "Using",
+     "text": "Using:"
+    },
+    {
+     "id": "Having",
+     "text": "Owned:"
+    },
+    {
+     "id": "IsYourFriendAlready",
+     "text": "This player is already your friend"
+    },
+    {
+     "id": "FriendNumberIsFull",
+     "text": "Friend list is full. You can't add more"
+    },
+    {
+     "id": "KuafuFriendNumberIsFull",
+     "text": "Cross-server friend list is full. You can't add more"
+    },
+    {
+     "id": "AddFriendSuccess",
+     "text": "Friend added"
+    },
+    {
+     "id": "Revive_Choose",
+     "text": "You have fallen and will revive at a safe point. You can revive on the spot with one of the options below"
+    },
+    {
+     "id": "Revive_OriginalLocation",
+     "text": "(Revive on the spot with <color=#AA3000>{0}% HP</color>)"
+    },
+    {
+     "id": "Revive_Time",
+     "text": "Revive in: <color=#AA3000><size=24>{0}s</size></color>"
+    },
+    {
+     "id": "FightRecordisEmpty",
+     "text": "No battle records yet"
+    },
+    {
+     "id": "randomWord",
+     "text": "Appraise to get random stats"
+    },
+    {
+     "id": "MainRaid_WinCondition_1",
+     "text": "Defeat all enemies in the stage"
+    },
+    {
+     "id": "MainRaid_WinCondition_2",
+     "text": "Defeat the stage Boss"
+    },
+    {
+     "id": "MainRaid_WinCondition_3",
+     "text": "Reduce the Boss's HP below {0}%"
+    },
+    {
+     "id": "MainRaid_WinCondition_4",
+     "text": "Gather all resources in the stage"
+    },
+    {
+     "id": "MainRaid_WinCondition_5",
+     "text": "Open all chests in the stage"
+    },
+    {
+     "id": "MainRaid_WinCondition_6",
+     "text": "Escort an NPC to a set location"
+    },
+    {
+     "id": "MainRaid_WinCondition_7",
+     "text": "Survive 120 seconds in the stage without being defeated"
+    },
+    {
+     "id": "MainRaid_WinCondition_8",
+     "text": "Reach the target location"
+    },
+    {
+     "id": "reward_skillpoint_num",
+     "text": "Spend {0}x{1} to get {2} Skill Points"
+    },
+    {
+     "id": "interactionLvOpenStr",
+     "text": "Character Stories Chapter {0}"
+    },
+    {
+     "id": "Quick",
+     "text": "Agility"
+    },
+    {
      "id": "Lock_Formation",
      "text": "Unlock Formations"
+    },
+    {
+     "id": "Formation_Battled",
+     "text": "This formation is already deployed"
+    },
+    {
+     "id": "AutoFollow",
+     "text": "Auto-accept follow requests from now on"
+    },
+    {
+     "id": "Chapter0",
+     "text": "Prologue"
+    },
+    {
+     "id": "Chapter0Tittle",
+     "text": "\"Iron Mace\" Alvida"
+    },
+    {
+     "id": "Chapter1Tittle",
+     "text": "\"Pirate Hunter\" Zoro Appears"
+    },
+    {
+     "id": "Chapter2Tittle",
+     "text": "\"Nami Appears\" vs. the Buggy Pirates"
+    },
+    {
+     "id": "Chapter3",
+     "text": "Chapter 3"
+    },
+    {
+     "id": "Chapter3Tittle",
+     "text": "\"Usopp Appears\" Kuro's Scheme"
+    },
+    {
+     "id": "Chapter4",
+     "text": "Chapter 4"
+    },
+    {
+     "id": "Chapter4Tittle",
+     "text": "\"Sanji Appears\" Defend the Sea Restaurant"
+    },
+    {
+     "id": "Chapter5",
+     "text": "Chapter 5"
+    },
+    {
+     "id": "Chapter5Tittle",
+     "text": "\"We're Friends\" Destroy Arlong Park"
+    },
+    {
+     "id": "Chapter6",
+     "text": "Chapter 6"
+    },
+    {
+     "id": "Chapter6Tittle",
+     "text": "\"Loguetown\" Where the Legend Began"
+    },
+    {
+     "id": "Chapter7",
+     "text": "Chapter 7"
+    },
+    {
+     "id": "Chapter7Tittle",
+     "text": "\"Path of Dreams\" I'll Be King of the Pirates"
+    },
+    {
+     "id": "Chapter8",
+     "text": "Chapter 8"
+    },
+    {
+     "id": "Chapter8Tittle",
+     "text": "\"Set Sail\" To the Grand Line"
+    },
+    {
+     "id": "Chapter9",
+     "text": "Chapter 9"
+    },
+    {
+     "id": "Chapter9Tittle",
+     "text": "\"The Greatest Sea\" Here at Last"
+    },
+    {
+     "id": "Chapter10",
+     "text": "Chapter 10"
+    },
+    {
+     "id": "Chapter10Tittle",
+     "text": "\"Laboon the Whale\" The Promised Cape"
+    },
+    {
+     "id": "Chapter11",
+     "text": "Chapter 11"
+    },
+    {
+     "id": "Chapter11Tittle",
+     "text": "\"Whiskey Peak\" Moonlight and Tombstones"
+    },
+    {
+     "id": "Chapter12",
+     "text": "Chapter 12"
+    },
+    {
+     "id": "Chapter12Tittle",
+     "text": "\"A Warrior's Pride\" Little Garden"
+    },
+    {
+     "id": "Chapter13",
+     "text": "Chapter 13"
+    },
+    {
+     "id": "Chapter13Tittle",
+     "text": "\"Chopper Appears\" The Pride of the Jolly Roger"
+    },
+    {
+     "id": "Chapter14",
+     "text": "Chapter 14"
+    },
+    {
+     "id": "Chapter14Tittle",
+     "text": "\"An Inherited Will\" Land of Snow and Cherry Blossoms"
+    },
+    {
+     "id": "Chapter15",
+     "text": "Chapter 15"
+    },
+    {
+     "id": "Chapter15Tittle",
+     "text": "\"Desert Kingdom\" Landing at Alubarna"
+    },
+    {
+     "id": "Chapter16",
+     "text": "Chapter 16"
+    },
+    {
+     "id": "Chapter16Tittle",
+     "text": "\"A Warlord Appears\" Rainbase, City of Dreams"
+    },
+    {
+     "id": "Chapter17",
+     "text": "Chapter 17"
+    },
+    {
+     "id": "Chapter17Tittle",
+     "text": "\"Fierce Duels\" Baroque Works"
+    },
+    {
+     "id": "Chapter18",
+     "text": "Chapter 18"
+    },
+    {
+     "id": "Chapter18Tittle",
+     "text": "\"Friends Forever\" Showdown at Alubarna"
+    },
+    {
+     "id": "Chapter19",
+     "text": "Chapter 19"
+    },
+    {
+     "id": "Chapter19Tittle",
+     "text": "\"People's Dreams\" Bellamy the Hyena"
+    },
+    {
+     "id": "Chapter20",
+     "text": "Chapter 20"
+    },
+    {
+     "id": "Chapter20Tittle",
+     "text": "\"Heso!\" Sky Islands Really Exist"
+    },
+    {
+     "id": "Chapter21",
+     "text": "Chapter 21"
+    },
+    {
+     "id": "Chapter21Tittle",
+     "text": "\"Trials of God\" Skypiea's Priests"
+    },
+    {
+     "id": "Chapter22",
+     "text": "Chapter 22"
+    },
+    {
+     "id": "Chapter22Tittle",
+     "text": "\"Enel Appears\" Adventure on God's Island"
+    },
+    {
+     "id": "Chapter23",
+     "text": "Chapter 23"
+    },
+    {
+     "id": "Chapter23Tittle",
+     "text": "\"Bell of the City of Gold\" We Are Here"
+    },
+    {
+     "id": "Chapter24",
+     "text": "Chapter 24"
+    },
+    {
+     "id": "Chapter24Tittle",
+     "text": "\"Foxy the Silver Fox\" A Game Among Friends"
+    },
+    {
+     "id": "Chapter25",
+     "text": "Chapter 25"
+    },
+    {
+     "id": "Chapter25Tittle",
+     "text": "\"Great Crisis\" Admiral Aokiji Appears"
+    },
+    {
+     "id": "Chapter26",
+     "text": "Chapter 26"
+    },
+    {
+     "id": "Chapter26Tittle",
+     "text": "\"Franky Appears\" Beautiful Water Seven"
+    },
+    {
+     "id": "Chapter27",
+     "text": "Chapter 27"
+    },
+    {
+     "id": "Chapter27Tittle",
+     "text": "\"Woman of Darkness\" To Enies Lobby"
+    },
+    {
+     "id": "Chapter28",
+     "text": "Chapter 28"
+    },
+    {
+     "id": "Chapter28Tittle",
+     "text": "\"Say You Want to Live\" Save Robin"
+    },
+    {
+     "id": "Chapter29",
+     "text": "Chapter 29"
+    },
+    {
+     "id": "Chapter29Tittle",
+     "text": "\"Battle of Enies Lobby\" Save Robin"
+    },
+    {
+     "id": "Chapter30",
+     "text": "Chapter 30"
+    },
+    {
+     "id": "Chapter30Tittle",
+     "text": "\"Garp Appears\" Luffy's Grandpa"
+    },
+    {
+     "id": "Chapter31",
+     "text": "Chapter 31"
+    },
+    {
+     "id": "Chapter31Tittle",
+     "text": "\"Thousand Sunny\" Setting Sail Again"
+    },
+    {
+     "id": "Chapter32",
+     "text": "Chapter 32"
+    },
+    {
+     "id": "Chapter32Tittle",
+     "text": "\"Ghost Ship\" Brook Appears"
+    },
+    {
+     "id": "Chapter33",
+     "text": "Chapter 33"
+    },
+    {
+     "id": "Chapter33Tittle",
+     "text": "\"Thriller Bark\" The Great Adventure"
+    },
+    {
+     "id": "Chapter34",
+     "text": "Chapter 34"
+    },
+    {
+     "id": "Chapter34Tittle",
+     "text": "\"Stolen Shadows\" Gecko Moria Appears"
+    },
+    {
+     "id": "Chapter35",
+     "text": "Chapter 35"
+    },
+    {
+     "id": "Chapter35Tittle",
+     "text": "\"Luffy's Look\" Oars the Giant"
+    },
+    {
+     "id": "Chapter36",
+     "text": "Chapter 36"
+    },
+    {
+     "id": "Chapter36Tittle",
+     "text": "\"Kuma Appears\" Another Warlord"
+    },
+    {
+     "id": "Chapter51",
+     "text": "Chapter 51"
+    },
+    {
+     "id": "Chapter51Tittle",
+     "text": "\"Dream World\" Fish-Man Island Under the Sea"
+    },
+    {
+     "id": "Chapter60",
+     "text": "Chapter 60"
+    },
+    {
+     "id": "Chapter60Tittle",
+     "text": "\"Adventure on an Elephant's Back\" Zou"
+    },
+    {
+     "id": "Chapter61",
+     "text": "Chapter 61"
+    },
+    {
+     "id": "Chapter61Tittle",
+     "text": "\"Secret Infiltration\" Reaching Whole Cake Island - End"
+    },
+    {
+     "id": "Chapter67",
+     "text": "Chapter 67"
+    },
+    {
+     "id": "Chapter67Tittle",
+     "text": "\"Land of Samurai\" Landing in Wano Country"
+    },
+    {
+     "id": "pangbai01",
+     "text": "Binks' Sake...♪ To bring it to you......♪"
+    },
+    {
+     "id": "pangbai02",
+     "text": "Day after day......in a dreamy twilight......♪"
+    },
+    {
+     "id": "pangbai03",
+     "text": "Never again......to see that waving farewell......♪"
+    },
+    {
+     "id": "pangbai04",
+     "text": "......Let's sing a song! A song of the sea......♪"
+    },
+    {
+     "id": "pangbai05",
+     "text": "No matter who......♪ All end as bones......♪"
+    },
+    {
+     "id": "pangbai06",
+     "text": "......A never-ending......tall tale......"
+    },
+    {
+     "id": "Main_CH29turn_001",
+     "text": "Franky barely defeated Fukuro"
+    },
+    {
+     "id": "Main_CH29turn_002",
+     "text": "Meanwhile, Sanji also found traces of the enemy"
+    },
+    {
+     "id": "Main_CH29turn_003",
+     "text": "Sanji struggled because his opponent was a woman"
+    },
+    {
+     "id": "Main_CH29turn_004",
+     "text": "Meanwhile, Nami also ran into danger in the corridor"
+    },
+    {
+     "id": "Main_CH29turn_005",
+     "text": "Chopper was set on defeating the enemy, even at the cost of his life"
+    },
+    {
+     "id": "Main_CH29turn_006",
+     "text": "The battle between Nami and Kalifa was about to break out"
+    },
+    {
+     "id": "Main_CH32turn_001",
+     "text": "A little while ago......"
+    },
+    {
+     "id": "Main_CH32turn_002",
+     "text": "20 minutes until dawn......"
+    },
+    {
+     "id": "Main_CH32turn_003",
+     "text": "10 minutes until dawn......"
+    },
+    {
+     "id": "Main_CH43turn_001",
+     "text": "Meanwhile, deep inside Impel Down......"
+    },
+    {
+     "id": "Main_CH45turn_001",
+     "text": "A little while ago"
+    },
+    {
+     "id": "Main_CH45turn_002",
+     "text": "Led by Jinbe, the others had also reached the dock......"
+    },
+    {
+     "id": "Main_CH47turn_001",
+     "text": "As Luffy and his crew headed for Marineford..."
+    },
+    {
+     "id": "Main_CH47turn_002",
+     "text": "Marineford fell into the calm before the storm..."
+    },
+    {
+     "id": "Main_CH47turn_003",
+     "text": "Fire Fist Ace!! Has been released!!!"
+    },
+    {
+     "id": "Main_CH51turn_001",
+     "text": "The Straw Hats embraced new resolve and headed for the New World"
+    },
+    {
+     "id": "Main_CH51turn_002",
+     "text": "Off to the dreamlike Fish-Man Island, 10,000 meters under the sea!"
+    },
+    {
+     "id": "Main_CH51turn_003",
+     "text": "They had just dived when something unexpected happened......"
+    },
+    {
+     "id": "Main_CH51turn_004",
+     "text": "Ryugu Palace was completely taken over by Hody and the New Fish-Man Pirates"
     },
     {
      "id": "item_xingyunbi",
@@ -3489,7 +7041,7 @@
      "text": "Limited Recruit"
     }
    ],
-   "partial": "81/5841 rows translated so far"
+   "partial": "969/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
