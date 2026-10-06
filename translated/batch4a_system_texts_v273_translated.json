@@ -1,0 +1,4898 @@
+{
+ "header": {
+  "description": "English translation of source/batch4a_system_texts_v273_source.json",
+  "source": "source/batch4a_system_texts_v273_source.json"
+ },
+ "tables": {
+  "TableCommonText": {
+   "key_column": "id",
+   "text_columns": [
+    "text"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "lifeSystem",
+     "text": "Life System"
+    },
+    {
+     "id": "task",
+     "text": "Quests"
+    },
+    {
+     "id": "shell",
+     "text": "Sell"
+    },
+    {
+     "id": "clearUp",
+     "text": "Sort"
+    },
+    {
+     "id": "Warehouse",
+     "text": "Warehouse"
+    },
+    {
+     "id": "cancle",
+     "text": "Cancel"
+    },
+    {
+     "id": "warehouse11",
+     "text": "Warehouse 1"
+    },
+    {
+     "id": "warehouse12",
+     "text": "Warehouse 2"
+    },
+    {
+     "id": "warehouse13",
+     "text": "Warehouse 3"
+    },
+    {
+     "id": "warehouse14",
+     "text": "Warehouse 4"
+    },
+    {
+     "id": "warehouse15",
+     "text": "Warehouse 5"
+    },
+    {
+     "id": "warehouse16",
+     "text": "Warehouse 6"
+    },
+    {
+     "id": "bagCellBuyTitle",
+     "text": "Expand Bag"
+    },
+    {
+     "id": "bagCellBuyContent",
+     "text": "Buying bag slots costs {0}{1}. Buy?"
+    },
+    {
+     "id": "WarehouseNotOpen",
+     "text": "Warehouse not unlocked"
+    },
+    {
+     "id": "warehouseCellOpen",
+     "text": "Reach VIP{0} to unlock this row of slots"
+    },
+    {
+     "id": "itemBaseCoinType1",
+     "text": "Paid Diamonds"
+    },
+    {
+     "id": "itemBaseCoinType2",
+     "text": "Free Diamonds"
+    },
+    {
+     "id": "itemBaseCoinType3",
+     "text": "Gold"
+    },
+    {
+     "id": "itemBaseCoinType4",
+     "text": "Silver Coins"
+    },
+    {
+     "id": "itemBaseCoinType5",
+     "text": "Copper Coins"
+    },
+    {
+     "id": "someNotEnought",
+     "text": "Not Enough {0}"
+    },
+    {
+     "id": "recycle",
+     "text": "Recycle"
+    },
+    {
+     "id": "recycleStand",
+     "text": "Recycle Bin"
+    },
+    {
+     "id": "recycleDesc1",
+     "text": "Items in the Recycle Bin are cleared when you log out"
+    },
+    {
+     "id": "recycleDesc2",
+     "text": "Tap to select items to recycle; long-press to view details"
+    },
+    {
+     "id": "Can_ont_Sell",
+     "text": "{0} can't be recycled"
+    },
+    {
+     "id": "highRecycleCaution",
+     "text": "{0} is a high-tier item. Recycle it?"
+    },
+    {
+     "id": "recycleTitle",
+     "text": "Recycle Notice"
+    },
+    {
+     "id": "recycleCoinGet",
+     "text": "Obtained {0}"
+    },
+    {
+     "id": "storageBuyTitle",
+     "text": "Buy Warehouse"
+    },
+    {
+     "id": "storageBuyContent",
+     "text": "Buying Warehouse {0} costs {1}!"
+    },
+    {
+     "id": "bagCellBuy0",
+     "text": "Spend {0} to unlock one slot"
+    },
+    {
+     "id": "bagCellBuy1",
+     "text": "Spend {0} to unlock a row of locked slots"
+    },
+    {
+     "id": "bagCellBuy2",
+     "text": "Spend {0} to unlock all locked slots"
+    },
+    {
+     "id": "recycleGetOutTitle",
+     "text": "Take Out"
+    },
+    {
+     "id": "recycleGetOutContent",
+     "text": "Taking out {0} costs {1}"
+    },
+    {
+     "id": "itemCantMoveWarehourse",
+     "text": "{0} can't be moved to the warehouse"
+    },
+    {
+     "id": "StrorageOpen",
+     "text": "Warehouse {0} unlocked"
+    },
+    {
+     "id": "storageSortCDTips",
+     "text": "Sorting the bag too often. Please try again later"
+    },
+    {
+     "id": "itemMoveToRecycle",
+     "text": "{0} moved to the Recycle Bin"
+    },
+    {
+     "id": "recycleGet",
+     "text": "Recycled for {0}"
+    }
+   ]
+  },
+  "TableFightGuide": {
+   "key_column": "id",
+   "text_columns": [
+    "guideText"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "101",
+     "guideText": "Next, an introduction to Gear 5 Luffy's mechanics"
+    },
+    {
+     "id": "102",
+     "guideText": "Gear 5 Luffy starts in his normal state"
+    },
+    {
+     "id": "103",
+     "guideText": "Using skills stacks the \"Free Will\" effect"
+    },
+    {
+     "id": "104",
+     "guideText": "Use the skill again"
+    },
+    {
+     "id": "105",
+     "guideText": "When Gear 5 Luffy's allies use a Finisher or Ultimate skill, it also stacks Free Will on Gear 5 Luffy"
+    },
+    {
+     "id": "106",
+     "guideText": "Keep using allies' Finishers to build up \"Free Will\" stacks"
+    },
+    {
+     "id": "107",
+     "guideText": "Once \"Free Will\" reaches 10 stacks, after an ally uses a Finisher you can immediately use Gear 5 Luffy's Finisher and transform into Thunder Form"
+    },
+    {
+     "id": "108",
+     "guideText": "In Thunder Form, all allies leave the field and instead give Luffy extra actions and stronger damage"
+    },
+    {
+     "id": "201",
+     "guideText": "This stage guides you through the ultimate power skill [Bajrang Gun]"
+    },
+    {
+     "id": "202",
+     "guideText": "To use the Bajrang Gun, first transform into [Thunder Form]. 10 stacks of [Free Will] have been added for you; use the Finisher to transform"
+    },
+    {
+     "id": "203",
+     "guideText": "After transforming, different skill orders produce different effects. Use the skills in the following order"
+    },
+    {
+     "id": "204",
+     "guideText": "First use the skill [Gum-Gum Thunder Spread]"
+    },
+    {
+     "id": "205",
+     "guideText": "Then use the skill [Gum-Gum White Rocket]"
+    },
+    {
+     "id": "206",
+     "guideText": "Finally use the Ultimate [Gum-Gum Thunder Combo] to enter [Bajrang Gun Ready]"
+    },
+    {
+     "id": "207",
+     "guideText": "In Bajrang Gun Ready, allies return to the field and can act to build Luffy's [Strike of Freedom] stacks. At 22 stacks, use [Bajrang Gun] to finish the enemy"
+    },
+    {
+     "id": "208",
+     "guideText": "To let you try it out, this battle grants 22 stacks of [Strike of Freedom] right away. Use [Bajrang Gun] and end it all!"
+    }
+   ],
+   "other_bundle_rows": []
+  },
+  "TableHandBook": {
+   "key_column": "id",
+   "text_columns": [
+    "description",
+    "title",
+    "text"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "description": "View the leaderboard {0} times",
+     "title": "Rankings",
+     "text": "Hone your strength and climb the leaderboard"
+    },
+    {
+     "id": "2",
+     "description": "Fight field enemies {0} times",
+     "title": "Field Monsters",
+     "text": "You can challenge field monsters 50 times per day"
+    },
+    {
+     "id": "3",
+     "description": "Use {0} EXP Scrolls",
+     "title": "Level Up",
+     "text": "Level up your crew"
+    },
+    {
+     "id": "4",
+     "description": "Use {0} Secret Books",
+     "title": "Skills",
+     "text": "Raise your crew's skill levels"
+    },
+    {
+     "id": "5",
+     "description": "Transcend-star any character {0} times",
+     "title": "Transcend",
+     "text": "Raise your crew's stars"
+    },
+    {
+     "id": "6",
+     "description": "Break through any character {0} times",
+     "title": "Breakthrough",
+     "text": "Raise your crew's Breakthrough Level"
+    },
+    {
+     "id": "7",
+     "description": "Raise character Affinity Level {0} times",
+     "title": "Affinity",
+     "text": "Raise your crew's Affinity Level"
+    },
+    {
+     "id": "8",
+     "description": "Synthesize Gems {0} times",
+     "title": "Synthesis",
+     "text": "Combine low-level Gems into higher-level ones"
+    },
+    {
+     "id": "9",
+     "description": "Open the Achievements screen {0} times",
+     "title": "Achievements",
+     "text": "Unlock achievements as you grow"
+    },
+    {
+     "id": "10",
+     "description": "Equip any {0} titles",
+     "title": "Titles",
+     "text": "Equip titles to show your style"
+    },
+    {
+     "id": "11",
+     "description": "Socket Gems into equipment {0} times",
+     "title": "Socketing",
+     "text": "Socket the right Gems into your equipment"
+    },
+    {
+     "id": "12",
+     "description": "Win Event Dungeons {0} times",
+     "title": "Event Dungeons",
+     "text": "The main source of Training Books, Secret Books and more"
+    },
+    {
+     "id": "13",
+     "description": "Win Character Stories {0} times",
+     "title": "Character Stories",
+     "text": "Clear the stories and win great rewards"
+    },
+    {
+     "id": "14",
+     "description": "Recruit {0} times",
+     "title": "Recruit",
+     "text": "Recruit crew and set sail"
+    },
+    {
+     "id": "15",
+     "description": "Train {0} times",
+     "title": "Training",
+     "text": "Train your crew to grow stronger"
+    },
+    {
+     "id": "16",
+     "description": "Reach {0} Gallery achievement points for characters",
+     "title": "Gallery",
+     "text": "Light up the Gallery to raise global buffs"
+    },
+    {
+     "id": "17",
+     "description": "Complete {0} rounds of Daily Quests",
+     "title": "Daily Quests",
+     "text": "Daily Quests are a must-do every day"
+    },
+    {
+     "id": "18",
+     "description": "Complete {0} rounds of Bounty Quests",
+     "title": "Bounty Quest",
+     "text": "Team up for Bounty Quests to earn lots of EXP and items"
+    },
+    {
+     "id": "19",
+     "description": "Complete {0} Guild Quests",
+     "title": "Guild Quests",
+     "text": "Do Guild Quests to earn Guild Contribution"
+    },
+    {
+     "id": "20",
+     "description": "Make {0} Guild Donations",
+     "title": "Guild Donation",
+     "text": "Lend your strength to your guild"
+    },
+    {
+     "id": "21",
+     "description": "Complete {0} Guild Trades",
+     "title": "Guild Trade",
+     "text": "Guild Trade: turn junk into treasure"
+    },
+    {
+     "id": "22",
+     "description": "Open the Costumes screen {0} times",
+     "title": "Costumes",
+     "text": "Change costumes and be the best-dressed pirate"
+    },
+    {
+     "id": "23",
+     "description": "Join the Arena {0} times",
+     "title": "Arena",
+     "text": "Compete against other players"
+    },
+    {
+     "id": "24",
+     "description": "Win the Voyage Tower {0} times",
+     "title": "Voyage Tower",
+     "text": "Push forward each week in the Voyage Tower"
+    },
+    {
+     "id": "25",
+     "description": "Clear Blood Battle stage {0}",
+     "title": "Blood Battle",
+     "text": "Fight to the end in Blood Battle for rewards"
+    },
+    {
+     "id": "26",
+     "description": "Win Elite Challenge {0} times",
+     "title": "Elite Challenge",
+     "text": "Scheduled Elite Challenges are a steady source of shards"
+    },
+    {
+     "id": "27",
+     "description": "Go on {0} Expeditions",
+     "title": "Expeditions",
+     "text": "Send out your crew on expeditions for treasure"
+    },
+    {
+     "id": "28",
+     "description": "Buy items {0} times in any shop",
+     "title": "Shop",
+     "text": "Pick out your favorite treasures in the shop"
+    },
+    {
+     "id": "29",
+     "description": "Make medicine {0} times",
+     "title": "Pharmacy",
+     "text": "Make medicine to boost stats permanently or temporarily"
+    },
+    {
+     "id": "30",
+     "description": "Win the Ladder {0} times",
+     "title": "Ladder",
+     "text": "Real-time battles where strategy is king"
+    },
+    {
+     "id": "31",
+     "description": "Gather herbs {0} times",
+     "title": "Gather Herbs",
+     "text": "Gather herbs in the field to make all kinds of potions"
+    },
+    {
+     "id": "32",
+     "description": "Gather supplies {0} times",
+     "title": "Gather Supplies",
+     "text": "Gather supplies and build ships for your voyage"
+    },
+    {
+     "id": "33",
+     "description": "Win Story Replay {0} times",
+     "title": "Story Replay",
+     "text": "Story Replay: get equipment"
+    },
+    {
+     "id": "34",
+     "description": "Equip {0} Hero sets",
+     "title": "Sets",
+     "text": "The right set can greatly strengthen your crew"
+    },
+    {
+     "id": "35",
+     "description": "Refine equipment {0} times",
+     "title": "Refine",
+     "text": "Refine equipment to boost its stats"
+    },
+    {
+     "id": "36",
+     "description": "Win the Ultimate Challenge {0} times",
+     "title": "Ultimate Challenge",
+     "text": "Choose freely in the Ultimate Challenge"
+    },
+    {
+     "id": "37",
+     "description": "Take on {0} Boss Bounties",
+     "title": "Boss Bounty",
+     "text": "Boss Bounty: compete for the ranking"
+    },
+    {
+     "id": "38",
+     "description": "Play {0} Island Conquest matches",
+     "title": "Island Conquest",
+     "text": "Island Conquest: One Piece auto chess"
+    },
+    {
+     "id": "39",
+     "description": "Upgrade the Home Hall to Lv{0}",
+     "title": "Home Building",
+     "text": "Build your Home, a paradise of your own"
+    },
+    {
+     "id": "40",
+     "description": "Complete {0} Home Quests",
+     "title": "Home Quests",
+     "text": "Do Home Quests daily for building materials"
+    },
+    {
+     "id": "41",
+     "description": "Draw Soul Infusions {0} times",
+     "title": "Soul Infusion",
+     "text": "Draw equipment Soul Infusions to boost your crew's stats"
+    },
+    {
+     "id": "42",
+     "description": "Own {0} ships",
+     "title": "Shipbuilding",
+     "text": "Build ships and head out to sea"
+    },
+    {
+     "id": "43",
+     "description": "Complete {0} Maritime Trades",
+     "title": "Maritime Trade",
+     "text": "Send out ships and trade goods"
+    }
+   ]
+  },
+  "TableHandBookConfig": {
+   "key_column": "id",
+   "text_columns": [
+    "value"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "value": "[Current Progress {0}/{1}]"
+    },
+    {
+     "id": "2",
+     "value": "Unlocks at Lv{0}"
+    },
+    {
+     "id": "3",
+     "value": "SC message error"
+    }
+   ]
+  },
+  "TableHolidayText": {
+   "key_column": "holidayType",
+   "text_columns": [
+    "holidayDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "holidayType": "CaiDan_title",
+     "holidayDesc": "Collect {0} Easter Eggs"
+    },
+    {
+     "holidayType": "CaiDan_May_title",
+     "holidayDesc": "Play to get Easter Eggs; open them for surprises"
+    },
+    {
+     "holidayType": "CaiDan_May_Item_title",
+     "holidayDesc": "Collect Easter Eggs to get these items"
+    },
+    {
+     "holidayType": "CaiDan_May_sysplay_title",
+     "holidayDesc": "Go to these modes to get Easter Eggs"
+    },
+    {
+     "holidayType": "Normal_Activity_ThkDayTitle",
+     "holidayDesc": "Thanksgiving Celebration"
+    },
+    {
+     "holidayType": "Normal_Activity_ShopingTitle",
+     "holidayDesc": "Shopping Festival"
+    },
+    {
+     "holidayType": "FS_Aty_day",
+     "holidayDesc": "Day {0}"
+    },
+    {
+     "holidayType": "FS_Aty_day_1",
+     "holidayDesc": "Day 1"
+    },
+    {
+     "holidayType": "FS_Aty_day_2",
+     "holidayDesc": "Day 2"
+    },
+    {
+     "holidayType": "FS_Aty_day_3",
+     "holidayDesc": "Day 3"
+    },
+    {
+     "holidayType": "FS_Aty_day_4",
+     "holidayDesc": "Day 4"
+    },
+    {
+     "holidayType": "FS_Aty_day_5",
+     "holidayDesc": "Day 5"
+    },
+    {
+     "holidayType": "FS_Aty_day_6",
+     "holidayDesc": "Day 6"
+    },
+    {
+     "holidayType": "FS_Aty_day_7",
+     "holidayDesc": "Day 7"
+    },
+    {
+     "holidayType": "FS_Aty_day_8",
+     "holidayDesc": "Day 8"
+    },
+    {
+     "holidayType": "diamond_cast",
+     "holidayDesc": "{0} Rainbow Diamonds"
+    },
+    {
+     "holidayType": "TurkeyOpenTime",
+     "holidayDesc": "\\nMorning: 12-14   Evening: 18-20\\n  Restores 50 Vigor"
+    },
+    {
+     "holidayType": "TurkeyGetted",
+     "holidayDesc": "Enjoyed"
+    },
+    {
+     "holidayType": "TurkeyCanGet",
+     "holidayDesc": "Available"
+    },
+    {
+     "holidayType": "TurkeyShowFormat",
+     "holidayDesc": "{0}:00-{1}:00"
+    },
+    {
+     "holidayType": "TurkeyCannotGet",
+     "holidayDesc": "Expired"
+    },
+    {
+     "holidayType": "TurkerNottime",
+     "holidayDesc": "Not time yet. Come back later~"
+    },
+    {
+     "holidayType": "HolidayDamendCast",
+     "holidayDesc": "Spent so far"
+    },
+    {
+     "holidayType": "HolidayCurPayMoney",
+     "holidayDesc": "Current recharge amount"
+    },
+    {
+     "holidayType": "lucyShop_refresh_free_tip",
+     "holidayDesc": "Free"
+    },
+    {
+     "holidayType": "lucyShop_discount",
+     "holidayDesc": "{0}/10 Price"
+    },
+    {
+     "holidayType": "lucyShop_buy_tip_confirm",
+     "holidayDesc": "Buy"
+    },
+    {
+     "holidayType": "lucyShop_buy_tip_desc_title1",
+     "holidayDesc": "Item Description"
+    },
+    {
+     "holidayType": "lucyShop_buy_tip_desc_title2",
+     "holidayDesc": "Item Price"
+    },
+    {
+     "holidayType": "lucyShop_buy_tip_success",
+     "holidayDesc": "Purchase successful!"
+    },
+    {
+     "holidayType": "lucyShop_buy_tip_fail",
+     "holidayDesc": "Purchase failed"
+    },
+    {
+     "holidayType": "lucyShop_next_refresh_time_tip",
+     "holidayDesc": "Auto refresh:"
+    },
+    {
+     "holidayType": "lucyShop_next_refresh_time",
+     "holidayDesc": "{0}h {1}m"
+    },
+    {
+     "holidayType": "lucyShop_refresh_tip",
+     "holidayDesc": "Refresh"
+    },
+    {
+     "holidayType": "enegetAdd",
+     "holidayDesc": "Vigor +{0}"
+    },
+    {
+     "holidayType": "lucyShop_buy_refresh_timeout",
+     "holidayDesc": "No refreshes left today"
+    },
+    {
+     "holidayType": "lucyShop_buy_lack_tip",
+     "holidayDesc": "Not Enough {0}"
+    }
+   ]
+  },
+  "TableImageTextTutorialConfig": {
+   "key_column": "id",
+   "text_columns": [
+    "tabName"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "0",
+     "tabName": "Interface"
+    },
+    {
+     "id": "1",
+     "tabName": "Dock Info"
+    },
+    {
+     "id": "2",
+     "tabName": "Quest Info"
+    },
+    {
+     "id": "3",
+     "tabName": "Sea Area Info"
+    },
+    {
+     "id": "4",
+     "tabName": "Warship Info"
+    }
+   ]
+  },
+  "TableLoginQueueWaitTime": {
+   "key_column": "rangeStart",
+   "text_columns": [
+    "waitTimeText"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "rangeStart": "1",
+     "waitTimeText": "5 minutes"
+    },
+    {
+     "rangeStart": "11",
+     "waitTimeText": "10 minutes"
+    },
+    {
+     "rangeStart": "31",
+     "waitTimeText": "15 minutes"
+    },
+    {
+     "rangeStart": "101",
+     "waitTimeText": "30 minutes"
+    },
+    {
+     "rangeStart": "501",
+     "waitTimeText": "Over 1 hour"
+    }
+   ]
+  },
+  "TableMailConfig": {
+   "key_column": "mailId",
+   "text_columns": [
+    "mailTitle",
+    "mailContent",
+    "feedbackMessage",
+    "mailSender"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "mailId": "1",
+     "mailTitle": "For operations rewards only. Do not delete",
+     "mailContent": "",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "2",
+     "mailTitle": "Bag Full",
+     "mailContent": "Your bag was full, so some valuable items were left behind. Being honest finders, we found them and mailed them to you right away. Enjoy the game.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "3",
+     "mailTitle": "Consignment Purchase Successful",
+     "mailContent": "Congratulations on winning an equipment auction. Please claim it.",
+     "feedbackMessage": "",
+     "mailSender": "Trading House Manager"
+    },
+    {
+     "mailId": "4",
+     "mailTitle": "Gift from {0}",
+     "mailContent": "Your friend {0} spent {2}{3} in {1} to send you {4}. Check it out now!",
+     "feedbackMessage": "[Gift Claimed] I just claimed the {0} you sent me. Thanks for the gift!",
+     "mailSender": ""
+    },
+    {
+     "mailId": "5",
+     "mailTitle": "Mute Notice",
+     "mailContent": "Dear player, you have been muted for {0} because your messages broke the game rules. Please wait for the mute to end. If you disagree with this mute, please appeal on the official website.{1}",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "6",
+     "mailTitle": "Mute Deposit Paid",
+     "mailContent": "The system has received your mute deposit of {0} Rainbow Diamonds. A {1}-day probation period starts now ({2} to {3}). If you are not muted again by the end of it, you can reclaim the full deposit from the Mute Administrator [Loguetown (86,63)]. If you are muted again for breaking the rules during probation, your deposit will be forfeited in full.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "7",
+     "mailTitle": "Mute Deposit Forfeited",
+     "mailContent": "Because you were muted again for breaking the rules during your deposit probation ({0} to {1}), your {2} Rainbow Diamond deposit has been confiscated. To keep the game a pleasant place, please do not post sensitive content.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "8",
+     "mailTitle": "Arena Rewards",
+     "mailContent": "Congratulations on reaching Rank {0} in the Arena",
+     "feedbackMessage": "",
+     "mailSender": "Arena Manager"
+    },
+    {
+     "mailId": "9",
+     "mailTitle": "Player Shop Listing Expired",
+     "mailContent": "An item you listed in the Player Shop has expired.",
+     "feedbackMessage": "",
+     "mailSender": "Trading House Owner"
+    },
+    {
+     "mailId": "10",
+     "mailTitle": "Ladder Weekly Point Rewards",
+     "mailContent": "You performed well in the Ladder. Here are your rewards based on your best rank.",
+     "feedbackMessage": "",
+     "mailSender": "Ladder Manager"
+    },
+    {
+     "mailId": "11",
+     "mailTitle": "Ladder Unrestricted Match Rewards",
+     "mailContent": "You performed well in this season's Ladder Unrestricted Match. Your rank was: {0}. Here are your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "Ladder Manager"
+    },
+    {
+     "mailId": "12",
+     "mailTitle": "Ladder Balanced Match Rewards",
+     "mailContent": "You performed well in this season's Ladder Balanced Match. Your rank was: {0}. Here are your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "Ladder Manager"
+    },
+    {
+     "mailId": "13",
+     "mailTitle": "Arena Best Rank",
+     "mailContent": "Congratulations on reaching your best-ever Arena rank. Keep it up!",
+     "feedbackMessage": "",
+     "mailSender": "Arena Manager"
+    },
+    {
+     "mailId": "14",
+     "mailTitle": "Arena Victory",
+     "mailContent": "Congratulations on your victory in the Arena.",
+     "feedbackMessage": "",
+     "mailSender": "Arena Manager"
+    },
+    {
+     "mailId": "15",
+     "mailTitle": "Trade Ban Notice",
+     "mailContent": "The system detected that your trade at {0} (item: {1}, amount: {2}) violated the User Agreement's rules on offline trading. Your trading has been banned (during this time you can't use the Player Shop or Face-to-Face Trade), and the funds from this trade have been permanently frozen. You can pay a deposit at {3} to lift the trade ban. The deposit depends on the ban length and trade amount, and will be refunded immediately as Blue Diamonds at the shop rate.",
+     "feedbackMessage": "",
+     "mailSender": "Trading House Owner"
+    },
+    {
+     "mailId": "16",
+     "mailTitle": "Trade Ban Notice",
+     "mailContent": "The system detected that your trade at {0} (item: {1}, amount: {2}) violated the User Agreement's rules on offline trading, and your trading has been banned (during this time you can't use the Player Shop or Face-to-Face Trade). You can pay a deposit in Rainbow Diamonds at {3} to lift the ban. The deposit depends on the ban length and trade amount, and will be refunded immediately as Blue Diamonds at the shop rate once the ban is lifted.",
+     "feedbackMessage": "",
+     "mailSender": "Trading House Owner"
+    },
+    {
+     "mailId": "17",
+     "mailTitle": "Request",
+     "mailContent": "{0} sent you {1} shards. Check the attachment",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "18",
+     "mailTitle": "Escrow Funds Received",
+     "mailContent": "Your escrowed Player Shop funds have been approved. Since your shop is closed, they are sent to you by this mail. Please claim them soon!",
+     "feedbackMessage": "",
+     "mailSender": "Trading House Owner"
+    },
+    {
+     "mailId": "19",
+     "mailTitle": "Blood Battle Chest Rewards",
+     "mailContent": "Your unclaimed chest rewards from Blood Battle",
+     "feedbackMessage": "",
+     "mailSender": "Blood Battle Manager"
+    },
+    {
+     "mailId": "20",
+     "mailTitle": "Daily Team Quest Round Rewards",
+     "mailContent": "You finished a round of team quests. Here are your round rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "21",
+     "mailTitle": "Daily Team Quest Captain Rewards",
+     "mailContent": "You finished a round of team quests. Here are your captain rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "23",
+     "mailTitle": "Seller Notice",
+     "mailContent": "Dear Captain, you sold {0} {1} in the Player Shop. After a {2} fee, the {3} Gold you earned has been deposited in your shop.",
+     "feedbackMessage": "",
+     "mailSender": "Trading House Owner"
+    },
+    {
+     "mailId": "24",
+     "mailTitle": "Bounty Completed",
+     "mailContent": "The bounty you posted on {0} is complete. {1} has been locked up in prison.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "25",
+     "mailTitle": "MyApp Welfare Center Pack",
+     "mailContent": "You joined an event in MyApp and received the gifts below. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Welfare Center"
+    },
+    {
+     "mailId": "26",
+     "mailTitle": "Bounty Completed",
+     "mailContent": "You locked {0} up in prison and completed the bounty. Please claim your reward.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "27",
+     "mailTitle": "Bounty Failed",
+     "mailContent": "The bounty you posted on {0} failed. Your bounty of {1} has been refunded.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "28",
+     "mailTitle": "Bounty Failed",
+     "mailContent": "The bounty you posted on {0} timed out and failed. Your bounty of {1} has been refunded.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "29",
+     "mailTitle": "Bounty Failed",
+     "mailContent": "The bounty you accepted on {0} timed out and failed. Better luck next time.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "30",
+     "mailTitle": "Guild Upgraded",
+     "mailContent": "Thanks to everyone's efforts, our guild has reached Lv{0}. Upkeep now costs {1} Guild Funds per week, deducted automatically every Monday at 0:00.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "31",
+     "mailTitle": "Guild Upkeep Paid",
+     "mailContent": "{0} Guild Funds were spent on guild upkeep.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "32",
+     "mailTitle": "Guild Upkeep Failed",
+     "mailContent": "Not enough Guild Funds for upkeep, so the Guild Training Ground's effect is reduced. Upkeep is deducted automatically every Monday at 0:00. Let's all work to grow the guild.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "33",
+     "mailTitle": "Boss Bounty Rank Rewards",
+     "mailContent": "Congratulations on taking Rank {1} in today's {0} Boss Bounty event. Here are your rewards!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "34",
+     "mailTitle": "Removed from Guild",
+     "mailContent": "Sorry, you have been removed from the guild. You can join a guild again after 24 hours",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "35",
+     "mailTitle": "Guild Auction",
+     "mailContent": "Congratulations! You won the auction. Your item is attached to this mail. Please claim it",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "36",
+     "mailTitle": "Guild Auction",
+     "mailContent": "Your bid was placed and the Guild Contribution has been deducted. If you don't win the item, it will be refunded automatically",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "37",
+     "mailTitle": "Guild Auction",
+     "mailContent": "You have been outbid. The deducted Guild Contribution has been refunded automatically",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "38",
+     "mailTitle": "Guild Application List Full",
+     "mailContent": "The guild application list is full and can't accept new applications. Please handle pending applicants soon",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "39",
+     "mailTitle": "Guild Leader Auto-Transfer",
+     "mailContent": "Since the previous leader hasn't logged in recently, leadership has been transferred to you. Please keep managing the guild!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "40",
+     "mailTitle": "Guild Leader Transfer",
+     "mailContent": "The guild has been transferred to {0}.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "41",
+     "mailTitle": "Guild Management",
+     "mailContent": "{0} removed {1} from the guild",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "42",
+     "mailTitle": "Guild Management",
+     "mailContent": "{0} has left the guild",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "43",
+     "mailTitle": "Guild Joined",
+     "mailContent": "Congratulations, the guild accepted your application. Go take a look!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "44",
+     "mailTitle": "Guild Ace",
+     "mailContent": "Congratulations to {0}, the guild's new Ace! Everyone is welcome to pay respects or challenge them. Ace, please share your tips to help everyone grow.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "45",
+     "mailTitle": "Guild Ace",
+     "mailContent": "{0} defeated the Ace and is now the new Ace. Keep it up!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "46",
+     "mailTitle": "Transfer Leadership",
+     "mailContent": "You have started a leadership transfer. In 24 hours {0} will become the new leader; you can cancel during this time. Only one transfer can be made per day.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "47",
+     "mailTitle": "Transfer Leadership",
+     "mailContent": "{0} has started a leadership transfer. In 24 hours you will become the new leader; the current leader can cancel during this time.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "48",
+     "mailTitle": "Leadership Transfer Canceled",
+     "mailContent": "You have canceled the leadership transfer.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "49",
+     "mailTitle": "Leadership Transfer Canceled",
+     "mailContent": "The leader has canceled transferring leadership to you.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "50",
+     "mailTitle": "Leadership Transferred",
+     "mailContent": "Leadership has been transferred to {0}.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "51",
+     "mailTitle": "Leadership Transferred",
+     "mailContent": "Congratulations! You are now the guild leader. Please lead the guild to grow!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "52",
+     "mailTitle": "Appoint Vice Leader",
+     "mailContent": "Congratulations! You have been appointed Vice Leader. Please help the leader grow the guild!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "53",
+     "mailTitle": "Vice Leader Removed",
+     "mailContent": "Sorry, you have been removed as Vice Leader.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "54",
+     "mailTitle": "Guild Upkeep Failed",
+     "mailContent": "Not enough Guild Funds for upkeep, so the Guild Store is temporarily closed and the Guild Training Ground's effect is paused. Upkeep is deducted automatically every Monday at 0:00. Let's all work to grow the guild.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "55",
+     "mailTitle": "Guild Mail",
+     "mailContent": "",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "56",
+     "mailTitle": "Bounty Taken by Another Player",
+     "mailContent": "The bounty you accepted on {0} was completed first by another player.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "57",
+     "mailTitle": "Wish Fulfilled",
+     "mailContent": "A player bought the item you shared from your wish. You earned a bonus reward.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "58",
+     "mailTitle": "Wishing Bottle Reward",
+     "mailContent": "We found the item you lost on the Wishing Beach. Please claim it.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "59",
+     "mailTitle": "Bail Notice",
+     "mailContent": "Player {0} spent {1} Blue Diamonds to bail you out. Your jail time is reduced by {2} minutes.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "60",
+     "mailTitle": "Consecutive Top-Up Rewards",
+     "mailContent": "You earned the rewards below in the Consecutive Top-Ups event. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "61",
+     "mailTitle": "Daily Trade Dividend",
+     "mailContent": "While your Trade License is active, log in daily to claim a trade dividend. Here is today's dividend",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "62",
+     "mailTitle": "Consecutive Top-Up Final Reward",
+     "mailContent": "You earned the final reward below in the Consecutive Top-Ups event. Please claim it.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "63",
+     "mailTitle": "Arena Ranking Event Rewards",
+     "mailContent": "You have unclaimed Arena Ranking event rewards. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "64",
+     "mailTitle": "Power Ranking Event Rewards",
+     "mailContent": "You have unclaimed Power Ranking event rewards. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "65",
+     "mailTitle": "Level Ranking Event Rewards",
+     "mailContent": "You have unclaimed Level Ranking event rewards. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "66",
+     "mailTitle": "Character Stories Ranking Event Rewards",
+     "mailContent": "You have unclaimed Character Stories Ranking event rewards. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "67",
+     "mailTitle": "Achievement Ranking Event Rewards",
+     "mailContent": "You have unclaimed Achievement Ranking event rewards. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "68",
+     "mailTitle": "Unrestricted Match Ranking Event Rewards",
+     "mailContent": "You have unclaimed Unrestricted Match Ranking event rewards. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "69",
+     "mailTitle": "Balanced Match Ranking Event Rewards",
+     "mailContent": "You have unclaimed Balanced Match Ranking event rewards. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "70",
+     "mailTitle": "Replay Dungeon Ranking Event Rewards",
+     "mailContent": "You have unclaimed Replay Dungeon Ranking event rewards. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "71",
+     "mailTitle": "Ranking Event Rewards",
+     "mailContent": "You have unclaimed ranking event rewards. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "72",
+     "mailTitle": "Trade License Expired",
+     "mailContent": "Dear Captain: your Trade License has expired. Renew it to keep enjoying its perks. Thank you for your support!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "73",
+     "mailTitle": "Boss Bounty Final Blow Reward",
+     "mailContent": "Congratulations on defeating {0} in today's Boss Bounty event. Here are your rewards!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "74",
+     "mailTitle": "Shop Funds Low",
+     "mailContent": "Your shop is running out of funds! Its operating funds are too low. Add funds soon to keep it from closing.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "75",
+     "mailTitle": "Shop Closed",
+     "mailContent": "Due to poor management, your shop has closed. We'll retrieve any items still on sale for you. Don't give up: you can open a shop again anytime.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "76",
+     "mailTitle": "Sea Battle Registration",
+     "mailContent": "You've registered for tomorrow's Sea Battle. Matchups will be announced today at 24:00; check matchups and your lineup in \"Sea Battle Deployment\".",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "77",
+     "mailTitle": "OPPO Game Center Pack",
+     "mailContent": "You joined an event in the OPPO Game Center and received the gifts below. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "OPPO Game Center"
+    },
+    {
+     "mailId": "78",
+     "mailTitle": "Overlord Silver Card Level Pack",
+     "mailContent": "You received the MyApp Overlord Silver Card level pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "79",
+     "mailTitle": "Overlord Gold Card Level Pack",
+     "mailContent": "You received the MyApp Overlord Gold Card level pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "80",
+     "mailTitle": "Overlord Platinum Card Level Pack",
+     "mailContent": "You received the MyApp Overlord Platinum Card level pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "81",
+     "mailTitle": "Overlord Black Card Level Pack",
+     "mailContent": "You received the MyApp Overlord Black Card level pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "82",
+     "mailTitle": "Overlord Member Card Daily Perks",
+     "mailContent": "You received the MyApp Overlord Member Card daily perks pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "83",
+     "mailTitle": "Overlord Silver Card Daily Perks",
+     "mailContent": "You received the MyApp Overlord Silver Card daily perks pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "84",
+     "mailTitle": "Overlord Gold Card Daily Perks",
+     "mailContent": "You received the MyApp Overlord Gold Card daily perks pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "85",
+     "mailTitle": "Overlord Platinum Card Daily Perks",
+     "mailContent": "You received the MyApp Overlord Platinum Card daily perks pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "86",
+     "mailTitle": "Overlord Black Card Daily Perks",
+     "mailContent": "You received the MyApp Overlord Black Card daily perks pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "87",
+     "mailTitle": "Overlord Gold Card Custom Items",
+     "mailContent": "You received the MyApp Overlord Gold Card custom item pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "88",
+     "mailTitle": "Overlord Platinum Card Custom Items",
+     "mailContent": "You received the MyApp Overlord Platinum Card custom item pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "89",
+     "mailTitle": "Overlord Black Card Custom Items",
+     "mailContent": "You received the MyApp Overlord Black Card custom item pack. Rewards below; please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "MyApp Overlord Club"
+    },
+    {
+     "mailId": "90",
+     "mailTitle": "Top-Up Refund Rainbow Diamonds",
+     "mailContent": "Dear Captain: thank you for your great support of \"One Piece: Burning Will\" during the test. Here is an extra 100% Rainbow Diamond refund on your test-period top-ups to start your new adventure!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "91",
+     "mailTitle": "Guild Sea Battle Rewards",
+     "mailContent": "Sorry, your guild lost the Sea Battle. Don't lose heart; a reward is attached to this mail for you.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "92",
+     "mailTitle": "Guild Sea Battle Rewards",
+     "mailContent": "Sorry, your guild lost the Sea Battle. Don't lose heart; a reward is attached to this mail for you. Since you were on auto-play during the Sea Battle, the reward is reduced.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "93",
+     "mailTitle": "Report Reward",
+     "mailContent": "Dear Captain, the player {0} you reported has been muted. Thank you for helping keep the game healthy. Please claim your report reward.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "94",
+     "mailTitle": "Guild Sea Battle Ranking Rewards",
+     "mailContent": "Congratulations! Your guild took Rank {0} in this Sea Battle. You and all guild members receive a title reward, usable in the Titles feature.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "95",
+     "mailTitle": "Guild Sea Battle Rewards",
+     "mailContent": "Congratulations on your guild's Sea Battle victory. Claim your rewards from this mail!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "96",
+     "mailTitle": "Guild Sea Battle Rewards",
+     "mailContent": "Congratulations on your guild's Sea Battle victory. Since you were on auto-play during the Sea Battle, the reward is reduced. Claim your rewards from this mail!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "97",
+     "mailTitle": "New Version Gift",
+     "mailContent": "Dear Captain: thank you for downloading the new version of \"One Piece: Burning Will\". Experience an all-new thrilling story, build your favorite warships to sail the seas, and show your strength in exciting Guild Sea Battles! Here is a gift to thank you for your continued support. Thank you!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "98",
+     "mailTitle": "A Gift from the Tavern",
+     "mailContent": "After recruiting, do you feel empty and lonely, or full of hope? Was it to fulfill a long-held dream, or a moment of impulse you couldn't resist? Feel your wallet: is your heart still steady? Don't talk about learning your lesson; it's no use, next time will be the same. Stop thinking and keep going with these Recruit Tickets!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "99",
+     "mailTitle": "Ladder: Unsportsmanlike Play",
+     "mailContent": "Dear Captain, the system detected unsportsmanlike play and unfair profiting in the Ladder. If you keep breaking the fair-play rules, you may be banned from the Ladder.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "100",
+     "mailTitle": "Ladder: Unsportsmanlike Play",
+     "mailContent": "Dear Captain, the system detected repeated unsportsmanlike play and unfair profiting in the Ladder recently. If you keep breaking the fair-play rules, you may be banned from the Ladder.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "101",
+     "mailTitle": "Maritime Trade Rewards",
+     "mailContent": "You have unclaimed trade order rewards, listed below. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "102",
+     "mailTitle": "Maritime Trade Rewards",
+     "mailContent": "You have unclaimed investigation quest rewards, listed below. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "103",
+     "mailTitle": "Welcome-Back EXP",
+     "mailContent": "{0} is a number engraved in my heart: the days we've been apart. I've waited so long for you. Your crew has been waiting here, and now that you're back, we can set sail again and achieve greatness.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "104",
+     "mailTitle": "Unclaimed Welcome-Back Rewards",
+     "mailContent": "You have unclaimed welcome-back login rewards, listed below. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "105",
+     "mailTitle": "Conquest Tournament Starts",
+     "mailContent": "The Conquest Tournament starts on day {0}. Support your favorite player; if they win the title, you'll get a huge Blue Diamond reward!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "106",
+     "mailTitle": "Conquest Bet Reward",
+     "mailContent": "Congratulations! The contestant you backed took first place in the Conquest Tournament. A huge Blue Diamond reward is attached to this mail. Please claim it.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "107",
+     "mailTitle": "Conquest Support Reward",
+     "mailContent": "Congratulations! The contestant you supported advanced in the {0} match. A support reward is attached to this mail. Please claim it.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "108",
+     "mailTitle": "Conquest Advancement Reward",
+     "mailContent": "Congratulations! You achieved {0} in this Conquest Tournament. Generous rewards are attached to this mail. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "109",
+     "mailTitle": "Conquest Tournament Qualification",
+     "mailContent": "Congratulations on qualifying for the Conquest Tournament. Your match will be held on {0}",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "110",
+     "mailTitle": "Conquest Tournament Elimination",
+     "mailContent": "Sorry, you were defeated by {1} in the Conquest Tournament {0}. Keep working hard for a better rank next season",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "111",
+     "mailTitle": "Conquest Tournament Elimination",
+     "mailContent": "Sorry, you were defeated by {1} in the Conquest Tournament {0}. You still have a chance in the third-place match. Keep it up!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "112",
+     "mailTitle": "Guild War Alert",
+     "mailContent": "Your guild has been challenged to war by the {1} guild of Server {0}. The Guild Sea Battle takes place tomorrow at {2}. Prepare and join the Sea Battle.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "113",
+     "mailTitle": "Guild War Declared",
+     "mailContent": "Your guild has declared war on the {1} guild of Server {0}. The Guild Sea Battle takes place tomorrow at {2}. Prepare and join the Sea Battle",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "114",
+     "mailTitle": "Guild War Alert",
+     "mailContent": "Your guild has been challenged to war by the {1} guild of Server {0}. The Guild Sea Battle takes place tomorrow at {2}. Your guild doesn't have enough participants yet. Register soon, or the Sea Battle will end in defeat.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "115",
+     "mailTitle": "Lucky Wheel Reward",
+     "mailContent": "Dear Captain, your Luck in the Lucky Wheel is full. Congratulations on the rewards from the Luck chest!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "116",
+     "mailTitle": "Bet Lost",
+     "mailContent": "Sorry, the player you bet on didn't win the title. Better luck in the next Conquest Tournament.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "117",
+     "mailTitle": "Supported Player Eliminated",
+     "mailContent": "Sorry, the player you supported didn't advance. Better luck in the next match.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "118",
+     "mailTitle": "Ladder: Score Manipulation",
+     "mailContent": "Dear Captain, the system detected malicious score farming or rule violations by you in the Ladder. You have been banned from the Ladder for {0} minutes. If you have questions, please contact customer service.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "119",
+     "mailTitle": "Ladder: Score Manipulation",
+     "mailContent": "Dear Captain, the system detected malicious score farming or rule violations by you in the Ladder. Your points have been deducted. If you have questions, please contact customer service.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "120",
+     "mailTitle": "Guild Renamed",
+     "mailContent": "Your guild used a Guild Rename Card. The guild name is now: {0}. Please keep supporting the guild's growth.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "121",
+     "mailTitle": "Guild Rename Card Issued",
+     "mailContent": "Dear Captain, after your server merged, your guild's name duplicated another server's guild, so here is a Guild Rename Card*1. Enjoy the game!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "122",
+     "mailTitle": "Meizu Game Center Pack",
+     "mailContent": "You joined an event in the Meizu Game Center and received the gifts below. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "Meizu Game Center"
+    },
+    {
+     "mailId": "123",
+     "mailTitle": "Player Rename Card Issued",
+     "mailContent": "Dear Captain, after your server merged, your name duplicated another player's, so here is a Player Rename Card*1. Enjoy the game!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "124",
+     "mailTitle": "Worn Tone Dial",
+     "mailContent": "Pops... everyone... and Luffy... Thank you for loving me all this time, worthless as I am, with the devil's blood in me!<sprite=7><sprite=8>",
+     "feedbackMessage": "",
+     "mailSender": "Anonymous"
+    },
+    {
+     "mailId": "125",
+     "mailTitle": "Maritime Trade Intel Rewards",
+     "mailContent": "Dear Captain, here are your unclaimed intel rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "126",
+     "mailTitle": "App Store Top-Up Rewards",
+     "mailContent": "Dear Captain, here are your App Store top-up rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "127",
+     "mailTitle": "Island Conquest Weekly Rewards",
+     "mailContent": "Congratulations on ranking {0} in Island Conquest this week. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "128",
+     "mailTitle": "Island Conquest Season Rewards",
+     "mailContent": "Congratulations on ranking {0} in Island Conquest this season. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "129",
+     "mailTitle": "Island Conquest Rewards",
+     "mailContent": "Thanks for playing Island Conquest. You finished Rank {0} this match. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "130",
+     "mailTitle": "Guild Wish Fulfilled",
+     "mailContent": "{0} donated {1}*{2} to you",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "131",
+     "mailTitle": "Unclaimed Voyage Pass Rewards",
+     "mailContent": "Unclaimed Voyage Pass Rewards",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "132",
+     "mailTitle": "Character Name Change Notice",
+     "mailContent": "Dear Captain, your character name may violate the rules. Please rename your character!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "133",
+     "mailTitle": "Guild Name Change Notice",
+     "mailContent": "Dear Guild Leader, your guild name may violate the rules. Please rename your guild!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "134",
+     "mailTitle": "Lunar New Year Event",
+     "mailContent": "Dear Captain, the Lunar New Year event has ended. Your unclaimed rewards are sent to you now!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "135",
+     "mailTitle": "Guild Red Envelope Refund",
+     "mailContent": "Dear Captain, the red envelope you sent has expired. The unclaimed amount is returned to you!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "136",
+     "mailTitle": "Secret Realm Trial",
+     "mailContent": "The Secret Realm Trial has reset. You finished in the top {0}% in the last Secret Realm Trial. Here are your rank rewards",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "137",
+     "mailTitle": "Ladder Glory Match Weekly Point Rewards",
+     "mailContent": "You performed well in this season's Ladder Glory Match. Your Glory Match points: {0}. Here are your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "Ladder Manager"
+    },
+    {
+     "mailId": "138",
+     "mailTitle": "Ladder Peak Arena Weekly Point Rewards",
+     "mailContent": "You performed well in this season's Ladder Peak Arena. Your Peak Arena points: {0}. Here are your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "Ladder Manager"
+    },
+    {
+     "mailId": "139",
+     "mailTitle": "Ladder Glory Match Season Rank Rewards",
+     "mailContent": "You performed well in the Ladder Peak Arena. Here are your rewards based on your rank.",
+     "feedbackMessage": "",
+     "mailSender": "Ladder Manager"
+    },
+    {
+     "mailId": "140",
+     "mailTitle": "Ladder Peak Arena Season Rank Rewards",
+     "mailContent": "You performed well in the Ladder Peak Arena. Here are your rewards based on your rank.",
+     "feedbackMessage": "",
+     "mailSender": "Ladder Manager"
+    },
+    {
+     "mailId": "141",
+     "mailTitle": "Home Building Permit Rewards",
+     "mailContent": "While your Home Building Permit is active, log in daily to claim a construction pack. Here is today's pack",
+     "feedbackMessage": "",
+     "mailSender": ""
+    },
+    {
+     "mailId": "142",
+     "mailTitle": "Home Bounty Rewards",
+     "mailContent": "Your friend {0} completed the Home Bounty you posted. Please claim your rewards",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "143",
+     "mailTitle": "{0} Victory Rewards",
+     "mailContent": "Congratulations on defeating {1} at {0}. Here are your rewards!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "144",
+     "mailTitle": "Anniversary Ranking Rewards",
+     "mailContent": "Congratulations on reaching {0} points and Rank {1} in this week's Pudding Challenge. Here are your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "145",
+     "mailTitle": "Investment Event Ended",
+     "mailContent": "The investment event was ended early. Day {0}'s rewards are sent to you",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "9999",
+     "mailTitle": "Home Refund",
+     "mailContent": "Your Lv{0} Gem Workshop has been demolished. Please claim the building materials",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "147",
+     "mailTitle": "Puzzle Pieces Converted",
+     "mailContent": "Dear Captain, this Treasure Hunt Puzzle event has ended. Your leftover puzzle pieces have been converted into Gold Bars at 1:{0} for normal pieces and 1:{1} for universal pieces.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "148",
+     "mailTitle": "Lunar New Year Rewards Reissued",
+     "mailContent": "Dear Captain, your unclaimed Wish Chest rewards have been reissued by mail. Please claim them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "149",
+     "mailTitle": "Lunar New Year Rewards Reissued",
+     "mailContent": "Dear Captain, your unclaimed Wish Chest rewards have been reissued by mail. Please claim them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "150",
+     "mailTitle": "Quest Refresh Rewards",
+     "mailContent": "Dear Captain, this week's Partner Quests have been refreshed. You contributed {0} Teamwork points to your team and earned {1} player EXP. Your unclaimed Partner Quest rewards have been reissued by mail. Please check them!",
+     "feedbackMessage": "",
+     "mailSender": ""
+    },
+    {
+     "mailId": "151",
+     "mailTitle": "Leaving Team Rewards Reissued",
+     "mailContent": "Dear Captain, you have left your previous partners. Your unclaimed Partner Quest rewards have been reissued by mail. Go set off again with new partners!",
+     "feedbackMessage": "",
+     "mailSender": ""
+    },
+    {
+     "mailId": "152",
+     "mailTitle": "Partner Quests Locked",
+     "mailContent": "Dear Captain, since one of your partners left, your Partner Quests are now locked. Your unclaimed Partner Quest rewards are reissued by mail. Go find new partners to reactivate the quests!",
+     "feedbackMessage": "",
+     "mailSender": ""
+    },
+    {
+     "mailId": "153",
+     "mailTitle": "Boss Invasion Event Rewards",
+     "mailContent": "Congratulations on finishing in the top {0}% in this Boss Invasion. Here are your rank rewards",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "154",
+     "mailTitle": "Limited Recruit Rewards Reissued",
+     "mailContent": "Dear Captain, here are your unclaimed Limited Recruit rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "155",
+     "mailTitle": "Battle Tournament Daily Rewards",
+     "mailContent": "Dear Captain, you completed the daily activity tasks in the Battle Tournament. Your rewards are sent by mail. Please claim your task rewards.",
+     "feedbackMessage": "",
+     "mailSender": "Battle Tournament Manager"
+    },
+    {
+     "mailId": "156",
+     "mailTitle": "Battle Tournament Weekly Rewards",
+     "mailContent": "Dear Captain, you completed the weekly activity tasks in the Battle Tournament. Your rewards are sent by mail. Please claim your task rewards.",
+     "feedbackMessage": "",
+     "mailSender": "Battle Tournament Manager"
+    },
+    {
+     "mailId": "157",
+     "mailTitle": "Battle Tournament Preliminary Rewards",
+     "mailContent": "Dear Captain, you reached Rank {0} in this season's Battle Tournament preliminaries. Here are your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "Battle Tournament Manager"
+    },
+    {
+     "mailId": "158",
+     "mailTitle": "Ultimate Challenge Rewards Reissued",
+     "mailContent": "Dear Captain, your total of best scores across all dungeons in this Ultimate Challenge was {0} points. Your unclaimed point achievement rewards are reissued by mail. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "159",
+     "mailTitle": "Triggered Pack Paid Twice",
+     "mailContent": "Triggered Pack Paid Twice",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "160",
+     "mailTitle": "Ultimate Challenge Rank Rewards",
+     "mailContent": "Dear Captain, you ranked {1} in {0} in this week's Ultimate Challenge. Here are your rewards based on this week's rank. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "Ultimate Challenge Manager"
+    },
+    {
+     "mailId": "161",
+     "mailTitle": "Ultimate Challenge Point Rewards Reissued",
+     "mailContent": "Dear Captain, your unclaimed point rewards from this Ultimate Challenge are reissued by mail. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "Ultimate Challenge Manager"
+    },
+    {
+     "mailId": "162",
+     "mailTitle": "Monthly Pass First-Purchase Rewards",
+     "mailContent": "Dear Captain, your Monthly Pass first-purchase rewards are sent by mail. Please claim them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "163",
+     "mailTitle": "New Training Materials Issued",
+     "mailContent": "Dear Captain, since the training system was changed, the old Training Books in your bag have been converted into new ones at a set ratio. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "164",
+     "mailTitle": "Launch First Top-Up Rewards",
+     "mailContent": "Dear Captain, the server launch event has ended. You have unclaimed login rewards from the 30 CNY launch first top-up event, now reissued by mail. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "165",
+     "mailTitle": "Enel Exclusive Pack Rewards Reissued",
+     "mailContent": "Dear Captain, the server launch event has ended. You have unclaimed login rewards from the 198 CNY Enel Exclusive Pack event, now reissued by mail. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "166",
+     "mailTitle": "Battle Tournament Second Round Rewards",
+     "mailContent": "Dear Captain, you reached Rank {0} in this season's Battle Tournament second round. Here are your rewards. If you're in the top eight, congratulations: you'll represent your zone in the all-server finals. Good luck in the finals and win even more in-game and real-world prizes!",
+     "feedbackMessage": "",
+     "mailSender": ""
+    },
+    {
+     "mailId": "167",
+     "mailTitle": "Summer Event Rewards Reissued",
+     "mailContent": "A colorful summer, thanks to you! Dear Captain, your unclaimed activity rewards from this summer event are reissued by mail. Please claim them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "168",
+     "mailTitle": "Abyss Challenge Personal Rank Rewards",
+     "mailContent": "Dear Captain, you reached Rank {0} in this round's Abyss Challenge personal rankings. Here are your rewards. We look forward to your performance in the next round!",
+     "feedbackMessage": "",
+     "mailSender": ""
+    },
+    {
+     "mailId": "169",
+     "mailTitle": "Abyss Challenge Guild Rank Rewards",
+     "mailContent": "Dear Captain, your guild reached Rank {0} in this round's Abyss Challenge rankings. Here are your rewards. We look forward to your performance in the next round!",
+     "feedbackMessage": "",
+     "mailSender": ""
+    },
+    {
+     "mailId": "170",
+     "mailTitle": "Strength Test Rank Rewards",
+     "mailContent": "Dear Captain, congratulations on ranking first in this Strength Test. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "171",
+     "mailTitle": "Limited-Time Vault Opened",
+     "mailContent": "Dear Captain, congratulations on finding a Limited-Time Vault. Claim the vault key to unlock it.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "172",
+     "mailTitle": "World Quest Rewards",
+     "mailContent": "Dear Captain, the whole server worked together to reach the quest goal. Thank you for your contribution. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "173",
+     "mailTitle": "Return to the Route: Unclaimed Rewards",
+     "mailContent": "Dear Captain, we found rewards you forgot to claim in the Return to the Route event. They are sent to you by mail.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "174",
+     "mailTitle": "Route Expedition Killer Leaderboard Rewards",
+     "mailContent": "Dear Captain, congratulations on Rank {0} on the Route Expedition Killer leaderboard. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "175",
+     "mailTitle": "Route Expedition New World Kid Leaderboard Rewards",
+     "mailContent": "Dear Captain, congratulations on Rank {0} on the Route Expedition New World Kid leaderboard. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "176",
+     "mailTitle": "Route Expedition Wano Trafalgar Law Leaderboard Rewards",
+     "mailContent": "Dear Captain, congratulations on Rank {0} on the Route Expedition Wano Trafalgar Law leaderboard. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "177",
+     "mailTitle": "Route Expedition Personal Leaderboard Rewards",
+     "mailContent": "Dear Captain, congratulations on Rank {0} on the Route Expedition personal leaderboard. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "178",
+     "mailTitle": "Guild Boss Battle",
+     "mailContent": "Dear Captain, congratulations to your guild on Rank {0} on the Guild Boss Battle leaderboard. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "179",
+     "mailTitle": "Fight to the Peak Rewards",
+     "mailContent": "Dear Captain, congratulations on reaching {0} points in Fight to the Peak. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "180",
+     "mailTitle": "Peak Arena Tournament Rewards",
+     "mailContent": "Dear Captain, congratulations on placing {0} in the Peak Arena Tournament. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "181",
+     "mailTitle": "Anniversary Review Exclusive Rewards",
+     "mailContent": "Dear Captain, please check your Anniversary Review exclusive rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "182",
+     "mailTitle": "Anniversary Grand Gift Issued",
+     "mailContent": "Congratulations, Captain, on winning an Anniversary Grand Gift. Please check your event rewards~",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "183",
+     "mailTitle": "Anniversary Grand Gift Issued",
+     "mailContent": "Congratulations, Captain, on completing the login task: you get an Anniversary Grand Gift and +1 draw. Please check your event rewards~",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "184",
+     "mailTitle": "Anniversary Grand Gift Issued",
+     "mailContent": "Congratulations, Captain, on completing the share task: you get an Anniversary Grand Gift and +1 draw. Please check your event rewards~",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "185",
+     "mailTitle": "Anniversary Grand Gift Issued",
+     "mailContent": "Congratulations, Captain, on receiving the Captain Anniversary Perks. Please check your event rewards~",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "186",
+     "mailTitle": "Anniversary Grand Gift Issued",
+     "mailContent": "Congratulations, Captain, on the milestone reward. Please check your event rewards~",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "187",
+     "mailTitle": "Masters Tournament Weekly Point Rewards",
+     "mailContent": "Dear Captain, congratulations on staying active in the Masters Tournament. Please claim this week's rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "188",
+     "mailTitle": "Masters Tournament Rank Rewards",
+     "mailContent": "Dear Captain, congratulations on placing {0} in the Masters Tournament. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "189",
+     "mailTitle": "Phone Binding Gift",
+     "mailContent": "Congratulations on binding your phone number. Here is an exclusive gift. Please check it!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "191",
+     "mailTitle": "Elite Challenge Personal Rank Rewards",
+     "mailContent": "Dear Captain, congratulations on Rank {0} in the Elite Challenge. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "192",
+     "mailTitle": "Elite Challenge Guild Rank Rewards",
+     "mailContent": "Dear Captain, congratulations to your guild on Rank {0} in the Elite Challenge. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "193",
+     "mailTitle": "Guild Bounty",
+     "mailContent": "{0}: your guild {1} defeated the bounty target {2} (Lv{3}). Based on your final damage rank and the dungeon difficulty bonus, you earned {4} Raid Coins in total. Note: Raid Coins are now capped at {5} per week.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "198",
+     "mailTitle": "Masters Tournament Qualified",
+     "mailContent": "Dear Captain, congratulations on being selected for the Masters Tournament. Check it out and compete in the Ladder - Masters Tournament tab. Good luck in this Masters Tournament.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "199",
+     "mailTitle": "Masters Tournament Qualification Lost",
+     "mailContent": "Dear Captain, sorry, you didn't make the top 25 of the Ladder Peak Arena in this selection and lost your Masters Tournament qualification. Keep working hard in future seasons.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "200",
+     "mailTitle": "Masters Tournament Started",
+     "mailContent": "Dear Captain, this Masters Tournament has begun. Keep an eye on the selection info and raise your Ladder Peak Arena rank to qualify for the Masters Tournament.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "201",
+     "mailTitle": "Masters Tournament Ended",
+     "mailContent": "Dear Captain, this Masters Tournament has ended. Keep working hard to qualify for the next one.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "202",
+     "mailTitle": "Pre-Registration Rewards Issued",
+     "mailContent": "Dear Captain, please check your pre-registration event rewards. Thank you for joining, and bon voyage on the Classic Server.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "203",
+     "mailTitle": "Return Together Rewards Issued",
+     "mailContent": "Dear Captain, please check your Return Together event rewards. Thank you for joining, and bon voyage on the Classic Server.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "204",
+     "mailTitle": "Pre-Registration Milestone Rewards",
+     "mailContent": "Thank you, Captains, for supporting the Classic Server. Here are the rewards for reaching the 200k pre-registration milestone. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "205",
+     "mailTitle": "Thank-You Letter from {0}",
+     "mailContent": "{0} received the gift you sent. How generous, Captain!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "206",
+     "mailTitle": "Gift from {0}",
+     "mailContent": "Dear Captain, {0} sent you a gift. Check it out now!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "207",
+     "mailTitle": "Arena Tournament Weekly Rewards",
+     "mailContent": "Dear Captain, congratulations on reaching the {0} tier in the Arena Tournament this week. Rewards have been sent based on your tier. Note: the Novice tier doesn't get weekly settlement rewards, so keep playing, Captains.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "208",
+     "mailTitle": "Arena Tournament Overall Tier Rewards",
+     "mailContent": "Dear Captain, congratulations on reaching the {0} tier in the Arena Tournament. Rewards have been sent based on your tier. Note: the Novice tier doesn't get overall tier rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "213",
+     "mailTitle": "Peak Arena Tournament Server Rank Reward",
+     "mailContent": "Dear Captain, congratulations on fighting your way to Rank {0} on the server in the Peak Arena Tournament. The <color=#489913>Arena Overlord</color> title has been sent to you; check it in your title list.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "214",
+     "mailTitle": "Peak Arena Tournament Point Penalty",
+     "mailContent": "Dear Captain, you attacked fewer than {0} times this week, triggering a penalty of {1} points. Your final points are now {2}.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "210",
+     "mailTitle": "Duel Battlefield Rewards",
+     "mailContent": "Dear Captain, please claim your rewards from the Duel Battlefield event.",
+     "feedbackMessage": "",
+     "mailSender": ""
+    },
+    {
+     "mailId": "211",
+     "mailTitle": "7th Anniversary Web Event Rewards",
+     "mailContent": "Dear Captain, thank you for joining the 7th Anniversary web event. Please check your web event prizes.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "217",
+     "mailTitle": "Glory Streak Weekly Point Rewards",
+     "mailContent": "Dear Captain, congratulations on reaching the {0} tier in Glory Streak this week. Rewards have been sent based on your tier.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "218",
+     "mailTitle": "Glory Streak: Not Enough Activity",
+     "mailContent": "Dear Captain, you didn't play enough Glory Streak matches this week, so you can't get the weekly rewards",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "219",
+     "mailTitle": "Glory Streak Overall Tier Rewards",
+     "mailContent": "Dear Captain, congratulations on reaching the {0} tier in Glory Streak. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "220",
+     "mailTitle": "Glory Streak Overall Rank Rewards",
+     "mailContent": "Dear Captain, congratulations on ranking {0} in Glory Streak. Please claim your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "221",
+     "mailTitle": "Sea Clash Voyage Rewards Reissued",
+     "mailContent": "Dear Captain, here are the rewards you missed in Sea Clash, now reissued. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "222",
+     "mailTitle": "Sea Clash Supplies Received",
+     "mailContent": "Your friend {0} sent you Sea Supplies. Check them out now!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "224",
+     "mailTitle": "United Co-op Daily Rewards Reissued",
+     "mailContent": "Dear Captain, you didn't claim yesterday's daily match rewards. They are reissued now. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "225",
+     "mailTitle": "United Co-op Guild Weekly Rank Rewards",
+     "mailContent": "Dear Captain, your guild ranked {0} this week. Please claim your rewards",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "226",
+     "mailTitle": "United Co-op Guild Season Rank Rewards",
+     "mailContent": "Dear Captain, your guild ranked {0} this season. Please claim your rewards",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "227",
+     "mailTitle": "United Co-op Guild Goal Rewards",
+     "mailContent": "Dear Captain, your guild completed its guild goal. Please claim your rewards",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "228",
+     "mailTitle": "United Co-op Personal Weekly Rank Rewards",
+     "mailContent": "Dear Captain, congratulations on reaching the {0} tier in United Co-op this week. Rewards have been sent based on your tier.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "229",
+     "mailTitle": "United Co-op Personal Overall Rank Rewards",
+     "mailContent": "Dear Captain, congratulations on ranking {0} in United Co-op this season. Please claim your rewards",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "230",
+     "mailTitle": "Unrivaled Member Trial Rewards",
+     "mailContent": "Dear Captain, your Unrivaled Membership has reached Lv{0}, so here are your membership perk rewards. Time-limited rewards go directly to their feature lists. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "231",
+     "mailTitle": "Surprise Wheel Reward",
+     "mailContent": "Dear Captain, your Luck in the Surprise Wheel is full. Congratulations on the rewards from the Luck chest!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "232",
+     "mailTitle": "World Domination Personal Season Ranking",
+     "mailContent": "Dear Captain, you achieved {0} this season and your rewards have been sent. Any title or Chronicle rewards can be found directly in their feature lists.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "233",
+     "mailTitle": "World Domination Guild Season Ranking",
+     "mailContent": "Dear Captain, your guild achieved {0}. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "234",
+     "mailTitle": "World Domination Personal Weekly Ranking",
+     "mailContent": "Dear Captain, you achieved {0} this week and your rewards have been sent. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "235",
+     "mailTitle": "World Domination Guild Weekly Ranking",
+     "mailContent": "Dear Captain, your guild achieved {0} this week. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "236",
+     "mailTitle": "World Domination Island Battle",
+     "mailContent": "Dear Captain, your guild earned the {0} reward in the Island Battle. Please check it.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "237",
+     "mailTitle": "World Domination Weekly Sinkings Ranking Rewards",
+     "mailContent": "Dear Captain, you ranked {0} in personal ships sunk in this week's Island Battle. Here are your rewards. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "238",
+     "mailTitle": "World Domination Season Sinkings Ranking Rewards",
+     "mailContent": "Dear Captain, you ranked {0} in personal ships sunk in this season's Island Battle. Here are your rewards. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "239",
+     "mailTitle": "A Pile of Piggy Bank Shards",
+     "mailContent": "Dear Captain, thanks to your good saving habits and superhuman self-discipline, you've earned a generous reward. Also, please don't smash piggy banks in the street next time. Thank you for your cooperation.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "240",
+     "mailTitle": "Voyage Feast Power Ranking",
+     "mailContent": "Dear Captain, you ranked {0} on the Power Ranking. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "241",
+     "mailTitle": "Voyage Feast Guild Ranking",
+     "mailContent": "Dear Captain, your guild ranked {0}. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "242",
+     "mailTitle": "Voyage Feast Leader Rewards",
+     "mailContent": "Dear Captain, your guild ranked {0}. Here are your leader rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "243",
+     "mailTitle": "Voyage Feast Ladder Ranking",
+     "mailContent": "Dear Captain, you ranked {0} on the Ladder Ranking. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "244",
+     "mailTitle": "World Domination Island Battle Sinkings Rewards",
+     "mailContent": "Dear Captain, you ranked {0} in ships sunk in this Island Battle. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "251",
+     "mailTitle": "New Abyss Challenge Rewards",
+     "mailContent": "No promotion in week 1. Here are your rewards. Your guild is currently in Tier A.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "252",
+     "mailTitle": "New Abyss Challenge Rewards",
+     "mailContent": "Promoted in week 1. Here are your rewards. Your guild is now in Tier S. This week your guild will face tougher enemies",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "253",
+     "mailTitle": "New Abyss Challenge Rewards",
+     "mailContent": "No promotion in week 2. Your guild took Rank {0}. Here are your rewards. Your guild keeps its current tier",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "254",
+     "mailTitle": "New Abyss Challenge Rewards",
+     "mailContent": "Promoted in week 2. Your guild took Rank {0}. Here are your rewards. Your guild moves up a tier and will face tougher enemies this week.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "255",
+     "mailTitle": "New Abyss Challenge Rewards",
+     "mailContent": "Week 3: your guild took Rank {0} in its tier. Here are your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "249",
+     "mailTitle": "Fleet Trial Rank Rewards",
+     "mailContent": "Dear Captain, your fleet took Rank {0} in this Fleet Trial. Here are your rewards. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "250",
+     "mailTitle": "Grand Fleet Rank Rewards",
+     "mailContent": "Dear Captain, your fleet took Rank {0} in this Grand Fleet event. Here are your rewards. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "256",
+     "mailTitle": "Brawl Rank Rewards",
+     "mailContent": "Dear Captain, you took Rank {0} in this Brawl. Here are your rewards. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "260",
+     "mailTitle": "Summer Battle Pass Rewards",
+     "mailContent": "Dear Captain, you forgot to claim your battle pass rewards!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "261",
+     "mailTitle": "Premium Member Binding",
+     "mailContent": "Dear Captain, your character is being bound to a web event. For security, don't share the code with any other player. Your verification code: {0}",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "262",
+     "mailTitle": "Yunchang Payment Center Login Notice",
+     "mailContent": "Dear Captain, you are logging in to the Yunchang Game Payment Center. Your second verification code is [{0}]. For your account's safety, don't share it with anyone. If this wasn't you, check recent unusual logins or account sharing",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "263",
+     "mailTitle": "Premium Member Binding",
+     "mailContent": "Dear Captain, your character is being bound to a web event. For security, don't share the code with any other player. Your verification code: {0}",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "264",
+     "mailTitle": "Premium Member Binding",
+     "mailContent": "Dear Captain, your character is being bound to a web event. For security, don't share the code with any other player. Your verification code: {0}",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "265",
+     "mailTitle": "Premium Member Binding",
+     "mailContent": "Dear Captain, your character is being bound to a web event. For security, don't share the code with any other player. Your verification code: {0}",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "266",
+     "mailTitle": "Burning Will Mini Program Rewards",
+     "mailContent": "Dear Captain, here are the event rewards you earned in the mini program. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "267",
+     "mailTitle": "Burning Will Mini Program Rewards",
+     "mailContent": "Dear Captain, here are the event rewards you earned in the mini program. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "268",
+     "mailTitle": "Burning Will Mini Program Rewards",
+     "mailContent": "Dear Captain, here are the event rewards you earned in the mini program. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "274",
+     "mailTitle": "Voyage Feast Gallery Ranking",
+     "mailContent": "Dear Captain, you ranked {0} on the Gallery Ranking. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "269",
+     "mailTitle": "Set Sail Wheel Reward",
+     "mailContent": "Dear Captain, your Luck in the Set Sail Wheel is full. Congratulations on the rewards from the Luck chest!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "275",
+     "mailTitle": "Server Challenge",
+     "mailContent": "Dear Captain, you ranked {0} in the Elite Bounty standing challenge. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "276",
+     "mailTitle": "Server Challenge",
+     "mailContent": "Dear Captain, you ranked {0} in the Elite Bounty daily challenge. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "277",
+     "mailTitle": "Server Challenge",
+     "mailContent": "Dear Captain, you ranked {0} at the small strongholds in Stronghold Clash. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "278",
+     "mailTitle": "Server Challenge",
+     "mailContent": "Dear Captain, you ranked {0} at the large strongholds in Stronghold Clash. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "279",
+     "mailTitle": "Server Challenge",
+     "mailContent": "Dear Captain, you ranked {0} in the Final Showdown. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "280",
+     "mailTitle": "Server Challenge",
+     "mailContent": "Dear Captain, your guild ranked {0} in the Final Showdown. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "281",
+     "mailTitle": "Fervent Duel Guild War Notice",
+     "mailContent": "Your guild declared war on the {0} guild in Fervent Duel. Follow your leader's plans and join the duel",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "282",
+     "mailTitle": "Fervent Duel Guild War Notice",
+     "mailContent": "The {0} guild declared war on your guild in Fervent Duel. Follow your leader's plans and join the duel",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "283",
+     "mailTitle": "Server Challenge",
+     "mailContent": "Dear Captain, your guild ranked {0} in the Trial of the Gods. Here are your rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "284",
+     "mailTitle": "Fervent Duel Guild Rewards",
+     "mailContent": "Your guild won this round of Fervent Duel. Here are your rewards. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "285",
+     "mailTitle": "Fervent Duel Guild Rewards",
+     "mailContent": "Your guild narrowly lost this round of Fervent Duel. Here are your rewards. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "286",
+     "mailTitle": "Fervent Duel Guild Rewards",
+     "mailContent": "Your guild was evenly matched in Fervent Duel and the round ended in a draw. Here are your rewards. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "mailId": "95",
+     "mailTitle": "Guild Sea Battle Rewards",
+     "mailContent": "Congratulations on your guild's Sea Battle victory. Claim your rewards from this mail! The winning guild also gets spoils, which go up for auction in the Guild Store today at 24:00. Stay tuned.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "96",
+     "mailTitle": "Guild Sea Battle Rewards",
+     "mailContent": "Congratulations on your guild's Sea Battle victory. Since you were on auto-play during the Sea Battle, the reward is reduced. Claim your rewards from this mail! The winning guild also gets spoils, which go up for auction in the Guild Store today at 24:00. Stay tuned.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "97",
+     "mailTitle": "Version Update Rewards",
+     "mailContent": "Dear Captain: thank you for updating to the latest game package. Here are your update rewards. Please check them.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "137",
+     "mailTitle": "Ladder Balanced Match Weekly Point Rewards",
+     "mailContent": "You performed well in this season's Ladder Balanced Match. Your Balanced Match points: {0}. Here are your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "Ladder Manager"
+    },
+    {
+     "mailId": "138",
+     "mailTitle": "Ladder Unrestricted Match Weekly Point Rewards",
+     "mailContent": "You performed well in this season's Ladder Unrestricted Match. Your Unrestricted Match points: {0}. Here are your rewards.",
+     "feedbackMessage": "",
+     "mailSender": "Ladder Manager"
+    },
+    {
+     "mailId": "139",
+     "mailTitle": "Ladder Balanced Match Season Rank Rewards",
+     "mailContent": "You performed well in the Ladder Balanced Match. Here are your rewards based on your rank.",
+     "feedbackMessage": "",
+     "mailSender": "Ladder Manager"
+    },
+    {
+     "mailId": "140",
+     "mailTitle": "Ladder Unrestricted Match Season Rank Rewards",
+     "mailContent": "You performed well in the Ladder Unrestricted Match. Here are your rewards based on your rank. The title has been added to your title list.",
+     "feedbackMessage": "",
+     "mailSender": "Ladder Manager"
+    },
+    {
+     "mailId": "179",
+     "mailTitle": "Fight to the Peak Rewards",
+     "mailContent": "Dear Captain, please claim your rewards from the Fight to the Peak event.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "181",
+     "mailTitle": "Third-Party Forwarding Test Mail",
+     "mailContent": "Third-Party Forwarding Test Mail",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "191",
+     "mailTitle": "Elite Challenge Personal Rank Rewards",
+     "mailContent": "Dear Captain, congratulations on Rank {0} in the Elite Challenge. Please claim your rewards. Note: Honor Coins are capped at 100000.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "192",
+     "mailTitle": "Elite Challenge Guild Rank Rewards",
+     "mailContent": "Dear Captain, congratulations to your guild on Rank {0} in the Elite Challenge. Please claim your rewards. Note: Honor Coins are capped at 100000.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "203",
+     "mailTitle": "7th Anniversary Web Event Rewards",
+     "mailContent": "Dear Captain, thank you for joining the 7th Anniversary web event. Please check your web event prizes.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "209",
+     "mailTitle": "Guild Rally Rewards Issued",
+     "mailContent": "Dear Captain, please check your Guild Rally event rewards. Thank you for joining, and keep improving on the Classic Server.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "211",
+     "mailTitle": "New Guild Sea Battle Rewards",
+     "mailContent": "Dear Captain, your guild achieved {0}. Here are your rewards. Note: the New Guild Sea Battle currency is capped at 100000.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "212",
+     "mailTitle": "New Guild Sea Battle Honor Rewards",
+     "mailContent": "Dear Captain, you achieved {0} this season and your rewards have been sent. Any title rewards can be found directly in your title list.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "215",
+     "mailTitle": "Island Trial {0} Dungeon Rewards",
+     "mailContent": "Dear Captain, you finished Rank {1} in the Island Trial {0} dungeon. A title reward has been sent to you; check it in your title list.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "216",
+     "mailTitle": "Summer Perks Giveaway",
+     "mailContent": "Dear Captain, the new version is live. Explore and adventure with New World Luffy.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "221",
+     "mailTitle": "Sea Conflict Voyage Rewards Reissued",
+     "mailContent": "Dear Captain, here are the rewards you missed in Sea Conflict, now reissued. Please check them",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "222",
+     "mailTitle": "Sea Conflict Supplies Received",
+     "mailContent": "Your friend {0} sent you Sea Supplies. Check them out now!",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "223",
+     "mailTitle": "Half-Anniversary Grand Celebration Rewards",
+     "mailContent": "Dear Captain, please check your rewards from the Half-Anniversary Grand Celebration. Thank you for joining, and may luck always be with you.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "252",
+     "mailTitle": "New Abyss Challenge Rewards",
+     "mailContent": "Promoted in week 1. Here are your rewards. Your guild is now in Tier S. This week your guild will face stronger enemies.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    },
+    {
+     "mailId": "254",
+     "mailTitle": "New Abyss Challenge Rewards",
+     "mailContent": "Promoted in week 2. Your guild took Rank {0}. Here are your rewards. Your guild moves up a tier and will face stronger enemies this week.",
+     "feedbackMessage": "",
+     "mailSender": "System"
+    }
+   ]
+  },
+  "TableNewbieGuideGrowGuideAndConsumerFeedback": {
+   "key_column": "id",
+   "text_columns": [
+    "description"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "description": "Clear Chapter 3"
+    },
+    {
+     "id": "2",
+     "description": "Complete 5 Bounty Quests"
+    },
+    {
+     "id": "3",
+     "description": "Complete 5 Event Dungeons"
+    },
+    {
+     "id": "4",
+     "description": "Achieve 1 Lv1 Perfect Training"
+    },
+    {
+     "id": "5",
+     "description": "Achieve 1 Lv2 Perfect Training"
+    },
+    {
+     "id": "6",
+     "description": "Reach Floor 5 in the Voyage Tower"
+    },
+    {
+     "id": "7",
+     "description": "Reach Floor 10 in the Voyage Tower"
+    },
+    {
+     "id": "8",
+     "description": "Get 10 skills to Lv5 across all characters"
+    },
+    {
+     "id": "9",
+     "description": "Reach 2500 Gallery achievement points"
+    },
+    {
+     "id": "10",
+     "description": "Complete 3 Character Stories"
+    },
+    {
+     "id": "11",
+     "description": "Complete 5 Daily Quests"
+    },
+    {
+     "id": "12",
+     "description": "Clear Chapter 10"
+    },
+    {
+     "id": "13",
+     "description": "Complete 10 Daily Quests"
+    },
+    {
+     "id": "14",
+     "description": "Reach 3500 Gallery achievement points"
+    },
+    {
+     "id": "15",
+     "description": "Complete 3 Expeditions"
+    },
+    {
+     "id": "16",
+     "description": "Reach Floor 5 in Blood Battle"
+    },
+    {
+     "id": "17",
+     "description": "Reach Floor 15 in the Voyage Tower"
+    },
+    {
+     "id": "18",
+     "description": "Reach Floor 20 in the Voyage Tower"
+    },
+    {
+     "id": "19",
+     "description": "Complete 5 Arena battles"
+    },
+    {
+     "id": "20",
+     "description": "Clear Chapter 15"
+    },
+    {
+     "id": "21",
+     "description": "Complete 25 Event Dungeons"
+    },
+    {
+     "id": "22",
+     "description": "Own 1 6-star SSR character"
+    },
+    {
+     "id": "23",
+     "description": "Get 1 character to Breakthrough Lv1"
+    },
+    {
+     "id": "24",
+     "description": "Achieve 5 Lv2 Perfect Training"
+    },
+    {
+     "id": "25",
+     "description": "Achieve 1 Lv3 Perfect Training"
+    },
+    {
+     "id": "26",
+     "description": "Achieve 2 Lv3 Perfect Training"
+    },
+    {
+     "id": "27",
+     "description": "Achieve 3 Lv3 Perfect Training"
+    },
+    {
+     "id": "28",
+     "description": "Get 30 skills to Lv10 across all characters"
+    },
+    {
+     "id": "29",
+     "description": "Reach 6000 Gallery achievement points"
+    },
+    {
+     "id": "30",
+     "description": "Play 1 Ladder Peak Arena match"
+    },
+    {
+     "id": "31",
+     "description": "Play 3 Ladder Peak Arena matches"
+    },
+    {
+     "id": "32",
+     "description": "Reach Floor 15 in Blood Battle"
+    },
+    {
+     "id": "33",
+     "description": "Reach Floor 30 in the Voyage Tower"
+    },
+    {
+     "id": "34",
+     "description": "Reach Floor 35 in the Voyage Tower"
+    },
+    {
+     "id": "35",
+     "description": "Clear Chapter 20"
+    },
+    {
+     "id": "36",
+     "description": "Complete 15 Expeditions"
+    },
+    {
+     "id": "37",
+     "description": "Complete 25 Daily Quests"
+    },
+    {
+     "id": "38",
+     "description": "Complete 15 Bounty Quests"
+    },
+    {
+     "id": "39",
+     "description": "Complete 30 Character Stories"
+    },
+    {
+     "id": "40",
+     "description": "Perform 1 Soul Infusion"
+    },
+    {
+     "id": "41",
+     "description": "Complete 1 Story Replay on any difficulty"
+    },
+    {
+     "id": "42",
+     "description": "Complete 10 Story Replays on any difficulty"
+    },
+    {
+     "id": "43",
+     "description": "Reach Floor 40 in the Voyage Tower"
+    },
+    {
+     "id": "44",
+     "description": "Get 1 Lv2 Gem"
+    },
+    {
+     "id": "45",
+     "description": "Get 1 Lv4 Gem"
+    },
+    {
+     "id": "46",
+     "description": "Refine 1 equipment piece to Lv5"
+    },
+    {
+     "id": "47",
+     "description": "Refine 8 equipment pieces to Lv5"
+    },
+    {
+     "id": "48",
+     "description": "Refine 1 equipment piece to Lv6"
+    },
+    {
+     "id": "49",
+     "description": "Refine 4 equipment pieces to Lv6"
+    },
+    {
+     "id": "50",
+     "description": "Clear Chapter 25"
+    },
+    {
+     "id": "51",
+     "description": "Clear Chapter 30"
+    },
+    {
+     "id": "52",
+     "description": "Complete 1 Ultimate Challenge"
+    },
+    {
+     "id": "53",
+     "description": "Complete 3 Ultimate Challenges"
+    },
+    {
+     "id": "54",
+     "description": "Complete 5 Ultimate Challenges"
+    },
+    {
+     "id": "55",
+     "description": "Reach Floor 45 in the Voyage Tower"
+    },
+    {
+     "id": "56",
+     "description": "Reach Floor 50 in the Voyage Tower"
+    },
+    {
+     "id": "57",
+     "description": "Reach Floor 60 in the Voyage Tower"
+    },
+    {
+     "id": "58",
+     "description": "Achieve 1 Lv5 Perfect Training"
+    },
+    {
+     "id": "59",
+     "description": "Achieve 1 Lv6 Perfect Training"
+    },
+    {
+     "id": "60",
+     "description": "Achieve 3 Lv6 Perfect Training"
+    },
+    {
+     "id": "61",
+     "description": "Win 3 Ladder Peak Arena matches"
+    },
+    {
+     "id": "62",
+     "description": "Win 5 Ladder Peak Arena matches"
+    },
+    {
+     "id": "63",
+     "description": "Reach Floor 40 in Blood Battle"
+    },
+    {
+     "id": "64",
+     "description": "Reach Floor 50 in Blood Battle"
+    },
+    {
+     "id": "65",
+     "description": "Clear Chapter 33"
+    },
+    {
+     "id": "66",
+     "description": "Clear Chapter 35"
+    },
+    {
+     "id": "67",
+     "description": "Achieve 1 Lv7 Perfect Training"
+    },
+    {
+     "id": "68",
+     "description": "Complete 100 Daily Quests"
+    },
+    {
+     "id": "69",
+     "description": "Complete 40 Bounty Quests"
+    },
+    {
+     "id": "70",
+     "description": "Refine 4 equipment pieces to Lv15"
+    },
+    {
+     "id": "71",
+     "description": "Reach Floor 80 in the Voyage Tower"
+    },
+    {
+     "id": "72",
+     "description": "Reach Floor 70 in Blood Battle"
+    },
+    {
+     "id": "73",
+     "description": "Complete 40 Expeditions"
+    },
+    {
+     "id": "74",
+     "description": "Perform 30 Soul Infusions"
+    },
+    {
+     "id": "75",
+     "description": "Win 10 Ladder matches"
+    },
+    {
+     "id": "76",
+     "description": "Complete 10 Ultimate Challenges"
+    },
+    {
+     "id": "77",
+     "description": "Own 1 8-star SSR character"
+    },
+    {
+     "id": "78",
+     "description": "Own 2 8-star SSR characters"
+    },
+    {
+     "id": "79",
+     "description": "Get 3 characters to Breakthrough Lv3"
+    },
+    {
+     "id": "80",
+     "description": "Recharge a total of 10 CNY"
+    },
+    {
+     "id": "81",
+     "description": "Recharge a total of 50 CNY"
+    },
+    {
+     "id": "82",
+     "description": "Recharge a total of 100 CNY"
+    },
+    {
+     "id": "83",
+     "description": "Recharge a total of 150 CNY"
+    },
+    {
+     "id": "84",
+     "description": "Recharge a total of 200 CNY"
+    },
+    {
+     "id": "85",
+     "description": "Recharge a total of 300 CNY"
+    },
+    {
+     "id": "86",
+     "description": "Recharge a total of 500 CNY"
+    },
+    {
+     "id": "87",
+     "description": "Recharge a total of 750 CNY"
+    },
+    {
+     "id": "88",
+     "description": "Recharge a total of 1000 CNY"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "22",
+     "description": "Own 1 6-star character (SR or SSR)"
+    },
+    {
+     "id": "77",
+     "description": "Own 1 8-star character"
+    },
+    {
+     "id": "78",
+     "description": "Own 2 8-star characters"
+    }
+   ]
+  },
+  "TableText": {
+   "key_column": "id",
+   "text_columns": [
+    "text"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "lifeSystem",
+     "text": "Life System"
+    },
+    {
+     "id": "warehouse11",
+     "text": "Warehouse 1"
+    },
+    {
+     "id": "warehouse12",
+     "text": "Warehouse 2"
+    },
+    {
+     "id": "warehouse13",
+     "text": "Warehouse 3"
+    },
+    {
+     "id": "warehouse14",
+     "text": "Warehouse 4"
+    },
+    {
+     "id": "warehouse15",
+     "text": "Warehouse 5"
+    },
+    {
+     "id": "warehouse16",
+     "text": "Warehouse 6"
+    },
+    {
+     "id": "WarehouseNotOpen",
+     "text": "Warehouse not unlocked"
+    },
+    {
+     "id": "warehouseCellOpen",
+     "text": "Reach VIP{0} to unlock this row of slots"
+    },
+    {
+     "id": "recycleStand",
+     "text": "Recycle Bin"
+    },
+    {
+     "id": "recycleDesc1",
+     "text": "Items in the Recycle Bin are cleared when you log out"
+    },
+    {
+     "id": "recycleDesc2",
+     "text": "Tap to select items to recycle; long-press to view details"
+    },
+    {
+     "id": "Can_ont_Sell",
+     "text": "{0} can't be recycled"
+    },
+    {
+     "id": "highRecycleCaution",
+     "text": "{0} is a high-tier item. Recycle it?"
+    },
+    {
+     "id": "recycleTitle",
+     "text": "Recycle Notice"
+    },
+    {
+     "id": "recycleCoinGet",
+     "text": "Obtained {0}"
+    },
+    {
+     "id": "storageBuyTitle",
+     "text": "Buy Warehouse"
+    },
+    {
+     "id": "recycleGetOutTitle",
+     "text": "Take Out"
+    },
+    {
+     "id": "recycleGetOutContent",
+     "text": "Taking out {0} costs {1}"
+    },
+    {
+     "id": "itemCantMoveWarehourse",
+     "text": "{0} can't be moved to the warehouse"
+    },
+    {
+     "id": "storageSortCDTips",
+     "text": "Sorting the bag too often. Please try again later"
+    },
+    {
+     "id": "itemMoveToRecycle",
+     "text": "{0} moved to the Recycle Bin"
+    },
+    {
+     "id": "recycleGet",
+     "text": "Recycled for {0}"
+    },
+    {
+     "id": "Mount",
+     "text": "Socketing"
+    },
+    {
+     "id": "EquipRefining",
+     "text": "Equipment Refine"
+    },
+    {
+     "id": "EquipPunch",
+     "text": "Socketing"
+    },
+    {
+     "id": "info_team",
+     "text": "Squad"
+    },
+    {
+     "id": "ChannelChat_System",
+     "text": "System"
+    },
+    {
+     "id": "PlayerDealclass_004",
+     "text": "Characters"
+    },
+    {
+     "id": "Copy_Just",
+     "text": "Secret Book Day"
+    },
+    {
+     "id": "Copy_Training",
+     "text": "Training Day"
+    },
+    {
+     "id": "Copy_Breakthrough",
+     "text": "Breakthrough Day"
+    },
+    {
+     "id": "Copy_Gold",
+     "text": "Golden Trial"
+    },
+    {
+     "id": "SceneType1",
+     "text": "Field"
+    },
+    {
+     "id": "SceneProp5",
+     "text": "Field Area"
+    },
+    {
+     "id": "Remain_Days",
+     "text": "/30 days"
+    },
+    {
+     "id": "Lock_Formation",
+     "text": "Unlock Formations"
+    },
+    {
+     "id": "Revocation_VicePresident",
+     "text": "Vice Leader Removed"
+    },
+    {
+     "id": "Gem_Combine",
+     "text": "Gem Synthesis"
+    },
+    {
+     "id": "UnionTransferPresident",
+     "text": "Transfer Leadership"
+    },
+    {
+     "id": "KickedOutOfUnion",
+     "text": "Removed from Guild"
+    },
+    {
+     "id": "Synthetise_Title",
+     "text": "Synthesis"
+    },
+    {
+     "id": "Bloody_Fight",
+     "text": "Blood Battle"
+    },
+    {
+     "id": "BF_Raid4",
+     "text": "Thriller Bark Pirates"
+    },
+    {
+     "id": "mallpage_1001",
+     "text": "Rainbow Diamond Shop"
+    },
+    {
+     "id": "action_name_001",
+     "text": "Repairing"
+    },
+    {
+     "id": "UnionSkillLevelUp",
+     "text": "Skill Level Up"
+    },
+    {
+     "id": "Discount",
+     "text": "{0}/10 Price"
+    },
+    {
+     "id": "signUpUF",
+     "text": "Sea Battle Registration"
+    },
+    {
+     "id": "shipFactory",
+     "text": "Shipyard"
+    },
+    {
+     "id": "Limited",
+     "text": "Limited Recruit"
+    },
+    {
+     "id": "Automatic_renewal_instruction",
+     "text": "Auto-Renewal Info"
+    },
+    {
+     "id": "NoneAutomatic_renewal",
+     "text": "Not Auto-Renewed"
+    },
+    {
+     "id": "ios_autorenew_desc_pay",
+     "text": "Payment: auto-renewing products include the \"Trade Pass\". Once you confirm the purchase, your Apple iTunes account is charged;"
+    },
+    {
+     "id": "ios_autorenew_desc_renew",
+     "text": "Renewal: 24 hours before the \"Trade Pass\" expires, Apple automatically charges your iTunes account, and it is extended by one period once charged;"
+    },
+    {
+     "id": "ios_autorenew_desc_cancel",
+     "text": "Cancel: to cancel auto-renewal, turn it off in \"iOS - Account Settings\" at least 24 hours before expiry. You won't be charged afterward;"
+    },
+    {
+     "id": "ios_monthcard_subscribe_button_pre",
+     "text": "Subscribe"
+    },
+    {
+     "id": "Normal_Activity_ThkDayTitle",
+     "text": "Thanksgiving Celebration"
+    },
+    {
+     "id": "Normal_Activity_ShopingTitle",
+     "text": "Shopping Festival"
+    },
+    {
+     "id": "moduleName_06",
+     "text": "Labyrinth"
+    },
+    {
+     "id": "moduleName_07",
+     "text": "Mysterious Waters"
+    },
+    {
+     "id": "HomeLandTaskTitle",
+     "text": "Home Quests"
+    },
+    {
+     "id": "homePlunderTitle",
+     "text": "Raid"
+    },
+    {
+     "id": "RefineRecoinTabTitle",
+     "text": "Reforge"
+    },
+    {
+     "id": "ExpGetWay_CrawlTower",
+     "text": "Voyage Tower"
+    },
+    {
+     "id": "RecommendGrowUpSkill_OLD",
+     "text": "Raise skill level"
+    },
+    {
+     "id": "awakeLevelUpBtn",
+     "text": "Level Up"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "ClassicLimited_title",
+     "text": "Limited Recruit"
+    }
+   ],
+   "partial": "68/5841 rows translated so far"
+  },
+  "TableTextModule": {
+   "key_column": "id",
+   "text_columns": [
+    "text"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "achv_desc_009",
+     "text": "Any character in your lineup reaches Affinity Level 2"
+    },
+    {
+     "id": "achv_desc_010",
+     "text": "Any character in your lineup reaches Affinity Level 3"
+    },
+    {
+     "id": "achv_desc_011",
+     "text": "Any character in your lineup reaches Affinity Level 5"
+    },
+    {
+     "id": "achv_desc_012",
+     "text": "Any character in your lineup reaches Breakthrough Level 1"
+    },
+    {
+     "id": "achv_desc_013",
+     "text": "Any character in your lineup reaches Breakthrough Level 2"
+    },
+    {
+     "id": "achv_desc_014",
+     "text": "Any character in your lineup reaches 4 stars"
+    },
+    {
+     "id": "achv_desc_015",
+     "text": "Any character in your lineup reaches 5 stars"
+    },
+    {
+     "id": "achv_desc_016",
+     "text": "Any character in your lineup reaches 6 stars"
+    },
+    {
+     "id": "achv_desc_017",
+     "text": "Any character in your lineup reaches 7 stars"
+    },
+    {
+     "id": "achv_desc_018",
+     "text": "Any character in your lineup reaches 8 stars"
+    },
+    {
+     "id": "activity_welfare_1",
+     "text": "Login Gifts"
+    },
+    {
+     "id": "collecting_txt4",
+     "text": "Spend {0} Blue Diamonds to buy {1} Vigor? ({2} purchases left)"
+    },
+    {
+     "id": "countdown_12",
+     "text": "Gathering"
+    },
+    {
+     "id": "countdown_2",
+     "text": "Gathering"
+    },
+    {
+     "id": "countdown_3",
+     "text": "Gathering"
+    },
+    {
+     "id": "daily_desc_22",
+     "text": "Timed Arena"
+    },
+    {
+     "id": "daily_desc_24",
+     "text": "Timed Challenge"
+    },
+    {
+     "id": "daily_playingdesc_01",
+     "text": "Story Replay is open all day. After clearing each chapter, you can challenge its story dungeons in Story Replay. Story dungeons drop equipment, with a chance of Hero gear. Each dungeon challenge uses one attempt. Story Replay is the best way to get more equipment, plus other item rewards."
+    },
+    {
+     "id": "daily_playingdesc_02",
+     "text": "Each new crewmate you get unlocks their Character Story. Play through each character's story to earn lots of Diamond rewards. Character Stories are open all day, with 20 free attempts per day."
+    },
+    {
+     "id": "daily_playingdesc_03",
+     "text": "In the Arena you can challenge players ranked above you to earn Reputation in the pirate world. The higher your rank, the more Reputation you earn and the more attention you get. Save up enough Reputation to exchange it for character shards and other items."
+    },
+    {
+     "id": "daily_playingdesc_04",
+     "text": "The most direct way to get materials. Event Dungeons give lots of Secret Books, Breakthrough Materials, Gold Bars, EXP Scrolls and other growth materials. The Secret Book and Breakthrough dungeons can be challenged free three times a day. The Gold Bar and EXP dungeons are opened with keys; get as many rewards as you can within 30 minutes."
+    },
+    {
+     "id": "daily_playingdesc_08",
+     "text": "Every day from 10;00 to 22:00, challenge opponents of your level in the Ladder, show your strength, earn Honor and win the highest glory in the pirate world. Exchange Honor for the rare Crocodile and other rare items."
+    },
+    {
+     "id": "daily_playingdesc_09",
+     "text": "In the field you can fight pirates and pirate bosses, complete daily quests and interact with other players, while earning plenty of Team EXP, character EXP and Gold Bars. A must-visit for every player."
+    },
+    {
+     "id": "daily_playingdesc_10",
+     "text": "Every day you can send your crew to target areas on missions; each mission brings you generous rewards. The higher your Expedition level, the more Expedition rewards you get."
+    },
+    {
+     "id": "daily_playingdesc_13",
+     "text": "<color=#00000000>____</color>You can complete up to two rounds of Daily Quests per day. Each round has five sub-quests; finishing a full round grants an extra round reward."
+    },
+    {
+     "id": "daily_playingdesc_14",
+     "text": "<color=#00000000>____</color>Many vicious villains roam the Grand Line. Bounty hunts are very hard, so be fully prepared."
+    },
+    {
+     "id": "daily_playingdesc_15",
+     "text": "*Secret Book Day is open every day and shares 10 attempts with Training Day and Breakthrough Day.\\n*Higher-level stages give higher quality rewards."
+    },
+    {
+     "id": "daily_playingdesc_16",
+     "text": "*Secret Book Day is open every day and shares 10 attempts with Training Day and Breakthrough Day.\\n*Higher-level stages give higher quality rewards."
+    },
+    {
+     "id": "daily_playingdesc_17",
+     "text": "*The Golden Trial has no attempt limit, but you need a Golden Key to open it. Challenge the unlocked stages within the time limit; clearing one unlocks the next.\\n*Higher stages give more Gold Bars."
+    },
+    {
+     "id": "daily_playingdesc_18",
+     "text": "*The Hero Trial has no attempt limit, but you need a Hero Key to open it. Challenge the unlocked stages within the time limit; clearing one unlocks the next.\\n*Higher stages give higher quality EXP Scrolls."
+    },
+    {
+     "id": "daily_title_1",
+     "text": "Story Replay"
+    },
+    {
+     "id": "daily_title_10",
+     "text": "Expeditions"
+    },
+    {
+     "id": "daily_title_11",
+     "text": "Mysterious Waters"
+    },
+    {
+     "id": "daily_title_12",
+     "text": "Labyrinth"
+    },
+    {
+     "id": "daily_title_14",
+     "text": "Bounty Quest"
+    },
+    {
+     "id": "daily_title_16",
+     "text": "Hero Trial"
+    },
+    {
+     "id": "daily_title_18",
+     "text": "Bounty"
+    },
+    {
+     "id": "daily_title_19",
+     "text": "Island Conquest"
+    },
+    {
+     "id": "daily_title_20",
+     "text": "Secret Realm Trial"
+    },
+    {
+     "id": "daily_title_22",
+     "text": "Great Voyage"
+    },
+    {
+     "id": "daily_title_23",
+     "text": "Conquest Tournament"
+    },
+    {
+     "id": "daily_title_24",
+     "text": "Ultimate Challenge"
+    },
+    {
+     "id": "daily_title_2",
+     "text": "Character Stories"
+    },
+    {
+     "id": "daily_title_3",
+     "text": "Arena"
+    },
+    {
+     "id": "daily_title_5",
+     "text": "Blood Battle"
+    },
+    {
+     "id": "daily_title_6",
+     "text": "World Boss"
+    },
+    {
+     "id": "daily_title_7",
+     "text": "Bounty Boss"
+    },
+    {
+     "id": "daily_title_8",
+     "text": "Ladder"
+    },
+    {
+     "id": "daily_title_9",
+     "text": "Field Area"
+    },
+    {
+     "id": "Demo0528_Name_0003",
+     "text": "Treasure-Hunting Pirate"
+    },
+    {
+     "id": "EquipRefineFailBuffCard_01",
+     "text": "This Refine costs {0}% fewer Gold Bars"
+    },
+    {
+     "id": "EquipRefineFailBuffCard_02",
+     "text": "This Refine uses Refining Stones {0} quality lower"
+    },
+    {
+     "id": "EquipRefineFailBuffCard_03",
+     "text": "This Refine costs {0} fewer Hero Stones"
+    },
+    {
+     "id": "EquipRefineFailBuffCard_04",
+     "text": "This Refine costs no resources"
+    },
+    {
+     "id": "EquipRefineFailBuffCard_05",
+     "text": "This Refine gets +{0}% success rate"
+    },
+    {
+     "id": "EquipRefineFailBuffCard_06",
+     "text": "Rollback rate -{0}%"
+    },
+    {
+     "id": "EquipRefineFailBuffCard_07",
+     "text": "Next {0} Refines get +{1}% success rate"
+    },
+    {
+     "id": "EquipRefineFailBuffCard_08",
+     "text": "Next {0} Refines below Lv{1} succeed {1}%"
+    },
+    {
+     "id": "EquipRefineFailBuffCard_09",
+     "text": "+{0}% success rate, but Gold Bar cost +{1}%"
+    },
+    {
+     "id": "EquipRefineFailBuffCard_10",
+     "text": "Refine failure compensation progress +{0} extra"
+    },
+    {
+     "id": "EquipRefineFailBuffCard_11",
+     "text": "Failed Refines cost nothing"
+    },
+    {
+     "id": "Esoteric_0",
+     "text": "All Types"
+    },
+    {
+     "id": "GemType_1",
+     "text": "ATK Gem"
+    },
+    {
+     "id": "GemType_10",
+     "text": "Rage Gem"
+    },
+    {
+     "id": "GemType_101",
+     "text": "Fortitude Gem"
+    },
+    {
+     "id": "GemType_102",
+     "text": "Agility Gem"
+    },
+    {
+     "id": "GemType_103",
+     "text": "Vengeance Gem"
+    },
+    {
+     "id": "GemType_104",
+     "text": "Radiance Gem"
+    },
+    {
+     "id": "GemType_105",
+     "text": "Fate Gem"
+    },
+    {
+     "id": "GemType_106",
+     "text": "Freedom Gem"
+    },
+    {
+     "id": "GemType_22",
+     "text": "Elemental DMG Gem"
+    },
+    {
+     "id": "GemType_23",
+     "text": "Resistance Gem"
+    },
+    {
+     "id": "GemType_24",
+     "text": "Crit DMG RES Gem"
+    },
+    {
+     "id": "GemType_11",
+     "text": "Recovery Gem"
+    },
+    {
+     "id": "GemType_12",
+     "text": "Round Recovery Gem"
+    },
+    {
+     "id": "GemType_13",
+     "text": "Kill Heal Gem"
+    },
+    {
+     "id": "GemType_14",
+     "text": "Kill Rage Gem"
+    },
+    {
+     "id": "GemType_15",
+     "text": "Justice Gem"
+    },
+    {
+     "id": "GemType_16",
+     "text": "Chaos Gem"
+    },
+    {
+     "id": "GemType_17",
+     "text": "Endurance Gem"
+    },
+    {
+     "id": "GemType_18",
+     "text": "Block Gem"
+    },
+    {
+     "id": "GemType_19",
+     "text": "Block Break Gem"
+    },
+    {
+     "id": "GemType_2",
+     "text": "DEF Gem"
+    },
+    {
+     "id": "GemType_20",
+     "text": "Lifesteal Gem"
+    },
+    {
+     "id": "GemType_21",
+     "text": "Penetration Gem"
+    },
+    {
+     "id": "GemType_3",
+     "text": "HP Gem"
+    },
+    {
+     "id": "GemType_4",
+     "text": "Speed Gem"
+    },
+    {
+     "id": "GemType_5",
+     "text": "Accuracy Gem"
+    },
+    {
+     "id": "GemType_6",
+     "text": "Evasion Gem"
+    },
+    {
+     "id": "GemType_7",
+     "text": "Crit Gem"
+    },
+    {
+     "id": "GemType_8",
+     "text": "Tenacity Gem"
+    },
+    {
+     "id": "GemType_9",
+     "text": "Crit DMG Gem"
+    },
+    {
+     "id": "Gonghui_xiubu_0001",
+     "text": "Repairing"
+    },
+    {
+     "id": "gonghuicangku_Lvup_1",
+     "text": "Unlocks the Guild Warehouse"
+    },
+    {
+     "id": "gonghuirenwu_desc_001",
+     "text": "The ship is damaged. Please go repair it."
+    },
+    {
+     "id": "gonghuirenwu_desc_002",
+     "text": "Well done, thank you!"
+    },
+    {
+     "id": "gonghuirenwu_desc_003",
+     "text": "We're short-handed lately. Please help catch a few fish."
+    },
+    {
+     "id": "gonghuirenwu_desc_004",
+     "text": "Thank you."
+    },
+    {
+     "id": "gonghuirenwu_desc_005",
+     "text": "Please go gather supplies from the crates on the ship."
+    },
+    {
+     "id": "gonghuirenwu_desc_006",
+     "text": "Everyone will thank you!"
+    },
+    {
+     "id": "gonghuishangdian_Lvup_1",
+     "text": "Unlocks the Guild Store"
+    },
+    {
+     "id": "gonghuishangdian_Lvup_2",
+     "text": "More items for sale"
+    },
+    {
+     "id": "gonghuishangdian_Lvup_3",
+     "text": "Unlocks discount mode, more items for sale"
+    },
+    {
+     "id": "gonghuishangdian_Lvup_5",
+     "text": "Unlocks purchase-limit mode, more items for sale"
+    },
+    {
+     "id": "gonghuishangdian_Lvup_7",
+     "text": "Unlocks auction mode, more items for sale"
+    },
+    {
+     "id": "gonghuixunlianchang_Lvup_1",
+     "text": "Unlocks the Guild Training Ground"
+    },
+    {
+     "id": "gonghuixunlianchang_Lvup_2",
+     "text": "Raises the Guild Training Ground skill level cap"
+    },
+    {
+     "id": "gonghuizhihuizhongxin_Lvup_0",
+     "text": "Unlocks Guild Sea Battle"
+    },
+    {
+     "id": "gonghuizhihuizhongxin_Lvup_1",
+     "text": "Raises the Sea Battle tech level cap"
+    },
+    {
+     "id": "gonghuimaoyichuan_Lvup_0",
+     "text": "Unlocks the Guild Merchant Ship"
+    },
+    {
+     "id": "gonghuimaoyichuan_Lvup_1",
+     "text": "More free daily Guild Trades"
+    },
+    {
+     "id": "StoryActor_4000001",
+     "text": "Rika"
+    },
+    {
+     "id": "StoryActor_4000002",
+     "text": "Chouchou"
+    },
+    {
+     "id": "StoryActor_4000003",
+     "text": "Kaya"
+    },
+    {
+     "id": "StoryActor_4000004",
+     "text": "Zeff"
+    },
+    {
+     "id": "StoryActor_4000005",
+     "text": "Genzo"
+    },
+    {
+     "id": "StoryActor_4000006",
+     "text": "Laboon"
+    },
+    {
+     "id": "StoryActor_4000008",
+     "text": "Miss Friday"
+    },
+    {
+     "id": "StoryActor_4000009",
+     "text": "Dorry"
+    },
+    {
+     "id": "StoryActor_4000010",
+     "text": "Brogy"
+    },
+    {
+     "id": "StoryActor_4000011",
+     "text": "Alvida"
+    },
+    {
+     "id": "StoryActor_4000012",
+     "text": "Dr. Kureha"
+    },
+    {
+     "id": "StoryActor_4000013",
+     "text": "Cobra"
+    },
+    {
+     "id": "StoryActor_4000014",
+     "text": "Koza"
+    },
+    {
+     "id": "StoryActor_4000015",
+     "text": "Mont Blanc"
+    },
+    {
+     "id": "StoryActor_4000016",
+     "text": "Conis"
+    },
+    {
+     "id": "StoryActor_4000017",
+     "text": "Tonjit"
+    },
+    {
+     "id": "StoryActor_4000018",
+     "text": "Raki"
+    },
+    {
+     "id": "StoryActor_4000019",
+     "text": "Kokoro"
+    },
+    {
+     "id": "StoryActor_4000020",
+     "text": "Hildon"
+    },
+    {
+     "id": "StoryActor_4000021",
+     "text": "Spoil"
+    },
+    {
+     "id": "StoryActor_4000022",
+     "text": "Puhechak"
+    },
+    {
+     "id": "StoryActor_4000023",
+     "text": "Kumacy"
+    },
+    {
+     "id": "StoryActor_4000024",
+     "text": "Charlotte Lola"
+    },
+    {
+     "id": "StoryActor_4000025",
+     "text": "Nightmare Luffy"
+    },
+    {
+     "id": "StoryActor_4000026",
+     "text": "Pappag"
+    },
+    {
+     "id": "StoryActor_4000027",
+     "text": "Camie"
+    },
+    {
+     "id": "StoryActor_4000028",
+     "text": "Shakky"
+    },
+    {
+     "id": "StoryActor_4000029",
+     "text": "Elder Nyon"
+    },
+    {
+     "id": "StoryActor_TEMP_003",
+     "text": "Kokoro / Stationmaster of the Sea Train's Shift Station. She was a secretary under the legendary shipwright Tom, and is an old acquaintance of Franky and Iceburg."
+    },
+    {
+     "id": "hangup_dig_desc",
+     "text": "Idle mining for rewards."
+    },
+    {
+     "id": "hangup_fish_desc",
+     "text": "Idle fishing for rewards."
+    },
+    {
+     "id": "hangup_kill_desc",
+     "text": "Idle fighting against field enemies for rewards."
+    },
+    {
+     "id": "hangup_log_desc",
+     "text": "Idle logging for rewards."
+    },
+    {
+     "id": "hangup_medi_desc",
+     "text": "Idle herb gathering for rewards."
+    },
+    {
+     "id": "StoryActor_001",
+     "text": "Alvida"
+    },
+    {
+     "id": "StoryActor_002",
+     "text": "Rika"
+    },
+    {
+     "id": "StoryActor_003",
+     "text": "Boodle"
+    },
+    {
+     "id": "StoryActor_004",
+     "text": "Chouchou"
+    },
+    {
+     "id": "StoryActor_005",
+     "text": "Kaya"
+    },
+    {
+     "id": "StoryActor_006",
+     "text": "Zeff"
+    },
+    {
+     "id": "StoryActor_007",
+     "text": "Genzo"
+    },
+    {
+     "id": "StoryActor_008",
+     "text": "Crocus"
+    },
+    {
+     "id": "StoryActor_009",
+     "text": "Laboon"
+    },
+    {
+     "id": "StoryActor_011",
+     "text": "Miss Friday"
+    },
+    {
+     "id": "StoryActor_012",
+     "text": "Dorry"
+    },
+    {
+     "id": "StoryActor_013",
+     "text": "Brogy"
+    },
+    {
+     "id": "StoryActor_014",
+     "text": "Chess"
+    },
+    {
+     "id": "StoryActor_015",
+     "text": "Kuromarimo"
+    },
+    {
+     "id": "StoryActor_016",
+     "text": "Dalton"
+    },
+    {
+     "id": "StoryActor_017",
+     "text": "Dr. Kureha"
+    },
+    {
+     "id": "StoryActor_018",
+     "text": "Lapahn"
+    },
+    {
+     "id": "StoryActor_019",
+     "text": "Cobra"
+    },
+    {
+     "id": "StoryActor_020",
+     "text": "Miss Merry Christmas"
+    },
+    {
+     "id": "StoryActor_021",
+     "text": "Kung-Fu Dugong"
+    },
+    {
+     "id": "StoryActor_022",
+     "text": "Chaka"
+    },
+    {
+     "id": "StoryActor_023",
+     "text": "Pell"
+    },
+    {
+     "id": "StoryActor_024",
+     "text": "Koza"
+    },
+    {
+     "id": "StoryActor_025",
+     "text": "Kurikat"
+    },
+    {
+     "id": "StoryActor_026",
+     "text": "Conis"
+    },
+    {
+     "id": "StoryActor_027",
+     "text": "Braham"
+    },
+    {
+     "id": "StoryActor_028",
+     "text": "Tonjit"
+    },
+    {
+     "id": "StoryActor_029",
+     "text": "Sarquiss"
+    },
+    {
+     "id": "StoryActor_030",
+     "text": "Rivers"
+    },
+    {
+     "id": "StoryActor_031",
+     "text": "Kamakiri"
+    },
+    {
+     "id": "StoryActor_032",
+     "text": "Laki"
+    },
+    {
+     "id": "StoryActor_033",
+     "text": "Ohm"
+    },
+    {
+     "id": "StoryActor_034",
+     "text": "Shura"
+    },
+    {
+     "id": "StoryActor_035",
+     "text": "Gedatsu"
+    },
+    {
+     "id": "StoryActor_036",
+     "text": "Satori"
+    },
+    {
+     "id": "StoryActor_037",
+     "text": "Wyper"
+    },
+    {
+     "id": "StoryActor_038",
+     "text": "Gan Fall"
+    },
+    {
+     "id": "StoryActor_039",
+     "text": "Paulie"
+    },
+    {
+     "id": "StoryActor_040",
+     "text": "Iceburg"
+    },
+    {
+     "id": "StoryActor_041",
+     "text": "Kokoro"
+    },
+    {
+     "id": "StoryActor_042",
+     "text": "Tilestone"
+    },
+    {
+     "id": "StoryActor_043",
+     "text": "Zambai"
+    },
+    {
+     "id": "StoryActor_044",
+     "text": "Wanze"
+    },
+    {
+     "id": "StoryActor_045",
+     "text": "Nero"
+    },
+    {
+     "id": "StoryActor_046",
+     "text": "T Bone"
+    },
+    {
+     "id": "StoryActor_047",
+     "text": "Blueno"
+    },
+    {
+     "id": "StoryActor_048",
+     "text": "Spandam"
+    },
+    {
+     "id": "StoryActor_049",
+     "text": "Face Mask"
+    },
+    {
+     "id": "StoryActor_050",
+     "text": "Fukuro"
+    },
+    {
+     "id": "StoryActor_051",
+     "text": "Coby (Young)"
+    },
+    {
+     "id": "StoryActor_052",
+     "text": "Helmeppo (Young)"
+    },
+    {
+     "id": "hero_pieces_610015",
+     "text": "Miss Goldenweek Shard"
+    },
+    {
+     "id": "hero_pieces_610016",
+     "text": "Fukuro Shard"
+    },
+    {
+     "id": "hero_pieces_610018",
+     "text": "Yosaku Shard"
+    },
+    {
+     "id": "hero_pieces_desc_1016",
+     "text": "A shard recording Fukuro's story. Collect 10 to summon Fukuro."
+    },
+    {
+     "id": "hero_pieces_desc_1017",
+     "text": "A shard recording Face Mask's story. Collect 10 to summon Face Mask."
+    },
+    {
+     "id": "heroActor_1001",
+     "text": "Mika Doi"
+    },
+    {
+     "id": "heroActor_1002",
+     "text": "Banjo Ginga"
+    },
+    {
+     "id": "heroActor_1003",
+     "text": "Moriya Endo"
+    },
+    {
+     "id": "heroActor_1004",
+     "text": "Koichi Hashimoto"
+    },
+    {
+     "id": "heroActor_1005",
+     "text": "Kazuki Yao"
+    },
+    {
+     "id": "heroActor_1006",
+     "text": "Fumihiko Tachiki"
+    },
+    {
+     "id": "heroActor_1007",
+     "text": "Kenichi Ono"
+    },
+    {
+     "id": "heroActor_1008",
+     "text": "Hiroyuki Kawamoto"
+    },
+    {
+     "id": "heroActor_1009",
+     "text": "Jurota Kosugi"
+    },
+    {
+     "id": "heroActor_1010",
+     "text": "Toshiyuki Morikawa"
+    },
+    {
+     "id": "heroActor_1011",
+     "text": "Misa Watanabe"
+    },
+    {
+     "id": "heroActor_1012",
+     "text": "Masaya Takatsuka"
+    },
+    {
+     "id": "heroActor_1013",
+     "text": "Bin Shimada"
+    },
+    {
+     "id": "heroActor_1014",
+     "text": "Masaya Takatsuka"
+    },
+    {
+     "id": "heroActor_1015",
+     "text": "Akiko Nakagawa"
+    },
+    {
+     "id": "heroActor_2001",
+     "text": "Mayumi Tanaka"
+    },
+    {
+     "id": "heroActor_2002",
+     "text": "Kazuya Nakai"
+    },
+    {
+     "id": "heroActor_2003",
+     "text": "Akemi Okamura"
+    },
+    {
+     "id": "heroActor_2004",
+     "text": "Kappei Yamaguchi"
+    },
+    {
+     "id": "heroActor_2005",
+     "text": "Hiroaki Hirata"
+    },
+    {
+     "id": "heroActor_2006",
+     "text": "Ikue Otani"
+    },
+    {
+     "id": "heroActor_2007",
+     "text": "Yuriko Yamaguchi"
+    },
+    {
+     "id": "heroActor_2008",
+     "text": "Kazuki Yao"
+    },
+    {
+     "id": "heroActor_2009",
+     "text": "Yuichi Nagashima"
+    },
+    {
+     "id": "heroActor_2010",
+     "text": "Shigeru Chiba"
+    },
+    {
+     "id": "heroActor_2011",
+     "text": "Mahito Oba"
+    },
+    {
+     "id": "heroActor_2012",
+     "text": "Junko Noda"
+    },
+    {
+     "id": "heroActor_2013",
+     "text": "Tetsu Inada"
+    },
+    {
+     "id": "heroActor_2014",
+     "text": "Kazuki Yao"
+    },
+    {
+     "id": "heroActor_2015",
+     "text": "Nobuyuki Hiyama"
+    },
+    {
+     "id": "heroActor_2016",
+     "text": "U-ko Tachibana"
+    },
+    {
+     "id": "heroActor_2017",
+     "text": "Wataru Takagi"
+    },
+    {
+     "id": "heroActor_2018",
+     "text": "Masaki Aizawa"
+    },
+    {
+     "id": "heroActor_2019",
+     "text": "Kumiko Watanabe"
+    },
+    {
+     "id": "heroActor_2020",
+     "text": "Hiroaki Yoshida"
+    },
+    {
+     "id": "heroActor_2021",
+     "text": "Masaya Takatsuka"
+    },
+    {
+     "id": "heroActor_2022",
+     "text": "Naomi Shindo"
+    },
+    {
+     "id": "heroActor_2023",
+     "text": "Ryotaro Okiayu"
+    },
+    {
+     "id": "heroActor_2024",
+     "text": "Tomokazu Seki"
+    },
+    {
+     "id": "heroActor_2025",
+     "text": "Hiroaki Miura"
+    },
+    {
+     "id": "heroActor_2026",
+     "text": "Hiroshi Iwasaki"
+    },
+    {
+     "id": "heroActor_2027",
+     "text": "Kumiko Nishihara"
+    },
+    {
+     "id": "heroActor_2028",
+     "text": "Yuichi Nagashima"
+    },
+    {
+     "id": "heroActor_3001",
+     "text": "Ryuzaburo Otomo"
+    },
+    {
+     "id": "heroActor_3002",
+     "text": "Toshiyuki Morikawa"
+    },
+    {
+     "id": "heroActor_3003",
+     "text": "Takehito Koyasu"
+    },
+    {
+     "id": "heroActor_3004",
+     "text": "Hiroshi Naka"
+    },
+    {
+     "id": "heroActor_3005",
+     "text": "Katsuhisa Hoki"
+    },
+    {
+     "id": "heroActor_3006",
+     "text": "Hideyuki Hori"
+    },
+    {
+     "id": "heroActor_3007",
+     "text": "Unsho Ishizuka"
+    },
+    {
+     "id": "heroActor_3008",
+     "text": "Toshio Furukawa"
+    },
+    {
+     "id": "heroActor_3009",
+     "text": "Fumihiko Tachiki"
+    },
+    {
+     "id": "heroActor_3010",
+     "text": "Hirohiko Kakegawa"
+    },
+    {
+     "id": "heroPosition_2",
+     "text": "Front-Middle Row"
+    },
+    {
+     "id": "heroPosition_3",
+     "text": "Middle Row"
+    },
+    {
+     "id": "heroPosition_4",
+     "text": "Middle-Back Row"
+    },
+    {
+     "id": "HeroSelecltRule_Class_0",
+     "text": "First"
+    },
+    {
+     "id": "HeroSelecltRule_Class_3",
+     "text": "Random Target"
+    },
+    {
+     "id": "HeroSelecltRule_Class_4",
+     "text": "Highest HP Target"
+    },
+    {
+     "id": "HeroSelecltRule_Class_5",
+     "text": "Lowest HP Target"
+    },
+    {
+     "id": "HeroSelecltRule_Class_6",
+     "text": "Opposite"
+    },
+    {
+     "id": "mainRaid_select_oneFight",
+     "text": "Fight"
+    },
+    {
+     "id": "mainRaid_select_playPlot",
+     "text": "Play Story"
+    },
+    {
+     "id": "mainRaid_select_reward",
+     "text": "Give Reward"
+    },
+    {
+     "id": "Maze_Camp_Drink",
+     "text": "Instantly restores a little HP, and after camp greatly increases your Attack but lowers Defense and HP for 10 minutes. Always succeeds"
+    },
+    {
+     "id": "Maze_Camp_Eat",
+     "text": "Instantly restores a lot of your HP"
+    },
+    {
+     "id": "Maze_Camp_Hearten",
+     "text": "After camp, gives the whole team a random percentage boost to Attack, Defense, Speed or HP for 10 minutes. Encouragement can also fail"
+    },
+    {
+     "id": "Maze_Camp_Search",
+     "text": "Wander around while teammates rest to find random items. If there's a chest near the tent, you may get to open it"
+    },
+    {
+     "id": "Maze_Camp_Sweep",
+     "text": "Clear out nearby enemies alone while teammates rest. If it succeeds, nearby enemies count as dead and no HP is spent, but this skill raises the team's chance of a night raid"
+    },
+    {
+     "id": "Maze_Camp_Treat",
+     "text": "Removes teammates' negative effects, and after camp restores HP every 3 seconds for 10 minutes"
+    },
+    {
+     "id": "Maze_Camp_Vigil",
+     "text": "Stand guard for the team after resting, lowering the chance of an enemy night raid"
+    },
+    {
+     "id": "moral_des_rule",
+     "text": "Being killed by enemies or other players in the field lowers your Morale.\\nRed-name players lose more Morale each time than white-name players.\\nThe lower your Morale, the weaker your Attack, Defense and HP."
+    },
+    {
+     "id": "npc_type_name_10",
+     "text": "Mysterious Waters Merchant"
+    },
+    {
+     "id": "npc_type_name_11",
+     "text": "Solo Daily NPC"
+    },
+    {
+     "id": "npc_type_name_12",
+     "text": "Bounty Quest NPC"
+    },
+    {
+     "id": "npc_type_name_2",
+     "text": "Blacksmith"
+    },
+    {
+     "id": "npc_type_name_3",
+     "text": "Pharmacy"
+    },
+    {
+     "id": "npc_type_name_4",
+     "text": "Kitchen"
+    },
+    {
+     "id": "npc_type_name_5",
+     "text": "Shipyard Manager"
+    },
+    {
+     "id": "npc_type_name_6",
+     "text": "Guild Manager"
+    },
+    {
+     "id": "npc_type_name_7",
+     "text": "Warehouse Keeper"
+    },
+    {
+     "id": "npc_type_name_8",
+     "text": "Fishing"
+    },
+    {
+     "id": "npc_type_name_9",
+     "text": "Gathering"
+    },
+    {
+     "id": "shopNull_tip",
+     "text": "This item no longer exists. Please try again"
+    },
+    {
+     "id": "story_Alabasitan_Content_001042",
+     "text": "Thank you so much. The Marines have raised your bounties, so be careful!"
+    },
+    {
+     "id": "story_Alabasitan_name_001010",
+     "text": "Sanji"
+    },
+    {
+     "id": "story_Alabasitan_name_001011",
+     "text": "The Gang"
+    },
+    {
+     "id": "story_Alonggongyuan_Content_001025_1",
+     "text": "Usopp! You're alive!"
+    },
+    {
+     "id": "story_Alonggongyuan_Content_001028",
+     "text": "You bastard, someday I'm going to kill you!"
+    },
+    {
+     "id": "story_Alonggongyuan_Content_001029",
+     "text": "What, you look pretty lively."
+    },
+    {
+     "id": "story_Alonggongyuan_Content_001030",
+     "text": "Shut up."
+    },
+    {
+     "id": "story_Alonggongyuan_name_001011",
+     "text": "Arlong Pirates Fish-Man A"
+    },
+    {
+     "id": "story_Alonggongyuan_name_001012",
+     "text": "Arlong Pirates Fish-Man B"
+    },
+    {
+     "id": "story_BranchTask_Content_000028",
+     "text": "That villa next door is so magnificent. When will I ever get to live in a fancy house like that?"
+    },
+    {
+     "id": "story_BranchTask_Content_000029",
+     "text": "Ask the herb merchant if they want to go into business with me."
+    },
+    {
+     "id": "story_BranchTask_Content_000030",
+     "text": "I'll pass on doing business. I just want to look after my herb field."
+    },
+    {
+     "id": "story_BranchTask_Content_000031",
+     "text": "If he won't come, I'll go myself!"
+    },
+    {
+     "id": "story_BranchTask_Content_000047",
+     "text": "Um, don't be scared, I mean no harm. Could you tell everyone in the village that I have no hostility toward humans?"
+    },
+    {
+     "id": "story_BranchTask_Content_000048",
+     "text": "He really said that? Hmm... but I worry a Fish-Man's nature won't change. Let's keep an eye on him."
+    },
+    {
+     "id": "story_BranchTask_Content_000049",
+     "text": "I see. I'll work hard to show everyone."
+    },
+    {
+     "id": "story_BranchTask_Content_000071",
+     "text": "I've been feeling uneasy lately, like something's about to happen. Could you ask the others for me?"
+    },
+    {
+     "id": "story_BranchTask_Content_000072",
+     "text": "Tell him not to worry. With us Marines here, everything's fine."
+    },
+    {
+     "id": "story_BranchTask_Content_000073",
+     "text": "Even so... I still can't stop worrying."
+    },
+    {
+     "id": "story_BranchTask_Content_000074",
+     "text": "I feel like someone's been watching me lately. Could you help me find out if there's someone like that?"
+    },
+    {
+     "id": "story_BranchTask_Content_000075",
+     "text": "I'm the one watching him. If you don't tell him, I'll tell you a big secret."
+    },
+    {
+     "id": "story_BranchTask_Content_000076",
+     "text": "No one? ...Thank you. Was it just my imagination?"
+    },
+    {
+     "id": "story_BranchTask_Content_000077",
+     "text": "Hey! I'm going to be a bounty hunter! I know the villager at the entrance is really strong, so go ask him to teach me to fight!"
+    },
+    {
+     "id": "story_BranchTask_Content_000078",
+     "text": "How did he know? Fine, tell him I'll come find him."
+    },
+    {
+     "id": "story_BranchTask_Content_000079",
+     "text": "Awesome! Nice work!"
+    },
+    {
+     "id": "story_BranchTask_Content_000080",
+     "text": "Hey! I'm going to be a bounty hunter! Go tell the weapon merchant to get a weapon ready for me!"
+    },
+    {
+     "id": "story_BranchTask_Content_000081",
+     "text": "Him, huh. Got it."
+    },
+    {
+     "id": "story_BranchTask_Content_000082",
+     "text": "Awesome! Nice work!"
+    },
+    {
+     "id": "story_BranchTask_Content_000083",
+     "text": "Hey! I'm going to be a bounty hunter! Getting stronger means I could get hurt anytime! Tell the doctor to be ready for me!"
+    },
+    {
+     "id": "story_BranchTask_Content_000084",
+     "text": "That kid, huh... sigh... got it."
+    },
+    {
+     "id": "story_BranchTask_Content_000085",
+     "text": "Awesome! Nice work!"
+    },
+    {
+     "id": "story_BranchTask_Content_000086",
+     "text": "The villagers were all beaten up and I can't treat them all alone. Please find someone to help me."
+    },
+    {
+     "id": "story_BranchTask_Content_000087",
+     "text": "I know a little medicine. Let me get ready."
+    },
+    {
+     "id": "story_BranchTask_Content_000088",
+     "text": "I'm so glad you found someone to help."
+    },
+    {
+     "id": "story_BranchTask_Content_000089",
+     "text": "The organization sent a new batch of weapons. Please tell the person handing them out."
+    },
+    {
+     "id": "story_BranchTask_Content_000090",
+     "text": "What! How could an outsider know about this? Well, thanks anyway."
+    },
+    {
+     "id": "story_BranchTask_Content_000091",
+     "text": "Ah! I slipped... you mustn't tell anyone!"
+    },
+    {
+     "id": "story_BranchTask_Content_000092",
+     "text": "There was an accident and I don't know where I am. Oh, could you check whether any of my crewmates are here too?"
+    },
+    {
+     "id": "story_BranchTask_Content_000093",
+     "text": "What, the stranded pirate is here too! I'm so glad I'm not alone!"
+    },
+    {
+     "id": "story_BranchTask_Content_000094",
+     "text": "Knowing I'm not alone is such a relief."
+    },
+    {
+     "id": "story_BranchTask_Content_000095",
+     "text": "We reached this unknown island, but I lost my weapon. Could you ask my crewmate if he has a spare one?"
+    },
+    {
+     "id": "story_BranchTask_Content_000096",
+     "text": "What is he thinking? Of course I lost my weapon too."
+    },
+    {
+     "id": "story_BranchTask_Content_000097",
+     "text": "What do I do now! I'm panicking!"
+    },
+    {
+     "id": "story_BranchTask_Content_000098",
+     "text": "We were shipwrecked while the Marines were chasing us. If we made it to this island, then the Marines... please go check if there are any Marines nearby!"
+    },
+    {
+     "id": "story_BranchTask_Content_000099",
+     "text": "Being shipwrecked while chasing pirates was really unlucky."
+    },
+    {
+     "id": "story_BranchTask_Content_000100",
+     "text": "What! There really are some!"
+    },
+    {
+     "id": "story_BranchTask_Content_000101",
+     "text": "We lost most of our gear in the shipwreck, so could you please notify the Marines in Loguetown?"
+    },
+    {
+     "id": "story_BranchTask_Content_000102",
+     "text": "Some of our people were shipwrecked? I'll arrange a rescue right away."
+    },
+    {
+     "id": "story_BranchTask_Content_000103",
+     "text": "Thank you so much."
+    },
+    {
+     "id": "story_BranchTask_Content_000104",
+     "text": "When I first came here, there wasn't a soul on this island. I never thought it would get so lively. Please go say hi to the Marines for me."
+    },
+    {
+     "id": "story_BranchTask_Content_000105",
+     "text": "There's an explorer here too. Looks like this isn't some nameless deserted island after all."
+    },
+    {
+     "id": "story_BranchTask_Content_000106",
+     "text": "Thank you very much."
+    },
+    {
+     "id": "story_BranchTask_Content_000109",
+     "text": "This herb field next to me was cleared by my great-grandfather, though it was much bigger back then."
+    },
+    {
+     "id": "story_BranchTask_Content_000110",
+     "text": "Could you please bring me some fertilizer?"
+    },
+    {
+     "id": "story_BranchTask_Content_000111",
+     "text": "Thank you, I'll take good care of this herb field!"
+    },
+    {
+     "id": "story_BranchTask_Content_000134",
+     "text": "Thank you."
+    },
+    {
+     "id": "story_BranchTask_Content_000143",
+     "text": "Thank you."
+    },
+    {
+     "id": "story_BranchTask_Content_000148",
+     "text": "Thank you."
+    },
+    {
+     "id": "story_BranchTask_Content_000157",
+     "text": "Thank you very much."
+    },
+    {
+     "id": "story_BranchTask_Content_000164",
+     "text": "Thank you."
+    },
+    {
+     "id": "story_Weishijishan_name_001004",
+     "text": "Sanji"
+    },
+    {
+     "id": "Sub_Test_NetworkType_Option_2001",
+     "text": "ATK Gem"
+    },
+    {
+     "id": "Sub_Test_NetworkType_Option_2002",
+     "text": "DEF Gem"
+    },
+    {
+     "id": "coin_desc_3",
+     "text": "A precious currency in One Piece, used to buy event attempts, shop exchanges and more."
+    },
+    {
+     "id": "Main_CH32_Name_0035",
+     "text": "Nightmare Luffy"
+    },
+    {
+     "id": "Main_CH39_Name_0004",
+     "text": "Portgas D. Ace"
+    },
+    {
+     "id": "Main_CH39_Name_0013",
+     "text": "Garp"
+    },
+    {
+     "id": "daily_title_25",
+     "text": "Voyage Tower"
+    },
+    {
+     "id": "daily_title_111",
+     "text": "Combat Training"
+    },
+    {
+     "id": "daily_title_28",
+     "text": "Guild Bounty"
+    }
+   ],
+   "other_bundle_rows": [],
+   "partial": "355/706 rows translated so far"
+  },
+  "TableTipWord": {
+   "key_column": "id",
+   "text_columns": [
+    "word"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "word": "After a character acts, a combo countdown appears. You can use a skill before it ends."
+    },
+    {
+     "id": "2",
+     "word": "Besides using skills that cost Soul Jade, losing HP also grants Rage."
+    },
+    {
+     "id": "3",
+     "word": "When you change maps or a field battle ends, you're invincible for 3 seconds and can't be hit by any attack."
+    }
+   ]
+  }
+ },
+ "glossary_additions": {},
+ "uncertain_notes": []
+}
