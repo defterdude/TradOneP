@@ -24732,11 +24732,11 @@
     },
     {
      "id": "EquipResonance_tips1",
-     "text": "Equipment Resonance Info:\\n\\nEquipment that can resonate: Dark Flame, Wild Hunt, Heavy Armor, Stealth, Liberator\\n\\nAt refine Lv25/30, equipment opens its Lv1 and Lv2 resonance slots respectively; spend materials to try activating them. Opening a slot gives one free resonance attempt automatically.\\n\\nActivating a resonance slot has a certain chance; after several failures the next try always succeeds.\\n\\nActivated slots give fixed, non-random stats, though they may differ between pieces of equipment\\n\\nSlots must be activated in order: the Lv1 slot must be activated before trying the Lv2 slot\\n\\nOnce all four pieces of a set unlock Lv2 resonance, the set can enter Equipment Attunement from its entry in Legends!"
+     "text": "Equipment Resonance Info:\\n\\nEquipment that can resonate: Dark Flame, Wild Hunt, Ironclad, Prowler, Liberator\\n\\nAt refine Lv25/30, equipment opens its Lv1 and Lv2 resonance slots respectively; spend materials to try activating them. Opening a slot gives one free resonance attempt automatically.\\n\\nActivating a resonance slot has a certain chance; after several failures the next try always succeeds.\\n\\nActivated slots give fixed, non-random stats, though they may differ between pieces of equipment\\n\\nSlots must be activated in order: the Lv1 slot must be activated before trying the Lv2 slot\\n\\nOnce all four pieces of a set unlock Lv2 resonance, the set can enter Equipment Attunement from its entry in Legends!"
     },
     {
      "id": "EquipPromotion_tips1",
-     "text": "Equipment Promotion Info:\\n\\nEquipment that can be promoted: Dark Flame, Wild Hunt, Heavy Armor, Stealth, Liberator\\n\\nSome equipment can be promoted once upgraded to 120, by spending materials.\\n\\nAfter 2 promotions, the refine cap rises to 25; after 4, it rises to 30\\n\\nEquipment promotion requires a certain player level."
+     "text": "Equipment Promotion Info:\\n\\nEquipment that can be promoted: Dark Flame, Wild Hunt, Ironclad, Prowler, Liberator\\n\\nSome equipment can be promoted once upgraded to 120, by spending materials.\\n\\nAfter 2 promotions, the refine cap rises to 25; after 4, it rises to 30\\n\\nEquipment promotion requires a certain player level."
     },
     {
      "id": "AutoRepairCantStart",
@@ -24956,7 +24956,7 @@
     },
     {
      "id": "Equipvariation_Tip_text",
-     "text": "Equipment Attunement Info:\\n\\nEquipment that can attune: Dark Flame, Wild Hunt, Heavy Armor, Stealth, Liberator\\n\\nSome equipment can attune after activating Lv2 resonance\\n\\nEquipment with Lv2 resonance can go in the attunement slots; once all four pieces of a set are in, the set enters Attunement and gains extra activation points!\\n\\nWhile attuned, equipment can't be taken out of the attunement slots; cancel Attunement first to remove it."
+     "text": "Equipment Attunement Info:\\n\\nEquipment that can attune: Dark Flame, Wild Hunt, Ironclad, Prowler, Liberator\\n\\nSome equipment can attune after activating Lv2 resonance\\n\\nEquipment with Lv2 resonance can go in the attunement slots; once all four pieces of a set are in, the set enters Attunement and gains extra activation points!\\n\\nWhile attuned, equipment can't be taken out of the attunement slots; cancel Attunement first to remove it."
     },
     {
      "id": "EquipPromotion_tips3",
@@ -26474,11 +26474,11 @@
     },
     {
      "id": "EquipResonance_tips1",
-     "text": "Equipment Resonance Info:\\n\\nEquipment that can resonate: Sentinel, Starry, Vengeance, Ranger, Dragon Scale\\n\\nAt refine Lv25/30, equipment opens its Lv1 and Lv2 resonance slots respectively; spend materials to try activating them. Opening a slot gives one free resonance attempt automatically.\\n\\nActivating a resonance slot has a certain chance; after several failures the next try always succeeds.\\n\\nActivated slots give fixed, non-random stats, though they may differ between pieces of equipment\\n\\nSlots must be activated in order: the Lv1 slot must be activated before trying the Lv2 slot\\n\\nOnce all four pieces of a set unlock Lv2 resonance, the set can enter Equipment Attunement from its entry in Legends!"
+     "text": "Equipment Resonance Info:\\n\\nEquipment that can resonate: Guard, Starlight, Vengeance, Ranger, Dragon Scale\\n\\nAt refine Lv25/30, equipment opens its Lv1 and Lv2 resonance slots respectively; spend materials to try activating them. Opening a slot gives one free resonance attempt automatically.\\n\\nActivating a resonance slot has a certain chance; after several failures the next try always succeeds.\\n\\nActivated slots give fixed, non-random stats, though they may differ between pieces of equipment\\n\\nSlots must be activated in order: the Lv1 slot must be activated before trying the Lv2 slot\\n\\nOnce all four pieces of a set unlock Lv2 resonance, the set can enter Equipment Attunement from its entry in Legends!"
     },
     {
      "id": "EquipPromotion_tips1",
-     "text": "Equipment Promotion Info:\\n\\nEquipment that can be promoted: Sentinel, Starry, Vengeance, Ranger, Dragon Scale\\n\\nSome equipment can be promoted by spending materials.\\n\\nAfter 2 promotions, the refine cap rises to 25; after 4, it rises to 30\\n\\nEquipment promotion requires a certain player level."
+     "text": "Equipment Promotion Info:\\n\\nEquipment that can be promoted: Guard, Starlight, Vengeance, Ranger, Dragon Scale\\n\\nSome equipment can be promoted by spending materials.\\n\\nAfter 2 promotions, the refine cap rises to 25; after 4, it rises to 30\\n\\nEquipment promotion requires a certain player level."
     },
     {
      "id": "ChargeEnergyUse",
@@ -26506,7 +26506,7 @@
     },
     {
      "id": "Equipvariation_Tip_text",
-     "text": "Equipment Attunement Info:\\n\\nEquipment that can attune: Sentinel, Starry, Vengeance, Ranger, Dragon Scale\\n\\nSome equipment can attune after activating Lv2 resonance\\n\\nEquipment with Lv2 resonance can go in the attunement slots; once all four pieces of a set are in, the set enters Attunement and unlocks an extra gem slot!\\n\\nWhile attuned, equipment can't be taken out of the attunement slots; cancel Attunement first to remove it."
+     "text": "Equipment Attunement Info:\\n\\nEquipment that can attune: Guard, Starlight, Vengeance, Ranger, Dragon Scale\\n\\nSome equipment can attune after activating Lv2 resonance\\n\\nEquipment with Lv2 resonance can go in the attunement slots; once all four pieces of a set are in, the set enters Attunement and unlocks an extra gem slot!\\n\\nWhile attuned, equipment can't be taken out of the attunement slots; cancel Attunement first to remove it."
     },
     {
      "id": "EquipPromotion_tips3",
@@ -26514,7 +26514,7 @@
     },
     {
      "id": "PersonCarnival_tips",
-     "text": "The Carnival event has 5 parts:\\n\\n1. Character Trial: learn new characters' mechanics through trial stages, which include guidance. Clear a stage to claim its reward and unlock the next. Trial stages can be replayed, but rewards can't be claimed again\\n\\n2. Battle Pass: each Carnival has a Battle Pass. Gain Battle Pass EXP to raise its level and earn lots of rewards.\\nGain Battle Pass EXP to raise your pass level; each level up gives normal Battle Pass rewards.\\nMain sources of Battle Pass EXP:\\n(1) Daily Quests.\\n(2) Weekly Quests.\\n(3) Event Quests.\\n\\nPremium Battle Pass rewards: you can buy the Premium Battle Pass at any time while the event runs, and immediately claim all Premium rewards for the levels you've reached\\n\\nWhen buying the Premium Battle Pass you can choose the Basic or Advanced version. Besides unlocking Premium rewards, the Advanced version gives a one-time bonus and instantly raises your pass level (excess levels aren't refunded)\\nNote! After buying either the Advanced or Basic version, you can't buy the other, so think carefully before buying!\\n\\nDaily Quests: complete set quests each day for Battle Pass EXP; resets daily at 0:00\\nWeekly Quests: completing weekly quests adds Battle Pass EXP; resets every Monday at 0:00.\\nEvent Quests: these don't reset over time and can be completed only once\\n\\nThe Battle Pass lasts as long as the Carnival event\\n\\n3. Path of Growth: raise New World Rob Lucci's stars to earn valuable item rewards\\n\\n4. Check-In Gifts: the event lasts 21 days; check in daily to claim rewards\\n\\n5. Fun Quiz: each day the system offers a quiz or riddle; answer correctly for rewards"
+     "text": "The Carnival event has 5 parts:\\n\\n1. Character Trial: learn new characters' mechanics through trial stages, which include guidance. Clear a stage to claim its reward and unlock the next. Trial stages can be replayed, but rewards can't be claimed again\\n\\n2. Battle Pass: each Carnival has a Battle Pass. Gain Battle Pass EXP to raise its level and earn lots of rewards.\\nGain Battle Pass EXP to raise your pass level; each level up gives normal Battle Pass rewards.\\nMain sources of Battle Pass EXP:\\n(1) Daily Quests.\\n(2) Weekly Quests.\\n(3) Event Quests.\\n\\nPremium Battle Pass rewards: you can buy the Premium Battle Pass at any time while the event runs, and immediately claim all Premium rewards for the levels you've reached\\n\\nWhen buying the Premium Battle Pass you can choose the Basic or Advanced version. Besides unlocking Premium rewards, the Advanced version gives a one-time bonus and instantly raises your pass level (excess levels aren't refunded)\\nNote! After buying either the Advanced or Basic version, you can't buy the other, so think carefully before buying!\\n\\nDaily Quests: complete set quests each day for Battle Pass EXP; resets daily at 0:00\\nWeekly Quests: completing weekly quests adds Battle Pass EXP; resets every Monday at 0:00.\\nEvent Quests: these don't reset over time and can be completed only once\\n\\nThe Battle Pass lasts as long as the Carnival event\\n\\n3. Path of Growth: raise New World Ruz's stars to earn valuable item rewards\\n\\n4. Check-In Gifts: the event lasts 21 days; check in daily to claim rewards\\n\\n5. Fun Quiz: each day the system offers a quiz or riddle; answer correctly for rewards"
     },
     {
      "id": "helpPowerAwakeTarget",
