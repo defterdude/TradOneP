@@ -17783,8 +17783,708 @@
      "text": "The territory of the Emperor BIG MOM, shaped like a layered cake. She seeks to unite all the world's races and build a utopia."
     },
     {
+     "id": "IntimacyExplanation12",
+     "text": "The territory of the Emperor Kaido, a fiercely isolationist closed country. Its people wear old-style kimono, and it is famous for its samurai. The Kozuki Family is seeking to restore the nation."
+    },
+    {
+     "id": "IsFull",
+     "text": "(Full)"
+    },
+    {
+     "id": "unlockByGetHero",
+     "text": "Unlocks after getting this character"
+    },
+    {
+     "id": "unlockByGetShip",
+     "text": "Unlocks after getting this ship"
+    },
+    {
+     "id": "activeReview",
+     "text": "Activate Overview"
+    },
+    {
+     "id": "SeaHangHasPassed",
+     "text": "Cleared {0}{1}"
+    },
+    {
+     "id": "blessTooFar",
+     "text": "Too far from the Wishing Tree. Go to the Wishing Tree"
+    },
+    {
+     "id": "blessNoWater",
+     "text": "Not enough wishes!"
+    },
+    {
+     "id": "blessGettingBoReward",
+     "text": "Open Chest"
+    },
+    {
+     "id": "SeaSettlementTitle",
+     "text": "Congrats on clearing {0}{1}"
+    },
+    {
+     "id": "SeaHangUpWelcome",
+     "text": "Welcome to Great Voyage Idle"
+    },
+    {
+     "id": "SeaHangNoShipBuffTip",
+     "text": "Deployed warships grant stat bonuses"
+    },
+    {
+     "id": "SeaHangHelpContent",
+     "text": "*Sea Conflict combines idle play and challenges.\\n*Its entrance is near the return point of each sea area, marked by a ship's wheel effect.\\n*Each sea area has its own Sea Conflict entrance. Riskier sea areas give better rewards. The Frozen Sea also has a chance to drop Conqueror Gold Coins, which can be exchanged for warships in the shop. In the Great Voyage you also have a chance to get Conqueror Gold Coins from orange gathering points.\\n*Stage income: once you join, you can claim Sea Conflict loot at regular intervals. When you conquer a new stage, income increases and the timer restarts, but earlier output stays stored in your loot and is claimed together once the conditions are met.\\n*Conflict zones must be challenged in order; you can't join the next sea area's conflict until the previous one is cleared.\\n*Each stage has a loot storage cap. When the Great Voyage coins in your loot reach a certain amount, a \"Full\" effect appears. If you don't claim, no further rewards accumulate, so keep an eye on your loot and claim it in time, Captains.\\n*You need to set up fleets for Sea Conflict. Each fleet needs at least 3 characters and can deploy up to 5.\\n*Each fleet needs at least one warship and can deploy up to two.\\n*Deployed warships give the fleet bonus stats equal to 2 times the warship's buff stats (its Dock deployment stats)."
+    },
+    {
+     "id": "blessCardByTip",
+     "text": "Not enough wish item {0}. Spend {1}{2} to buy {3} {4}?"
+    },
+    {
+     "id": "SeaHangExplainTitle",
+     "text": "Join the Sea Conflict!"
+    },
+    {
+     "id": "SeaHangExplainDes",
+     "text": "Captain! We have reliable word that three sea areas holding vast treasure have appeared on the open sea, and countless powerful islands are fighting over them.\\nAssemble your fleet and sail into these war-torn waters. You can gain rich spoils and even exchange for the legendary pirate ship \"Flying Dutchman\"! Captain, full sail ahead and conquer all you see!"
+    },
+    {
+     "id": "SeaHangExplainNow",
+     "text": "Conquer the seas and seize the treasure. Are you ready?"
+    },
+    {
+     "id": "SeaHangBeginBattle",
+     "text": "Start Battle ({0})"
+    },
+    {
+     "id": "blessNeedNumTip",
+     "text": "You haven't earned the best reward yet (blessings from friends give more). Make a wish anyway?"
+    },
+    {
+     "id": "HeroFunctionTip",
+     "text": "The rewards below only apply to this character"
+    },
+    {
+     "id": "valuePoint",
+     "text": "pts"
+    },
+    {
+     "id": "blessInviteMe",
+     "text": "Invited"
+    },
+    {
+     "id": "blessCurScenePlayerCountText",
+     "text": "Visitors in this area:"
+    },
+    {
+     "id": "blessWillGetAwardCountText",
+     "text": "Extra rewards left today:"
+    },
+    {
+     "id": "blessNoPeople",
+     "text": "No visitors in this area, so you can't get a Wish Chest. Make a wish anyway?"
+    },
+    {
+     "id": "PokedexChapterValue",
+     "text": "The rewards above apply to all characters in this chapter"
+    },
+    {
+     "id": "PokedexCharterValue",
+     "text": "The rewards above only apply to this character"
+    },
+    {
+     "id": "PokedexReviewExplain",
+     "text": "*Light up goals in Legends to earn activation points; collect enough to claim rewards.*Harder goals give more activation points.*Check cumulative rewards and their claim status with the Global Bonus button.*Cumulative activation rewards only apply to deployed characters.*Use Activate All to activate every available goal."
+    },
+    {
+     "id": "blessExtraRewardMaxTip",
+     "text": "You haven't reached the top reward pool. Make a wish anyway?"
+    },
+    {
+     "id": "PokedexActivatePrizeDes",
+     "text": "The rewards below only apply to this chapter's characters"
+    },
+    {
+     "id": "blessWaterSuccess",
+     "text": "Blessing sent"
+    },
+    {
+     "id": "SeaHangNoHangUpRewards",
+     "text": "No rewards to claim"
+    },
+    {
+     "id": "blessUpdate",
+     "text": "Refreshes daily after 0:00"
+    },
+    {
+     "id": "SeaHangLandslideAcc",
+     "text": "Cumulative Clear Rewards"
+    },
+    {
+     "id": "blessOwnerCDing",
+     "text": "This player already made a wish today. Go anyway?"
+    },
+    {
+     "id": "SeaHangChapterNotPassed",
+     "text": "You haven't cleared {0}, so this chapter can't be unlocked."
+    },
+    {
+     "id": "UI_icon_dhhSSR",
+     "text": "Conqueror Gold Coin"
+    },
+    {
+     "id": "UI_icon_dhhSSRM",
+     "text": "A very rare currency from Sea Conflict and related modes"
+    },
+    {
+     "id": "Partnerinvite",
+     "text": "Tap to invite friends"
+    },
+    {
+     "id": "PartnerLevel",
+     "text": "Quest Level:"
+    },
+    {
+     "id": "blessReachMax",
+     "text": "Daily blessing reward limit reached"
+    },
+    {
+     "id": "PartnerTaskPersonCountProcess",
+     "text": "[Completed by {0}]"
+    },
+    {
+     "id": "TransportResourcesTitle",
+     "text": "Supply Transport"
+    },
+    {
+     "id": "PartnerTacitDescribeTitle",
+     "text": "Synergy Info"
+    },
+    {
+     "id": "PartnerTacitDescribeItemRank",
+     "text": "Unlocked Quest Tier"
+    },
+    {
+     "id": "PartnerTaskTacitLevel",
+     "text": "Synergy Level"
+    },
+    {
+     "id": "PartnerTacitLevelTitle",
+     "text": "Synergy Level Info"
+    },
+    {
+     "id": "PartnerLeaveText",
+     "text": "Leave your current partners?\\n(You'll lose your current Synergy level and must wait 24 hours before joining new partners.)"
+    },
+    {
+     "id": "PartnerTip",
+     "text": "You need partners to leave messages"
+    },
+    {
+     "id": "BecomePartner",
+     "text": "{0} invited you to be partners"
+    },
+    {
+     "id": "PartnerCannotRefresh",
+     "text": "Unavailable"
+    },
+    {
+     "id": "partnerRefreshCardByTip",
+     "text": "Not enough refresh item {0}. Spend {1}{2} to buy {3} {4}?"
+    },
+    {
+     "id": "PartnerTanHao",
+     "text": "You need at least 2 partners to unlock Partner Quests and grow Synergy"
+    },
+    {
+     "id": "TransferLeader",
+     "text": "Transfer Leader"
+    },
+    {
+     "id": "GiveGift",
+     "text": "Send Gift"
+    },
+    {
+     "id": "GiveGiftTip",
+     "text": "Use {1} on {0}?\\nUses left today: {2}"
+    },
+    {
+     "id": "HeadInvadeHauntDes",
+     "text": "According to intel, the Boss will appear in these areas"
+    },
+    {
+     "id": "HeadInvadeBossTitle",
+     "text": "Boss Affixes"
+    },
+    {
+     "id": "FriendInfoTips",
+     "text": "Raise Friendliness"
+    },
+    {
+     "id": "PartnerMessagePageTitle",
+     "text": "Partner Messages"
+    },
+    {
+     "id": "MaxGiveCount",
+     "text": "Max gifts reached"
+    },
+    {
+     "id": "ClearPartner",
+     "text": "You must end your partnership first"
+    },
+    {
+     "id": "PartnerTaskEmpty",
+     "text": "No Partner Quests yet"
+    },
+    {
+     "id": "DoubleFriend",
+     "text": "This player isn't a mutual friend"
+    },
+    {
+     "id": "MaxDegreeCount",
+     "text": "Your Friendliness is maxed. No more gifts can be sent"
+    },
+    {
+     "id": "NumberTxt",
+     "text": "Rank {0}"
+    },
+    {
+     "id": "HeadInvadeBossHarm",
+     "text": "Team Total DMG"
+    },
+    {
+     "id": "HeadInvadeRoleHarm",
+     "text": "Character Total DMG"
+    },
+    {
+     "id": "HeadInvadeCreateTeam",
+     "text": "Create a Boss Invasion team?"
+    },
+    {
+     "id": "PartnerIsLeader",
+     "text": "You're not the partner leader and can't invite partners"
+    },
+    {
+     "id": "HeadInvadeToBattle",
+     "text": "The Boss Oars stands before you. Does your team dare to challenge him?"
+    },
+    {
+     "id": "PartnerPageExplain",
+     "text": "*Partners is a long-term team-up system between players. Invite close players to become partners, complete Partner Quests together, share lots of EXP and level up fast.*Becoming Partners\\nTo become partners with a player, you first need enough Friendliness. From the moment you become friends, you can raise it by teaming up for Bounty Quests, field idling, Story Replay, the first daily visit to each other's Homes and more. Sending friends gifts raises Friendliness a lot. (Friendliness gift items come from the Shop or special events.)\\nOnce your relationship reaches [Inseparable] (3600 Friendliness), you can become partners!*Partner Quests\\nWhen you have 3 partners, Partner Quests unlock. Complete them together for quest rewards and Synergy.*Synergy Level and Rewards\\nAs partners complete quests and earn Synergy, their Synergy level rises, unlocking more level rewards. These come in two types: item rewards, which each player can claim only once and can't claim again after changing teams; and buff rewards, which follow the Synergy level. If a partner leaves and the level drops, the buff turns off after 0:00 that day.*Partners Leaving\\nOnce you form partners, you can start Partner Quests. Note that if you have fewer than 3 partners, quests lock on the weekly refresh day (Thursday at 0:00), so when partners leave, find new ones in time to keep quests going.\\nIf a player leaves (including being removed by the leader, or removed by the system after 30 days offline), they enter a 24-hour cooldown and can't join other partners. Their Synergy contributions from Partner Quests are also deducted, which may lower the former partners' Synergy level and cost them some level rewards and buffs. So choose partners carefully and don't leave or remove them lightly."
+    },
+    {
+     "id": "SimulationBattleInTeam",
+     "text": "You're already in a team"
+    },
+    {
+     "id": "HeadInvadeInfo",
+     "text": "Boss Traits"
+    },
+    {
+     "id": "ParnterFriendListTitle",
+     "text": "Friend List"
+    },
+    {
+     "id": "HeadInvadeNum",
+     "text": "Boss Invasion rewards left this round:"
+    },
+    {
+     "id": "CantInvitePartner",
+     "text": "No friends available to invite"
+    },
+    {
+     "id": "PartnerTacitDescribeNum",
+     "text": "Synergy Required"
+    },
+    {
+     "id": "PartnerTacitDescribePrize",
+     "text": "Synergy Rewards"
+    },
+    {
+     "id": "DontHaveEnoughGift",
+     "text": "You don't have enough gifts"
+    },
+    {
+     "id": "PartnerTaskMyCountProcess",
+     "text": "[Your progress {0}]"
+    },
+    {
+     "id": "completeTaskCount",
+     "text": "Quests completed:"
+    },
+    {
+     "id": "HeadInvadeNotOpen",
+     "text": "The event hasn't started yet"
+    },
+    {
+     "id": "PartnerTacitDescribeNotGet",
+     "text": "Not Obtained"
+    },
+    {
+     "id": "SkillButtonCD",
+     "text": "Cooling Down"
+    },
+    {
+     "id": "HeadInvadePrizeHurt",
+     "text": "DMG Rewards"
+    },
+    {
+     "id": "HeadInvadePrizeHurtNum",
+     "text": "{0}0K+ points"
+    },
+    {
+     "id": "TeamBossAwardTitle",
+     "text": "Rewards are sent when the event ends"
+    },
+    {
+     "id": "TeckSkillNotBuild",
+     "text": "Can't build"
+    },
+    {
+     "id": "Stock_Num",
+     "text": "Stock: {0}"
+    },
+    {
+     "id": "StockLimitless",
+     "text": "Unlimited Stock"
+    },
+    {
+     "id": "TeckSkillNotNeedBuild",
+     "text": "No build needed"
+    },
+    {
+     "id": "BuildFortressCost",
+     "text": "Build Cost"
+    },
+    {
+     "id": "BuildFortressEffect",
+     "text": "Build Effect"
+    },
+    {
+     "id": "BuildFortressJb1",
+     "text": "Building"
+    },
+    {
+     "id": "BlessGiftOnce",
+     "text": "Offer 1 Time"
+    },
+    {
+     "id": "BlessGift10",
+     "text": "Offer 10 Times"
+    },
+    {
+     "id": "UIUnionGetNum",
+     "text": "Same-type outpost stock"
+    },
+    {
+     "id": "UIUnionGetTitle",
+     "text": "Built"
+    },
+    {
+     "id": "LackOfMaterial",
+     "text": "Not enough materials to build"
+    },
+    {
+     "id": "BuildSuccess",
+     "text": "Built {0}"
+    },
+    {
+     "id": "Zuo",
+     "text": "{0}"
+    },
+    {
+     "id": "UnionBuildBoxWindow",
+     "text": "Outpost Construction"
+    },
+    {
+     "id": "HeadInvadeNoBoss",
+     "text": "No boss"
+    },
+    {
+     "id": "UnionTradingOneKeyClear",
+     "text": "Clear All"
+    },
+    {
+     "id": "coin_desc_znq4",
+     "text": "Stamina for the Marine Battle event. Spend it to attack Marine outposts"
+    },
+    {
+     "id": "coin_desc_znq5",
+     "text": "Gold coins for the Marine Battle event, used to exchange rare items"
+    },
+    {
+     "id": "coin_desc_znq6",
+     "text": "Silver coins for the Marine Battle event, used to exchange rare items"
+    },
+    {
+     "id": "coin_desc_znq7",
+     "text": "Marine Battle Kizaru Spoils. Open to get some silver coins and rare gold coins"
+    },
+    {
+     "id": "coin_desc_znq8",
+     "text": "Marine Battle Fujitora Spoils. Open to get some silver coins and rare gold coins"
+    },
+    {
+     "id": "coin_desc_znq9",
+     "text": "Marine Battle Akainu Spoils. Open to get some silver coins and rare gold coins"
+    },
+    {
+     "id": "ccoin_name_znq1",
+     "text": "Battle Stamina"
+    },
+    {
+     "id": "ccoin_name_znq2",
+     "text": "Marine Battle Gold Coin"
+    },
+    {
+     "id": "ccoin_name_znq3",
+     "text": "Marine Battle Silver Coin"
+    },
+    {
+     "id": "ccoin_name_znq4",
+     "text": "Marine Battle Kizaru Spoils"
+    },
+    {
+     "id": "ccoin_name_znq5",
+     "text": "Marine Battle Fujitora Spoils"
+    },
+    {
+     "id": "ccoin_name_znq6",
+     "text": "Marine Battle Akainu Spoils"
+    },
+    {
+     "id": "ItemFilterPrefixLabel",
+     "text": "Trade Value:"
+    },
+    {
+     "id": "UnionTradeShipNoTimes",
+     "text": "No free trades left today"
+    },
+    {
+     "id": "UnionTradeShipBuyTradeTimeContent",
+     "text": "Spend {0}{1} to buy 1 trade? You can buy <color=red>{2}</color> more today"
+    },
+    {
+     "id": "UnionTradeShipTradeTime",
+     "text": "Trades left today: <color=red>{0}</color>"
+    },
+    {
+     "id": "UnionTradeShipSelectLimitTip",
+     "text": "Selection limit reached!"
+    },
+    {
+     "id": "union_tradeShip",
+     "text": "<color=#ffdd95>Lv{0}</color> Guild Merchant Ship"
+    },
+    {
+     "id": "uftradeShipLv",
+     "text": "Guild Merchant Ship Level:"
+    },
+    {
+     "id": "UnionTradeShipOver",
+     "text": "Trade complete. Awaiting unloading"
+    },
+    {
+     "id": "UnionTradeShipBackTime",
+     "text": "Return time: {0}"
+    },
+    {
+     "id": "UnionTradeShipSpeedUpCost",
+     "text": "Spend {0}{1} to return now?\\n<color=red>If you don't have enough Blue Diamonds, Rainbow Diamonds are used</color>"
+    },
+    {
+     "id": "UnionTradeShipAddImproveEquip",
+     "text": "The trade goods include enhanced equipment. Add them?"
+    },
+    {
+     "id": "HavedConcentrate",
+     "text": "A rally order was already issued. Please wait before rallying again"
+    },
+    {
+     "id": "WaitConcentrate",
+     "text": "No rally is complete yet. Please wait"
+    },
+    {
+     "id": "UnionTradeShipAddNoMaterial",
+     "text": "Add trade goods first"
+    },
+    {
+     "id": "HavedAssualt",
+     "text": "A charge order was already issued"
+    },
+    {
+     "id": "UnionTradeShipTrading",
+     "text": "The merchant ship is still trading and hasn't returned"
+    },
+    {
+     "id": "UnionBuildName_8",
+     "text": "Guild Merchant Ship"
+    },
+    {
+     "id": "UnionTradeShipBuffTxt",
+     "text": "{0} trade value +{1}% today"
+    },
+    {
+     "id": "UnionTradeShipDesc",
+     "text": "Trade Info"
+    },
+    {
+     "id": "UnionTradeShipToTrade",
+     "text": "Trade"
+    },
+    {
+     "id": "UnionTradeShipAddGoodsTip",
+     "text": "Add the placed items? They can't be returned once added"
+    },
+    {
+     "id": "UnionTradeShipNoReachCondition",
+     "text": "Your goods don't have enough trade value to trade"
+    },
+    {
+     "id": "UnionTradeShipExplain",
+     "text": "Merchant Ship Info*The Guild Merchant Ship is where guild members trade items. It opens at Guild Hall Lv1.*Once open, guild members can spend specific items (EXP Scrolls, Affinity items, Breakthrough Materials, and Lv20, 40, 60, 80 and 100 non-set equipment) for trade value\\nWith enough trade value you can set sail. Trades take travel time; spend some Blue Diamonds to complete them quickly.*Trade orders come in six tiers: E, D, C, B, A and S. Each order needs goods with enough trade value to start; higher tiers have a better chance of quality items from the reward pool."
+    },
+    {
+     "id": "UnionTradeShipWeekRewardTitle",
+     "text": "Weekly Trade"
+    },
+    {
+     "id": "UnionTradeShipWeekRewardTip",
+     "text": "Reach set trade values each week to claim rewards"
+    },
+    {
+     "id": "UnionTradeShipHasReachMax",
+     "text": "Trade goods limit reached for this addition"
+    },
+    {
+     "id": "UnionTradeShipHasOverflow",
+     "text": "Some added trade goods overflowed. Returned {0} {1}"
+    },
+    {
+     "id": "StartConcentrate",
+     "text": "Rally order issued!"
+    },
+    {
+     "id": "UnionTradingShipLeftTitle",
+     "text": "Trade Status"
+    },
+    {
+     "id": "UnionTradingShipLeftOneBtn",
+     "text": "Auto-Fill"
+    },
+    {
+     "id": "UnionTradingShipLeftGoBtn",
+     "text": "Set Sail Now"
+    },
+    {
+     "id": "UnionTradeShipUpgrade",
+     "text": "Upgrade Ship"
+    },
+    {
+     "id": "UnionTradingShiptitle",
+     "text": "Merchant Ship Trade"
+    },
+    {
+     "id": "UnionTradingShipPrize",
+     "text": "Possible Rewards"
+    },
+    {
+     "id": "UnionTradingShipNeedNum",
+     "text": "Trade Value Required"
+    },
+    {
+     "id": "UnionTradingShipCargo",
+     "text": "Trade Progress"
+    },
+    {
+     "id": "UnionTradingShipBack",
+     "text": "Return Now"
+    },
+    {
+     "id": "UnionTradingShipReachNext",
+     "text": "This order's trade value is maxed"
+    },
+    {
+     "id": "FortressBuilding",
+     "text": "An outpost is under construction!"
+    },
+    {
+     "id": "GemstoneExchangeShop",
+     "text": "Gem House"
+    },
+    {
+     "id": "coin_desc_1010",
+     "text": "Used to exchange Rainbow Gems at the Gem House."
+    },
+    {
+     "id": "blessBeforeFirstIn",
+     "text": "Complete the tutorial in your Home first"
+    },
+    {
+     "id": "HeadInvadeAddBot",
+     "text": "Add Boss Invasion support? Adding support creates a team"
+    },
+    {
+     "id": "HeadInvadeBossNumLimit",
+     "text": "Boss Invasion teams can have at most 3 members"
+    },
+    {
+     "id": "HighResHint",
+     "text": "High resolution increases battery use and heat, and lower-end devices may lag. Turn it on?"
+    },
+    {
      "id": "refineExplain",
      "text": "*Refining costs different Refining Stones depending on the refine level:\\n  Lv1 to 5: Basic Refining Stones;\\n  Lv6 to 10: Mid Refining Stones;\\n  Lv11 to 15: Advanced Refining Stones and Hero Stones;\\n  Lv16 to 20: Super Refining Stones and Hero Stones.\\n*From refine Lv11, failed refines raise the success rate:\\n  Lv11 to 16: up to 10% per failure;\\n  Lv16 to 20: failures can at most double the success rate.\\n*Success boost items: tap the boost button to use items that raise this refine's success rate. Each level can at most be doubled.\\n*When all equipment worn by a character reaches certain refine levels, Refine Master bonuses trigger and raise the character's stats."
+    },
+    {
+     "id": "SimulationBattleNoThisTypeTeam",
+     "text": "Your current team isn't a Boss Invasion team"
+    },
+    {
+     "id": "SimulationBattleRankFightPower",
+     "text": "Points: {0}"
+    },
+    {
+     "id": "SwitchAfterPromotion",
+     "text": "Switch to the promoted character?"
+    },
+    {
+     "id": "SwitchBeforePromotion",
+     "text": "Switch to the pre-promotion character?"
+    },
+    {
+     "id": "SwitchTip",
+     "text": "Switch Notice"
+    },
+    {
+     "id": "TeamBossExplain",
+     "text": "Boss Hunt opens 2 times daily during the event, at 11:30-12:30 and 18:30-19:30*Once it starts, team up with other players or event support to hunt together. Boss Hunt needs a team of 3 players or supports; build one with Quick Team or on the Boss Hunt page.*Each time the Boss respawns, it appears in a random area. The system shows three possible areas, and players must find it themselves. Battles with the Boss last a fixed 2 turns*Damage your characters deal to the Boss turns into points. The team's total points, each player's points and the top three damage dealers are tallied, and the team's total damage goes on the leaderboard*After the event, rewards are mailed based on your rank percentile.*Boss Hunt needs its own lineup; each player can deploy up to 5 characters, so up to three lineups totaling 15 characters can fight.*During the event, after each Boss respawn, your first team challenge gives one participation reward; further attempts give no reward but still count for team points. There's no limit on attempts, so team up and climb the leaderboard!*"
+    },
+    {
+     "id": "UnionTradingShipBuyTitle",
+     "text": "Trade Goods"
+    },
+    {
+     "id": "WishCard",
+     "text": "Get Blessing Charms from Daily Quests or by purchase, and spend them on the Blessing screen to draw.*Invite other players to bless your Wishing Tree to build wish progress. The more players bless it, the better your wish rewards; rewards peak after 10 players bless it.*Everyone who blesses gets a reward. When the tree's owner makes the wish, Wish Chests drop under the tree. If you're not in their Home then, your rewards may be slightly worse than those present, so be sure to witness your friends' wishes in person!*Each player can wish only once per day (resets daily at 0:00), with no limit on blessings. Blessing rewards and Blessing Chests are capped at 5 each. If a tree you blessed doesn't make a wish that day, you won't get the Blessing Chest, so wish after as many friends as possible have blessed you!*"
+    },
+    {
+     "id": "WishScene",
+     "text": "Get Blessing Charms from Daily Quests or by purchase, and spend them on the Blessing screen to draw.*Invite other players to bless your Wishing Tree to build wish progress. The more players bless it, the better your wish rewards; rewards peak after 10 players bless it.*Everyone who blesses gets a reward. When the tree's owner makes the wish, Wish Chests drop under the tree. If you're not in their Home then, your rewards may be slightly worse than those present, so be sure to witness your friends' wishes in person!*Each player can wish only once per day (resets daily at 0:00), with no limit on blessings. Blessing rewards and Blessing Chests are capped at 5 each. If a tree you blessed doesn't make a wish that day, you won't get the Blessing Chest, so wish after as many friends as possible have blessed you!*"
+    },
+    {
+     "id": "VideoRecruitNoBegin",
+     "text": "The event hasn't started yet"
+    },
+    {
+     "id": "VideoRecruitExplain",
+     "text": "*Limited Recruit uses Elite Recruit Tickets. Every 1 recruit gives 1 Golden Battle Soul, and a 10-pull guarantees an SR character*Limited Recruit may offer several limited SSR groups at once. Use the left/right buttons to choose the group you want, and the character button in each group to pick the character you most want. When several groups are available, each group's recruit count is tracked separately*Included rewards: if you don't get a limited SSR within 100 recruits, the 100th recruit guarantees one from the current SSR group; if you don't get your chosen limited SSR within 200 recruits, the 200th guarantees it. Getting your chosen limited SSR resets that group's count and refreshes the 100th and 200th recruit rewards.*Limited Recruit rates: R 82%, SR 15%, non-limited SSR 1.7%, limited SSR 1.3%. Each recruit event keeps the previous event's pull progress and reward status."
+    },
+    {
+     "id": "coin_name_fsj_1",
+     "text": "Harvest Coins"
+    },
+    {
+     "id": "coin_desc_fsj_2",
+     "text": "An exclusive currency from the Harvest Festival, used to exchange goods at the Harvest Festival stalls"
     },
     {
      "id": "coin_name_zjtz",
@@ -17801,6 +18501,498 @@
     {
      "id": "coin_desc_zjtz_1",
      "text": "A token from the Ultimate Challenge, used to exchange for basic items in the Challenge Shop"
+    },
+    {
+     "id": "TreePrayPrizeFree",
+     "text": "Free in {0}"
+    },
+    {
+     "id": "SpringBlessingShop",
+     "text": "Wish Shop"
+    },
+    {
+     "id": "LockPrizeContent",
+     "text": "Once locked, the prize pool stops refreshing automatically. You can unlock it anytime. Continue?"
+    },
+    {
+     "id": "UnlockPrizeContent",
+     "text": "Once unlocked, the prize pool refreshes automatically every day again. Continue?"
+    },
+    {
+     "id": "LockCant",
+     "text": "All prizes have been drawn. Can't lock"
+    },
+    {
+     "id": "RefreshPrizeCost",
+     "text": "Refreshing prizes costs {0}. Prizes will be re-randomized and this can't be undone. Continue?"
+    },
+    {
+     "id": "RefreshPrizeTimesLimit",
+     "text": "Daily refresh limit reached"
+    },
+    {
+     "id": "RefreshPrizeLock",
+     "text": "Prizes are locked. Unlock them first"
+    },
+    {
+     "id": "RefreshPrizeTime",
+     "text": "Less than ten minutes until the automatic refresh. Can't refresh"
+    },
+    {
+     "id": "coin_name_lyqy_1",
+     "text": "Falling Sakura Letter"
+    },
+    {
+     "id": "coin_desc_lyqy_1",
+     "text": "A token from the Falling Sakura Wish event, used to exchange event items."
+    },
+    {
+     "id": "Btn_Role_Cultivate",
+     "text": "Character Growth"
+    },
+    {
+     "id": "Btn_Equip_Cultivate",
+     "text": "Equipment Growth"
+    },
+    {
+     "id": "Btn_Game_Cultivate",
+     "text": "Mode Supplies"
+    },
+    {
+     "id": "Btn_Activity_Cultivate",
+     "text": "Spring Festival Bundle"
+    },
+    {
+     "id": "BaseRefineUpSuccessRate",
+     "text": "Base Success Rate"
+    },
+    {
+     "id": "VideoRecruitQuestionDownload",
+     "text": "You're on mobile data. Previewing this video uses {0}MB of data. Preview anyway?"
+    },
+    {
+     "id": "ShiLing",
+     "text": "1. This is a 3D turn-based card game suitable for users aged 12 and over. Minors should play under a guardian's supervision.\\n \\n2. This game is based on the One Piece story and follows adventures at sea. Gameplay involves moderately challenging card tactics, encouraging players to reach goals through thought and practice. The game has a text-based social system with strangers, managed in accordance with relevant laws and regulations.\\n \\n3. This game has a real-name verification system. Users verified as minors are subject to the following:\\n \\nSome modes and items require payment. Users under 8 can't make payments; minors aged 8 to under 16 can't top up more than ¥50 at a time or ¥200 per month in total; minors aged 16 and over can't top up more than ¥100 at a time or ¥400 per month in total.\\n \\nMinors can only play from 20:00 to 21:00 (1 hour) on Fridays, Saturdays, Sundays and public holidays; online game services aren't provided to minors at other times.\\n \\n4. This game centers on strategy, letting players grow alongside their characters while honing planning and thinking skills. Team modes require players to cooperate toward goals, helping build teamwork and a sense of the bigger picture. Its beautiful visuals offer a positive, enjoyable experience, and its character designs and stories draw on One Piece to boost players' positivity and happiness in life."
+    },
+    {
+     "id": "GiftMonthCard",
+     "text": "1. Daily claim:\\n[Rainbow Diamonds*5000]\\n[Blue Diamonds*50]\\n[Quick Challenge Tickets*10]\\n2. 3 free make-up check-ins per month\\n3. Double Player Shop purchases\\n4. First purchase includes New World Zoro\\n5. Unlocks auto-reforge and auto Super Soul Infusion for equipment"
+    },
+    {
+     "id": "GiftSeaMonthCard",
+     "text": "1. Unlocks these island skins:\\n[Wild Sand Island]\\n[Crystal Cave]\\n[Snowfield]\\n2. Adds 5 Island Conquest weekly quests\\n3. Double Conquest Coins from each battle"
+    },
+    {
+     "id": "GiftBuildMonthCard",
+     "text": "1. Activates the [Advanced Essence Collector] building\\n2. 2 extra Home construction workers\\n3. Production buildings get 20% extra progress\\n4. Dormitory Stamina recovery 50% faster\\n5. Double Home daily quest rewards, Raids +3"
+    },
+    {
+     "id": "LeftOverDay",
+     "text": "Days left: {0}"
+    },
+    {
+     "id": "FreeDiamondNumText",
+     "text": "Can gift {0} Rainbow Diamonds"
+    },
+    {
+     "id": "CarnivalGamesRule",
+     "text": "1. Drops from Golden Trial and Hero Trial dungeons are doubled.\\n2. Matching event dungeons opened with challenge tickets also get double drops."
+    },
+    {
+     "id": "LimitTimeRewardRule",
+     "text": "1. During the event, completing Story Replay, Daily Quests and Bounty Quests has a chance to drop each stage's event item.\\n2. Items dropped during the event can be exchanged for rare in-game items.\\n3. After the event ends, event drops can no longer be exchanged for rare items."
+    },
+    {
+     "id": "OnlineRewardOver",
+     "text": "All online rewards claimed today"
+    },
+    {
+     "id": "NetSecProtectTips",
+     "text": "Suspected use of cheats. If you have questions, please contact Support"
+    },
+    {
+     "id": "TreePrayNoPrize",
+     "text": "All prizes on the tree have been drawn. Can't draw!"
+    },
+    {
+     "id": "QuarterCard",
+     "text": "Trade License"
+    },
+    {
+     "id": "IOSQuarterCardInfo",
+     "text": "1. Subscription Price and Period\\n    You can subscribe to the Trade License in game for ¥88 per 3 months.\\n2. Subscription Content\\n    Trade License subscribers get rewards during the subscription.\\n    Claim 888 Rainbow Diamonds on purchase, plus 120 Rainbow Diamonds daily for 3 months.\\n3. Auto-Renewal\\n    Official Apple App Store subscriptions auto-renew, with payment confirmed through your iTunes Account.\\n    You must turn off auto-renewal manually in your iTunes/Apple ID settings.\\n    Auto-renewal is charged within 24 hours before the end of each subscription period and confirmed through your iTunes Account.\\n4. User Agreement\\n    User Agreement: <link=\"url=http://op.aligames.com/privacy/\"><#0000FF>http://op.aligames.com/privacy/</color></link>\\n5. Privacy Policy and Statement\\n    Privacy Statement: <link=\"url=http://op.aligames.com/privacy.html\"><#0000FF>http://op.aligames.com/privacy.html</color></link>\\n6. How to Cancel\\n    To cancel, on your iOS device go to \"Settings\" --> \"iTunes Store & App Store\" --> tap \"Apple ID\", then \"View Apple ID\", open \"Account Settings\", tap \"Subscriptions\" --> \"Manage\", choose the subscription for \"One Piece: Burning Will\" and cancel it."
+    },
+    {
+     "id": "QuarterCardContext",
+     "text": "1. Daily claim: Rainbow Diamonds*120\\n2. Daily Quick Battles raised to 40\\n3. 5 extra Daily Quest attempts"
+    },
+    {
+     "id": "IosMonthDay",
+     "text": "One Month"
+    },
+    {
+     "id": "IosQuarterDay",
+     "text": "Three Months"
+    },
+    {
+     "id": "info_phone_binding",
+     "text": "Link Phone"
+    },
+    {
+     "id": "AwakeCostIsNotEnough",
+     "text": "Not enough Awakening materials"
+    },
+    {
+     "id": "JueseShuxing_1",
+     "text": "Wide-Area"
+    },
+    {
+     "id": "JueseShuxing_2",
+     "text": "Coordination"
+    },
+    {
+     "id": "JueseShuxing_3",
+     "text": "Seal"
+    },
+    {
+     "id": "JueseShuxing_5",
+     "text": "Tenacious"
+    },
+    {
+     "id": "JueseShuxing_6",
+     "text": "Lethal"
+    },
+    {
+     "id": "ResetRefreshCost",
+     "text": "Price resets in {0}"
+    },
+    {
+     "id": "TreePrayExplain",
+     "text": "Sacred Tree Wish Info"
+    },
+    {
+     "id": "TreePrayOnceBtn",
+     "text": "Draw 1"
+    },
+    {
+     "id": "TreePrayFreeBtn",
+     "text": "Draw 1 Free"
+    },
+    {
+     "id": "Not_FightPoint",
+     "text": "Your deployed characters' Power is too low. Go anyway?"
+    },
+    {
+     "id": "Not_FightPoint_Hint",
+     "text": "Don't remind me again today"
+    },
+    {
+     "id": "Func_Not_Open",
+     "text": "Feature not available yet"
+    },
+    {
+     "id": "VideoRecruitOneCardIs0",
+     "text": "Current hero is {0}. Do a single pull?"
+    },
+    {
+     "id": "VideoRecruitTenCardIs0",
+     "text": "Current hero is {0}. Do a 10-pull?"
+    },
+    {
+     "id": "UnionTaskQuickStratUnlockLeveTip",
+     "text": "VIP level too low"
+    },
+    {
+     "id": "UnionTaskQuickStratCostItemTip",
+     "text": "Spend {0} to complete all guild quests at once?"
+    },
+    {
+     "id": "HomelandTaskQuickStartCostItemTip",
+     "text": "Spend {0} to complete all Home quests at once?"
+    },
+    {
+     "id": "PackQuickStartCostItemTip",
+     "text": "Spend {0} to gather everything at once?"
+    },
+    {
+     "id": "crawlTopwerFightPowerTips",
+     "text": "Your Power lets you skip straight to Floor {0}. Go there now?"
+    },
+    {
+     "id": "RecommendGrowUpLevel",
+     "text": "Character Level"
+    },
+    {
+     "id": "RecommendGrowUpStart",
+     "text": "Character Stars"
+    },
+    {
+     "id": "RecommendGrowUpbreak",
+     "text": "Breakthrough Level"
+    },
+    {
+     "id": "RecommendGrowUpSoul",
+     "text": "Soul Infusion Level"
+    },
+    {
+     "id": "RecommendGrowUpSkill",
+     "text": "Skill Points Used"
+    },
+    {
+     "id": "RecommendGrowUpTrain",
+     "text": "Training Level"
+    },
+    {
+     "id": "RecommendGrowUpRefine",
+     "text": "Equipment Refine Level"
+    },
+    {
+     "id": "CrawTowerCurrentChapter",
+     "text": "Floor {0}"
+    },
+    {
+     "id": "NewHeroTrain_AttackLV",
+     "text": "Lv{0} Attack Training"
+    },
+    {
+     "id": "AllHeroGet",
+     "text": "All Characters"
+    },
+    {
+     "id": "TradeShipOpen",
+     "text": "Not in a guild or Voyage Trade isn't unlocked"
+    },
+    {
+     "id": "crawlResetTips",
+     "text": "Reset your Voyage Tower floor to challenge it again? Resets left this week: {0}"
+    },
+    {
+     "id": "ActivateSuccesfully",
+     "text": "Activated"
+    },
+    {
+     "id": "CrawlTopwerPassChapter",
+     "text": "Cleared Floor {0}"
+    },
+    {
+     "id": "NewHeroTrain_Attack",
+     "text": "Attack +{0}"
+    },
+    {
+     "id": "NewHeroTrain_Defence",
+     "text": "Defense +{0}"
+    },
+    {
+     "id": "NewHeroTrain_HP",
+     "text": "HP +{0}"
+    },
+    {
+     "id": "NewHeroTrain_DefenceLV",
+     "text": "Lv{0} Defense Training"
+    },
+    {
+     "id": "NewHeroTrain_HPLV",
+     "text": "Lv{0} HP Training"
+    },
+    {
+     "id": "NewHeroTrain_TrainMasterLV",
+     "text": "Training Master Lv{0}"
+    },
+    {
+     "id": "sceneTransferException",
+     "text": "Scene resources are corrupted. Update to the full resources and try again. Return to login now?"
+    },
+    {
+     "id": "NewHeroTrain_HeroLevelNotEnough",
+     "text": "Hero level too low"
+    },
+    {
+     "id": "VideoRecruitStateText2",
+     "text": "pulls guaranteed"
+    },
+    {
+     "id": "VideoRecruitStateText3",
+     "text": "Limited Character"
+    },
+    {
+     "id": "ForCrystalSoul",
+     "text": "This character isn't at max stars. Can't exchange for Crystal Souls"
+    },
+    {
+     "id": "BreakNeedLevel",
+     "text": "Breakthrough at Lv{0}"
+    },
+    {
+     "id": "BountyHunt_AttTime",
+     "text": "Challenges this time {0}/{1}"
+    },
+    {
+     "id": "VIPShopTitle",
+     "text": "Launch Surprise"
+    },
+    {
+     "id": "VipPrivilege_name_1",
+     "text": "Tier 1 Privilege"
+    },
+    {
+     "id": "VipPrivilege_name_2",
+     "text": "Tier 2 Privilege"
+    },
+    {
+     "id": "VipPrivilege_name_3",
+     "text": "Tier 3 Privilege"
+    },
+    {
+     "id": "VipPrivilege_desc_1",
+     "text": "Players with Tier 1 Privilege can complete all of the day's [Guild Quests] at once in the [Guild] mode."
+    },
+    {
+     "id": "VipPrivilege_desc_2",
+     "text": "Players with Tier 2 Privilege can gather all target items on the current map at once in [Field Gathering], spending the matching Vigor. Also unlocks the [Dongtata Helper] feature."
+    },
+    {
+     "id": "VipPrivilege_desc_3",
+     "text": "Players with Tier 3 Privilege can complete all of the day's [Home Quests] at once in the [Home] mode."
+    },
+    {
+     "id": "CrawlTopwerNotRetTips",
+     "text": "This is the first stage. Can't reset."
+    },
+    {
+     "id": "NewHeroTrain_LimitLV",
+     "text": "Requires character Lv{0}"
+    },
+    {
+     "id": "BloodQuestion",
+     "text": "Blood Battle is a stage-by-stage mode where HP carries over between stages. All your eligible heroes can join, and battles are decided by comparing Power. Each victory opens the next stage, and the more stages you clear, the better the rewards*Unlock: Blood Battle unlocks at Lv17\\nOpen time: all day\\nAttempts: 1 per day; Blood Battle resets daily at 0:00*Eligible heroes: all selectable characters can join\\nHero HP: at the start of each run all heroes have 100% HP. Remaining HP carries over to the next battle; heroes at 0 HP can't fight again this run, and the run ends when all heroes are at 0 HP*Characters per battle: deploy 1-5 heroes per battle\\nBattle format: decided by comparing Power, calculated from each hero's own Power, quality, stars, stats and more\\nBattle factors: heroes' current HP at the start, the number of heroes deployed and their Power all affect the battle\\nHeroes' live Power isn't tracked after a run starts, so prepare well before fighting, Captains*Win condition: one side's HP reaches 0\\nResult: heroes' remaining HP carries over to the next battle, so plan your deployment order wisely, Captains*Sweep: your cleared floor count minus 5 becomes the sweepable floors for your next Blood Battle"
+    },
+    {
+     "id": "RechargeVIPShop",
+     "text": "Limited-Time Shop"
+    },
+    {
+     "id": "SeaBuyTips",
+     "text": "Get the Premium Sailing Pass right after purchase"
+    },
+    {
+     "id": "NoActiveItem",
+     "text": "Nothing to activate"
+    },
+    {
+     "id": "NewHeroTrain_FullProgress",
+     "text": "Training complete"
+    },
+    {
+     "id": "NewHeroTrain_UpgradeNeedLevel",
+     "text": "Complete the previous training level first"
+    },
+    {
+     "id": "NewRouteLegendLable",
+     "text": "Clear Voyage Tower stage {0}"
+    },
+    {
+     "id": "NewsetSailLable",
+     "text": "Reach {0} Power"
+    },
+    {
+     "id": "NewRechargeLevelTargetLable",
+     "text": "Reach Lv{0}"
+    },
+    {
+     "id": "FairPlaySeasonTime",
+     "text": "{0}/{1}-{2}/{3}"
+    },
+    {
+     "id": "FairPlayTurnModeBanTip",
+     "text": "Ban {0} characters"
+    },
+    {
+     "id": "FairPlayTurnModePickTip",
+     "text": "Pick {0} characters"
+    },
+    {
+     "id": "FairPlayTurnModeBanWaitTip",
+     "text": "The opponent is banning characters"
+    },
+    {
+     "id": "FairPlayAllPick",
+     "text": "Mixed Mode"
+    },
+    {
+     "id": "FairPlayConditionTip",
+     "text": "(Play at least 10 matches a week to get rewards)"
+    },
+    {
+     "id": "FairPlayExplain",
+     "text": "*1. Battle Tournament has three stages: preliminaries, semifinals and finals.*2. Preliminaries use Ban-Pick mode; semifinals use Draft mode.*3. Battle Tournament has daily quests that give rewards.*4. Draft mode needs no characters of your own. Once both sides enter, the system drafts 24 random SSR characters. Both sides take turns banning 4 characters in total in 1-1-1-1 order, then each picks 5 characters in 1-2-2-2-2-1 order.*5. In Battle Tournament, the same character has identical stats for everyone. All characters have no equipment, no gems, max stars, max skills, max breakthrough, no training and no Soul Infusion.*6. Characters automatically unlock and max their 6-star and 8-star talents.*7. Battle Tournament is open daily 12:00-14:00 and 18:00-20:00, four hours a day.*8. Matchmaking stops at 14:00 and 20:00, but matches in progress still gain or lose points normally once decided.*9. These characters get huge Attack, Defense and HP boosts: Rob Lucci, Sentomaru, Crocodile, Enel, Aokiji, Garp, Gecko Moria, Bartholomew Kuma, Kizaru, Portgas D. Ace, Akainu, Mihawk, Jinbe, Boa Hancock, Law, Kid, Rayleigh, Sengoku.*10. These characters get large Attack, Defense and HP boosts: Magellan, Blackbeard, Shanks, Vista, Marco, Jozu, Emporio Ivankov, Whitebeard, New World Usopp, New World Nami, New World Robin, New World Sanji, New World Luffy, New World Zoro, New World Tashigi, New World Smoker.*11. These characters get small Attack, Defense and HP boosts: New World Franky, New World Chopper, New World Brook, New World Law, Donquixote Doflamingo, Sabo, Kin'emon, Charlotte Katakuri, Caesar Clown, Fujitora, Charlotte Cracker, Charlotte Smoothie, Vinsmoke Reiju, New World Akainu.*12. From turn 3, every two turns all surviving characters gain 20% Attack until the match ends; this buff stacks without limit.*13. Declining a found match, or quitting/surrendering during picks, bans you from Battle Tournament for a while; the ban grows with each quit that day.*14. You can't surrender in the first three turns."
+    },
+    {
+     "id": "FairPlayFightScore",
+     "text": "Duel Points"
+    },
+    {
+     "id": "FairPlayHasSameSourceHero",
+     "text": "A hero from the same source is already on the field"
+    },
+    {
+     "id": "FairPlayHeroPoolFull",
+     "text": "Hero pool is full"
+    },
+    {
+     "id": "FairPlayMatchingTip",
+     "text": "Matchmaking in progress. Cancel and exit?"
+    },
+    {
+     "id": "FairPlayRobPick",
+     "text": "Shuffle Mode"
+    },
+    {
+     "id": "FairPlaySegment",
+     "text": "Tier:"
+    },
+    {
+     "id": "FairPlaySelfPick",
+     "text": "Ban-Pick Mode"
+    },
+    {
+     "id": "FairPlayServerId",
+     "text": "-Server {0}"
+    },
+    {
+     "id": "FairPlayShopName",
+     "text": "Peak Shop"
+    },
+    {
+     "id": "FairPlayWeekSettleTime",
+     "text": "Settles every Saturday at 24:00"
+    },
+    {
+     "id": "FairPlayDanLevelSuffix",
+     "text": "Rank"
+    },
+    {
+     "id": "FairPlayTeamNoEnough",
+     "text": "Your roster must have 12 characters"
+    },
+    {
+     "id": "FairPlaySeasonTask",
+     "text": "Season Quests"
+    },
+    {
+     "id": "FairPlayGiveUp",
+     "text": "Forfeit this match?"
+    },
+    {
+     "id": "FairPlayGiveUpDesc",
+     "text": "Quitting now counts as a loss and deducts points. Forfeit anyway?"
+    },
+    {
+     "id": "FairPlayRankDanTitile",
+     "text": "Score"
+    },
+    {
+     "id": "FairPlayHeroNoExist",
+     "text": "This hero can't be used in this mode"
     },
     {
      "id": "ExpGetWay_CrawlTower",
@@ -17841,7 +19033,7 @@
      "text": "Limited Recruit"
     }
    ],
-   "partial": "3669/5841 rows translated so far"
+   "partial": "3967/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
