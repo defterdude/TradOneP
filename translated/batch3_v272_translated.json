@@ -1,0 +1,1471 @@
+{
+ "header": {
+  "description": "Batch 3 (batch3_v272) English translation: Captain's Guide, old Voyage Guide, Island Conquest, item descriptions, UI texts.",
+  "source": "source/batch3_v272_source.json"
+ },
+ "tables": {
+  "captains_guide": {
+   "TableNewStrongGuideType": {
+    "key_column": "guideTypeId",
+    "text_columns": [
+     "name",
+     "explanatoryText"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": true,
+    "rows": [
+     {
+      "guideTypeId": "1",
+      "name": "Team",
+      "explanatoryText": "Raise your Team Level, which affects character levels."
+     },
+     {
+      "guideTypeId": "2",
+      "name": "Characters",
+      "explanatoryText": "Get and train characters to build a strong squad."
+     },
+     {
+      "guideTypeId": "3",
+      "name": "Squad",
+      "explanatoryText": "Squad growth modes affect all deployed characters."
+     },
+     {
+      "guideTypeId": "4",
+      "name": "Warship",
+      "explanatoryText": "Upgrade warships for stronger battle buffs."
+     },
+     {
+      "guideTypeId": "5",
+      "name": "Equipment",
+      "explanatoryText": "Get and upgrade equipment and socket gems to raise your Power."
+     },
+     {
+      "guideTypeId": "6",
+      "name": "Gems",
+      "explanatoryText": "Get and socket gems to raise your Power."
+     }
+    ],
+    "other_bundle_rows": [
+     {
+      "guideTypeId": "1",
+      "name": "Level",
+      "explanatoryText": "Raise your Team Level, which affects character levels."
+     },
+     {
+      "guideTypeId": "2",
+      "name": "Growth",
+      "explanatoryText": "Train your characters to build a strong squad."
+     },
+     {
+      "guideTypeId": "3",
+      "name": "Squad",
+      "explanatoryText": "Squad growth modes affect all deployed characters."
+     },
+     {
+      "guideTypeId": "4",
+      "name": "Equipment",
+      "explanatoryText": "Get and upgrade equipment and socket gems to raise your Power."
+     },
+     {
+      "guideTypeId": "5",
+      "name": "Gems",
+      "explanatoryText": "Get and socket gems to raise your Power."
+     },
+     {
+      "guideTypeId": "6",
+      "name": "Characters",
+      "explanatoryText": "How to get every current SSR character."
+     },
+     {
+      "guideTypeId": "7",
+      "name": "Resources",
+      "explanatoryText": "Get Gold Bars, Blue Diamonds and Rainbow Diamonds."
+     }
+    ]
+   },
+   "TableNewStrongGuide": {
+    "key_column": "strongGuideID",
+    "text_columns": [
+     "strongGuideName"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": true,
+    "rows": [
+     {
+      "strongGuideID": "1",
+      "strongGuideName": "Team Level Up"
+     },
+     {
+      "strongGuideID": "2",
+      "strongGuideName": "Get Characters"
+     },
+     {
+      "strongGuideID": "3",
+      "strongGuideName": "Character Level Up"
+     },
+     {
+      "strongGuideID": "4",
+      "strongGuideName": "Star Upgrade"
+     },
+     {
+      "strongGuideID": "5",
+      "strongGuideName": "Hero Break"
+     },
+     {
+      "strongGuideID": "6",
+      "strongGuideName": "Soul Infusion"
+     },
+     {
+      "strongGuideID": "7",
+      "strongGuideName": "Character Skills"
+     },
+     {
+      "strongGuideID": "8",
+      "strongGuideName": "Affinity"
+     },
+     {
+      "strongGuideID": "9",
+      "strongGuideName": "Formations"
+     },
+     {
+      "strongGuideID": "10",
+      "strongGuideName": "Factions"
+     },
+     {
+      "strongGuideID": "11",
+      "strongGuideName": "Get Warships"
+     },
+     {
+      "strongGuideID": "12",
+      "strongGuideName": "Warship Refinement"
+     },
+     {
+      "strongGuideID": "13",
+      "strongGuideName": "Get Equipment"
+     },
+     {
+      "strongGuideID": "14",
+      "strongGuideName": "Equipment Refine"
+     },
+     {
+      "strongGuideID": "15",
+      "strongGuideName": "Socketing"
+     },
+     {
+      "strongGuideID": "16",
+      "strongGuideName": "Quintessence"
+     },
+     {
+      "strongGuideID": "17",
+      "strongGuideName": "Reforge"
+     },
+     {
+      "strongGuideID": "19",
+      "strongGuideName": "Get Gems"
+     },
+     {
+      "strongGuideID": "20",
+      "strongGuideName": "Gem Synthesis"
+     }
+    ],
+    "other_bundle_rows": [
+     {
+      "strongGuideID": "1",
+      "strongGuideName": "Team Level Up"
+     },
+     {
+      "strongGuideID": "2",
+      "strongGuideName": "Get Characters"
+     },
+     {
+      "strongGuideID": "3",
+      "strongGuideName": "Character Level Up"
+     },
+     {
+      "strongGuideID": "4",
+      "strongGuideName": "Transcend"
+     },
+     {
+      "strongGuideID": "5",
+      "strongGuideName": "Hero Break"
+     },
+     {
+      "strongGuideID": "6",
+      "strongGuideName": "Character Skills"
+     },
+     {
+      "strongGuideID": "7",
+      "strongGuideName": "Affinity"
+     },
+     {
+      "strongGuideID": "8",
+      "strongGuideName": "Get Formations"
+     },
+     {
+      "strongGuideID": "9",
+      "strongGuideName": "Get Equipment"
+     },
+     {
+      "strongGuideID": "10",
+      "strongGuideName": "Equipment Refine"
+     },
+     {
+      "strongGuideID": "11",
+      "strongGuideName": "Get Gems"
+     },
+     {
+      "strongGuideID": "12",
+      "strongGuideName": "Get Gold Bars"
+     },
+     {
+      "strongGuideID": "13",
+      "strongGuideName": "Get Blue Diamonds"
+     },
+     {
+      "strongGuideID": "14",
+      "strongGuideName": "Crocodile"
+     },
+     {
+      "strongGuideID": "15",
+      "strongGuideName": "Enel"
+     },
+     {
+      "strongGuideID": "16",
+      "strongGuideName": "Aokiji"
+     },
+     {
+      "strongGuideID": "17",
+      "strongGuideName": "Garp"
+     },
+     {
+      "strongGuideID": "18",
+      "strongGuideName": "Gecko Moria"
+     },
+     {
+      "strongGuideID": "19",
+      "strongGuideName": "Bartholomew Kuma"
+     },
+     {
+      "strongGuideID": "20",
+      "strongGuideName": "Kizaru"
+     },
+     {
+      "strongGuideID": "21",
+      "strongGuideName": "Portgas D. Ace"
+     },
+     {
+      "strongGuideID": "22",
+      "strongGuideName": "Akainu"
+     },
+     {
+      "strongGuideID": "23",
+      "strongGuideName": "Mihawk"
+     },
+     {
+      "strongGuideID": "24",
+      "strongGuideName": "Rob Lucci"
+     },
+     {
+      "strongGuideID": "25",
+      "strongGuideName": "Boa Hancock"
+     },
+     {
+      "strongGuideID": "26",
+      "strongGuideName": "Sengoku"
+     },
+     {
+      "strongGuideID": "27",
+      "strongGuideName": "Whitebeard"
+     },
+     {
+      "strongGuideID": "28",
+      "strongGuideName": "Marco"
+     },
+     {
+      "strongGuideID": "29",
+      "strongGuideName": "Shanks"
+     },
+     {
+      "strongGuideID": "30",
+      "strongGuideName": "Get Rainbow Diamonds"
+     }
+    ]
+   },
+   "TableNewStrongGuideTarget": {
+    "key_column": "targetID",
+    "text_columns": [
+     "strongGuideName",
+     "explanatoryText"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": true,
+    "rows": [
+     {
+      "targetID": "1",
+      "strongGuideName": "Pass",
+      "explanatoryText": "Get Team EXP from activity rewards"
+     },
+     {
+      "targetID": "2",
+      "strongGuideName": "Daily Quests",
+      "explanatoryText": "Complete Daily Quests for Team EXP"
+     },
+     {
+      "targetID": "3",
+      "strongGuideName": "Bounty Quest",
+      "explanatoryText": "Complete Bounty Quests for Team EXP"
+     },
+     {
+      "targetID": "4",
+      "strongGuideName": "Limited Recruit",
+      "explanatoryText": "Get characters from Limited Recruit"
+     },
+     {
+      "targetID": "5",
+      "strongGuideName": "Prestige Shop",
+      "explanatoryText": "Get character shards from the Prestige Shop"
+     },
+     {
+      "targetID": "6",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get character shards from the Arena Shop"
+     },
+     {
+      "targetID": "7",
+      "strongGuideName": "Ultimate Challenge Shop",
+      "explanatoryText": "Get character shards from the Ultimate Challenge Shop"
+     },
+     {
+      "targetID": "8",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get character shards from Elite Challenge"
+     },
+     {
+      "targetID": "9",
+      "strongGuideName": "Blood Battle",
+      "explanatoryText": "Get EXP Scrolls from Blood Battle"
+     },
+     {
+      "targetID": "10",
+      "strongGuideName": "Hero Trial",
+      "explanatoryText": "Get EXP Scrolls from Hero Trial"
+     },
+     {
+      "targetID": "11",
+      "strongGuideName": "Ultimate Challenge Shop",
+      "explanatoryText": "Get EXP Scrolls from Ultimate Challenge"
+     },
+     {
+      "targetID": "12",
+      "strongGuideName": "Adventure Shop",
+      "explanatoryText": "Get EXP Scrolls from the Adventure Shop"
+     },
+     {
+      "targetID": "13",
+      "strongGuideName": "Voyage Tower",
+      "explanatoryText": "Get EXP Scrolls from the Voyage Tower"
+     },
+     {
+      "targetID": "14",
+      "strongGuideName": "Daily Quests",
+      "explanatoryText": "Get character EXP from Daily Quests"
+     },
+     {
+      "targetID": "15",
+      "strongGuideName": "Bounty Quest",
+      "explanatoryText": "Get EXP Scrolls from Blood Battle"
+     },
+     {
+      "targetID": "16",
+      "strongGuideName": "Limited Recruit",
+      "explanatoryText": "Get Golden Battle Souls from Limited Recruit"
+     },
+     {
+      "targetID": "17",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Golden Battle Souls from the Arena Shop"
+     },
+     {
+      "targetID": "18",
+      "strongGuideName": "Crystal Soul Shop",
+      "explanatoryText": "Get Golden Battle Souls from the Arena Shop"
+     },
+     {
+      "targetID": "19",
+      "strongGuideName": "Ultimate Challenge Shop",
+      "explanatoryText": "Get Golden Battle Souls from the Ultimate Challenge Shop"
+     },
+     {
+      "targetID": "20",
+      "strongGuideName": "Prestige Shop",
+      "explanatoryText": "Get Golden Battle Souls from the Prestige Shop"
+     },
+     {
+      "targetID": "21",
+      "strongGuideName": "Event Dungeon - Breakthrough Day",
+      "explanatoryText": "Get Breakthrough Materials from Event Dungeons"
+     },
+     {
+      "targetID": "22",
+      "strongGuideName": "Ultimate Challenge Shop",
+      "explanatoryText": "Get Breakthrough Materials from the Ultimate Challenge Shop"
+     },
+     {
+      "targetID": "23",
+      "strongGuideName": "Soul Infusion",
+      "explanatoryText": "Get Soul Stones from Soul Infusion"
+     },
+     {
+      "targetID": "24",
+      "strongGuideName": "Island Shop",
+      "explanatoryText": "Get Soul Infusion Tickets from the Island Shop"
+     },
+     {
+      "targetID": "25",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Soul Infusion Tickets from the Arena Shop"
+     },
+     {
+      "targetID": "26",
+      "strongGuideName": "Ultimate Challenge Shop",
+      "explanatoryText": "Get Soul Infusion Tickets from the Ultimate Challenge Shop"
+     },
+     {
+      "targetID": "27",
+      "strongGuideName": "Event Dungeon - Secret Book Day",
+      "explanatoryText": "Get Secret Books from Event Dungeons"
+     },
+     {
+      "targetID": "28",
+      "strongGuideName": "Prestige Shop",
+      "explanatoryText": "Get Secret Books from the Prestige Shop"
+     },
+     {
+      "targetID": "29",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Secret Books from the Arena Shop"
+     },
+     {
+      "targetID": "30",
+      "strongGuideName": "Character Stories",
+      "explanatoryText": "Get Affinity items from Character Stories"
+     },
+     {
+      "targetID": "31",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Formations from the Arena Shop"
+     },
+     {
+      "targetID": "32",
+      "strongGuideName": "Adventure Shop",
+      "explanatoryText": "Get Formations from the Adventure Shop"
+     },
+     {
+      "targetID": "33",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Faction items from the Arena Shop"
+     },
+     {
+      "targetID": "34",
+      "strongGuideName": "Shipyard",
+      "explanatoryText": "Build warships at the Shipyard"
+     },
+     {
+      "targetID": "35",
+      "strongGuideName": "Sea Conquest Shop",
+      "explanatoryText": "Get warships from the Sea Conquest Shop"
+     },
+     {
+      "targetID": "36",
+      "strongGuideName": "Great Voyage Shop",
+      "explanatoryText": "Get Refinement items from the Great Voyage Shop"
+     },
+     {
+      "targetID": "37",
+      "strongGuideName": "Sea Conquest Shop",
+      "explanatoryText": "Get Refinement items from the Sea Conquest Shop"
+     },
+     {
+      "targetID": "38",
+      "strongGuideName": "Story Replay",
+      "explanatoryText": "Get equipment from Story Replay"
+     },
+     {
+      "targetID": "39",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get equipment from the Arena Shop"
+     },
+     {
+      "targetID": "41",
+      "strongGuideName": "Adventure Shop",
+      "explanatoryText": "Get equipment from the Adventure Shop"
+     },
+     {
+      "targetID": "42",
+      "strongGuideName": "Prestige Shop",
+      "explanatoryText": "Get Refine items from the Prestige Shop"
+     },
+     {
+      "targetID": "43",
+      "strongGuideName": "Blue Diamond Shop",
+      "explanatoryText": "Get Refine items from the Blue Diamond Shop"
+     },
+     {
+      "targetID": "44",
+      "strongGuideName": "Adventure Shop",
+      "explanatoryText": "Get Refine items from the Adventure Shop"
+     },
+     {
+      "targetID": "45",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Refine items from the Arena Shop"
+     },
+     {
+      "targetID": "46",
+      "strongGuideName": "Island Shop",
+      "explanatoryText": "Get Refine items from the Island Shop"
+     },
+     {
+      "targetID": "47",
+      "strongGuideName": "Adventure Shop",
+      "explanatoryText": "Get Socketing items from the Adventure Shop"
+     },
+     {
+      "targetID": "48",
+      "strongGuideName": "Blue Diamond Shop",
+      "explanatoryText": "Get Socketing items from the Blue Diamond Shop"
+     },
+     {
+      "targetID": "49",
+      "strongGuideName": "Ultimate Challenge Shop",
+      "explanatoryText": "Get Socketing items from the Ultimate Challenge Shop"
+     },
+     {
+      "targetID": "50",
+      "strongGuideName": "Ultimate Challenge Shop",
+      "explanatoryText": "Get Quintessence Stones from the Ultimate Challenge Shop"
+     },
+     {
+      "targetID": "51",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Quintessence Stones from the Arena Shop"
+     },
+     {
+      "targetID": "53",
+      "strongGuideName": "Ultimate Challenge Shop",
+      "explanatoryText": "Get Reforge Stones from the Ultimate Challenge Shop"
+     },
+     {
+      "targetID": "55",
+      "strongGuideName": "Ultimate Challenge Shop",
+      "explanatoryText": "Get Gems from the Ultimate Challenge Shop"
+     },
+     {
+      "targetID": "56",
+      "strongGuideName": "Great Voyage Shop",
+      "explanatoryText": "Get Gems from the Great Voyage Shop"
+     },
+     {
+      "targetID": "57",
+      "strongGuideName": "Bag",
+      "explanatoryText": "Combine low-level Gems into higher-level ones in the Bag"
+     }
+    ],
+    "other_bundle_rows": [
+     {
+      "targetID": "1",
+      "strongGuideName": "Pass",
+      "explanatoryText": "Get Team EXP from activity rewards"
+     },
+     {
+      "targetID": "2",
+      "strongGuideName": "Daily Quests",
+      "explanatoryText": "Complete Daily Quests for Team EXP"
+     },
+     {
+      "targetID": "3",
+      "strongGuideName": "Bounty Quest",
+      "explanatoryText": "Complete Bounty Quests for Team EXP"
+     },
+     {
+      "targetID": "4",
+      "strongGuideName": "Voyage Tower",
+      "explanatoryText": "Clear the Voyage Tower for Team EXP"
+     },
+     {
+      "targetID": "5",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get characters from Recruit"
+     },
+     {
+      "targetID": "6",
+      "strongGuideName": "Pass",
+      "explanatoryText": "Get Elite Recruit Tickets from the Pass"
+     },
+     {
+      "targetID": "7",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Exchange Arena Coins for Elite Recruit Tickets"
+     },
+     {
+      "targetID": "8",
+      "strongGuideName": "Character Stories",
+      "explanatoryText": "First clears grant Elite Recruit Tickets"
+     },
+     {
+      "targetID": "9",
+      "strongGuideName": "Voyage Tower",
+      "explanatoryText": "Clear the Voyage Tower for Recruit Tickets"
+     },
+     {
+      "targetID": "10",
+      "strongGuideName": "Pass",
+      "explanatoryText": "Get EXP items from the Pass"
+     },
+     {
+      "targetID": "11",
+      "strongGuideName": "Hero Trial",
+      "explanatoryText": "Get EXP items from Hero Trial"
+     },
+     {
+      "targetID": "12",
+      "strongGuideName": "Voyage Tower",
+      "explanatoryText": "Get EXP items from the Voyage Tower"
+     },
+     {
+      "targetID": "13",
+      "strongGuideName": "Daily Quests",
+      "explanatoryText": "Complete Daily Quests for character EXP"
+     },
+     {
+      "targetID": "14",
+      "strongGuideName": "Bounty Quest",
+      "explanatoryText": "Complete Bounty Quests for character EXP"
+     },
+     {
+      "targetID": "15",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Golden Battle Souls from Recruit"
+     },
+     {
+      "targetID": "16",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Golden Battle Souls from the Arena Shop"
+     },
+     {
+      "targetID": "17",
+      "strongGuideName": "Ladder",
+      "explanatoryText": "Get Golden Battle Souls from Ladder rewards"
+     },
+     {
+      "targetID": "18",
+      "strongGuideName": "Event Dungeon - Breakthrough Day",
+      "explanatoryText": "Get Breakthrough Materials from Event Dungeons"
+     },
+     {
+      "targetID": "19",
+      "strongGuideName": "Combat Training",
+      "explanatoryText": "Clear Combat Training for skill upgrade items"
+     },
+     {
+      "targetID": "20",
+      "strongGuideName": "Character Stories",
+      "explanatoryText": "Get Affinity items from Character Stories"
+     },
+     {
+      "targetID": "21",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Formations from the Arena Shop"
+     },
+     {
+      "targetID": "22",
+      "strongGuideName": "Story Replay",
+      "explanatoryText": "Get equipment from Story Replay"
+     },
+     {
+      "targetID": "23",
+      "strongGuideName": "Prestige Shop",
+      "explanatoryText": "Get equipment from the Prestige Shop"
+     },
+     {
+      "targetID": "24",
+      "strongGuideName": "Guild Bounty Shop",
+      "explanatoryText": "Get equipment from the Guild Bounty Shop"
+     },
+     {
+      "targetID": "25",
+      "strongGuideName": "Elite Challenge Shop",
+      "explanatoryText": "Get equipment from the Elite Challenge Shop"
+     },
+     {
+      "targetID": "26",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get equipment from the Arena Shop"
+     },
+     {
+      "targetID": "27",
+      "strongGuideName": "Story Replay",
+      "explanatoryText": "Story Replay has a chance to drop Refining Stones"
+     },
+     {
+      "targetID": "28",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Get Hero Stones from the Rainbow Diamond Shop"
+     },
+     {
+      "targetID": "29",
+      "strongGuideName": "Blood Battle",
+      "explanatoryText": "Blood Battle has a chance to drop Hero Stones"
+     },
+     {
+      "targetID": "30",
+      "strongGuideName": "Prestige Shop",
+      "explanatoryText": "Get Hero Stones from the Prestige Shop"
+     },
+     {
+      "targetID": "31",
+      "strongGuideName": "Guild Bounty Shop",
+      "explanatoryText": "Get Hero Stones from the Guild Bounty Shop"
+     },
+     {
+      "targetID": "32",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Hero Stones from Elite Challenge"
+     },
+     {
+      "targetID": "33",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Hero Stones from the Arena Shop"
+     },
+     {
+      "targetID": "34",
+      "strongGuideName": "Blood Battle",
+      "explanatoryText": "Blood Battle has a chance to drop Gems"
+     },
+     {
+      "targetID": "35",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Get Gems from the Rainbow Diamond Shop"
+     },
+     {
+      "targetID": "36",
+      "strongGuideName": "Voyage Tower",
+      "explanatoryText": "Clear the Voyage Tower for Gold Bars"
+     },
+     {
+      "targetID": "37",
+      "strongGuideName": "Golden Trial",
+      "explanatoryText": "Get EXP items from Hero Trial"
+     },
+     {
+      "targetID": "38",
+      "strongGuideName": "Blood Battle",
+      "explanatoryText": "Blood Battle clears have a chance to grant Blue Diamonds"
+     },
+     {
+      "targetID": "39",
+      "strongGuideName": "Story Replay",
+      "explanatoryText": "First Story Replay clears grant Blue Diamonds"
+     },
+     {
+      "targetID": "40",
+      "strongGuideName": "Character Stories",
+      "explanatoryText": "First Character Stories clears grant Blue Diamonds"
+     },
+     {
+      "targetID": "41",
+      "strongGuideName": "Ladder Rewards",
+      "explanatoryText": "Reach Ladder rank rewards for Blue Diamonds"
+     },
+     {
+      "targetID": "42",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Crocodile from Recruit"
+     },
+     {
+      "targetID": "43",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Crocodile shards from Elite Challenge"
+     },
+     {
+      "targetID": "44",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "45",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Enel from Recruit"
+     },
+     {
+      "targetID": "46",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Enel shards from Elite Challenge"
+     },
+     {
+      "targetID": "47",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "48",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Aokiji from Recruit"
+     },
+     {
+      "targetID": "49",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Aokiji shards from Elite Challenge"
+     },
+     {
+      "targetID": "50",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "51",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Garp from Recruit"
+     },
+     {
+      "targetID": "52",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Garp shards from Elite Challenge"
+     },
+     {
+      "targetID": "53",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "54",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Gecko Moria from Recruit"
+     },
+     {
+      "targetID": "55",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Gecko Moria shards from Elite Challenge"
+     },
+     {
+      "targetID": "56",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "57",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Bartholomew Kuma from Recruit"
+     },
+     {
+      "targetID": "58",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Bartholomew Kuma shards from Elite Challenge"
+     },
+     {
+      "targetID": "59",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "60",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Kizaru from Recruit"
+     },
+     {
+      "targetID": "61",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Kizaru shards from Elite Challenge"
+     },
+     {
+      "targetID": "62",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Kizaru shards from the Arena Shop"
+     },
+     {
+      "targetID": "63",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "64",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Portgas D. Ace from Recruit"
+     },
+     {
+      "targetID": "65",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Portgas D. Ace shards from Elite Challenge"
+     },
+     {
+      "targetID": "66",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "67",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Akainu from Recruit"
+     },
+     {
+      "targetID": "68",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Akainu shards from Elite Challenge"
+     },
+     {
+      "targetID": "69",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "70",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Mihawk from Recruit"
+     },
+     {
+      "targetID": "71",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Mihawk shards from Elite Challenge"
+     },
+     {
+      "targetID": "72",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "73",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Rob Lucci from Recruit"
+     },
+     {
+      "targetID": "74",
+      "strongGuideName": "Elite Challenge",
+      "explanatoryText": "Get Rob Lucci shards from Elite Challenge"
+     },
+     {
+      "targetID": "75",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "76",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Boa Hancock from Recruit"
+     },
+     {
+      "targetID": "77",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "78",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Sengoku from Recruit"
+     },
+     {
+      "targetID": "79",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Sengoku shards from the Arena Shop"
+     },
+     {
+      "targetID": "80",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "81",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Whitebeard from Recruit"
+     },
+     {
+      "targetID": "82",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "83",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Marco from Recruit"
+     },
+     {
+      "targetID": "84",
+      "strongGuideName": "Arena Shop",
+      "explanatoryText": "Get Marco shards from the Arena Shop"
+     },
+     {
+      "targetID": "85",
+      "strongGuideName": "Rainbow Diamond Shop",
+      "explanatoryText": "Buy Recruit Tickets in the Rainbow Diamond Shop and recruit"
+     },
+     {
+      "targetID": "86",
+      "strongGuideName": "Recruit",
+      "explanatoryText": "Get Shanks from Recruit"
+     },
+     {
+      "targetID": "87",
+      "strongGuideName": "Pass",
+      "explanatoryText": "Get Rainbow Diamonds from Pass activity rewards"
+     }
+    ]
+   }
+  },
+  "voyage_guide_old": {
+   "TableStrongGuide": {
+    "key_column": "strongGuideID",
+    "text_columns": [
+     "strongGuideName"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "strongGuideID": "1",
+      "strongGuideName": "Character <size=28>Growth</size>"
+     },
+     {
+      "strongGuideID": "2",
+      "strongGuideName": "Equipment <size=28>Enhance</size>"
+     },
+     {
+      "strongGuideID": "3",
+      "strongGuideName": "Formation <size=28>Unlock</size>"
+     },
+     {
+      "strongGuideID": "5",
+      "strongGuideName": "Get <size=28>Blue Diamonds</size>"
+     },
+     {
+      "strongGuideID": "6",
+      "strongGuideName": "Get <size=28>Gold</size>"
+     },
+     {
+      "strongGuideID": "7",
+      "strongGuideName": "Get <size=28>Gold Bars</size>"
+     },
+     {
+      "strongGuideID": "8",
+      "strongGuideName": "Get <size=28>Recruit Tickets</size>"
+     },
+     {
+      "strongGuideID": "9",
+      "strongGuideName": "Get <size=28>Equipment</size>"
+     },
+     {
+      "strongGuideID": "10",
+      "strongGuideName": "Get <size=28>Gear Materials</size>"
+     },
+     {
+      "strongGuideID": "11",
+      "strongGuideName": "Get <size=28>Upgrade Materials</size>"
+     },
+     {
+      "strongGuideID": "12",
+      "strongGuideName": "Get <size=28>Skill Books</size>"
+     },
+     {
+      "strongGuideID": "13",
+      "strongGuideName": "Get <size=28>Breakthrough Materials</size>"
+     },
+     {
+      "strongGuideID": "14",
+      "strongGuideName": "Get <size=28>Training Materials</size>"
+     },
+     {
+      "strongGuideID": "15",
+      "strongGuideName": "Get <size=28>Transcend Materials</size>"
+     },
+     {
+      "strongGuideID": "16",
+      "strongGuideName": "Get <size=28>Gems</size>"
+     },
+     {
+      "strongGuideID": "17",
+      "strongGuideName": "Get <size=28>Prestige</size>"
+     },
+     {
+      "strongGuideID": "18",
+      "strongGuideName": "Get <size=28>Arena Coins</size>"
+     }
+    ]
+   },
+   "TableStrongGuideTarget": {
+    "key_column": "targetID",
+    "text_columns": [
+     "strongGuideName",
+     "explanatoryText"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "targetID": "1",
+      "strongGuideName": "Tavern Recruit",
+      "explanatoryText": "Gain new crewmates"
+     },
+     {
+      "targetID": "2",
+      "strongGuideName": "Character Level Up",
+      "explanatoryText": "Raise character level"
+     },
+     {
+      "targetID": "3",
+      "strongGuideName": "Skill Level Up",
+      "explanatoryText": "Raise skill level"
+     },
+     {
+      "targetID": "4",
+      "strongGuideName": "Hero Break",
+      "explanatoryText": "Raise Breakthrough Level"
+     },
+     {
+      "targetID": "5",
+      "strongGuideName": "Transcend",
+      "explanatoryText": "Raise character stars"
+     },
+     {
+      "targetID": "6",
+      "strongGuideName": "Character Training",
+      "explanatoryText": "Raise training level"
+     },
+     {
+      "targetID": "7",
+      "strongGuideName": "Equipment Refine",
+      "explanatoryText": "Boost equipment stats"
+     },
+     {
+      "targetID": "8",
+      "strongGuideName": "Socket Gems",
+      "explanatoryText": "Grants stat bonuses"
+     },
+     {
+      "targetID": "9",
+      "strongGuideName": "Unlock Formations",
+      "explanatoryText": "Advanced formations grant more stats"
+     },
+     {
+      "targetID": "11",
+      "strongGuideName": "Story Replay",
+      "explanatoryText": "First time meeting the clear conditions grants Blue Diamonds"
+     },
+     {
+      "targetID": "12",
+      "strongGuideName": "Character Stories",
+      "explanatoryText": "First time meeting the clear conditions grants Blue Diamonds"
+     },
+     {
+      "targetID": "13",
+      "strongGuideName": "Bonus Events",
+      "explanatoryText": "Bonus events give plenty of Blue Diamonds"
+     },
+     {
+      "targetID": "14",
+      "strongGuideName": "Player Trading",
+      "explanatoryText": "Trade items to earn Gold"
+     },
+     {
+      "targetID": "15",
+      "strongGuideName": "Shop",
+      "explanatoryText": "Buy Gold in the Rainbow Diamond Shop"
+     },
+     {
+      "targetID": "16",
+      "strongGuideName": "Arena",
+      "explanatoryText": "Win challenges to earn Gold Bars"
+     },
+     {
+      "targetID": "17",
+      "strongGuideName": "Story Replay",
+      "explanatoryText": "Win challenges to earn Gold Bars"
+     },
+     {
+      "targetID": "18",
+      "strongGuideName": "Character Stories",
+      "explanatoryText": "Win challenges to earn Gold Bars"
+     },
+     {
+      "targetID": "19",
+      "strongGuideName": "Daily Quests",
+      "explanatoryText": "Complete Daily Quests for plenty of Gold Bars"
+     },
+     {
+      "targetID": "20",
+      "strongGuideName": "Bounty Quest",
+      "explanatoryText": "Complete Bounty Quests for plenty of Gold Bars"
+     },
+     {
+      "targetID": "21",
+      "strongGuideName": "Field",
+      "explanatoryText": "Defeat field enemies for Gold Bar rewards"
+     },
+     {
+      "targetID": "22",
+      "strongGuideName": "Blood Battle",
+      "explanatoryText": "Win Blood Battles for Gold Bar rewards"
+     },
+     {
+      "targetID": "23",
+      "strongGuideName": "Golden Trial",
+      "explanatoryText": "Win challenges for plenty of Gold Bars"
+     },
+     {
+      "targetID": "25",
+      "strongGuideName": "Ladder",
+      "explanatoryText": "Exchange for Recruit Tickets in the Arena Shop"
+     },
+     {
+      "targetID": "26",
+      "strongGuideName": "Character Stories",
+      "explanatoryText": "First clears grant Recruit Tickets"
+     },
+     {
+      "targetID": "27",
+      "strongGuideName": "Daily Quests",
+      "explanatoryText": "Complete Daily Quests for Recruit Tickets"
+     },
+     {
+      "targetID": "28",
+      "strongGuideName": "Black Market Merchant",
+      "explanatoryText": "Sells advanced equipment"
+     },
+     {
+      "targetID": "29",
+      "strongGuideName": "Story Replay",
+      "explanatoryText": "Victories have a chance to drop equipment"
+     },
+     {
+      "targetID": "30",
+      "strongGuideName": "Bounty Quest",
+      "explanatoryText": "Complete Bounty Quests for equipment"
+     },
+     {
+      "targetID": "31",
+      "strongGuideName": "Field",
+      "explanatoryText": "Field enemies have a chance to drop equipment"
+     },
+     {
+      "targetID": "32",
+      "strongGuideName": "Arena",
+      "explanatoryText": "Exchange for refine materials in the Prestige Shop"
+     },
+     {
+      "targetID": "33",
+      "strongGuideName": "Story Replay",
+      "explanatoryText": "Victories have a chance to drop refine materials"
+     },
+     {
+      "targetID": "34",
+      "strongGuideName": "Bounty Quest",
+      "explanatoryText": "Completing quests has a chance to grant refine materials"
+     },
+     {
+      "targetID": "35",
+      "strongGuideName": "Expeditions",
+      "explanatoryText": "Some expeditions grant refine materials"
+     },
+     {
+      "targetID": "37",
+      "strongGuideName": "Expeditions",
+      "explanatoryText": "Some expeditions grant socketing materials"
+     },
+     {
+      "targetID": "38",
+      "strongGuideName": "Daily Quests",
+      "explanatoryText": "Complete Daily Quests for EXP Scrolls"
+     },
+     {
+      "targetID": "39",
+      "strongGuideName": "Bounty Quest",
+      "explanatoryText": "Complete Bounty Quests for EXP Scrolls"
+     },
+     {
+      "targetID": "40",
+      "strongGuideName": "Story Replay",
+      "explanatoryText": "Victories have a chance to drop EXP Scrolls"
+     },
+     {
+      "targetID": "41",
+      "strongGuideName": "Blood Battle",
+      "explanatoryText": "Victories have a chance to drop EXP Scrolls"
+     },
+     {
+      "targetID": "42",
+      "strongGuideName": "Character Stories",
+      "explanatoryText": "Victories have a chance to drop EXP Scrolls"
+     },
+     {
+      "targetID": "43",
+      "strongGuideName": "Secret Book Day",
+      "explanatoryText": "Win challenges to earn Skill Books"
+     },
+     {
+      "targetID": "44",
+      "strongGuideName": "Arena",
+      "explanatoryText": "Exchange for Skill Books in the Prestige Shop"
+     },
+     {
+      "targetID": "45",
+      "strongGuideName": "Daily Quests",
+      "explanatoryText": "Complete Daily Quests for Skill Books"
+     },
+     {
+      "targetID": "46",
+      "strongGuideName": "Expeditions",
+      "explanatoryText": "Some expeditions grant Skill Books"
+     },
+     {
+      "targetID": "47",
+      "strongGuideName": "Blood Battle",
+      "explanatoryText": "Victories have a chance to drop Skill Books"
+     },
+     {
+      "targetID": "48",
+      "strongGuideName": "Breakthrough Day",
+      "explanatoryText": "Win challenges to earn Breakthrough Materials"
+     },
+     {
+      "targetID": "49",
+      "strongGuideName": "Daily Quests",
+      "explanatoryText": "Complete Daily Quests for Breakthrough Materials"
+     },
+     {
+      "targetID": "50",
+      "strongGuideName": "Expeditions",
+      "explanatoryText": "Some expeditions grant Breakthrough Materials"
+     },
+     {
+      "targetID": "51",
+      "strongGuideName": "Blood Battle",
+      "explanatoryText": "Victories have a chance to drop Breakthrough Materials"
+     },
+     {
+      "targetID": "52",
+      "strongGuideName": "Training Day",
+      "explanatoryText": "Win challenges to earn Training Materials"
+     },
+     {
+      "targetID": "53",
+      "strongGuideName": "Expeditions",
+      "explanatoryText": "Some expeditions grant Training Materials"
+     },
+     {
+      "targetID": "54",
+      "strongGuideName": "Blood Battle",
+      "explanatoryText": "Victories have a chance to drop Training Materials"
+     },
+     {
+      "targetID": "55",
+      "strongGuideName": "Arena",
+      "explanatoryText": "Exchange for Battle Souls in the Prestige Shop"
+     },
+     {
+      "targetID": "56",
+      "strongGuideName": "Ladder",
+      "explanatoryText": "Exchange for Battle Souls in the Arena Shop"
+     },
+     {
+      "targetID": "57",
+      "strongGuideName": "Character Stories",
+      "explanatoryText": "Clearing certain chapters grants Battle Souls"
+     },
+     {
+      "targetID": "58",
+      "strongGuideName": "Blood Battle",
+      "explanatoryText": "Victories have a chance to drop Battle Souls"
+     },
+     {
+      "targetID": "59",
+      "strongGuideName": "Gem Synthesis",
+      "explanatoryText": "Combine low-level Gems into higher-level ones"
+     },
+     {
+      "targetID": "60",
+      "strongGuideName": "Daily Quests",
+      "explanatoryText": "Daily Quests have a chance to grant Gems"
+     },
+     {
+      "targetID": "61",
+      "strongGuideName": "Expeditions",
+      "explanatoryText": "Some expeditions grant Gems"
+     },
+     {
+      "targetID": "62",
+      "strongGuideName": "Blood Battle",
+      "explanatoryText": "Victories have a chance to drop Gems"
+     },
+     {
+      "targetID": "63",
+      "strongGuideName": "Field",
+      "explanatoryText": "Field enemies have a chance to drop Gems"
+     },
+     {
+      "targetID": "64",
+      "strongGuideName": "Arena",
+      "explanatoryText": "Win challenges to earn Prestige"
+     },
+     {
+      "targetID": "65",
+      "strongGuideName": "Ladder",
+      "explanatoryText": "Rewards based on season ranking"
+     }
+    ]
+   }
+  }
+ },
+ "ui_texts": [
+  {
+   "bundle": "restobundle/pages/newstrongguide/newstrongguidepage.ab",
+   "gameobject": "Title",
+   "path_id": 2532161693764752512,
+   "zh": "船长指南",
+   "note": "Captain's Guide page title",
+   "en": "Captain's Guide"
+  }
+ ],
+ "glossary_additions": {
+  "船长指南": "Captain's Guide",
+  "战队": "Team",
+  "队伍": "Squad",
+  "养成": "Growth",
+  "资源": "Resources",
+  "阵营": "Faction(s)",
+  "通行证": "Pass",
+  "终极挑战商店": "Ultimate Challenge Shop",
+  "晶魂商城": "Crystal Soul Shop",
+  "海岛商店": "Island Shop",
+  "船坞": "Shipyard",
+  "海域争霸商店": "Sea Conquest Shop",
+  "大航海商店": "Great Voyage Shop",
+  "公会悬赏商店": "Guild Bounty Shop",
+  "强者挑战商店": "Elite Challenge Shop",
+  "彩钻商城/彩钻商店": "Rainbow Diamond Shop",
+  "黄金试炼": "Golden Trial",
+  "天梯币": "Arena Coin",
+  "天梯奖励": "Ladder Rewards",
+  "天梯竞技": "Ladder",
+  "魂石": "Soul Stone",
+  "附魂券": "Soul Infusion Ticket",
+  "精粹/精粹石": "Quintessence / Quintessence Stone",
+  "重铸石": "Reforge Stone",
+  "装备打孔": "Socketing",
+  "宝石合成": "Gem Synthesis",
+  "角色超越/超越材料": "Transcend / Transcend Materials",
+  "抽卡券": "Recruit Ticket",
+  "战魂": "Battle Soul",
+  "秘传之日/密传书之日": "Secret Book Day",
+  "突破之日": "Breakthrough Day",
+  "训练之日": "Training Day",
+  "福利活动": "Bonus Events",
+  "野外": "Field",
+  "黑市商人": "Black Market Merchant"
+ },
+ "uncertain_notes": [
+  "Captain's Guide: game_terms_v271 gives 大航海 = 'Grand Voyage', but the earlier batches and the item 大航海挂机次数券 use 'Great Voyage'; 'Great Voyage' was kept (e.g. 大航海商店 = 'Great Voyage Shop').",
+  "Captain's Guide: 天梯商店 = 'Arena Shop' (game term), so 天梯币 was rendered 'Arena Coins' to match the shop; 天梯赛 = 'Ladder' (game term).",
+  "Captain's Guide: 角色突破 kept as the in-game 'Hero Break' and 角色升级 as the in-game 'Character Level Up', even though the two use different nouns.",
+  "Captain's Guide: 装备精粹 / 精粹石 has no in-game English yet; rendered 'Quintessence' / 'Quintessence Stones' (distinct from 精炼 = Refine and 精淬石 = Purification Stone).",
+  "Captain's Guide: 海域争霸 (a sea-war mode whose shop sells warships and refinement items) has no in-game English; rendered 'Sea Conquest' by analogy with 海岛争霸 = Island Conquest.",
+  "TableNewStrongGuideTarget row 18 (primary bundle): label 晶魂商城 (Crystal Soul Shop) but the text says 'from the Arena Shop' (天梯商店); translated as written. Row 15: label 讨伐任务 (Bounty Quest) but text mentions Blood Battle; translated as written. Row 37 (other bundle): label 黄金试炼 (Golden Trial) but text mentions Hero Trial; translated as written.",
+  "Character names in guide labels follow game_terms_v271 exactly (大熊 = 'Bartholomew Kuma', 艾斯 = 'Portgas D. Ace', 莫利亚 = 'Gecko Moria', 汉库珂 = 'Boa Hancock', 杰克斯 = 'Shanks')."
+ ]
+}
