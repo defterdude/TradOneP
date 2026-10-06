@@ -18995,6 +18995,1126 @@
      "text": "This hero can't be used in this mode"
     },
     {
+     "id": "FairPlaySkillNotEnoughTip",
+     "text": "This hero carries fewer skills than the limit. Default skills will fill the empty slots automatically. Confirm?"
+    },
+    {
+     "id": "FairPlaySetHeroPoolSuccess",
+     "text": "Roster saved"
+    },
+    {
+     "id": "FairPlaySortByRare",
+     "text": "Rarity"
+    },
+    {
+     "id": "FairPlaySPModeBanTip",
+     "text": "Ban 2 characters"
+    },
+    {
+     "id": "FairPlaySPModePickTip",
+     "text": "Pick 5 characters"
+    },
+    {
+     "id": "FairPlayRedayBanTip",
+     "text": "Ban phase starting soon"
+    },
+    {
+     "id": "FairPlayRedayPickTip",
+     "text": "Pick phase starting soon"
+    },
+    {
+     "id": "FairPlayMixModePickTip",
+     "text": "Pick 1 character"
+    },
+    {
+     "id": "FairPlayTitleReward",
+     "text": "Season Title Rewards"
+    },
+    {
+     "id": "FairPlayReadyToSetFormation",
+     "text": "Formation phase starting soon"
+    },
+    {
+     "id": "FairPlayDanDesc",
+     "text": "*Semifinal daily rewards:*Finish 1 match a day: Arena Coins ×50*Finish 3 matches a day: Arena Coins ×75*Win 1 match a day: Arena Coins ×75*Semifinal rank rewards:*Rank 1: \"Battle Expert\" title, Golden Battle Soul ×20, Elite Recruit Ticket ×3*Rank 2: \"Battle Expert\" title, Golden Battle Soul ×16, Elite Recruit Ticket ×2*Rank 3: \"Battle Expert\" title, Golden Battle Soul ×12, Elite Recruit Ticket ×2*Rank 4-10: \"Battle Expert\" title, Golden Battle Soul ×10, Elite Recruit Ticket ×1*Rank 11-20: \"Battle Expert\" title, Golden Battle Soul ×8, Elite Recruit Ticket ×1*Rank 21-50: \"Battle Expert\" title, Golden Battle Soul ×5, Elite Recruit Ticket ×1*Rank 51-100: \"Battle Expert\" title, Golden Battle Soul ×3, Elite Recruit Ticket ×1*Below Rank 100: Golden Battle Soul ×3, Elite Recruit Ticket ×1*The top eight in the semifinals advance to the all-server finals for even better rewards*All rewards above are sent by mail."
+    },
+    {
+     "id": "FairPlayTroopsDesc",
+     "text": "Your roster needs 12 characters to save"
+    },
+    {
+     "id": "FairPlayReadyToFight",
+     "text": "Ready? Your formation and skills can't be changed afterward."
+    },
+    {
+     "id": "FairPlayPreSeason",
+     "text": "Preliminaries"
+    },
+    {
+     "id": "FairPlaySemiSeason",
+     "text": "Semifinals"
+    },
+    {
+     "id": "FairPlayRestSeason",
+     "text": "Off-Season"
+    },
+    {
+     "id": "UC_ScoreRank",
+     "text": "Points Ranking"
+    },
+    {
+     "id": "FairPlayFightAlready",
+     "text": "You're ready. Please wait for the match to start"
+    },
+    {
+     "id": "VideoRecruitAllCountMainPage",
+     "text": "Recruits this round:"
+    },
+    {
+     "id": "BloodFirst",
+     "text": "Once this run starts, later Power changes won't affect it. Start the challenge?"
+    },
+    {
+     "id": "NewOpenServerActivityGetSailGift",
+     "text": "You've claimed today's reward. Come back tomorrow"
+    },
+    {
+     "id": "NewOpenServerActivityGoToBuy",
+     "text": "Go Buy"
+    },
+    {
+     "id": "HeroLevelFullTips",
+     "text": "Character is at max level"
+    },
+    {
+     "id": "CopyPageBuyCountTips",
+     "text": "Daily purchase limit reached"
+    },
+    {
+     "id": "CopyPageBuyContext",
+     "text": "Spend Blue Diamonds to buy dungeon entries?\\nEntries left today: {0}\\n\\nCost: <sprite=1>{1}"
+    },
+    {
+     "id": "CopyPageBuyTitle",
+     "text": "Buy Attempts"
+    },
+    {
+     "id": "CrawlTowerDesc",
+     "text": "*Voyage Tower Guide*Voyage Tower is a challenging PvE mode\\nCaptains start from the first stage; clearing a stage unlocks the next, up to 180 stages.\\nClearing a stage gives stage rewards, split into first-clear rewards and clear rewards.\\nFirst-clear rewards: one-time rewards for your first clear; not given again after a reset.\\nClear rewards: given every time you clear the stage.\\nVoyage Tower reset: captains get one reset per week; tap the reset button to reset manually. Resets don't stack.\\nResetting sends your progress back to the first stage, so you can clear stages again for clear rewards.\\nVoyage Tower sweep: use sweep to clear quickly; stages swept = highest stage cleared - current stage.\\nVoyage Tower weekly quests: captains get 3 weekly quests that track how many stages you clear each week; clear the set number to claim rewards.\\nQuests refresh every Monday at 0:00, so remember to claim them in time, Captains."
+    },
+    {
+     "id": "skillActiveCondition_awakeLevel",
+     "text": "Activation requires Awakening Lv<color=#a32e00>{0}</color>"
+    },
+    {
+     "id": "skillLevelUpCondition_awakeLevel",
+     "text": "Upgrade requires Awakening Lv<color=#a32e00>{0}</color>"
+    },
+    {
+     "id": "CarnivalItemName",
+     "text": "Carnival EXP"
+    },
+    {
+     "id": "CarnivalItemDesc",
+     "text": "Carnival event EXP. Reach the required EXP to claim rewards in the Carnival event."
+    },
+    {
+     "id": "SpecificHeroGet",
+     "text": "Characters Above"
+    },
+    {
+     "id": "ConsumeTextTip",
+     "text": "Play in moderation, spend wisely"
+    },
+    {
+     "id": "ExchangeItemPage_CostText",
+     "text": "Spend {0} Choice Boxes to get"
+    },
+    {
+     "id": "Training_OneTime",
+     "text": "One-Tap Training"
+    },
+    {
+     "id": "CostFrag",
+     "text": "Costs {0} shards"
+    },
+    {
+     "id": "OneKeySurpassNoHero",
+     "text": "No characters can Transcend right now"
+    },
+    {
+     "id": "FairPlayFinalExplain",
+     "text": "*1. Only the top 8 of each division, 64 players in total, play in the Battle Tournament finals.*2. The finals use Draft mode.*3. The finals run over 6 days: 64 to 32, 32 to 16, 16 to 8, 8 to 4, the semifinals and the grand final.*4. Draft mode needs no characters of your own. Once both sides enter, the system drafts 24 random SSR characters. Both sides take turns banning 4 characters in total in 1-1-1-1 order, then each picks 5 characters in 1-2-2-2-2-1 order.*5. In Battle Tournament, the same character has identical stats for everyone. All characters have no equipment, no gems, max stars, max skills, max breakthrough, no training and no Soul Infusion.*6. Characters automatically unlock and max their 6-star and 8-star talents, and all players automatically unlock all formations.*7. The finals open at 20:00 on set dates. All players must log in to the tournament server in advance and wait on the right screen to be pulled into battle. If you're in another battle or switching screens when it starts, the pull may fail, leading to a loss or no manual control; players bear the consequences.*8. Rewards depend on final placement.*9. Each round is best of 3; the first to win 2 advances.*10. The bracket is published before the finals and isn't redrawn each round."
+    },
+    {
+     "id": "DecorateFrame",
+     "text": "Customize"
+    },
+    {
+     "id": "NewHeroTrain_StrengthenTxt",
+     "text": "Enhance"
+    },
+    {
+     "id": "NewHeroTrain_SpringTxt",
+     "text": "Sprint"
+    },
+    {
+     "id": "NewHeroTrain_AttackTrain",
+     "text": "Attack {0} Training"
+    },
+    {
+     "id": "NewHeroTrain_HPTrain",
+     "text": "HP {0} Training"
+    },
+    {
+     "id": "NewHeroTrain_DefenceTrain",
+     "text": "Defense {0} Training"
+    },
+    {
+     "id": "FairPlayNotFinalTips",
+     "text": "Top eight not decided yet"
+    },
+    {
+     "id": "AwakeIsNotInEnough",
+     "text": "You don't meet the Awakening requirements"
+    },
+    {
+     "id": "NewHeroTrain_GoToHangXianMoMiZhan",
+     "text": "Not enough Sprint Training Books\\n\\nGo to Voyage Tower?"
+    },
+    {
+     "id": "accelerateLimit",
+     "text": "Speed-up via unofficial channels isn't supported"
+    },
+    {
+     "id": "FairPlayFinalTime",
+     "text": "Each round: Match 1: 20:00-20:20, Match 2: 20:25-20:45, Match 3: 20:50-21:10"
+    },
+    {
+     "id": "Choose_Refine_8",
+     "text": "Choose equipment to upgrade"
+    },
+    {
+     "id": "UpgradeMounting",
+     "text": "Equipment Upgrade"
+    },
+    {
+     "id": "PuzzlePassTip",
+     "text": "This puzzle isn't finished. Can't move to the next one"
+    },
+    {
+     "id": "UI_bulin_jin",
+     "text": "Masters Gold Coin"
+    },
+    {
+     "id": "UI_bulin_yin",
+     "text": "Masters Silver Coin"
+    },
+    {
+     "id": "UI_bulin_jin_s",
+     "text": "Gold coins earned in the Masters Tournament and a symbol of a captain's strength. After the Masters has been open for a while, the Arena Shop stocks valuable items you can buy with Masters Gold Coins."
+    },
+    {
+     "id": "UI_bulin_yin_s",
+     "text": "Silver coins earned in the Masters Tournament and a symbol of a captain's strength. After the Masters has been open for a while, the Arena Shop stocks valuable items you can buy with Masters Gold Coins."
+    },
+    {
+     "id": "EquipUpgradeQuestion",
+     "text": "*Some high-quality equipment can be upgraded;\\nUpgrading raises its base stats;\\nUpgrades cost different materials depending on the equipment's level\\n*Equipment level can't exceed the player's level or the wearer's level"
+    },
+    {
+     "id": "equipUpgradeOneKeyQuestion",
+     "text": "Spend {0} Gold Bars{1} to upgrade the equipment to Lv{2}? Upgrading raises base stat values and binds the equipment. Continue?"
+    },
+    {
+     "id": "equipUpgradeOneKeyQuestionOther",
+     "text": "and {0} {1}"
+    },
+    {
+     "id": "downloadIngState",
+     "text": "Downloading"
+    },
+    {
+     "id": "HC_notBattle",
+     "text": "Not challenged yet"
+    },
+    {
+     "id": "HC_personRankTitle",
+     "text": "Abyss Challenge Player Ranking"
+    },
+    {
+     "id": "HC_unionRankTitle",
+     "text": "Abyss Challenge Guild Ranking"
+    },
+    {
+     "id": "HC_personRankRewards",
+     "text": "Personal Ranking Rewards"
+    },
+    {
+     "id": "HC_unionRankRewards",
+     "text": "Guild Ranking Rewards"
+    },
+    {
+     "id": "HC_noUnionTips",
+     "text": "Not in a guild yet"
+    },
+    {
+     "id": "HC_shop",
+     "text": "Abyss Shop"
+    },
+    {
+     "id": "HC_teamTips",
+     "text": "Deploy at least 1 character"
+    },
+    {
+     "id": "HC_battleTips",
+     "text": "Once the challenge starts, deployed characters can't be changed (but you can still change skills, formation and so on). Start the battle?"
+    },
+    {
+     "id": "TrialStage_PosText",
+     "text": "Slot {0}"
+    },
+    {
+     "id": "StrengthVerifyStageTitle",
+     "text": "Season {0}"
+    },
+    {
+     "id": "StrengthVerifyUnableToRank",
+     "text": "Ranking requirement not met"
+    },
+    {
+     "id": "StrengthVerifyTimeToEnd",
+     "text": "Ends in: {0}"
+    },
+    {
+     "id": "TrialStage_GetReward",
+     "text": "Claim {0}/{1}"
+    },
+    {
+     "id": "TrialStage_OurCore",
+     "text": "Our Core"
+    },
+    {
+     "id": "TrialStage_EnemyCore",
+     "text": "Enemy Core"
+    },
+    {
+     "id": "TrialStage_ForceHero",
+     "text": "Forced deployment, can't be replaced"
+    },
+    {
+     "id": "HC_onBattleTips",
+     "text": "Heroes can't be changed after deploying!"
+    },
+    {
+     "id": "HC_TaskTitle_1",
+     "text": "Battle Turns"
+    },
+    {
+     "id": "HC_TaskTitle_2",
+     "text": "Characters Remaining"
+    },
+    {
+     "id": "HC_TaskTitle_3",
+     "text": "Percent Remaining"
+    },
+    {
+     "id": "HC_TaskTitle_4",
+     "text": "Damage Dealt"
+    },
+    {
+     "id": "HC_TaskTitle_5",
+     "text": "Elemental Damage Dealt"
+    },
+    {
+     "id": "HC_CurScore",
+     "text": "Current Score:"
+    },
+    {
+     "id": "HC_RewardScore",
+     "text": "Bonus Score:"
+    },
+    {
+     "id": "HC_EndTimeTips",
+     "text": "until the challenge rotates"
+    },
+    {
+     "id": "TrialStage_ForceHeroAndForcePos",
+     "text": "Position and deployment are forced and can't be changed"
+    },
+    {
+     "id": "TrialStage_RewardPageTips",
+     "text": "Claim your rewards before the event ends, or they'll be gone"
+    },
+    {
+     "id": "TrialStage_PositionExplainPageTips",
+     "text": "Columns are rows: the enemy side nearest you is the front row, the far side the back row;\\nSingle-target attacks also follow front/back row priority"
+    },
+    {
+     "id": "TrialStage_PlayerLevel",
+     "text": "Player Level {0}"
+    },
+    {
+     "id": "StrengthVerifyGVOParam",
+     "text": "Chapter {0} Stage {1}"
+    },
+    {
+     "id": "StrengthVerifyExplain",
+     "text": "*Leaderboard info.*Description"
+    },
+    {
+     "id": "StrengthVerifyOutOfDat",
+     "text": "This event period has ended"
+    },
+    {
+     "id": "HC_BattleTipsTitle",
+     "text": "Challenge with this lineup?"
+    },
+    {
+     "id": "HC_BattleInfo_201",
+     "text": "<color=#a32e00>Shatter</color>\\nEnemies deal damage to all our characters on death"
+    },
+    {
+     "id": "HC_BattleInfo_202",
+     "text": "<color=#a32e00>Devotion</color>\\nFrom the 2nd turn after death, enemies heal other enemies every turn for 3 turns; stacks"
+    },
+    {
+     "id": "HC_BattleInfo_203",
+     "text": "<color=#a32e00>Backlash</color>\\nOur characters take damage if they end their action with 3 or more Magatama left"
+    },
+    {
+     "id": "HC_BattleInfo_204",
+     "text": "<color=#a32e00>Overload</color>\\nEnemies deal more damage on odd turns and take more damage on even turns"
+    },
+    {
+     "id": "HC_BattleInfo_205",
+     "text": "<color=#a32e00>Revenge</color>\\nEnemies summon an untargetable ghost on death that damages all our characters each turn"
+    },
+    {
+     "id": "HC_BattleInfo_206",
+     "text": "<color=#a32e00>Leader</color>\\nOne random enemy deals less damage, but other enemies deal more"
+    },
+    {
+     "id": "UI_Hopeless_cion",
+     "text": "Abyss Gold Coin"
+    },
+    {
+     "id": "UI_Hopeless_cion_text",
+     "text": "Currency from the Abyss Challenge, used to buy valuable items in the Abyss Challenge Shop"
+    },
+    {
+     "id": "AnswerText",
+     "text": "Question {0}:"
+    },
+    {
+     "id": "HC_SelfName",
+     "text": "{0} (You)"
+    },
+    {
+     "id": "AnswerResult",
+     "text": "Congrats, Captain! You answered {0} questions correctly. Keep it up!"
+    },
+    {
+     "id": "AnswerTopic",
+     "text": "The Christmas Quiz has begun! Captains can answer <color=#B65E16>{0}</color> questions a day, and those who get them all right win <color=#B65e16>generous rewards</color>! Come join in!"
+    },
+    {
+     "id": "downloadResTips",
+     "text": "Download the full resources for more features and generous rewards. Download the rest over mobile data? ({0} left to download; check progress in the top left)"
+    },
+    {
+     "id": "LivenessPhase",
+     "text": "Stage {0}"
+    },
+    {
+     "id": "LivenessCost",
+     "text": "Costs {0} each time"
+    },
+    {
+     "id": "LivenessExplain",
+     "text": "*During the event, captains can get Christmas Costumes from [Character Trial] and [Christmas Quiz]*Spend Christmas Costumes on this page to decorate; reach certain progress for generous rewards*Claim your rewards quickly during the event; they won't wait!"
+    },
+    {
+     "id": "ModuleActivity",
+     "text": "Christmas Celebration"
+    },
+    {
+     "id": "TrialStageExplain",
+     "text": "*Character Trial lets you try new characters' skills. All characters are provided by the system, with stats that differ from real ones and are unrelated to your progress. Skills match the real ones at max level.\\nTrial lineups get no support bonuses.\\n*Some stages may be designed to be unwinnable; just finish the battle to open the next stage and try different skill combos.\\n*Unclaimed rewards are lost when the event ends."
+    },
+    {
+     "id": "TownPage_bianshen",
+     "text": "Transform"
+    },
+    {
+     "id": "TownPage_zuoqi",
+     "text": "Mount"
+    },
+    {
+     "id": "TownPage_jiechu",
+     "text": "Dismiss"
+    },
+    {
+     "id": "ModuleActivityMain_1",
+     "text": "Christmas Shop"
+    },
+    {
+     "id": "ModuleActivityMain_2",
+     "text": "Character Trial"
+    },
+    {
+     "id": "ModuleActivityMain_3",
+     "text": "Christmas Quiz"
+    },
+    {
+     "id": "ModuleActivityMain_4",
+     "text": "Christmas Costume"
+    },
+    {
+     "id": "HC_MaxHeroTips",
+     "text": "Deployed heroes are full. Can't deploy"
+    },
+    {
+     "id": "Btn_OptionalGift",
+     "text": "Choice Bundle"
+    },
+    {
+     "id": "HC_DisabledTips",
+     "text": "This character is already deployed in another challenge"
+    },
+    {
+     "id": "AnswerMainPromptPanel",
+     "text": "All of today's questions are done. Come back next time!"
+    },
+    {
+     "id": "TimeTreasureNotKey",
+     "text": "No Vault Key. Can't open."
+    },
+    {
+     "id": "TimeTreasurePopupTip",
+     "text": "Spend a key to unlock this vault route? (It can't be changed to another route afterward)"
+    },
+    {
+     "id": "TimeTreasureDesc",
+     "text": "*Limited-Time Vault Guide*Only players with a Limited-Time Vault Key can open a Limited-Time Vault*Get keys from limited-time events, livestream draws and bundles (watch the game announcements for details)*There are currently three keys: Monthly Pass Vault Key, Recruitment Vault Key and Golden Soul Vault Key.*Each vault has different rewards and can only be opened with its matching key.*Once opened, the vault's entrance appears at the event icon on the main screen.*Claim each day's reward in an open vault. A new reward unlocks every other day during the vault period; if you forget to claim one day, the next day's reward won't unlock, so claim in time, Captains.*Mind the vault's open period. Once it closes, unclaimed items disappear.*Only one vault of each type can be open at a time."
+    },
+    {
+     "id": "ChoseGift_time",
+     "text": "Bundle period: {0}-{1}"
+    },
+    {
+     "id": "ChoseGift_giftCountZero",
+     "text": "Sold Out"
+    },
+    {
+     "id": "ChoseGift_HaveEmptySlot",
+     "text": "Choose the items you want first"
+    },
+    {
+     "id": "HC_Explain",
+     "text": "How to Play:\\n*Each Abyss Challenge cycle lasts 2 weeks; stage refreshes and reward resets follow the cycle. The day before a new cycle (Wednesday), challenges close, rewards are sent at 12:00, and the leaderboard is viewable all day. The leaderboard clears at 0:00 on the new cycle's first day (Thursday).\\n*Each cycle has 2 [Stage Groups], each with challenge modifiers that raise the difficulty; counter them with different character skills\\n*Send 1-5 characters into each stage group. Once you clear the 1st stage, you can't change characters for the rest of the cycle, but you can change equipment, skills, formation and so on\\n*Each stage cleared gives challenge points and a clear reward. Points decide your rank at the end of the cycle, and both the player and guild leaderboards give rewards by rank\\n*The last stage of each group is a boss stage you can retry for a better result and more points (only your best counts, not the total)"
+    },
+    {
+     "id": "Formation_Not_Save",
+     "text": "Current lineup isn't saved. Save?"
+    },
+    {
+     "id": "FightManeuver_Explain",
+     "text": "How to Play:\\nIn Battle Drill, captains can customize enemy lineups, stats and more to understand their own lineup's strength and mechanics, and build better lineups to boost their combat power\\nOur drill units: fight with your current lineup's formation, characters, equipment and all other battle factors\\nEnemy drill units: fight with the enemy lineups and stats you set up*Drill Units:\\nInfo: the drill unit list is at the bottom; swipe left and right to see all configured units\\nCount: up to 12 drill units\\nTypes: there are 5 unit types, differing in stats and skills\\nStat setup: after adding a unit, tap its portrait to open stat setup, where you can adjust 12 stats. Stats have base and bonus values; bonus values can be adjusted manually\\nRename: rename configured units to keep track of them\\nDelete: remove units you don't want; deleting also removes all deployed copies of that unit*Lineups:\\nCount: 5 lineups you can set up yourself\\nRename: rename the 5 lineups to keep track of them*Slots:\\nAll 12 enemy slots can hold drill units\\nAt least one drill unit must be deployed to start a battle*Deploying:\\nInfo: tap and drag a unit from the list at the bottom to a lineup slot to deploy it\\nDisplay: deployed units appear at their slots; in battle, turn order follows Speed and slot position\\nDelete: tap a deployed unit to remove it*Swapping:\\nSwap units: drag a unit from the list onto a deployed one to swap them\\nSwap slots: drag any deployed unit to another slot to swap positions*Saving and Resetting Lineups:\\nSave: saving records the deployed units' stats in the lineup\\nReset: clears all drill units from the slots*Damage Stats:\\nInfo: tracks each character's damage in battle and shows it as percentages so you can see whether your lineup works as expected\\nRefresh: totals all damage dealt by each character every turn"
+    },
+    {
+     "id": "HC_TaskTitle_7",
+     "text": "A single skill dealing over {0}0K damage to the boss +{1} pts"
+    },
+    {
+     "id": "HC_TaskTitle_8",
+     "text": "Dodge an attack +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_9",
+     "text": "A single skill dealing over {0}0K damage +{1} pts"
+    },
+    {
+     "id": "HC_TaskTitle_11",
+     "text": "Max combo of {0}+ +{1} pts"
+    },
+    {
+     "id": "HC_TaskTitle_12",
+     "text": "On victory, +{0} pts per 1% HP remaining on our side"
+    },
+    {
+     "id": "HC_TaskTitle_13",
+     "text": "Kill within 5 turns +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_17",
+     "text": "Inflict Sever +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_18",
+     "text": "+{0} pts each time an AoE skill is used"
+    },
+    {
+     "id": "HC_TaskTitle_19",
+     "text": "A single skill dealing {0}0K damage to the boss +{1} pts"
+    },
+    {
+     "id": "HC_TaskTitle_21",
+     "text": "Inflict a debuff +{0} pts"
+    },
+    {
+     "id": "UR_Intensify_BtnTitle",
+     "text": "UR Growth"
+    },
+    {
+     "id": "ModuleActivity_Temp_Tip",
+     "text": "*This event's theme is [Christmas Celebration], with three parts: [Character Trial], [Christmas Quiz] and [Christmas Costume].*[Character Trial] lets you play new-character stages with system-provided characters; clear them for generous rewards.*[Christmas Quiz] is a quiz mode: 5 questions are drawn from the question bank each day, and right or wrong answers both give generous rewards. Questions refresh daily at 0:00.*In [Christmas Costume], get Christmas Costumes from [Character Trial] and [Christmas Quiz] and use them to reach progress for rewards.*Event period: from server open on 2023/12/21 to 2024/1/3 24:00. [Character Trial] and [Character Verification] open after the 2023/12/28 version update."
+    },
+    {
+     "id": "worldMapNotOpen",
+     "text": "Area not open yet"
+    },
+    {
+     "id": "UR_Intensify_Text_1",
+     "text": "Stars"
+    },
+    {
+     "id": "UR_Intensify_Text_2",
+     "text": "Star Upgrade Notice"
+    },
+    {
+     "id": "URRecruit_NoReward",
+     "text": "Reward can't be claimed"
+    },
+    {
+     "id": "HC_BattleInfo_2001",
+     "text": "<color=#a32e00>Selfless Devotion</color>\\nOn even turns, enemies hit by AoE skills heal their allies"
+    },
+    {
+     "id": "HC_BattleInfo_2002",
+     "text": "<color=#a32e00>Erratic</color>\\nEnemies' elemental RES +200%; on even turns they take 80% more physical damage, and on odd turns 50% less damage"
+    },
+    {
+     "id": "HC_BattleInfo_2005",
+     "text": "<color=#a32e00>Indomitable</color>\\nEnemies have a 100% chance to recover HP when taking fatal damage, up to 4 times"
+    },
+    {
+     "id": "HC_BattleInfo_2006",
+     "text": "<color=#a32e00>Preemptive Scorn</color>\\nEnemies have a 30% chance to take no damage when attacked by slower characters"
+    },
+    {
+     "id": "HC_BattleInfo_2007",
+     "text": "<color=#a32e00>Vision Breaker</color>\\nEnemies' physical damage is raised, and damaging our characters lowers their Accuracy; can be dispelled"
+    },
+    {
+     "id": "HC_BattleInfo_2008",
+     "text": "<color=#a32e00>Iron Constitution</color> [Boss only]\\nAt the start of battle, Magellan summons 6 jailers to help"
+    },
+    {
+     "id": "HC_BattleInfo_2009",
+     "text": "<color=#a32e00>Thick-Skinned</color>\\nEnemies' skill damage reduction +80%"
+    },
+    {
+     "id": "HC_BattleInfo_2010",
+     "text": "<color=#a32e00>Indomitable</color>\\nEnemies have a 60% chance to recover 40% HP when taking fatal damage, up to 5 times"
+    },
+    {
+     "id": "HC_BattleInfo_2011",
+     "text": "<color=#a32e00>Vital Strike</color>\\nWhen hit by an enemy, there's a 30% chance to be stunned for 2 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2012",
+     "text": "<color=#a32e00>Adding Insult</color>\\nEach debuff on an enemy raises its damage taken by 15%, up to 60%"
+    },
+    {
+     "id": "HC_BattleInfo_2013",
+     "text": "<color=#a32e00>Clear Interference</color>\\nBefore acting, enemies remove one random dispellable debuff from themselves"
+    },
+    {
+     "id": "HC_BattleInfo_2014",
+     "text": "<color=#a32e00>Sharp Eyes</color>\\nEnemies' Accuracy is raised; hits Burn all player characters for 2 turns, up to 3 stacks, ignoring immunity; can be dispelled"
+    },
+    {
+     "id": "HC_BattleInfo_2015",
+     "text": "<color=#a32e00>Battle Fervor</color>\\nBoth sides gain 10% damage per action, stacking up to 2 times per turn"
+    },
+    {
+     "id": "HC_BattleInfo_2016",
+     "text": "<color=#a32e00>Ignore Pain</color>\\nEnemies' all damage reduction +50%"
+    },
+    {
+     "id": "HC_BattleInfo_2017",
+     "text": "<color=#a32e00>King's Protection</color> [Boss only]\\nThe boss can't be damaged directly; damage taken by non-boss enemies is transferred to the boss"
+    },
+    {
+     "id": "HC_BattleInfo_2018",
+     "text": "<color=#a32e00>Lone King</color> [Boss only]\\nIf the enemy side has no minions or the boss is below 20% HP, the boss can be damaged directly, no longer shares minions' damage, and is immune to Sever"
+    },
+    {
+     "id": "HC_TaskTitle_101",
+     "text": "+3 pts each time you inflict Bleed"
+    },
+    {
+     "id": "HC_TaskTitle_102",
+     "text": "+3 pts each time you inflict a debuff"
+    },
+    {
+     "id": "HC_TaskTitle_103",
+     "text": "Kill within 5 turns +50 pts"
+    },
+    {
+     "id": "HC_TaskTitle_104",
+     "text": "A single skill dealing over 200,000 damage +10 pts"
+    },
+    {
+     "id": "HC_TaskTitle_105",
+     "text": "A single skill dealing over 100,000 damage to the boss +15 pts"
+    },
+    {
+     "id": "HC_TaskTitle_106",
+     "text": "+3 pts per 400,000 damage dealt to enemies"
+    },
+    {
+     "id": "HC_TaskTitle_107",
+     "text": "+3 pts per 200,000 elemental damage dealt to enemies"
+    },
+    {
+     "id": "HC_TaskTitle_108",
+     "text": "Exceed 150 combo hits"
+    },
+    {
+     "id": "HC_TaskTitle_109",
+     "text": "+3 pts per 1% HP remaining"
+    },
+    {
+     "id": "HC_TaskTitle_110",
+     "text": "Deploy 3 characters with at least 1,000,000 Power"
+    },
+    {
+     "id": "HC_TaskTitle_111",
+     "text": "Deploy 3 characters with at least 2,000,000 Power"
+    },
+    {
+     "id": "HC_TaskTitle_112",
+     "text": "Deploy 3 characters with at least 3,000,000 Power"
+    },
+    {
+     "id": "ScrollSystemExplain",
+     "text": "*Scrolls show specific groups of characters*When you collect a given character, their image on the scroll lights up automatically*Once every character on a scroll is lit, you can claim that scroll's full collection reward"
+    },
+    {
+     "id": "Answerlimt",
+     "text": "Please answer again in {0}s"
+    },
+    {
+     "id": "AnswerResultError",
+     "text": "Wrong answer. Think it over and try again"
+    },
+    {
+     "id": "SignInContext",
+     "text": "Thank you for being with us all the way. Happy 7th Anniversary!"
+    },
+    {
+     "id": "SignInRule",
+     "text": "Log in daily to claim a reward"
+    },
+    {
+     "id": "RiddleTips",
+     "text": "(Go to the related area)"
+    },
+    {
+     "id": "coin_name_qingdianbi",
+     "text": "Celebration Coins"
+    },
+    {
+     "id": "coin_desc_qingdianbi",
+     "text": "Currency from the Fourth Anniversary celebration, exchangeable for prizes at the Anniversary Shop."
+    },
+    {
+     "id": "coin_name_dianfengbi",
+     "text": "Peak Gold Coins"
+    },
+    {
+     "id": "coin_desc_dianfengbi",
+     "text": "Currency from the Fight to the Peak event, exchangeable for items at the mode shop."
+    },
+    {
+     "id": "QuestionPastDue",
+     "text": "Question expired"
+    },
+    {
+     "id": "TrialStage_HasSameSourceHero",
+     "text": "Heroes from the same source can't be deployed together"
+    },
+    {
+     "id": "TreasureHuntingGamesNotMapTip",
+     "text": "Not enough Treasure Maps"
+    },
+    {
+     "id": "TreasureHuntingGamesNotFragmentsTip",
+     "text": "Not enough Map Fragments"
+    },
+    {
+     "id": "TreasureHuntingGamesDesc",
+     "text": "An ancient treasure map holds clues to a mysterious treasure, but it has been torn into nine pieces. Collect all nine and go dig at the spot! <color=#a32e00>(Or maybe you can find the treasure from the clues you have without all the pieces?!...)</color>*During the event, treasure hunters can spend Treasure Map items to open a treasure map. It has nine pieces and comes with one when opened*Spend Map Fragment items to fill in a random piece and get more clues*Use the clues you have to guess the treasure's location and go there yourself; once all nine pieces are collected, you can also auto-path to the treasure*Treasure Maps and Map Fragments are free from the Proof of Strength event and can also be bought in the shop<color=#a32e00> (Be sure to use them during the event; afterward, the treasure will have been dug up!)</color>"
+    },
+    {
+     "id": "TreasureHuntingGamesUseMapUpperTip",
+     "text": "All treasures found! Unlock a new area to keep hunting!"
+    },
+    {
+     "id": "HC_BattleInfo_2019",
+     "text": "<color=#a32e00>Colossus</color>\\nEnemies' damage +100% and max HP +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2020",
+     "text": "<color=#a32e00>Life Drain</color>\\nFrom turn 2, enemies gain 20% damage each turn; from turn 2, they also lose 10% HP each turn, stopping below 20% HP. Above 20% HP, they have a 50% chance to copy skill damage taken back to the attacker, and are immune to and reflect debuffs"
+    },
+    {
+     "id": "HC_BattleInfo_2021",
+     "text": "<color=#a32e00>Punish Sloth</color>\\nEnemies take 50% more damage when attacked by faster characters"
+    },
+    {
+     "id": "HC_BattleInfo_2022",
+     "text": "<color=#a32e00>Full of Hope</color>\\nOur side's healing +20%"
+    },
+    {
+     "id": "HC_BattleInfo_2023",
+     "text": "<color=#a32e00>Defensive Counterattack</color>\\nAfter a successful block, that ally's damage +10%, up to 100%"
+    },
+    {
+     "id": "HC_BattleInfo_2024",
+     "text": "<color=#a32e00>Huge Potential</color>\\nEnemies gain 10% damage and 5% Attack each turn"
+    },
+    {
+     "id": "HC_BattleInfo_2025",
+     "text": "<color=#a32e00>Team Spirit</color>\\nEnemies take 90% extra single-target skill damage; on even turns, final physical damage from AoE skills is reduced by 90%"
+    },
+    {
+     "id": "HC_BattleInfo_2026",
+     "text": "<color=#a32e00>Timid</color>\\nWhen our characters have higher Attack than the target, they deal 50% extra damage"
+    },
+    {
+     "id": "HC_BattleInfo_2027",
+     "text": "<color=#a32e00>Elemental Resistance</color>\\nEnemies' elemental RES +300%"
+    },
+    {
+     "id": "HC_BattleInfo_2028",
+     "text": "<color=#a32e00>Parting Gift</color>\\nBelow 50% HP, enemies are immune to Sever; on death, they heal all their allies"
+    },
+    {
+     "id": "HC_TaskTitle_22",
+     "text": "+{0} pts each time an ally blocks"
+    },
+    {
+     "id": "HC_TaskTitle_23",
+     "text": "+{0} pts each time an ally gains a shield"
+    },
+    {
+     "id": "UR_StarSkillTips_1",
+     "text": "Tap the \"!\" button to see skills unlocked at each star level"
+    },
+    {
+     "id": "HC_BattleInfo_2029",
+     "text": "<color=#a32e00>Life Bestowal</color>\\nAfter a unit with boosted HP in the stage acts, it revives a fallen target at a random position with 60% of its original HP"
+    },
+    {
+     "id": "HC_BattleInfo_2030",
+     "text": "<color=#a32e00>Relentless Combo</color>\\nEach of our actions in a turn gives 20% damage for one turn"
+    },
+    {
+     "id": "HC_BattleInfo_2031",
+     "text": "<color=#a32e00>Elemental Resistance</color>\\nEnemies take 50% more physical damage and their elemental RES +150%"
+    },
+    {
+     "id": "HC_BattleInfo_2032",
+     "text": "<color=#a32e00>Center of Attention</color>\\nOne random enemy's HP is greatly raised, and the others' HP is lowered"
+    },
+    {
+     "id": "HC_BattleInfo_2033",
+     "text": "<color=#a32e00>Elemental Affinity</color>\\nEnemies recover 30% HP when hit by fire or ice elemental damage"
+    },
+    {
+     "id": "TrialStage_NoHeroCanAdd",
+     "text": "No heroes to add"
+    },
+    {
+     "id": "UI_fanhang_cion",
+     "text": "Training Coins"
+    },
+    {
+     "id": "HC_TaskTitle_24",
+     "text": "Heal over {0}0K HP at once +{1} pts"
+    },
+    {
+     "id": "HC_TaskTitle_26",
+     "text": "Inflict Sleep on an enemy +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_27",
+     "text": "Inflict Freeze on an enemy +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_28",
+     "text": "Inflict Memory Erase on an enemy +{0} pts"
+    },
+    {
+     "id": "HC_BattleInfo_2034",
+     "text": "<color=#a32e00>Full of Life</color>\\nWhen player characters recover HP, they gain 20% damage until their next action (gem effects don't trigger it)"
+    },
+    {
+     "id": "HC_BattleInfo_2035",
+     "text": "<color=#a32e00>Burning Rage</color>\\nEnemies' damage +200%, immune to control"
+    },
+    {
+     "id": "HC_BattleInfo_2036",
+     "text": "<color=#a32e00>Endless Hatred</color>\\nEnemies deal 100% more damage to our characters above 50% HP"
+    },
+    {
+     "id": "HC_BattleInfo_2037",
+     "text": "<color=#a32e00>Hatred's Reckoning</color>\\nOn turns that are multiples of 5, enemies deal 200% True Damage to our front-most character"
+    },
+    {
+     "id": "HC_BattleInfo_2038",
+     "text": "<color=#a32e00>Fearless</color>\\nPlayer characters with a shield gain 50% Attack"
+    },
+    {
+     "id": "HC_BattleInfo_2039",
+     "text": "<color=#a32e00>Chain Assault</color>\\nEach time an enemy acts, the other enemies' damage +80% until the end of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2040",
+     "text": "<color=#a32e00>Range Advantage</color>\\nBack-row enemies' Attack +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2041",
+     "text": "<color=#a32e00>Regroup</color>\\nEnemies recover 5% max HP after acting"
+    },
+    {
+     "id": "HC_BattleInfo_2042",
+     "text": "<color=#a32e00>Brittle Ice</color>\\nFrozen enemies take 50% more damage"
+    },
+    {
+     "id": "HC_BattleInfo_2043",
+     "text": "<color=#a32e00>Lone Fighter</color>\\nEnemies take 90% more single-target skill damage; on even turns, final physical damage from AoE skills is reduced by 90%"
+    },
+    {
+     "id": "HC_BattleInfo_2044",
+     "text": "<color=#a32e00>Full of Life</color>\\nWhen player characters recover HP, they gain 50% damage until their next action (gem effects don't trigger it)"
+    },
+    {
+     "id": "HC_BattleInfo_2045",
+     "text": "<color=#a32e00>Burning Rage</color>\\nEnemies' damage +300%, immune to control"
+    },
+    {
+     "id": "HC_BattleInfo_2046",
+     "text": "<color=#a32e00>Endless Hatred</color>\\nEnemies deal 200% more damage to our characters above 50% HP"
+    },
+    {
+     "id": "HC_BattleInfo_2047",
+     "text": "<color=#a32e00>Hatred's Reckoning</color>\\nOn turns that are multiples of 5, enemies deal 500% skill damage to our front-most character"
+    },
+    {
+     "id": "HC_BattleInfo_2048",
+     "text": "<color=#a32e00>Fearless</color>\\nPlayer characters with a shield gain 200% Attack"
+    },
+    {
+     "id": "ReturnSeaLoginSub",
+     "text": "Buy to claim 7 days of deluxe rewards"
+    },
+    {
+     "id": "ReturnSeaWishSub",
+     "text": "Wish Coins claimable"
+    },
+    {
+     "id": "UrcardCombine_off",
+     "text": "UR shard exchange isn't available yet"
+    },
+    {
+     "id": "ReturnSeaQuestion",
+     "text": "How to Play:\\n*Players with Team Lv above 60 who have been offline for over 30 days trigger the Return Voyage event.\\n*The event lasts 7 days from the player's return login.\\n*During Return Voyage, complete event quests for rewards.\\n*Return Coins from Return Voyage training can buy items in the event shop.\\n*Recommended fresh servers are recently opened ones (open for 7 days or less). Watch the announcements for new server info, Captains"
+    },
+    {
+     "id": "Choose_Refine_9",
+     "text": "Choose equipment to enhance"
+    },
+    {
+     "id": "URRecruit_DoTimes",
+     "text": "{0}-Pull Reward"
+    },
+    {
+     "id": "UREnhance",
+     "text": "[Lv{0} Enhancement]"
+    },
+    {
+     "id": "HC_TryFightTips",
+     "text": "In a trial challenge you can fight the boss stage directly; its difficulty matches the real challenge."
+    },
+    {
+     "id": "HC_TryFightRewardTips",
+     "text": "Trial challenges give no rewards"
+    },
+    {
+     "id": "error_code_92035",
+     "text": "Can't trial"
+    },
+    {
+     "id": "EnhanceTip",
+     "text": "All characters are already UR"
+    },
+    {
+     "id": "UREnhanceHero",
+     "text": "You don't have any UR characters yet"
+    },
+    {
+     "id": "ReturnSeaTitle",
+     "text": "Return Voyage"
+    },
+    {
+     "id": "EquipUpgrade_name",
+     "text": "Character Enhancement"
+    },
+    {
+     "id": "EquipUpgrade_1",
+     "text": "Enhanced when equipped"
+    },
+    {
+     "id": "EquipUpgrade_2",
+     "text": "No UR characters owned"
+    },
+    {
+     "id": "EquipSelected",
+     "text": "You've already chosen this character"
+    },
+    {
+     "id": "EquipUpgrade_help",
+     "text": "*UR character sets can be enhanced.\\nEnhancing raises the level and effect of the [Character Enhancement] trait.\\nOnly the designated character wearing the UR equipment activates [Character Enhancement]; other characters can wear it too and get its other stats."
+    },
+    {
+     "id": "EquipMaterial",
+     "text": "Not enough materials or currency"
+    },
+    {
+     "id": "CelebrationFightQuestion",
+     "text": "Spring Festival Challenge Info:\\n1. You get 5 challenge attempts per day; they don't carry over to the next day.\\n2. A successful challenge uses one attempt; a failed one doesn't.\\n3. Clearing some stages unlocks buffs you can bring into later Normal stages.\\n4. Clearing Normal stages 1, 4, 9, 14, 19, 24 and 29 raises your buff slot limit.\\n5. Some stages have first-clear rewards, claimable only on your first clear."
+    },
+    {
+     "id": "ScrollShareTip",
+     "text": "Collect every character on this scroll to share it!"
+    },
+    {
+     "id": "HC_BattleInfo_2049",
+     "text": "<color=#a32e00>High Spirits</color>\\nAbove 50% HP, enemies have a 50% chance to reflect skill damage"
+    },
+    {
+     "id": "HC_BattleInfo_2050",
+     "text": "<color=#a32e00>Crisis Awareness</color>\\nPlayer characters above 50% HP take 200% more damage; below 50% HP they deal 200% more damage"
+    },
+    {
+     "id": "HC_BattleInfo_2051",
+     "text": "<color=#a32e00>Unlimited Firepower</color>\\nAll player character skills cost 5 less Soul Jade"
+    },
+    {
+     "id": "HC_BattleInfo_2052",
+     "text": "<color=#a32e00>Villainous Charm</color>\\nEnemies' final damage taken -50%"
+    },
+    {
+     "id": "HC_BattleInfo_2053",
+     "text": "<color=#a32e00>Static Touch</color>\\nEnemies' lightning damage +100%, and their attacks deal extra lightning damage equal to 100% of Attack"
+    },
+    {
+     "id": "HC_TaskTitle_29",
+     "text": "Deploy Big Mom +{0} pts"
+    },
+    {
+     "id": "URRecruit_Text",
+     "text": "UR Recruit"
+    },
+    {
+     "id": "CelebrationAnswerExplain",
+     "text": "Fun Event Info:\\n1. Fun events come in two types: Anniversary Quiz and Anniversary Riddle.\\n2. Riddles and quizzes alternate daily.\\n3. Each player can answer only one quiz or riddle per day and claim its reward.\\n4. The Anniversary Quiz is multiple choice: pick from four options. Right answers give rewards automatically; if wrong, wait a few seconds to think again.\\n5. The Anniversary Riddle gives one clue a day. Go to an area related to the clue, then tap Anniversary Riddle again. If correct, you get the reward automatically."
+    },
+    {
+     "id": "WorldTask_Time",
+     "text": "Event ends in: {0} days"
+    },
+    {
+     "id": "CollectionActivity_Time",
+     "text": "Event Time {0}/{1}/{2} - {3}/{4}/{5}"
+    },
+    {
+     "id": "UI_fanhang_cion2_text",
+     "text": "In the Return Voyage event, collect enough to claim extra rewards on the event wish screen."
+    },
+    {
+     "id": "UI_fanhang_cion2",
+     "text": "Wish Coins"
+    },
+    {
+     "id": "ReturnTask",
+     "text": "Returner quests aren't open"
+    },
+    {
+     "id": "URRecruit_ActivityClose",
+     "text": "The UR Recruit event has ended"
+    },
+    {
+     "id": "FourAnniversaryActivityHelp",
+     "text": "Spring Festival Challenge Info:\\n This event runs from 2/1 to 2/14.\\n After 2/14 the Spring Festival event closes and remaining Spring Festival Coins are cleared, so exchange them for gifts in time!"
+    },
+    {
+     "id": "ReturnTaskActive",
+     "text": "Enter invite code here"
+    },
+    {
+     "id": "WorldTask_ActivityClose",
+     "text": "World Quest event has ended"
+    },
+    {
+     "id": "CollectionActivity_ActivityClose",
+     "text": "Event template event has ended"
+    },
+    {
+     "id": "HC_BattleInfo_2054",
+     "text": "<color=#a32e00>Brief Rest</color>\\nEnemies recover 3% HP at the end of their turn"
+    },
+    {
+     "id": "HC_BattleInfo_2055",
+     "text": "<color=#a32e00>Show of Force</color>\\nEnemies' first 3 attacks deal 100% more damage"
+    },
+    {
+     "id": "HC_BattleInfo_2056",
+     "text": "<color=#a32e00>Strike the Weak Spot</color>\\nEvery 10 hits on the back-row enemy stuns all enemies for 1 turn"
+    },
+    {
+     "id": "HC_BattleInfo_2057",
+     "text": "<color=#a32e00>Shame into Courage</color>\\nOur characters below 70% HP deal 100% more damage"
+    },
+    {
+     "id": "HC_BattleInfo_2058",
+     "text": "<color=#a32e00>Lightning Fast</color>\\nEnemies' Speed +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2059",
+     "text": "<color=#a32e00>Speed Advantage</color>\\nEnemies take 95% less damage from characters slower than them"
+    },
+    {
+     "id": "HC_BattleInfo_2060",
+     "text": "<color=#a32e00>Dodge Reward</color>\\nEnemies recover 3% HP on a successful dodge"
+    },
+    {
+     "id": "HC_BattleInfo_2061",
+     "text": "<color=#a32e00>Nimble Steps</color>\\nEnemies' Evasion +150%"
+    },
+    {
+     "id": "HC_BattleInfo_2062",
+     "text": "<color=#a32e00>Heroic Resistance</color>\\nFrom turn 2, enemies gain a 10% shield every three turns until the end of the turn; if the shield is broken before it fades, they gain 200% Vulnerability for 2 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2063",
+     "text": "<color=#a32e00>Brutal Style</color>\\nOur crit damage +100%"
+    },
+    {
      "id": "ExpGetWay_CrawlTower",
      "text": "Voyage Tower"
     },
@@ -19033,7 +20153,7 @@
      "text": "Limited Recruit"
     }
    ],
-   "partial": "3967/5841 rows translated so far"
+   "partial": "4247/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
