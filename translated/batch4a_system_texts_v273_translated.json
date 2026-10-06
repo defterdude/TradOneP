@@ -21267,8 +21267,1172 @@
      "text": "Carry at least one outpost"
     },
     {
+     "id": "RoguePVEExplainExplain",
+     "text": "*In Route Expedition, you challenge stages with system-provided characters whose stats are unrelated to your own characters. Improve them with random skills dropped by stages and with enhancements.\\n\\nAfter unlocking a new active skill through enhancement, tap \"Change\" on the lineup screen to see all skills you hold, then drag an active skill to the skill slot on the right to swap it in.\\n\\nThis period offers three characters; pick any one for each voyage.\\n*Defeating enemies in Route Expedition offers three random skills; pick any one.\\nStages drop Route Expedition Gold Coins and Silver Coins, each with a daily cap. Gold Coins buy items in the exclusive shop; Silver Coins enhance Route Expedition characters. Unused currency is cleared when the event ends.\\nEarn points by damaging monsters and clearing stages. Damage to the final boss on Difficulty II counts toward your boss score. Players with high point rankings get extra rewards when the event ends.\\n*When you feel you can't progress or raise your score, reset manually to start a new voyage. Resetting loses the random skills from this run but keeps enhancements.\\nOn a new voyage you can choose the difficulty and character again. This Route Expedition has two difficulties; clear every stage on Difficulty I to choose Difficulty II on your next voyage.\\nYou can reset 20 times for free during the event; after that, spend Blue Diamonds to keep resetting.\\n*After the event period ends, stages can't be challenged, but you can still view the leaderboard and buy items. The event closes at 24:00 that night and leaderboard rewards are settled."
+    },
+    {
+     "id": "UI_RoguePVETip_5",
+     "text": "Spend {0} Route Expedition Silver Coins to re-roll 1 time?\\nRe-rolls left this run: {1}/{2}"
+    },
+    {
+     "id": "UI_RoguePVETip_6",
+     "text": "Can't enhance during a stage"
+    },
+    {
+     "id": "UI_RoguePVETip_8",
+     "text": "Skills obtained: {0}"
+    },
+    {
+     "id": "UI_RoguePVETip_10",
+     "text": "Re-roll 1 time?"
+    },
+    {
+     "id": "DefenseFightExplain",
+     "text": "*Route Blockade is a tower defense event mode.\\nWhile it's open, captains get 2 attempts per day. Your first successful clear of a stage uses one attempt and gives the first-clear reward.\\nFirst-clear rewards can only be claimed once. Clearing a stage again gives no reward, but doesn't use an attempt either.\\nBefore a challenge you can adjust your outposts, carrying up to five types.\\nYou win a stage by defeating all enemy ships in it.\\nStages can't be challenged after the event ends."
+    },
+    {
+     "id": "BountyBossCountDown",
+     "text": "Countdown"
+    },
+    {
+     "id": "BountyBossNotTime",
+     "text": "Not during event hours. Can't join"
+    },
+    {
+     "id": "BountyBossNotLevel",
+     "text": "Level too low to join"
+    },
+    {
+     "id": "BountyBossDead",
+     "text": "You've already defeated this boss"
+    },
+    {
+     "id": "BountyBossNoChance",
+     "text": "Not enough entries left"
+    },
+    {
+     "id": "BountyBossRankHundred",
+     "text": "After Rank 100"
+    },
+    {
+     "id": "AssetCheckTitle",
+     "text": "Resource Check"
+    },
+    {
+     "id": "AssetCheckContent",
+     "text": "The resource check takes a while. Please be patient"
+    },
+    {
+     "id": "AssetCheckTips_ResDownloading",
+     "text": "Can't check manually while resources are downloading. Try again after the update finishes"
+    },
+    {
+     "id": "DispatchTimes_Assistant",
+     "text": "Dispatches:"
+    },
+    {
+     "id": "CombatCondition_Assistant",
+     "text": "Wins: {0}  Losses: {1}"
+    },
+    {
+     "id": "AssetCheckTips_BackToLogin",
+     "text": "Some resources are corrupted. Return to login and re-download them"
+    },
+    {
+     "id": "BountyBossCantFight",
+     "text": "This boss can't be challenged right now"
+    },
+    {
+     "id": "Food_HaveNoMenu",
+     "text": "This recipe isn't unlocked. Watch for events to get recipes"
+    },
+    {
+     "id": "Food_HaveNoMaterial",
+     "text": "You don't have enough ingredients"
+    },
+    {
+     "id": "Food_RemainTimes",
+     "text": "{0} battles"
+    },
+    {
+     "id": "Food_RemainTime",
+     "text": "{0:d2}h {1:d2}m"
+    },
+    {
+     "id": "Food_RemoveContent",
+     "text": "Remove the effect of {1} eaten by {0}?"
+    },
+    {
+     "id": "Food_NotHero",
+     "text": "Current Team"
+    },
+    {
+     "id": "Food_ExpireTimes",
+     "text": "After {0} battles"
+    },
+    {
+     "id": "Food_ExpireTime",
+     "text": "{0:d2}/{1:d2}/{2:d2} {3:d2}:00"
+    },
+    {
+     "id": "EquipPresetRemove",
+     "text": "Remove"
+    },
+    {
+     "id": "EquipPresetRegist",
+     "text": "Register"
+    },
+    {
+     "id": "Food_UseContent",
+     "text": "Have {0} eat {1}?"
+    },
+    {
+     "id": "EquipPreset_UnlockTitle",
+     "text": "Unlock Preset Slot"
+    },
+    {
+     "id": "EquipPreset_UnlockContent",
+     "text": "Spend <color=#ba5714>{0}</color><sprite=1> to unlock a new preset slot?"
+    },
+    {
+     "id": "EquipPreset_UnlockContent_1",
+     "text": "Unlock the previous slot first"
+    },
+    {
+     "id": "Food_Single",
+     "text": "User"
+    },
+    {
+     "id": "Food_Team",
+     "text": "Scope"
+    },
+    {
+     "id": "EquipPreset_RegistContent",
+     "text": "Registered equipment becomes bound and can't be traded. Register it?"
+    },
+    {
+     "id": "EquipPreset_CopyTitle",
+     "text": "Apply Equipment"
+    },
+    {
+     "id": "EquipPreset_CopyContent",
+     "text": "Copy this character's equipment to this preset slot?"
+    },
+    {
+     "id": "EquipPreset_Tips_EquipInOtherHeros",
+     "text": "The preset contains equipment used by other characters. Remove it from them and equip it on this character?"
+    },
+    {
+     "id": "EquipPresetFightExplain",
+     "text": "Equipment Presets let you set up several gear sets and equip them in one tap for quick swaps.\\n*Tap a preset slot and choose equipment to register to it. Tap \"Equip\" to put all wearable equipment in the preset on the current character (equipment above the character's level won't be worn, and empty preset slots won't remove current gear).\\nTap \"One-Tap Preset\" to register the current character's whole set to the preset.\\n*When registering, tap an equipment type button below the gear bag on the left and the preset auto-selects that slot, so you can register that type directly.\\nTap the rename button next to a preset's name to give it a custom name and tell your presets apart.\\nSpend currency to unlock more presets in order.\\n*Equipment registered to a preset must be removed before it can be recycled, stored or smelted."
+    },
+    {
+     "id": "Food_Unlock",
+     "text": "Unlock Dish"
+    },
+    {
+     "id": "Food_Cook",
+     "text": "Start Cooking"
+    },
+    {
+     "id": "Food_UseRepeated",
+     "text": "Have {0} eat {1}? This will overwrite the effect of {2}."
+    },
+    {
+     "id": "FoodMenuExplain",
+     "text": "*Cuisine System Info.*Want to cook all the world's dishes? Get the recipe and collect the ingredients, and you can make all kinds of food.*Recipes are needed to unlock dishes, and come from various modes.*Unlocked dishes can be cooked once you collect their ingredients.\\nIngredients are essential or optional. Essential ingredients are required, and <color=#d84200>adding optional ingredients has a chance to give by-products</color>.*Dishes are for a single character or the whole team.*Dish effects last for a set time or a set number of battles."
+    },
+    {
+     "id": "EquipPreset_NoEquipToUse",
+     "text": "No equipment to wear"
+    },
+    {
+     "id": "EquipPreset_NoChanges",
+     "text": "No equipment to swap"
+    },
+    {
+     "id": "Food_TeamUsed",
+     "text": "Whole Team"
+    },
+    {
+     "id": "LoopExpandNumTips",
+     "text": "{0}/{1} times"
+    },
+    {
+     "id": "LoopExpandCostText",
+     "text": "Tempering cost (this round: {0})"
+    },
+    {
+     "id": "LoopExpandConfirm",
+     "text": "One-Tap Temper"
+    },
+    {
+     "id": "LoopExpandCancel",
+     "text": "Cancel Tempering"
+    },
+    {
+     "id": "Food_UnlockSuccess",
+     "text": "Dish unlocked"
+    },
+    {
+     "id": "LoopExpandResultSuccess",
+     "text": "Tempering succeeded [Slot {0}] - [Slot {1}]"
+    },
+    {
+     "id": "LoopExpandResultFail",
+     "text": "Tempering failed"
+    },
+    {
+     "id": "ContinuePuch",
+     "text": "Continuous Socketing"
+    },
+    {
+     "id": "EquipPreset_Rename_Tips",
+     "text": "Name must be 1-10 characters"
+    },
+    {
+     "id": "EquipPreset_StoreTips",
+     "text": "Preset equipment can't be stored in the warehouse"
+    },
+    {
+     "id": "equipCannotMelting_Preset",
+     "text": "This equipment is registered to a preset and can't be smelted"
+    },
+    {
+     "id": "EquipPresetCopySucess",
+     "text": "Applied"
+    },
+    {
+     "id": "Food_UnlockFood",
+     "text": "You can now cook {0}"
+    },
+    {
+     "id": "PresetReset_BagCellTips",
+     "text": "Batch swapping requires {0} free Bag slots"
+    },
+    {
+     "id": "UnionBossExplain",
+     "text": "*Boss Repel is a guild-based PvE mode.\\n*While it's open, guild captains get 2 attempts per day; each challenge uses one.\\n*Note: once you join a guild's boss battle, you can't join other guilds' boss battles or claim their rewards, even after switching guilds.\\n*After joining, you can claim your guild's boss progress rewards, including progress already reached on other bosses in the guild. Each reward can only be claimed once."
+    },
+    {
+     "id": "GemRefine_LevelNotEqual",
+     "text": "Only gems of the same level can be added"
+    },
+    {
+     "id": "GemRefine_GemAddOver",
+     "text": "All gems needed for refining have been added"
+    },
+    {
+     "id": "GemRefine_PleasePushGem",
+     "text": "Please add gems"
+    },
+    {
+     "id": "GemRefine_PushLevelGem",
+     "text": "Lv{0} Gem"
+    },
+    {
+     "id": "GemRefine_NotEnough",
+     "text": "Add more gems"
+    },
+    {
+     "id": "ServerChallengeFightBuff",
+     "text": "Gain 300% final damage bonus"
+    },
+    {
+     "id": "ServerChallengeExplain",
+     "text": "*Event time: daily 06:00-22:00\\n*Details:\\nDuring the event, captains can earn Peak Gold Coins and point rewards by defeating bosses and more.\\nExchange Peak Gold Coins for great rewards in the [Event Shop].\\nAccumulated points give rewards after the event ends.\\n*Boss rules: bosses range from one to six stars.\\nThe more bosses you defeat, the more likely high-star bosses appear. Higher-star bosses give more points and Peak Gold Coins\\n*Point rules: boss points not settled that day are settled the next day; if you don't log in the next day, they won't count."
+    },
+    {
+     "id": "ServerChallengeTimeleft",
+     "text": "Time left: {0}"
+    },
+    {
+     "id": "ServerChallengeDiscoverer",
+     "text": "Boss Discoverer"
+    },
+    {
+     "id": "ServerChallengeShareFailed",
+     "text": "Share failed"
+    },
+    {
+     "id": "ServerChallengeSendLink",
+     "text": "sent a server-wide challenge link"
+    },
+    {
+     "id": "ServerChallengeDiscoveredToday",
+     "text": "Left today {0}/{1}"
+    },
+    {
+     "id": "ServerChallengePublic",
+     "text": "Public in {0}"
+    },
+    {
+     "id": "ServerChallengePublicMade",
+     "text": "Public"
+    },
+    {
+     "id": "MultiTeamFightExplain_Formation",
+     "text": "*Peak Arena Tournament is a multi-lineup PvP mode.\\n*This season runs from 2023/9/21 0:00 to 2023/10/18 24:00\\n*While it's open, captains must set up at least 3 teams with 15 characters, and can adjust the teams' battle order.\\n*Opponents are pushed to you during the event. Beating them raises your points; losing lowers them. Being challenged by others doesn't change your points either way.\\n*Each captain gets five challenges per day during the event, and can also buy up to ten Arena Challenge Tickets daily in the Rainbow Diamond Shop; use one from your Bag for an extra challenge\\n*In this Peak Arena Tournament, character levels are synced to 60 and unlocked skills plus their follow-up skills are synced to max level; equipment, gems, medicine, stars, breakthrough, training, costumes and titles have no effect.\\n*AI opponents have been added below 1100 points for when opponents are scarce early on.\\n*The first time you reach certain tiers, you can claim tier-up rewards on the screen.\\n*At each Wednesday settlement, rewards are mailed based on your tier. Note: captains in the Novice tier get no weekly rewards, so play often\\n*When the event ends, rewards are mailed based on your rank and tier."
+    },
+    {
+     "id": "ServerChallengeBossFound",
+     "text": "Found Boss {0}"
+    },
+    {
+     "id": "GemRefine_MsgBoxContent",
+     "text": "Your wish list is empty. Refine gems anyway?"
+    },
+    {
+     "id": "GemRefine_WishListFull",
+     "text": "Wish list is full. Deselect one before adding another"
+    },
+    {
+     "id": "GemRefine_WishListNotFull",
+     "text": "Your wish list isn't full, so refining may give gems not on it. Exit?"
+    },
+    {
+     "id": "GemRefine_All",
+     "text": "All"
+    },
+    {
+     "id": "GemRefine_GemNotEnough",
+     "text": "Not enough gems to refine"
+    },
+    {
+     "id": "gemrefine",
+     "text": "Refine"
+    },
+    {
+     "id": "Space_Pop",
+     "text": "Retrieve"
+    },
+    {
+     "id": "Push",
+     "text": "Add"
+    },
+    {
+     "id": "GemRefineExplain",
+     "text": "Gem Refining Info:\\nThree gems of the same level refine into one gem of that level, with the type chosen at random from your wish list.\\nThe wish list holds up to 10 gem types; if you choose fewer than 10, the system fills it up to 10 at random when refining.\\nBatch refining refines as many gems as possible based on your chosen levels and types. The cost shown is all your matching gems, but the three-for-one rule still applies and leftover gems aren't used."
+    },
+    {
+     "id": "GemRefineNoMoney",
+     "text": "Not enough currency"
+    },
+    {
+     "id": "ServerChallengeEscape",
+     "text": "This boss has escaped"
+    },
+    {
+     "id": "TeamTitle",
+     "text": "Team {0}"
+    },
+    {
+     "id": "DriftBotCostGetReward",
+     "text": "Spend {0} to get {1} hours of income? Uses left today: {2}/{3}. If you don't have enough Blue Diamonds, the same amount of Rainbow Diamonds is used"
+    },
+    {
+     "id": "MultiTeamFightTimeRemains",
+     "text": "Event ends in: {0}"
+    },
+    {
+     "id": "UI_DriftBot_coin",
+     "text": "Training Scrolls"
+    },
+    {
+     "id": "UI_DriftBot_coin_test",
+     "text": "An item from Training Route, used to raise Training skill levels."
+    },
+    {
+     "id": "MultiTeamFightFormationIsEmpty0",
+     "text": "Current lineup is empty. Can't swap"
+    },
+    {
+     "id": "MultiTeamFightFormationIsEmpty1",
+     "text": "Target lineup is empty. Can't swap"
+    },
+    {
+     "id": "MultiTeamFightFirstChallengeTip",
+     "text": "Fight with this lineup? Lineup changes after battle take effect with some delay."
+    },
+    {
+     "id": "MultiTeamFightExplain_Main",
+     "text": "*Peak Arena Tournament is a multi-lineup PvP mode.\\n*This season runs from 2024/5/16 to 2024/6/6\\n*While it's open, captains must set up at least 3 teams with 15 characters, and can adjust the teams' battle order.\\n*Opponents are pushed to you during the event. Beating them raises your points; losing lowers them. Being challenged by others doesn't change your points either way.\\n*Each captain gets five challenges per day during the event, and can also buy up to ten Arena Challenge Tickets daily in the Rainbow Diamond Shop; use one from your Bag for an extra challenge\\n*In this Peak Arena Tournament, character levels are synced to 60 and unlocked skills plus their follow-up skills are synced to max level; stats and buffs from equipment, gems, medicine, stars, breakthrough, training, costumes and titles have no effect.\\n*AI opponents have been added below 1100 points for when opponents are scarce early on.\\n*The first time you reach certain tiers, you can claim tier-up rewards on the screen. 1000-1199 points is Bronze, 1200-1499 is Silver, and 1500+ is Gold.\\n*Captains can set hidden characters in their defense lineup; challengers can't see their info\\n*At each Wednesday settlement, rewards are mailed based on your tier. Note: captains in the Novice tier get no weekly rewards, so play often\\n*When the event ends, rewards are mailed based on your rank and tier.\\n*Playing gives Arena Tournament Coins, with more for wins; exchange them for various items in the Arena Tournament Shop."
+    },
+    {
+     "id": "MultiTeamFightGame3",
+     "text": "Match 3"
+    },
+    {
+     "id": "MultiTeamFight_BuffNameFormat",
+     "text": "Zone bonus location: {0}"
+    },
+    {
+     "id": "MultiTeamFight_BuffDescFormat",
+     "text": "Zone bonus effect: {0}"
+    },
+    {
+     "id": "MultiTeamFight_ChallengeAgainDenied",
+     "text": "You've already challenged this character"
+    },
+    {
+     "id": "ForeverPass",
+     "text": "Permanent Pass"
+    },
+    {
+     "id": "ForeverPassDay",
+     "text": "Valid: Permanent"
+    },
+    {
+     "id": "ForeverPassReward",
+     "text": "Claimed!"
+    },
+    {
+     "id": "ForeverPassNotItem",
+     "text": "Not enough items!"
+    },
+    {
+     "id": "ForeverPassUnlock",
+     "text": "Unlocked!"
+    },
+    {
+     "id": "DriftBotExplain",
+     "text": "*Training Route is a stage challenge + idle mode.\\n*It unlocks at a certain level; enter via Events - Daily Quests - Training Route\\n*Captains explore the route and challenge higher stages; clearing a stage gives its time-based income.\\n*The higher the stage, the more time-based income you get.\\n*Income accumulates for up to 12 hours; anything beyond 12 hours is lost, so collect your income in time."
+    },
+    {
+     "id": "UnionSkillTreeExplain",
+     "text": "*Training is a new growth mode.\\n*It unlocks at a certain level; tap the Training button in the right-side drawer to open it.\\n*Unlocking Training skills requires guild-related conditions, and some need prerequisite Training skills first.\\n*Spend Guild Contribution and Training Scrolls to improve Training skills. Guild Contribution comes from guild quests and similar modes; Training Scrolls come from Training Route."
+    },
+    {
+     "id": "DriftBotPageHasRewardBeginFight",
+     "text": "Challenging the next stage automatically claims all current rewards."
+    },
+    {
+     "id": "ClassicCustomClickHeroTips",
+     "text": "Wish list unlocks after 30 pulls"
+    },
+    {
+     "id": "ClassicCustomClickHero",
+     "text": "Unlocks after {0} more recruits"
+    },
+    {
+     "id": "ClassicCustomNewPlayerTips",
+     "text": "First 2 10-pulls are discounted for new players!"
+    },
+    {
+     "id": "ClassicCustomSaveTips",
+     "text": "Your wish list has changed. Save the current choice slots?"
+    },
+    {
+     "id": "ClassicCustomRewardTips",
+     "text": "Gold Bars, plus a bonus Voyage Companion. Got nothing from the 10-pull? What were you expecting?"
+    },
+    {
+     "id": "ClassicLimitedRewardTips",
+     "text": "Gold Bars, plus a bonus Voyage Companion. Got nothing from the 10-pull? What were you expecting?"
+    },
+    {
+     "id": "ClassicCustomSelectTips",
+     "text": "Everything on the wish list has been drawn"
+    },
+    {
+     "id": "ClassicLimitedTips1",
+     "text": "Increased recruit rates!"
+    },
+    {
+     "id": "ClassicLimitedTips2",
+     "text": "SSR guaranteed in {0} more recruits!"
+    },
+    {
+     "id": "ClassicLimited_title",
+     "text": "Classic Server - Limited Recruit"
+    },
+    {
+     "id": "ClassicCustom_dis",
+     "text": "Choice character description goes here."
+    },
+    {
+     "id": "ClassicCustom_RefreshPageTips",
+     "text": "This period's pool has refreshed. Tap Confirm to refresh the page"
+    },
+    {
+     "id": "HomelandQuickBuildStart",
+     "text": "Production started with your setup"
+    },
+    {
+     "id": "HomelandQuickBuildDesc",
+     "text": "*Quick Home Building helps you set up and collect Home production quickly.\\n*Opening the panel automatically collects finished items and production progress.\\n*Use One-Tap Setup to quickly assign production items and characters, prioritized by the panel's order.\\nYou can also set items manually; One-Tap Setup won't change manual choices.\\n*You still need to rent characters manually each day. Rented characters are assigned by One-Tap Setup just like your own, based on work progress bonus.\\n*When done, tap Execute to start production with this setup. Changing characters in Essence Collectors, removing characters from the Dormitory and renting also take effect only after tapping Execute."
+    },
+    {
+     "id": "HomelandQuickBuildAutoFinishProduce",
+     "text": "Progress collected automatically"
+    },
+    {
+     "id": "ExerciseExplain",
+     "text": "*Combat Training has four routes; choose one that suits you.\\n*Each battle on the voyage costs Action Points, and the farther you go, the more they cost.\\n*Defeat all enemies within the turn limit to advance to the next stage.\\n*Your first clear of each stage gives a first-clear reward; repeat challenges or sweeps give only normal rewards.\\n*On the Transcendent, Storm, Phantom and Starlight routes, each stage has 3 conditions; each 1 met in a single attempt earns 1 star.\\n*Collect enough stars to claim star rewards."
+    },
+    {
+     "id": "ExerciseExplain_1",
+     "text": "Transcendent"
+    },
+    {
+     "id": "ExerciseExplain_2",
+     "text": "Storm"
+    },
+    {
+     "id": "ExerciseExplain_3",
+     "text": "Phantom"
+    },
+    {
+     "id": "ExerciseExplain_4",
+     "text": "Starlight"
+    },
+    {
+     "id": "ExerciseOpenFor",
+     "text": "Level too low. This stage unlocks at Lv{0}"
+    },
+    {
+     "id": "ReportText",
+     "text": "<link=\"https://beian.miit.gov.cn\">ICP Filing No. (Beijing ICP 09061129-9A)</link>"
+    },
+    {
+     "id": "MasterFormation",
+     "text": "Masters Formation"
+    },
+    {
+     "id": "MasterNotOpenTip",
+     "text": "Masters Tournament isn't open"
+    },
+    {
+     "id": "ReplaySkipRound",
+     "text": "Jumping to the selected turn, please wait..."
+    },
+    {
+     "id": "Coin_name_USFCoin",
+     "text": "Sea Battle Coins"
+    },
+    {
+     "id": "Coin_desc_USFCoin",
+     "text": "Currency from Guild Sea Battles, used to buy items in the Guild Store."
+    },
+    {
+     "id": "UnionStaff",
+     "text": "All Members"
+    },
+    {
+     "id": "ReplaySelectRoundSkip",
+     "text": "Jump to Turn"
+    },
+    {
+     "id": "UI_Exercise",
+     "text": "Home Decoration Coins"
+    },
+    {
+     "id": "UI_Exercise_test",
+     "text": "Used to unlock permanent Home decorations"
+    },
+    {
+     "id": "RoleCheckExplain",
+     "text": "*Captains who meet the character strength requirements can claim rewards on this screen.\\n*Character strength verification resets and changes its conditions after each event."
+    },
+    {
+     "id": "BattlePassBuyExpTime",
+     "text": "Purchasable in {0} days"
+    },
+    {
+     "id": "AgreeSecretMessageBox",
+     "text": "Before continuing, please read and agree to the User Agreement and Privacy Policy"
+    },
+    {
+     "id": "guide_desc_010",
+     "text": "Congrats on getting new equipment! Equipment greatly boosts your characters' Power. Put it on now!"
+    },
+    {
+     "id": "guide_desc_012",
+     "text": "Tap Equipment"
+    },
+    {
+     "id": "guide_desc_013",
+     "text": "Tap to open the equipment list"
+    },
+    {
+     "id": "guide_desc_014",
+     "text": "Tap the equipment icon"
+    },
+    {
+     "id": "guide_desc_015",
+     "text": "New equipment must be appraised before use. Tap to appraise"
+    },
+    {
+     "id": "guide_desc_016",
+     "text": "Appraised! Now put this equipment on."
+    },
+    {
+     "id": "guide_desc_002",
+     "text": "Tap Normal Recruit"
+    },
+    {
+     "id": "guide_desc_004",
+     "text": "Congrats on your new companion, Captain! Now send them into battle!"
+    },
+    {
+     "id": "guide_desc_005",
+     "text": "Tap Close"
+    },
+    {
+     "id": "guide_desc_007",
+     "text": "Tap the deploy button to add a companion to battle"
+    },
+    {
+     "id": "guide_desc_008",
+     "text": "Deploy your new companion"
+    },
+    {
+     "id": "guide_desc_041",
+     "text": "Zoro has joined the team. Now go activate Zoro's skill!"
+    },
+    {
+     "id": "guide_desc_029",
+     "text": "Tap Skills to switch to the skills tab"
+    },
+    {
+     "id": "guide_desc_030",
+     "text": "The skill \"Oni Giri\" can now be activated. Tap the skill icon"
+    },
+    {
+     "id": "guide_desc_031",
+     "text": "Tap the button to activate the skill"
+    },
+    {
+     "id": "guide_desc_032",
+     "text": "Skill activated! Now drag it to the area on the right to set \"Oni Giri\" as a battle skill!"
+    },
+    {
+     "id": "guide_desc_033",
+     "text": "Skill set! Go try the new skill in battle!"
+    },
+    {
+     "id": "guide_skill_tip",
+     "text": "Active skills are normal skills or Finishers. Both cost Soul Jade, but after using a Finisher the character can't act again that turn."
+    },
+    {
+     "id": "guide_desc_021",
+     "text": "Your new companion needs to get stronger. Tap Level Up"
+    },
+    {
+     "id": "guide_desc_034",
+     "text": "Tap to turn on Auto-Add and add upgrade materials automatically"
+    },
+    {
+     "id": "guide_desc_035",
+     "text": "Tap Level Up to raise your companion's level"
+    },
+    {
+     "id": "guide_desc_026",
+     "text": "Let's continue the adventure!"
+    },
+    {
+     "id": "guide_desc_036",
+     "text": "Daily Quests give lots of EXP and rewards and are key to leveling up. Tap the Events button to open Daily Quests."
+    },
+    {
+     "id": "guide_desc_037",
+     "text": "Tap the Daily Quests tab"
+    },
+    {
+     "id": "guide_desc_038",
+     "text": "Tap Go"
+    },
+    {
+     "id": "guide_des_openNPCShop",
+     "text": "Open the Weapon Shop"
+    },
+    {
+     "id": "guide_des_NPCShopBuy",
+     "text": "The Weapon Merchant sells all kinds of weapons and equipment that quickly boost your team's Power. Buy one now, Captain!"
+    },
+    {
+     "id": "guide_ClickBuyTip",
+     "text": "Tap Buy"
+    },
+    {
+     "id": "guide_desc_62",
+     "text": "Tap \"Story Replay\""
+    },
+    {
+     "id": "guide_desc_63",
+     "text": "Meet set conditions when clearing a dungeon for extra star rewards"
+    },
+    {
+     "id": "guide_desc_64",
+     "text": "Reach the required total stars to claim generous rewards!"
+    },
+    {
+     "id": "guide_desc_65",
+     "text": "Now try challenging a dungeon, Captain!"
+    },
+    {
+     "id": "guide_desc_72",
+     "text": "Tap \"Character Stories\""
+    },
+    {
+     "id": "guide_desc_73",
+     "text": "Getting a new character automatically unlocks their Character Story. Challenge it for recruit items, Battle Souls and other rare items!"
+    },
+    {
+     "id": "guide_desc_74",
+     "text": "Now try challenging a Character Story, Captain!"
+    },
+    {
+     "id": "guide_wild_01",
+     "text": "Welcome to the Orange Town outskirts! In the field you can fight monsters, gather and idle for EXP and all sorts of rewards!"
+    },
+    {
+     "id": "guide_wild_02",
+     "text": "Placeholder text"
+    },
+    {
+     "id": "guide_wild_03",
+     "text": "Tap this button to heal injured characters in your team!"
+    },
+    {
+     "id": "guide_wild_05",
+     "text": "Now go explore the field yourself, Captain!"
+    },
+    {
+     "id": "guide_wild_04",
+     "text": "HP carries over after field battles; the doctor can heal injured characters."
+    },
+    {
+     "id": "guide_switch_03",
+     "text": "Tap Replace"
+    },
+    {
+     "id": "guide_switch_04",
+     "text": "Captains can swap the characters they want to deploy here. Now try it yourself!"
+    },
+    {
+     "id": "guide_activityRaid_tip_1",
+     "text": "Event Dungeons include Training Day, Breakthrough Day, Golden Trial and Hero Trial, giving training items, Breakthrough Materials, Gold Bars and EXP Scrolls respectively."
+    },
+    {
+     "id": "guide_activityRaid_tip_2",
+     "text": "Breakthrough Day and Training Day have limited attempts once opened; use items to add attempts when they run out"
+    },
+    {
+     "id": "guide_activityRaid_tip_4",
+     "text": "Tap Golden Trial"
+    },
+    {
+     "id": "guide_activityRaid_tip_3",
+     "text": "Breakthrough Day and Training Day have several difficulty levels; higher levels give better rewards."
+    },
+    {
+     "id": "guide_activityRaid_tip_5",
+     "text": "Golden Trial and Hero Trial can be challenged with the matching key. Keys drop from the system and can also be bought in the Shop."
+    },
+    {
+     "id": "guide_activityRaid_tip_6",
+     "text": "Once Golden Trial or Hero Trial starts, the challenge lasts 20 minutes, during which you can keep taking on higher floors for more rewards"
+    },
+    {
+     "id": "guide_activityRaid_tip_7",
+     "text": "Now try challenging an Event Dungeon, Captain!"
+    },
+    {
+     "id": "guide_equipRefine_1",
+     "text": "Tap the Blacksmith"
+    },
+    {
+     "id": "guide_equipRefine_2",
+     "text": "The Blacksmith refines equipment, which greatly boosts its stats. Now try it yourself, Captain!"
+    },
+    {
+     "id": "guide_taskTip",
+     "text": "Tap Main Quest to start your adventure!"
+    },
+    {
+     "id": "guide_arenaTip1",
+     "text": "Welcome to the Arena! It's where players show their strength. Defeat more opponents to make your name across the seas!"
+    },
+    {
+     "id": "guide_arenaTip2",
+     "text": "On the right are players ranked near you. Tap Challenge to fight them; win to swap ranks, lose and your rank stays the same"
+    },
+    {
+     "id": "guide_arenaTip3",
+     "text": "Tap the refresh button to change opponents"
+    },
+    {
+     "id": "guide_arenaTip4",
+     "text": "Prestige earned from Arena wins can be exchanged for items at the Prestige Shop."
+    },
+    {
+     "id": "guide_arenaTip5",
+     "text": "The battle log records your Arena history. If your rank changed, you can watch the replay in the log."
+    },
+    {
+     "id": "guide_arenaTip6",
+     "text": "Now pick an opponent and challenge them yourself, Captain!"
+    },
+    {
+     "id": "guide_mapTip1",
+     "text": "Tap to open the minimap"
+    },
+    {
+     "id": "guide_mapTip2",
+     "text": "The minimap shows your location and every NPC's location"
+    },
+    {
+     "id": "guide_mapTip3",
+     "text": "Tap an NPC in the list on the right to auto-path to them."
+    },
+    {
+     "id": "guide_mapTip4",
+     "text": "Using the minimap well saves a lot of effort. Make good use of it on your adventures, Captain!"
+    },
+    {
+     "id": "guide_bio_tip1",
+     "text": "Tap Events"
+    },
+    {
+     "id": "guide_bio_tip2",
+     "text": "Tap Character Stories"
+    },
+    {
+     "id": "guide_bio_tip3",
+     "text": "Getting a new character unlocks their Character Story, where you relive their journey."
+    },
+    {
+     "id": "guide_bio_tip4",
+     "text": "Now tap to open a Character Story."
+    },
+    {
+     "id": "guide_bio_tip5",
+     "text": "This shows the character's Affinity level. Deploying the character raises Affinity."
+    },
+    {
+     "id": "guide_bio_tip6",
+     "text": "Raising Affinity unlocks later chapters of their story."
+    },
+    {
+     "id": "guide_bio_tip7",
+     "text": "Now challenge a Character Story, Captain!"
+    },
+    {
+     "id": "guide_bio_tip8",
+     "text": "Congrats on clearing a Character Story! Your first clear earned draw tickets and Blue Diamonds. Use the tickets at the Tavern to recruit new companions!"
+    },
+    {
+     "id": "guide_copy_tip1",
+     "text": "Tap Story Replay"
+    },
+    {
+     "id": "guide_copy_tip2",
+     "text": "Completing main quests unlocks the matching Story Replay dungeons, where you can fight story bosses again."
+    },
+    {
+     "id": "guide_copy_tip3",
+     "text": "Now challenge a dungeon, Captain!"
+    },
+    {
+     "id": "guide_copy_tip4",
+     "text": "Congrats on your victory, Captain! You met a star condition for the first time and earned Blue Diamonds."
+    },
+    {
+     "id": "guide_copy_tip8",
+     "text": "Story Replay dungeons drop equipment rewards, with a chance of Hero Gear"
+    },
+    {
+     "id": "guide_copy_tip5",
+     "text": "Victories use challenge attempts, which refresh daily at 0:00."
+    },
+    {
+     "id": "guide_copy_tip6",
+     "text": "Dungeons come in Easy and Hard. Hard dungeons have stronger enemies but better rewards; team play recommended."
+    },
+    {
+     "id": "guide_copy_tip7",
+     "text": "Now take on Story Replay dungeons yourself, Captain!"
+    },
+    {
+     "id": "guide_UnionTip1",
+     "text": "Tap Guild"
+    },
+    {
+     "id": "guide_UnionTip2",
+     "text": "The guild list shows guilds in the game; join any guild you like."
+    },
+    {
+     "id": "guide_UnionTip3",
+     "text": "Tap Create Guild to make your own guild."
+    },
+    {
+     "id": "guide_UnionTip4",
+     "text": "Tap Apply to All to quickly apply to several guilds at once. Tap Apply to All now."
+    },
+    {
+     "id": "guide_EquipGetNew",
+     "text": "Congrats on buying new equipment, Captain! Put it on right away! Tap Lineup."
+    },
+    {
+     "id": "guide_EquipOpenBag",
+     "text": "Tap the plus sign to open the gear bag."
+    },
+    {
+     "id": "guide_EquipLook",
+     "text": "Choose equipment to view"
+    },
+    {
+     "id": "guide_EquipDress",
+     "text": "Tap Equip to put on this equipment!"
+    },
+    {
+     "id": "guide_EquipTap",
+     "text": "Tap the Equipment tab to switch to the character equipment screen."
+    },
+    {
+     "id": "guide_RefineTip1",
+     "text": "Refining strengthens equipment stats. Tap equipment to refine it once."
+    },
+    {
+     "id": "guide_RefineTip2",
+     "text": "Tap Refine"
+    },
+    {
+     "id": "guide_RefineTip3",
+     "text": "Refining greatly boosts equipment base stats. Different slots boost different stats."
+    },
+    {
+     "id": "guide_RefineTip4",
+     "text": "Refining can fail. After several failures you get a card flip, which can give buffs that help refining a lot."
+    },
+    {
+     "id": "guide_RefineTip5",
+     "text": "Now refine once!"
+    },
+    {
+     "id": "guide_fightJudgmentTip1",
+     "text": "This battle's restrictions are described in [Tips]"
+    },
+    {
+     "id": "guide_fightJudgmentTip2",
+     "text": "Your character [Luffy] \\nmust be deployed"
+    },
+    {
+     "id": "guide_fightJudgmentTip3",
+     "text": "The list on the left shows your characters.\\nTap a portrait to deploy"
+    },
+    {
+     "id": "guide_fightJudgmentTip4",
+     "text": "When you're set,\\ntap [Deploy] to enter battle"
+    },
+    {
+     "id": "guide_makeBoatShowTip",
+     "text": "View the warships you've built"
+    },
+    {
+     "id": "guide_makeBoatKunCunTip",
+     "text": "View other identical warships you've built in Stock"
+    },
+    {
+     "id": "guide_toMatou",
+     "text": "You've got the Going Merry! Tap to go to the Dock and see it"
+    },
+    {
+     "id": "guide_clickMat",
+     "text": "Tap Material Crafting to open the crafting screen"
+    },
+    {
+     "id": "guide_matTip1",
+     "text": "Material crates gathered in the field can be refined into shipbuilding raw materials"
+    },
+    {
+     "id": "guide_clickMakePart",
+     "text": "Tap Make Parts"
+    },
+    {
+     "id": "guide_makePartTip2",
+     "text": "Refined raw materials and raw materials bought in shops can be made into warship parts"
+    },
+    {
+     "id": "guide_clickCloseMat",
+     "text": "Tap to close Material Storage"
+    },
+    {
+     "id": "guide_youCanBuyMat",
+     "text": "Some raw materials for parts can be bought in the Material Shop"
+    },
+    {
+     "id": "guide_makeBoatZaoChuan",
+     "text": "Captain, tap the Shipyard to open the Shipyard screen"
+    },
+    {
+     "id": "guide_boatSetBattle",
+     "text": "Captain, tap Deploy and let the Merry join our adventure"
+    },
+    {
+     "id": "boat_guide_tip1",
+     "text": "Materials needed to build the warship. With enough materials, tap Build to build it"
+    },
+    {
+     "id": "boat_guide_tip2",
+     "text": "Tap Details to see the warship's basic info"
+    },
+    {
+     "id": "boat_guide_tip3",
+     "text": "View the warship's stat bonuses, Sea Battle skills and more"
+    },
+    {
+     "id": "boat_guide_tip4",
+     "text": "Shipbuilding level info. Making parts and building warships gives EXP; tier up to build better warships"
+    },
+    {
+     "id": "guide_matouDetailTip",
+     "text": "Tap here to see the warship's details"
+    },
+    {
+     "id": "union_seafight_tip1",
+     "text": "Your guild has unlocked the Command Center, where you can register for fierce Sea Battles"
+    },
+    {
+     "id": "union_seafight_tip2",
+     "text": "First, let's see how to register. Tap the Sea Battle registration button"
+    },
+    {
+     "id": "union_seafight_tip3",
+     "text": "The leader and vice leaders can register on behalf of the guild; once registered, this screen shows \"Registered\""
+    },
+    {
+     "id": "union_seafight_tip4",
+     "text": "Next, let's see how to register personally. Tap the personal registration button"
+    },
+    {
+     "id": "union_seafight_tip5",
+     "text": "Guild Sea Battle lineups are set separately. Be sure to set your battle lineup before registering personally. Tap Battle Setup"
+    },
+    {
+     "id": "union_seafight_tip6",
+     "text": "Your 1st Fleet fights first in a Sea Battle, and your 2nd Fleet goes in once it's defeated, so be sure to set up two fleets!"
+    },
+    {
+     "id": "union_seafight_tip7",
+     "text": "Choose battle characters and set the formation here"
+    },
+    {
+     "id": "union_seafight_tip8",
+     "text": "Set warships here. Note that the 1st and 2nd Fleets can't share a warship or character"
+    },
+    {
+     "id": "union_seafight_tip9",
+     "text": "Now let's look at other features. Tap Close"
+    },
+    {
+     "id": "union_seafight_tip10",
+     "text": "Now let's look at other features. Tap the close button"
+    },
+    {
+     "id": "union_seafight_tip11",
+     "text": "Sea Battle Deployment shows the battle schedule"
+    },
+    {
+     "id": "union_seafight_tip12",
+     "text": "When the battlefield opens, enter the Sea Battle from the Command Center or the main screen notice icon."
+    },
+    {
+     "id": "union_seafight_tip13",
+     "text": "Finally, you can check Help for detailed Sea Battle rules anytime!"
+    },
+    {
+     "id": "guide_seaTradeTipA",
+     "text": "8 random orders refresh daily at 0:00. Accept orders and dispatch ships to trade; completed trades give Intel and item rewards."
+    },
+    {
+     "id": "guide_seaTradeTipB",
+     "text": "Time until all orders refresh"
+    },
+    {
+     "id": "guide_seaTradeTipC",
+     "text": "With enough Intel you can claim an Intel reward, which opens the next stage of Intel rewards"
+    },
+    {
+     "id": "guide_seaTradeTipG",
+     "text": "Tap to have the system pick ships and set sail"
+    },
+    {
+     "id": "guide_seaTradeTipE",
+     "text": "Orders in progress can be viewed in My Orders"
+    },
+    {
+     "id": "guide_seaTradeTipF",
+     "text": "Tap a town to see its trade orders"
+    },
+    {
+     "id": "guide_seaTradeTipI",
+     "text": "Rewards vary with each warship's income. Get ready to set sail, Captain!"
+    },
+    {
+     "id": "guide_seaTradeTipH",
+     "text": "Tap to view"
+    },
+    {
+     "id": "CopyBuyKeyTips",
+     "text": "Not enough entry items. Go to the Shop to buy some?"
+    },
+    {
+     "id": "Btn_RechargeRebate",
+     "text": "Top-Up Rebate"
+    },
+    {
+     "id": "TripleSpeedLevelLimitTip",
+     "text": "3x battle speed unlocks at Player Lv XX"
+    },
+    {
+     "id": "LifeTimeInvestError_LevelNotEnough",
+     "text": "Level too low to claim yet"
+    },
+    {
+     "id": "ExpGetWay_BattlePass",
+     "text": "[Pass] - Daily Quests (lots of EXP)"
+    },
+    {
+     "id": "ExpGetWay_TeamBoss",
+     "text": "Boss Hunt"
+    },
+    {
      "id": "ExpGetWay_CrawlTower",
      "text": "Voyage Tower"
+    },
+    {
+     "id": "SuperSoulchangeHeroText_None",
+     "text": "You have no characters with Super Soul Infusion unlocked"
+    },
+    {
+     "id": "SuperSoulchangeHeroText",
+     "text": "Choose a character that can use Super Soul Infusion first"
+    },
+    {
+     "id": "ArenaSkipFightLimitTip",
+     "text": "Skippable after Rank {0}"
+    },
+    {
+     "id": "PHONE_BIND_ERROR_1",
+     "text": "Number error"
+    },
+    {
+     "id": "PHONE_BIND_ERROR_2",
+     "text": "Number can't be empty"
+    },
+    {
+     "id": "PHONE_BIND_ERROR_3",
+     "text": "Invalid number format"
+    },
+    {
+     "id": "PHONE_BIND_ERROR_4",
+     "text": "Please try again later"
+    },
+    {
+     "id": "PHONE_BIND_ERROR_5",
+     "text": "Incorrect verification code"
     },
     {
      "id": "UnionBounty_store",
@@ -21309,7 +22473,7 @@
      "text": "Limited Recruit"
     }
    ],
-   "partial": "4536/5841 rows translated so far"
+   "partial": "4827/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
