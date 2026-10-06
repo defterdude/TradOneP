@@ -4,6 +4,103 @@
   "source": "source/batch4b_world_codex_v273_source.json"
  },
  "tables": {
+  "TableActivityRaid": {
+   "key_column": "raidId",
+   "text_columns": [
+    "buffName",
+    "raidName",
+    "openTime"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "raidId": "2",
+     "buffName": "",
+     "raidName": "Training Day",
+     "openTime": "Monday~Sunday"
+    },
+    {
+     "raidId": "3",
+     "buffName": "Ice DMG Up",
+     "raidName": "Breakthrough Day",
+     "openTime": "Monday~Sunday"
+    },
+    {
+     "raidId": "4",
+     "buffName": "Fire DMG Up",
+     "raidName": "Breakthrough Day",
+     "openTime": "Monday~Sunday"
+    },
+    {
+     "raidId": "5",
+     "buffName": "Lightning DMG Up",
+     "raidName": "Breakthrough Day",
+     "openTime": "Monday~Sunday"
+    },
+    {
+     "raidId": "6",
+     "buffName": "Wind DMG Up",
+     "raidName": "Breakthrough Day",
+     "openTime": "Monday~Sunday"
+    },
+    {
+     "raidId": "7",
+     "buffName": "Normal DMG Reduction",
+     "raidName": "Breakthrough Day",
+     "openTime": "Monday~Sunday"
+    },
+    {
+     "raidId": "8",
+     "buffName": "Normal DMG Reduction",
+     "raidName": "Golden Trial",
+     "openTime": ""
+    },
+    {
+     "raidId": "9",
+     "buffName": "Elemental DMG Reduction",
+     "raidName": "Hero Trial",
+     "openTime": ""
+    },
+    {
+     "raidId": "11",
+     "buffName": "DMG Up",
+     "raidName": "Secret Book Day",
+     "openTime": "Monday~Sunday"
+    },
+    {
+     "raidId": "12",
+     "buffName": "Paramecia DMG Up",
+     "raidName": "Secret Book Day",
+     "openTime": "Monday~Sunday"
+    },
+    {
+     "raidId": "13",
+     "buffName": "Zoan DMG Up",
+     "raidName": "Secret Book Day",
+     "openTime": "Monday~Sunday"
+    },
+    {
+     "raidId": "14",
+     "buffName": "Logia DMG Up",
+     "raidName": "Secret Book Day",
+     "openTime": "Monday~Sunday"
+    },
+    {
+     "raidId": "17",
+     "buffName": "Elemental DMG Reduction",
+     "raidName": "Breakthrough Day",
+     "openTime": "Monday~Sunday"
+    },
+    {
+     "raidId": "18",
+     "buffName": "Elemental DMG Reduction",
+     "raidName": "Breakthrough Day",
+     "openTime": "Monday~Sunday"
+    }
+   ],
+   "other_bundle_rows": []
+  },
   "TableActivityRaidChapter": {
    "key_column": "chapterId",
    "text_columns": [
@@ -12,6 +109,182 @@
    "content_diverges_between_bundles": true,
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
+    {
+     "chapterId": "111",
+     "difficulty": "Dream"
+    },
+    {
+     "chapterId": "112",
+     "difficulty": "Will"
+    },
+    {
+     "chapterId": "113",
+     "difficulty": "Perseverance"
+    },
+    {
+     "chapterId": "114",
+     "difficulty": "Elite"
+    },
+    {
+     "chapterId": "121",
+     "difficulty": "Dream"
+    },
+    {
+     "chapterId": "122",
+     "difficulty": "Will"
+    },
+    {
+     "chapterId": "123",
+     "difficulty": "Perseverance"
+    },
+    {
+     "chapterId": "124",
+     "difficulty": "Elite"
+    },
+    {
+     "chapterId": "131",
+     "difficulty": "Dream"
+    },
+    {
+     "chapterId": "132",
+     "difficulty": "Will"
+    },
+    {
+     "chapterId": "133",
+     "difficulty": "Perseverance"
+    },
+    {
+     "chapterId": "134",
+     "difficulty": "Elite"
+    },
+    {
+     "chapterId": "141",
+     "difficulty": "Dream"
+    },
+    {
+     "chapterId": "142",
+     "difficulty": "Will"
+    },
+    {
+     "chapterId": "143",
+     "difficulty": "Perseverance"
+    },
+    {
+     "chapterId": "144",
+     "difficulty": "Elite"
+    },
+    {
+     "chapterId": "211",
+     "difficulty": "Basic"
+    },
+    {
+     "chapterId": "212",
+     "difficulty": "Intermediate"
+    },
+    {
+     "chapterId": "213",
+     "difficulty": "Advanced"
+    },
+    {
+     "chapterId": "214",
+     "difficulty": "Super"
+    },
+    {
+     "chapterId": "221",
+     "difficulty": "Basic"
+    },
+    {
+     "chapterId": "222",
+     "difficulty": "Intermediate"
+    },
+    {
+     "chapterId": "223",
+     "difficulty": "Advanced"
+    },
+    {
+     "chapterId": "224",
+     "difficulty": "Super"
+    },
+    {
+     "chapterId": "231",
+     "difficulty": "Basic"
+    },
+    {
+     "chapterId": "232",
+     "difficulty": "Intermediate"
+    },
+    {
+     "chapterId": "233",
+     "difficulty": "Advanced"
+    },
+    {
+     "chapterId": "234",
+     "difficulty": "Super"
+    },
+    {
+     "chapterId": "241",
+     "difficulty": "Basic"
+    },
+    {
+     "chapterId": "242",
+     "difficulty": "Intermediate"
+    },
+    {
+     "chapterId": "243",
+     "difficulty": "Advanced"
+    },
+    {
+     "chapterId": "244",
+     "difficulty": "Super"
+    },
+    {
+     "chapterId": "251",
+     "difficulty": "Basic"
+    },
+    {
+     "chapterId": "252",
+     "difficulty": "Intermediate"
+    },
+    {
+     "chapterId": "253",
+     "difficulty": "Advanced"
+    },
+    {
+     "chapterId": "254",
+     "difficulty": "Super"
+    },
+    {
+     "chapterId": "261",
+     "difficulty": "Basic"
+    },
+    {
+     "chapterId": "262",
+     "difficulty": "Intermediate"
+    },
+    {
+     "chapterId": "263",
+     "difficulty": "Advanced"
+    },
+    {
+     "chapterId": "264",
+     "difficulty": "Super"
+    },
+    {
+     "chapterId": "271",
+     "difficulty": "Basic"
+    },
+    {
+     "chapterId": "272",
+     "difficulty": "Intermediate"
+    },
+    {
+     "chapterId": "273",
+     "difficulty": "Advanced"
+    },
+    {
+     "chapterId": "274",
+     "difficulty": "Super"
+    },
     {
      "chapterId": "301",
      "difficulty": "Floor 1"
@@ -157,8 +430,7 @@
      "difficulty": "Lv12 Training"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "36/80 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableBeastPiratesBoss": {
    "key_column": "bossId",
@@ -183,6 +455,12 @@
      "bossTimeInfo": "9/28-9/30"
     },
     {
+     "bossId": "3",
+     "bossName": "Page One",
+     "bossDesc": "Beasts Pirates",
+     "bossTimeInfo": "8:00-22:59"
+    },
+    {
      "bossId": "4",
      "bossName": "X Drake",
      "bossDesc": "Beasts Pirates",
@@ -205,6 +483,12 @@
      "bossName": "Jack",
      "bossDesc": "Beasts Pirates",
      "bossTimeInfo": "8:00-22:59"
+    },
+    {
+     "bossId": "8",
+     "bossName": "Page One",
+     "bossDesc": "Beasts Pirates",
+     "bossTimeInfo": "12:00-22:59"
     },
     {
      "bossId": "9",
@@ -241,6 +525,54 @@
      "bossName": "Ulti",
      "bossDesc": "Beasts Pirates",
      "bossTimeInfo": "12:00-22:59"
+    },
+    {
+     "bossId": "15",
+     "bossName": "Satori",
+     "bossDesc": "Trial of Balls",
+     "bossTimeInfo": "11/27-11/28"
+    },
+    {
+     "bossId": "16",
+     "bossName": "Shura",
+     "bossDesc": "Trial of Strings",
+     "bossTimeInfo": "11/27-11/28"
+    },
+    {
+     "bossId": "17",
+     "bossName": "Gedatsu",
+     "bossDesc": "Trial of Swamp",
+     "bossTimeInfo": "11/29-11/30"
+    },
+    {
+     "bossId": "18",
+     "bossName": "Ohm",
+     "bossDesc": "Trial of Iron",
+     "bossTimeInfo": "11/29-11/30"
+    },
+    {
+     "bossId": "19",
+     "bossName": "Satori",
+     "bossDesc": "Trial of Balls",
+     "bossTimeInfo": "12/1-12/2"
+    },
+    {
+     "bossId": "20",
+     "bossName": "Shura",
+     "bossDesc": "Trial of Strings",
+     "bossTimeInfo": "12/1-12/2"
+    },
+    {
+     "bossId": "21",
+     "bossName": "Gedatsu",
+     "bossDesc": "Trial of Swamp",
+     "bossTimeInfo": "12/3-12/4"
+    },
+    {
+     "bossId": "22",
+     "bossName": "Ohm",
+     "bossDesc": "Trial of Iron",
+     "bossTimeInfo": "12/3-12/4"
     }
    ],
    "other_bundle_rows": [
@@ -328,8 +660,197 @@
      "bossDesc": "CP9",
      "bossTimeInfo": "12:00-22:59"
     }
+   ]
+  },
+  "TableBeastPiratesFourStageBoss": {
+   "key_column": "bossId",
+   "text_columns": [
+    "bossName",
+    "bossDesc"
    ],
-   "partial": "26/36 rows translated so far"
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "bossId": "1",
+     "bossName": "Kaido of the Beasts",
+     "bossDesc": "Unlocks new skills&&Unlocks new skills&&Unlocks new skills&&Unlocks new skills"
+    },
+    {
+     "bossId": "2",
+     "bossName": "Big Mom",
+     "bossDesc": "Unlocks new skills&&Unlocks new skills"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "bossId": "1",
+     "bossName": "Rob Lucci",
+     "bossDesc": "Unlocks new skills&&Unlocks new skills&&Unlocks new skills&&Unlocks new skills"
+    },
+    {
+     "bossId": "2",
+     "bossName": "Kaku",
+     "bossDesc": "Unlocks new skills&&Unlocks new skills"
+    }
+   ]
+  },
+  "TableBeastPiratesOneStageCopy": {
+   "key_column": "copyId",
+   "text_columns": [
+    "copyName",
+    "unlockInfo"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "copyId": "1",
+     "copyName": "Floor 1",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "2",
+     "copyName": "Floor 2",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "3",
+     "copyName": "Floor 3",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "4",
+     "copyName": "Floor 4",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "5",
+     "copyName": "Floor 5",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "6",
+     "copyName": "Floor 6",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "7",
+     "copyName": "Floor 7",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "8",
+     "copyName": "Floor 8",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "9",
+     "copyName": "Floor 9",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "10",
+     "copyName": "Floor 10",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "11",
+     "copyName": "Floor 1",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "12",
+     "copyName": "Floor 2",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "13",
+     "copyName": "Floor 3",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "14",
+     "copyName": "Floor 4",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "15",
+     "copyName": "Floor 5",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "16",
+     "copyName": "Floor 6",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "17",
+     "copyName": "Floor 7",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "18",
+     "copyName": "Floor 8",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "19",
+     "copyName": "Floor 9",
+     "unlockInfo": "Clear within 4 turns"
+    },
+    {
+     "copyId": "20",
+     "copyName": "Floor 10",
+     "unlockInfo": "Clear within 4 turns"
+    }
+   ]
+  },
+  "TableBeastPiratesRaid": {
+   "key_column": "id",
+   "text_columns": [
+    "bossName",
+    "levelName",
+    "levelText"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "bossName": "Skypiea Soldier",
+     "levelName": "Enel's Minions",
+     "levelText": "As you enter, Skypiea's soldiers block your way......"
+    },
+    {
+     "id": "2",
+     "bossName": "Priests and Trials",
+     "levelName": "Priests and Trials",
+     "levelText": "The priests' trials, a double challenge!"
+    },
+    {
+     "id": "3",
+     "bossName": "Skypiea Soldier",
+     "levelName": "Enel's Minions",
+     "levelText": "As you enter, Skypiea's soldiers block your way......"
+    },
+    {
+     "id": "4",
+     "bossName": "Priests and Trials",
+     "levelName": "Priests and Trials",
+     "levelText": "The priests' trials, a double challenge!"
+    },
+    {
+     "id": "5",
+     "bossName": "Skypiea Soldier",
+     "levelName": "Enel's Minions",
+     "levelText": "As you enter, Skypiea's soldiers block your way......"
+    },
+    {
+     "id": "6",
+     "bossName": "Enel",
+     "levelName": "Gods",
+     "levelText": "You've broken into God's domain!"
+    }
+   ]
   },
   "TableBeastPiratesStrongholdBoss": {
    "key_column": "bossId",
@@ -494,13 +1015,108 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "id": "1",
+     "bossName": "Divine Soldier",
+     "copyName": "Divine Guard I",
+     "copyText": "Sweep Stage: each enemy defeated removes 300 Durability"
+    },
+    {
+     "id": "2",
+     "bossName": "Divine Soldier",
+     "copyName": "Divine Guard II",
+     "copyText": "Sweep Stage: each enemy defeated removes 300 Durability"
+    },
+    {
+     "id": "3",
+     "bossName": "Divine Soldier",
+     "copyName": "Divine Guard III",
+     "copyText": "Sweep Stage: each enemy defeated removes 300 Durability"
+    },
+    {
+     "id": "4",
+     "bossName": "Gedatsu",
+     "copyName": "Trial of God · First Trial",
+     "copyText": "Raid Stage: each clear removes 500 Durability"
+    },
+    {
+     "id": "5",
+     "bossName": "Satori",
+     "copyName": "Trial of Balls",
+     "copyText": "Boss Stage: every 1% damage dealt removes 20 Durability"
+    },
+    {
+     "id": "6",
+     "bossName": "Shura",
+     "copyName": "Trial of Strings",
+     "copyText": "Boss Stage: every 1% damage dealt removes 20 Durability"
+    },
+    {
+     "id": "7",
+     "bossName": "Ohm",
+     "copyName": "Trial of God · First Trial",
+     "copyText": "Raid Stage: each clear removes 500 Durability"
+    },
+    {
+     "id": "8",
+     "bossName": "Divine Soldier",
+     "copyName": "Divine Guard IV",
+     "copyText": "Sweep Stage: each enemy defeated removes 300 Durability"
+    },
+    {
+     "id": "9",
+     "bossName": "Divine Soldier",
+     "copyName": "Divine Guard V",
+     "copyText": "Sweep Stage: each enemy defeated removes 300 Durability"
+    },
+    {
+     "id": "10",
+     "bossName": "Divine Soldier",
+     "copyName": "Divine Guard VI",
+     "copyText": "Sweep Stage: each enemy defeated removes 300 Durability"
+    },
+    {
+     "id": "11",
+     "bossName": "Satori",
+     "copyName": "Trial of God · First Trial",
+     "copyText": "Raid Stage: each clear removes 500 Durability"
+    },
+    {
+     "id": "12",
+     "bossName": "Shura",
+     "copyName": "Trial of God · First Trial",
+     "copyText": "Raid Stage: each clear removes 500 Durability"
+    },
+    {
+     "id": "13",
+     "bossName": "Divine Soldier",
+     "copyName": "Divine Guard VII",
+     "copyText": "Sweep Stage: each enemy defeated removes 300 Durability"
+    },
+    {
+     "id": "14",
+     "bossName": "Divine Soldier",
+     "copyName": "Divine Guard VIII",
+     "copyText": "Sweep Stage: each enemy defeated removes 300 Durability"
+    },
+    {
+     "id": "15",
+     "bossName": "Gedatsu",
+     "copyName": "Trial of Swamp",
+     "copyText": "Boss Stage: every 1% damage dealt removes 30 Durability"
+    },
+    {
+     "id": "16",
+     "bossName": "Ohm",
+     "copyName": "Trial of Iron",
+     "copyText": "Boss Stage: every 1% damage dealt removes 30 Durability"
+    },
+    {
      "id": "17",
      "bossName": "Enel",
      "copyName": "Gods",
      "copyText": "Boss Stage: every 1% damage dealt removes 50 Durability"
     }
-   ],
-   "partial": "1/17 rows translated so far"
+   ]
   },
   "TableBloodChapter": {
    "key_column": "id",
@@ -1024,11 +1640,81 @@
      "value": "Stage {0}"
     },
     {
+     "id": "4",
+     "value": "Event time: open all day; Blood Battle status resets daily at 0:00"
+    },
+    {
      "id": "5",
      "value": "Deployed"
+    },
+    {
+     "id": "7",
+     "value": "Fallen"
+    },
+    {
+     "id": "9",
+     "value": "All deployed characters have fallen"
+    },
+    {
+     "id": "10",
+     "value": "Both free and paid attempts are used up"
+    },
+    {
+     "id": "11",
+     "value": "This will use one free reset. Continue?"
+    },
+    {
+     "id": "12",
+     "value": "This will spend 10 Blue Diamonds to reset. Continue?"
+    },
+    {
+     "id": "13",
+     "value": "The stage you chose isn't the current challenge stage"
+    },
+    {
+     "id": "14",
+     "value": "No characters deployed"
+    },
+    {
+     "id": "15",
+     "value": "You can most likely sweep to stage {0}. Confirm sweep?"
+    }
+   ]
+  },
+  "TableBloodyFightRaid": {
+   "key_column": "id",
+   "text_columns": [
+    "raidName"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "raidName": "Blood Battle Alubarna"
+    },
+    {
+     "id": "2",
+     "raidName": "Blood Battle Skypiea"
+    },
+    {
+     "id": "3",
+     "raidName": "Blood Battle Enies Lobby"
+    },
+    {
+     "id": "4",
+     "raidName": "Blood Battle Thriller Bark"
+    },
+    {
+     "id": "5",
+     "raidName": "Blood Battle Impel Down"
+    },
+    {
+     "id": "6",
+     "raidName": "Blood Battle Paramount War"
     }
    ],
-   "partial": "2/11 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableBloodyFightRaidTollgate": {
    "key_column": "id",
@@ -1355,8 +2041,143 @@
      "desc": ""
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "63/90 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "id": "101",
+     "tollgateName": "Stage 1",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "102",
+     "tollgateName": "Stage 2",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "103",
+     "tollgateName": "Stage 3",
+     "desc": "*This stage has two waves; in the first wave, Miss Valentine can heal her allies*The second wave can deal burst damage on turn 3"
+    },
+    {
+     "id": "104",
+     "tollgateName": "Stage 4",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "105",
+     "tollgateName": "Stage 5",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "106",
+     "tollgateName": "Stage 6",
+     "desc": "*This stage has two waves; the first wave deals less damage to shielded characters and more to unshielded ones*In the second wave, Miss Goldenweek can heal allies and raise their Attack"
+    },
+    {
+     "id": "201",
+     "tollgateName": "Stage 1",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "202",
+     "tollgateName": "Stage 2",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "203",
+     "tollgateName": "Stage 3",
+     "desc": "*This stage has two waves; the first wave has healing effects*They take more damage when an ally dies*In the second wave, Wapol makes a character take permanently increased damage when he attacks them repeatedly*Wapol can also heal"
+    },
+    {
+     "id": "204",
+     "tollgateName": "Stage 4",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "205",
+     "tollgateName": "Stage 5",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "206",
+     "tollgateName": "Stage 6",
+     "desc": "*This stage has two waves; first-wave enemies give allies a stack of Attack boost with basic attacks*but if they end their action without a basic attack, all allies lose 2 stacks of Attack boost*Second-wave enemies give allies a stack of Attack boost with basic attacks*but if they end their action without a basic attack, all allies lose 2 stacks of Attack boost*Shura can also clear 1 debuff from himself before acting"
+    },
+    {
+     "id": "207",
+     "tollgateName": "Stage 7",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "208",
+     "tollgateName": "Stage 8",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "209",
+     "tollgateName": "Stage 9",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "301",
+     "tollgateName": "Stage 1",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "302",
+     "tollgateName": "Stage 2",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "303",
+     "tollgateName": "Stage 3",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "304",
+     "tollgateName": "Stage 4",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "305",
+     "tollgateName": "Stage 5",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "306",
+     "tollgateName": "Stage 6",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "307",
+     "tollgateName": "Stage 7",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "308",
+     "tollgateName": "Stage 8",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "309",
+     "tollgateName": "Stage 9",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "310",
+     "tollgateName": "Stage 10",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "311",
+     "tollgateName": "Stage 11",
+     "desc": "*This stage has two waves; defeat both for rewards and the right to challenge the next stage"
+    },
+    {
+     "id": "312",
+     "tollgateName": "Stage 12",
+     "desc": "*This stage has two waves; defeat both for rewards"
+    }
+   ]
   },
   "TableBossInfo": {
    "key_column": "BossId",
@@ -1876,7 +2697,7 @@
      "BossId": "10086",
      "BossName": "Kaido",
      "BossTitle": "",
-     "BossDesc": "Hits lower the target's Defense by 30%, stackable\\nGains 10 stacks of [Dragon Armor] at the start of the turn, losing 1 stack per 1 elemental hit; without [Dragon Armor], damage taken +150% and elemental damage can crit"
+     "BossDesc": "Hits lower the target's Defense by 30%, stackable\\nGains 10 stacks of [Dragon Scale] at the start of the turn, losing 1 stack per 1 elemental hit; without [Dragon Scale], damage taken +150% and elemental damage can crit"
     },
     {
      "BossId": "10087",
@@ -1994,6 +2815,10 @@
      "place": "Outside Alubarna"
     },
     {
+     "bossId": "8",
+     "place": "Cocoyasi Village Town"
+    },
+    {
      "bossId": "1",
      "place": "Outside Alubarna"
     },
@@ -2010,15 +2835,22 @@
      "place": "Little Garden Outskirts"
     },
     {
+     "bossId": "11",
+     "place": "Cocoyasi Village Town"
+    },
+    {
      "bossId": "12",
      "place": "Little Garden Outskirts"
+    },
+    {
+     "bossId": "13",
+     "place": "Cocoyasi Village Town"
     },
     {
      "bossId": "14",
      "place": "Little Garden Outskirts"
     }
-   ],
-   "partial": "11/14 rows translated so far"
+   ]
   },
   "TableCelebrationChallengeChapter": {
    "key_column": "chapterId",
@@ -3766,6 +4598,286 @@
     }
    ]
   },
+  "TableDefenseFightChapter": {
+   "key_column": "chapterId",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "chapterId": "1001",
+     "desc": "<color=#d14e0d>Clearing unlocks the outpost: Light Cannon Outpost</color>. Defeat all enemy ships to win."
+    },
+    {
+     "chapterId": "1002",
+     "desc": "<color=#d14e0d>Clearing unlocks the outpost: Rapid-Fire Cannon Outpost</color>. Defeat all enemy ships to win."
+    },
+    {
+     "chapterId": "1003",
+     "desc": "Stage tip: Light Cannon Outposts slowly build battle energy. Used well, they gather resources fast so you can place Rapid-Fire Cannons sooner and turn the tide."
+    },
+    {
+     "chapterId": "1004",
+     "desc": "<color=#d14e0d>Clearing unlocks the outpost: Fortress Outpost</color>. Defeat all enemy ships to win."
+    },
+    {
+     "chapterId": "1005",
+     "desc": "Stage tip: if you can't quickly destroy fast-moving enemies, try blocking their advance with a Fortress Outpost."
+    },
+    {
+     "chapterId": "1006",
+     "desc": "<color=#d14e0d>Clearing unlocks the outpost: Mortar Outpost</color>. Defeat all enemy ships to win."
+    },
+    {
+     "chapterId": "1007",
+     "desc": "<color=#d14e0d>Clearing unlocks the outpost: Advanced Fortress Outpost</color>. Defeat all enemy ships to win."
+    },
+    {
+     "chapterId": "1008",
+     "desc": "<color=#d14e0d>Clearing unlocks the outpost: Warehouse Outpost</color>. Defeat all enemy ships to win."
+    },
+    {
+     "chapterId": "1009",
+     "desc": "<color=#d14e0d>Clearing unlocks the outpost: Doom Cannon Outpost</color>. Defeat all enemy ships to win."
+    },
+    {
+     "chapterId": "1010",
+     "desc": "Stage tip: Warehouse Outposts produce lots of battle energy at intervals; use them well to gather many resources in a short time."
+    },
+    {
+     "chapterId": "1011",
+     "desc": "Stage tip: the Doom Cannon Outpost is the strongest AoE outpost. It's expensive, but even one can turn the tide, and a few can easily wipe out a whole enemy fleet"
+    },
+    {
+     "chapterId": "1012",
+     "desc": "Stage tip: if Fortress Outposts can't stop the enemy's massed charge, try Advanced Fortress Outposts"
+    },
+    {
+     "chapterId": "1013",
+     "desc": "Stage tip: while early route pressure is light, quickly upgrade production from Light Cannon to Warehouse Outposts, build up battle energy, and dominate with Doom Cannons."
+    },
+    {
+     "chapterId": "1014",
+     "desc": "<color=#d14e0d>Clearing unlocks the outpost: Shock Cannon Outpost</color>. Defeat all enemy ships to win."
+    },
+    {
+     "chapterId": "1015",
+     "desc": "Stage tip: the Shock Cannon Outpost is the strongest single-target outpost, but very expensive, so building an economic lead fast is key to clearing this stage."
+    },
+    {
+     "chapterId": "1016",
+     "desc": "Stage tip: watch out for enemy fleets raiding a single route."
+    },
+    {
+     "chapterId": "1017",
+     "desc": "Stage tip: resources cap at 30 units in this stage. Place outposts promptly to avoid waste, Captain."
+    },
+    {
+     "chapterId": "1018",
+     "desc": "Stage tip: resources cap at 90 units in this stage. Place outposts promptly to avoid waste, Captain."
+    },
+    {
+     "chapterId": "1019",
+     "desc": "Stage tip: watch the enemy fleet's strategy; they may have a \"surprise\" for you late on."
+    },
+    {
+     "chapterId": "1020",
+     "desc": "Stage tip: don't be intimidated by the endless enemy assault; staying calm is the key to victory."
+    }
+   ]
+  },
+  "TableDefenseFightEnemy": {
+   "key_column": "id",
+   "text_columns": [
+    "name"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "name": "Light Sloop"
+    },
+    {
+     "id": "2",
+     "name": "Armored Sloop"
+    },
+    {
+     "id": "3",
+     "name": "Gale Sloop"
+    },
+    {
+     "id": "4",
+     "name": "Flagship \"Shark\""
+    },
+    {
+     "id": "5",
+     "name": "Flagship \"Kun\""
+    },
+    {
+     "id": "6",
+     "name": "Sailboat \"Mullet\""
+    },
+    {
+     "id": "7",
+     "name": "Sailboat \"Sardine\""
+    },
+    {
+     "id": "8",
+     "name": "Sailboat \"Bonito\""
+    },
+    {
+     "id": "9",
+     "name": "Sailboat \"Herring\""
+    },
+    {
+     "id": "10",
+     "name": "Sailboat \"Salmon\""
+    },
+    {
+     "id": "11",
+     "name": "Sailboat \"Mackerel\""
+    },
+    {
+     "id": "12",
+     "name": "Sailboat \"Dogfish\""
+    },
+    {
+     "id": "13",
+     "name": "Sailboat \"Manta\""
+    },
+    {
+     "id": "14",
+     "name": "Armored Sailship"
+    },
+    {
+     "id": "15",
+     "name": "Sailship \"Trout\""
+    },
+    {
+     "id": "16",
+     "name": "Sailship \"Ray\""
+    }
+   ]
+  },
+  "TableDefenseFightFortress": {
+   "key_column": "id",
+   "text_columns": [
+    "name",
+    "desc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "10001",
+     "name": "Route Entrance",
+     "desc": ""
+    },
+    {
+     "id": "10002",
+     "name": "Command Outpost",
+     "desc": ""
+    },
+    {
+     "id": "10003",
+     "name": "Standard Cannon Outpost",
+     "desc": "Attack outpost: low attack, average attack speed, average price"
+    },
+    {
+     "id": "10004",
+     "name": "Light Cannon Outpost",
+     "desc": "Attack outpost: very low attack and price, but regenerates battle energy over time."
+    },
+    {
+     "id": "10005",
+     "name": "Rapid-Fire Cannon Outpost",
+     "desc": "Attack outpost: fast fire rate, normal attack, average price."
+    },
+    {
+     "id": "10006",
+     "name": "Fortress Outpost",
+     "desc": "Defense outpost: high HP, can't attack, average price"
+    },
+    {
+     "id": "10007",
+     "name": "Warehouse Outpost",
+     "desc": "Utility outpost: produces lots of battle energy at intervals; very expensive"
+    },
+    {
+     "id": "10008",
+     "name": "Advanced Fortress Outpost",
+     "desc": "Defense outpost: very high HP, can't attack, fairly expensive"
+    },
+    {
+     "id": "10009",
+     "name": "Mortar Outpost",
+     "desc": "Attack outpost: hits up to 5 targets on a route, average attack and attack speed, fairly cheap."
+    },
+    {
+     "id": "10010",
+     "name": "Doom Cannon Outpost",
+     "desc": "Attack outpost: launches powerful AoE attacks on up to 5 enemy ships on a route; very high attack, slow attack speed, very expensive"
+    },
+    {
+     "id": "10011",
+     "name": "Shock Cannon Outpost",
+     "desc": "Attack outpost: the strongest single-target outpost, with very high attack and very fast fire rate; expensive."
+    }
+   ]
+  },
+  "TableDefenseFightFortressDetail": {
+   "key_column": "id",
+   "text_columns": [
+    "name"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "10001",
+     "name": "Spawn Point"
+    },
+    {
+     "id": "10002",
+     "name": "Command Outpost"
+    },
+    {
+     "id": "10003",
+     "name": "Standard Cannon Outpost"
+    },
+    {
+     "id": "10004",
+     "name": "Light Cannon Outpost"
+    },
+    {
+     "id": "10005",
+     "name": "Rapid-Fire Cannon Outpost"
+    },
+    {
+     "id": "10006",
+     "name": "Fortress Outpost"
+    },
+    {
+     "id": "10007",
+     "name": "Warehouse Outpost"
+    },
+    {
+     "id": "10008",
+     "name": "Advanced Fortress Outpost"
+    },
+    {
+     "id": "10009",
+     "name": "Mortar Outpost"
+    },
+    {
+     "id": "10010",
+     "name": "Doom Cannon Outpost"
+    },
+    {
+     "id": "10011",
+     "name": "Shock Cannon Outpost"
+    }
+   ]
+  },
   "TableDefenseFigthAchievement": {
    "key_column": "id",
    "text_columns": [
@@ -4831,12 +5943,48 @@
      "alias": "Deploy 5 Characters at Lv40 or Above"
     },
     {
+     "id": "2",
+     "alias": "Win and deal 100,000 elemental damage"
+    },
+    {
+     "id": "3",
+     "alias": "Deploy at least 2 SSRs"
+    },
+    {
+     "id": "4",
+     "alias": "Win and deal 250,000 elemental damage"
+    },
+    {
      "id": "5",
      "alias": "Deploy 5 Characters at Lv60 or Above"
     },
     {
+     "id": "6",
+     "alias": "Deploy X Drake"
+    },
+    {
+     "id": "7",
+     "alias": "Deploy X Drake"
+    },
+    {
+     "id": "8",
+     "alias": "Win using Ultimates at most 50 times"
+    },
+    {
      "id": "9",
      "alias": "Deploy 5 Characters at Lv80 or Above"
+    },
+    {
+     "id": "10",
+     "alias": "Deploy X Drake"
+    },
+    {
+     "id": "11",
+     "alias": "Win with your HP at 20% or above"
+    },
+    {
+     "id": "12",
+     "alias": "Win with elemental damage reaching 2,000,000"
     },
     {
      "id": "13",
@@ -4851,12 +5999,24 @@
      "alias": "Gain Shields 10 Times in Battle"
     },
     {
+     "id": "16",
+     "alias": "Defeat enemies with Ultimate skills"
+    },
+    {
+     "id": "17",
+     "alias": "Defeat enemies with Finishers"
+    },
+    {
      "id": "18",
      "alias": "Max Combo Exceeds 70 Hits"
     },
     {
      "id": "19",
      "alias": "Deal 300,000 Elemental Damage in Total"
+    },
+    {
+     "id": "20",
+     "alias": "Win with all characters alive"
     },
     {
      "id": "21",
@@ -4871,12 +6031,24 @@
      "alias": "Gain Shields 15 Times in Battle"
     },
     {
+     "id": "24",
+     "alias": "Defeat enemies with Ultimate skills"
+    },
+    {
+     "id": "25",
+     "alias": "Defeat enemies with Finishers"
+    },
+    {
      "id": "26",
      "alias": "Max Combo Exceeds 50 Hits"
     },
     {
      "id": "27",
      "alias": "Deal 500,000 Elemental Damage in Total"
+    },
+    {
+     "id": "28",
+     "alias": "Win with all characters alive"
     },
     {
      "id": "29",
@@ -4891,12 +6063,24 @@
      "alias": "Gain Shields 20 Times in Battle"
     },
     {
+     "id": "32",
+     "alias": "Defeat enemies with Ultimate skills"
+    },
+    {
+     "id": "33",
+     "alias": "Defeat enemies with Finishers"
+    },
+    {
      "id": "34",
      "alias": "Max Combo Exceeds 150 Hits"
     },
     {
      "id": "35",
      "alias": "Deal 1,000,000 Elemental Damage in Total"
+    },
+    {
+     "id": "36",
+     "alias": "Win with all characters alive"
     },
     {
      "id": "37",
@@ -4911,15 +6095,316 @@
      "alias": "Gain Shields 25 Times in Battle"
     },
     {
+     "id": "40",
+     "alias": "Defeat enemies with Ultimate skills"
+    },
+    {
+     "id": "41",
+     "alias": "Defeat enemies with Finishers"
+    },
+    {
      "id": "42",
      "alias": "Max Combo Exceeds 150 Hits"
     },
     {
      "id": "43",
      "alias": "Deal 2,000,000 Elemental Damage in Total"
+    },
+    {
+     "id": "44",
+     "alias": "Win with all characters alive"
     }
+   ]
+  },
+  "TableExploreExtraScore": {
+   "key_column": "id",
+   "text_columns": [
+    "descri",
+    "resultDesc"
    ],
-   "partial": "23/44 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "descri": "Each 1 time you share damage for an ally in battle",
+     "resultDesc": "Shared damage {0} times"
+    },
+    {
+     "id": "2",
+     "descri": "Each 1 Petrify inflicted in battle",
+     "resultDesc": "Petrified {0} times"
+    },
+    {
+     "id": "3",
+     "descri": "Each 1 skill your side uses in battle",
+     "resultDesc": "Used skills {0} times"
+    },
+    {
+     "id": "4",
+     "descri": "Each 1 successful block, up to 100 times",
+     "resultDesc": "Blocked {0} times"
+    },
+    {
+     "id": "5",
+     "descri": "Each 1 successful dodge, up to 100 times",
+     "resultDesc": "Dodged {0} times"
+    },
+    {
+     "id": "6",
+     "descri": "Each 1 Paralysis inflicted on enemies",
+     "resultDesc": "Paralyzed enemies {0} times"
+    },
+    {
+     "id": "7",
+     "descri": "Each 1 Deathblow inflicted on enemies",
+     "resultDesc": "Inflicted Deathblow {0} times"
+    },
+    {
+     "id": "8",
+     "descri": "Each 1 Skill Seal inflicted on enemies",
+     "resultDesc": "Skill Sealed enemies {0} times"
+    },
+    {
+     "id": "9",
+     "descri": "Each 1 Sever inflicted on enemies",
+     "resultDesc": "Severed enemies {0} times"
+    },
+    {
+     "id": "10",
+     "descri": "Each 1 Bleed inflicted on enemies",
+     "resultDesc": "Inflicted Bleed {0} times"
+    },
+    {
+     "id": "11",
+     "descri": "Deal 500,000 damage to enemies",
+     "resultDesc": "Dealt 500,000 damage {0} times"
+    },
+    {
+     "id": "12",
+     "descri": "Deal 30,000 elemental damage to enemies",
+     "resultDesc": "Dealt 100,000 elemental damage {0} times"
+    },
+    {
+     "id": "13",
+     "descri": "Per 1% HP remaining after victory",
+     "resultDesc": ""
+    },
+    {
+     "id": "14",
+     "descri": "Per turn saved when defeating enemies",
+     "resultDesc": ""
+    },
+    {
+     "id": "15",
+     "descri": "Each 1 time you share damage for an ally in battle",
+     "resultDesc": "Shared damage {0} times"
+    },
+    {
+     "id": "16",
+     "descri": "Each 1 Petrify inflicted in battle",
+     "resultDesc": "Petrified {0} times"
+    },
+    {
+     "id": "17",
+     "descri": "Each 1 skill your side uses in battle",
+     "resultDesc": "Used skills {0} times"
+    },
+    {
+     "id": "18",
+     "descri": "Each 1 successful block, up to 100 times",
+     "resultDesc": "Blocked {0} times"
+    },
+    {
+     "id": "19",
+     "descri": "Each 1 successful dodge, up to 100 times",
+     "resultDesc": "Dodged {0} times"
+    },
+    {
+     "id": "20",
+     "descri": "Each 1 Paralysis inflicted on enemies",
+     "resultDesc": "Paralyzed enemies {0} times"
+    },
+    {
+     "id": "21",
+     "descri": "Each 1 Deathblow inflicted on enemies",
+     "resultDesc": "Inflicted Deathblow {0} times"
+    },
+    {
+     "id": "22",
+     "descri": "Each 1 Skill Seal inflicted on enemies",
+     "resultDesc": "Skill Sealed enemies {0} times"
+    },
+    {
+     "id": "23",
+     "descri": "Each 1 Sever inflicted on enemies",
+     "resultDesc": "Severed enemies {0} times"
+    },
+    {
+     "id": "24",
+     "descri": "Each 1 Bleed inflicted on enemies",
+     "resultDesc": "Inflicted Bleed {0} times"
+    },
+    {
+     "id": "25",
+     "descri": "Deal 500,000 damage to enemies",
+     "resultDesc": "Dealt 500,000 damage {0} times"
+    },
+    {
+     "id": "26",
+     "descri": "Deal 100,000 elemental damage to enemies",
+     "resultDesc": "Dealt 100,000 elemental damage {0} times"
+    },
+    {
+     "id": "27",
+     "descri": "Per 1% HP remaining after victory",
+     "resultDesc": ""
+    },
+    {
+     "id": "28",
+     "descri": "Per turn saved when defeating enemies",
+     "resultDesc": ""
+    },
+    {
+     "id": "29",
+     "descri": "Each 1 time you share damage for an ally in battle",
+     "resultDesc": "Shared damage {0} times"
+    },
+    {
+     "id": "30",
+     "descri": "Each 1 Petrify inflicted in battle",
+     "resultDesc": "Petrified {0} times"
+    },
+    {
+     "id": "31",
+     "descri": "Each 1 skill your side uses in battle",
+     "resultDesc": "Used skills {0} times"
+    },
+    {
+     "id": "32",
+     "descri": "Each 1 successful block, up to 100 times",
+     "resultDesc": "Blocked {0} times"
+    },
+    {
+     "id": "33",
+     "descri": "Each 1 successful dodge, up to 100 times",
+     "resultDesc": "Dodged {0} times"
+    },
+    {
+     "id": "34",
+     "descri": "Each 1 Paralysis inflicted on enemies",
+     "resultDesc": "Paralyzed enemies {0} times"
+    },
+    {
+     "id": "35",
+     "descri": "Each 1 Deathblow inflicted on enemies",
+     "resultDesc": "Inflicted Deathblow {0} times"
+    },
+    {
+     "id": "36",
+     "descri": "Each 1 Skill Seal inflicted on enemies",
+     "resultDesc": "Skill Sealed enemies {0} times"
+    },
+    {
+     "id": "37",
+     "descri": "Each 1 Sever inflicted on enemies",
+     "resultDesc": "Severed enemies {0} times"
+    },
+    {
+     "id": "38",
+     "descri": "Each 1 Bleed inflicted on enemies",
+     "resultDesc": "Inflicted Bleed {0} times"
+    },
+    {
+     "id": "39",
+     "descri": "Deal 500,000 damage to enemies",
+     "resultDesc": "Dealt 500,000 damage {0} times"
+    },
+    {
+     "id": "40",
+     "descri": "Deal 100,000 elemental damage to enemies",
+     "resultDesc": "Dealt 100,000 elemental damage {0} times"
+    },
+    {
+     "id": "41",
+     "descri": "Per 1% HP remaining after victory",
+     "resultDesc": ""
+    },
+    {
+     "id": "42",
+     "descri": "Per turn saved when defeating enemies",
+     "resultDesc": ""
+    },
+    {
+     "id": "43",
+     "descri": "Each 1 time you share damage for an ally in battle",
+     "resultDesc": "Shared damage {0} times"
+    },
+    {
+     "id": "44",
+     "descri": "Each 1 Petrify inflicted in battle",
+     "resultDesc": "Petrified {0} times"
+    },
+    {
+     "id": "45",
+     "descri": "Each 1 skill your side uses in battle",
+     "resultDesc": "Used skills {0} times"
+    },
+    {
+     "id": "46",
+     "descri": "Each 1 successful block, up to 100 times",
+     "resultDesc": "Blocked {0} times"
+    },
+    {
+     "id": "47",
+     "descri": "Each 1 successful dodge, up to 100 times",
+     "resultDesc": "Dodged {0} times"
+    },
+    {
+     "id": "48",
+     "descri": "Each 1 Paralysis inflicted on enemies",
+     "resultDesc": "Paralyzed enemies {0} times"
+    },
+    {
+     "id": "49",
+     "descri": "Each 1 Deathblow inflicted on enemies",
+     "resultDesc": "Inflicted Deathblow {0} times"
+    },
+    {
+     "id": "50",
+     "descri": "Each 1 Skill Seal inflicted on enemies",
+     "resultDesc": "Skill Sealed enemies {0} times"
+    },
+    {
+     "id": "51",
+     "descri": "Each 1 Sever inflicted on enemies",
+     "resultDesc": "Severed enemies {0} times"
+    },
+    {
+     "id": "52",
+     "descri": "Each 1 Bleed inflicted on enemies",
+     "resultDesc": "Inflicted Bleed {0} times"
+    },
+    {
+     "id": "53",
+     "descri": "Deal 500,000 damage to enemies",
+     "resultDesc": "Dealt 500,000 damage {0} times"
+    },
+    {
+     "id": "54",
+     "descri": "Deal 100,000 elemental damage to enemies",
+     "resultDesc": "Dealt 100,000 elemental damage {0} times"
+    },
+    {
+     "id": "55",
+     "descri": "Per 1% HP remaining after victory",
+     "resultDesc": ""
+    },
+    {
+     "id": "56",
+     "descri": "Per turn saved when defeating enemies",
+     "resultDesc": ""
+    }
+   ]
   },
   "TableGvoPlaceChapter": {
    "key_column": "id",
@@ -4935,9 +6420,12 @@
     {
      "id": "2",
      "chapterName": "Storm Sea"
+    },
+    {
+     "id": "3",
+     "chapterName": "Frozen Sea"
     }
-   ],
-   "partial": "2/3 rows translated so far"
+   ]
   },
   "TableGvoPlaceTollgate": {
    "key_column": "id",
@@ -5545,6 +7033,55 @@
     {
      "id": "350",
      "tollgateName": "Stage 50"
+    }
+   ]
+  },
+  "TableGvoRegion": {
+   "key_column": "id",
+   "text_columns": [
+    "levelDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "levelDesc": "Neutral: starting Prestige level in the Calm Sea"
+    },
+    {
+     "id": "2",
+     "levelDesc": "Friendly: sailing in the Calm Sea slightly lowers fuel use"
+    },
+    {
+     "id": "3",
+     "levelDesc": "Respected: in the Calm Sea, warships gain a little Defense"
+    },
+    {
+     "id": "4",
+     "levelDesc": "Revered: sailing in the Calm Sea further lowers fuel use"
+    },
+    {
+     "id": "5",
+     "levelDesc": "Exalted: in the Calm Sea, warships gain a little Attack"
+    },
+    {
+     "id": "6",
+     "levelDesc": "Neutral: starting Prestige level in the Storm Sea"
+    },
+    {
+     "id": "7",
+     "levelDesc": "Friendly: sailing in the Storm Sea slightly lowers fuel use"
+    },
+    {
+     "id": "8",
+     "levelDesc": "Respected: in the Storm Sea, warships gain a little Defense"
+    },
+    {
+     "id": "9",
+     "levelDesc": "Revered: sailing in the Storm Sea further lowers fuel use"
+    },
+    {
+     "id": "10",
+     "levelDesc": "Exalted: in the Storm Sea, warships gain a little Attack"
     }
    ]
   },
@@ -12452,6 +13989,10 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "chapterId": "1",
+     "chapterName": "New World Straw Hat Pirates"
+    },
+    {
      "chapterId": "2",
      "chapterName": "Skypiea"
     },
@@ -12480,11 +14021,516 @@
      "chapterName": "Punk Hazard"
     },
     {
+     "chapterId": "9",
+     "chapterName": "Dressrosa 1"
+    },
+    {
+     "chapterId": "10",
+     "chapterName": "Mary Geoise"
+    },
+    {
+     "chapterId": "11",
+     "chapterName": "Totland Arc"
+    },
+    {
      "chapterId": "12",
      "chapterName": "Wano Country"
+    },
+    {
+     "chapterId": "13",
+     "chapterName": "Dressrosa 2"
+    }
+   ]
+  },
+  "TableIntimacyReward": {
+   "key_column": "barId",
+   "text_columns": [
+    "rewardName",
+    "buff"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "barId": "1",
+     "rewardName": "Tier 1 Reward",
+     "buff": "HP,1%;Attack,1%;Speed,5"
+    },
+    {
+     "barId": "2",
+     "rewardName": "Tier 2 Reward",
+     "buff": "HP,1%;Attack,1%;Speed,5"
+    },
+    {
+     "barId": "3",
+     "rewardName": "Tier 3 Reward",
+     "buff": "HP,1%;Attack,1%;Speed,5"
+    },
+    {
+     "barId": "4",
+     "rewardName": "Tier 4 Reward",
+     "buff": "HP,1%;Attack,1%;Speed,5"
+    },
+    {
+     "barId": "5",
+     "rewardName": "Tier 5 Reward",
+     "buff": "HP,1%;Attack,1%;Speed,5"
+    },
+    {
+     "barId": "6",
+     "rewardName": "Tier 6 Reward",
+     "buff": "HP,1%;Attack,1%;Speed,5"
+    },
+    {
+     "barId": "7",
+     "rewardName": "Tier 7 Reward",
+     "buff": "HP,1%;Attack,1%;Speed,5"
+    },
+    {
+     "barId": "8",
+     "rewardName": "Tier 8 Reward",
+     "buff": "HP,1%;Attack,1%;Speed,5"
+    },
+    {
+     "barId": "9",
+     "rewardName": "Tier 9 Reward",
+     "buff": "HP,1%;Attack,1%;Speed,5"
+    },
+    {
+     "barId": "10",
+     "rewardName": "Tier 10 Reward",
+     "buff": "HP,1%;Attack,1%;Speed,5"
+    }
+   ]
+  },
+  "TableIslandTrialsCopy": {
+   "key_column": "id",
+   "text_columns": [
+    "difficultTitle",
+    "levelName",
+    "copyText"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1001",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Marine Encounter",
+     "copyText": "*A big battle is coming. Warm up first."
+    },
+    {
+     "id": "1002",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Defeat the Marines",
+     "copyText": "*A big battle is coming. Warm up first."
+    },
+    {
+     "id": "1003",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Garp",
+     "copyText": "*Garp keeps recovering stamina. Think of a counter."
+    },
+    {
+     "id": "1004",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Sengoku",
+     "copyText": "*Sengoku is protecting the others. Looks like we need to take him down first."
+    },
+    {
+     "id": "1005",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Akainu",
+     "copyText": "*He's burning all over. Is there any way to put the fire out?"
+    },
+    {
+     "id": "1006",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Aokiji",
+     "copyText": "*Thaw!"
+    },
+    {
+     "id": "1007",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Kizaru",
+     "copyText": "*Such aggression. Watch which positions he targets first"
+    },
+    {
+     "id": "1008",
+     "difficultTitle": "Challenge Mode",
+     "levelName": "We Are the Marines",
+     "copyText": "*Strong foes incoming!"
+    },
+    {
+     "id": "1011",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Pirate Raid",
+     "copyText": "*A big battle is coming. Warm up first."
+    },
+    {
+     "id": "1012",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Defeat the Pirates",
+     "copyText": "*A big battle is coming. Warm up first."
+    },
+    {
+     "id": "1013",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Enel",
+     "copyText": "*We have to interrupt him fast."
+    },
+    {
+     "id": "1014",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Sabo",
+     "copyText": "*Sabo keeps creating fire and shielding enemies!"
+    },
+    {
+     "id": "1015",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Marco",
+     "copyText": "*An excellent ship doctor."
+    },
+    {
+     "id": "1016",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Portgas D. Ace",
+     "copyText": "*Don't give Ace too many chances to act."
+    },
+    {
+     "id": "1017",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Whitebeard",
+     "copyText": "*Whitebeard keeps interrupting my combos. So annoying! Can someone stun him so I can deal damage?"
+    },
+    {
+     "id": "1018",
+     "difficultTitle": "Challenge Mode",
+     "levelName": "Family of the Sea",
+     "copyText": "*Strong foes incoming!"
+    },
+    {
+     "id": "1021",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Pirate Raid",
+     "copyText": "*A big battle is coming. Warm up first."
+    },
+    {
+     "id": "1022",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Defeat the Pirates",
+     "copyText": "*A big battle is coming. Warm up first."
+    },
+    {
+     "id": "1023",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Bartholomew Kuma",
+     "copyText": "*Kuma is shielding enemies, and hitting their shields hurts me too?"
+    },
+    {
+     "id": "1024",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Crocodile",
+     "copyText": "*If Deathblow stacks too much..."
+    },
+    {
+     "id": "1025",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Empress",
+     "copyText": "*Stop moping around, everyone perk up!"
+    },
+    {
+     "id": "1026",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Mingo",
+     "copyText": "*Those strings slice through armor with ease? He gets more energized each time one of us falls!"
+    },
+    {
+     "id": "1027",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Mihawk",
+     "copyText": "*I can't use my skills."
+    },
+    {
+     "id": "1028",
+     "difficultTitle": "Challenge Mode",
+     "levelName": "Seven Warlords",
+     "copyText": "*Strong foes incoming!"
+    },
+    {
+     "id": "1031",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Swordsman Encounter",
+     "copyText": "*A big battle is coming. Warm up first."
+    },
+    {
+     "id": "1032",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Defeat the Swordsmen",
+     "copyText": "*A big battle is coming. Warm up first."
+    },
+    {
+     "id": "1033",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Ryuma",
+     "copyText": "*Try to defeat Ryuma."
+    },
+    {
+     "id": "1034",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Tashigi",
+     "copyText": "*A thrust specialist?"
+    },
+    {
+     "id": "1035",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Fujitora",
+     "copyText": "*The speed gap between us is huge. Is Fujitora charging up?"
+    },
+    {
+     "id": "1036",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Mihawk",
+     "copyText": "*Everyone spread out!"
+    },
+    {
+     "id": "1037",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Shanks",
+     "copyText": "*Beaten down body and soul."
+    },
+    {
+     "id": "1038",
+     "difficultTitle": "Challenge Mode",
+     "levelName": "Blades Have No Eyes",
+     "copyText": "*Strong foes incoming!"
     }
    ],
-   "partial": "8/13 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "id": "2001",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Shanks' Trial 1",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2002",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Shanks' Trial 2",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2003",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Shanks' Trial 3",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2004",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Shanks' Trial 4",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2005",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Shanks' Trial 5",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2006",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Shanks' Trial 6",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2007",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Shanks' Trial 7",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2008",
+     "difficultTitle": "Challenge Mode",
+     "levelName": "Shanks' Trial 8",
+     "copyText": "[Mastery] casts an extra [Ruler's Blade] after acting; the state ends after a kill or after taking 20 hits in total"
+    },
+    {
+     "id": "2011",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Kaido's Trial 1",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2012",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Kaido's Trial 2",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2013",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Kaido's Trial 3",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2014",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Kaido's Trial 4",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2015",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Kaido's Trial 5",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2016",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Kaido's Trial 6",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2017",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Kaido's Trial 7",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2018",
+     "difficultTitle": "Challenge Mode",
+     "levelName": "Kaido's Trial 8",
+     "copyText": "While [Dragon Scale] lasts, ignores players' Crit Rate, and each stack reduces skill damage taken by 9%;"
+    },
+    {
+     "id": "2021",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Whitebeard's Trial 1",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2022",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Whitebeard's Trial 2",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2023",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Whitebeard's Trial 3",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2024",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Whitebeard's Trial 4",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2025",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Whitebeard's Trial 5",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2026",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Whitebeard's Trial 6",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2027",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Whitebeard's Trial 7",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2028",
+     "difficultTitle": "Challenge Mode",
+     "levelName": "Whitebeard's Trial 8",
+     "copyText": "[Guard Stance] ends after taking 15 crits, followed by 200% Vulnerability for 2 turns (re-entering [Guard Stance] clears it early); if it ends otherwise, all enemies gain 50% final damage reduction until their next action;"
+    },
+    {
+     "id": "2031",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Blackbeard's Trial 1",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2032",
+     "difficultTitle": "Basic Trial",
+     "levelName": "Blackbeard's Trial 2",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2033",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Blackbeard's Trial 3",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2034",
+     "difficultTitle": "Intermediate Trial",
+     "levelName": "Blackbeard's Trial 4",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2035",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Blackbeard's Trial 5",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2036",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Blackbeard's Trial 6",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2037",
+     "difficultTitle": "Advanced Trial",
+     "levelName": "Blackbeard's Trial 7",
+     "copyText": "Clear trials and earn stars to claim rewards"
+    },
+    {
+     "id": "2038",
+     "difficultTitle": "Challenge Mode",
+     "levelName": "Blackbeard's Trial 8",
+     "copyText": "[Erosion] loses HP each action; stacks up to 10 times, lasts 3 turns, can be dispelled"
+    }
+   ]
+  },
+  "TableIslandTrialsDifficult": {
+   "key_column": "difficult",
+   "text_columns": [
+    "difficultTitle"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "difficult": "1",
+     "difficultTitle": "Basic Trial"
+    },
+    {
+     "difficult": "2",
+     "difficultTitle": "Intermediate Trial"
+    },
+    {
+     "difficult": "3",
+     "difficultTitle": "Advanced Trial"
+    },
+    {
+     "difficult": "4",
+     "difficultTitle": "Ultimate Trial"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "difficult": "4",
+     "difficultTitle": "Challenge Mode"
+    }
+   ]
   },
   "TableNewWPBoss": {
    "key_column": "id",
@@ -12556,6 +14602,21 @@
      "desc": "A Marine swordswoman whose superb swordsmanship belies her cute looks. Her powerful all-target damage skills can easily kill fragile characters."
     },
     {
+     "id": "11",
+     "name": "Mr.1",
+     "desc": "A Baroque Works agent who ate the Dice-Dice Fruit. He can slash with any part of his body, and his hard body gives him strong defense."
+    },
+    {
+     "id": "12",
+     "name": "Mr.2",
+     "desc": "A Baroque Works agent with a man's body and a maiden's heart. He excels at Okama Kenpo kicks, and his swan shoes make his kicks even more destructive."
+    },
+    {
+     "id": "13",
+     "name": "Mr.3",
+     "desc": "A Baroque Works agent who ate the Melting Fruit. The wax he makes is harder than steel, and anyone bound by his candle wax is greatly slowed."
+    },
+    {
      "id": "14",
      "name": "Bellamy",
      "desc": "Captain of the Bellamy Pirates, user of the Spring Fruit. He can turn any part of his body into springs. His high-speed charge after compressing them easily stuns opponents and deals heavy damage."
@@ -12609,6 +14670,11 @@
      "id": "31",
      "name": "Garp",
      "desc": "A legendary Marine Vice Admiral, the man who drove Pirate King Roger to the brink. No defense holds up against his Haki-clad fists. He's also extremely carefree and may suddenly fall asleep mid-battle, but don't underestimate his strength because of it!"
+    },
+    {
+     "id": "32",
+     "name": "Gecko Moria",
+     "desc": "A shadow-manipulating Devil Fruit user and ruler of Thriller Bark! One of the Seven Warlords, said to have once been a match for Kaido of the \"Four Emperors\"."
     },
     {
      "id": "26",
@@ -12772,8 +14838,7 @@
      "name": "Portgas D. Ace",
      "desc": "Second division commander of the Whitebeard Pirates and user of the Flame-Flame Fruit. A powerful fighter who controls fire freely and excels at area attacks, he can easily kill several characters at once."
     }
-   ],
-   "partial": "55/59 rows translated so far"
+   ]
   },
   "TableOPDex": {
    "key_column": "ID",
@@ -33511,6 +35576,117 @@
     }
    ]
   },
+  "TableOPDexDescription": {
+   "key_column": "ID",
+   "text_columns": [
+    "Text"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "ID": "1",
+     "Text": "Character reaches Lv{0}"
+    },
+    {
+     "ID": "2",
+     "Text": "Character reaches {0} stars"
+    },
+    {
+     "ID": "3",
+     "Text": "Character has {0} Skill Points"
+    },
+    {
+     "ID": "4",
+     "Text": "Character reaches Breakthrough {0}"
+    },
+    {
+     "ID": "5",
+     "Text": "Own {0}-{1} skin"
+    },
+    {
+     "ID": "6",
+     "Text": "Ship refinement reaches Lv{0}"
+    },
+    {
+     "ID": "7",
+     "Text": "Own the title"
+    },
+    {
+     "ID": "8",
+     "Text": "Own all equipment"
+    },
+    {
+     "ID": "9",
+     "Text": "Reach Lv{0}"
+    },
+    {
+     "ID": "10",
+     "Text": "All Bond characters reach Lv{0}"
+    },
+    {
+     "ID": "11",
+     "Text": "Own all characters and ships"
+    },
+    {
+     "ID": "12",
+     "Text": "Formation reaches Lv{0}"
+    },
+    {
+     "ID": "13",
+     "Text": "All Bond characters reach {0} stars"
+    },
+    {
+     "ID": "14",
+     "Text": "All Bond characters have {0} Skill Points"
+    },
+    {
+     "ID": "15",
+     "Text": "All Bond characters reach Breakthrough {0}"
+    },
+    {
+     "ID": "16",
+     "Text": "Own all characters"
+    },
+    {
+     "ID": "17",
+     "Text": "Character reaches Awakening {0}"
+    },
+    {
+     "ID": "18",
+     "Text": "Master the formation"
+    },
+    {
+     "ID": "19",
+     "Text": "Own the ship"
+    },
+    {
+     "ID": "20",
+     "Text": "{0} Stars"
+    },
+    {
+     "ID": "22",
+     "Text": "Character completes Perfect Training Lv{0}"
+    },
+    {
+     "ID": "23",
+     "Text": "Own {0}-{1} Chronicle"
+    },
+    {
+     "ID": "24",
+     "Text": "Own {0}-{1} Memory Image"
+    },
+    {
+     "ID": "25",
+     "Text": "Activate Medal {0}"
+    },
+    {
+     "ID": "26",
+     "Text": "Activate Persona Look - {0}"
+    }
+   ],
+   "other_bundle_rows": []
+  },
   "TableOpDexActiveValueReward": {
    "key_column": "barId",
    "text_columns": [
@@ -36392,24 +38568,382 @@
      "buff": "HP,240;Attack,30;Defense,12;Speed,2"
     },
     {
+     "barId": "719",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "720",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "721",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "722",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "723",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "724",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "725",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "726",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "727",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "728",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "729",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "730",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "731",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "732",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "733",
+     "buff": "Tenacity Attack,1000;Tenacity,2000;Speed,10"
+    },
+    {
+     "barId": "734",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "735",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "736",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "737",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "738",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "739",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "740",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "741",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "742",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "743",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "744",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "745",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "746",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "747",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "748",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "749",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "750",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "751",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "752",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "753",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "754",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "755",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "756",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "757",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "758",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "759",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "760",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "761",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "762",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "763",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "764",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "765",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "766",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "767",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "768",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "769",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "770",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "771",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "772",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "773",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "774",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "775",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "776",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "777",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "778",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "779",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "780",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "781",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "782",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "783",
+     "buff": "Tenacity Defense,1000;Tenacity,3000;Speed,15"
+    },
+    {
+     "barId": "784",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "785",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "786",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "787",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
      "barId": "788",
      "buff": "HP,40;Attack,5;Defense,2;Speed,5"
+    },
+    {
+     "barId": "789",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "790",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "791",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "792",
+     "buff": "HP,40;Attack,5;Defense,2"
     },
     {
      "barId": "793",
      "buff": "HP,40;Attack,5;Defense,2;Speed,5"
     },
     {
+     "barId": "794",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "795",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "796",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "797",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
      "barId": "798",
      "buff": "HP,40;Attack,5;Defense,2;Speed,5"
+    },
+    {
+     "barId": "799",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "800",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "801",
+     "buff": "HP,40;Attack,5;Defense,2"
+    },
+    {
+     "barId": "802",
+     "buff": "HP,40;Attack,5;Defense,2"
     },
     {
      "barId": "803",
      "buff": "HP,40;Attack,5;Defense,2;Speed,5"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "722/803 rows translated so far"
+   "other_bundle_rows": []
+  },
+  "TableOpDexNostalgiaReward": {
+   "key_column": "ID",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [],
+   "other_bundle_rows": [
+    {
+     "ID": "1",
+     "desc": "Collect everything in the world and become a Legend of the Seas!"
+    },
+    {
+     "ID": "2",
+     "desc": "Complete your character collection!"
+    },
+    {
+     "ID": "3",
+     "desc": "Complete your ship collection!"
+    },
+    {
+     "ID": "4",
+     "desc": "Complete your equipment collection!"
+    },
+    {
+     "ID": "5",
+     "desc": "Complete your formation collection!"
+    },
+    {
+     "ID": "6",
+     "desc": "Complete your costume collection!"
+    }
+   ]
   },
   "TablePokedex": {
    "key_column": "heroId",
@@ -36456,6 +38990,10 @@
      "name": "\"Sanji Appears\" Defend the Sea Restaurant"
     },
     {
+     "chapterId": "5",
+     "name": "\"We're Friends\" Destroy Arlong Park"
+    },
+    {
      "chapterId": "6",
      "name": "\"Loguetown\" Where the Legend Began"
     },
@@ -36466,6 +39004,10 @@
     {
      "chapterId": "8",
      "name": "\"Set Sail\" To the Grand Line"
+    },
+    {
+     "chapterId": "9",
+     "name": "\"The Greatest Coast\" Here at Last"
     },
     {
      "chapterId": "10",
@@ -36494,6 +39036,10 @@
     {
      "chapterId": "16",
      "name": "\"A Warlord Appears\" Rainbase, City of Dreams"
+    },
+    {
+     "chapterId": "17",
+     "name": "\"Fierce Duels\" Baroque Works"
     },
     {
      "chapterId": "18",
@@ -36544,16 +39090,175 @@
      "name": "\"Battle of Enies Lobby\" Save Robin"
     },
     {
+     "chapterId": "30",
+     "name": "\"Garp Appears\" Luffy's Grandpa"
+    },
+    {
      "chapterId": "31",
      "name": "\"Thousand Sunny\" Setting Sail Again"
     },
     {
+     "chapterId": "32",
+     "name": "\"The Talking Skeleton\" Devil's Waters"
+    },
+    {
+     "chapterId": "33",
+     "name": "\"Genius Doctor\" Hogback Appears"
+    },
+    {
+     "chapterId": "34",
+     "name": "\"Night of the Zombies\" Missing Crewmates"
+    },
+    {
+     "chapterId": "35",
+     "name": "\"Ghost Princess\" Wonder Garden"
+    },
+    {
+     "chapterId": "36",
+     "name": "\"Your Knight\" Sanji's Dream"
+    },
+    {
+     "chapterId": "37",
+     "name": "\"Chopper's Fury\" Cindry's Will"
+    },
+    {
+     "chapterId": "38",
+     "name": "\"Oars Revived\" Showdown at Dawn"
+    },
+    {
+     "chapterId": "39",
+     "name": "\"Flying Fish Riders\" An Unexpected Reunion"
+    },
+    {
+     "chapterId": "40",
+     "name": "\"False Paradise\" Sabaody Archipelago"
+    },
+    {
+     "chapterId": "41",
+     "name": "\"Embers of History\" Auction House Riot"
+    },
+    {
+     "chapterId": "42",
+     "name": "\"No Men Allowed\" Adventure on Amazon Lily"
+    },
+    {
+     "chapterId": "43",
+     "name": "\"Determined Infiltration\" Impel Down"
+    },
+    {
+     "chapterId": "44",
+     "name": "\"All or Nothing\" Facing Hell's Strongest"
+    },
+    {
+     "chapterId": "45",
+     "name": "\"Miracle in Hell\" Newkama Land"
+    },
+    {
+     "chapterId": "46",
+     "name": "\"Bloom the Flower of Friendship\" Escape from Hell"
+    },
+    {
+     "chapterId": "47",
+     "name": "\"The Final Battle Begins\" Paramount War"
+    },
+    {
+     "chapterId": "48",
+     "name": "\"The Meaning of Life\" The Worst Brothers"
+    },
+    {
+     "chapterId": "49",
+     "name": "\"End of an Era\" Escape from the Battlefield"
+    },
+    {
+     "chapterId": "50",
+     "name": "\"Crew Reunited!\" Setting Sail for the New World"
+    },
+    {
      "chapterId": "51",
      "name": "\"Dream World\" Fish-Man Island Under the Sea"
+    },
+    {
+     "chapterId": "52",
+     "name": "\"Destroy Fish-Man Island\" Duel Under the Sea"
+    },
+    {
+     "chapterId": "53",
+     "name": "\"Punk Hazard\" Riddle of the Fire and Ice Island"
+    },
+    {
+     "chapterId": "54",
+     "name": "\"Land of the Dead\" Escape the Island That Doesn't Exist"
+    },
+    {
+     "chapterId": "55",
+     "name": "\"Land of Passion\" Dressrosa!"
+    },
+    {
+     "chapterId": "56",
+     "name": "\"Operation SOP\" Begins!"
+    },
+    {
+     "chapterId": "57",
+     "name": "\"Out of the Darkness\" Dressrosa's Dawn!"
+    },
+    {
+     "chapterId": "58",
+     "name": "\"For Tomorrow\" Dressrosa's Fierce Battle!"
+    },
+    {
+     "chapterId": "59",
+     "name": "\"End It All\" Dressrosa's Final Battle!"
+    },
+    {
+     "chapterId": "60",
+     "name": "\"The Adventure Begins\" Zou, Island of Dreams"
+    },
+    {
+     "chapterId": "61",
+     "name": "\"Secret Infiltration\" Reaching Whole Cake Island"
+    },
+    {
+     "chapterId": "62",
+     "name": "\"A Clumsy Lie\" Luffy and Sanji"
+    },
+    {
+     "chapterId": "63",
+     "name": "\"Topple an Emperor\" Luffy and Bege's Alliance"
+    },
+    {
+     "chapterId": "64",
+     "name": "\"Split Up\" Escape from Whole Cake Island"
+    },
+    {
+     "chapterId": "65",
+     "name": "\"Seeing the Future\" Luffy vs. Katakuri"
+    },
+    {
+     "chapterId": "66",
+     "name": "\"Escape from Totland\" The Fifth Emperor of the Sea!"
+    },
+    {
+     "chapterId": "67",
+     "name": "\"Against the Current\" Landing in Wano Country"
+    },
+    {
+     "chapterId": "68",
+     "name": "\"Rescue Tama\" Rampage in Bakura Town"
+    },
+    {
+     "chapterId": "69",
+     "name": "\"Facing Kaido\" The One-Hit Thunder Bagua"
+    },
+    {
+     "chapterId": "70",
+     "name": "\"Chaos in the Flower Capital\" A Situation About to Explode"
+    },
+    {
+     "chapterId": "71",
+     "name": "\"Escape from Udon\" Queen's Sumo Inferno"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "28/71 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableRaidSweepEpisode": {
    "key_column": "sweepEpisodeId",
@@ -41061,6 +43766,74 @@
    ],
    "other_bundle_rows": []
   },
+  "TableSeaAreaInfo": {
+   "key_column": "sceneId",
+   "text_columns": [
+    "name",
+    "desc",
+    "buffName",
+    "buffDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "sceneId": "8001",
+     "name": "Calm Sea",
+     "desc": "A vast sea in the east with gentle breezes and rich marine life.",
+     "buffName": "Gentle Breeze",
+     "buffDesc": "All warships sail at normal speed, unaffected by storms and tides."
+    },
+    {
+     "sceneId": "8002",
+     "name": "Storm Sea",
+     "desc": "A sea shrouded in storms all year round, said to hide vast riches.",
+     "buffName": "Bloody Storm",
+     "buffDesc": "Due to the storms, player warships have a small chance of being briefly slowed."
+    },
+    {
+     "sceneId": "8013",
+     "name": "Frost Sea",
+     "desc": "A perilous icy sea where privateer fleets guard the treasure. In its deepest depths hides a warship sailed by an ice ghost.",
+     "buffName": "Biting Winter Wind",
+     "buffDesc": "The extreme cold affects warship speed; when attacked, there's a small chance of being slowed"
+    }
+   ]
+  },
+  "TableSeaAreaIslandInfo": {
+   "key_column": "id",
+   "text_columns": [
+    "name",
+    "desc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "name": "Sacred Spring Island",
+     "desc": "The island said to hold the \"Fountain of Youth\", where many ships stop to resupply."
+    },
+    {
+     "id": "2",
+     "name": "Lookout Island",
+     "desc": "An island on the edge of the Calm Sea bordering the Storm Sea, where the Aid Association set up a rescue station."
+    },
+    {
+     "id": "3",
+     "name": "Lighthouse Island",
+     "desc": "An island northwest of the Storm Sea, where many explorers set up camp."
+    },
+    {
+     "id": "4",
+     "name": "Wind Cliff Island",
+     "desc": "A storm-shrouded island infested with raiders."
+    },
+    {
+     "id": "5",
+     "name": "Ebb Tide Island",
+     "desc": "A rumored mysterious island whose full shape can only be seen at low tide."
+    }
+   ]
+  },
   "TableSeaAreaPlayerStatistics": {
    "key_column": "typeId",
    "text_columns": [
@@ -41069,11 +43842,276 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "typeId": "0",
+     "typeName": "Distance Sailed"
+    },
+    {
      "typeId": "1",
      "typeName": "Complete Quest"
+    },
+    {
+     "typeId": "2",
+     "typeName": "Enemy Ships Defeated"
+    },
+    {
+     "typeId": "3",
+     "typeName": "Treasure Salvaged"
+    },
+    {
+     "typeId": "4",
+     "typeName": "Diving Explorations"
+    },
+    {
+     "typeId": "5",
+     "typeName": "Fishing at Sea"
+    },
+    {
+     "typeId": "6",
+     "typeName": "People Rescued"
+    }
+   ]
+  },
+  "TableSeaAreaShopSwap": {
+   "key_column": "id",
+   "text_columns": [
+    "selectDesc",
+    "dialogDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "selectDesc": "Exchange for Marco and Blackbeard Shards",
+     "dialogDesc": "Exchange a Summer Gift Box for Marco and Blackbeard Shards"
+    },
+    {
+     "id": "2",
+     "selectDesc": "Exchange for Shanks and Blackbeard Shards",
+     "dialogDesc": "Exchange a Summer Gift Box for Shanks and Blackbeard Shards"
+    },
+    {
+     "id": "3",
+     "selectDesc": "Exchange for Vista and Blackbeard Shards",
+     "dialogDesc": "Exchange a Summer Gift Box for Vista and Blackbeard Shards"
+    },
+    {
+     "id": "4",
+     "selectDesc": "Exchange for Whitebeard and Blackbeard Shards",
+     "dialogDesc": "Exchange a Summer Gift Box for Whitebeard and Blackbeard Shards"
+    }
+   ]
+  },
+  "TableSeaExploreCopy": {
+   "key_column": "id",
+   "text_columns": [
+    "levelName",
+    "copyText"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1027",
+     "levelName": "Soul Drain",
+     "copyText": "[Oblivion] can't act until the end of their next action"
+    },
+    {
+     "id": "1028",
+     "levelName": "Soul Drain",
+     "copyText": "[Oblivion] can't act until the end of their next action"
+    },
+    {
+     "id": "1029",
+     "levelName": "Soul Drain",
+     "copyText": "[Oblivion] can't act until the end of their next action"
+    },
+    {
+     "id": "1030",
+     "levelName": "Soul Drain",
+     "copyText": "[Oblivion] can't act until the end of their next action"
+    },
+    {
+     "id": "1031",
+     "levelName": "Soul Drain",
+     "copyText": "[Oblivion] can't act until the end of their next action"
+    },
+    {
+     "id": "1032",
+     "levelName": "Soul Drain",
+     "copyText": "[Oblivion] can't act until the end of their next action"
+    },
+    {
+     "id": "1033",
+     "levelName": "Soul Drain",
+     "copyText": "[Oblivion] can't act until the end of their next action"
+    },
+    {
+     "id": "1034",
+     "levelName": "Soul Drain",
+     "copyText": "[Oblivion] can't act until the end of their next action"
+    },
+    {
+     "id": "1035",
+     "levelName": "Sword Duel",
+     "copyText": "[Mastery] casts an extra [Ruler's Blade] after acting; the state ends after a kill or after taking 20 hits in total"
+    },
+    {
+     "id": "1036",
+     "levelName": "Sword Duel",
+     "copyText": "[Mastery] casts an extra [Ruler's Blade] after acting; the state ends after a kill or after taking 20 hits in total"
+    },
+    {
+     "id": "1037",
+     "levelName": "Sword Duel",
+     "copyText": "[Mastery] casts an extra [Ruler's Blade] after acting; the state ends after a kill or after taking 20 hits in total"
+    },
+    {
+     "id": "1038",
+     "levelName": "Sword Duel",
+     "copyText": "[Mastery] casts an extra [Ruler's Blade] after acting; the state ends after a kill or after taking 20 hits in total"
+    },
+    {
+     "id": "1039",
+     "levelName": "Sword Duel",
+     "copyText": "[Mastery] casts an extra [Ruler's Blade] after acting; the state ends after a kill or after taking 20 hits in total"
+    },
+    {
+     "id": "1040",
+     "levelName": "Sword Duel",
+     "copyText": "[Mastery] casts an extra [Ruler's Blade] after acting; the state ends after a kill or after taking 20 hits in total"
+    },
+    {
+     "id": "1041",
+     "levelName": "Sword Duel",
+     "copyText": "[Mastery] casts an extra [Ruler's Blade] after acting; the state ends after a kill or after taking 20 hits in total"
+    },
+    {
+     "id": "1042",
+     "levelName": "Sword Duel",
+     "copyText": "[Mastery] casts an extra [Ruler's Blade] after acting; the state ends after a kill or after taking 20 hits in total"
+    },
+    {
+     "id": "1043",
+     "levelName": "Impregnable",
+     "copyText": "While [Dragon Scale] lasts, ignores players' Crit Rate, and each stack reduces skill damage taken by 9%;"
+    },
+    {
+     "id": "1044",
+     "levelName": "Impregnable",
+     "copyText": "While [Dragon Scale] lasts, ignores players' Crit Rate, and each stack reduces skill damage taken by 9%;"
+    },
+    {
+     "id": "1045",
+     "levelName": "Impregnable",
+     "copyText": "While [Dragon Scale] lasts, ignores players' Crit Rate, and each stack reduces skill damage taken by 9%;"
+    },
+    {
+     "id": "1046",
+     "levelName": "Impregnable",
+     "copyText": "While [Dragon Scale] lasts, ignores players' Crit Rate, and each stack reduces skill damage taken by 9%;"
+    },
+    {
+     "id": "1047",
+     "levelName": "Impregnable",
+     "copyText": "While [Dragon Scale] lasts, ignores players' Crit Rate, and each stack reduces skill damage taken by 9%;"
+    },
+    {
+     "id": "1048",
+     "levelName": "Impregnable",
+     "copyText": "While [Dragon Scale] lasts, ignores players' Crit Rate, and each stack reduces skill damage taken by 9%;"
+    },
+    {
+     "id": "1049",
+     "levelName": "Impregnable",
+     "copyText": "While [Dragon Scale] lasts, ignores players' Crit Rate, and each stack reduces skill damage taken by 9%;"
+    },
+    {
+     "id": "1050",
+     "levelName": "Impregnable",
+     "copyText": "While [Dragon Scale] lasts, ignores players' Crit Rate, and each stack reduces skill damage taken by 9%;"
+    },
+    {
+     "id": "1051",
+     "levelName": "Defensive Counterattack",
+     "copyText": "[Guard Stance] ends after taking 15 crits, followed by 200% Vulnerability for 2 turns (re-entering [Guard Stance] clears it early); if it ends otherwise, all enemies gain 50% final damage reduction until their next action;"
+    },
+    {
+     "id": "1052",
+     "levelName": "Defensive Counterattack",
+     "copyText": "[Guard Stance] ends after taking 15 crits, followed by 200% Vulnerability for 2 turns (re-entering [Guard Stance] clears it early); if it ends otherwise, all enemies gain 50% final damage reduction until their next action;"
+    },
+    {
+     "id": "1053",
+     "levelName": "Defensive Counterattack",
+     "copyText": "[Guard Stance] ends after taking 15 crits, followed by 200% Vulnerability for 2 turns (re-entering [Guard Stance] clears it early); if it ends otherwise, all enemies gain 50% final damage reduction until their next action;"
+    },
+    {
+     "id": "1054",
+     "levelName": "Defensive Counterattack",
+     "copyText": "[Guard Stance] ends after taking 15 crits, followed by 200% Vulnerability for 2 turns (re-entering [Guard Stance] clears it early); if it ends otherwise, all enemies gain 50% final damage reduction until their next action;"
+    },
+    {
+     "id": "1055",
+     "levelName": "Defensive Counterattack",
+     "copyText": "[Guard Stance] ends after taking 15 crits, followed by 200% Vulnerability for 2 turns (re-entering [Guard Stance] clears it early); if it ends otherwise, all enemies gain 50% final damage reduction until their next action;"
+    },
+    {
+     "id": "1056",
+     "levelName": "Defensive Counterattack",
+     "copyText": "[Guard Stance] ends after taking 15 crits, followed by 200% Vulnerability for 2 turns (re-entering [Guard Stance] clears it early); if it ends otherwise, all enemies gain 50% final damage reduction until their next action;"
+    },
+    {
+     "id": "1057",
+     "levelName": "Defensive Counterattack",
+     "copyText": "[Guard Stance] ends after taking 15 crits, followed by 200% Vulnerability for 2 turns (re-entering [Guard Stance] clears it early); if it ends otherwise, all enemies gain 50% final damage reduction until their next action;"
+    },
+    {
+     "id": "1058",
+     "levelName": "Defensive Counterattack",
+     "copyText": "[Guard Stance] ends after taking 15 crits, followed by 200% Vulnerability for 2 turns (re-entering [Guard Stance] clears it early); if it ends otherwise, all enemies gain 50% final damage reduction until their next action;"
+    },
+    {
+     "id": "1059",
+     "levelName": "Dark Erosion",
+     "copyText": "[Erosion] loses HP each action; stacks up to 10 times, lasts 3 turns, can be dispelled"
+    },
+    {
+     "id": "1060",
+     "levelName": "Dark Erosion",
+     "copyText": "[Erosion] loses HP each action; stacks up to 10 times, lasts 3 turns, can be dispelled"
+    },
+    {
+     "id": "1061",
+     "levelName": "Dark Erosion",
+     "copyText": "[Erosion] loses HP each action; stacks up to 10 times, lasts 3 turns, can be dispelled"
+    },
+    {
+     "id": "1062",
+     "levelName": "Dark Erosion",
+     "copyText": "[Erosion] loses HP each action; stacks up to 10 times, lasts 3 turns, can be dispelled"
+    },
+    {
+     "id": "1063",
+     "levelName": "Dark Erosion",
+     "copyText": "[Erosion] loses HP each action; stacks up to 10 times, lasts 3 turns, can be dispelled"
+    },
+    {
+     "id": "1064",
+     "levelName": "Dark Erosion",
+     "copyText": "[Erosion] loses HP each action; stacks up to 10 times, lasts 3 turns, can be dispelled"
+    },
+    {
+     "id": "1065",
+     "levelName": "Dark Erosion",
+     "copyText": "[Erosion] loses HP each action; stacks up to 10 times, lasts 3 turns, can be dispelled"
+    },
+    {
+     "id": "1066",
+     "levelName": "Dark Erosion",
+     "copyText": "[Erosion] loses HP each action; stacks up to 10 times, lasts 3 turns, can be dispelled"
     }
    ],
-   "partial": "1/7 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableSeaExploreTask": {
    "key_column": "id",
@@ -41205,6 +44243,64 @@
     }
    ],
    "other_bundle_rows": []
+  },
+  "TableSeaExploreTrigger": {
+   "key_column": "id",
+   "text_columns": [
+    "desc",
+    "longDesc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "desc": "Take the Chest!",
+     "longDesc": "An unopened chest on the island. What an unexpected find!"
+    },
+    {
+     "id": "2",
+     "desc": "Defeat Them!",
+     "longDesc": "A band of pirates has taken over the island and hoarded its treasure"
+    }
+   ],
+   "other_bundle_rows": []
+  },
+  "TableSeaPortSeaArea": {
+   "key_column": "seaAreaType",
+   "text_columns": [
+    "seaAreaName"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "seaAreaType": "1001",
+     "seaAreaName": "Calm Sea"
+    },
+    {
+     "seaAreaType": "1002",
+     "seaAreaName": "Storm Sea"
+    },
+    {
+     "seaAreaType": "1003",
+     "seaAreaName": "Frost Sea Shallows"
+    },
+    {
+     "seaAreaType": "1004",
+     "seaAreaName": "Frost Sea Depths"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "seaAreaType": "1003",
+     "seaAreaName": "Frost Sea"
+    },
+    {
+     "seaAreaType": "1004",
+     "seaAreaName": "Beast Sea"
+    }
+   ]
   },
   "TableSecretPlaceFightChpater": {
    "key_column": "chapterId",
@@ -41766,6 +44862,86 @@
     }
    ]
   },
+  "TableSecretPlaceFightCondition": {
+   "key_column": "conditionId",
+   "text_columns": [
+    "desc",
+    "descDetial"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "conditionId": "1",
+     "desc": "Speed Trial",
+     "descDetial": "Defeating a wave gives 700 points, with a base turn bonus of 4500 points; from turn 4, each 1 turn used deducts 260 from the base turn bonus."
+    },
+    {
+     "conditionId": "2",
+     "desc": "Endurance Trial",
+     "descDetial": "After each wave, every 1% HP of all characters gives 22 points."
+    },
+    {
+     "conditionId": "3",
+     "desc": "Toughness Trial",
+     "descDetial": "After each wave, every 1% HP of all characters gives 10 points, with a base turn bonus of 3600 points; from turn 4, each 1 turn used deducts 210 from the base turn bonus."
+    },
+    {
+     "conditionId": "4",
+     "desc": "Comprehensive Trial",
+     "descDetial": "Defeating a wave gives 800 points, with a base turn bonus of 5800 points; from turn 4, each 1 turn used deducts 340 from the base turn bonus."
+    },
+    {
+     "conditionId": "5",
+     "desc": "Strength Trial",
+     "descDetial": "At the end of battle, total damage dealt converts to points at a 2% ratio"
+    },
+    {
+     "conditionId": "111",
+     "desc": "Speed Trial",
+     "descDetial": "Defeating a wave gives 80 points; from turn 6, each 1 turn used deducts 15 points."
+    },
+    {
+     "conditionId": "112",
+     "desc": "Speed Trial",
+     "descDetial": "Defeating a wave gives 120 points; from turn 6, each 1 turn used deducts 15 points."
+    },
+    {
+     "conditionId": "113",
+     "desc": "Speed Trial",
+     "descDetial": "Defeating a wave gives 200 points; from turn 6, each 1 turn used deducts 15 points."
+    },
+    {
+     "conditionId": "311",
+     "desc": "Endurance Trial",
+     "descDetial": "Defeating a wave gives 80 points; every 1% HP lost by all characters deducts 2 points."
+    },
+    {
+     "conditionId": "312",
+     "desc": "Endurance Trial",
+     "descDetial": "Defeating a wave gives 120 points; every 1% HP lost by all characters deducts 2 points."
+    },
+    {
+     "conditionId": "313",
+     "desc": "Endurance Trial",
+     "descDetial": "Defeating a wave gives 200 points; every 1% HP lost by all characters deducts 2 points."
+    },
+    {
+     "conditionId": "611",
+     "desc": "Perseverance Trial",
+     "descDetial": "Defeating a wave gives 80 points; each 1 skill used deducts 2 points."
+    },
+    {
+     "conditionId": "612",
+     "desc": "Perseverance Trial",
+     "descDetial": "Defeating a wave gives 120 points; each 1 skill used deducts 2 points."
+    },
+    {
+     "conditionId": "613",
+     "desc": "Perseverance Trial",
+     "descDetial": "Defeating a wave gives 200 points; each 1 skill used deducts 2 points."
+    }
+   ]
+  },
   "TableUSFFortress": {
    "key_column": "id",
    "text_columns": [
@@ -42060,6 +45236,173 @@
     {
      "id": "2116",
      "name": "No. 17"
+    }
+   ]
+  },
+  "TableUSFFortressDetail": {
+   "key_column": "id",
+   "text_columns": [
+    "typeName",
+    "typeDesc",
+    "buildEffect"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "typeName": "Base",
+     "typeDesc": "A key Sea Battle building. Capturing the enemy base wins instantly; allied fleets can garrison it for defense.",
+     "buildEffect": "Key Sea Battle Building"
+    },
+    {
+     "id": "2",
+     "typeName": "Basic Stronghold",
+     "typeDesc": "Raises the Defense of fleets garrisoned in the outpost; can be converted into other outpost types.",
+     "buildEffect": "Normal Outpost;Can be upgraded to an advanced outpost"
+    },
+    {
+     "id": "3",
+     "typeName": "Command Outpost",
+     "typeDesc": "A conversion of the basic outpost that raises garrisoned fleets' Attack, and also gives this effect to the first connected allied normal outpost.",
+     "buildEffect": "Buff Outpost;Can strengthen the first connected outpost"
+    },
+    {
+     "id": "4",
+     "typeName": "Recovery Outpost",
+     "typeDesc": "A conversion of the basic outpost that restores garrisoned fleets' HP every second; doesn't stack with other HP regen effects.",
+     "buildEffect": "Recovery Outpost;Restores HP of garrisoned fleets"
+    },
+    {
+     "id": "5",
+     "typeName": "Buff Outpost",
+     "typeDesc": "Gives fleets in the outpost a 90-second boost whose type changes randomly every minute: Attack, Defense, Speed, Crit or Accuracy up. Boosts don't stack",
+     "buildEffect": "Buff Outpost;Buffs garrisoned fleets"
+    },
+    {
+     "id": "6",
+     "typeName": "Fortress Outpost",
+     "typeDesc": "A conversion of the basic outpost; garrisoned fleets gain greatly increased Attack and Defense.",
+     "buildEffect": "Defense Outpost;Raises garrisoned fleets' Attack and Defense"
+    },
+    {
+     "id": "7",
+     "typeName": "Turret Outpost",
+     "typeDesc": "A conversion of the basic outpost that automatically attacks enemy warships on connected routes every 5 seconds for 20% of their max HP",
+     "buildEffect": "Ranged Attack Outpost;Attacks enemies on adjacent routes"
+    },
+    {
+     "id": "8",
+     "typeName": "Dock Outpost",
+     "typeDesc": "Every 60 seconds, produces a weak warship targeting the enemy HQ that explodes on death, dealing 10% of max HP to the enemy ships it fights",
+     "buildEffect": "Dock Outpost;Produces normal warships to attack enemies"
+    },
+    {
+     "id": "9",
+     "typeName": "Tsunami Cannon Outpost",
+     "typeDesc": "Every 5 seconds, automatically attacks all enemy warships on connected routes for 20% of their max HP",
+     "buildEffect": "Ranged Attack Outpost;Attacks all enemies on adjacent routes"
+    },
+    {
+     "id": "10",
+     "typeName": "Rally Outpost",
+     "typeDesc": "Allied players in the outpost can periodically rally up to 10 auto-played allies and send them to a chosen outpost",
+     "buildEffect": "Tactical Outpost;Rallies and dispatches auto-played players"
+    },
+    {
+     "id": "11",
+     "typeName": "Tailwind Outpost",
+     "typeDesc": "Once built, allied warships move twice as fast on all routes adjacent to the outpost",
+     "buildEffect": "Tactical Outpost;Raises allied movement speed on adjacent routes"
+    },
+    {
+     "id": "12",
+     "typeName": "Headwind Outpost",
+     "typeDesc": "Once built, enemy warships move at half speed on all routes adjacent to the outpost",
+     "buildEffect": "Tactical Outpost;Lowers enemy movement speed on adjacent routes"
+    },
+    {
+     "id": "13",
+     "typeName": "Advanced Dock Outpost",
+     "typeDesc": "Every 60 seconds, produces a fairly weak warship targeting the enemy HQ that becomes a temporary cannon outpost on entering an outpost and attacks enemies on adjacent routes.",
+     "buildEffect": "Dock Outpost;Produces powerful warships to attack enemies"
+    },
+    {
+     "id": "52",
+     "typeName": "Base",
+     "typeDesc": "A key Sea Battle building. Capturing the enemy base wins instantly; allied fleets can garrison it for defense.",
+     "buildEffect": "Key Sea Battle Building"
+    },
+    {
+     "id": "15",
+     "typeName": "Basic Stronghold",
+     "typeDesc": "Raises the Defense of fleets garrisoned in the outpost; can be converted into other outpost types.",
+     "buildEffect": "Normal Outpost;Can be upgraded to an advanced outpost"
+    },
+    {
+     "id": "53",
+     "typeName": "Command Outpost",
+     "typeDesc": "A conversion of the basic outpost that raises garrisoned fleets' Attack, and also gives this effect to the first connected allied normal outpost.",
+     "buildEffect": "Buff Outpost;Can strengthen the first connected outpost"
+    },
+    {
+     "id": "54",
+     "typeName": "Recovery Outpost",
+     "typeDesc": "A conversion of the basic outpost that restores garrisoned fleets' HP every second; doesn't stack with other HP regen effects.",
+     "buildEffect": "Recovery Outpost;Restores HP of garrisoned fleets"
+    },
+    {
+     "id": "18",
+     "typeName": "Buff Outpost",
+     "typeDesc": "Gives fleets in the outpost a 90-second boost whose type changes randomly every minute: Attack, Defense, Speed, Crit or Accuracy up. Boosts don't stack",
+     "buildEffect": "Buff Outpost;Buffs garrisoned fleets"
+    },
+    {
+     "id": "56",
+     "typeName": "Fortress Outpost",
+     "typeDesc": "A conversion of the basic outpost; garrisoned fleets gain greatly increased Attack and Defense.",
+     "buildEffect": "Defense Outpost;Raises garrisoned fleets' Attack and Defense"
+    },
+    {
+     "id": "57",
+     "typeName": "Turret Outpost",
+     "typeDesc": "A conversion of the basic outpost that automatically attacks enemy warships on connected routes every 5 seconds for 20% of their max HP",
+     "buildEffect": "Ranged Attack Outpost;Attacks enemies on adjacent routes"
+    },
+    {
+     "id": "21",
+     "typeName": "Dock Outpost",
+     "typeDesc": "Every 60 seconds, produces a weak warship targeting the enemy HQ that explodes on death, dealing 10% of max HP to the enemy ships it fights",
+     "buildEffect": "Dock Outpost;Produces normal warships to attack enemies"
+    },
+    {
+     "id": "22",
+     "typeName": "Tsunami Cannon Outpost",
+     "typeDesc": "Every 5 seconds, automatically attacks all enemy warships on connected routes for 20% of their max HP",
+     "buildEffect": "Ranged Attack Outpost;Attacks all enemies on adjacent routes"
+    },
+    {
+     "id": "23",
+     "typeName": "Rally Outpost",
+     "typeDesc": "Allied players in the outpost can periodically rally up to 10 auto-played allies and send them to a chosen outpost",
+     "buildEffect": "Tactical Outpost;Rallies and dispatches auto-played players"
+    },
+    {
+     "id": "24",
+     "typeName": "Tailwind Outpost",
+     "typeDesc": "Once built, allied warships move twice as fast on all routes adjacent to the outpost",
+     "buildEffect": "Tactical Outpost;Raises allied movement speed on adjacent routes"
+    },
+    {
+     "id": "25",
+     "typeName": "Headwind Outpost",
+     "typeDesc": "Once built, enemy warships move at half speed on all routes adjacent to the outpost",
+     "buildEffect": "Tactical Outpost;Lowers enemy movement speed on adjacent routes"
+    },
+    {
+     "id": "26",
+     "typeName": "Advanced Dock Outpost",
+     "typeDesc": "Every 60 seconds, produces a fairly weak warship targeting the enemy HQ that becomes a temporary cannon outpost on entering an outpost and attacks enemies on adjacent routes.",
+     "buildEffect": "Dock Outpost;Produces powerful warships to attack enemies"
     }
    ]
   },
@@ -42563,6 +45906,120 @@
     }
    ]
   },
+  "TableUSFPromotion": {
+   "key_column": "id",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "desc": "A conversion of the basic outpost that raises garrisoned fleets' Attack, and also gives this effect to the first connected allied normal outpost."
+    },
+    {
+     "id": "2",
+     "desc": "A conversion of the basic outpost that restores garrisoned fleets' HP every second; doesn't stack with other HP regen effects."
+    },
+    {
+     "id": "3",
+     "desc": "A conversion of the basic outpost; garrisoned fleets gain greatly increased Attack and Defense."
+    },
+    {
+     "id": "4",
+     "desc": "A conversion of the basic outpost that automatically attacks enemy warships on connected routes every 5 seconds, dealing damage based on their max HP."
+    },
+    {
+     "id": "5",
+     "desc": "A conversion of the basic outpost that periodically produces time-limited normal warships to attack enemies."
+    },
+    {
+     "id": "6",
+     "desc": "A conversion of the basic outpost that automatically attacks all enemy warships on one connected route every 5 seconds, dealing damage based on their max HP."
+    },
+    {
+     "id": "7",
+     "desc": "A conversion of the basic outpost that rallies auto-played player ships here, then charges other outposts."
+    },
+    {
+     "id": "8",
+     "desc": "A conversion of the basic outpost; players' ships move faster on routes connected to it."
+    },
+    {
+     "id": "9",
+     "desc": "A conversion of the basic outpost; enemy ships move slower on routes connected to it."
+    },
+    {
+     "id": "10",
+     "desc": "A conversion of the basic outpost that periodically produces time-limited powerful warships to attack enemies."
+    },
+    {
+     "id": "11",
+     "desc": "A conversion of the basic outpost that raises garrisoned fleets' Attack, and also gives this effect to the first connected allied normal outpost."
+    },
+    {
+     "id": "12",
+     "desc": "A conversion of the basic outpost that restores garrisoned fleets' HP every second; doesn't stack with other HP regen effects."
+    },
+    {
+     "id": "13",
+     "desc": "A conversion of the basic outpost; garrisoned fleets gain greatly increased Attack and Defense."
+    },
+    {
+     "id": "14",
+     "desc": "A conversion of the basic outpost that automatically attacks enemy warships on connected routes every 5 seconds, dealing damage based on their max HP."
+    },
+    {
+     "id": "15",
+     "desc": "A conversion of the basic outpost that periodically produces time-limited normal warships to attack enemies."
+    },
+    {
+     "id": "16",
+     "desc": "A conversion of the basic outpost that automatically attacks all enemy warships on one connected route every 5 seconds, dealing damage based on their max HP."
+    },
+    {
+     "id": "17",
+     "desc": "A conversion of the basic outpost that rallies auto-played player ships here, then charges other outposts."
+    },
+    {
+     "id": "18",
+     "desc": "A conversion of the basic outpost; players' ships move faster on routes connected to it."
+    },
+    {
+     "id": "19",
+     "desc": "A conversion of the basic outpost; enemy ships move slower on routes connected to it."
+    },
+    {
+     "id": "20",
+     "desc": "A conversion of the basic outpost that periodically produces time-limited powerful warships to attack enemies."
+    }
+   ]
+  },
+  "TableUSFRouteDetail": {
+   "key_column": "id",
+   "text_columns": [
+    "routeName",
+    "routeDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "routeName": "Normal Route",
+     "routeDesc": "The main routes of this sea area; sailing on them has no effect on warships"
+    },
+    {
+     "id": "2",
+     "routeName": "Fast Route",
+     "routeDesc": "The top two and bottom two routes of this sea area are fast routes, where warships sail much faster."
+    },
+    {
+     "id": "3",
+     "routeName": "Calm Belt Route",
+     "routeDesc": "The top two and bottom two routes of this sea area are Calm Belt routes, where ordinary ships can barely sail; only the Kuja Pirate Ship can pass."
+    }
+   ]
+  },
   "TableUnionBossTask": {
    "key_column": "id",
    "text_columns": [
@@ -42665,6 +46122,466 @@
     {
      "id": "24",
      "description": "Donquixote Doflamingo Phase 8"
+    }
+   ]
+  },
+  "TableUnionSLGDeclareWarCopy": {
+   "key_column": "id",
+   "text_columns": [
+    "copyName",
+    "copyText"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "11001",
+     "copyName": "Defenders Floor 1",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11002",
+     "copyName": "Defenders Floor 2",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11003",
+     "copyName": "Defenders Floor 3",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11004",
+     "copyName": "Defenders Floor 4",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11005",
+     "copyName": "Defenders Floor 5",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11006",
+     "copyName": "Defenders Floor 1",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11007",
+     "copyName": "Defenders Floor 2",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11008",
+     "copyName": "Defenders Floor 3",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11009",
+     "copyName": "Defenders Floor 4",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11010",
+     "copyName": "Defenders Floor 5",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11011",
+     "copyName": "Defenders Floor 6",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11012",
+     "copyName": "Defenders Floor 7",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11013",
+     "copyName": "Defenders Floor 8",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11014",
+     "copyName": "Defenders Floor 1",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11015",
+     "copyName": "Defenders Floor 2",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11016",
+     "copyName": "Defenders Floor 3",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11017",
+     "copyName": "Defenders Floor 4",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11018",
+     "copyName": "Defenders Floor 5",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11019",
+     "copyName": "Defenders Floor 6",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11020",
+     "copyName": "Defenders Floor 7",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11021",
+     "copyName": "Defenders Floor 8",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11022",
+     "copyName": "Defenders Floor 9",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11023",
+     "copyName": "Defenders Floor 10",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11024",
+     "copyName": "Defenders Floor 1",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11025",
+     "copyName": "Defenders Floor 2",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11026",
+     "copyName": "Defenders Floor 3",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11027",
+     "copyName": "Defenders Floor 4",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11028",
+     "copyName": "Defenders Floor 5",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11029",
+     "copyName": "Defenders Floor 6",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11030",
+     "copyName": "Defenders Floor 7",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11031",
+     "copyName": "Defenders Floor 8",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11032",
+     "copyName": "Defenders Floor 9",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11033",
+     "copyName": "Defenders Floor 10",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11034",
+     "copyName": "Defenders Floor 11",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11035",
+     "copyName": "Defenders Floor 12",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11036",
+     "copyName": "Defenders Floor 13",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11037",
+     "copyName": "Defenders Floor 14",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    },
+    {
+     "id": "11038",
+     "copyName": "Defenders Floor 15",
+     "copyText": "*Clear all defender stages to reduce the defenders' numbers"
+    }
+   ]
+  },
+  "TableUnionSLGSetCopyIsland": {
+   "key_column": "id",
+   "text_columns": [
+    "copyName",
+    "copyText"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "11001",
+     "copyName": "Stage 1",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11002",
+     "copyName": "Stage 2",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11003",
+     "copyName": "Stage 3",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11004",
+     "copyName": "Stage 4",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11005",
+     "copyName": "Stage 5",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11006",
+     "copyName": "Stage 1",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11007",
+     "copyName": "Stage 2",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11008",
+     "copyName": "Stage 3",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11009",
+     "copyName": "Stage 4",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11010",
+     "copyName": "Stage 5",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11011",
+     "copyName": "Stage 1",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11012",
+     "copyName": "Stage 2",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11013",
+     "copyName": "Stage 3",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11014",
+     "copyName": "Stage 4",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11015",
+     "copyName": "Stage 5",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11016",
+     "copyName": "Stage 1",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11017",
+     "copyName": "Stage 2",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11018",
+     "copyName": "Stage 3",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11019",
+     "copyName": "Stage 4",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11020",
+     "copyName": "Stage 5",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11021",
+     "copyName": "Stage 1",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11022",
+     "copyName": "Stage 2",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11023",
+     "copyName": "Stage 3",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11024",
+     "copyName": "Stage 4",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11025",
+     "copyName": "Stage 5",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11026",
+     "copyName": "Stage 1",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11027",
+     "copyName": "Stage 2",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11028",
+     "copyName": "Stage 3",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11029",
+     "copyName": "Stage 4",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11030",
+     "copyName": "Stage 5",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11031",
+     "copyName": "Stage 1",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11032",
+     "copyName": "Stage 2",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11033",
+     "copyName": "Stage 3",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11034",
+     "copyName": "Stage 4",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11035",
+     "copyName": "Stage 5",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11036",
+     "copyName": "Stage 1",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11037",
+     "copyName": "Stage 2",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11038",
+     "copyName": "Stage 3",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11039",
+     "copyName": "Stage 4",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11040",
+     "copyName": "Stage 5",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11041",
+     "copyName": "Stage 6",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11042",
+     "copyName": "Stage 7",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11043",
+     "copyName": "Stage 8",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11044",
+     "copyName": "Stage 9",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11045",
+     "copyName": "Stage 10",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11046",
+     "copyName": "Stage 11",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11047",
+     "copyName": "Stage 12",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11048",
+     "copyName": "Stage 13",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11049",
+     "copyName": "Stage 14",
+     "copyText": "*Clear the stage to claim the reward"
+    },
+    {
+     "id": "11050",
+     "copyName": "Stage 15",
+     "copyText": "*Clear the stage to claim the reward"
     }
    ]
   },
@@ -42851,6 +46768,21 @@
      "place": "A Marine swordswoman whose superb swordsmanship belies her cute looks. Her powerful all-target damage skills can easily kill fragile characters."
     },
     {
+     "id": "11",
+     "name": "Mr.1",
+     "place": "A Baroque Works agent who ate the Dice-Dice Fruit. He can slash with any part of his body, and his hard body gives him strong defense."
+    },
+    {
+     "id": "12",
+     "name": "Mr.2",
+     "place": "A Baroque Works agent with a man's body and a maiden's heart. He excels at Okama Kenpo kicks, and his swan shoes make his kicks even more destructive."
+    },
+    {
+     "id": "13",
+     "name": "Mr.3",
+     "place": "A Baroque Works agent who ate the Melting Fruit. The wax he makes is harder than steel, and anyone bound by his candle wax is greatly slowed."
+    },
+    {
      "id": "14",
      "name": "Bellamy",
      "place": "Captain of the Bellamy Pirates, user of the Spring Fruit. He can turn any part of his body into springs. His high-speed charge after compressing them easily stuns opponents and deals heavy damage."
@@ -42939,10 +46871,292 @@
      "id": "31",
      "name": "Garp",
      "place": "A legendary Marine Vice Admiral, the man who drove Pirate King Roger to the brink. No defense holds up against his Haki-clad fists. He's also extremely carefree and may suddenly fall asleep mid-battle, but don't underestimate his strength because of it!"
+    },
+    {
+     "id": "32",
+     "name": "Gecko Moria",
+     "place": "A shadow-manipulating Devil Fruit user and ruler of Thriller Bark! One of the Seven Warlords, said to have once been a match for Kaido of the \"Four Emperors\"."
+    },
+    {
+     "id": "33",
+     "name": "Eustass Kid",
+     "place": "A former Supernova who landed on the Sabaody Archipelago along with Luffy and Zoro. Known for his cruelty, he ruthlessly eliminates anyone in his way."
+    },
+    {
+     "id": "34",
+     "name": "Sentomaru",
+     "place": "Former head of the Marine HQ Science Unit. He leads the \"Pacifista\" and calls himself the \"World's Tightest-Lipped Man\"!!"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "28/34 rows translated so far"
+   "other_bundle_rows": []
+  },
+  "TabletrialEnemyInfo": {
+   "key_column": "id",
+   "text_columns": [
+    "describe"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "describe": "Goes berserk on turn 4, all damage +200%."
+    },
+    {
+     "id": "2",
+     "describe": "Becomes invincible after acting, until the end of the turn."
+    },
+    {
+     "id": "3",
+     "describe": "All of Sugar's Toys instantly heal to full when damaged."
+    },
+    {
+     "id": "4",
+     "describe": "While Trebol stands in front of Sugar, he has high damage reduction and Sugar is invincible."
+    },
+    {
+     "id": "5",
+     "describe": "After Trebol dies, Sugar goes berserk and all her damage rises."
+    },
+    {
+     "id": "6",
+     "describe": "Oven is immune to control, and from turn 1, deals heavy damage to all every three turns"
+    },
+    {
+     "id": "7",
+     "describe": "Katakuri is immune to control. On odd turns, his skills clear the target's shield; if the target has no shield, they're stunned through immunity until the end of their next action"
+    },
+    {
+     "id": "8",
+     "describe": "Immune to control. Each element of damage taken gives a matching element mark; three different marks cause Weakness. If Weakness and Note Bind are both present, takes 15% max HP as damage and clears Weakness and the marks"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "9",
+     "describe": "High HP; gains a shield each turn."
+    },
+    {
+     "id": "10",
+     "describe": "Skills cost Soul Jade and Rage"
+    },
+    {
+     "id": "11",
+     "describe": "Skills cost Soul Jade and Rage"
+    },
+    {
+     "id": "12",
+     "describe": "Gains high Attack on turn 1"
+    },
+    {
+     "id": "13",
+     "describe": "Gains high Attack on turn 2"
+    },
+    {
+     "id": "14",
+     "describe": "Gains high Attack on turn 3"
+    },
+    {
+     "id": "15",
+     "describe": "Defense greatly raised above 70% HP"
+    },
+    {
+     "id": "16",
+     "describe": "High Defense"
+    },
+    {
+     "id": "17",
+     "describe": "From turn 4, gains lots of Attack each turn"
+    },
+    {
+     "id": "19",
+     "describe": "Extremely high damage; use the right skills to take it out instantly"
+    },
+    {
+     "id": "20",
+     "describe": "Extremely high damage; use skills at the right moment"
+    },
+    {
+     "id": "21",
+     "describe": "Tough Marine soldiers and an even tougher captain"
+    },
+    {
+     "id": "22",
+     "describe": "How do you like attacks tailored just for you?"
+    },
+    {
+     "id": "23",
+     "describe": "Marine soldiers with big bursts on turn 3"
+    },
+    {
+     "id": "24",
+     "describe": "A Marine soldier who specializes in HP"
+    },
+    {
+     "id": "25",
+     "describe": "A group of ordinary Marine soldiers"
+    },
+    {
+     "id": "26",
+     "describe": "A group of hot-headed Marine soldiers. Kill them quickly"
+    },
+    {
+     "id": "27",
+     "describe": "A group of Marine soldiers who slack on training"
+    },
+    {
+     "id": "28",
+     "describe": "Marine soldiers you can take out one by one"
+    },
+    {
+     "id": "29",
+     "describe": "A group of Marine soldiers with defenses"
+    },
+    {
+     "id": "30",
+     "describe": "A group of Marine soldiers standing in line"
+    },
+    {
+     "id": "31",
+     "describe": "A Marine soldier who heals"
+    },
+    {
+     "id": "32",
+     "describe": "A group of Marine soldiers who burst together on turn 2"
+    },
+    {
+     "id": "33",
+     "describe": "A group of Marine soldiers"
+    },
+    {
+     "id": "34",
+     "describe": "A group of Marine soldiers"
+    },
+    {
+     "id": "35",
+     "describe": "One defensive and one offensive Marine soldier"
+    },
+    {
+     "id": "36",
+     "describe": "A group of Marine soldiers"
+    },
+    {
+     "id": "37",
+     "describe": "A tough Marine soldier"
+    },
+    {
+     "id": "38",
+     "describe": "A few Marine soldiers whose attacks inflict debuffs"
+    },
+    {
+     "id": "39",
+     "describe": "Plain old Marine soldiers"
+    },
+    {
+     "id": "40",
+     "describe": "Plain old Marine soldiers"
+    },
+    {
+     "id": "41",
+     "describe": "Marine soldiers you need to beat with the right skills"
+    },
+    {
+     "id": "42",
+     "describe": "An ordinary Marine"
+    },
+    {
+     "id": "43",
+     "describe": "A group of ordinary Marines"
+    },
+    {
+     "id": "44",
+     "describe": "Marine elites and Marines"
+    },
+    {
+     "id": "45",
+     "describe": "A lone Marine"
+    },
+    {
+     "id": "46",
+     "describe": "A Marine elite"
+    },
+    {
+     "id": "47",
+     "describe": "A Marine squad led by a powerful Marine captain"
+    },
+    {
+     "id": "48",
+     "describe": "Solo Training"
+    },
+    {
+     "id": "49",
+     "describe": "Marine Training"
+    },
+    {
+     "id": "50",
+     "describe": "Mock Battle"
+    },
+    {
+     "id": "51",
+     "describe": "An arsonist pirate"
+    },
+    {
+     "id": "52",
+     "describe": "A squad of elite pirates"
+    },
+    {
+     "id": "53",
+     "describe": "A squad of pirates with tired eyes"
+    },
+    {
+     "id": "54",
+     "describe": "A squad of ordinary Marines"
+    },
+    {
+     "id": "55",
+     "describe": "Marine elites and Marines"
+    },
+    {
+     "id": "56",
+     "describe": "Use the weak Marines to defeat the Marine captain"
+    },
+    {
+     "id": "57",
+     "describe": "A squad of ordinary Marines"
+    },
+    {
+     "id": "58",
+     "describe": "A pair of Marines good at attacking but bad at long fights"
+    },
+    {
+     "id": "59",
+     "describe": "A squad of tough Marines"
+    },
+    {
+     "id": "60",
+     "describe": "A squad of ordinary Marines"
+    },
+    {
+     "id": "61",
+     "describe": "A squad of Marines afraid of crits"
+    },
+    {
+     "id": "62",
+     "describe": "A pair of fierce Marines who only attack the target in front of them"
+    },
+    {
+     "id": "101",
+     "describe": "A few sparring pirates"
+    },
+    {
+     "id": "102",
+     "describe": "Some sparring pirates"
+    },
+    {
+     "id": "103",
+     "describe": "Lots of sparring pirates"
+    }
+   ]
   }
  },
  "glossary_additions": {},
