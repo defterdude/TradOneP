@@ -13903,12 +13903,2056 @@
      "text": "Escape the Sabaody Archipelago"
     },
     {
+     "id": "RaidRunMap_4205",
+     "text": "Escape the Amazon warriors"
+    },
+    {
+     "id": "RaidRunMap_4209",
+     "text": "Follow Buggy to find the entrance to Level 3"
+    },
+    {
+     "id": "RaidRunMap_4310",
+     "text": "Meet up with Buggy and Mr.3"
+    },
+    {
+     "id": "RaidRunMap_4612",
+     "text": "Escape Impel Down"
+    },
+    {
+     "id": "RaidRunMap_4614",
+     "text": "Meet up with Mr.2 and the others at the gate"
+    },
+    {
+     "id": "RaidRunMap_4615",
+     "text": "Seize a Marine warship"
+    },
+    {
+     "id": "RaidRunMap_4723",
+     "text": "Cross the battlefield to reach Little Oars Jr."
+    },
+    {
+     "id": "RaidRunMap_4810",
+     "text": "Charge the execution platform to save Ace"
+    },
+    {
+     "id": "PlotAdventure_300001",
+     "text": "Defeat the pirates invading the town"
+    },
+    {
+     "id": "PlotAdventure_300002",
+     "text": "Find the scheming pirates"
+    },
+    {
+     "id": "PlotAdventure_300005",
+     "text": "Wipe out the resistance in the royal capital"
+    },
+    {
+     "id": "PlotAdventure_300007",
+     "text": "Find the historical text"
+    },
+    {
+     "id": "hzplayback_01",
+     "text": "No Sea Battles to replay yet"
+    },
+    {
+     "id": "Fashion_Unlock_Tip",
+     "text": "Spend {0}x{1} to unlock costume {2}?"
+    },
+    {
+     "id": "ExitBattleTitle",
+     "text": "Leave Battle"
+    },
+    {
+     "id": "TurnCast1",
+     "text": "Cost <color=#FFF000FF>1</color>"
+    },
+    {
+     "id": "TurnCast5",
+     "text": "Cost <color=#FFF000FF>5</color>"
+    },
+    {
+     "id": "UnionDeclarwarNoItemsTips",
+     "text": "No guilds available to declare war on"
+    },
+    {
+     "id": "CompletedMySharedPlayerInfo",
+     "text": "Captains who completed your shared order"
+    },
+    {
+     "id": "PageOpenRule_1",
+     "text": "Can't do this while in a team"
+    },
+    {
+     "id": "uf_icon_Name_WaitFight",
+     "text": "Sea Battle Pending"
+    },
+    {
+     "id": "uf_icon_Name_WaitFight_Desc",
+     "text": "Your guild's Sea Battle hasn't started yet. Please wait"
+    },
+    {
+     "id": "ReadyFight",
+     "text": "Get Ready"
+    },
+    {
+     "id": "DeclareWar_HoldTime",
+     "text": "Your guild has already been challenged by another guild in this time slot. Can't select it."
+    },
+    {
+     "id": "OpenDeclareWarTips",
+     "text": "War declaration isn't unlocked"
+    },
+    {
+     "id": "UnionDeclarwarNoEnemyTips",
+     "text": "No enemy guilds to declare war on"
+    },
+    {
+     "id": "FormationNumMax",
+     "text": "No more characters can be deployed in this battle"
+    },
+    {
+     "id": "info_changeUnionName",
+     "text": "Change Guild Name"
+    },
+    {
+     "id": "info_enterNewName",
+     "text": "Enter a new name:"
+    },
+    {
+     "id": "info_changeUnionCard",
+     "text": "Guild Rename Card"
+    },
+    {
+     "id": "UnionNameNotIsNullOrEmpty",
+     "text": "The new guild name can't be empty"
+    },
+    {
+     "id": "OldAndNewNameNotSame",
+     "text": "The new guild name must differ from the old one"
+    },
+    {
+     "id": "ModifyUnionNameTips",
+     "text": "Only the guild leader can rename the guild!!"
+    },
+    {
+     "id": "Max_Up_Hero",
+     "text": "Up to {0} characters can be deployed in this mode"
+    },
+    {
+     "id": "ReUnionNameSuccess",
+     "text": "Guild renamed!"
+    },
+    {
+     "id": "BF2SwipWarn",
+     "text": "Sweep unlocks after clearing the stage with 3 stars"
+    },
+    {
+     "id": "ModifyUnionNameCostTips",
+     "text": "Not enough Guild Rename Cards. Go to the Shop to buy some?"
+    },
+    {
+     "id": "shipTrade_underway",
+     "text": "Sailing"
+    },
+    {
+     "id": "Limite_Reset_Tip",
+     "text": "Use              X{0} to reset the Extreme Challenge\\n\\n(Resets left today: {1}/{2})"
+    },
+    {
+     "id": "CommonUseItemTips",
+     "text": "No more {0}"
+    },
+    {
+     "id": "CommonUseItemMaxTips",
+     "text": "Max addable attempts reached"
+    },
+    {
+     "id": "Limit_Fight_Confirm",
+     "text": "Meet the conditions below for extra rewards\\n{0}\\n\\nContinue the challenge?"
+    },
+    {
+     "id": "Plot_Challenge_Prev_Not_Finished",
+     "text": "Available after completing Chapter {0}"
+    },
+    {
+     "id": "Plot_Challenge_Time_Not_Reached",
+     "text": "Available in {0} days"
+    },
+    {
+     "id": "BoardExpend",
+     "text": "Cost per flip:"
+    },
+    {
+     "id": "refreshStartReward",
+     "text": "Refresh Rewards"
+    },
+    {
+     "id": "ShipTradingOrder",
+     "text": "Orders in progress:"
+    },
+    {
+     "id": "ShipTradingTodayOrder",
+     "text": "Orders today:"
+    },
+    {
+     "id": "item_lxjf",
+     "text": "Voyage Points"
+    },
+    {
+     "id": "item_desc_lxjf",
+     "text": "Earned in Voyage Adventure. Claim rewards after earning enough points"
+    },
+    {
+     "id": "CRecharge_Text1",
+     "text": "Top up <color=#BA5714FF><size=20>{0}</size></color> Rainbow Diamonds to claim: <color=#79542CFF><size=18>{1}</size></color><color=#563720FF><size=18> Rainbow Diamonds</size></color>"
+    },
+    {
+     "id": "CRecharge_Text2",
+     "text": "Top up on <color=#BA5714>{0}</color> days in total (<color=#BA5714>{1}</color> so far) to claim the grand prize"
+    },
+    {
+     "id": "Union_repairContribution",
+     "text": "Guild Contribution:"
+    },
+    {
+     "id": "Union_repairNumber",
+     "text": "Repair Points:"
+    },
+    {
+     "id": "UFRepairTitle",
+     "text": "Guild Repairs"
+    },
+    {
+     "id": "UADonateRankTitle",
+     "text": "Repair Ranking"
+    },
+    {
+     "id": "UADonate_repairNum",
+     "text": "Repair Points"
+    },
+    {
+     "id": "Dominate_Formation_Info",
+     "text": "Choose characters to deploy for this battle. Characters must be Lv{0}"
+    },
+    {
+     "id": "reward_Text",
+     "text": "Claimed"
+    },
+    {
+     "id": "share_Text",
+     "text": "Shared"
+    },
+    {
+     "id": "mysticalTrade_text",
+     "text": "Not enough Intel"
+    },
+    {
+     "id": "HerbPick",
+     "text": "Herb Gathering"
+    },
+    {
+     "id": "HerbPickType",
+     "text": "Type: Herb Dismantling"
+    },
+    {
+     "id": "HerbPickDesc",
+     "text": "Auto-gather in this area. Herbs in the area are gathered at random"
+    },
+    {
+     "id": "MaterialPick",
+     "text": "Material Gathering"
+    },
+    {
+     "id": "MaterialPickType",
+     "text": "Type: Material Dismantling"
+    },
+    {
+     "id": "MaterialPickDesc",
+     "text": "Auto-gather in this area. Materials in the area are gathered at random"
+    },
+    {
+     "id": "GetCard",
+     "text": "Get Cards"
+    },
+    {
+     "id": "Refresh_Task",
+     "text": "Quests refresh daily at <color=#cb4c00>0:00</color>"
+    },
+    {
+     "id": "Limit_Swip_Tip",
+     "text": "You can sweep stages {0} to {1}\\nCost: {2}\\nSweep now?"
+    },
+    {
+     "id": "MysticalReward",
+     "text": "Mystery Reward"
+    },
+    {
+     "id": "SetSail",
+     "text": "Set Sail All"
+    },
+    {
+     "id": "RefreshOrderTime",
+     "text": "Orders refresh in:"
+    },
+    {
+     "id": "VoyageAdventure_Tip",
+     "text": "*Voyage Adventure has two parts: Story Challenge and Extreme Challenge.\\n*Extreme Challenge: challenge each stage in order to earn rewards; more stars mean better rewards. \\nStages: you can retry a failed stage; cleared stages can't be repeated until you reset the Extreme Challenge, which reopens all stages. \\nSweep All: after clearing stage 1 with three stars, you can sweep all consecutive three-star stages after it. *Story Challenge: accept quests in Story Challenge and complete them for rewards. Quests must be accepted and completed in order."
+    },
+    {
+     "id": "ShipTrade_NotHaveIdleShips",
+     "text": "No idle ships right now"
+    },
+    {
+     "id": "ShipTrade_NotHaveEnoughFood",
+     "text": "No ships currently meet the supply requirement"
+    },
+    {
+     "id": "ShipTrade_OnGoOut",
+     "text": "{0} has set sail"
+    },
+    {
+     "id": "ShipTrade_Done_tips",
+     "text": "All trade orders complete. Please wait for the refresh"
+    },
+    {
+     "id": "RefreshLuckyCardNoMoreTimes",
+     "text": "Card refresh limit reached"
+    },
+    {
+     "id": "RefreshLuckyCardTip",
+     "text": "Spend {0} Rainbow Diamonds to refresh all card rewards\\nRefresh now?\\n \\nRefreshes left today {1}/{2}"
+    },
+    {
+     "id": "Mystical_Check_Trade",
+     "text": "View Orders"
+    },
+    {
+     "id": "Mystical_Trade_Progress",
+     "text": "Accumulate <color=#c66a24> {0} </color> Intel to claim the <color=#c66a24>Mystery Reward</color>"
+    },
+    {
+     "id": "TradeShipSpeed50",
+     "text": "Slow"
+    },
+    {
+     "id": "TradeShipSpeed200",
+     "text": "Fast"
+    },
+    {
+     "id": "TradeShipSpeed300",
+     "text": "Very Fast"
+    },
+    {
+     "id": "Name_Build",
+     "text": "Create Character"
+    },
+    {
+     "id": "LuckCardTitle",
+     "text": "Flip <color=#BA5714FF>two matching</color> cards to win a reward"
+    },
+    {
+     "id": "LimitFight_LvCantFight_Cleared",
+     "text": "Cleared. Can't enter again"
+    },
+    {
+     "id": "LimitFight_LvCantFight_NotOpen",
+     "text": "Clear the previous stage first"
+    },
+    {
+     "id": "NauticalMile",
+     "text": "nmi"
+    },
+    {
+     "id": "LuckyCardTrunTip",
+     "text": "Not enough to flip"
+    },
+    {
+     "id": "LuckyCardExplain",
+     "text": "*Choose the number of flips for each round first, then tap Flip to start. You can't add flips during the round, and it ends once all flips are used.\\n*Each round offers 10 cards to flip. Every card holds an item reward, which you get when you flip it.\\n*Each round's rewards are randomly drawn from the reward pool."
+    },
+    {
+     "id": "MySticalTradeDoneTip",
+     "text": "All Intel rewards claimed this week. Come back next week, Captain."
+    },
+    {
+     "id": "FinishOrderNumber",
+     "text": "Today's trade order progress:"
+    },
+    {
+     "id": "AddShipTradeInfVal",
+     "text": "Intel: <color=#b03900ff>{0}</color>"
+    },
+    {
+     "id": "Information_Value_Spillover",
+     "text": "Claiming will overflow {0} Intel. Continue?"
+    },
+    {
+     "id": "Fight_LeveUp",
+     "text": "Lineup Upgrade"
+    },
+    {
+     "id": "charcator_r",
+     "text": "R Characters"
+    },
+    {
+     "id": "charcator_sr",
+     "text": "SR Characters"
+    },
+    {
+     "id": "charcator_ssr",
+     "text": "SSR Characters"
+    },
+    {
+     "id": "charcator_ur",
+     "text": "UR Characters"
+    },
+    {
+     "id": "charcator_plot",
+     "text": "Story Characters"
+    },
+    {
+     "id": "Remove_Sub",
+     "text": "Remove"
+    },
+    {
+     "id": "Formation_Sub_Unlock",
+     "text": "Support Slot {0} unlocked"
+    },
+    {
+     "id": "Formation_Upgrade_Team_Add",
+     "text": "Team-wide increase"
+    },
+    {
+     "id": "Formation_Sub_Reach_Lv",
+     "text": "Formation reaches Lv."
+    },
+    {
+     "id": "Formation_Upgrade_Team_Mul",
+     "text": "Team-wide boost"
+    },
+    {
+     "id": "UnlockConditionDes",
+     "text": "{0} reaches {1}"
+    },
+    {
+     "id": "Formation_Prop",
+     "text": "Lineup Stats:"
+    },
+    {
+     "id": "Formation_Sub_Prop",
+     "text": "Support Stats:"
+    },
+    {
+     "id": "Formation_Array_Exp",
+     "text": "Formation EXP:"
+    },
+    {
+     "id": "Formation_Upgrade_Team_Add_M",
+     "text": "Team-wide decrease"
+    },
+    {
+     "id": "Formation_Upgrade_Team_Mul_M",
+     "text": "Team-wide reduction"
+    },
+    {
+     "id": "SubMemberIsNull",
+     "text": "Support lineup is empty. Add support characters first"
+    },
+    {
+     "id": "Is_Sub_Unit",
+     "text": "Assisting"
+    },
+    {
+     "id": "Formation_effect",
+     "text": "Assist Effect"
+    },
+    {
+     "id": "BF_Formation_Warn",
+     "text": "There are empty assist slots. Continue the battle anyway? (Assist slots empty)"
+    },
+    {
+     "id": "BF_Formation_Warn0",
+     "text": "Don't remind me again this Blood Battle run"
+    },
+    {
+     "id": "SubIsLock_Tips",
+     "text": "This assist slot isn't unlocked. Go upgrade the formation to unlock it?"
+    },
+    {
+     "id": "SubCellNotUse",
+     "text": "This slot can't be used"
+    },
+    {
+     "id": "heroIsSubBattleHero",
+     "text": "This character is supporting and can't be deployed"
+    },
+    {
+     "id": "GoToSub_Tips",
+     "text": "This formation has no support characters. Add some?"
+    },
+    {
+     "id": "HeroAssistExp",
+     "text": "*Formations can be upgraded; each level opens one support slot.*Formations come in different qualities, with different max levels and max support slots: <color=#D0D0D0>White</color>-1, <color=#00DB00>Green</color>-2, <color=#0066CC>Blue</color>-3, <color=#BF0060>Purple</color>-4, <color=#C6A300>Orange</color>-5.*Upgrade formations with items such as <color=#D9006C>EXP Scrolls</color>, <color=#D9006C>Skill Books</color>, <color=#D9006C>Breakthrough Materials</color> and <color=#D9006C>Affinity Materials</color>; upgrades also cost some Gold Bars."
+    },
+    {
+     "id": "PlayerReturnChargeTabName",
+     "text": "Returner Top-Up"
+    },
+    {
+     "id": "uf_formation_name",
+     "text": "Fleet {0}"
+    },
+    {
+     "id": "Sub_Tips_Tietle",
+     "text": "Assist Tips"
+    },
+    {
+     "id": "Sub_Formation_NotFilled",
+     "text": "Your assist lineup isn't full. Leave this screen?"
+    },
+    {
+     "id": "item_taigang",
+     "text": "Titanium Steel"
+    },
+    {
+     "id": "item_taigang_desc",
+     "text": "Obtained by dismantling equipment; exchange it for items at the Equipment Workshop Exchange Shop"
+    },
+    {
+     "id": "equipDrawOne",
+     "text": "Draw 1"
+    },
+    {
+     "id": "equipDrawTen",
+     "text": "Draw 10"
+    },
+    {
+     "id": "EquipLuckDrawTabName",
+     "text": "Titanium Steel Exchange"
+    },
+    {
+     "id": "EquipLuckDrawVolone_60",
+     "text": "Not enough Basic Equipment Tickets. Spend {0} Rainbow Diamonds to buy {1} Basic Equipment Tickets?"
+    },
+    {
+     "id": "EquipLuckDrawVolone_80",
+     "text": "Not enough Mid Equipment Tickets. Spend {0} Rainbow Diamonds to buy {1} Mid Equipment Tickets?"
+    },
+    {
+     "id": "EquipLuckDrawVolone_100",
+     "text": "Not enough Advanced Equipment Tickets. Spend {0} Rainbow Diamonds to buy {1} Advanced Equipment Tickets?"
+    },
+    {
+     "id": "ResolveGetNumber",
+     "text": "Dismantling gives:"
+    },
+    {
+     "id": "ResolveResidueDegree",
+     "text": "Dismantles left:"
+    },
+    {
+     "id": "EquipNoResolve",
+     "text": "No items to dismantle"
+    },
+    {
+     "id": "Sub_Formation_None",
+     "text": "Support lineup is empty"
+    },
+    {
+     "id": "equip_Draw_80",
+     "text": "Mid Equipment"
+    },
+    {
+     "id": "Activity_oppoTime",
+     "text": "Resets at 0:00 on the 1st of each month"
+    },
+    {
+     "id": "ShipTrade_RewardTip",
+     "text": "Order completion limit reached. Claim your rewards before taking more orders!"
+    },
+    {
+     "id": "Finished_Trade_Count",
+     "text": "Orders completed:"
+    },
+    {
+     "id": "equipCanNotDecompose",
+     "text": "This equipment can't be dismantled"
+    },
+    {
+     "id": "countLess",
+     "text": "Not enough uses left"
+    },
+    {
+     "id": "decomposeEnsure",
+     "text": "Some refined equipment is being dismantled. You can keep the refine level by inheriting it first; dismantling directly will lose it for good. Continue?"
+    },
+    {
+     "id": "EquipDecomposeExplain",
+     "text": "*Dismantle: dismantled equipment can't be restored. Dismantling gives Titanium Steel; higher level and quality give more. Exchange Titanium Steel for in-game items at the Exchange Shop.\\n*Quick Dismantle: quickly select and dismantle matching equipment. Refined, socketed or gem-set equipment can't be quick-dismantled.\\n*Dismantle uses: each piece dismantled uses one; at 0 you can't dismantle more. Prioritize high-quality equipment for the best value!\\n*Can't dismantle: low-level, unappraised and gem-set equipment can't be dismantled. Appraise it or remove the gems first.\\n"
+    },
+    {
+     "id": "equip_Draw_n",
+     "text": "Lv{0} Draw"
+    },
+    {
+     "id": "Formation_Reach_MaxLevel",
+     "text": "This formation is at max level"
+    },
+    {
+     "id": "Activity_UnFinish",
+     "text": "To Do"
+    },
+    {
+     "id": "ResolveQuick_btn",
+     "text": "Quick Dismantle"
+    },
+    {
+     "id": "suithero",
+     "text": "Hero Set"
+    },
+    {
+     "id": "choosequickresolvequality",
+     "text": "Choose the equipment quality to quick-dismantle"
+    },
+    {
+     "id": "resolvenotrefinedquality",
+     "text": "(Dismantles unrefined equipment that isn't worn or preset)"
+    },
+    {
+     "id": "FormationTip_SubIsNotOpen",
+     "text": "Support unlocks at Lv60"
+    },
+    {
+     "id": "EquipLuckDrawExplain",
+     "text": "*In the Equipment Workshop, spend Equipment Tickets to draw equipment. Different levels cost different tickets. Equipment Tickets are available in the Rainbow Diamond Shop.\\n*The Equipment Workshop is only usable while the event runs. Equipment Tickets and Titanium Steel are kept and can be used the next time it opens."
+    },
+    {
+     "id": "ShenMiShopExplain",
+     "text": "*Gold Bar equipment purchase rates:\\nLv60 Weapon: Normal Loose Piece 55%, Hero Loose Piece 20%, Normal Set 20%, Hero Set 5%\\nLv60 Armor: Normal Loose Piece 55%, Hero Loose Piece 20%, Normal Set 20%, Hero Set 5%\\nLv60 Ring: Normal Loose Piece 55%, Hero Loose Piece 20%, Normal Set 20%, Hero Set 5%\\nLv60 Necklace: Normal Loose Piece 55%, Hero Loose Piece 20%, Normal Set 20%, Hero Set 5%\\nLv80 Weapon: Normal Loose Piece 96%, Hero Set 4%\\nLv80 Armor: Normal Loose Piece 96%, Hero Set 4%\\nLv80 Ring: Normal Loose Piece 96%, Hero Set 4%\\nLv80 Necklace: Normal Loose Piece 96%, Hero Set 4% *Blue Diamond equipment purchase rates:\\nLv60 Weapon: Hero Loose Piece 80%, Hero Set 20%\\nLv60 Armor: Hero Loose Piece 80%, Hero Set 20%\\nLv60 Ring: Hero Loose Piece 80%, Hero Set 20%\\nLv60 Necklace: Hero Loose Piece 80%, Hero Set 20%\\nLv80 Weapon: Hero Loose Piece 80%, Hero Set 20%\\nLv80 Armor: Hero Loose Piece 80%, Hero Set 20%\\nLv80 Ring: Hero Loose Piece 80%, Hero Set 20%\\nLv80 Necklace: Hero Loose Piece 80%, Hero Set 20%"
+    },
+    {
+     "id": "shop_limit_activity",
+     "text": "Event Limit:"
+    },
+    {
+     "id": "soulCardName_1",
+     "text": "Attack Soul"
+    },
+    {
+     "id": "soulCardName_2",
+     "text": "HP Soul"
+    },
+    {
+     "id": "soulCardName_3",
+     "text": "Defense Soul"
+    },
+    {
+     "id": "soulCardName_4",
+     "text": "Speed Soul"
+    },
+    {
+     "id": "soulCardDesc",
+     "text": "Socket a {0} Soul to raise the character's {1}"
+    },
+    {
+     "id": "soulCardName_5",
+     "text": "Crit Soul"
+    },
+    {
+     "id": "soulCardName_6",
+     "text": "Tenacity Soul"
+    },
+    {
+     "id": "soulCardName_7",
+     "text": "Evasion Soul"
+    },
+    {
+     "id": "soulCardName_8",
+     "text": "Accuracy Soul"
+    },
+    {
+     "id": "soulCardName_9",
+     "text": "Crit DMG Soul"
+    },
+    {
+     "id": "soulCardName_10",
+     "text": "Block Soul"
+    },
+    {
+     "id": "soulCardName_11",
+     "text": "Block Break Soul"
+    },
+    {
+     "id": "soulCardName_26",
+     "text": "Element Soul"
+    },
+    {
+     "id": "soulCardName_35",
+     "text": "Resistance Soul"
+    },
+    {
+     "id": "SoulCardExplain",
+     "text": "*Soul Infusion is a character enhancement system.\\nIt consists of obtaining Soul Cards and inheriting them.*Obtaining Soul Cards\\nOn the Soul Infusion screen, choose a character and tap \"Soul Search\" to draw a Soul Card of random quality.\\nEach draw costs one Golden Battle Soul.\\nSoul Cards come in over a dozen stat types such as Attack, Defense, HP and Speed, and five qualities: white, green, blue, purple and orange. Higher quality means higher stats.\\nCards of the same quality and stat vary slightly in value.\\nThe more you draw, the higher your chance of high-quality cards and the higher their random stat values.\\nSoul Search Scrolls from events and other sources can replace Golden Battle Souls for drawing Soul Cards.\\nTap a Soul Card to place it in a soul slot below the hero, giving that character its stat.\\nA hero can't hold two Soul Cards with the same stat.*Inheriting Soul Cards\\nA character with Soul Cards can pass them to another character.\\nNote: inheriting overwrites all of the recipient's Soul Cards, and the draw level is inherited too.\\nOn the inherit screen you can change both characters.\\nInheriting costs Blue Diamonds; the higher the card quality, the higher the cost."
+    },
+    {
+     "id": "inheritSoulCard",
+     "text": "After inheriting, the original Soul Cards will overwrite all of the recipient's Soul Card slots. Continue?"
+    },
+    {
+     "id": "soulCardOverride",
+     "text": "Replace {1} with {0}?"
+    },
+    {
+     "id": "soulChooseHero",
+     "text": "Choose the hero to inherit the Soul Cards"
+    },
+    {
+     "id": "soulButton",
+     "text": "Tap to choose"
+    },
+    {
+     "id": "soulCardCloseTips",
+     "text": "All unsocketed Soul Cards will disappear when you close this screen. Continue?"
+    },
+    {
+     "id": "drawCard",
+     "text": "Draw"
+    },
+    {
+     "id": "soulcardSame",
+     "text": "Only one Soul Card of each type is allowed"
+    },
+    {
+     "id": "soulcardcannotInherit",
+     "text": "Your character has no Soul Cards, so they can't be inherited"
+    },
+    {
+     "id": "soulCardFull",
+     "text": "Too many Soul Cards. Place or clear some before searching again"
+    },
+    {
+     "id": "moduleName_05",
+     "text": "Secret Book Dungeon"
+    },
+    {
+     "id": "moduleName_04",
+     "text": "Breakthrough Dungeon"
+    },
+    {
      "id": "moduleName_06",
      "text": "Labyrinth"
     },
     {
      "id": "moduleName_07",
      "text": "Mysterious Waters"
+    },
+    {
+     "id": "New_Lucky_Card_Hint",
+     "text": "You can't add flips after the game starts"
+    },
+    {
+     "id": "SweptTipsTitle",
+     "text": "Quick Battle Notice"
+    },
+    {
+     "id": "SweptTipsContent",
+     "text": "Quick Battle costs <sprite=6>×1. Continue?"
+    },
+    {
+     "id": "SweepPaperNotEnough",
+     "text": "Not enough Quick Challenge Tickets"
+    },
+    {
+     "id": "category_prop",
+     "text": "Trait Stats"
+    },
+    {
+     "id": "category_hole",
+     "text": "Sockets"
+    },
+    {
+     "id": "category_suit",
+     "text": "Lv{0} Equipment Set"
+    },
+    {
+     "id": "ACFightRecordNoneDec",
+     "text": "No battle records yet"
+    },
+    {
+     "id": "ACFightRecordWave",
+     "text": "Wave {0}"
+    },
+    {
+     "id": "noSoulCardNeedClear",
+     "text": "No Soul Cards to clear"
+    },
+    {
+     "id": "SoulCardClearTips",
+     "text": "Clear all Soul Cards? All unsocketed Soul Cards will disappear"
+    },
+    {
+     "id": "SoulCardBack",
+     "text": "Tap a blank area to go back"
+    },
+    {
+     "id": "soulcardLeftCount",
+     "text": "Soul Cards placeable: {0}/{1}"
+    },
+    {
+     "id": "partFind",
+     "text": "{0}% recovery"
+    },
+    {
+     "id": "resback_title",
+     "text": "Resource Recovery"
+    },
+    {
+     "id": "resback_all",
+     "text": "Recover All"
+    },
+    {
+     "id": "resback_count",
+     "text": "Recoveries left:"
+    },
+    {
+     "id": "resback_desc",
+     "text": "Recover some rewards from yesterday's missed events"
+    },
+    {
+     "id": "resback_money",
+     "text": "My Assets:"
+    },
+    {
+     "id": "soulMaster_Title",
+     "text": "Soul Infusion Master"
+    },
+    {
+     "id": "soulMaster_Lv",
+     "text": "Activate 4 green Soul Cards"
+    },
+    {
+     "id": "soulMaster_Lan",
+     "text": "Activate 4 blue Soul Cards"
+    },
+    {
+     "id": "soulMaster_Zi",
+     "text": "Activate 4 purple Soul Cards"
+    },
+    {
+     "id": "soulMaster_Cheng",
+     "text": "Activate 4 orange Soul Cards"
+    },
+    {
+     "id": "resbacked",
+     "text": "Recovered"
+    },
+    {
+     "id": "resExpTitle",
+     "text": "Returner EXP Boost"
+    },
+    {
+     "id": "resExpAward",
+     "text": "Returner bonus EXP:"
+    },
+    {
+     "id": "resExpGet",
+     "text": "EXP gain increased"
+    },
+    {
+     "id": "btn_getBack",
+     "text": "Returner Rewards"
+    },
+    {
+     "id": "ImpelDown07text1",
+     "text": "In\\nthe depths\\nof\\nHell"
+    },
+    {
+     "id": "ImpelDown07text2",
+     "text": "There\\nblooms\\na\\nflower\\nof\\nfriendship\\nso\\nfair\\nand true"
+    },
+    {
+     "id": "ImpelDown07text3",
+     "text": "The\\nwaves\\nrush\\npast"
+    },
+    {
+     "id": "ImpelDown07text4",
+     "text": "Leaving\\nonly\\nits\\nscattered\\npetals\\nbehind"
+    },
+    {
+     "id": "ImpelDown07text5",
+     "text": "But\\nsomeday\\nit\\nwill\\nsurely\\nburst\\ninto\\nfull\\nbloom\\nagain"
+    },
+    {
+     "id": "ImpelDown07text6",
+     "text": "This\\nis\\nthe\\nOkama Way"
+    },
+    {
+     "id": "WeChatShareTitle",
+     "text": "Invite Friends to Help"
+    },
+    {
+     "id": "WeChatShareContent",
+     "text": "After sharing, tap the share page to enter a draw for an official figure!"
+    },
+    {
+     "id": "WeChatShareYes",
+     "text": "Share with WeChat Friends"
+    },
+    {
+     "id": "WeChatShareNo",
+     "text": "Share to Moments"
+    },
+    {
+     "id": "NewLuckyCardProgressLevel_1",
+     "text": "One random item is doubled each round"
+    },
+    {
+     "id": "NewLuckyCardProgressLevel_2",
+     "text": "Each round has at least one rare item"
+    },
+    {
+     "id": "NewLuckyCardProgressLevel_3",
+     "text": "Each round has at least two rare items"
+    },
+    {
+     "id": "SeaTraderExplain",
+     "text": "You'll always get the chosen item when exploration finishes"
+    },
+    {
+     "id": "SeaTraderSetting",
+     "text": "Choose Voyage Settings"
+    },
+    {
+     "id": "SeaTraderSearchCommon",
+     "text": "Normal Search"
+    },
+    {
+     "id": "SeaTraderSearchExpert",
+     "text": "Advanced Search"
+    },
+    {
+     "id": "SeaExplore",
+     "text": "Explore Sea Area"
+    },
+    {
+     "id": "SeaExploreGoButton",
+     "text": "Dispatch Now"
+    },
+    {
+     "id": "SeaGetItem",
+     "text": "Chance to get these items:"
+    },
+    {
+     "id": "SeaOneTeam",
+     "text": "Only one team can explore a sea area at a time"
+    },
+    {
+     "id": "SeaTreatsure_CountDown",
+     "text": "Exploring"
+    },
+    {
+     "id": "AnniversaryFightDes",
+     "text": "Lineups can't be changed once confirmed, and characters already used can't be chosen again!"
+    },
+    {
+     "id": "EverydayReward",
+     "text": "Daily Rewards"
+    },
+    {
+     "id": "AnniversaryRewardButton",
+     "text": "Attack"
+    },
+    {
+     "id": "AnniversaryExpend",
+     "text": "Action Points Cost:"
+    },
+    {
+     "id": "AnniversaryReward",
+     "text": "Stage Rewards"
+    },
+    {
+     "id": "AnniversaryChooseTitle",
+     "text": "A clash of the elite is about to begin"
+    },
+    {
+     "id": "AnniversaryChooseTeam",
+     "text": "Join a fleet and start fighting"
+    },
+    {
+     "id": "TaskExecuteBtnText",
+     "text": "Auto-Select"
+    },
+    {
+     "id": "ShipTrade_OnKeyGetTips",
+     "text": "No quests with rewards to claim"
+    },
+    {
+     "id": "Skill_Distance",
+     "text": "Skill Range {0} tiles"
+    },
+    {
+     "id": "Skill_Range",
+     "text": "Skill Area {0} tiles"
+    },
+    {
+     "id": "Limited_Recuit_Exchange_Hint",
+     "text": "Exchange for {0}?"
+    },
+    {
+     "id": "formationNotComplete",
+     "text": "Formation isn't set. Set up your lineup and try again"
+    },
+    {
+     "id": "SeaTreasure_ExplorTitle",
+     "text": "Exploration Notice"
+    },
+    {
+     "id": "SeaTreasure_ExplorTips",
+     "text": "Opening this chest costs items. Continue?"
+    },
+    {
+     "id": "SeaTreasure_ReturnTips",
+     "text": "You haven't finished exploring. If you give up, your current Exploration Points won't be kept. Give up?"
+    },
+    {
+     "id": "UFSupplicationTitle",
+     "text": "Guild Wishes"
+    },
+    {
+     "id": "UFSupplicationBtn",
+     "text": "Wish"
+    },
+    {
+     "id": "UFSupplicationTime",
+     "text": "Donations left today:"
+    },
+    {
+     "id": "UFDonateTitle",
+     "text": "Shard Donation"
+    },
+    {
+     "id": "UFDonateText",
+     "text": "Wishes available today"
+    },
+    {
+     "id": "Hero_Dead_Cant_Join_Team",
+     "text": "This character has fallen and can't be deployed"
+    },
+    {
+     "id": "Hero_HP_Full",
+     "text": "HP is full!"
+    },
+    {
+     "id": "Heal_Times_Limited",
+     "text": "Recovery limit reached!"
+    },
+    {
+     "id": "SeaTreasure_PositionTips",
+     "text": "Can't reach this location"
+    },
+    {
+     "id": "Recruit_LimitTitle",
+     "text": "Limited Exchange Open"
+    },
+    {
+     "id": "Limited_Recuit_Has_Exchanged",
+     "text": "Exchanged"
+    },
+    {
+     "id": "Limited_Recuit_No_Hero_Select",
+     "text": "Please choose a character!"
+    },
+    {
+     "id": "Limited_Exhcange_Hint",
+     "text": "<color=#FFFFFF00>Indent</color>You've earned the right to exchange for a limited character. Exchange for the one you want in time; if you don't exchange before the period ends, you'll lose the right and can't get the character."
+    },
+    {
+     "id": "donatelog1",
+     "text": "<color=#ba5714>{0}</color> donated {2} <color=#623f25>{3}</color> to <color=#ba5714>{1}</color>"
+    },
+    {
+     "id": "UFSuppTips",
+     "text": "You're wishing for {1} {0}"
+    },
+    {
+     "id": "UFSuppTips1",
+     "text": "Wish for {1} {0}?"
+    },
+    {
+     "id": "Limit_Recruit_Cant_Exchange",
+     "text": "Not enough progress to exchange!"
+    },
+    {
+     "id": "All_Hero_Has_Exchanged",
+     "text": "All characters from this Limited Recruit have been exchanged!"
+    },
+    {
+     "id": "AnniversaryCapter",
+     "text": "(Only applies in this chapter)"
+    },
+    {
+     "id": "AnniversaryProItem",
+     "text": "Supplies found at the outpost. Choose:"
+    },
+    {
+     "id": "activeCardReceive",
+     "text": "Activate Commendation"
+    },
+    {
+     "id": "SeaMysteryScore",
+     "text": "Score:"
+    },
+    {
+     "id": "SeaShopPlayer",
+     "text": "Always recruits a character you don't own"
+    },
+    {
+     "id": "SeaShopShip",
+     "text": "Always builds a ship you don't own"
+    },
+    {
+     "id": "SeaShopEquipment",
+     "text": "Buy a random piece of equipment"
+    },
+    {
+     "id": "SeaShopTitle",
+     "text": "Shop"
+    },
+    {
+     "id": "itemSelectStyle",
+     "text": "Choose {0} items to exchange"
+    },
+    {
+     "id": "itemSelectStyleTextTip",
+     "text": "Choose the required number of items"
+    },
+    {
+     "id": "Union_Supplicaton_Tips",
+     "text": "Donate {2} {1} \\nto {0}? \\nYou own {3} of this hero's shards"
+    },
+    {
+     "id": "Union_Frag_NotEnough",
+     "text": "Not enough shards"
+    },
+    {
+     "id": "Union_UFSupplication",
+     "text": "Come make a shard wish!"
+    },
+    {
+     "id": "AnniversaryProTitle",
+     "text": "Outpost captured"
+    },
+    {
+     "id": "ExchangeHero",
+     "text": "Character Exchange"
+    },
+    {
+     "id": "UFSuppChoose",
+     "text": "Wish Selection"
+    },
+    {
+     "id": "SeaFormationRefreshTip",
+     "text": "All selectable equipment will be refreshed"
+    },
+    {
+     "id": "cannot_release_skill",
+     "text": "You can't use skills right now"
+    },
+    {
+     "id": "SeaSetSailTitle",
+     "text": "Voyage Results"
+    },
+    {
+     "id": "SeaSetSailLoot",
+     "text": "Raided by a pirate ship"
+    },
+    {
+     "id": "SeaGetRewardTiShi",
+     "text": "Rewards can be claimed after the voyage is settled"
+    },
+    {
+     "id": "GoOutExpend",
+     "text": "Voyage Cost:"
+    },
+    {
+     "id": "STBigMapShip1",
+     "text": "Pirate Ship"
+    },
+    {
+     "id": "STBigMapShip2",
+     "text": "Treasure Ship"
+    },
+    {
+     "id": "STBigMapShip3",
+     "text": "Elite Ship"
+    },
+    {
+     "id": "coin_desc_znq1",
+     "text": "Stamina for the anniversary event. Spend it to attack Marine outposts"
+    },
+    {
+     "id": "coin_desc_znq2",
+     "text": "Gold coins for the anniversary event, exchangeable for rare items"
+    },
+    {
+     "id": "coin_desc_znq3",
+     "text": "Silver coins for the anniversary event, exchangeable for rare items"
+    },
+    {
+     "id": "UI_icon_bi",
+     "text": "Anniversary Gold Coin"
+    },
+    {
+     "id": "UI_icon_bi_2",
+     "text": "Anniversary Silver Coin"
+    },
+    {
+     "id": "UI_Buy_Year_Act_Content",
+     "text": "Buy {2} Action Points?\\nThe cost rises with each purchase\\n(20, 50, 100, 150, 200 Rainbow Diamonds)\\n Purchases today: <color=#FF0000>{3}</color>/{4}"
+    },
+    {
+     "id": "UI_YEAR_CHONGZHI_Content",
+     "text": "Spend <color=#FF0000>{0}</color>{1} to buy a challenge reset?\\n Purchases today: <color=#FF0000>{2}</color>/{3}"
+    },
+    {
+     "id": "YearActivityExplain",
+     "text": "*Marine Battle has three chapters; clear stages in a chapter to earn rewards. Once enough players server-wide clear a chapter, a new one opens.\\n \\nThe next chapter opens when the previous chapter's final Boss is defeated and the server-wide chapter clear rate reaches 100%.\\n*Each Marine Battle chapter has three stages you can sweep repeatedly for rewards. Rewards grow with each chapter, so plan your stamina wisely.\\n*Boss Loot: each chapter's final Boss stage drops Boss loot.\\n*Marine Battle stamina comes from Daily Quests or can be bought with Rainbow Diamonds.\\n \\nStamina costs rise with each purchase: 20 Rainbow Diamonds for the 1st, 50 for the 2nd, 100 for the 3rd, 150 for the 4th and 200 for the 5th."
+    },
+    {
+     "id": "Recruit_optionalSeleceTwo",
+     "text": "Choose any 2 SSR characters!"
+    },
+    {
+     "id": "Recruit_optionalBig",
+     "text": "Greatly"
+    },
+    {
+     "id": "Recruit_optionalUp",
+     "text": "increased recruit rates!"
+    },
+    {
+     "id": "OptionalRecruitResetHint",
+     "text": "Reset the current rate-up hero? Resets left {0}/{1}"
+    },
+    {
+     "id": "UISeaPassBuyBook",
+     "text": "¥{0} Premium Pass"
+    },
+    {
+     "id": "UISeaPassWeekExp",
+     "text": "Weekly quest progress resets every Monday at 0:00"
+    },
+    {
+     "id": "UISeaPassBuyBtn",
+     "text": "Buy Pass"
+    },
+    {
+     "id": "UISeaPassLevelUp",
+     "text": "Raise your pass level for deluxe rewards"
+    },
+    {
+     "id": "UISeaPassTitleOne",
+     "text": "Unlocks the Premium Sailing Pass"
+    },
+    {
+     "id": "UISeaPassTen",
+     "text": "Premium Pass + instant 10 levels"
+    },
+    {
+     "id": "UISeaPassTitleTwo",
+     "text": "Unlocks the Premium Sailing Pass + bonus rewards"
+    },
+    {
+     "id": "MaxLevel",
+     "text": "Levels can be bought up to Lv50"
+    },
+    {
+     "id": "overrideConfirm",
+     "text": "The excess won't stack. Continue?"
+    },
+    {
+     "id": "Optional_Recruit_Hero_Selected",
+     "text": "You've already chosen a character!"
+    },
+    {
+     "id": "BattlePassBuyLv02",
+     "text": "Levels can be bought up to Lv50"
+    },
+    {
+     "id": "BattlePassBuyLv03",
+     "text": "1 Rainbow Diamond = {0} Pass EXP"
+    },
+    {
+     "id": "TimeBuyEquip",
+     "text": "*Limited Forge lets you spend Limited Forge Tickets to draw equipment. Limited Forge Tickets are available in the Rainbow Diamond Shop.\\n*Limited Forge is only usable while the event runs. Limited Forge Tickets are kept and can be used the next time it opens.\\n*After forging a certain number of times, you can claim the current rate-up equipment from the progress bar below."
+    },
+    {
+     "id": "BattlePassExplain",
+     "text": "*The Sailing Pass is one way to earn event rewards through everyday play. Gain Pass EXP to raise your Sailing Pass level and earn lots of rewards.\\n*Gain Pass EXP to raise your pass level; each level up gives Basic Pass rewards. Main sources of Pass EXP: (1) Daily Quests. (2) Weekly Quests. (3) Buying pass levels.\\nPremium Pass rewards: you can buy the Premium Sailing Pass at any time while the event runs, and immediately claim all Premium rewards for the levels you've reached.\\n*Daily Quests: completing set quests each day gives Pass EXP and Activity. Pass EXP raises your pass level; Activity adds to daily activity, and reaching certain values unlocks activity rewards. Activity rewards reset daily at 0:00, so claim them in time.\\n \\nWeekly Quests: each time you play a related mode, you instantly get Pass EXP. Each quest has a weekly completion cap; after reaching it, playing the mode gives no more Pass EXP. Weekly Quests reset every Monday at 0:00.\\n*Buying Sailing Pass levels: before Lv50 you can buy levels; after Lv50 you can only level up by completing quests. \\n*Premium Sailing Pass duration: it lasts as long as each event period and expires when the period ends. You must buy it again for each new period.\\n*Pass Seals: earned by raising your pass level and freely exchanged for rewards in the Pass Shop. Pass Seals are cleared at the end of each event period, so use them early to avoid losing them!"
+    },
+    {
+     "id": "BattlePassShop",
+     "text": "Pass Shop"
+    },
+    {
+     "id": "ForgePageTitle",
+     "text": "Greatly increased rates for the equipment below!"
+    },
+    {
+     "id": "ForgeHeroEquipment",
+     "text": "10x Forge guarantees a Hero Loose Piece!"
+    },
+    {
+     "id": "ForgeOneButton",
+     "text": "Forge Once"
+    },
+    {
+     "id": "ForgeTips1",
+     "text": "Forge {0} times to get a full set!"
+    },
+    {
+     "id": "RefineUpRateTitle",
+     "text": "Rate Up"
+    },
+    {
+     "id": "RefineUpRateLevel",
+     "text": "Refine Level:"
+    },
+    {
+     "id": "RefineUpLimit",
+     "text": "Use limit for this level:"
+    },
+    {
+     "id": "BattlePassActive",
+     "text": "Activity: <color=#AC4229FF>{0}</color>"
+    },
+    {
+     "id": "BattlePassExp",
+     "text": "EXP: <color=#AC4229FF>{0}</color>"
+    },
+    {
+     "id": "Optional_Recruit_No_Selected",
+     "text": "Choose a rate-up character first!"
+    },
+    {
+     "id": "FormationDetails",
+     "text": "No assist character selected"
+    },
+    {
+     "id": "Optional_Recruit_No_Reset_Times",
+     "text": "No resets left!"
+    },
+    {
+     "id": "BattlePassWeekTask",
+     "text": "{0}/time"
+    },
+    {
+     "id": "upSuccessRate",
+     "text": "Success rate +<color=#5E9F19>{0}%</color>"
+    },
+    {
+     "id": "UI_icon_txy",
+     "text": "Advanced Pass Seal"
+    },
+    {
+     "id": "canNotGet",
+     "text": "Forge {0} more times to claim"
+    },
+    {
+     "id": "timesFormat",
+     "text": "{0} times"
+    },
+    {
+     "id": "limitBuyCoinLessTips",
+     "text": "Not enough Forge Tickets. Spend {0}<sprite=3> to buy {1} Forge Tickets?"
+    },
+    {
+     "id": "ForgeTenButton",
+     "text": "Forge 10 Times"
+    },
+    {
+     "id": "minRefineLevel",
+     "text": "Success rate boosts unlock at refine Lv{0}"
+    },
+    {
+     "id": "LoginEventBtn",
+     "text": "Restore"
+    },
+    {
+     "id": "TodayRechargeNum",
+     "text": "Topped up today"
+    },
+    {
+     "id": "TodayGiftBag",
+     "text": "Today's Special Bundle"
+    },
+    {
+     "id": "BP_If_Buy_Pass",
+     "text": "Spend {0}<sprite=3> to buy {1}?"
+    },
+    {
+     "id": "BattlePass_Type_1",
+     "text": "Premium Pass"
+    },
+    {
+     "id": "BattlePass_Type_2",
+     "text": "Elite Pass"
+    },
+    {
+     "id": "BP_Reach_Full_Buy_Lv",
+     "text": "Level purchase limit reached"
+    },
+    {
+     "id": "BP_Buy_Pass_Succ",
+     "text": "Purchased. {0} activated"
+    },
+    {
+     "id": "LoginAwardNone",
+     "text": "Unclaimed"
+    },
+    {
+     "id": "LoginAward_Sign",
+     "text": "Make-Up Available"
+    },
+    {
+     "id": "RecruitSuccessTips_No_Gold",
+     "text": "Bonus <color=#ffe703>Voyage Companion</color>"
+    },
+    {
+     "id": "BP_TimeFormatDays",
+     "text": "Ends in {0} days"
+    },
+    {
+     "id": "BP_TimeFormatHours",
+     "text": "Ends in {0} hours"
+    },
+    {
+     "id": "BP_TimeFormatMinuts",
+     "text": "Ends in {0} minutes"
+    },
+    {
+     "id": "UI_icon_txy_1",
+     "text": "Basic Pass Seal"
+    },
+    {
+     "id": "ShipPortPageGjBtn",
+     "text": "Advanced Refinement"
+    },
+    {
+     "id": "ShipPortPageLevelLabel",
+     "text": "Ship advancement unlocks after leveling up"
+    },
+    {
+     "id": "SeaPassBuyTip",
+     "text": "Original price 2380 Rainbow Diamonds. Buy now for              off"
+    },
+    {
+     "id": "shipSkillUnLockLev",
+     "text": "Unlocks at ship Lv{0}"
+    },
+    {
+     "id": "SailPower",
+     "text": "Energy"
+    },
+    {
+     "id": "SailShipProperty",
+     "text": "Great Voyage Stats"
+    },
+    {
+     "id": "SailShipTrait",
+     "text": "Warship Traits"
+    },
+    {
+     "id": "selectUnLockSkill",
+     "text": "Choose an unlocked skill"
+    },
+    {
+     "id": "ShipLevelUp",
+     "text": "Ship advancement unlocks after leveling up"
+    },
+    {
+     "id": "ShipEvolve",
+     "text": "Advance to keep leveling the ship"
+    },
+    {
+     "id": "SkillMessageBoxStartText",
+     "text": "Refining reveals a new Voyage Support skill"
+    },
+    {
+     "id": "CookingTitle",
+     "text": "Cooking Level"
+    },
+    {
+     "id": "CookingText",
+     "text": "Can Cook:"
+    },
+    {
+     "id": "CookLevelUp",
+     "text": "Level up to unlock more dishes and cook more at once!"
+    },
+    {
+     "id": "UICookingTime",
+     "text": "Left: {0}"
+    },
+    {
+     "id": "UICookTitle",
+     "text": "Lv{0} Recipes ({1}/{2})"
+    },
+    {
+     "id": "CookStateMaking",
+     "text": "Cooking"
+    },
+    {
+     "id": "CookStateCanDo",
+     "text": "Not Started"
+    },
+    {
+     "id": "CatchFishBottom",
+     "text": "Tap anywhere on the screen to fish"
+    },
+    {
+     "id": "CatchFishTime",
+     "text": "Fishing attempts:"
+    },
+    {
+     "id": "CookColumnLock",
+     "text": "Unlocks at Cooking Lv<color=#C86217FF>{0}</color>"
+    },
+    {
+     "id": "CookShowRewardLv",
+     "text": "Reach <color=#E4B050FF>Lv{0}</color> to claim"
+    },
+    {
+     "id": "CookShowRewardMax",
+     "text": "Reached <color=#E4B050FF>Lv{0}</color>, claimed"
+    },
+    {
+     "id": "CookLvRwdType1",
+     "text": "Unlock New Dish"
+    },
+    {
+     "id": "CookLvRwdType2",
+     "text": "Unlock New Slot"
+    },
+    {
+     "id": "CookingStateTitle",
+     "text": "Cooking Status"
+    },
+    {
+     "id": "CookingJinDu",
+     "text": "Cooking:"
+    },
+    {
+     "id": "CookingGift",
+     "text": "Chef's Thanks"
+    },
+    {
+     "id": "CookingLevelGift",
+     "text": "Tap to view level rewards"
+    },
+    {
+     "id": "CookingMenuTitle",
+     "text": "Recipe Info"
+    },
+    {
+     "id": "CookingExp",
+     "text": "Cooking EXP:"
+    },
+    {
+     "id": "CookingTime",
+     "text": "Time:"
+    },
+    {
+     "id": "CookingLevelTitle",
+     "text": "Cooking Level Rewards"
+    },
+    {
+     "id": "resetConfirm",
+     "text": "Spend <sprite=10>*1 (owned: {0}) to reset to the initial state?"
+    },
+    {
+     "id": "FoodSpeedUp",
+     "text": "Speed Up Cooking"
+    },
+    {
+     "id": "FoodTime",
+     "text": "Cooking Time Reducible"
+    },
+    {
+     "id": "FinishBtn",
+     "text": "Complete Quest"
+    },
+    {
+     "id": "GvoTaskExplain",
+     "text": "How to Play"
+    },
+    {
+     "id": "ShipAddPointTitle",
+     "text": "Dock Modification"
+    },
+    {
+     "id": "remouldLevel",
+     "text": "Current Modification Level"
+    },
+    {
+     "id": "remouldPoint",
+     "text": "Modifying grants Modification Points"
+    },
+    {
+     "id": "OpenSkill",
+     "text": "Skill slot unlocks after leveling up"
+    },
+    {
+     "id": "SailLogBtn1",
+     "text": "Quest Details"
+    },
+    {
+     "id": "SailLogBtn2",
+     "text": "Boss Info"
+    },
+    {
+     "id": "SailLogBtn3",
+     "text": "Sea Area Info"
+    },
+    {
+     "id": "SailLogBtn5",
+     "text": "Voyage Log"
+    },
+    {
+     "id": "reachLimit",
+     "text": "Limit reached"
+    },
+    {
+     "id": "pointLess",
+     "text": "Not enough Modification Points"
+    },
+    {
+     "id": "cookrewardlevelTip",
+     "text": "Cooking level too low to claim!"
+    },
+    {
+     "id": "AddPointMaxLevel",
+     "text": "Max modification level reached!"
+    },
+    {
+     "id": "reward_prop_point_num",
+     "text": "{0} used by current warship {1}"
+    },
+    {
+     "id": "GetTask",
+     "text": "Available quests:"
+    },
+    {
+     "id": "IslandDes",
+     "text": "Island Description"
+    },
+    {
+     "id": "task_Requirement",
+     "text": "Quest Requirements"
+    },
+    {
+     "id": "task_BUFF",
+     "text": "Sea Area Effect"
+    },
+    {
+     "id": "task_ship",
+     "text": "Recommended Warship"
+    },
+    {
+     "id": "springcookover",
+     "text": "The Spring Banquet event has ended"
+    },
+    {
+     "id": "getPoint",
+     "text": "Get Points"
+    },
+    {
+     "id": "UISwitchShipTitle",
+     "text": "Switch Ship"
+    },
+    {
+     "id": "UITaskDetailsToday",
+     "text": "Quests available today:"
+    },
+    {
+     "id": "GvoIfBuy",
+     "text": "Refresh daily quests?\\nRefreshing costs <sprite={1}>*{0}"
+    },
+    {
+     "id": "Cur_Reputation_Level",
+     "text": "Current Prestige:"
+    },
+    {
+     "id": "SpringTitle",
+     "text": "Invitation"
+    },
+    {
+     "id": "springContentText",
+     "text": "<size=21>Dear Captains:</size>\\n<color=#00000000>____</color>The Spring Festival is here again~ First, we wish all you captains a happy new year and the best of luck!\\n<color=#00000000>____</color>For this yearly celebration, we've prepared a splendid Banquet Plaza! Captains can cook dishes for our pirate crew members to welcome the Spring Festival!\\n<color=#00000000>____</color>Cook dishes to get the rewards below! Come join the event!"
+    },
+    {
+     "id": "springWish",
+     "text": "Blessings from the Pirate King"
+    },
+    {
+     "id": "ReputationPrizeTitle",
+     "text": "Prestige Rewards"
+    },
+    {
+     "id": "IsOpenSeaAreaDockPage",
+     "text": "Open the Dock screen?"
+    },
+    {
+     "id": "discardShipSkill",
+     "text": "Discard this refinement?"
+    },
+    {
+     "id": "pleaseSelectSkill",
+     "text": "Choose the skill to replace"
+    },
+    {
+     "id": "RedPacketDefultMsg",
+     "text": "Wishing you wealth and good fortune!"
+    },
+    {
+     "id": "SailSkill",
+     "text": "Great Voyage Skills"
+    },
+    {
+     "id": "IsExitSeaAreaBattle",
+     "text": "Exit the Great Voyage?"
+    },
+    {
+     "id": "SeaAreaShopName1",
+     "text": "Voyage Shop"
+    },
+    {
+     "id": "GetPointNum",
+     "text": "Modification Points"
+    },
+    {
+     "id": "SA_NoTarget",
+     "text": "No targets in attack range"
+    },
+    {
+     "id": "GvoEnergyShortage",
+     "text": "Not enough energy to move"
+    },
+    {
+     "id": "GvoShipNoOpenTips",
+     "text": "This warship isn't available yet. Stay tuned"
+    },
+    {
+     "id": "GvoGetPowerText",
+     "text": "{0} Stamina claimable"
+    },
+    {
+     "id": "GvoGetPowerTips",
+     "text": "Claim {0} Stamina"
+    },
+    {
+     "id": "reputationTaskRateTitle",
+     "text": "Quest Rates"
+    },
+    {
+     "id": "reputationTaskRate",
+     "text": "Current Prestige quest refresh rates"
+    },
+    {
+     "id": "buyOil",
+     "text": "Buy Energy"
+    },
+    {
+     "id": "SeaAreaShopName2",
+     "text": "Voyage Vault"
+    },
+    {
+     "id": "SeaAreaShopName3",
+     "text": "Stamina Shop"
+    },
+    {
+     "id": "GvoGetPowerLimit",
+     "text": "Stamina is full"
+    },
+    {
+     "id": "GvoBuyOilTimes",
+     "text": "({0} purchases left today)"
+    },
+    {
+     "id": "GvoShipNoGetText",
+     "text": "Ship not obtained"
+    },
+    {
+     "id": "GvoShipRepairContent",
+     "text": "Spend the items below to repair this ship?"
+    },
+    {
+     "id": "SeaAreaSwapDialogContext",
+     "text": "Hello! We pay top price for fish. If you have any, be sure to sell them to me."
+    },
+    {
+     "id": "SeaAreaSwapDialogtitle",
+     "text": "Fish Merchant"
+    },
+    {
+     "id": "ReputationLimit",
+     "text": "Prestige Required"
+    },
+    {
+     "id": "SeaAreaExitFight",
+     "text": "Disengage"
+    },
+    {
+     "id": "SeaAreaFightFailed",
+     "text": "Battle Lost"
+    },
+    {
+     "id": "redpacketTip0",
+     "text": "20% fee charged. Unclaimed currency is refunded automatically on expiry"
+    },
+    {
+     "id": "redpacketTip1",
+     "text": "20% fee charged. Sending costs Rainbow Diamonds, refunded on expiry"
+    },
+    {
+     "id": "SeaAreaDockState",
+     "text": "Needs Repair"
+    },
+    {
+     "id": "GvoShipDamage",
+     "text": "Warship damaged. Please repair it"
+    },
+    {
+     "id": "GvoShipLittleHp",
+     "text": "HP is low and sailing is risky. Set sail anyway?"
+    },
+    {
+     "id": "GvoMaxHpText",
+     "text": "HP is full. No repair needed"
+    },
+    {
+     "id": "AlreadyInThisSeaAreaHint",
+     "text": "You're already in this sea area"
+    },
+    {
+     "id": "SeaAreaInFightTip",
+     "text": "Can't return to port during battle"
+    },
+    {
+     "id": "GvoBuyEnergySuc",
+     "text": "Purchase successful"
+    },
+    {
+     "id": "RedPacketTips",
+     "text": "Not enough {0}!"
+    },
+    {
+     "id": "UI_icon_dhh_1",
+     "text": "Stamina Coins"
+    },
+    {
+     "id": "coin_desc_dhh_1",
+     "text": "Consumed when gathering sea resources; also buys goods directly at the Stamina Shop"
+    },
+    {
+     "id": "SeaSettingExitBtn",
+     "text": "Exit"
+    },
+    {
+     "id": "redPacketSendLimit",
+     "text": "The guild needs more than {0} members to send Red Envelopes!"
+    },
+    {
+     "id": "SARescueFailed",
+     "text": "Rescue failed"
+    },
+    {
+     "id": "UI_icon_dhhtl",
+     "text": "Voyage Stamina"
+    },
+    {
+     "id": "UI_icon_dhhgold",
+     "text": "Voyage Gold Coins"
+    },
+    {
+     "id": "UI_icon_dhhyin",
+     "text": "Voyage Silver Coins"
+    },
+    {
+     "id": "UI_icon_dahanghaitili",
+     "text": "Energy consumed by gathering activities in the Great Voyage"
+    },
+    {
+     "id": "UI_icon_dhhgoldm",
+     "text": "Gold coins earned in the Great Voyage"
+    },
+    {
+     "id": "UI_icon_dhhyinm",
+     "text": "Silver coins earned in the Great Voyage"
+    },
+    {
+     "id": "GetPointTitle",
+     "text": "Get Modification Points"
+    },
+    {
+     "id": "SeaAreaCantTransferTip",
+     "text": "Enter a sea area first"
+    },
+    {
+     "id": "SeaAreaShipOutHint",
+     "text": "Go to {0}?"
+    },
+    {
+     "id": "SeaAreaShipOutAlreadyInArea",
+     "text": "You're already in this sea area"
+    },
+    {
+     "id": "SeaAreaNotAutoPath",
+     "text": "Your quest target is out at sea. Explore to find it"
+    },
+    {
+     "id": "action_name_015",
+     "text": "Observing"
+    },
+    {
+     "id": "SeaAreaExplain_1",
+     "text": "*In the Great Voyage you explore with warships, and you can only use warships you own. 7 warships are currently usable; the rest will open over time.\\n \\n*Great Voyage map guide.\\n \\nSea areas: the Great Voyage has several sea areas you can explore freely. Each has its own traits that make exploring harder; warships with a modification level matching the map are recommended.\\n \\nIslands: each sea area has various islands where you can take quests, sell fish, adjust warships and more.\\n \\nPorts: every island has a dock where you can switch, repair and modify warships."
+    },
+    {
+     "id": "SeaAreaExplain_2",
+     "text": "*Warship Energy and Stamina.\\n \\nWarship Energy: warships move freely in sea areas, and moving a certain distance uses energy. When energy runs out the warship can't move; refill it from the warship portrait or at a port. Each warship has its own energy, so you can switch warships to keep sailing. Energy doesn't regenerate on its own.\\n \\nStamina: used for sea area searches; each search costs some Stamina. Stamina recovers 5 points every 10 minutes, and some ports hand out a little Stamina at set times.\\n*Sea Area Battles and Searches.\\n \\nSea Battles: privateers in the sea area will attack you; fight back or retreat. Sinking a privateer gives energy.\\n \\nSea Searches: there are four types: salvage, diving, fishing and rescue. Search points come in several qualities, each requiring different warship stats; higher quality needs higher stats.\\n *Great Voyage Refinement Rates (Trait / Rate)\\nTurn 1: All Allies Speed Up 0.28%\\nAll Allies Recover (%) HP Each Turn 0.69%\\nFinisher and Ultimate Skill DMG Up (%) 0.56%\\nTurn 1: All DMG Up (%) 0.28%\\nTurn 1: Accuracy Up (%) 0.42%\\nTurn 1: All Enemies' Evasion (%) 0.42%\\nTurn 1: 1 Random Ally Rage Up 0.69%\\nTurn 1: All Allies Gain a (%) HP Shield 0.28%\\nFirst 2 Turns: All Enemies' Tenacity (%) 0.56%\\nAll Allies HP Up 1.50%\\nAll Allies Attack Up 1.50%\\nAll Allies Defense Up 1.50%\\nAll Allies DMG Up (%) 1.50%\\nAll Allies DMG Taken Down (%) 1.50%\\nAll Allies Accuracy Up (%) 1.50%\\nAll Allies Crit DMG Up (%) 1.50%\\nAll Allies Elemental DMG Up (%) 1.50%\\nDMG Up (%) vs Targets Below 30% HP 2.25%\\nTurn 1: All Allies DMG Taken Down (%) 0.75%\\nIgnore (%) of Target's Armor on Attack 4.62%\\nAoE Skill DMG Up (%) 4.62%\\nSingle-Target Skill DMG Up (%) 4.92%\\nAll Allies Block Up (%) 9.23%\\nAll Allies Block Break Up (%) 9.23%\\nAll Elemental RES Up 7.69%\\nAll Elemental ATK Up 7.69%\\nElemental DMG Taken Down (%) 3.08%\\nAll Allies AoE DMG Taken Down (%) 3.08%\\nRecover (%) HP After a Kill 4.31%\\nAll Enemies Healing Down (%) 6.15%\\nAll Allies Healing Up (%) 6.15%\\nAllies Knock-Up Immunity Up (%) 9.23%"
+    },
+    {
+     "id": "ShipPortUnGetContent",
+     "text": "Tap <color=#9A2C28FF>Get</color> to get the skill"
+    },
+    {
+     "id": "Gvo8001_shanguanghaichuang",
+     "text": "Glittering Seabed"
+    },
+    {
+     "id": "Gvo8001_haizaosenlin",
+     "text": "Kelp Forest"
+    },
+    {
+     "id": "Gvo8001_shengquandao",
+     "text": "Sacred Spring Island"
+    },
+    {
+     "id": "Gvo8001_jingmihai",
+     "text": "Tranquil Sea"
+    },
+    {
+     "id": "Gvo8001_yuantiaodao",
+     "text": "Lookout Island"
+    },
+    {
+     "id": "Gvo8001_fengraohai",
+     "text": "Bountiful Sea"
+    },
+    {
+     "id": "Gvo8001_shenlanhailing",
+     "text": "Deep Blue Ridge"
+    },
+    {
+     "id": "Gvo8001_fengbaohaiyuhanglu",
+     "text": "Storm Sea Route"
+    },
+    {
+     "id": "Gvo8002_pingjinghaiyuhanglu",
+     "text": "Calm Sea Route"
+    },
+    {
+     "id": "Gvo8002_dengtadao",
+     "text": "Lighthouse Island"
+    },
+    {
+     "id": "Gvo8002_xuechaohailing",
+     "text": "Blood Tide Ridge"
+    },
+    {
+     "id": "Gvo8002_fengyadao",
+     "text": "Wind Cliff Island"
+    },
+    {
+     "id": "Gvo8002_zuiehaijia",
+     "text": "Sinners' Cape"
+    },
+    {
+     "id": "Gvo8002_moguibaojiao",
+     "text": "Devil's Reef"
+    },
+    {
+     "id": "Gvo8002_luochaodao",
+     "text": "Ebb Tide Island"
+    },
+    {
+     "id": "Gvo8002_baozanghaichuang",
+     "text": "Treasure Seabed"
+    },
+    {
+     "id": "SoulSummonTen",
+     "text": "Soul Search x10"
+    },
+    {
+     "id": "noGemCanCombine",
+     "text": "No gems to combine"
+    },
+    {
+     "id": "catchBackAgainCost",
+     "text": "\\nSpend {0}<sprite={1}> to step back once?\\n \\n({2}/{3} left)"
+    },
+    {
+     "id": "returnExpGet",
+     "text": "Reset Gains"
+    },
+    {
+     "id": "TeamSuccorOnlyByTeamTask",
+     "text": "Bounty Aid can only be used for Bounty Quests"
+    },
+    {
+     "id": "CatchActionMainTitle",
+     "text": "Caught!"
+    },
+    {
+     "id": "CatchActionStartGame",
+     "text": "Start Game"
+    },
+    {
+     "id": "AcceptTeamTaskTipContent",
+     "text": "Your team includes Bounty Aid, so you can't get the leader pack"
+    },
+    {
+     "id": "CatchEverydayRefresh",
+     "text": "Daily quests refresh daily at 0:00"
+    },
+    {
+     "id": "CatchRankTitle",
+     "text": "Hall of Fame"
+    },
+    {
+     "id": "CatchStepNumber",
+     "text": "Best Moves:"
+    },
+    {
+     "id": "CatchActionExceed",
+     "text": "You beat"
+    },
+    {
+     "id": "CatchActionExceedPlayer",
+     "text": "of players!"
+    },
+    {
+     "id": "CatchActionSurplusTime",
+     "text": "Left today"
+    },
+    {
+     "id": "CatchActionFailFlee",
+     "text": "The Lord of the Coast escaped the encirclement"
+    },
+    {
+     "id": "CatchActionStart",
+     "text": "Please start over"
     },
     {
      "id": "HomeLandTaskTitle",
@@ -13981,7 +16025,7 @@
      "text": "Limited Recruit"
     }
    ],
-   "partial": "2704/5841 rows translated so far"
+   "partial": "3215/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
