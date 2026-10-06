@@ -976,12 +976,6576 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "id": "1",
+     "lines": "Just kill everyone and be done with it"
+    },
+    {
+     "id": "2",
+     "lines": "Don't get in my way!"
+    },
+    {
+     "id": "3",
+     "lines": "I'll wither it away with my right hand"
+    },
+    {
+     "id": "5",
+     "lines": "I need a few more troops. How about it? Coming with me?"
+    },
+    {
+     "id": "6",
+     "lines": "You're too weak..."
+    },
+    {
+     "id": "7",
+     "lines": "I am God. Everything goes my way!"
+    },
+    {
+     "id": "8",
+     "lines": "Watch your tongue. I am God!"
+    },
+    {
+     "id": "9",
+     "lines": "Nothing is impossible. I am the almighty God!"
+    },
+    {
+     "id": "11",
+     "lines": "Well then, shall we watch this country fall together?"
+    },
+    {
+     "id": "14",
+     "lines": "This stage is still a bit too early for you!"
+    },
+    {
+     "id": "15",
+     "lines": "Oh my, so you finally made it here..."
+    },
+    {
+     "id": "17",
+     "lines": "You really made a mess of things"
+    },
+    {
+     "id": "18",
+     "lines": "Boring!"
+    },
+    {
+     "id": "19",
+     "lines": "Making an entrance like this looks way cooler!"
+    },
+    {
+     "id": "22",
+     "lines": "You do it for me."
+    },
+    {
+     "id": "23",
+     "lines": "All this racket is driving me crazy!!"
+    },
+    {
+     "id": "26",
+     "lines": "I grow stronger by absorbing others' shadows, you know?!"
+    },
+    {
+     "id": "27",
+     "lines": "Piece of cake"
+    },
+    {
+     "id": "30",
+     "lines": "If you were going on a trip, where would you want to go?"
+    },
+    {
+     "id": "31",
+     "lines": "I'm a \"Paw Pad Human\" who ate the \"Paw Pad Fruit\""
+    },
+    {
+     "id": "33",
+     "lines": "Speed is \"weight\"... Ever been kicked at the speed of light?"
+    },
+    {
+     "id": "34",
+     "lines": "Without strength, you can't save those who can't be saved, no matter how hard you try..."
+    },
+    {
+     "id": "35",
+     "lines": "I'm a \"Glint Human\" who ate the \"Glint-Glint Fruit\""
+    },
+    {
+     "id": "36",
+     "lines": "Leave it to me. I'll be right back, don't worry"
+    },
+    {
+     "id": "37",
+     "lines": "This guy must give you headaches too. Please take care of him from now on"
+    },
+    {
+     "id": "38",
+     "lines": "Luffy! You little...!"
+    },
+    {
+     "id": "39",
+     "lines": "I'll take any hand reached out to me"
+    },
+    {
+     "id": "41",
+     "lines": "He already has a crew he can rely on. He's not afraid of anything now..."
+    },
+    {
+     "id": "42",
+     "lines": "The Marines have no place for soldiers with twisted values!"
+    },
+    {
+     "id": "43",
+     "lines": "Wasted another \"few seconds\""
+    },
+    {
+     "id": "45",
+     "lines": "Show no mercy to the \"evil\" that is piracy!"
+    },
+    {
+     "id": "46",
+     "lines": "If people can't become righteous, they have no reason to live!"
+    },
+    {
+     "id": "48",
+     "lines": "How weak"
+    },
+    {
+     "id": "49",
+     "lines": "Let me show you how big the world is"
+    },
+    {
+     "id": "50",
+     "lines": "A frog in a well..."
+    },
+    {
+     "id": "51",
+     "lines": "Splendid!"
+    },
+    {
+     "id": "53",
+     "lines": "Our justice already lives within the World Government"
+    },
+    {
+     "id": "54",
+     "lines": "Here, killing is justified as well"
+    },
+    {
+     "id": "56",
+     "lines": "If certain citizens don't cooperate with the government, we have the right to execute them on the spot"
+    },
+    {
+     "id": "57",
+     "lines": "Once we're at sea, it's my territory!"
+    },
+    {
+     "id": "60",
+     "lines": "Leave this to me!"
+    },
+    {
+     "id": "61",
+     "lines": "\"Fish-Man Karate\"!"
+    },
+    {
+     "id": "63",
+     "lines": "The reason is... yes, because I am too beautiful."
+    },
+    {
+     "id": "64",
+     "lines": "Whatever I do, the whole world will forgive me..."
+    },
+    {
+     "id": "65",
+     "lines": "The guilt of being smitten with me will turn your bodies to stone..."
+    },
+    {
+     "id": "66",
+     "lines": "I'll be forgiven no matter what I do."
+    },
+    {
+     "id": "67",
+     "lines": "Do you know my name?"
+    },
+    {
+     "id": "68",
+     "lines": "...You've put on quite a show for me."
+    },
+    {
+     "id": "69",
+     "lines": "Don't worry, it'll be over soon."
+    },
+    {
+     "id": "70",
+     "lines": "Call me when you need me... I'll bring you anyone's head."
+    },
+    {
+     "id": "71",
+     "lines": "No need to rush. The great treasure isn't going anywhere..."
+    },
+    {
+     "id": "72",
+     "lines": "Anyone without resolve has no business at sea!"
+    },
+    {
+     "id": "73",
+     "lines": "Not bad at all."
+    },
+    {
+     "id": "74",
+     "lines": "Leave it to me."
+    },
+    {
+     "id": "76",
+     "lines": "Stay out of it. You'll only get in my way"
+    },
+    {
+     "id": "77",
+     "lines": "I'm Silvers Rayleigh. Nice to meet you."
+    },
+    {
+     "id": "78",
+     "lines": "Only those living in the present can shape this era..."
+    },
+    {
+     "id": "79",
+     "lines": "I'm old now... I want a quiet life."
+    },
+    {
+     "id": "80",
+     "lines": "Don't nip the buds..."
+    },
+    {
+     "id": "81",
+     "lines": "I look forward to seeing you grow further."
+    },
+    {
+     "id": "87",
+     "lines": "What are you here for?"
+    },
+    {
+     "id": "88",
+     "lines": "Guarding this place is of great importance!!!"
+    },
+    {
+     "id": "89",
+     "lines": "What a disgrace!"
+    },
+    {
+     "id": "90",
+     "lines": "You really came, you scum of the sea!"
+    },
+    {
+     "id": "91",
+     "lines": "\"Justice\" that carries the name of righteousness will never perish!!"
+    },
+    {
+     "id": "92",
+     "lines": "Poisoned this many times over, there's no antidote left."
+    },
+    {
+     "id": "93",
+     "lines": "Any last words?"
+    },
+    {
+     "id": "94",
+     "lines": "You won't go down quietly, will you?"
+    },
+    {
+     "id": "95",
+     "lines": "You rats!!!"
+    },
+    {
+     "id": "97",
+     "lines": "Right now I'm burning even crazier, crazier than you!"
+    },
+    {
+     "id": "98",
+     "lines": "Welcome to our \"New Human Paradise\", hee-hah!!"
+    },
+    {
+     "id": "99",
+     "lines": "I won't fall!"
+    },
+    {
+     "id": "100",
+     "lines": "Heh heh, you've got me. I'm moved. For your passion's sake."
+    },
+    {
+     "id": "101",
+     "lines": "What a single-minded guy... I like it!"
+    },
+    {
+     "id": "102",
+     "lines": "Don't back down! All of you!"
+    },
+    {
+     "id": "103",
+     "lines": "Hee-hah! Stop me if you dare!"
+    },
+    {
+     "id": "106",
+     "lines": "Charge! Whitebeard Pirates!"
+    },
+    {
+     "id": "107",
+     "lines": "So reckless."
+    },
+    {
+     "id": "109",
+     "lines": "Go! My boys!"
+    },
+    {
+     "id": "110",
+     "lines": "Nothing to fear. I am Whitebeard."
+    },
+    {
+     "id": "111",
+     "lines": "Is my dear son all right?"
+    },
+    {
+     "id": "112",
+     "lines": "What a shockingly clumsy bunch."
+    },
+    {
+     "id": "113",
+     "lines": "What, it's still not my turn?"
+    },
+    {
+     "id": "115",
+     "lines": "Don't underestimate Whitebeard's 1st division commander!"
+    },
+    {
+     "id": "116",
+     "lines": "We'll protect it to the end in Ace's place."
+    },
+    {
+     "id": "117",
+     "lines": "I've wanted to meet him for a long time."
+    },
+    {
+     "id": "118",
+     "lines": "Enjoy the show!"
+    },
+    {
+     "id": "119",
+     "lines": "What flower should bloom next?"
+    },
+    {
+     "id": "120",
+     "lines": "Let's show them what we're made of!"
+    },
+    {
+     "id": "121",
+     "lines": "Understood, leave it to me."
+    },
+    {
+     "id": "122",
+     "lines": "Come on, drink drink drink!!! Party time!!!"
+    },
+    {
+     "id": "123",
+     "lines": "The government won't sit idly by... and neither will I!!"
+    },
+    {
+     "id": "124",
+     "lines": "I'm in a really bad mood right now. You here to pick a fight?"
+    },
+    {
+     "id": "125",
+     "lines": "Everyone present, please do me this favor."
+    },
+    {
+     "id": "126",
+     "lines": "I've come to end this war."
+    },
+    {
+     "id": "128",
+     "lines": "See that? My cannon skills!"
+    },
+    {
+     "id": "129",
+     "lines": "I've graduated from the weak trio with Nami and Chopper!"
+    },
+    {
+     "id": "130",
+     "lines": "You could say there's no obstacle I can't overcome"
+    },
+    {
+     "id": "131",
+     "lines": "I'm not who I used to be!"
+    },
+    {
+     "id": "132",
+     "lines": "Everyone trained hard to head for the \"New World\""
+    },
+    {
+     "id": "134",
+     "lines": "What? You calling me?"
+    },
+    {
+     "id": "135",
+     "lines": "Leave this guy to me! I'll cut him down!!"
+    },
+    {
+     "id": "136",
+     "lines": "I have to get even stronger!!"
+    },
+    {
+     "id": "137",
+     "lines": "They're hopeless..."
+    },
+    {
+     "id": "138",
+     "lines": "Oh! Leave it to me!"
+    },
+    {
+     "id": "140",
+     "lines": "Let me show you my power."
+    },
+    {
+     "id": "141",
+     "lines": "Zehahahahahaha, the show begins!"
+    },
+    {
+     "id": "142",
+     "lines": "Can you stop me?"
+    },
+    {
+     "id": "143",
+     "lines": "This is where you exit... hahahaha!"
+    },
+    {
+     "id": "144",
+     "lines": "I feel like I can control everything in this world as I please!"
+    },
+    {
+     "id": "146",
+     "lines": "I'm getting a little excited!"
+    },
+    {
+     "id": "147",
+     "lines": "How do you expect to cross the seas of the New World without a navigator!?"
+    },
+    {
+     "id": "148",
+     "lines": "Leave the stealing to me!"
+    },
+    {
+     "id": "149",
+     "lines": "No problem, I'll take you wherever you want to go!!"
+    },
+    {
+     "id": "150",
+     "lines": "Leave it to me!!!"
+    },
+    {
+     "id": "151",
+     "lines": "If you come across a \"Poneglyph\", please make me a rubbing."
+    },
+    {
+     "id": "152",
+     "lines": "How troublesome."
+    },
+    {
+     "id": "153",
+     "lines": "It's useless."
+    },
+    {
+     "id": "154",
+     "lines": "Oh my, you all look happy."
+    },
+    {
+     "id": "155",
+     "lines": "Heh heh, I can't wait."
+    },
+    {
+     "id": "156",
+     "lines": "A world where only true pirates survive is coming!!!"
+    },
+    {
+     "id": "157",
+     "lines": "Kid, you're getting too full of yourself."
+    },
+    {
+     "id": "158",
+     "lines": "The weak don't even get to choose how they die!!!"
+    },
+    {
+     "id": "159",
+     "lines": "The bigger the magic show, the simpler the secret behind it."
+    },
+    {
+     "id": "160",
+     "lines": "I'll never forgive anyone who dares to laugh at my family...!!!"
+    },
+    {
+     "id": "161",
+     "lines": "Justice prevails!! Of course!! Only the victor is justice!!"
+    },
+    {
+     "id": "162",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "163",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "164",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "165",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "166",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "168",
+     "lines": "Back then, if only I'd had more standing..."
+    },
+    {
+     "id": "169",
+     "lines": "Don't you lay a hand on my men!"
+    },
+    {
+     "id": "170",
+     "lines": "I don't know..."
+    },
+    {
+     "id": "171",
+     "lines": "Don't underestimate the Marines!"
+    },
+    {
+     "id": "172",
+     "lines": "That feels great"
+    },
+    {
+     "id": "175",
+     "lines": "One day I'll take back every famous sword in the hands of villains around the world."
+    },
+    {
+     "id": "176",
+     "lines": "I don't train with the sword for fun!"
+    },
+    {
+     "id": "178",
+     "lines": "I'll cut down anyone in my way, even if there are tens of thousands!"
+    },
+    {
+     "id": "179",
+     "lines": "There's no flame I can't cut."
+    },
+    {
+     "id": "180",
+     "lines": "Thanks to you."
+    },
+    {
+     "id": "181",
+     "lines": "Sorry to keep you waiting."
+    },
+    {
+     "id": "182",
+     "lines": "I'm counting on you!"
+    },
+    {
+     "id": "183",
+     "lines": "Get ready, brothers!"
+    },
+    {
+     "id": "184",
+     "lines": "Maintenance is ready."
+    },
+    {
+     "id": "186",
+     "lines": "That should do it."
+    },
+    {
+     "id": "188",
+     "lines": "How nostalgic~ My crewmates~~"
+    },
+    {
+     "id": "189",
+     "lines": "Yohohoho~~~!!"
+    },
+    {
+     "id": "190",
+     "lines": "Even if it costs me these bones, I won't give up"
+    },
+    {
+     "id": "191",
+     "lines": "May I see your panties? Yohohoho~~~"
+    },
+    {
+     "id": "193",
+     "lines": "Maybe Nami-san and Robin-chan will fall for me right away"
+    },
+    {
+     "id": "194",
+     "lines": "Looks like I can buy some good ingredients."
+    },
+    {
+     "id": "195",
+     "lines": "Just say the word if you need my help"
+    },
+    {
+     "id": "196",
+     "lines": "I was only answering that beautiful heart"
+    },
+    {
+     "id": "197",
+     "lines": "Let's go."
+    },
+    {
+     "id": "199",
+     "lines": "So exciting~"
+    },
+    {
+     "id": "201",
+     "lines": "I helped too!"
+    },
+    {
+     "id": "202",
+     "lines": "Here I go!"
+    },
+    {
+     "id": "203",
+     "lines": "I'll do my best!"
+    },
+    {
+     "id": "205",
+     "lines": "Some views can only be seen from a different position..."
+    },
+    {
+     "id": "206",
+     "lines": "Let's form an alliance! I have a plan!"
+    },
+    {
+     "id": "207",
+     "lines": "That's enough."
+    },
+    {
+     "id": "208",
+     "lines": "The seat that belongs to me... I'll take it, no matter what!"
+    },
+    {
+     "id": "209",
+     "lines": "I'm a doctor."
+    },
+    {
+     "id": "211",
+     "lines": "The more test subjects, the better..."
+    },
+    {
+     "id": "212",
+     "lines": "In the middle of an experiment. Talk later"
+    },
+    {
+     "id": "213",
+     "lines": "My experiments have never failed"
+    },
+    {
+     "id": "214",
+     "lines": "Shurororororo..."
+    },
+    {
+     "id": "215",
+     "lines": "Very well, let's do it that way"
+    },
+    {
+     "id": "216",
+     "lines": "Luffy's definitely a handful, but I'm counting on you all!"
+    },
+    {
+     "id": "217",
+     "lines": "The \"Flame\" won't spare you!"
+    },
+    {
+     "id": "218",
+     "lines": "Heh heh, you've become reliable! Leave the other side to me."
+    },
+    {
+     "id": "220",
+     "lines": "We will carry on his will."
+    },
+    {
+     "id": "222",
+     "lines": "Is anyone hurt?"
+    },
+    {
+     "id": "223",
+     "lines": "Haha, looks like my luck ran out..."
+    },
+    {
+     "id": "224",
+     "lines": "Hahaha..."
+    },
+    {
+     "id": "226",
+     "lines": "I'm truly blind and clumsy"
+    },
+    {
+     "id": "228",
+     "lines": "An unexpected turn of events."
+    },
+    {
+     "id": "229",
+     "lines": "The onlookers sure are noisy..."
+    },
+    {
+     "id": "230",
+     "lines": "Ahh... I accept your challenge."
+    },
+    {
+     "id": "232",
+     "lines": "Hmph..."
+    },
+    {
+     "id": "240",
+     "lines": "Your lifespan? Or sweets?"
+    },
+    {
+     "id": "241",
+     "lines": "Mama~ Mama~ Mama~ Mama~"
+    },
+    {
+     "id": "242",
+     "lines": "Come on~ Let's see what you're about to lose...!"
+    },
+    {
+     "id": "243",
+     "lines": "Don't get in my way!"
+    },
+    {
+     "id": "244",
+     "lines": "\"The more you hit, the more there are\" - that's the trait of my dream biscuits."
+    },
+    {
+     "id": "245",
+     "lines": "Hahaha!! Have you hit your limit?"
+    },
+    {
+     "id": "246",
+     "lines": "I'm a \"Biscuit Human\" who ate the \"Bis-Bis Fruit\"!"
+    },
+    {
+     "id": "247",
+     "lines": "You could say my fighting power is infinite!"
+    },
+    {
+     "id": "250",
+     "lines": "A feast! Bring the sake!"
+    },
+    {
+     "id": "251",
+     "lines": "Disappear!"
+    },
+    {
+     "id": "252",
+     "lines": "\"Heavenly Thunder\"!"
+    },
+    {
+     "id": "253",
+     "lines": "Playtime's over for pirates!"
+    },
+    {
+     "id": "254",
+     "lines": "Let the greatest battle in this world begin!"
+    },
+    {
+     "id": "255",
+     "lines": "\"Heavenly Thunder\"!"
+    },
+    {
+     "id": "257",
+     "lines": "I'll mix it for you right away"
+    },
+    {
+     "id": "258",
+     "lines": "Those guys are already trapped like rats!"
+    },
+    {
+     "id": "259",
+     "lines": "I allow it!"
+    },
+    {
+     "id": "261",
+     "lines": "Oh my... You want to fight me?"
+    },
+    {
+     "id": "262",
+     "lines": "I warned you"
+    },
+    {
+     "id": "263",
+     "lines": "Ho... As expected of you!"
+    },
+    {
+     "id": "264",
+     "lines": "Hey, hey, get them healed already!"
+    },
+    {
+     "id": "265",
+     "lines": "Oh my my my... You want to fight me?"
+    },
+    {
+     "id": "267",
+     "lines": "What!?"
+    },
+    {
+     "id": "268",
+     "lines": "That fool is no longer a Marine!"
+    },
+    {
+     "id": "269",
+     "lines": "If you don't bring back the heads of Straw Hat and Law, don't even think of setting foot in the base!"
+    },
+    {
+     "id": "270",
+     "lines": "Stop playing dumb!"
+    },
+    {
+     "id": "271",
+     "lines": "This is about the credibility and dignity of \"Marine HQ\"!"
+    },
+    {
+     "id": "274",
+     "lines": "Because this poison is my absolute favorite"
+    },
+    {
+     "id": "275",
+     "lines": "Ahh~ Thanks for the meal"
+    },
+    {
+     "id": "276",
+     "lines": "Oh? Are you worried about me?"
+    },
+    {
+     "id": "277",
+     "lines": "Me? They call me \"Poison Pink\""
+    },
+    {
+     "id": "279",
+     "lines": "Here I go!"
+    },
+    {
+     "id": "280",
+     "lines": "A loser like you has no right to speak"
+    },
+    {
+     "id": "281",
+     "lines": "I'll give you three seconds... Run"
+    },
+    {
+     "id": "282",
+     "lines": "The mission will be completed"
+    },
+    {
+     "id": "284",
+     "lines": "Take them! Kuja Pirates!"
+    },
+    {
+     "id": "285",
+     "lines": "Strength is beauty!"
+    },
+    {
+     "id": "286",
+     "lines": "This is the Haki of the Kuja!"
+    },
+    {
+     "id": "287",
+     "lines": "Decadent Sweet Breeze!"
+    },
+    {
+     "id": "288",
+     "lines": "I take my leave!"
+    },
+    {
+     "id": "290",
+     "lines": "My fighting spirit is burning already!"
+    },
+    {
+     "id": "292",
+     "lines": "Ugh! Stop embarrassing yourself!"
+    },
+    {
+     "id": "293",
+     "lines": "I'm a \"Barrier Human\" who ate the \"Barrier-Barrier Fruit\"!"
+    },
+    {
+     "id": "295",
+     "lines": "You're pretty good"
+    },
+    {
+     "id": "296",
+     "lines": "Need something?"
+    },
+    {
+     "id": "297",
+     "lines": "Take this!"
+    },
+    {
+     "id": "298",
+     "lines": "Is it the next island?"
+    },
+    {
+     "id": "299",
+     "lines": "I'll protect my crewmates!"
+    },
+    {
+     "id": "301",
+     "lines": "I am Dracule Mihawk!"
+    },
+    {
+     "id": "302",
+     "lines": "Any blade can become a black blade"
+    },
+    {
+     "id": "303",
+     "lines": "A fine team"
+    },
+    {
+     "id": "305",
+     "lines": "Know yourself and know your enemy"
+    },
+    {
+     "id": "308",
+     "lines": "Hmhmhm..."
+    },
+    {
+     "id": "309",
+     "lines": "I can't hide this radiance"
+    },
+    {
+     "id": "310",
+     "lines": "Sorry about that"
+    },
+    {
+     "id": "312",
+     "lines": "A request from a fan?"
+    },
+    {
+     "id": "314",
+     "lines": "To think you took me for a weakling"
+    },
+    {
+     "id": "315",
+     "lines": "Let's go!"
+    },
+    {
+     "id": "316",
+     "lines": "Waaah..."
+    },
+    {
+     "id": "317",
+     "lines": "If you're bringing snacks, shouldn't they be grapes?"
+    },
+    {
+     "id": "318",
+     "lines": "Attacking..."
+    },
+    {
+     "id": "320",
+     "lines": "A cup of fine sake is all I need"
+    },
+    {
+     "id": "321",
+     "lines": "Don't underestimate our samurai!"
+    },
+    {
+     "id": "322",
+     "lines": "My adventure begins!"
+    },
+    {
+     "id": "323",
+     "lines": "The longer it simmers, the better the flavor!"
+    },
+    {
+     "id": "324",
+     "lines": "I'll \"open\" Wano Country to the world!"
+    },
+    {
+     "id": "327",
+     "lines": "That's our captain... What more could I ask from life!"
+    },
+    {
+     "id": "329",
+     "lines": "Mm! Good luck!"
+    },
+    {
+     "id": "330",
+     "lines": "I have a proposal"
+    },
+    {
+     "id": "333",
+     "lines": "I'm a member of the \"Musketeer Squad\", you know"
+    },
+    {
+     "id": "334",
+     "lines": "I'll definitely be of help!"
+    },
+    {
+     "id": "335",
+     "lines": "Because tonight is a full moon"
+    },
+    {
+     "id": "336",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "338",
+     "lines": "Cut the jokes!"
+    },
+    {
+     "id": "339",
+     "lines": "Excuse me~"
+    },
+    {
+     "id": "340",
+     "lines": "A woman at heart♡~"
+    },
+    {
+     "id": "341",
+     "lines": "Cut the jokes. The vile one here is your heart!"
+    },
+    {
+     "id": "342",
+     "lines": "I am a samurai!"
+    },
+    {
+     "id": "343",
+     "lines": "Cut the jokes!"
+    },
+    {
+     "id": "350",
+     "lines": "So reckless..."
+    },
+    {
+     "id": "351",
+     "lines": "Gurararara..."
+    },
+    {
+     "id": "352",
+     "lines": "What's there to fear?"
+    },
+    {
+     "id": "353",
+     "lines": "You're really in the way!"
+    },
+    {
+     "id": "354",
+     "lines": "Everyone is a child of the sea!"
+    },
+    {
+     "id": "356",
+     "lines": "That's enough..."
+    },
+    {
+     "id": "357",
+     "lines": "Don't underestimate me, the Ghost Princess~"
+    },
+    {
+     "id": "358",
+     "lines": "Seeing you like this breaks my heart~"
+    },
+    {
+     "id": "359",
+     "lines": "Guess I need to find a new toy"
+    },
+    {
+     "id": "360",
+     "lines": "Know your place!"
+    },
+    {
+     "id": "362",
+     "lines": "Hahahaha"
+    },
+    {
+     "id": "363",
+     "lines": "Here we go, brats!"
+    },
+    {
+     "id": "364",
+     "lines": "A little accident happened..."
+    },
+    {
+     "id": "365",
+     "lines": "Even as a Marine, I can't bring myself to hate him"
+    },
+    {
+     "id": "366",
+     "lines": "Sorry, but you're staying in the sea as fish food!"
+    },
+    {
+     "id": "368",
+     "lines": "Now let me open your eyes"
+    },
+    {
+     "id": "369",
+     "lines": "This is the pirates' paradise. You have to have fun"
+    },
+    {
+     "id": "370",
+     "lines": "Zehahaha... Your era ended along with Whitebeard!"
+    },
+    {
+     "id": "371",
+     "lines": "I'm the strongest!"
+    },
+    {
+     "id": "372",
+     "lines": "Seize the world with me! I've already planned the road to supremacy!"
+    },
+    {
+     "id": "374",
+     "lines": "That's indeed reasonable"
+    },
+    {
+     "id": "375",
+     "lines": "I am the king of the Mokomo Dukedom"
+    },
+    {
+     "id": "376",
+     "lines": "Bring out the ships! Prepare for a sea battle!"
+    },
+    {
+     "id": "377",
+     "lines": "The \"King of the Night\" (the fool) is awake..."
+    },
+    {
+     "id": "378",
+     "lines": "This is a meaningless, worthless battle!"
+    },
+    {
+     "id": "380",
+     "lines": "Gorogoro meow~ You sure know how to talk"
+    },
+    {
+     "id": "381",
+     "lines": "Don't get the \"Day\" guys all worked up for nothing"
+    },
+    {
+     "id": "382",
+     "lines": "Lasagna~♪ So tasty, meow~♪"
+    },
+    {
+     "id": "383",
+     "lines": "I'm Nekomamushi!"
+    },
+    {
+     "id": "384",
+     "lines": "Ah! Silvervine is sprouting!"
+    },
+    {
+     "id": "386",
+     "lines": "Sanji! -san♡~"
+    },
+    {
+     "id": "387",
+     "lines": "I want to apologize! I have to apologize properly!"
+    },
+    {
+     "id": "388",
+     "lines": "Sw... the essence of sweetness?"
+    },
+    {
+     "id": "389",
+     "lines": "If people see us, they'll think we're married!"
+    },
+    {
+     "id": "390",
+     "lines": "Move! Go sit over there!"
+    },
+    {
+     "id": "393",
+     "lines": "What on earth is going on..."
+    },
+    {
+     "id": "394",
+     "lines": "I hate jokes"
+    },
+    {
+     "id": "395",
+     "lines": "There's someone even stronger than him."
+    },
+    {
+     "id": "397",
+     "lines": "So... who'll show up?"
+    },
+    {
+     "id": "398",
+     "lines": "That's in the past. I don't resent him."
+    },
+    {
+     "id": "399",
+     "lines": "Meaning if I take your head, Kaido won't just sit back and watch"
+    },
+    {
+     "id": "400",
+     "lines": "That's not necessarily so."
+    },
+    {
+     "id": "401",
+     "lines": "Prepare to set sail!"
+    },
+    {
+     "id": "403",
+     "lines": "Endless loneliness really is boring enough to die!"
+    },
+    {
+     "id": "404",
+     "lines": "Walked right into my hands"
+    },
+    {
+     "id": "405",
+     "lines": "What a disorderly fight"
+    },
+    {
+     "id": "406",
+     "lines": "Is there anything wrong with getting rid of trash..."
+    },
+    {
+     "id": "407",
+     "lines": "Ah, that's quite interesting"
+    },
+    {
+     "id": "409",
+     "lines": "Are you here for a meeting or a fight?"
+    },
+    {
+     "id": "410",
+     "lines": "Any objections to the battle plan?"
+    },
+    {
+     "id": "412",
+     "lines": "Don't think I'll let you off!!!"
+    },
+    {
+     "id": "413",
+     "lines": "Stop dawdling!!!"
+    },
+    {
+     "id": "415",
+     "lines": "\"Damn it... I can't die no matter what. Isn't there anyone who can kill me?\""
+    },
+    {
+     "id": "416",
+     "lines": "I won... but I still didn't die"
+    },
+    {
+     "id": "417",
+     "lines": "Swear your allegiance to me..."
+    },
+    {
+     "id": "418",
+     "lines": "Prepare yourself!"
+    },
+    {
+     "id": "419",
+     "lines": "I won... but I still didn't die"
+    },
+    {
+     "id": "421",
+     "lines": "Bastard, this means war."
+    },
+    {
+     "id": "422",
+     "lines": "Did we come here to negotiate with them?"
+    },
+    {
+     "id": "423",
+     "lines": "\"GIFTERS\", get them!!!"
+    },
+    {
+     "id": "425",
+     "lines": "After talking...? I refuse."
+    },
+    {
+     "id": "428",
+     "lines": "This idiot!!"
+    },
+    {
+     "id": "429",
+     "lines": "Hm? How many bowls of red bean soup? Idiot! Red bean soup is my oxygen!!"
+    },
+    {
+     "id": "430",
+     "lines": "My finest masterpiece!!"
+    },
+    {
+     "id": "432",
+     "lines": "Die!!"
+    },
+    {
+     "id": "436",
+     "lines": "Let's settle this for real!!"
+    },
+    {
+     "id": "437",
+     "lines": "This brings me closer to Kozuki Oden."
+    },
+    {
+     "id": "438",
+     "lines": "Wow~!! Is this your ship!! Take me on an adventure!!"
+    },
+    {
+     "id": "439",
+     "lines": "Let me do it!!"
+    },
+    {
+     "id": "442",
+     "lines": "The next song is starting!"
+    },
+    {
+     "id": "443",
+     "lines": "Guess I'll have to take them out"
+    },
+    {
+     "id": "444",
+     "lines": "I finally get to see everyone!"
+    },
+    {
+     "id": "447",
+     "lines": "I can't go on...!! Poor me~~"
+    },
+    {
+     "id": "448",
+     "lines": "You're just shy♪"
+    },
+    {
+     "id": "449",
+     "lines": "Pull yourself together!! Together, ow!!"
+    },
+    {
+     "id": "450",
+     "lines": "Ah! Lord Kaido!!"
+    },
+    {
+     "id": "451",
+     "lines": "Beautiful!"
+    },
+    {
+     "id": "453",
+     "lines": "I'll kill you"
+    },
+    {
+     "id": "455",
+     "lines": "In a hurry to die?"
+    },
+    {
+     "id": "456",
+     "lines": "I can handle this alone"
+    },
+    {
+     "id": "457",
+     "lines": "Stay right there"
+    },
+    {
+     "id": "460",
+     "lines": "You really should shut up, sis!!"
+    },
+    {
+     "id": "461",
+     "lines": "Don't get in my way!!"
+    },
+    {
+     "id": "462",
+     "lines": "Hey!!!"
+    },
+    {
+     "id": "464",
+     "lines": "Very good"
+    },
+    {
+     "id": "466",
+     "lines": "Let's end this..."
+    },
+    {
+     "id": "467",
+     "lines": "Don't talk nonsense"
+    },
+    {
+     "id": "469",
+     "lines": "What a boring opponent..."
+    },
+    {
+     "id": "472",
+     "lines": "It's begun!"
+    },
+    {
+     "id": "474",
+     "lines": "You lot, I told you to stand down"
+    },
+    {
+     "id": "475",
+     "lines": "Stay out of it"
+    },
+    {
+     "id": "476",
+     "lines": "I'll clean up properly, don't worry"
+    },
+    {
+     "id": "478",
+     "lines": "This is completely beyond my expectations...!!"
+    },
+    {
+     "id": "480",
+     "lines": "I have a plan!"
+    },
+    {
+     "id": "481",
+     "lines": "Let's form an alliance!"
+    },
+    {
+     "id": "482",
+     "lines": "You're the one who'll disappear...!"
+    },
+    {
+     "id": "484",
+     "lines": "Ha~hahaha"
+    },
+    {
+     "id": "485",
+     "lines": "You want to fight me?"
+    },
+    {
+     "id": "486",
+     "lines": "Come on~~ Let's see what you'll lose!!!"
+    },
+    {
+     "id": "487",
+     "lines": "So~~~ de~~~li~~~cious~~~!!"
+    },
+    {
+     "id": "488",
+     "lines": "Hand it over~!!!"
+    },
+    {
+     "id": "490",
+     "lines": "What the...?"
+    },
+    {
+     "id": "491",
+     "lines": "So spectacular!!"
+    },
+    {
+     "id": "492",
+     "lines": "Yay!"
+    },
+    {
+     "id": "493",
+     "lines": "I'll become stronger!"
+    },
+    {
+     "id": "494",
+     "lines": "Hahahahaha!"
+    },
+    {
+     "id": "496",
+     "lines": "Don't fail because you forgot something..."
+    },
+    {
+     "id": "497",
+     "lines": "Are your battle preparations flawless?"
+    },
+    {
+     "id": "498",
+     "lines": "Oh my, you all look happy."
+    },
+    {
+     "id": "499",
+     "lines": "We're pretty lucky..."
+    },
+    {
+     "id": "500",
+     "lines": "Heh heh, how lively."
+    },
+    {
+     "id": "502",
+     "lines": "Ready?"
+    },
+    {
+     "id": "503",
+     "lines": "I'll be your opponent."
+    },
+    {
+     "id": "504",
+     "lines": "Looks like I can buy some good ingredients."
+    },
+    {
+     "id": "505",
+     "lines": "The finer the chef, the more care goes into preparation"
+    },
+    {
+     "id": "506",
+     "lines": "Just say the word if you need my help"
+    },
+    {
+     "id": "509",
+     "lines": "What? You calling me?"
+    },
+    {
+     "id": "510",
+     "lines": "Oh! Leave it to me!"
+    },
+    {
+     "id": "511",
+     "lines": "Piece of cake, Captain!"
+    },
+    {
+     "id": "512",
+     "lines": "You again..."
+    },
+    {
+     "id": "513",
+     "lines": "It's finally here... I'll cut him to pieces."
+    },
+    {
+     "id": "515",
+     "lines": "Amazing~~"
+    },
+    {
+     "id": "516",
+     "lines": "So exciting~"
+    },
+    {
+     "id": "517",
+     "lines": "I... I'm not frozen stiff!"
+    },
+    {
+     "id": "518",
+     "lines": "Yay!"
+    },
+    {
+     "id": "519",
+     "lines": "Uh-oh!!"
+    },
+    {
+     "id": "521",
+     "lines": "I'll cover you!"
+    },
+    {
+     "id": "522",
+     "lines": "All right, good work, everyone!"
+    },
+    {
+     "id": "523",
+     "lines": "I'm not who I used to be!"
+    },
+    {
+     "id": "524",
+     "lines": "Awesome!"
+    },
+    {
+     "id": "525",
+     "lines": "Yo!"
+    },
+    {
+     "id": "527",
+     "lines": "No problem, I'll take you wherever you want to go!"
+    },
+    {
+     "id": "528",
+     "lines": "How do you expect to cross the seas of the New World without a navigator!?"
+    },
+    {
+     "id": "529",
+     "lines": "That's the spirit!!"
+    },
+    {
+     "id": "530",
+     "lines": "Awesome!"
+    },
+    {
+     "id": "531",
+     "lines": "Treasure, treasure♪"
+    },
+    {
+     "id": "533",
+     "lines": "Get ready, brothers!"
+    },
+    {
+     "id": "534",
+     "lines": "Okay, leave it to me!"
+    },
+    {
+     "id": "535",
+     "lines": "This week I'm SUPER!"
+    },
+    {
+     "id": "536",
+     "lines": "A huge success!"
+    },
+    {
+     "id": "537",
+     "lines": "One blast of my laser and it's over!!"
+    },
+    {
+     "id": "539",
+     "lines": "It's bitterly cold. Please be careful."
+    },
+    {
+     "id": "540",
+     "lines": "Yohohoho~~~!!"
+    },
+    {
+     "id": "541",
+     "lines": "Yohohoho, my music has power"
+    },
+    {
+     "id": "542",
+     "lines": "Oh! Baby!"
+    },
+    {
+     "id": "543",
+     "lines": "Ah! I'm already dead!"
+    },
+    {
+     "id": "545",
+     "lines": "Wait!!"
+    },
+    {
+     "id": "546",
+     "lines": "It doesn't hurt.........!!"
+    },
+    {
+     "id": "547",
+     "lines": "Leave this to me!!!"
+    },
+    {
      "id": "548",
      "lines": "Fish-Man Karate"
+    },
+    {
+     "id": "549",
+     "lines": "There's nothing that doesn't exist!!"
+    },
+    {
+     "id": "557",
+     "lines": "I'm gonna be King of the Pirates!!"
+    },
+    {
+     "id": "559",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "560",
+     "lines": "How can you be a pirate if you're afraid of making a name at sea!"
+    },
+    {
+     "id": "562",
+     "lines": "I'll send you all flying!"
+    },
+    {
+     "id": "563",
+     "lines": "If you're going to watch, shut up and watch."
+    },
+    {
+     "id": "565",
+     "lines": "I use the Three-Sword Style."
+    },
+    {
+     "id": "567",
+     "lines": "The likes of you are no match for me."
+    },
+    {
+     "id": "569",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "570",
+     "lines": "Nice to meet you."
+    },
+    {
+     "id": "572",
+     "lines": "Treasure, treasure♪"
+    },
+    {
+     "id": "573",
+     "lines": "I'll cover you!"
+    },
+    {
+     "id": "575",
+     "lines": "All right, good work, everyone."
+    },
+    {
+     "id": "577",
+     "lines": "Let's go, the battle's starting."
+    },
+    {
+     "id": "579",
+     "lines": "I'll be your opponent."
+    },
+    {
+     "id": "581",
+     "lines": "A man who lives to love women!!!"
+    },
+    {
+     "id": "583",
+     "lines": "I'm not happy at all, you jerk♪"
+    },
+    {
+     "id": "584",
+     "lines": "My name is Tony Tony Chopper!!"
+    },
+    {
+     "id": "585",
+     "lines": "Amazing."
+    },
+    {
+     "id": "588",
+     "lines": "Yay."
+    },
+    {
+     "id": "589",
+     "lines": "Leave it to me."
+    },
+    {
+     "id": "590",
+     "lines": "Getting stronger for someone's sake... I never even thought about it before...!!"
+    },
+    {
+     "id": "594",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "596",
+     "lines": "Let's go!"
+    },
+    {
+     "id": "597",
+     "lines": "No cola?"
+    },
+    {
+     "id": "598",
+     "lines": "Okay, leave it to me!"
+    },
+    {
+     "id": "599",
+     "lines": "I'm fighting too. With everything I've got."
+    },
+    {
+     "id": "600",
+     "lines": "I...!! Really hate people who waste their lives!!"
+    },
+    {
+     "id": "601",
+     "lines": "May I see your panties? Yohohoho~~~"
+    },
+    {
+     "id": "602",
+     "lines": "Ah! I'm already dead!"
+    },
+    {
+     "id": "604",
+     "lines": "Yohohoho~~~!!"
+    },
+    {
+     "id": "605",
+     "lines": "Gahahahaha!"
+    },
+    {
+     "id": "610",
+     "lines": "If I got serious, you'd be finished in no time!"
+    },
+    {
+     "id": "615",
+     "lines": "Don't boss me around!"
+    },
+    {
+     "id": "617",
+     "lines": "I'll train hard as a swordswoman with this Shigure."
+    },
+    {
+     "id": "626",
+     "lines": "I'm an Okama who follows the \"Okama Way\"!!!"
+    },
+    {
+     "id": "628",
+     "lines": "Good day!"
+    },
+    {
+     "id": "629",
+     "lines": "Decided!! I'll! Spin!"
+    },
+    {
+     "id": "638",
+     "lines": "Leave it to me, boss!"
+    },
+    {
+     "id": "639",
+     "lines": "I'm a Thorn Human who ate the Thorn-Thorn Fruit."
+    },
+    {
+     "id": "640",
+     "lines": "Let us show you our professional technique."
+    },
+    {
+     "id": "657",
+     "lines": "Sir, that's sexual harassment."
+    },
+    {
+     "id": "659",
+     "lines": "You're no match for me in strength or beauty."
+    },
+    {
+     "id": "661",
+     "lines": "Don't underestimate me."
+    },
+    {
+     "id": "662",
+     "lines": "A square, yet no blind spots."
+    },
+    {
+     "id": "663",
+     "lines": "I'm only 23."
+    },
+    {
+     "id": "676",
+     "lines": "I'm merely a genius."
+    },
+    {
+     "id": "677",
+     "lines": "That's too much!"
+    },
+    {
+     "id": "678",
+     "lines": "What spirit!"
+    },
+    {
+     "id": "679",
+     "lines": "Hey, hey, Cindry!"
+    },
+    {
+     "id": "681",
+     "lines": "Say something kind and bring me a hot cocoa. I'm a guest!"
+    },
+    {
+     "id": "682",
+     "lines": "I don't need servants who aren't cute!"
+    },
+    {
+     "id": "683",
+     "lines": "I'm a user of the \"Hollow-Hollow Fruit\", who can create ghosts at will."
+    },
+    {
+     "id": "684",
+     "lines": "Don't tell me that guy got lost again?"
+    },
+    {
+     "id": "686",
+     "lines": "My body feels like it's about to dance."
+    },
+    {
+     "id": "687",
+     "lines": "Shall I slice a few spots with my specialty, the \"Swordtail Slash\"?"
+    },
+    {
+     "id": "690",
+     "lines": "You've got guts."
+    },
+    {
+     "id": "691",
+     "lines": "That bastard dares to steal our spotlight."
+    },
+    {
+     "id": "692",
+     "lines": "Are there any female bears?"
+    },
+    {
+     "id": "693",
+     "lines": "Sorry..."
+    },
+    {
+     "id": "694",
+     "lines": "You're a rookie, so you're behind me!"
+    },
+    {
+     "id": "695",
+     "lines": "Leave it to me, Captain!"
+    },
+    {
+     "id": "696",
+     "lines": "Heave-ho!!"
+    },
+    {
+     "id": "697",
+     "lines": "I told you, I'm Sentomaru, the \"world's tightest-lipped\"!"
+    },
+    {
+     "id": "698",
+     "lines": "Geez, so slow!"
+    },
+    {
+     "id": "699",
+     "lines": "Why hasn't old man Kizaru contacted me yet!"
+    },
+    {
+     "id": "700",
+     "lines": "I've officially joined the Marines, and now I'm arresting you!"
+    },
+    {
+     "id": "722",
+     "lines": "I'm not weird at all."
+    },
+    {
+     "id": "724",
+     "lines": "I'm just a hypnotist who happened to be passing by."
+    },
+    {
+     "id": "731",
+     "lines": "You can't beat me."
+    },
+    {
+     "id": "734",
+     "lines": "Let me bury him with my own hands."
+    },
+    {
+     "id": "791",
+     "lines": "Just kill everyone and be done with it"
+    },
+    {
+     "id": "792",
+     "lines": "Don't get in my way!"
+    },
+    {
+     "id": "793",
+     "lines": "I'll wither it away with my right hand"
+    },
+    {
+     "id": "795",
+     "lines": "I need a few more troops. How about it? Coming with me?"
+    },
+    {
+     "id": "796",
+     "lines": "You're too weak..."
+    },
+    {
+     "id": "797",
+     "lines": "You really made a mess of things"
+    },
+    {
+     "id": "798",
+     "lines": "Boring!"
+    },
+    {
+     "id": "799",
+     "lines": "Making an entrance like this looks way cooler!"
+    },
+    {
+     "id": "802",
+     "lines": "I'm gonna be King of the Pirates!!"
+    },
+    {
+     "id": "804",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "805",
+     "lines": "How can you be a pirate if you're afraid of making a name at sea!"
+    },
+    {
+     "id": "807",
+     "lines": "I'll send you all flying!"
+    },
+    {
+     "id": "808",
+     "lines": "If you're going to watch, shut up and watch."
+    },
+    {
+     "id": "810",
+     "lines": "I use the Three-Sword Style."
+    },
+    {
+     "id": "812",
+     "lines": "The likes of you are no match for me."
+    },
+    {
+     "id": "813",
+     "lines": "This guy must give you headaches too. Please take care of him from now on"
+    },
+    {
+     "id": "814",
+     "lines": "Luffy! You little...!"
+    },
+    {
+     "id": "815",
+     "lines": "I'll take any hand reached out to me"
+    },
+    {
+     "id": "817",
+     "lines": "He already has a crew he can rely on. He's not afraid of anything now..."
+    },
+    {
+     "id": "819",
+     "lines": "The reason is... yes, because I am too beautiful."
+    },
+    {
+     "id": "820",
+     "lines": "Whatever I do, the whole world will forgive me..."
+    },
+    {
+     "id": "821",
+     "lines": "The guilt of being smitten with me will turn your bodies to stone..."
+    },
+    {
+     "id": "822",
+     "lines": "I'll be forgiven no matter what I do."
+    },
+    {
+     "id": "824",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "825",
+     "lines": "Nice to meet you."
+    },
+    {
+     "id": "827",
+     "lines": "Treasure, treasure♪"
+    },
+    {
+     "id": "828",
+     "lines": "I'll cover you!"
+    },
+    {
+     "id": "830",
+     "lines": "All right, good work, everyone."
+    },
+    {
+     "id": "832",
+     "lines": "Let's go, the battle's starting."
+    },
+    {
+     "id": "834",
+     "lines": "I'll be your opponent."
+    },
+    {
+     "id": "836",
+     "lines": "A man who lives to love women!!!"
+    },
+    {
+     "id": "839",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "840",
+     "lines": "Nice to meet you."
+    },
+    {
+     "id": "842",
+     "lines": "Treasure, treasure♪"
+    },
+    {
+     "id": "843",
+     "lines": "Gahahahaha!"
+    },
+    {
+     "id": "848",
+     "lines": "If I got serious, you'd be finished in no time!"
+    },
+    {
+     "id": "850",
+     "lines": "Our justice already lives within the World Government"
+    },
+    {
+     "id": "851",
+     "lines": "Here, killing is justified as well"
+    },
+    {
+     "id": "853",
+     "lines": "If certain citizens don't cooperate with the government, we have the right to execute them on the spot"
+    },
+    {
+     "id": "859",
+     "lines": "Leave it to me."
+    },
+    {
+     "id": "860",
+     "lines": "Getting stronger for someone's sake... I never even thought about it before...!!"
+    },
+    {
+     "id": "865",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "866",
+     "lines": "Nice to meet you."
+    },
+    {
+     "id": "868",
+     "lines": "Treasure, treasure♪"
+    },
+    {
+     "id": "869",
+     "lines": "Leave it to me."
+    },
+    {
+     "id": "870",
+     "lines": "Getting stronger for someone's sake... I never even thought about it before...!!"
+    },
+    {
+     "id": "874",
+     "lines": "I'm gonna be King of the Pirates!!"
+    },
+    {
+     "id": "876",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "877",
+     "lines": "How can you be a pirate if you're afraid of making a name at sea!"
+    },
+    {
+     "id": "879",
+     "lines": "What? You calling me?"
+    },
+    {
+     "id": "880",
+     "lines": "Leave this guy to me! I'll cut him down!!"
+    },
+    {
+     "id": "881",
+     "lines": "I have to get even stronger!!"
+    },
+    {
+     "id": "882",
+     "lines": "They're hopeless..."
+    },
+    {
+     "id": "883",
+     "lines": "Oh! Leave it to me!"
+    },
+    {
+     "id": "885",
+     "lines": "What? You calling me?"
+    },
+    {
+     "id": "886",
+     "lines": "Leave this guy to me! I'll cut him down!!"
+    },
+    {
+     "id": "887",
+     "lines": "I have to get even stronger!!"
+    },
+    {
+     "id": "888",
+     "lines": "They're hopeless..."
+    },
+    {
+     "id": "889",
+     "lines": "Oh! Leave it to me!"
+    },
+    {
+     "id": "891",
+     "lines": "See that? My cannon skills!"
+    },
+    {
+     "id": "892",
+     "lines": "I've graduated from the weak trio with Nami and Chopper!"
+    },
+    {
+     "id": "893",
+     "lines": "You could say there's no obstacle I can't overcome"
+    },
+    {
+     "id": "894",
+     "lines": "I'm not who I used to be!"
+    },
+    {
+     "id": "895",
+     "lines": "Everyone trained hard to head for the \"New World\""
+    },
+    {
+     "id": "897",
+     "lines": "What? You calling me?"
+    },
+    {
+     "id": "898",
+     "lines": "Leave this guy to me! I'll cut him down!!"
+    },
+    {
+     "id": "899",
+     "lines": "I have to get even stronger!!"
+    },
+    {
+     "id": "900",
+     "lines": "They're hopeless..."
+    },
+    {
+     "id": "901",
+     "lines": "Oh! Leave it to me!"
+    },
+    {
+     "id": "903",
+     "lines": "I'm getting a little excited!"
+    },
+    {
+     "id": "904",
+     "lines": "How do you expect to cross the seas of the New World without a navigator!?"
+    },
+    {
+     "id": "905",
+     "lines": "Leave the stealing to me!"
+    },
+    {
+     "id": "906",
+     "lines": "No problem, I'll take you wherever you want to go!!"
+    },
+    {
+     "id": "907",
+     "lines": "Leave it to me!!!"
+    },
+    {
+     "id": "908",
+     "lines": "See that? My cannon skills!"
+    },
+    {
+     "id": "909",
+     "lines": "I've graduated from the weak trio with Nami and Chopper!"
+    },
+    {
+     "id": "910",
+     "lines": "You could say there's no obstacle I can't overcome"
+    },
+    {
+     "id": "911",
+     "lines": "I'm not who I used to be!"
+    },
+    {
+     "id": "912",
+     "lines": "Everyone trained hard to head for the \"New World\""
+    },
+    {
+     "id": "914",
+     "lines": "If you come across a \"Poneglyph\", please make me a rubbing."
+    },
+    {
+     "id": "915",
+     "lines": "How troublesome."
+    },
+    {
+     "id": "916",
+     "lines": "It's useless."
+    },
+    {
+     "id": "917",
+     "lines": "Oh my, you all look happy."
+    },
+    {
+     "id": "918",
+     "lines": "Heh heh, I can't wait."
+    },
+    {
+     "id": "919",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "920",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "921",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "922",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "923",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "925",
+     "lines": "Maybe Nami-san and Robin-chan will fall for me right away"
+    },
+    {
+     "id": "926",
+     "lines": "Looks like I can buy some good ingredients."
+    },
+    {
+     "id": "927",
+     "lines": "Just say the word if you need my help"
+    },
+    {
+     "id": "928",
+     "lines": "I was only answering that beautiful heart"
+    },
+    {
+     "id": "929",
+     "lines": "Let's go."
+    },
+    {
+     "id": "931",
+     "lines": "Get ready, brothers!"
+    },
+    {
+     "id": "932",
+     "lines": "Maintenance is ready."
+    },
+    {
+     "id": "934",
+     "lines": "That should do it."
+    },
+    {
+     "id": "937",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "938",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "939",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "940",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "941",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "944",
+     "lines": "The reason is... yes, because I am too beautiful."
+    },
+    {
+     "id": "945",
+     "lines": "Whatever I do, the whole world will forgive me..."
+    },
+    {
+     "id": "946",
+     "lines": "The guilt of being smitten with me will turn your bodies to stone..."
+    },
+    {
+     "id": "947",
+     "lines": "I'll be forgiven no matter what I do."
+    },
+    {
+     "id": "948",
+     "lines": "I'm getting a little excited!"
+    },
+    {
+     "id": "949",
+     "lines": "How do you expect to cross the seas of the New World without a navigator!?"
+    },
+    {
+     "id": "950",
+     "lines": "Leave the stealing to me!"
+    },
+    {
+     "id": "951",
+     "lines": "No problem, I'll take you wherever you want to go!!"
+    },
+    {
+     "id": "952",
+     "lines": "Leave it to me!!!"
+    },
+    {
+     "id": "953",
+     "lines": "Say something kind and bring me a hot cocoa. I'm a guest!"
+    },
+    {
+     "id": "954",
+     "lines": "I don't need servants who aren't cute!"
+    },
+    {
+     "id": "955",
+     "lines": "I'm a user of the \"Hollow-Hollow Fruit\", who can create ghosts at will."
+    },
+    {
+     "id": "956",
+     "lines": "Don't tell me that guy got lost again?"
+    },
+    {
+     "id": "963",
+     "lines": "If you come across a \"Poneglyph\", please make me a rubbing."
+    },
+    {
+     "id": "964",
+     "lines": "How troublesome."
+    },
+    {
+     "id": "965",
+     "lines": "It's useless."
+    },
+    {
+     "id": "966",
+     "lines": "Oh my, you all look happy."
+    },
+    {
+     "id": "967",
+     "lines": "Heh heh, I can't wait."
+    },
+    {
+     "id": "968",
+     "lines": "How nostalgic~ My crewmates~~"
+    },
+    {
+     "id": "969",
+     "lines": "Yohohoho~~~!!"
+    },
+    {
+     "id": "970",
+     "lines": "Even if it costs me these bones, I won't give up"
+    },
+    {
+     "id": "971",
+     "lines": "May I see your panties? Yohohoho~~~"
+    },
+    {
+     "id": "975",
+     "lines": "One day I'll take back every famous sword in the hands of villains around the world."
+    },
+    {
+     "id": "976",
+     "lines": "I don't train with the sword for fun!"
+    },
+    {
+     "id": "978",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "979",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "980",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "981",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "982",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "985",
+     "lines": "The reason is... yes, because I am too beautiful."
+    },
+    {
+     "id": "986",
+     "lines": "Whatever I do, the whole world will forgive me..."
+    },
+    {
+     "id": "987",
+     "lines": "The guilt of being smitten with me will turn your bodies to stone..."
+    },
+    {
+     "id": "988",
+     "lines": "I'll be forgiven no matter what I do."
+    },
+    {
+     "id": "989",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "990",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "991",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "992",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "993",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "995",
+     "lines": "Luffy's definitely a handful, but I'm counting on you all!"
+    },
+    {
+     "id": "996",
+     "lines": "The \"Flame\" won't spare you!"
+    },
+    {
+     "id": "997",
+     "lines": "Heh heh, you've become reliable! Leave the other side to me."
+    },
+    {
+     "id": "999",
+     "lines": "We will carry on his will."
+    },
+    {
+     "id": "1002",
+     "lines": "Luffy's definitely a handful, but I'm counting on you all!"
+    },
+    {
+     "id": "1003",
+     "lines": "The \"Flame\" won't spare you!"
+    },
+    {
+     "id": "1004",
+     "lines": "Heh heh, you've become reliable! Leave the other side to me."
+    },
+    {
+     "id": "1006",
+     "lines": "We will carry on his will."
+    },
+    {
+     "id": "1009",
+     "lines": "This guy must give you headaches too. Please take care of him from now on"
+    },
+    {
+     "id": "1010",
+     "lines": "Luffy! You little...!"
+    },
+    {
+     "id": "1011",
+     "lines": "I'll take any hand reached out to me"
+    },
+    {
+     "id": "1013",
+     "lines": "He already has a crew he can rely on. He's not afraid of anything now..."
+    },
+    {
+     "id": "1020",
+     "lines": "Your lifespan? Or sweets?"
+    },
+    {
+     "id": "1021",
+     "lines": "Mama~ Mama~ Mama~ Mama~"
+    },
+    {
+     "id": "1022",
+     "lines": "Come on~ Let's see what you're about to lose...!"
+    },
+    {
+     "id": "1023",
+     "lines": "Don't get in my way!"
+    },
+    {
+     "id": "1024",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "1025",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "1026",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "1027",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "1028",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "1030",
+     "lines": "Some views can only be seen from a different position..."
+    },
+    {
+     "id": "1031",
+     "lines": "Let's form an alliance! I have a plan!"
+    },
+    {
+     "id": "1032",
+     "lines": "That's enough."
+    },
+    {
+     "id": "1033",
+     "lines": "The seat that belongs to me... I'll take it, no matter what!"
+    },
+    {
+     "id": "1034",
+     "lines": "I'm a doctor."
+    },
+    {
+     "id": "1036",
+     "lines": "If you come across a \"Poneglyph\", please make me a rubbing."
+    },
+    {
+     "id": "1037",
+     "lines": "How troublesome."
+    },
+    {
+     "id": "1038",
+     "lines": "It's useless."
+    },
+    {
+     "id": "1039",
+     "lines": "Oh my, you all look happy."
+    },
+    {
+     "id": "1040",
+     "lines": "Heh heh, I can't wait."
+    },
+    {
+     "id": "1041",
+     "lines": "Maybe Nami-san and Robin-chan will fall for me right away"
+    },
+    {
+     "id": "1042",
+     "lines": "Looks like I can buy some good ingredients."
+    },
+    {
+     "id": "1043",
+     "lines": "Just say the word if you need my help"
+    },
+    {
+     "id": "1044",
+     "lines": "I was only answering that beautiful heart"
+    },
+    {
+     "id": "1045",
+     "lines": "Let's go."
+    },
+    {
+     "id": "1047",
+     "lines": "What? You calling me?"
+    },
+    {
+     "id": "1048",
+     "lines": "Leave this guy to me! I'll cut him down!!"
+    },
+    {
+     "id": "1049",
+     "lines": "I have to get even stronger!!"
+    },
+    {
+     "id": "1050",
+     "lines": "They're hopeless..."
+    },
+    {
+     "id": "1051",
+     "lines": "Oh! Leave it to me!"
+    },
+    {
+     "id": "1053",
+     "lines": "I'm getting a little excited!"
+    },
+    {
+     "id": "1054",
+     "lines": "How do you expect to cross the seas of the New World without a navigator!?"
+    },
+    {
+     "id": "1055",
+     "lines": "Leave the stealing to me!"
+    },
+    {
+     "id": "1056",
+     "lines": "No problem, I'll take you wherever you want to go!!"
+    },
+    {
+     "id": "1057",
+     "lines": "Leave it to me!!!"
+    },
+    {
+     "id": "1058",
+     "lines": "A feast! Bring the sake!"
+    },
+    {
+     "id": "1059",
+     "lines": "Disappear!"
+    },
+    {
+     "id": "1060",
+     "lines": "\"Heavenly Thunder\"!"
+    },
+    {
+     "id": "1061",
+     "lines": "Playtime's over for pirates!"
+    },
+    {
+     "id": "1062",
+     "lines": "Let the greatest battle in this world begin!"
+    },
+    {
+     "id": "1063",
+     "lines": "\"Heavenly Thunder\"!"
+    },
+    {
+     "id": "1066",
+     "lines": "I'll mix it for you right away"
+    },
+    {
+     "id": "1067",
+     "lines": "Those guys are already trapped like rats!"
+    },
+    {
+     "id": "1068",
+     "lines": "I allow it!"
+    },
+    {
+     "id": "1071",
+     "lines": "Oh my... You want to fight me?"
+    },
+    {
+     "id": "1072",
+     "lines": "I warned you"
+    },
+    {
+     "id": "1073",
+     "lines": "Ho... As expected of you!"
+    },
+    {
+     "id": "1074",
+     "lines": "Hey, hey, get them healed already!"
+    },
+    {
+     "id": "1075",
+     "lines": "Oh my my my... You want to fight me?"
+    },
+    {
+     "id": "1077",
+     "lines": "I'm getting a little excited!"
+    },
+    {
+     "id": "1078",
+     "lines": "How do you expect to cross the seas of the New World without a navigator!?"
+    },
+    {
+     "id": "1079",
+     "lines": "Leave the stealing to me!"
+    },
+    {
+     "id": "1080",
+     "lines": "No problem, I'll take you wherever you want to go!!"
+    },
+    {
+     "id": "1081",
+     "lines": "Leave it to me!!!"
+    },
+    {
+     "id": "1082",
+     "lines": "If you come across a \"Poneglyph\", please make me a rubbing."
+    },
+    {
+     "id": "1083",
+     "lines": "How troublesome."
+    },
+    {
+     "id": "1084",
+     "lines": "It's useless."
+    },
+    {
+     "id": "1085",
+     "lines": "Oh my, you all look happy."
+    },
+    {
+     "id": "1086",
+     "lines": "Heh heh, I can't wait."
+    },
+    {
+     "id": "1087",
+     "lines": "So exciting~"
+    },
+    {
+     "id": "1089",
+     "lines": "I helped too!"
+    },
+    {
+     "id": "1090",
+     "lines": "Here I go!"
+    },
+    {
+     "id": "1091",
+     "lines": "I'll do my best!"
+    },
+    {
+     "id": "1094",
+     "lines": "Because this poison is my absolute favorite"
+    },
+    {
+     "id": "1095",
+     "lines": "Ahh~ Thanks for the meal"
+    },
+    {
+     "id": "1096",
+     "lines": "Oh? Are you worried about me?"
+    },
+    {
+     "id": "1097",
+     "lines": "Me? They call me \"Poison Pink\""
+    },
+    {
+     "id": "1099",
+     "lines": "Here I go!"
+    },
+    {
+     "id": "1100",
+     "lines": "A loser like you has no right to speak"
+    },
+    {
+     "id": "1101",
+     "lines": "I'll give you three seconds... Run"
+    },
+    {
+     "id": "1102",
+     "lines": "The mission will be completed"
+    },
+    {
+     "id": "1104",
+     "lines": "Take them! Kuja Pirates!"
+    },
+    {
+     "id": "1105",
+     "lines": "Strength is beauty!"
+    },
+    {
+     "id": "1106",
+     "lines": "This is the Haki of the Kuja!"
+    },
+    {
+     "id": "1107",
+     "lines": "Decadent Sweet Breeze!"
+    },
+    {
+     "id": "1108",
+     "lines": "I take my leave!"
+    },
+    {
+     "id": "1110",
+     "lines": "You're pretty good"
+    },
+    {
+     "id": "1111",
+     "lines": "I'll protect my crewmates!"
+    },
+    {
+     "id": "1112",
+     "lines": "Need something? Is it the next island?"
+    },
+    {
+     "id": "1114",
+     "lines": "I am Dracule Mihawk!"
+    },
+    {
+     "id": "1115",
+     "lines": "Any blade can become a black blade"
+    },
+    {
+     "id": "1116",
+     "lines": "A fine team"
+    },
+    {
+     "id": "1118",
+     "lines": "Know yourself and know your enemy"
+    },
+    {
+     "id": "1121",
+     "lines": "Hmhmhm..."
+    },
+    {
+     "id": "1122",
+     "lines": "I can't hide this radiance"
+    },
+    {
+     "id": "1123",
+     "lines": "Sorry about that"
+    },
+    {
+     "id": "1125",
+     "lines": "A request from a fan?"
+    },
+    {
+     "id": "1128",
+     "lines": "To think you took me for a weakling"
+    },
+    {
+     "id": "1129",
+     "lines": "Let's go!"
+    },
+    {
+     "id": "1130",
+     "lines": "Waaah..."
+    },
+    {
+     "id": "1131",
+     "lines": "If you're bringing snacks, shouldn't they be grapes?"
+    },
+    {
+     "id": "1132",
+     "lines": "Attacking..."
+    },
+    {
+     "id": "1134",
+     "lines": "A cup of fine sake is all I need"
+    },
+    {
+     "id": "1135",
+     "lines": "Don't underestimate our samurai!"
+    },
+    {
+     "id": "1136",
+     "lines": "My adventure begins!"
+    },
+    {
+     "id": "1137",
+     "lines": "The longer it simmers, the better the flavor!"
+    },
+    {
+     "id": "1138",
+     "lines": "I'll \"open\" Wano Country to the world!"
+    },
+    {
+     "id": "1141",
+     "lines": "I'm a member of the \"Musketeer Squad\", you know"
+    },
+    {
+     "id": "1142",
+     "lines": "I'll definitely be of help!"
+    },
+    {
+     "id": "1143",
+     "lines": "I'll fight for you too, Pedro!"
+    },
+    {
+     "id": "1144",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "1146",
+     "lines": "Cut the jokes!"
+    },
+    {
+     "id": "1147",
+     "lines": "Pardon my rudeness~"
+    },
+    {
+     "id": "1148",
+     "lines": "A woman at heart♡~"
+    },
+    {
+     "id": "1149",
+     "lines": "Cut the jokes. The vile one here is your heart!"
+    },
+    {
+     "id": "1150",
+     "lines": "I am a samurai!"
+    },
+    {
+     "id": "1158",
+     "lines": "So reckless..."
+    },
+    {
+     "id": "1159",
+     "lines": "Gurararara..."
+    },
+    {
+     "id": "1160",
+     "lines": "What's there to fear?"
+    },
+    {
+     "id": "1161",
+     "lines": "You're really in the way!"
+    },
+    {
+     "id": "1162",
+     "lines": "Everyone is a child of the sea!"
+    },
+    {
+     "id": "1164",
+     "lines": "That's enough..."
+    },
+    {
+     "id": "1165",
+     "lines": "Don't underestimate me, the Ghost Princess~"
+    },
+    {
+     "id": "1166",
+     "lines": "Seeing you like this breaks my heart~"
+    },
+    {
+     "id": "1167",
+     "lines": "Guess I need to find a new toy"
+    },
+    {
+     "id": "1168",
+     "lines": "Know your place!"
+    },
+    {
+     "id": "1170",
+     "lines": "Sanji! -san♡~"
+    },
+    {
+     "id": "1171",
+     "lines": "I want to apologize! I have to apologize properly!"
+    },
+    {
+     "id": "1172",
+     "lines": "Sw... the essence of sweetness?"
+    },
+    {
+     "id": "1173",
+     "lines": "If people see us, they'll think we're married!"
+    },
+    {
+     "id": "1174",
+     "lines": "Move! Go sit over there!"
+    },
+    {
+     "id": "1177",
+     "lines": "Sanji! -san♡~"
+    },
+    {
+     "id": "1178",
+     "lines": "I want to apologize! I have to apologize properly!"
+    },
+    {
+     "id": "1179",
+     "lines": "Sw... the essence of sweetness?"
+    },
+    {
+     "id": "1180",
+     "lines": "If people see us, they'll think we're married!"
+    },
+    {
+     "id": "1181",
+     "lines": "Move! Go sit over there!"
+    },
+    {
+     "id": "1185",
+     "lines": "Sanji! -san♡~"
+    },
+    {
+     "id": "1186",
+     "lines": "I want to apologize! I have to apologize properly!"
+    },
+    {
+     "id": "1187",
+     "lines": "Sw... the essence of sweetness?"
+    },
+    {
+     "id": "1188",
+     "lines": "If people see us, they'll think we're married!"
+    },
+    {
+     "id": "1189",
+     "lines": "Move! Go sit over there!"
+    },
+    {
+     "id": "1193",
+     "lines": "What on earth is going on..."
+    },
+    {
+     "id": "1194",
+     "lines": "I hate jokes"
+    },
+    {
+     "id": "1195",
+     "lines": "There's someone even stronger than him."
+    },
+    {
+     "id": "1198",
+     "lines": "So... who'll show up?"
+    },
+    {
+     "id": "1199",
+     "lines": "That's in the past. I don't resent him."
+    },
+    {
+     "id": "1200",
+     "lines": "Meaning if I take your head, Kaido won't just sit back and watch"
+    },
+    {
+     "id": "1201",
+     "lines": "That's not necessarily so."
+    },
+    {
+     "id": "1202",
+     "lines": "Prepare to set sail!"
+    },
+    {
+     "id": "1204",
+     "lines": "Here I go!"
+    },
+    {
+     "id": "1205",
+     "lines": "A loser like you has no right to speak"
+    },
+    {
+     "id": "1206",
+     "lines": "I'll give you three seconds... Run"
+    },
+    {
+     "id": "1207",
+     "lines": "The mission will be completed"
+    },
+    {
+     "id": "1209",
+     "lines": "\"Damn it... I can't die no matter what. Isn't there anyone who can kill me?\""
+    },
+    {
+     "id": "1210",
+     "lines": "I won... but I still didn't die"
+    },
+    {
+     "id": "1211",
+     "lines": "Swear your allegiance to me..."
+    },
+    {
+     "id": "1212",
+     "lines": "Prepare yourself!"
+    },
+    {
+     "id": "1213",
+     "lines": "I won... but I still didn't die"
+    },
+    {
+     "id": "1217",
+     "lines": "Maybe Nami-san and Robin-chan will fall for me right away"
+    },
+    {
+     "id": "1218",
+     "lines": "Looks like I can buy some good ingredients."
+    },
+    {
+     "id": "1219",
+     "lines": "Just say the word if you need my help"
+    },
+    {
+     "id": "1220",
+     "lines": "I was only answering that beautiful heart"
+    },
+    {
+     "id": "1221",
+     "lines": "Let's go."
+    },
+    {
+     "id": "1223",
+     "lines": "Bastard, this means war."
+    },
+    {
+     "id": "1224",
+     "lines": "Did we come here to negotiate with them?"
+    },
+    {
+     "id": "1225",
+     "lines": "\"GIFTERS\", get them!!!"
+    },
+    {
+     "id": "1227",
+     "lines": "After talking...? I refuse."
+    },
+    {
+     "id": "1230",
+     "lines": "This idiot!!"
+    },
+    {
+     "id": "1231",
+     "lines": "Hm? How many bowls of red bean soup? Idiot! Red bean soup is my oxygen!!"
+    },
+    {
+     "id": "1232",
+     "lines": "My finest masterpiece!!"
+    },
+    {
+     "id": "1234",
+     "lines": "Die!!"
+    },
+    {
+     "id": "1238",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "1239",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "1240",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "1241",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "1242",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "1245",
+     "lines": "Let's settle this for real!!"
+    },
+    {
+     "id": "1246",
+     "lines": "This brings me closer to Kozuki Oden."
+    },
+    {
+     "id": "1247",
+     "lines": "Wow~!! Is this your ship!! Take me on an adventure!!"
+    },
+    {
+     "id": "1248",
+     "lines": "Let me do it!!"
+    },
+    {
+     "id": "1251",
+     "lines": "The next song is starting!"
+    },
+    {
+     "id": "1252",
+     "lines": "Guess I'll have to take them out"
+    },
+    {
+     "id": "1253",
+     "lines": "I finally get to see everyone!"
+    },
+    {
+     "id": "1256",
+     "lines": "I can't go on...!! Poor me~~"
+    },
+    {
+     "id": "1257",
+     "lines": "You're just shy♪"
+    },
+    {
+     "id": "1258",
+     "lines": "Pull yourself together!! Together, ow!!"
+    },
+    {
+     "id": "1259",
+     "lines": "Ah! Lord Kaido!!"
+    },
+    {
+     "id": "1260",
+     "lines": "Beautiful!"
+    },
+    {
+     "id": "1262",
+     "lines": "I'll kill you"
+    },
+    {
+     "id": "1264",
+     "lines": "In a hurry to die?"
+    },
+    {
+     "id": "1265",
+     "lines": "I can handle this alone"
+    },
+    {
+     "id": "1266",
+     "lines": "Stay right there"
+    },
+    {
+     "id": "1270",
+     "lines": "You really should shut up, sis!!"
+    },
+    {
+     "id": "1271",
+     "lines": "Don't get in my way!!"
+    },
+    {
+     "id": "1272",
+     "lines": "Hey!!!"
+    },
+    {
+     "id": "1274",
+     "lines": "Very good"
+    },
+    {
+     "id": "1277",
+     "lines": "It's begun!"
+    },
+    {
+     "id": "1279",
+     "lines": "You lot, I told you to stand down"
+    },
+    {
+     "id": "1280",
+     "lines": "Stay out of it"
+    },
+    {
+     "id": "1281",
+     "lines": "I'll clean up properly, don't worry"
+    },
+    {
+     "id": "1283",
+     "lines": "This is completely beyond my expectations...!!"
+    },
+    {
+     "id": "1285",
+     "lines": "I have a plan!"
+    },
+    {
+     "id": "1286",
+     "lines": "Let's form an alliance!"
+    },
+    {
+     "id": "1287",
+     "lines": "You're the one who'll disappear...!"
+    },
+    {
+     "id": "1289",
+     "lines": "Ha~hahaha"
+    },
+    {
+     "id": "1290",
+     "lines": "You want to fight me?"
+    },
+    {
+     "id": "1291",
+     "lines": "Come on~~ Let's see what you'll lose!!!"
+    },
+    {
+     "id": "1292",
+     "lines": "So~~~ de~~~li~~~cious~~~!!"
+    },
+    {
+     "id": "1293",
+     "lines": "Hand it over~!!!"
+    },
+    {
+     "id": "1295",
+     "lines": "What the...?"
+    },
+    {
+     "id": "1296",
+     "lines": "So spectacular!!"
+    },
+    {
+     "id": "1297",
+     "lines": "Yay!"
+    },
+    {
+     "id": "1298",
+     "lines": "I'll become stronger!"
+    },
+    {
+     "id": "1299",
+     "lines": "Hahahahaha!"
+    },
+    {
+     "id": "1301",
+     "lines": "Don't fail because you forgot something..."
+    },
+    {
+     "id": "1302",
+     "lines": "Oh my, you all look happy."
+    },
+    {
+     "id": "1303",
+     "lines": "We're pretty lucky..."
+    },
+    {
+     "id": "1304",
+     "lines": "Heh heh, how lively."
+    },
+    {
+     "id": "1305",
+     "lines": "Are your battle preparations flawless?"
+    },
+    {
+     "id": "1306",
+     "lines": "Ready?"
+    },
+    {
+     "id": "1307",
+     "lines": "I'll be your opponent."
+    },
+    {
+     "id": "1308",
+     "lines": "Looks like I can buy some good ingredients."
+    },
+    {
+     "id": "1309",
+     "lines": "The finer the chef, the more care goes into preparation"
+    },
+    {
+     "id": "1310",
+     "lines": "Just say the word if you need my help"
+    },
+    {
+     "id": "1312",
+     "lines": "What? You calling me?"
+    },
+    {
+     "id": "1313",
+     "lines": "Oh! Leave it to me!"
+    },
+    {
+     "id": "1314",
+     "lines": "Piece of cake, Captain!"
+    },
+    {
+     "id": "1315",
+     "lines": "You again..."
+    },
+    {
+     "id": "1316",
+     "lines": "It's finally here... I'll cut him to pieces."
+    },
+    {
+     "id": "1318",
+     "lines": "Amazing~~"
+    },
+    {
+     "id": "1319",
+     "lines": "So exciting~"
+    },
+    {
+     "id": "1320",
+     "lines": "I... I'm not frozen stiff!"
+    },
+    {
+     "id": "1321",
+     "lines": "Yay!"
+    },
+    {
+     "id": "1322",
+     "lines": "Uh-oh!!"
+    },
+    {
+     "id": "1324",
+     "lines": "I'll cover you!"
+    },
+    {
+     "id": "1325",
+     "lines": "All right, good work, everyone!"
+    },
+    {
+     "id": "1326",
+     "lines": "I'm not who I used to be!"
+    },
+    {
+     "id": "1327",
+     "lines": "Awesome!"
+    },
+    {
+     "id": "1328",
+     "lines": "Yo~!"
+    },
+    {
+     "id": "1330",
+     "lines": "No problem, I'll take you wherever you want to go!"
+    },
+    {
+     "id": "1331",
+     "lines": "How do you expect to cross the seas of the New World without a navigator!?"
+    },
+    {
+     "id": "1332",
+     "lines": "That's the spirit!!"
+    },
+    {
+     "id": "1333",
+     "lines": "Awesome!"
+    },
+    {
+     "id": "1334",
+     "lines": "Treasure, treasure♪"
+    },
+    {
+     "id": "1342",
+     "lines": "It's bitterly cold. Please be careful."
+    },
+    {
+     "id": "1343",
+     "lines": "Yohohoho~~~!!"
+    },
+    {
+     "id": "1344",
+     "lines": "Yohohoho, my music has power"
+    },
+    {
+     "id": "1345",
+     "lines": "Oh! Baby!"
+    },
+    {
+     "id": "1347",
+     "lines": "I'm gonna be King of the Pirates!!"
+    },
+    {
+     "id": "1349",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "1350",
+     "lines": "How can you be a pirate if you're afraid of making a name at sea!"
+    },
+    {
+     "id": "1352",
+     "lines": "I'll send you all flying!"
+    },
+    {
+     "id": "1353",
+     "lines": "Ahahahaha!!"
+    },
+    {
+     "id": "1354",
+     "lines": "You want my treasure? You can have it all. Go find it!"
+    },
+    {
+     "id": "1355",
+     "lines": "You lot are no fun"
+    },
+    {
+     "id": "1356",
+     "lines": "I've got to hurry up and live"
+    },
+    {
+     "id": "1358",
+     "lines": "Ahahahaha!!"
+    },
+    {
+     "id": "1359",
+     "lines": "You want my treasure? You can have it all. Go find it!"
+    },
+    {
+     "id": "1360",
+     "lines": "You lot are no fun"
+    },
+    {
+     "id": "1361",
+     "lines": "I've got to hurry up and live"
+    },
+    {
+     "id": "1363",
+     "lines": "Ahahahaha!!"
+    },
+    {
+     "id": "1364",
+     "lines": "You want my treasure? You can have it all. Go find it!"
+    },
+    {
+     "id": "1365",
+     "lines": "You lot are no fun"
+    },
+    {
+     "id": "1366",
+     "lines": "I've got to hurry up and live"
+    },
+    {
+     "id": "1369",
+     "lines": "Wherever you run, you can't escape total annihilation"
+    },
+    {
+     "id": "1370",
+     "lines": "I'm starting to like you more and more"
+    },
+    {
+     "id": "1371",
+     "lines": "I'm the man who'll rule this sea from the sky"
+    },
+    {
+     "id": "1373",
+     "lines": "Just wearing this doesn't make me sink to Germa's level."
+    },
+    {
+     "id": "1375",
+     "lines": "So this is the power of the battle suit!!"
+    },
+    {
+     "id": "1376",
+     "lines": "My name is... Soba Mask!"
+    },
+    {
+     "id": "1378",
+     "lines": "I'll kill you"
+    },
+    {
+     "id": "1380",
+     "lines": "In a hurry to die?"
+    },
+    {
+     "id": "1381",
+     "lines": "I can handle this alone"
+    },
+    {
+     "id": "1382",
+     "lines": "Stay right there"
+    },
+    {
+     "id": "1385",
+     "lines": "What the...?"
+    },
+    {
+     "id": "1386",
+     "lines": "So spectacular!!"
+    },
+    {
+     "id": "1387",
+     "lines": "Yay!"
+    },
+    {
+     "id": "1388",
+     "lines": "I'll become stronger!"
+    },
+    {
+     "id": "1389",
+     "lines": "Hahahahaha!"
+    },
+    {
+     "id": "1391",
+     "lines": "Just kidding..."
+    },
+    {
+     "id": "1392",
+     "lines": "Don't go telling on me to Sakazuki, okay!?"
+    },
+    {
+     "id": "1393",
+     "lines": "I'm the \"Forest Man\" who ate the Woods-Woods Fruit!!!"
+    },
+    {
+     "id": "1394",
+     "lines": "The festival drums are roaring. How fun..."
+    },
+    {
+     "id": "1395",
+     "lines": "I'll skewer you like a kebab!"
+    },
+    {
+     "id": "1397",
+     "lines": "Just kidding..."
+    },
+    {
+     "id": "1398",
+     "lines": "Don't go telling on me to Sakazuki, okay!?"
+    },
+    {
+     "id": "1399",
+     "lines": "I'm the \"Forest Man\" who ate the Woods-Woods Fruit!!!"
+    },
+    {
+     "id": "1400",
+     "lines": "The festival drums are roaring. How fun..."
+    },
+    {
+     "id": "1401",
+     "lines": "I'll skewer you like a kebab!"
+    },
+    {
+     "id": "1403",
+     "lines": "Don't try to stop me!!!"
+    },
+    {
+     "id": "1404",
+     "lines": "I want to live as freely as Oden did!!!"
+    },
+    {
+     "id": "1405",
+     "lines": "Don't get in my way!!"
+    },
+    {
+     "id": "1406",
+     "lines": "Hiya!"
+    },
+    {
+     "id": "1407",
+     "lines": "Let me fight alongside you!!!"
+    },
+    {
+     "id": "1409",
+     "lines": "Don't try to stop me!!!"
+    },
+    {
+     "id": "1410",
+     "lines": "I want to live as freely as Oden did!!!"
+    },
+    {
+     "id": "1411",
+     "lines": "Don't get in my way!!"
+    },
+    {
+     "id": "1412",
+     "lines": "Hiya!"
+    },
+    {
+     "id": "1413",
+     "lines": "Let me fight alongside you!!!"
+    },
+    {
+     "id": "1417",
+     "lines": "Not bad at all!"
+    },
+    {
+     "id": "1418",
+     "lines": "Stay out of it"
+    },
+    {
+     "id": "1419",
+     "lines": "Ah!"
+    },
+    {
+     "id": "1423",
+     "lines": "Not bad at all!"
+    },
+    {
+     "id": "1424",
+     "lines": "Stay out of it"
+    },
+    {
+     "id": "1425",
+     "lines": "Ah!"
+    },
+    {
+     "id": "1427",
+     "lines": "This is completely beyond my expectations...!!"
+    },
+    {
+     "id": "1429",
+     "lines": "I have a plan!"
+    },
+    {
+     "id": "1430",
+     "lines": "Let's form an alliance!"
+    },
+    {
+     "id": "1431",
+     "lines": "You're the one who'll disappear...!"
+    },
+    {
+     "id": "1433",
+     "lines": "I'm Bonney!!"
+    },
+    {
+     "id": "1434",
+     "lines": "You don't know me!?"
+    },
+    {
+     "id": "1435",
+     "lines": "You and I are \"enemies\"... remember that"
+    },
+    {
+     "id": "1437",
+     "lines": "I won't lose!"
+    },
+    {
+     "id": "1439",
+     "lines": "I'm Bonney!!"
+    },
+    {
+     "id": "1440",
+     "lines": "You don't know me!?"
+    },
+    {
+     "id": "1441",
+     "lines": "You and I are \"enemies\"... remember that"
+    },
+    {
+     "id": "1443",
+     "lines": "I won't lose!"
+    },
+    {
+     "id": "1445",
+     "lines": "I'm Bonney!!"
+    },
+    {
+     "id": "1446",
+     "lines": "You don't know me!?"
+    },
+    {
+     "id": "1447",
+     "lines": "You and I are \"enemies\"... remember that"
+    },
+    {
+     "id": "1449",
+     "lines": "I won't lose!"
+    },
+    {
+     "id": "1452",
+     "lines": "I'm Bonney!!"
+    },
+    {
+     "id": "1453",
+     "lines": "You don't know me!?"
+    },
+    {
+     "id": "1454",
+     "lines": "You and I are \"enemies\"... remember that"
+    },
+    {
+     "id": "1456",
+     "lines": "I won't lose!"
+    },
+    {
+     "id": "1478",
+     "lines": "Attack aborted"
+    },
+    {
+     "id": "1479",
+     "lines": "Mm!"
+    },
+    {
+     "id": "1480",
+     "lines": "Hmph...!"
+    },
+    {
+     "id": "1482",
+     "lines": "Understood. Attack commencing"
+    },
+    {
+     "id": "1484",
+     "lines": "Attack aborted"
+    },
+    {
+     "id": "1485",
+     "lines": "Mm!"
+    },
+    {
+     "id": "1486",
+     "lines": "Hmph...!"
+    },
+    {
+     "id": "1488",
+     "lines": "Understood. Attack commencing"
+    },
+    {
+     "id": "1491",
+     "lines": "A cup of fine sake is all I need"
+    },
+    {
+     "id": "1492",
+     "lines": "Don't underestimate our samurai!"
+    },
+    {
+     "id": "1493",
+     "lines": "My adventure begins!"
+    },
+    {
+     "id": "1494",
+     "lines": "The longer it simmers, the better the flavor!"
+    },
+    {
+     "id": "1495",
+     "lines": "I'll \"open\" Wano Country to the world!"
+    },
+    {
+     "id": "1498",
+     "lines": "Ah"
+    },
+    {
+     "id": "1499",
+     "lines": "I... feel so awful..."
+    },
+    {
+     "id": "1500",
+     "lines": "H-how dare you! I'm only following orders!!"
+    },
+    {
+     "id": "1501",
+     "lines": "Don't touch me! You insolent wretch!!!"
+    },
+    {
+     "id": "1502",
+     "lines": "Attack commencing...!!"
+    },
+    {
+     "id": "1504",
+     "lines": "Ah"
+    },
+    {
+     "id": "1505",
+     "lines": "I... feel so awful..."
+    },
+    {
+     "id": "1506",
+     "lines": "H-how dare you! I'm only following orders!!"
+    },
+    {
+     "id": "1507",
+     "lines": "Don't touch me! You insolent wretch!!!"
+    },
+    {
+     "id": "1508",
+     "lines": "Attack commencing...!!"
+    },
+    {
+     "id": "1513",
+     "lines": "How heartless"
+    },
+    {
+     "id": "1514",
+     "lines": "Hey hey, that's way too cold!!"
+    },
+    {
+     "id": "1515",
+     "lines": "Come on!"
+    },
+    {
+     "id": "1516",
+     "lines": "Here's my chance, here's my chance"
+    },
+    {
+     "id": "1517",
+     "lines": "In this situation, you don't stand a chance"
+    },
+    {
+     "id": "1519",
+     "lines": "How heartless"
+    },
+    {
+     "id": "1520",
+     "lines": "Hey hey, that's way too cold!!"
+    },
+    {
+     "id": "1521",
+     "lines": "Come on!"
+    },
+    {
+     "id": "1522",
+     "lines": "Here's my chance, here's my chance"
+    },
+    {
+     "id": "1523",
+     "lines": "In this situation, you don't stand a chance"
+    },
+    {
+     "id": "1526",
+     "lines": "How heartless"
+    },
+    {
+     "id": "1527",
+     "lines": "Hey hey, that's way too cold!!"
+    },
+    {
+     "id": "1528",
+     "lines": "Come on!"
+    },
+    {
+     "id": "1529",
+     "lines": "Here's my chance, here's my chance"
+    },
+    {
+     "id": "1530",
+     "lines": "In this situation, you don't stand a chance"
+    },
+    {
+     "id": "1532",
+     "lines": "Okay, leave it to me"
+    },
+    {
+     "id": "1533",
+     "lines": "We'll definitely get him off this island!"
+    },
+    {
+     "id": "1534",
+     "lines": "Here I go~!"
+    },
+    {
+     "id": "1536",
+     "lines": "Okay, leave it to me"
+    },
+    {
+     "id": "1537",
+     "lines": "We'll definitely get him off this island!"
+    },
+    {
+     "id": "1538",
+     "lines": "Here I go~!"
+    },
+    {
+     "id": "1540",
+     "lines": "Okay, leave it to me"
+    },
+    {
+     "id": "1541",
+     "lines": "We'll definitely get him off this island!"
+    },
+    {
+     "id": "1542",
+     "lines": "Here I go~!"
+    },
+    {
+     "id": "1544",
+     "lines": "Okay, leave it to me"
+    },
+    {
+     "id": "1545",
+     "lines": "We'll definitely get him off this island!"
+    },
+    {
+     "id": "1546",
+     "lines": "Here I go~!"
+    },
+    {
+     "id": "1548",
+     "lines": "Okay, leave it to me"
+    },
+    {
+     "id": "1549",
+     "lines": "We'll definitely get him off this island!"
+    },
+    {
+     "id": "1550",
+     "lines": "Here I go~!"
+    },
+    {
+     "id": "1552",
+     "lines": "Okay, leave it to me"
+    },
+    {
+     "id": "1553",
+     "lines": "We'll definitely get him off this island!"
+    },
+    {
+     "id": "1554",
+     "lines": "Here I go~!"
+    },
+    {
+     "id": "1556",
+     "lines": "Bastard, this means war."
+    },
+    {
+     "id": "1557",
+     "lines": "Did we come here to negotiate with them?"
+    },
+    {
+     "id": "1558",
+     "lines": "\"GIFTERS\", get them!!!"
+    },
+    {
+     "id": "1560",
+     "lines": "After talking...? I refuse."
+    },
+    {
+     "id": "1564",
+     "lines": "This idiot!!"
+    },
+    {
+     "id": "1565",
+     "lines": "Hm? How many bowls of red bean soup? Idiot! Red bean soup is my oxygen!!"
+    },
+    {
+     "id": "1566",
+     "lines": "My finest masterpiece!!"
+    },
+    {
+     "id": "1568",
+     "lines": "Die!!"
+    },
+    {
+     "id": "1572",
+     "lines": "I'll kill you"
+    },
+    {
+     "id": "1574",
+     "lines": "In a hurry to die?"
+    },
+    {
+     "id": "1575",
+     "lines": "I can handle this alone"
+    },
+    {
+     "id": "1576",
+     "lines": "Stay right there"
+    },
+    {
+     "id": "1580",
+     "lines": "\"Damn it... I can't die no matter what. Isn't there anyone who can kill me?\""
+    },
+    {
+     "id": "1581",
+     "lines": "I won... but I still didn't die"
+    },
+    {
+     "id": "1582",
+     "lines": "Swear your allegiance to me..."
+    },
+    {
+     "id": "1583",
+     "lines": "Prepare yourself!"
+    },
+    {
+     "id": "1584",
+     "lines": "I won... but I still didn't die"
+    },
+    {
+     "id": "1588",
+     "lines": "Still breathing......"
+    },
+    {
+     "id": "1589",
+     "lines": "A perfectly natural outcome"
+    },
+    {
+     "id": "1590",
+     "lines": "I see. Looks like I can enjoy myself"
+    },
+    {
+     "id": "1591",
+     "lines": "We're not playing around here"
+    },
+    {
+     "id": "1592",
+     "lines": "How annoying"
+    },
+    {
+     "id": "1594",
+     "lines": "Still breathing......"
+    },
+    {
+     "id": "1595",
+     "lines": "A perfectly natural outcome"
+    },
+    {
+     "id": "1596",
+     "lines": "I see. Looks like I can enjoy myself"
+    },
+    {
+     "id": "1597",
+     "lines": "We're not playing around here"
+    },
+    {
+     "id": "1598",
+     "lines": "How annoying"
+    },
+    {
+     "id": "1600",
+     "lines": "Still breathing......"
+    },
+    {
+     "id": "1601",
+     "lines": "A perfectly natural outcome"
+    },
+    {
+     "id": "1602",
+     "lines": "I see. Looks like I can enjoy myself"
+    },
+    {
+     "id": "1603",
+     "lines": "We're not playing around here"
+    },
+    {
+     "id": "1604",
+     "lines": "How annoying"
+    },
+    {
+     "id": "1606",
+     "lines": "Still breathing......"
+    },
+    {
+     "id": "1607",
+     "lines": "A perfectly natural outcome"
+    },
+    {
+     "id": "1608",
+     "lines": "I see. Looks like I can enjoy myself"
+    },
+    {
+     "id": "1609",
+     "lines": "We're not playing around here"
+    },
+    {
+     "id": "1610",
+     "lines": "How annoying"
+    },
+    {
+     "id": "1613",
+     "lines": "Impatience is really unattractive, you know"
+    },
+    {
+     "id": "1614",
+     "lines": "Oh my, here you are"
+    },
+    {
+     "id": "1615",
+     "lines": "Hohohohoho"
+    },
+    {
+     "id": "1616",
+     "lines": "Oh my, how scary"
+    },
+    {
+     "id": "1617",
+     "lines": "Am I scary?"
+    },
+    {
+     "id": "1619",
+     "lines": "Impatience is really unattractive, you know"
+    },
+    {
+     "id": "1620",
+     "lines": "Oh my, here you are"
+    },
+    {
+     "id": "1621",
+     "lines": "Hohohohoho"
+    },
+    {
+     "id": "1622",
+     "lines": "Oh my, how scary"
+    },
+    {
+     "id": "1623",
+     "lines": "Am I scary?"
+    },
+    {
+     "id": "1625",
+     "lines": "Impatience is really unattractive, you know"
+    },
+    {
+     "id": "1626",
+     "lines": "Oh my, here you are"
+    },
+    {
+     "id": "1627",
+     "lines": "Hohohohoho"
+    },
+    {
+     "id": "1628",
+     "lines": "Oh my, how scary"
+    },
+    {
+     "id": "1629",
+     "lines": "Am I scary?"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "1/1642 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "id": "249",
+     "lines": "A feast! Bring the sake!"
+    },
+    {
+     "id": "250",
+     "lines": "Disappear!"
+    },
+    {
+     "id": "251",
+     "lines": "\"Heavenly Thunder\"!"
+    },
+    {
+     "id": "252",
+     "lines": "Playtime's over for pirates!"
+    },
+    {
+     "id": "253",
+     "lines": "Let the greatest battle in this world begin!"
+    },
+    {
+     "id": "254",
+     "lines": "\"Heavenly Thunder\"!"
+    },
+    {
+     "id": "256",
+     "lines": "I'll mix it for you right away"
+    },
+    {
+     "id": "257",
+     "lines": "Those guys are already trapped like rats!"
+    },
+    {
+     "id": "258",
+     "lines": "I allow it!"
+    },
+    {
+     "id": "260",
+     "lines": "Oh my... You want to fight me?"
+    },
+    {
+     "id": "261",
+     "lines": "I warned you"
+    },
+    {
+     "id": "262",
+     "lines": "Ho... As expected of you!"
+    },
+    {
+     "id": "263",
+     "lines": "Hey, hey, get them healed already!"
+    },
+    {
+     "id": "264",
+     "lines": "Oh my my my... You want to fight me?"
+    },
+    {
+     "id": "266",
+     "lines": "What!?"
+    },
+    {
+     "id": "267",
+     "lines": "That fool is no longer a Marine!"
+    },
+    {
+     "id": "268",
+     "lines": "If you don't bring back the heads of Straw Hat and Law, don't even think of setting foot in the base!"
+    },
+    {
+     "id": "269",
+     "lines": "Stop playing dumb!"
+    },
+    {
+     "id": "270",
+     "lines": "This is about the credibility and dignity of \"Marine HQ\"!"
+    },
+    {
+     "id": "273",
+     "lines": "Because this poison is my absolute favorite"
+    },
+    {
+     "id": "274",
+     "lines": "Ahh~ Thanks for the meal"
+    },
+    {
+     "id": "275",
+     "lines": "Oh? Are you worried about me?"
+    },
+    {
+     "id": "276",
+     "lines": "Me? They call me \"Poison Pink\""
+    },
+    {
+     "id": "278",
+     "lines": "Here I go!"
+    },
+    {
+     "id": "279",
+     "lines": "A loser like you has no right to speak"
+    },
+    {
+     "id": "280",
+     "lines": "I'll give you three seconds... Run"
+    },
+    {
+     "id": "281",
+     "lines": "The mission will be completed"
+    },
+    {
+     "id": "283",
+     "lines": "Take them! Kuja Pirates!"
+    },
+    {
+     "id": "284",
+     "lines": "Strength is beauty!"
+    },
+    {
+     "id": "285",
+     "lines": "This is the Haki of the Kuja!"
+    },
+    {
+     "id": "286",
+     "lines": "Decadent Sweet Breeze!"
+    },
+    {
+     "id": "287",
+     "lines": "I take my leave!"
+    },
+    {
+     "id": "289",
+     "lines": "My fighting spirit is burning already!"
+    },
+    {
+     "id": "291",
+     "lines": "Ugh! Stop embarrassing yourself!"
+    },
+    {
+     "id": "292",
+     "lines": "I'm a \"Barrier Human\" who ate the \"Barrier-Barrier Fruit\"!"
+    },
+    {
+     "id": "294",
+     "lines": "You're pretty good"
+    },
+    {
+     "id": "295",
+     "lines": "Need something?"
+    },
+    {
+     "id": "296",
+     "lines": "Take this!"
+    },
+    {
+     "id": "297",
+     "lines": "Is it the next island?"
+    },
+    {
+     "id": "298",
+     "lines": "I'll protect my crewmates!"
+    },
+    {
+     "id": "300",
+     "lines": "I am Dracule Mihawk!"
+    },
+    {
+     "id": "301",
+     "lines": "Any blade can become a black blade"
+    },
+    {
+     "id": "302",
+     "lines": "A fine team"
+    },
+    {
+     "id": "304",
+     "lines": "Know yourself and know your enemy"
+    },
+    {
+     "id": "307",
+     "lines": "Hmhmhm..."
+    },
+    {
+     "id": "308",
+     "lines": "I can't hide this radiance"
+    },
+    {
+     "id": "309",
+     "lines": "Sorry about that"
+    },
+    {
+     "id": "311",
+     "lines": "A request from a fan?"
+    },
+    {
+     "id": "313",
+     "lines": "To think you took me for a weakling"
+    },
+    {
+     "id": "314",
+     "lines": "Let's go!"
+    },
+    {
+     "id": "315",
+     "lines": "Waaah..."
+    },
+    {
+     "id": "316",
+     "lines": "If you're bringing snacks, shouldn't they be grapes?"
+    },
+    {
+     "id": "317",
+     "lines": "Attacking..."
+    },
+    {
+     "id": "319",
+     "lines": "A cup of fine sake is all I need"
+    },
+    {
+     "id": "320",
+     "lines": "Don't underestimate our samurai!"
+    },
+    {
+     "id": "321",
+     "lines": "My adventure begins!"
+    },
+    {
+     "id": "322",
+     "lines": "The longer it simmers, the better the flavor!"
+    },
+    {
+     "id": "323",
+     "lines": "I'll \"open\" Wano Country to the world!"
+    },
+    {
+     "id": "325",
+     "lines": "That's our captain... What more could I ask from life!"
+    },
+    {
+     "id": "327",
+     "lines": "Mm! Good luck!"
+    },
+    {
+     "id": "328",
+     "lines": "I have a proposal"
+    },
+    {
+     "id": "330",
+     "lines": "I'm a member of the \"Musketeer Squad\", you know"
+    },
+    {
+     "id": "331",
+     "lines": "I'll definitely be of help!"
+    },
+    {
+     "id": "332",
+     "lines": "Because tonight is a full moon"
+    },
+    {
+     "id": "333",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "335",
+     "lines": "Cut the jokes!"
+    },
+    {
+     "id": "336",
+     "lines": "Excuse me~"
+    },
+    {
+     "id": "337",
+     "lines": "A woman at heart♡~"
+    },
+    {
+     "id": "338",
+     "lines": "Cut the jokes. The vile one here is your heart!"
+    },
+    {
+     "id": "339",
+     "lines": "I am a samurai!"
+    },
+    {
+     "id": "340",
+     "lines": "Cut the jokes!"
+    },
+    {
+     "id": "347",
+     "lines": "So reckless..."
+    },
+    {
+     "id": "348",
+     "lines": "Gurararara..."
+    },
+    {
+     "id": "349",
+     "lines": "What's there to fear?"
+    },
+    {
+     "id": "350",
+     "lines": "You're really in the way!"
+    },
+    {
+     "id": "351",
+     "lines": "Everyone is a child of the sea!"
+    },
+    {
+     "id": "353",
+     "lines": "That's enough..."
+    },
+    {
+     "id": "354",
+     "lines": "Don't underestimate me, the Ghost Princess~"
+    },
+    {
+     "id": "355",
+     "lines": "Seeing you like this breaks my heart~"
+    },
+    {
+     "id": "356",
+     "lines": "Guess I need to find a new toy"
+    },
+    {
+     "id": "357",
+     "lines": "Know your place!"
+    },
+    {
+     "id": "359",
+     "lines": "Hahahaha"
+    },
+    {
+     "id": "360",
+     "lines": "Here we go, brats!"
+    },
+    {
+     "id": "361",
+     "lines": "A little accident happened..."
+    },
+    {
+     "id": "362",
+     "lines": "Even as a Marine, I can't bring myself to hate him"
+    },
+    {
+     "id": "363",
+     "lines": "Sorry, but you're staying in the sea as fish food!"
+    },
+    {
+     "id": "365",
+     "lines": "Now let me open your eyes"
+    },
+    {
+     "id": "366",
+     "lines": "This is the pirates' paradise. You have to have fun"
+    },
+    {
+     "id": "367",
+     "lines": "Zehahaha... Your era ended along with Whitebeard!"
+    },
+    {
+     "id": "368",
+     "lines": "I'm the strongest!"
+    },
+    {
+     "id": "369",
+     "lines": "Seize the world with me! I've already planned the road to supremacy!"
+    },
+    {
+     "id": "371",
+     "lines": "That's indeed reasonable"
+    },
+    {
+     "id": "372",
+     "lines": "I am the king of the Mokomo Dukedom"
+    },
+    {
+     "id": "373",
+     "lines": "Bring out the ships! Prepare for a sea battle!"
+    },
+    {
+     "id": "374",
+     "lines": "The \"King of the Night\" (the fool) is awake..."
+    },
+    {
+     "id": "375",
+     "lines": "This is a meaningless, worthless battle!"
+    },
+    {
+     "id": "377",
+     "lines": "Gorogoro meow~ You sure know how to talk"
+    },
+    {
+     "id": "378",
+     "lines": "Don't get the \"Day\" guys all worked up for nothing"
+    },
+    {
+     "id": "379",
+     "lines": "Lasagna~♪ So tasty, meow~♪"
+    },
+    {
+     "id": "380",
+     "lines": "I'm Nekomamushi!"
+    },
+    {
+     "id": "381",
+     "lines": "Ah! Silvervine is sprouting!"
+    },
+    {
+     "id": "383",
+     "lines": "Sanji! -san♡~"
+    },
+    {
+     "id": "384",
+     "lines": "I want to apologize! I have to apologize properly!"
+    },
+    {
+     "id": "385",
+     "lines": "Sw... the essence of sweetness?"
+    },
+    {
+     "id": "386",
+     "lines": "If people see us, they'll think we're married!"
+    },
+    {
+     "id": "387",
+     "lines": "Move! Go sit over there!"
+    },
+    {
+     "id": "389",
+     "lines": "What on earth is going on..."
+    },
+    {
+     "id": "390",
+     "lines": "I hate jokes"
+    },
+    {
+     "id": "391",
+     "lines": "There's someone even stronger than him."
+    },
+    {
+     "id": "393",
+     "lines": "So... who'll show up?"
+    },
+    {
+     "id": "394",
+     "lines": "That's in the past. I don't resent him."
+    },
+    {
+     "id": "395",
+     "lines": "Meaning if I take your head, Kaido won't just sit back and watch"
+    },
+    {
+     "id": "396",
+     "lines": "That's not necessarily so."
+    },
+    {
+     "id": "397",
+     "lines": "Prepare to set sail!"
+    },
+    {
+     "id": "399",
+     "lines": "Endless loneliness really is boring enough to die!"
+    },
+    {
+     "id": "400",
+     "lines": "Walked right into my hands"
+    },
+    {
+     "id": "401",
+     "lines": "What a disorderly fight"
+    },
+    {
+     "id": "402",
+     "lines": "Is there anything wrong with getting rid of trash..."
+    },
+    {
+     "id": "403",
+     "lines": "Ah, that's quite interesting"
+    },
+    {
+     "id": "405",
+     "lines": "Are you here for a meeting or a fight?"
+    },
+    {
+     "id": "406",
+     "lines": "Any objections to the battle plan?"
+    },
+    {
+     "id": "408",
+     "lines": "Don't think I'll let you off!!!"
+    },
+    {
+     "id": "409",
+     "lines": "Stop dawdling!!!"
+    },
+    {
+     "id": "411",
+     "lines": "\"Damn it... I can't die no matter what. Isn't there anyone who can kill me?\""
+    },
+    {
+     "id": "412",
+     "lines": "I won... but I still didn't die"
+    },
+    {
+     "id": "413",
+     "lines": "Swear your allegiance to me..."
+    },
+    {
+     "id": "414",
+     "lines": "Prepare yourself!"
+    },
+    {
+     "id": "415",
+     "lines": "I won... but I still didn't die"
+    },
+    {
+     "id": "417",
+     "lines": "Bastard, this means war."
+    },
+    {
+     "id": "418",
+     "lines": "Did we come here to negotiate with them?"
+    },
+    {
+     "id": "419",
+     "lines": "\"GIFTERS\", get them!!!"
+    },
+    {
+     "id": "421",
+     "lines": "After talking...? I refuse."
+    },
+    {
+     "id": "423",
+     "lines": "This idiot!!"
+    },
+    {
+     "id": "424",
+     "lines": "Hm? How many bowls of red bean soup? Idiot! Red bean soup is my oxygen!!"
+    },
+    {
+     "id": "425",
+     "lines": "My finest masterpiece!!"
+    },
+    {
+     "id": "427",
+     "lines": "Die!!"
+    },
+    {
+     "id": "430",
+     "lines": "Let's settle this for real!!"
+    },
+    {
+     "id": "431",
+     "lines": "This brings me closer to Kozuki Oden."
+    },
+    {
+     "id": "432",
+     "lines": "Wow~!! Is this your ship!! Take me on an adventure!!"
+    },
+    {
+     "id": "433",
+     "lines": "Let me do it!!"
+    },
+    {
+     "id": "436",
+     "lines": "The next song is starting!"
+    },
+    {
+     "id": "437",
+     "lines": "Guess I'll have to take them out"
+    },
+    {
+     "id": "438",
+     "lines": "I finally get to see everyone!"
+    },
+    {
+     "id": "441",
+     "lines": "I can't go on...!! Poor me~~"
+    },
+    {
+     "id": "442",
+     "lines": "You're just shy♪"
+    },
+    {
+     "id": "443",
+     "lines": "Pull yourself together!! Together, ow!!"
+    },
+    {
+     "id": "444",
+     "lines": "Ah! Lord Kaido!!"
+    },
+    {
+     "id": "445",
+     "lines": "Beautiful!"
+    },
+    {
+     "id": "447",
+     "lines": "I'll kill you"
+    },
+    {
+     "id": "449",
+     "lines": "In a hurry to die?"
+    },
+    {
+     "id": "450",
+     "lines": "I can handle this alone"
+    },
+    {
+     "id": "451",
+     "lines": "Stay right there"
+    },
+    {
+     "id": "453",
+     "lines": "You really should shut up, sis!!"
+    },
+    {
+     "id": "454",
+     "lines": "Don't get in my way!!"
+    },
+    {
+     "id": "455",
+     "lines": "Hey!!!"
+    },
+    {
+     "id": "457",
+     "lines": "Very good"
+    },
+    {
+     "id": "459",
+     "lines": "Let's end this..."
+    },
+    {
+     "id": "460",
+     "lines": "Don't talk nonsense"
+    },
+    {
+     "id": "462",
+     "lines": "What a boring opponent..."
+    },
+    {
+     "id": "465",
+     "lines": "It's begun!"
+    },
+    {
+     "id": "467",
+     "lines": "You lot, I told you to stand down"
+    },
+    {
+     "id": "468",
+     "lines": "Stay out of it"
+    },
+    {
+     "id": "469",
+     "lines": "I'll clean up properly, don't worry"
+    },
+    {
+     "id": "471",
+     "lines": "This is completely beyond my expectations...!!"
+    },
+    {
+     "id": "473",
+     "lines": "I have a plan!"
+    },
+    {
+     "id": "474",
+     "lines": "Let's form an alliance!"
+    },
+    {
+     "id": "475",
+     "lines": "You're the one who'll disappear...!"
+    },
+    {
+     "id": "477",
+     "lines": "Ha~hahaha"
+    },
+    {
+     "id": "478",
+     "lines": "You want to fight me?"
+    },
+    {
+     "id": "479",
+     "lines": "Come on~~ Let's see what you'll lose!!!"
+    },
+    {
+     "id": "480",
+     "lines": "So~~~ de~~~li~~~cious~~~!!"
+    },
+    {
+     "id": "481",
+     "lines": "Hand it over~!!!"
+    },
+    {
+     "id": "483",
+     "lines": "I'm gonna be King of the Pirates!!"
+    },
+    {
+     "id": "485",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "486",
+     "lines": "How can you be a pirate if you're afraid of making a name at sea!"
+    },
+    {
+     "id": "488",
+     "lines": "I'll send you all flying!"
+    },
+    {
+     "id": "489",
+     "lines": "If you're going to watch, shut up and watch."
+    },
+    {
+     "id": "491",
+     "lines": "I use the Three-Sword Style."
+    },
+    {
+     "id": "493",
+     "lines": "The likes of you are no match for me."
+    },
+    {
+     "id": "495",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "496",
+     "lines": "Nice to meet you."
+    },
+    {
+     "id": "498",
+     "lines": "Treasure, treasure♪"
+    },
+    {
+     "id": "499",
+     "lines": "I'll cover you!"
+    },
+    {
+     "id": "501",
+     "lines": "All right, good work, everyone."
+    },
+    {
+     "id": "503",
+     "lines": "Let's go, the battle's starting."
+    },
+    {
+     "id": "505",
+     "lines": "I'll be your opponent."
+    },
+    {
+     "id": "507",
+     "lines": "A man who lives to love women!!!"
+    },
+    {
+     "id": "509",
+     "lines": "I'm not happy at all, you jerk♪"
+    },
+    {
+     "id": "510",
+     "lines": "My name is Tony Tony Chopper!!"
+    },
+    {
+     "id": "511",
+     "lines": "Amazing."
+    },
+    {
+     "id": "514",
+     "lines": "Yay."
+    },
+    {
+     "id": "515",
+     "lines": "Leave it to me."
+    },
+    {
+     "id": "516",
+     "lines": "Getting stronger for someone's sake... I never even thought about it before...!!"
+    },
+    {
+     "id": "520",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "522",
+     "lines": "Let's go!"
+    },
+    {
+     "id": "523",
+     "lines": "No cola?"
+    },
+    {
+     "id": "524",
+     "lines": "Okay, leave it to me!"
+    },
+    {
+     "id": "525",
+     "lines": "I'm fighting too. With everything I've got."
+    },
+    {
+     "id": "526",
+     "lines": "I...!! Really hate people who waste their lives!!"
+    },
+    {
+     "id": "527",
+     "lines": "May I see your panties? Yohohoho~~~"
+    },
+    {
+     "id": "528",
+     "lines": "Ah! I'm already dead!"
+    },
+    {
+     "id": "530",
+     "lines": "Yohohoho~~~!!"
+    },
+    {
+     "id": "531",
+     "lines": "Gahahahaha!"
+    },
+    {
+     "id": "536",
+     "lines": "If I got serious, you'd be finished in no time!"
+    },
+    {
+     "id": "541",
+     "lines": "Don't boss me around!"
+    },
+    {
+     "id": "543",
+     "lines": "I'll train hard as a swordswoman with this Shigure."
+    },
+    {
+     "id": "552",
+     "lines": "I'm an Okama who follows the \"Okama Way\"!!!"
+    },
+    {
+     "id": "554",
+     "lines": "Good day!"
+    },
+    {
+     "id": "555",
+     "lines": "Decided!! I'll! Spin!"
+    },
+    {
+     "id": "564",
+     "lines": "Leave it to me, boss!"
+    },
+    {
+     "id": "565",
+     "lines": "I'm a Thorn Human who ate the Thorn-Thorn Fruit."
+    },
+    {
+     "id": "566",
+     "lines": "Let us show you our professional technique."
+    },
+    {
+     "id": "583",
+     "lines": "Sir, that's sexual harassment."
+    },
+    {
+     "id": "585",
+     "lines": "You're no match for me in strength or beauty."
+    },
+    {
+     "id": "587",
+     "lines": "Don't underestimate me."
+    },
+    {
+     "id": "588",
+     "lines": "A square, yet no blind spots."
+    },
+    {
+     "id": "589",
+     "lines": "I'm only 23."
+    },
+    {
+     "id": "602",
+     "lines": "I'm merely a genius."
+    },
+    {
+     "id": "603",
+     "lines": "That's too much!"
+    },
+    {
+     "id": "604",
+     "lines": "What spirit!"
+    },
+    {
+     "id": "605",
+     "lines": "Hey, hey, Cindry!"
+    },
+    {
+     "id": "607",
+     "lines": "Say something kind and bring me a hot cocoa. I'm a guest!"
+    },
+    {
+     "id": "608",
+     "lines": "I don't need servants who aren't cute!"
+    },
+    {
+     "id": "609",
+     "lines": "I'm a user of the \"Hollow-Hollow Fruit\", who can create ghosts at will."
+    },
+    {
+     "id": "610",
+     "lines": "Don't tell me that guy got lost again?"
+    },
+    {
+     "id": "612",
+     "lines": "My body feels like it's about to dance."
+    },
+    {
+     "id": "613",
+     "lines": "Shall I slice a few spots with my specialty, the \"Swordtail Slash\"?"
+    },
+    {
+     "id": "616",
+     "lines": "You've got guts."
+    },
+    {
+     "id": "617",
+     "lines": "That bastard dares to steal our spotlight."
+    },
+    {
+     "id": "618",
+     "lines": "Are there any female bears?"
+    },
+    {
+     "id": "619",
+     "lines": "Sorry..."
+    },
+    {
+     "id": "620",
+     "lines": "You're a rookie, so you're behind me!"
+    },
+    {
+     "id": "621",
+     "lines": "Leave it to me, Captain!"
+    },
+    {
+     "id": "622",
+     "lines": "Heave-ho!!"
+    },
+    {
+     "id": "623",
+     "lines": "I told you, I'm Sentomaru, the \"world's tightest-lipped\"!"
+    },
+    {
+     "id": "624",
+     "lines": "Geez, so slow!"
+    },
+    {
+     "id": "625",
+     "lines": "Why hasn't old man Kizaru contacted me yet!"
+    },
+    {
+     "id": "626",
+     "lines": "I've officially joined the Marines, and now I'm arresting you!"
+    },
+    {
+     "id": "648",
+     "lines": "I'm not weird at all."
+    },
+    {
+     "id": "650",
+     "lines": "I'm just a hypnotist who happened to be passing by."
+    },
+    {
+     "id": "657",
+     "lines": "You can't beat me."
+    },
+    {
+     "id": "660",
+     "lines": "Let me bury him with my own hands."
+    },
+    {
+     "id": "717",
+     "lines": "Just kill everyone and be done with it"
+    },
+    {
+     "id": "718",
+     "lines": "Don't get in my way!"
+    },
+    {
+     "id": "719",
+     "lines": "I'll wither it away with my right hand"
+    },
+    {
+     "id": "721",
+     "lines": "I need a few more troops. How about it? Coming with me?"
+    },
+    {
+     "id": "722",
+     "lines": "You're too weak..."
+    },
+    {
+     "id": "723",
+     "lines": "You really made a mess of things"
+    },
+    {
+     "id": "724",
+     "lines": "Boring!"
+    },
+    {
+     "id": "725",
+     "lines": "Making an entrance like this looks way cooler!"
+    },
+    {
+     "id": "728",
+     "lines": "I'm gonna be King of the Pirates!!"
+    },
+    {
+     "id": "730",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "731",
+     "lines": "How can you be a pirate if you're afraid of making a name at sea!"
+    },
+    {
+     "id": "733",
+     "lines": "I'll send you all flying!"
+    },
+    {
+     "id": "734",
+     "lines": "If you're going to watch, shut up and watch."
+    },
+    {
+     "id": "736",
+     "lines": "I use the Three-Sword Style."
+    },
+    {
+     "id": "738",
+     "lines": "The likes of you are no match for me."
+    },
+    {
+     "id": "739",
+     "lines": "This guy must give you headaches too. Please take care of him from now on"
+    },
+    {
+     "id": "740",
+     "lines": "Luffy! You little...!"
+    },
+    {
+     "id": "741",
+     "lines": "I'll take any hand reached out to me"
+    },
+    {
+     "id": "743",
+     "lines": "He already has a crew he can rely on. He's not afraid of anything now..."
+    },
+    {
+     "id": "745",
+     "lines": "The reason is... yes, because I am too beautiful."
+    },
+    {
+     "id": "746",
+     "lines": "Whatever I do, the whole world will forgive me..."
+    },
+    {
+     "id": "747",
+     "lines": "The guilt of being smitten with me will turn your bodies to stone..."
+    },
+    {
+     "id": "748",
+     "lines": "I'll be forgiven no matter what I do."
+    },
+    {
+     "id": "750",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "751",
+     "lines": "Nice to meet you."
+    },
+    {
+     "id": "753",
+     "lines": "Treasure, treasure♪"
+    },
+    {
+     "id": "754",
+     "lines": "I'll cover you!"
+    },
+    {
+     "id": "756",
+     "lines": "All right, good work, everyone."
+    },
+    {
+     "id": "758",
+     "lines": "Let's go, the battle's starting."
+    },
+    {
+     "id": "760",
+     "lines": "I'll be your opponent."
+    },
+    {
+     "id": "762",
+     "lines": "A man who lives to love women!!!"
+    },
+    {
+     "id": "765",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "766",
+     "lines": "Nice to meet you."
+    },
+    {
+     "id": "768",
+     "lines": "Treasure, treasure♪"
+    },
+    {
+     "id": "769",
+     "lines": "Gahahahaha!"
+    },
+    {
+     "id": "774",
+     "lines": "If I got serious, you'd be finished in no time!"
+    },
+    {
+     "id": "776",
+     "lines": "Our justice already lives within the World Government"
+    },
+    {
+     "id": "777",
+     "lines": "Here, killing is justified as well"
+    },
+    {
+     "id": "779",
+     "lines": "If certain citizens don't cooperate with the government, we have the right to execute them on the spot"
+    },
+    {
+     "id": "785",
+     "lines": "Leave it to me."
+    },
+    {
+     "id": "786",
+     "lines": "Getting stronger for someone's sake... I never even thought about it before...!!"
+    },
+    {
+     "id": "791",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "792",
+     "lines": "Nice to meet you."
+    },
+    {
+     "id": "794",
+     "lines": "Treasure, treasure♪"
+    },
+    {
+     "id": "795",
+     "lines": "Leave it to me."
+    },
+    {
+     "id": "796",
+     "lines": "Getting stronger for someone's sake... I never even thought about it before...!!"
+    },
+    {
+     "id": "800",
+     "lines": "I'm gonna be King of the Pirates!!"
+    },
+    {
+     "id": "802",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "803",
+     "lines": "How can you be a pirate if you're afraid of making a name at sea!"
+    },
+    {
+     "id": "805",
+     "lines": "What? You calling me?"
+    },
+    {
+     "id": "806",
+     "lines": "Leave this guy to me! I'll cut him down!!"
+    },
+    {
+     "id": "807",
+     "lines": "I have to get even stronger!!"
+    },
+    {
+     "id": "808",
+     "lines": "They're hopeless..."
+    },
+    {
+     "id": "809",
+     "lines": "Oh! Leave it to me!"
+    },
+    {
+     "id": "811",
+     "lines": "What? You calling me?"
+    },
+    {
+     "id": "812",
+     "lines": "Leave this guy to me! I'll cut him down!!"
+    },
+    {
+     "id": "813",
+     "lines": "I have to get even stronger!!"
+    },
+    {
+     "id": "814",
+     "lines": "They're hopeless..."
+    },
+    {
+     "id": "815",
+     "lines": "Oh! Leave it to me!"
+    },
+    {
+     "id": "817",
+     "lines": "See that? My cannon skills!"
+    },
+    {
+     "id": "818",
+     "lines": "I've graduated from the weak trio with Nami and Chopper!"
+    },
+    {
+     "id": "819",
+     "lines": "You could say there's no obstacle I can't overcome"
+    },
+    {
+     "id": "820",
+     "lines": "I'm not who I used to be!"
+    },
+    {
+     "id": "821",
+     "lines": "Everyone trained hard to head for the \"New World\""
+    },
+    {
+     "id": "823",
+     "lines": "What? You calling me?"
+    },
+    {
+     "id": "824",
+     "lines": "Leave this guy to me! I'll cut him down!!"
+    },
+    {
+     "id": "825",
+     "lines": "I have to get even stronger!!"
+    },
+    {
+     "id": "826",
+     "lines": "They're hopeless..."
+    },
+    {
+     "id": "827",
+     "lines": "Oh! Leave it to me!"
+    },
+    {
+     "id": "829",
+     "lines": "I'm getting a little excited!"
+    },
+    {
+     "id": "830",
+     "lines": "How do you expect to cross the seas of the New World without a navigator!?"
+    },
+    {
+     "id": "831",
+     "lines": "Leave the stealing to me!"
+    },
+    {
+     "id": "832",
+     "lines": "No problem, I'll take you wherever you want to go!!"
+    },
+    {
+     "id": "833",
+     "lines": "Leave it to me!!!"
+    },
+    {
+     "id": "834",
+     "lines": "See that? My cannon skills!"
+    },
+    {
+     "id": "835",
+     "lines": "I've graduated from the weak trio with Nami and Chopper!"
+    },
+    {
+     "id": "836",
+     "lines": "You could say there's no obstacle I can't overcome"
+    },
+    {
+     "id": "837",
+     "lines": "I'm not who I used to be!"
+    },
+    {
+     "id": "838",
+     "lines": "Everyone trained hard to head for the \"New World\""
+    },
+    {
+     "id": "840",
+     "lines": "If you come across a \"Poneglyph\", please make me a rubbing."
+    },
+    {
+     "id": "841",
+     "lines": "How troublesome."
+    },
+    {
+     "id": "842",
+     "lines": "It's useless."
+    },
+    {
+     "id": "843",
+     "lines": "Oh my, you all look happy."
+    },
+    {
+     "id": "844",
+     "lines": "Heh heh, I can't wait."
+    },
+    {
+     "id": "845",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "846",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "847",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "848",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "849",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "851",
+     "lines": "Maybe Nami-san and Robin-chan will fall for me right away"
+    },
+    {
+     "id": "852",
+     "lines": "Looks like I can buy some good ingredients."
+    },
+    {
+     "id": "853",
+     "lines": "Just say the word if you need my help"
+    },
+    {
+     "id": "854",
+     "lines": "I was only answering that beautiful heart"
+    },
+    {
+     "id": "855",
+     "lines": "Let's go."
+    },
+    {
+     "id": "857",
+     "lines": "Get ready, brothers!"
+    },
+    {
+     "id": "858",
+     "lines": "Maintenance is ready."
+    },
+    {
+     "id": "860",
+     "lines": "That should do it."
+    },
+    {
+     "id": "863",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "864",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "865",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "866",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "867",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "870",
+     "lines": "The reason is... yes, because I am too beautiful."
+    },
+    {
+     "id": "871",
+     "lines": "Whatever I do, the whole world will forgive me..."
+    },
+    {
+     "id": "872",
+     "lines": "The guilt of being smitten with me will turn your bodies to stone..."
+    },
+    {
+     "id": "873",
+     "lines": "I'll be forgiven no matter what I do."
+    },
+    {
+     "id": "874",
+     "lines": "I'm getting a little excited!"
+    },
+    {
+     "id": "875",
+     "lines": "How do you expect to cross the seas of the New World without a navigator!?"
+    },
+    {
+     "id": "876",
+     "lines": "Leave the stealing to me!"
+    },
+    {
+     "id": "877",
+     "lines": "No problem, I'll take you wherever you want to go!!"
+    },
+    {
+     "id": "878",
+     "lines": "Leave it to me!!!"
+    },
+    {
+     "id": "879",
+     "lines": "Say something kind and bring me a hot cocoa. I'm a guest!"
+    },
+    {
+     "id": "880",
+     "lines": "I don't need servants who aren't cute!"
+    },
+    {
+     "id": "881",
+     "lines": "I'm a user of the \"Hollow-Hollow Fruit\", who can create ghosts at will."
+    },
+    {
+     "id": "882",
+     "lines": "Don't tell me that guy got lost again?"
+    },
+    {
+     "id": "889",
+     "lines": "If you come across a \"Poneglyph\", please make me a rubbing."
+    },
+    {
+     "id": "890",
+     "lines": "How troublesome."
+    },
+    {
+     "id": "891",
+     "lines": "It's useless."
+    },
+    {
+     "id": "892",
+     "lines": "Oh my, you all look happy."
+    },
+    {
+     "id": "893",
+     "lines": "Heh heh, I can't wait."
+    },
+    {
+     "id": "894",
+     "lines": "How nostalgic~ My crewmates~~"
+    },
+    {
+     "id": "895",
+     "lines": "Yohohoho~~~!!"
+    },
+    {
+     "id": "896",
+     "lines": "Even if it costs me these bones, I won't give up"
+    },
+    {
+     "id": "897",
+     "lines": "May I see your panties? Yohohoho~~~"
+    },
+    {
+     "id": "901",
+     "lines": "One day I'll take back every famous sword in the hands of villains around the world."
+    },
+    {
+     "id": "902",
+     "lines": "I don't train with the sword for fun!"
+    },
+    {
+     "id": "904",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "905",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "906",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "907",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "908",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "911",
+     "lines": "The reason is... yes, because I am too beautiful."
+    },
+    {
+     "id": "912",
+     "lines": "Whatever I do, the whole world will forgive me..."
+    },
+    {
+     "id": "913",
+     "lines": "The guilt of being smitten with me will turn your bodies to stone..."
+    },
+    {
+     "id": "914",
+     "lines": "I'll be forgiven no matter what I do."
+    },
+    {
+     "id": "915",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "916",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "917",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "918",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "919",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "921",
+     "lines": "Luffy's definitely a handful, but I'm counting on you all!"
+    },
+    {
+     "id": "922",
+     "lines": "The \"Flame\" won't spare you!"
+    },
+    {
+     "id": "923",
+     "lines": "Heh heh, you've become reliable! Leave the other side to me."
+    },
+    {
+     "id": "925",
+     "lines": "We will carry on his will."
+    },
+    {
+     "id": "928",
+     "lines": "Luffy's definitely a handful, but I'm counting on you all!"
+    },
+    {
+     "id": "929",
+     "lines": "The \"Flame\" won't spare you!"
+    },
+    {
+     "id": "930",
+     "lines": "Heh heh, you've become reliable! Leave the other side to me."
+    },
+    {
+     "id": "932",
+     "lines": "We will carry on his will."
+    },
+    {
+     "id": "935",
+     "lines": "This guy must give you headaches too. Please take care of him from now on"
+    },
+    {
+     "id": "936",
+     "lines": "Luffy! You little...!"
+    },
+    {
+     "id": "937",
+     "lines": "I'll take any hand reached out to me"
+    },
+    {
+     "id": "939",
+     "lines": "He already has a crew he can rely on. He's not afraid of anything now..."
+    },
+    {
+     "id": "946",
+     "lines": "Your lifespan? Or sweets?"
+    },
+    {
+     "id": "947",
+     "lines": "Mama~ Mama~ Mama~ Mama~"
+    },
+    {
+     "id": "948",
+     "lines": "Come on~ Let's see what you're about to lose...!"
+    },
+    {
+     "id": "949",
+     "lines": "Don't get in my way!"
+    },
+    {
+     "id": "950",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "951",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "952",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "953",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "954",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "956",
+     "lines": "Some views can only be seen from a different position..."
+    },
+    {
+     "id": "957",
+     "lines": "Let's form an alliance! I have a plan!"
+    },
+    {
+     "id": "958",
+     "lines": "That's enough."
+    },
+    {
+     "id": "959",
+     "lines": "The seat that belongs to me... I'll take it, no matter what!"
+    },
+    {
+     "id": "960",
+     "lines": "I'm a doctor."
+    },
+    {
+     "id": "962",
+     "lines": "If you come across a \"Poneglyph\", please make me a rubbing."
+    },
+    {
+     "id": "963",
+     "lines": "How troublesome."
+    },
+    {
+     "id": "964",
+     "lines": "It's useless."
+    },
+    {
+     "id": "965",
+     "lines": "Oh my, you all look happy."
+    },
+    {
+     "id": "966",
+     "lines": "Heh heh, I can't wait."
+    },
+    {
+     "id": "967",
+     "lines": "Maybe Nami-san and Robin-chan will fall for me right away"
+    },
+    {
+     "id": "968",
+     "lines": "Looks like I can buy some good ingredients."
+    },
+    {
+     "id": "969",
+     "lines": "Just say the word if you need my help"
+    },
+    {
+     "id": "970",
+     "lines": "I was only answering that beautiful heart"
+    },
+    {
+     "id": "971",
+     "lines": "Let's go."
+    },
+    {
+     "id": "973",
+     "lines": "What? You calling me?"
+    },
+    {
+     "id": "974",
+     "lines": "Leave this guy to me! I'll cut him down!!"
+    },
+    {
+     "id": "975",
+     "lines": "I have to get even stronger!!"
+    },
+    {
+     "id": "976",
+     "lines": "They're hopeless..."
+    },
+    {
+     "id": "977",
+     "lines": "Oh! Leave it to me!"
+    },
+    {
+     "id": "979",
+     "lines": "I'm getting a little excited!"
+    },
+    {
+     "id": "980",
+     "lines": "How do you expect to cross the seas of the New World without a navigator!?"
+    },
+    {
+     "id": "981",
+     "lines": "Leave the stealing to me!"
+    },
+    {
+     "id": "982",
+     "lines": "No problem, I'll take you wherever you want to go!!"
+    },
+    {
+     "id": "983",
+     "lines": "Leave it to me!!!"
+    },
+    {
+     "id": "984",
+     "lines": "A feast! Bring the sake!"
+    },
+    {
+     "id": "985",
+     "lines": "Disappear!"
+    },
+    {
+     "id": "986",
+     "lines": "\"Heavenly Thunder\"!"
+    },
+    {
+     "id": "987",
+     "lines": "Playtime's over for pirates!"
+    },
+    {
+     "id": "988",
+     "lines": "Let the greatest battle in this world begin!"
+    },
+    {
+     "id": "989",
+     "lines": "\"Heavenly Thunder\"!"
+    },
+    {
+     "id": "992",
+     "lines": "I'll mix it for you right away"
+    },
+    {
+     "id": "993",
+     "lines": "Those guys are already trapped like rats!"
+    },
+    {
+     "id": "994",
+     "lines": "I allow it!"
+    },
+    {
+     "id": "996",
+     "lines": "Oh my... You want to fight me?"
+    },
+    {
+     "id": "997",
+     "lines": "I warned you"
+    },
+    {
+     "id": "998",
+     "lines": "Ho... As expected of you!"
+    },
+    {
+     "id": "999",
+     "lines": "Hey, hey, get them healed already!"
+    },
+    {
+     "id": "1000",
+     "lines": "Oh my my my... You want to fight me?"
+    },
+    {
+     "id": "1002",
+     "lines": "I'm getting a little excited!"
+    },
+    {
+     "id": "1003",
+     "lines": "How do you expect to cross the seas of the New World without a navigator!?"
+    },
+    {
+     "id": "1004",
+     "lines": "Leave the stealing to me!"
+    },
+    {
+     "id": "1005",
+     "lines": "No problem, I'll take you wherever you want to go!!"
+    },
+    {
+     "id": "1006",
+     "lines": "Leave it to me!!!"
+    },
+    {
+     "id": "1007",
+     "lines": "If you come across a \"Poneglyph\", please make me a rubbing."
+    },
+    {
+     "id": "1008",
+     "lines": "How troublesome."
+    },
+    {
+     "id": "1009",
+     "lines": "It's useless."
+    },
+    {
+     "id": "1010",
+     "lines": "Oh my, you all look happy."
+    },
+    {
+     "id": "1011",
+     "lines": "Heh heh, I can't wait."
+    },
+    {
+     "id": "1012",
+     "lines": "So exciting~"
+    },
+    {
+     "id": "1014",
+     "lines": "I helped too!"
+    },
+    {
+     "id": "1015",
+     "lines": "Here I go!"
+    },
+    {
+     "id": "1016",
+     "lines": "I'll do my best!"
+    },
+    {
+     "id": "1019",
+     "lines": "Because this poison is my absolute favorite"
+    },
+    {
+     "id": "1020",
+     "lines": "Ahh~ Thanks for the meal"
+    },
+    {
+     "id": "1021",
+     "lines": "Oh? Are you worried about me?"
+    },
+    {
+     "id": "1022",
+     "lines": "Me? They call me \"Poison Pink\""
+    },
+    {
+     "id": "1024",
+     "lines": "Here I go!"
+    },
+    {
+     "id": "1025",
+     "lines": "A loser like you has no right to speak"
+    },
+    {
+     "id": "1026",
+     "lines": "I'll give you three seconds... Run"
+    },
+    {
+     "id": "1027",
+     "lines": "The mission will be completed"
+    },
+    {
+     "id": "1029",
+     "lines": "Take them! Kuja Pirates!"
+    },
+    {
+     "id": "1030",
+     "lines": "Strength is beauty!"
+    },
+    {
+     "id": "1031",
+     "lines": "This is the Haki of the Kuja!"
+    },
+    {
+     "id": "1032",
+     "lines": "Decadent Sweet Breeze!"
+    },
+    {
+     "id": "1033",
+     "lines": "I take my leave!"
+    },
+    {
+     "id": "1035",
+     "lines": "You're pretty good"
+    },
+    {
+     "id": "1036",
+     "lines": "I'll protect my crewmates!"
+    },
+    {
+     "id": "1037",
+     "lines": "Need something? Is it the next island?"
+    },
+    {
+     "id": "1039",
+     "lines": "I am Dracule Mihawk!"
+    },
+    {
+     "id": "1040",
+     "lines": "Any blade can become a black blade"
+    },
+    {
+     "id": "1041",
+     "lines": "A fine team"
+    },
+    {
+     "id": "1043",
+     "lines": "Know yourself and know your enemy"
+    },
+    {
+     "id": "1046",
+     "lines": "Hmhmhm..."
+    },
+    {
+     "id": "1047",
+     "lines": "I can't hide this radiance"
+    },
+    {
+     "id": "1048",
+     "lines": "Sorry about that"
+    },
+    {
+     "id": "1050",
+     "lines": "A request from a fan?"
+    },
+    {
+     "id": "1053",
+     "lines": "To think you took me for a weakling"
+    },
+    {
+     "id": "1054",
+     "lines": "Let's go!"
+    },
+    {
+     "id": "1055",
+     "lines": "Waaah..."
+    },
+    {
+     "id": "1056",
+     "lines": "If you're bringing snacks, shouldn't they be grapes?"
+    },
+    {
+     "id": "1057",
+     "lines": "Attacking..."
+    },
+    {
+     "id": "1059",
+     "lines": "A cup of fine sake is all I need"
+    },
+    {
+     "id": "1060",
+     "lines": "Don't underestimate our samurai!"
+    },
+    {
+     "id": "1061",
+     "lines": "My adventure begins!"
+    },
+    {
+     "id": "1062",
+     "lines": "The longer it simmers, the better the flavor!"
+    },
+    {
+     "id": "1063",
+     "lines": "I'll \"open\" Wano Country to the world!"
+    },
+    {
+     "id": "1065",
+     "lines": "I'm a member of the \"Musketeer Squad\", you know"
+    },
+    {
+     "id": "1066",
+     "lines": "I'll definitely be of help!"
+    },
+    {
+     "id": "1067",
+     "lines": "I'll fight for you too, Pedro!"
+    },
+    {
+     "id": "1068",
+     "lines": "Leave it to me!"
+    },
+    {
+     "id": "1070",
+     "lines": "Cut the jokes!"
+    },
+    {
+     "id": "1071",
+     "lines": "Pardon my rudeness~"
+    },
+    {
+     "id": "1072",
+     "lines": "A woman at heart♡~"
+    },
+    {
+     "id": "1073",
+     "lines": "Cut the jokes. The vile one here is your heart!"
+    },
+    {
+     "id": "1074",
+     "lines": "I am a samurai!"
+    },
+    {
+     "id": "1082",
+     "lines": "So reckless..."
+    },
+    {
+     "id": "1083",
+     "lines": "Gurararara..."
+    },
+    {
+     "id": "1084",
+     "lines": "What's there to fear?"
+    },
+    {
+     "id": "1085",
+     "lines": "You're really in the way!"
+    },
+    {
+     "id": "1086",
+     "lines": "Everyone is a child of the sea!"
+    },
+    {
+     "id": "1088",
+     "lines": "That's enough..."
+    },
+    {
+     "id": "1089",
+     "lines": "Don't underestimate me, the Ghost Princess~"
+    },
+    {
+     "id": "1090",
+     "lines": "Seeing you like this breaks my heart~"
+    },
+    {
+     "id": "1091",
+     "lines": "Guess I need to find a new toy"
+    },
+    {
+     "id": "1092",
+     "lines": "Know your place!"
+    },
+    {
+     "id": "1094",
+     "lines": "Sanji! -san♡~"
+    },
+    {
+     "id": "1095",
+     "lines": "I want to apologize! I have to apologize properly!"
+    },
+    {
+     "id": "1096",
+     "lines": "Sw... the essence of sweetness?"
+    },
+    {
+     "id": "1097",
+     "lines": "If people see us, they'll think we're married!"
+    },
+    {
+     "id": "1098",
+     "lines": "Move! Go sit over there!"
+    },
+    {
+     "id": "1100",
+     "lines": "Sanji! -san♡~"
+    },
+    {
+     "id": "1101",
+     "lines": "I want to apologize! I have to apologize properly!"
+    },
+    {
+     "id": "1102",
+     "lines": "Sw... the essence of sweetness?"
+    },
+    {
+     "id": "1103",
+     "lines": "If people see us, they'll think we're married!"
+    },
+    {
+     "id": "1104",
+     "lines": "Move! Go sit over there!"
+    },
+    {
+     "id": "1107",
+     "lines": "Sanji! -san♡~"
+    },
+    {
+     "id": "1108",
+     "lines": "I want to apologize! I have to apologize properly!"
+    },
+    {
+     "id": "1109",
+     "lines": "Sw... the essence of sweetness?"
+    },
+    {
+     "id": "1110",
+     "lines": "If people see us, they'll think we're married!"
+    },
+    {
+     "id": "1111",
+     "lines": "Move! Go sit over there!"
+    },
+    {
+     "id": "1114",
+     "lines": "What on earth is going on..."
+    },
+    {
+     "id": "1115",
+     "lines": "I hate jokes"
+    },
+    {
+     "id": "1116",
+     "lines": "There's someone even stronger than him."
+    },
+    {
+     "id": "1119",
+     "lines": "So... who'll show up?"
+    },
+    {
+     "id": "1120",
+     "lines": "That's in the past. I don't resent him."
+    },
+    {
+     "id": "1121",
+     "lines": "Meaning if I take your head, Kaido won't just sit back and watch"
+    },
+    {
+     "id": "1122",
+     "lines": "That's not necessarily so."
+    },
+    {
+     "id": "1123",
+     "lines": "Prepare to set sail!"
+    },
+    {
+     "id": "1125",
+     "lines": "Here I go!"
+    },
+    {
+     "id": "1126",
+     "lines": "A loser like you has no right to speak"
+    },
+    {
+     "id": "1127",
+     "lines": "I'll give you three seconds... Run"
+    },
+    {
+     "id": "1128",
+     "lines": "The mission will be completed"
+    },
+    {
+     "id": "1130",
+     "lines": "\"Damn it... I can't die no matter what. Isn't there anyone who can kill me?\""
+    },
+    {
+     "id": "1131",
+     "lines": "I won... but I still didn't die"
+    },
+    {
+     "id": "1132",
+     "lines": "Swear your allegiance to me..."
+    },
+    {
+     "id": "1133",
+     "lines": "Prepare yourself!"
+    },
+    {
+     "id": "1134",
+     "lines": "I won... but I still didn't die"
+    },
+    {
+     "id": "1138",
+     "lines": "Maybe Nami-san and Robin-chan will fall for me right away"
+    },
+    {
+     "id": "1139",
+     "lines": "Looks like I can buy some good ingredients."
+    },
+    {
+     "id": "1140",
+     "lines": "Just say the word if you need my help"
+    },
+    {
+     "id": "1141",
+     "lines": "I was only answering that beautiful heart"
+    },
+    {
+     "id": "1142",
+     "lines": "Let's go."
+    },
+    {
+     "id": "1144",
+     "lines": "Bastard, this means war."
+    },
+    {
+     "id": "1145",
+     "lines": "Did we come here to negotiate with them?"
+    },
+    {
+     "id": "1146",
+     "lines": "\"GIFTERS\", get them!!!"
+    },
+    {
+     "id": "1148",
+     "lines": "After talking...? I refuse."
+    },
+    {
+     "id": "1150",
+     "lines": "This idiot!!"
+    },
+    {
+     "id": "1151",
+     "lines": "Hm? How many bowls of red bean soup? Idiot! Red bean soup is my oxygen!!"
+    },
+    {
+     "id": "1152",
+     "lines": "My finest masterpiece!!"
+    },
+    {
+     "id": "1154",
+     "lines": "Die!!"
+    },
+    {
+     "id": "1157",
+     "lines": "Looks like fun, hee hee hee!!!"
+    },
+    {
+     "id": "1158",
+     "lines": "Keep going!!! This is starting to get interesting!!"
+    },
+    {
+     "id": "1159",
+     "lines": "\"King of the Pirates\"!!! I'm gonna be it!!!!"
+    },
+    {
+     "id": "1160",
+     "lines": "...All right, here I go!!"
+    },
+    {
+     "id": "1161",
+     "lines": "Leave everything to me. Because we're friends!!"
+    },
+    {
+     "id": "1164",
+     "lines": "Let's settle this for real!!"
+    },
+    {
+     "id": "1165",
+     "lines": "This brings me closer to Kozuki Oden."
+    },
+    {
+     "id": "1166",
+     "lines": "Wow~!! Is this your ship!! Take me on an adventure!!"
+    },
+    {
+     "id": "1167",
+     "lines": "Let me do it!!"
+    },
+    {
+     "id": "1170",
+     "lines": "The next song is starting!"
+    },
+    {
+     "id": "1171",
+     "lines": "Guess I'll have to take them out"
+    },
+    {
+     "id": "1172",
+     "lines": "I finally get to see everyone!"
+    },
+    {
+     "id": "1175",
+     "lines": "I can't go on...!! Poor me~~"
+    },
+    {
+     "id": "1176",
+     "lines": "You're just shy♪"
+    },
+    {
+     "id": "1177",
+     "lines": "Pull yourself together!! Together, ow!!"
+    },
+    {
+     "id": "1178",
+     "lines": "Ah! Lord Kaido!!"
+    },
+    {
+     "id": "1179",
+     "lines": "Beautiful!"
+    },
+    {
+     "id": "1181",
+     "lines": "I'll kill you"
+    },
+    {
+     "id": "1183",
+     "lines": "In a hurry to die?"
+    },
+    {
+     "id": "1184",
+     "lines": "I can handle this alone"
+    },
+    {
+     "id": "1185",
+     "lines": "Stay right there"
+    },
+    {
+     "id": "1188",
+     "lines": "You really should shut up, sis!!"
+    },
+    {
+     "id": "1189",
+     "lines": "Don't get in my way!!"
+    },
+    {
+     "id": "1190",
+     "lines": "Hey!!!"
+    },
+    {
+     "id": "1192",
+     "lines": "Very good"
+    },
+    {
+     "id": "1195",
+     "lines": "It's begun!"
+    },
+    {
+     "id": "1197",
+     "lines": "You lot, I told you to stand down"
+    },
+    {
+     "id": "1198",
+     "lines": "Stay out of it"
+    },
+    {
+     "id": "1199",
+     "lines": "I'll clean up properly, don't worry"
+    },
+    {
+     "id": "1201",
+     "lines": "This is completely beyond my expectations...!!"
+    },
+    {
+     "id": "1203",
+     "lines": "I have a plan!"
+    },
+    {
+     "id": "1204",
+     "lines": "Let's form an alliance!"
+    },
+    {
+     "id": "1205",
+     "lines": "You're the one who'll disappear...!"
+    }
+   ]
   },
   "TableIntimacyChapter": {
    "key_column": "chapterId",
