@@ -266,7 +266,7 @@
     },
     {
      "typeId": "10023003",
-     "nameIndex": "Story Recap (Hard)"
+     "nameIndex": "Story Replay (Hard)"
     },
     {
      "typeId": "10023004",
@@ -748,19 +748,404 @@
      "desc": "Complete 5 Arena battles"
     },
     {
+     "id": "3",
+     "descr": "Ladder",
+     "desc": "Complete 3 Ladder matches"
+    },
+    {
+     "id": "4",
+     "descr": "Donate",
+     "desc": "Donate 1 time"
+    },
+    {
+     "id": "5",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 5 times"
+    },
+    {
+     "id": "6",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 10 times"
+    },
+    {
+     "id": "7",
+     "descr": "Donate",
+     "desc": "Server-wide total: donate 500 times"
+    },
+    {
+     "id": "8",
+     "descr": "Donate",
+     "desc": "Server-wide total: donate 1000 times"
+    },
+    {
+     "id": "9",
+     "descr": "Tower Challenge",
+     "desc": "Server-wide total: clear any Tower Challenge stage 500 times"
+    },
+    {
+     "id": "10",
+     "descr": "Tower Challenge",
+     "desc": "Server-wide total: clear any Tower Challenge stage 1000 times"
+    },
+    {
+     "id": "11",
+     "descr": "Elite Bounty",
+     "desc": "Server-wide total: challenge any Elite Bounty boss 500 times"
+    },
+    {
+     "id": "12",
+     "descr": "Elite Bounty",
+     "desc": "Server-wide total: challenge any Elite Bounty boss 1000 times"
+    },
+    {
+     "id": "13",
+     "descr": "Stronghold Clash",
+     "desc": "Defeat 3 strongholds"
+    },
+    {
+     "id": "14",
+     "descr": "Stronghold Clash",
+     "desc": "Defeat 8 strongholds"
+    },
+    {
+     "id": "15",
+     "descr": "Final Showdown",
+     "desc": "Server-wide total: challenge any Final Showdown boss 500 times"
+    },
+    {
+     "id": "16",
+     "descr": "Final Showdown",
+     "desc": "Server-wide total: challenge any Phase 4 boss 1000 times"
+    },
+    {
+     "id": "17",
+     "descr": "Defeat Strong Foes",
+     "desc": "Defeat Kaido of the Beasts"
+    },
+    {
+     "id": "18",
+     "descr": "Defeat Strong Foes",
+     "desc": "Defeat Big Mom"
+    },
+    {
+     "id": "19",
+     "descr": "Donate",
+     "desc": "Donate 10 times"
+    },
+    {
+     "id": "20",
+     "descr": "Donate",
+     "desc": "Donate 15 times"
+    },
+    {
+     "id": "21",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 50 times"
+    },
+    {
+     "id": "22",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 100 times"
+    },
+    {
+     "id": "23",
+     "descr": "Elite Bounty",
+     "desc": "Challenge any Elite Bounty boss 10 times"
+    },
+    {
+     "id": "24",
+     "descr": "Elite Bounty",
+     "desc": "Challenge any Elite Bounty boss 15 times"
+    },
+    {
+     "id": "25",
+     "descr": "Final Showdown",
+     "desc": "Server-wide total: challenge any Final Showdown boss 5 times"
+    },
+    {
+     "id": "26",
+     "descr": "Final Showdown",
+     "desc": "Server-wide total: challenge any Phase 4 boss 10 times"
+    },
+    {
      "id": "27",
      "descr": "Daily Login",
      "desc": "Log in once today"
+    },
+    {
+     "id": "28",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 5 times"
+    },
+    {
+     "id": "29",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 10 times"
+    },
+    {
+     "id": "30",
+     "descr": "Open Chests",
+     "desc": "Open 1 chest"
+    },
+    {
+     "id": "31",
+     "descr": "Open Chests",
+     "desc": "Open 2 chests"
+    },
+    {
+     "id": "32",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 50 times"
+    },
+    {
+     "id": "33",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 100 times"
+    },
+    {
+     "id": "34",
+     "descr": "Elite Bounty",
+     "desc": "Challenge any Elite Bounty boss 10 times"
+    },
+    {
+     "id": "35",
+     "descr": "Elite Bounty",
+     "desc": "Challenge any Elite Bounty boss 15 times"
+    },
+    {
+     "id": "36",
+     "descr": "Sky Island Co-op",
+     "desc": "Challenge Sky Island Co-op 1 time"
+    },
+    {
+     "id": "37",
+     "descr": "Trial of God",
+     "desc": "Challenge Trial of God 3 times"
+    },
+    {
+     "id": "38",
+     "descr": "Open Chests",
+     "desc": "Open 10 chests"
+    },
+    {
+     "id": "39",
+     "descr": "Open Chests",
+     "desc": "Open 10 chests with keys"
+    },
+    {
+     "id": "40",
+     "descr": "Tower Challenge",
+     "desc": "Server-wide total: clear any Tower Challenge stage 500 times"
+    },
+    {
+     "id": "41",
+     "descr": "Elite Bounty",
+     "desc": "Server-wide total: challenge any Elite Bounty boss 200 times"
     }
    ],
    "other_bundle_rows": [
     {
+     "id": "1",
+     "descr": "Donate",
+     "desc": "Server-wide total: donate 500 times"
+    },
+    {
+     "id": "2",
+     "descr": "Donate",
+     "desc": "Server-wide total: donate 1000 times"
+    },
+    {
+     "id": "3",
+     "descr": "Tower Challenge",
+     "desc": "Server-wide total: clear any Tower Challenge stage 500 times"
+    },
+    {
+     "id": "4",
+     "descr": "Tower Challenge",
+     "desc": "Server-wide total: clear any Tower Challenge stage 1000 times"
+    },
+    {
+     "id": "5",
+     "descr": "Elite Bounty",
+     "desc": "Server-wide total: challenge any Elite Bounty boss 500 times"
+    },
+    {
+     "id": "6",
+     "descr": "Elite Bounty",
+     "desc": "Server-wide total: challenge any Elite Bounty boss 1000 times"
+    },
+    {
+     "id": "7",
+     "descr": "Stronghold Clash",
+     "desc": "Defeat 3 strongholds"
+    },
+    {
+     "id": "8",
+     "descr": "Stronghold Clash",
+     "desc": "Defeat 8 strongholds"
+    },
+    {
+     "id": "9",
+     "descr": "Final Showdown",
+     "desc": "Server-wide total: challenge any Final Showdown boss 500 times"
+    },
+    {
+     "id": "10",
+     "descr": "Final Showdown",
+     "desc": "Server-wide total: challenge any Phase 4 boss 1000 times"
+    },
+    {
+     "id": "11",
+     "descr": "Defeat Strong Foes",
+     "desc": "Defeat Rob Lucci"
+    },
+    {
+     "id": "12",
+     "descr": "Defeat Strong Foes",
+     "desc": "Defeat Kaku"
+    },
+    {
+     "id": "13",
+     "descr": "Donate",
+     "desc": "Donate 10 times"
+    },
+    {
+     "id": "14",
+     "descr": "Donate",
+     "desc": "Donate 15 times"
+    },
+    {
+     "id": "15",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 50 times"
+    },
+    {
+     "id": "16",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 100 times"
+    },
+    {
+     "id": "17",
+     "descr": "Elite Bounty",
+     "desc": "Challenge any Elite Bounty boss 10 times"
+    },
+    {
+     "id": "18",
+     "descr": "Elite Bounty",
+     "desc": "Challenge any Elite Bounty boss 15 times"
+    },
+    {
+     "id": "19",
+     "descr": "Final Showdown",
+     "desc": "Server-wide total: challenge any Final Showdown boss 5 times"
+    },
+    {
+     "id": "20",
+     "descr": "Final Showdown",
+     "desc": "Server-wide total: challenge any Phase 4 boss 10 times"
+    },
+    {
      "id": "21",
      "descr": "Daily Login",
      "desc": "Log in once today"
+    },
+    {
+     "id": "22",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 5 times"
+    },
+    {
+     "id": "23",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 10 times"
+    },
+    {
+     "id": "24",
+     "descr": "Open Chests",
+     "desc": "Open 1 chest"
+    },
+    {
+     "id": "25",
+     "descr": "Open Chests",
+     "desc": "Open 2 chests"
+    },
+    {
+     "id": "26",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 50 times"
+    },
+    {
+     "id": "27",
+     "descr": "Tower Challenge",
+     "desc": "Clear any Tower Challenge stage 100 times"
+    },
+    {
+     "id": "28",
+     "descr": "Elite Bounty",
+     "desc": "Challenge any Elite Bounty boss 10 times"
+    },
+    {
+     "id": "29",
+     "descr": "Elite Bounty",
+     "desc": "Challenge any Elite Bounty boss 15 times"
+    },
+    {
+     "id": "30",
+     "descr": "Sky Island Co-op",
+     "desc": "Challenge Sky Island Co-op 1 time"
+    },
+    {
+     "id": "31",
+     "descr": "Trial of God",
+     "desc": "Challenge Trial of God 3 times"
+    },
+    {
+     "id": "32",
+     "descr": "Open Chests",
+     "desc": "Open 10 chests"
+    },
+    {
+     "id": "33",
+     "descr": "Open Chests",
+     "desc": "Open 10 chests with keys"
+    }
+   ]
+  },
+  "TableBeastPiratesStage": {
+   "key_column": "stageId",
+   "text_columns": [
+    "name",
+    "desc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "stageId": "2",
+     "name": "Elite Bounty",
+     "desc": "Bounty"
+    },
+    {
+     "stageId": "3",
+     "name": "Stronghold Clash",
+     "desc": "Outpost"
+    },
+    {
+     "stageId": "6",
+     "name": "Elite Bounty",
+     "desc": "Bounty"
+    },
+    {
+     "stageId": "7",
+     "name": "Sky Island Co-op",
+     "desc": "Team Up"
+    },
+    {
+     "stageId": "8",
+     "name": "Trial of God",
+     "desc": "Guild"
     }
    ],
-   "partial": "4/74 rows translated so far"
+   "partial": "5/8 rows translated so far"
   },
   "TableBeastPiratesStronghold": {
    "key_column": "id",
@@ -842,9 +1227,19 @@
      "id": "2",
      "description": "Complete {0} Guild Quests",
      "title": "Guild Quests"
+    },
+    {
+     "id": "3",
+     "description": "Complete {0} Bounty Quests",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "4",
+     "description": "Complete {0} Daily Quests",
+     "title": "Daily Quests"
     }
    ],
-   "partial": "1/7 rows translated so far"
+   "partial": "3/7 rows translated so far"
   },
   "TableBountyCommandHelp": {
    "key_column": "id",
@@ -1360,16 +1755,1628 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "taskId": "1",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "2",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "3",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "4",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "5",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "6",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "7",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "8",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "9",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "10",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "11",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "12",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "13",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "14",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "15",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "16",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "17",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "18",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "19",
+     "taskDesc": "Gallery hero activation value {0}"
+    },
+    {
+     "taskId": "20",
+     "taskDesc": "Gallery hero activation value {0}"
+    },
+    {
+     "taskId": "21",
+     "taskDesc": "Gallery hero activation value {0}"
+    },
+    {
+     "taskId": "22",
+     "taskDesc": "Gallery hero activation value {0}"
+    },
+    {
+     "taskId": "23",
+     "taskDesc": "Unlock {0} SR Gallery entries"
+    },
+    {
+     "taskId": "24",
+     "taskDesc": "Unlock {0} SR Gallery entries"
+    },
+    {
+     "taskId": "25",
+     "taskDesc": "Unlock {0} SR Gallery entries"
+    },
+    {
+     "taskId": "26",
+     "taskDesc": "Unlock {0} SSR Gallery entries"
+    },
+    {
+     "taskId": "27",
+     "taskDesc": "Unlock {0} SSR Gallery entries"
+    },
+    {
+     "taskId": "28",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "29",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "30",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "31",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "32",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "33",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "34",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "35",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "36",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "37",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "38",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "39",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "40",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "41",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "42",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "43",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "44",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "45",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "46",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "47",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "48",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "49",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "50",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "51",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "52",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "53",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "54",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "55",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "56",
+     "taskDesc": "Use {0} Basic Secret Books"
+    },
+    {
+     "taskId": "57",
+     "taskDesc": "Use {0} Mid Secret Books"
+    },
+    {
+     "taskId": "58",
+     "taskDesc": "Complete {0} Character Stories"
+    },
+    {
+     "taskId": "59",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "60",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "61",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "62",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "63",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "64",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "65",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "66",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "67",
+     "taskDesc": "Use {0} Advanced Secret Books"
+    },
+    {
+     "taskId": "68",
+     "taskDesc": "Use {0} Ultimate Skill Manuals"
+    },
+    {
+     "taskId": "69",
+     "taskDesc": "Complete {0} Elite Challenges"
+    },
+    {
+     "taskId": "70",
+     "taskDesc": "Break through {0} times"
+    },
+    {
+     "taskId": "71",
+     "taskDesc": "Break through {0} times"
+    },
+    {
+     "taskId": "72",
+     "taskDesc": "Training: Attack Lv{0}"
+    },
+    {
+     "taskId": "73",
+     "taskDesc": "Training: Attack Lv{0}"
+    },
+    {
+     "taskId": "74",
+     "taskDesc": "Training: HP Lv{0}"
+    },
+    {
+     "taskId": "75",
+     "taskDesc": "Training: HP Lv{0}"
+    },
+    {
+     "taskId": "76",
+     "taskDesc": "Training: Defense Lv{0}"
+    },
+    {
+     "taskId": "77",
+     "taskDesc": "Training: Defense Lv{0}"
+    },
+    {
+     "taskId": "78",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "79",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "80",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "81",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "82",
+     "taskDesc": "Gallery hero activation value {0}"
+    },
+    {
+     "taskId": "83",
+     "taskDesc": "Clear {0} Character Stories"
+    },
+    {
+     "taskId": "84",
+     "taskDesc": "Clear Normal Story Chapter {0}"
+    },
+    {
+     "taskId": "85",
+     "taskDesc": "Clear Normal Story Chapter {0}"
+    },
+    {
+     "taskId": "86",
+     "taskDesc": "Clear Normal Story Chapter {0}"
+    },
+    {
+     "taskId": "87",
+     "taskDesc": "Clear Hard Story Chapter {0}"
+    },
+    {
+     "taskId": "88",
+     "taskDesc": "Refine gear to Lv{0}"
+    },
+    {
+     "taskId": "89",
+     "taskDesc": "Refine gear to Lv{0}"
+    },
+    {
+     "taskId": "90",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "91",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
      "taskId": "92",
      "taskDesc": "Activate Refining Master Level 1"
     },
     {
+     "taskId": "93",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "94",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "95",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "96",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "97",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "98",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "99",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "100",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "101",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "102",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "103",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "104",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "105",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "106",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "107",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "108",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "109",
+     "taskDesc": "Use {0} Basic Secret Books"
+    },
+    {
+     "taskId": "110",
+     "taskDesc": "Use {0} Basic Secret Books"
+    },
+    {
+     "taskId": "111",
+     "taskDesc": "Use {0} Basic Secret Books"
+    },
+    {
+     "taskId": "112",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "113",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "114",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "115",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "116",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "117",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "118",
+     "taskDesc": "Complete {0} Character Stories"
+    },
+    {
+     "taskId": "119",
+     "taskDesc": "Complete {0} Character Stories"
+    },
+    {
+     "taskId": "120",
+     "taskDesc": "Complete {0} Character Stories"
+    },
+    {
+     "taskId": "121",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "122",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "123",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "124",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "125",
+     "taskDesc": "Use {0} Mid Secret Books"
+    },
+    {
+     "taskId": "126",
+     "taskDesc": "Use {0} Mid Secret Books"
+    },
+    {
+     "taskId": "127",
+     "taskDesc": "Use {0} Mid Secret Books"
+    },
+    {
+     "taskId": "128",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "129",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "130",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "131",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "132",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "133",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "134",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "135",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "136",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "137",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "138",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "139",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "140",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "141",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "142",
+     "taskDesc": "Use {0} Advanced Secret Books"
+    },
+    {
+     "taskId": "143",
+     "taskDesc": "Use {0} Advanced Secret Books"
+    },
+    {
+     "taskId": "144",
+     "taskDesc": "Training: Attack Lv{0}"
+    },
+    {
+     "taskId": "145",
+     "taskDesc": "Training: Attack Lv{0}"
+    },
+    {
+     "taskId": "146",
+     "taskDesc": "Training: Attack Lv{0}"
+    },
+    {
+     "taskId": "147",
+     "taskDesc": "Training: HP Lv{0}"
+    },
+    {
+     "taskId": "148",
+     "taskDesc": "Training: HP Lv{0}"
+    },
+    {
+     "taskId": "149",
+     "taskDesc": "Training: HP Lv{0}"
+    },
+    {
+     "taskId": "150",
+     "taskDesc": "Training: Defense Lv{0}"
+    },
+    {
+     "taskId": "151",
+     "taskDesc": "Training: Defense Lv{0}"
+    },
+    {
+     "taskId": "152",
+     "taskDesc": "Training: Defense Lv{0}"
+    },
+    {
+     "taskId": "153",
+     "taskDesc": "Clear {0} Character Stories"
+    },
+    {
+     "taskId": "154",
+     "taskDesc": "Clear {0} Character Stories"
+    },
+    {
+     "taskId": "155",
+     "taskDesc": "Clear {0} Character Stories"
+    },
+    {
+     "taskId": "156",
+     "taskDesc": "Use {0} Ultimate Skill Manuals"
+    },
+    {
+     "taskId": "157",
+     "taskDesc": "Use {0} Ultimate Skill Manuals"
+    },
+    {
+     "taskId": "158",
+     "taskDesc": "Use {0} Ultimate Skill Manuals"
+    },
+    {
+     "taskId": "159",
+     "taskDesc": "Complete {0} Elite Challenges"
+    },
+    {
+     "taskId": "160",
+     "taskDesc": "Complete {0} Elite Challenges"
+    },
+    {
+     "taskId": "161",
+     "taskDesc": "Complete {0} Elite Challenges"
+    },
+    {
+     "taskId": "162",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "163",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "164",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "165",
+     "taskDesc": "Complete {0} Secret Book Dungeons"
+    },
+    {
+     "taskId": "166",
+     "taskDesc": "Complete {0} Secret Book Dungeons"
+    },
+    {
+     "taskId": "167",
+     "taskDesc": "Complete {0} Secret Book Dungeons"
+    },
+    {
+     "taskId": "168",
+     "taskDesc": "Break through {0} times"
+    },
+    {
+     "taskId": "169",
+     "taskDesc": "Break through {0} times"
+    },
+    {
+     "taskId": "170",
+     "taskDesc": "Break through {0} times"
+    },
+    {
+     "taskId": "171",
+     "taskDesc": "Complete {0} Breakthrough Dungeons"
+    },
+    {
+     "taskId": "172",
+     "taskDesc": "Complete {0} Breakthrough Dungeons"
+    },
+    {
+     "taskId": "173",
+     "taskDesc": "Complete {0} Breakthrough Dungeons"
+    },
+    {
+     "taskId": "174",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "175",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "176",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "177",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "178",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "179",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "180",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "181",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "182",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "183",
+     "taskDesc": "Gallery hero activation value {0}"
+    },
+    {
+     "taskId": "184",
+     "taskDesc": "Gallery hero activation value {0}"
+    },
+    {
+     "taskId": "185",
+     "taskDesc": "Gallery hero activation value {0}"
+    },
+    {
+     "taskId": "186",
+     "taskDesc": "Gallery hero activation value {0}"
+    },
+    {
+     "taskId": "187",
+     "taskDesc": "Gallery hero activation value {0}"
+    },
+    {
+     "taskId": "188",
+     "taskDesc": "Clear Normal Story Chapter {0}"
+    },
+    {
+     "taskId": "189",
+     "taskDesc": "Clear Normal Story Chapter {0}"
+    },
+    {
+     "taskId": "190",
+     "taskDesc": "Clear Normal Story Chapter {0}"
+    },
+    {
+     "taskId": "191",
+     "taskDesc": "Clear Hard Story Chapter {0}"
+    },
+    {
+     "taskId": "192",
+     "taskDesc": "Clear Hard Story Chapter {0}"
+    },
+    {
+     "taskId": "193",
+     "taskDesc": "Refine gear to Lv{0}"
+    },
+    {
+     "taskId": "194",
+     "taskDesc": "Refine gear to Lv{0}"
+    },
+    {
+     "taskId": "195",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "196",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "197",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
      "taskId": "198",
      "taskDesc": "Activate Refining Master Level 2"
+    },
+    {
+     "taskId": "199",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "200",
+     "taskDesc": "Clear {0} Blood Battle stages"
+    },
+    {
+     "taskId": "201",
+     "taskDesc": "Clear {0} Blood Battle stages"
+    },
+    {
+     "taskId": "202",
+     "taskDesc": "Clear {0} Blood Battle stages"
+    },
+    {
+     "taskId": "203",
+     "taskDesc": "Clear {0} Blood Battle stages"
+    },
+    {
+     "taskId": "204",
+     "taskDesc": "Clear {0} Blood Battle stages"
+    },
+    {
+     "taskId": "205",
+     "taskDesc": "Clear {0} Blood Battle stages"
+    },
+    {
+     "taskId": "206",
+     "taskDesc": "Clear {0} Blood Battle stages"
+    },
+    {
+     "taskId": "207",
+     "taskDesc": "Clear {0} Blood Battle stages"
+    },
+    {
+     "taskId": "208",
+     "taskDesc": "Clear {0} Blood Battle stages"
+    },
+    {
+     "taskId": "209",
+     "taskDesc": "Score {0} in Ultimate Challenge"
+    },
+    {
+     "taskId": "210",
+     "taskDesc": "Score {0} in Ultimate Challenge"
+    },
+    {
+     "taskId": "211",
+     "taskDesc": "Score {0} in Ultimate Challenge"
+    },
+    {
+     "taskId": "212",
+     "taskDesc": "Score {0} in Ultimate Challenge"
+    },
+    {
+     "taskId": "213",
+     "taskDesc": "Score {0} in Ultimate Challenge"
+    },
+    {
+     "taskId": "214",
+     "taskDesc": "Score {0} in Ultimate Challenge"
+    },
+    {
+     "taskId": "215",
+     "taskDesc": "Score {0} in Ultimate Challenge"
+    },
+    {
+     "taskId": "216",
+     "taskDesc": "Score {0} in Ultimate Challenge"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "2/405 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "taskId": "1",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "2",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "3",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "6",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "7",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "8",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "12",
+     "taskDesc": "Join the Arena 1 time"
+    },
+    {
+     "taskId": "13",
+     "taskDesc": "Join the Arena 2 times"
+    },
+    {
+     "taskId": "14",
+     "taskDesc": "Join the Arena 5 times"
+    },
+    {
+     "taskId": "32",
+     "taskDesc": "Join the Arena 3 times"
+    },
+    {
+     "taskId": "33",
+     "taskDesc": "Join the Arena 6 times"
+    },
+    {
+     "taskId": "34",
+     "taskDesc": "Join the Arena 10 times"
+    },
+    {
+     "taskId": "35",
+     "taskDesc": "Join the Arena 15 times"
+    },
+    {
+     "taskId": "69",
+     "taskDesc": "Gather {0} times"
+    },
+    {
+     "taskId": "92",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "159",
+     "taskDesc": "Gather {0} times"
+    },
+    {
+     "taskId": "160",
+     "taskDesc": "Gather {0} times"
+    },
+    {
+     "taskId": "161",
+     "taskDesc": "Gather {0} times"
+    },
+    {
+     "taskId": "198",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "201",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "202",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "203",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "204",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "205",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "206",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "207",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "208",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "209",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "210",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "211",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "212",
+     "taskDesc": "Join the Arena 1 time"
+    },
+    {
+     "taskId": "213",
+     "taskDesc": "Join the Arena 2 times"
+    },
+    {
+     "taskId": "214",
+     "taskDesc": "Join the Arena 3 times"
+    },
+    {
+     "taskId": "215",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "216",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "217",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "218",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "219",
+     "taskDesc": "Unlock {0} SR Gallery entries"
+    },
+    {
+     "taskId": "220",
+     "taskDesc": "Unlock {0} SR Gallery entries"
+    },
+    {
+     "taskId": "221",
+     "taskDesc": "Unlock {0} SR Gallery entries"
+    },
+    {
+     "taskId": "222",
+     "taskDesc": "Unlock {0} SSR Gallery entries"
+    },
+    {
+     "taskId": "223",
+     "taskDesc": "Unlock {0} SSR Gallery entries"
+    },
+    {
+     "taskId": "224",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "225",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "226",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "227",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "228",
+     "taskDesc": "Join the Arena 5 times"
+    },
+    {
+     "taskId": "229",
+     "taskDesc": "Join the Arena 6 times"
+    },
+    {
+     "taskId": "230",
+     "taskDesc": "Join the Arena 10 times"
+    },
+    {
+     "taskId": "231",
+     "taskDesc": "Join the Arena 15 times"
+    },
+    {
+     "taskId": "232",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "233",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "234",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "235",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "236",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "237",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "238",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "239",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "240",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "241",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "242",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "243",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "244",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "245",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "246",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "247",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "248",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "249",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "250",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "251",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "252",
+     "taskDesc": "Complete {0} Character Stories"
+    },
+    {
+     "taskId": "253",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "254",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "255",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "256",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "257",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "258",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "259",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "260",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "261",
+     "taskDesc": "Gather {0} times"
+    },
+    {
+     "taskId": "262",
+     "taskDesc": "Break through {0} times"
+    },
+    {
+     "taskId": "263",
+     "taskDesc": "Break through {0} times"
+    },
+    {
+     "taskId": "264",
+     "taskDesc": "Training: Attack Lv{0}"
+    },
+    {
+     "taskId": "265",
+     "taskDesc": "Training: Attack Lv{0}"
+    },
+    {
+     "taskId": "266",
+     "taskDesc": "Training: HP Lv{0}"
+    },
+    {
+     "taskId": "267",
+     "taskDesc": "Training: HP Lv{0}"
+    },
+    {
+     "taskId": "268",
+     "taskDesc": "Training: Defense Lv{0}"
+    },
+    {
+     "taskId": "269",
+     "taskDesc": "Training: Defense Lv{0}"
+    },
+    {
+     "taskId": "270",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "271",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "272",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "273",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "274",
+     "taskDesc": "Clear {0} Character Stories"
+    },
+    {
+     "taskId": "275",
+     "taskDesc": "Clear Story Replay {0} times"
+    },
+    {
+     "taskId": "276",
+     "taskDesc": "Clear Story Replay {0} times"
+    },
+    {
+     "taskId": "277",
+     "taskDesc": "Clear Story Replay {0} times"
+    },
+    {
+     "taskId": "278",
+     "taskDesc": "Clear Story Replay {0} times"
+    },
+    {
+     "taskId": "279",
+     "taskDesc": "Refine gear to Lv{0}"
+    },
+    {
+     "taskId": "280",
+     "taskDesc": "Refine gear to Lv{0}"
+    },
+    {
+     "taskId": "281",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "282",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "283",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "284",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "285",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "286",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "287",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "288",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "289",
+     "taskDesc": "Complete {0} Daily Quests"
+    },
+    {
+     "taskId": "290",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "291",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "292",
+     "taskDesc": "Complete {0} Bounty Quests"
+    },
+    {
+     "taskId": "293",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "294",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "295",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "296",
+     "taskDesc": "Train {0} times"
+    },
+    {
+     "taskId": "297",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "298",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "299",
+     "taskDesc": "Complete {0} Training Dungeons"
+    },
+    {
+     "taskId": "300",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "301",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "302",
+     "taskDesc": "Voyage Tower: {0} stages"
+    },
+    {
+     "taskId": "303",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "304",
+     "taskDesc": "Reach rank {0} in the Arena"
+    },
+    {
+     "taskId": "305",
+     "taskDesc": "Complete {0} Character Stories"
+    },
+    {
+     "taskId": "306",
+     "taskDesc": "Complete {0} Character Stories"
+    },
+    {
+     "taskId": "307",
+     "taskDesc": "Complete {0} Character Stories"
+    },
+    {
+     "taskId": "308",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "309",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "310",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "311",
+     "taskDesc": "Complete {0} Expeditions"
+    },
+    {
+     "taskId": "312",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "313",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "314",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "315",
+     "taskDesc": "{0} Normal and Elite Recruits in total"
+    },
+    {
+     "taskId": "316",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "317",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "318",
+     "taskDesc": "Complete {0} Side Quests"
+    },
+    {
+     "taskId": "319",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "320",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "321",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "322",
+     "taskDesc": "{0} characters at Lv{1}"
+    },
+    {
+     "taskId": "323",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "324",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "325",
+     "taskDesc": "Transcend {0} times"
+    },
+    {
+     "taskId": "326",
+     "taskDesc": "Training: Attack Lv{0}"
+    },
+    {
+     "taskId": "327",
+     "taskDesc": "Training: Attack Lv{0}"
+    },
+    {
+     "taskId": "328",
+     "taskDesc": "Training: Attack Lv{0}"
+    },
+    {
+     "taskId": "329",
+     "taskDesc": "Training: HP Lv{0}"
+    },
+    {
+     "taskId": "330",
+     "taskDesc": "Training: HP Lv{0}"
+    },
+    {
+     "taskId": "331",
+     "taskDesc": "Training: HP Lv{0}"
+    },
+    {
+     "taskId": "332",
+     "taskDesc": "Training: Defense Lv{0}"
+    },
+    {
+     "taskId": "333",
+     "taskDesc": "Training: Defense Lv{0}"
+    },
+    {
+     "taskId": "334",
+     "taskDesc": "Training: Defense Lv{0}"
+    },
+    {
+     "taskId": "335",
+     "taskDesc": "Clear {0} Character Stories"
+    },
+    {
+     "taskId": "336",
+     "taskDesc": "Clear {0} Character Stories"
+    },
+    {
+     "taskId": "337",
+     "taskDesc": "Clear {0} Character Stories"
+    },
+    {
+     "taskId": "338",
+     "taskDesc": "Gather {0} times"
+    },
+    {
+     "taskId": "339",
+     "taskDesc": "Gather {0} times"
+    },
+    {
+     "taskId": "340",
+     "taskDesc": "Gather {0} times"
+    },
+    {
+     "taskId": "341",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "342",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "343",
+     "taskDesc": "Win {0} Ladder matches"
+    },
+    {
+     "taskId": "344",
+     "taskDesc": "Break through {0} times"
+    },
+    {
+     "taskId": "345",
+     "taskDesc": "Break through {0} times"
+    },
+    {
+     "taskId": "346",
+     "taskDesc": "Break through {0} times"
+    },
+    {
+     "taskId": "347",
+     "taskDesc": "Complete {0} Breakthrough Dungeons"
+    },
+    {
+     "taskId": "348",
+     "taskDesc": "Complete {0} Breakthrough Dungeons"
+    },
+    {
+     "taskId": "349",
+     "taskDesc": "Complete {0} Breakthrough Dungeons"
+    },
+    {
+     "taskId": "350",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "351",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "352",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "353",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "354",
+     "taskDesc": "{0} SRs at {1} stars"
+    },
+    {
+     "taskId": "355",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "356",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "357",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "358",
+     "taskDesc": "{0} SSRs at {1} stars"
+    },
+    {
+     "taskId": "359",
+     "taskDesc": "Clear Story Replay {0} times"
+    },
+    {
+     "taskId": "360",
+     "taskDesc": "Clear Story Replay {0} times"
+    },
+    {
+     "taskId": "361",
+     "taskDesc": "Clear Story Replay {0} times"
+    },
+    {
+     "taskId": "362",
+     "taskDesc": "Clear Story Replay {0} times"
+    },
+    {
+     "taskId": "363",
+     "taskDesc": "Clear Story Replay {0} times"
+    },
+    {
+     "taskId": "364",
+     "taskDesc": "Refine gear to Lv{0}"
+    },
+    {
+     "taskId": "365",
+     "taskDesc": "Refine gear to Lv{0}"
+    },
+    {
+     "taskId": "366",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "367",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "368",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "369",
+     "taskDesc": "Own {0} Lv{1} gems"
+    },
+    {
+     "taskId": "370",
+     "taskDesc": "Voyage Tower: {0} stages"
+    }
+   ]
   },
   "TableCarnivalTaskGroup": {
    "key_column": "taskGroupId",
@@ -4020,6 +6027,181 @@
     }
    ]
   },
+  "TableIntegralTask": {
+   "key_column": "taskId",
+   "text_columns": [
+    "taskName",
+    "taskDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "taskId": "1",
+     "taskName": "Participant's Reward",
+     "taskDesc": "Join 2 Ladder matches"
+    },
+    {
+     "taskId": "2",
+     "taskName": "Participant's Reward",
+     "taskDesc": "Join 3 Ladder matches"
+    },
+    {
+     "taskId": "3",
+     "taskName": "Participant's Reward",
+     "taskDesc": "Join 4 Ladder matches"
+    },
+    {
+     "taskId": "4",
+     "taskName": "Join - Unrestricted Match",
+     "taskDesc": "Join 2 Unrestricted Matches"
+    },
+    {
+     "taskId": "5",
+     "taskName": "Join - Unrestricted Match",
+     "taskDesc": "Join 3 Unrestricted Matches"
+    },
+    {
+     "taskId": "6",
+     "taskName": "Join - Unrestricted Match",
+     "taskDesc": "Join 4 Unrestricted Matches"
+    },
+    {
+     "taskId": "7",
+     "taskName": "Power of the Ultimate",
+     "taskDesc": "Use Ultimates 4 times in total"
+    },
+    {
+     "taskId": "8",
+     "taskName": "Power of the Ultimate",
+     "taskDesc": "Use Ultimates 7 times in total"
+    },
+    {
+     "taskId": "9",
+     "taskName": "Power of the Ultimate",
+     "taskDesc": "Use Ultimates 12 times in total"
+    },
+    {
+     "taskId": "10",
+     "taskName": "Show Your Strength",
+     "taskDesc": "Deal 80000 damage in total"
+    },
+    {
+     "taskId": "11",
+     "taskName": "Show Your Strength",
+     "taskDesc": "Deal 160000 damage in total"
+    },
+    {
+     "taskId": "12",
+     "taskName": "Show Your Strength",
+     "taskDesc": "Deal 200000 damage in total"
+    },
+    {
+     "taskId": "13",
+     "taskName": "Battle-Hardened",
+     "taskDesc": "Take 75000 damage in total"
+    },
+    {
+     "taskId": "14",
+     "taskName": "Battle-Hardened",
+     "taskDesc": "Take 110000 damage in total"
+    },
+    {
+     "taskId": "15",
+     "taskName": "Battle-Hardened",
+     "taskDesc": "Take 140000 damage in total"
+    },
+    {
+     "taskId": "16",
+     "taskName": "Stand Out",
+     "taskDesc": "Defeat 10 characters in total"
+    },
+    {
+     "taskId": "17",
+     "taskName": "Stand Out",
+     "taskDesc": "Defeat 17 characters in total"
+    },
+    {
+     "taskId": "18",
+     "taskName": "Stand Out",
+     "taskDesc": "Defeat 24 characters in total"
+    },
+    {
+     "taskId": "19",
+     "taskName": "Endless Combo",
+     "taskDesc": "Reach a 15-hit combo in one battle"
+    },
+    {
+     "taskId": "20",
+     "taskName": "Endless Combo",
+     "taskDesc": "Reach a 25-hit combo in one battle"
+    },
+    {
+     "taskId": "21",
+     "taskName": "Endless Combo",
+     "taskDesc": "Reach a 35-hit combo in one battle"
+    },
+    {
+     "taskId": "22",
+     "taskName": "Combo - Balanced Match",
+     "taskDesc": "Reach a 10-hit combo in a Balanced Match"
+    },
+    {
+     "taskId": "23",
+     "taskName": "Combo - Balanced Match",
+     "taskDesc": "Reach a 20-hit combo in a Balanced Match"
+    },
+    {
+     "taskId": "24",
+     "taskName": "Combo - Balanced Match",
+     "taskDesc": "Reach a 30-hit combo in a Balanced Match"
+    },
+    {
+     "taskId": "25",
+     "taskName": "Join - Balanced Match",
+     "taskDesc": "Join 1 Balanced Match"
+    },
+    {
+     "taskId": "26",
+     "taskName": "Join - Balanced Match",
+     "taskDesc": "Join 2 Balanced Matches"
+    },
+    {
+     "taskId": "27",
+     "taskName": "Join - Balanced Match",
+     "taskDesc": "Join 3 Balanced Matches"
+    },
+    {
+     "taskId": "28",
+     "taskName": "Defeat - Balanced Match",
+     "taskDesc": "Defeat 3 characters in a Balanced Match"
+    },
+    {
+     "taskId": "29",
+     "taskName": "Defeat - Balanced Match",
+     "taskDesc": "Defeat 6 characters in a Balanced Match"
+    },
+    {
+     "taskId": "30",
+     "taskName": "Defeat - Balanced Match",
+     "taskDesc": "Defeat 9 characters in a Balanced Match"
+    },
+    {
+     "taskId": "31",
+     "taskName": "Glory of the Victor",
+     "taskDesc": "Win 3 Ladder matches in total"
+    },
+    {
+     "taskId": "32",
+     "taskName": "Glory of the Victor",
+     "taskDesc": "Win 4 Ladder matches in total"
+    },
+    {
+     "taskId": "33",
+     "taskName": "Glory of the Victor",
+     "taskDesc": "Win 5 Ladder matches in total"
+    }
+   ]
+  },
   "TableIntegralZoneName": {
    "key_column": "id",
    "text_columns": [
@@ -4275,6 +6457,169 @@
    ],
    "other_bundle_rows": [],
    "partial": "61/221 rows translated so far"
+  },
+  "TableMainStoryActivity": {
+   "key_column": "id",
+   "text_columns": [
+    "name",
+    "desc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "name": "Phase 1",
+     "desc": "Main Story Chapter 67: \"Against the Current\" Landing in Wano Country"
+    },
+    {
+     "id": "2",
+     "name": "Phase 2",
+     "desc": "Main Story Chapter 67: \"Against the Current\" Landing in Wano Country"
+    },
+    {
+     "id": "3",
+     "name": "Phase 3",
+     "desc": "Main Story Chapter 67: \"Against the Current\" Landing in Wano Country"
+    },
+    {
+     "id": "4",
+     "name": "Phase 1",
+     "desc": "Main Story Chapter 68: \"Rescue Tama\" Rampage in Bakura Town"
+    },
+    {
+     "id": "5",
+     "name": "Phase 2",
+     "desc": "Main Story Chapter 68: \"Rescue Tama\" Rampage in Bakura Town"
+    },
+    {
+     "id": "6",
+     "name": "Phase 1",
+     "desc": "Main Story Chapter 69: \"Facing Kaido\" The One-Hit Thunder Bagua"
+    },
+    {
+     "id": "7",
+     "name": "Phase 2",
+     "desc": "Main Story Chapter 69: \"Facing Kaido\" The One-Hit Thunder Bagua"
+    },
+    {
+     "id": "8",
+     "name": "Phase 1",
+     "desc": "Main Story Chapter 70: \"Chaos in the Flower Capital\" A Situation About to Explode"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "name": "Phase 1",
+     "desc": "Main Story Chapter 29: \"Battle of Enies Lobby\" Save Robin (Part 1) - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "2",
+     "name": "Phase 2",
+     "desc": "Main Story Chapter 29: \"Battle of Enies Lobby\" Save Robin (Part 2) - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "3",
+     "name": "Phase 3",
+     "desc": "Main Story Chapter 30: \"Garp Appears\" Luffy's Grandpa - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "4",
+     "name": "Phase 4",
+     "desc": "Main Story Chapter 31: \"Thousand Sunny\" Setting Sail Again - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "5",
+     "name": "Phase 1",
+     "desc": "Main Story Chapter 32: \"Ghost Ship\" Brook Appears - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "6",
+     "name": "Phase 2",
+     "desc": "Main Story Chapter 33: \"Thriller Bark\" The Great Adventure - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "7",
+     "name": "Phase 3",
+     "desc": "Main Story Chapter 34: \"Stolen Shadows\" Gecko Moria Appears - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "8",
+     "name": "Phase 4",
+     "desc": "Main Story Chapter 35: \"Luffy's Look\" Oars the Giant - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "9",
+     "name": "Phase 1",
+     "desc": "Main Story Chapter 36: \"Sanji's Dream\" - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "10",
+     "name": "Phase 2",
+     "desc": "Main Story Chapter 37: \"Cindry's Will\" - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "11",
+     "name": "Phase 3",
+     "desc": "Main Story Chapter 38: \"Showdown at Dawn\" - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "12",
+     "name": "Phase 1",
+     "desc": "Main Story Chapter 21: \"Trials of God\" Skypiea's Priests - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "13",
+     "name": "Phase 2",
+     "desc": "Main Story Chapter 22: \"Enel Appears\" Adventure on God's Island - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "14",
+     "name": "Phase 3",
+     "desc": "Main Story Chapter 23: \"Bell of the City of Gold\" We Are Here - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "15",
+     "name": "Phase 1",
+     "desc": "Main Story Chapter 39: \"Flying Fish Riders\" - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "16",
+     "name": "Phase 2",
+     "desc": "Main Story Chapter 40: \"False Paradise\" - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "17",
+     "name": "Phase 3",
+     "desc": "Main Story Chapter 41: \"Embers of History\" - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "18",
+     "name": "Phase 1",
+     "desc": "Main Story Chapter 42: \"Amazon Lily Adventure\" - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "19",
+     "name": "Phase 2",
+     "desc": "Main Story Chapter 43: \"Impel Down\" - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "20",
+     "name": "Phase 3",
+     "desc": "Main Story Chapter 44: \"Facing Hell's Strongest\" - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "21",
+     "name": "Phase 4",
+     "desc": "Main Story Chapter 45: \"A Miracle in Hell\" - Limited-Time Hard Stage Challenge"
+    },
+    {
+     "id": "22",
+     "name": "Phase 5",
+     "desc": "Main Story Chapter 46: \"Bloom the Flower of Friendship\" - Limited-Time Hard Stage Challenge"
+    }
+   ]
   },
   "TableModuleTimes": {
    "key_column": "moduleIndex",
@@ -4846,6 +7191,461 @@
     }
    ],
    "partial": "4/7 rows translated so far"
+  },
+  "TablePartnerTask": {
+   "key_column": "id",
+   "text_columns": [
+    "description",
+    "title"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "description": "Partners complete {0} Expeditions in total",
+     "title": "Expeditions"
+    },
+    {
+     "id": "2",
+     "description": "Partners complete {0} Daily Quests in total",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "3",
+     "description": "Partners complete {0} Story Replays (Easy) in total",
+     "title": "Story Replay"
+    },
+    {
+     "id": "4",
+     "description": "Partners complete {0} Normal Recruits in total",
+     "title": "Normal Recruit"
+    },
+    {
+     "id": "5",
+     "description": "Partners complete {0} Elite Recruits in total",
+     "title": "Elite Recruit"
+    },
+    {
+     "id": "6",
+     "description": "Partners complete {0} Wanted Bosses in total",
+     "title": "Bounty Boss"
+    },
+    {
+     "id": "7",
+     "description": "Partners complete {0} Elite Challenges in total",
+     "title": "Elite Challenge"
+    },
+    {
+     "id": "8",
+     "description": "Partners complete {0} Character Stories in total",
+     "title": "Character Stories"
+    },
+    {
+     "id": "9",
+     "description": "Partners complete {0} Arena battles in total",
+     "title": "Arena"
+    },
+    {
+     "id": "10",
+     "description": "Partners complete {0} Wanted Bosses in total",
+     "title": "Bounty Boss"
+    },
+    {
+     "id": "11",
+     "description": "Partners complete {0} Arena battles in total",
+     "title": "Arena"
+    },
+    {
+     "id": "12",
+     "description": "Partners complete {0} Daily Quests in total",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "13",
+     "description": "Partners complete {0} Expeditions in total",
+     "title": "Expeditions"
+    },
+    {
+     "id": "14",
+     "description": "Partners complete {0} Bounty Quests in total",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "15",
+     "description": "Partners complete {0} Character Stories in total",
+     "title": "Character Stories"
+    },
+    {
+     "id": "16",
+     "description": "Partners complete {0} Ladder matches in total",
+     "title": "Ladder"
+    },
+    {
+     "id": "17",
+     "description": "Partners win {0} Glory Matches in total",
+     "title": "Glory Match"
+    },
+    {
+     "id": "18",
+     "description": "Partners complete {0} Limited Recruitments in total",
+     "title": "Limited Recruitment"
+    },
+    {
+     "id": "19",
+     "description": "Partners complete {0} Blood Battles (not full clears) in total",
+     "title": "Blood Battle"
+    },
+    {
+     "id": "20",
+     "description": "Partners complete {0} Arena battles in total",
+     "title": "Arena"
+    },
+    {
+     "id": "21",
+     "description": "Partners complete {0} Expeditions in total",
+     "title": "Expeditions"
+    },
+    {
+     "id": "22",
+     "description": "Partners complete {0} Daily Quests in total",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "23",
+     "description": "Partners complete {0} Bounty Quests in total",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "24",
+     "description": "Partners complete {0} Character Stories in total",
+     "title": "Character Stories"
+    },
+    {
+     "id": "25",
+     "description": "Partners gain {0} Sailing Intel in total",
+     "title": "Maritime Trade"
+    },
+    {
+     "id": "26",
+     "description": "Partners complete {0} Soul Searches in total",
+     "title": "Soul Infusion"
+    },
+    {
+     "id": "27",
+     "description": "Partners complete {0} Peak Arena matches in total",
+     "title": "Peak Arena"
+    },
+    {
+     "id": "28",
+     "description": "Partners complete {0} Limited Recruitments in total",
+     "title": "Limited Recruitment"
+    },
+    {
+     "id": "29",
+     "description": "Partners complete {0} Blood Battles (not full clears) in total",
+     "title": "Blood Battle"
+    },
+    {
+     "id": "30",
+     "description": "Partners complete {0} Wanted Bosses in total",
+     "title": "Bounty Boss"
+    },
+    {
+     "id": "31",
+     "description": "Partners complete {0} Elite Challenges in total",
+     "title": "Elite Challenge"
+    },
+    {
+     "id": "32",
+     "description": "Partners complete {0} Expeditions in total",
+     "title": "Expeditions"
+    },
+    {
+     "id": "33",
+     "description": "Partners complete {0} Daily Quests in total",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "34",
+     "description": "Partners complete {0} Bounty Quests in total",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "35",
+     "description": "Partners complete {0} Character Stories in total",
+     "title": "Character Stories"
+    },
+    {
+     "id": "36",
+     "description": "Partners complete {0} Guild Quests in total",
+     "title": "Guild Quests"
+    },
+    {
+     "id": "37",
+     "description": "Partners complete {0} Peak Arena matches in total",
+     "title": "Peak Arena"
+    },
+    {
+     "id": "38",
+     "description": "Partners complete {0} Soul Searches in total",
+     "title": "Soul Infusion"
+    },
+    {
+     "id": "39",
+     "description": "Partners complete {0} Peak Arena wins in total",
+     "title": "Peak Arena"
+    },
+    {
+     "id": "40",
+     "description": "Partners complete {0} Sailing Adventures in total",
+     "title": "Sailing Adventure"
+    },
+    {
+     "id": "41",
+     "description": "Partners complete {0} Sailing Adventures with a win in total",
+     "title": "Sailing Adventure"
+    },
+    {
+     "id": "42",
+     "description": "Partners complete {0} Sailing Adventures in total",
+     "title": "Sailing Adventure"
+    },
+    {
+     "id": "43",
+     "description": "Partners complete {0} Sailing Adventures with a win in total",
+     "title": "Sailing Adventure"
+    },
+    {
+     "id": "44",
+     "description": "Partners complete {0} Elite Challenges in total",
+     "title": "Elite Challenge"
+    },
+    {
+     "id": "45",
+     "description": "Partners complete {0} Expeditions in total",
+     "title": "Expeditions"
+    },
+    {
+     "id": "46",
+     "description": "Partners complete {0} Daily Quests in total",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "47",
+     "description": "Partners complete {0} Bounty Quests in total",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "48",
+     "description": "Partners complete {0} Grand Voyage Quests in total",
+     "title": "Great Voyage"
+    },
+    {
+     "id": "49",
+     "description": "Partners complete {0} Soul Searches in total",
+     "title": "Soul Infusion"
+    },
+    {
+     "id": "50",
+     "description": "Partners complete {0} Limited Recruitments in total",
+     "title": "Limited Recruitment"
+    },
+    {
+     "id": "51",
+     "description": "Partners complete {0} Peak Arena matches in total",
+     "title": "Peak Arena"
+    },
+    {
+     "id": "52",
+     "description": "Partners complete {0} Peak Arena wins in total",
+     "title": "Peak Arena"
+    },
+    {
+     "id": "53",
+     "description": "Each partner completes {0} Story Replays (Easy)",
+     "title": "Story Replay"
+    },
+    {
+     "id": "54",
+     "description": "Each partner completes {0} Bounty Quests",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "55",
+     "description": "Each partner completes {0} Daily Quests",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "56",
+     "description": "Each partner completes {0} Character Stories",
+     "title": "Character Stories"
+    },
+    {
+     "id": "57",
+     "description": "Each partner completes {0} Expeditions",
+     "title": "Expeditions"
+    },
+    {
+     "id": "58",
+     "description": "Each partner completes {0} Wanted Bosses",
+     "title": "Bounty Boss"
+    },
+    {
+     "id": "59",
+     "description": "Each partner completes {0} Elite Challenges",
+     "title": "Elite Challenge"
+    },
+    {
+     "id": "60",
+     "description": "Each partner completes {0} Story Replays (Easy)",
+     "title": "Story Replay"
+    },
+    {
+     "id": "61",
+     "description": "Each partner completes {0} Bounty Quests",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "62",
+     "description": "Each partner completes {0} Daily Quests",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "63",
+     "description": "Each partner completes {0} Character Stories",
+     "title": "Character Stories"
+    },
+    {
+     "id": "64",
+     "description": "Each partner completes {0} Expeditions",
+     "title": "Expeditions"
+    },
+    {
+     "id": "65",
+     "description": "Each partner completes {0} Blood Battles (not full clears)",
+     "title": "Blood Battle"
+    },
+    {
+     "id": "66",
+     "description": "Each partner completes {0} Story Replays (Easy)",
+     "title": "Story Replay"
+    },
+    {
+     "id": "67",
+     "description": "Each partner completes {0} Bounty Quests",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "68",
+     "description": "Each partner completes {0} Character Stories",
+     "title": "Character Stories"
+    },
+    {
+     "id": "69",
+     "description": "Each partner completes {0} Expeditions",
+     "title": "Expeditions"
+    },
+    {
+     "id": "70",
+     "description": "Each partner completes {0} Blood Battles (not full clears)",
+     "title": "Blood Battle"
+    },
+    {
+     "id": "71",
+     "description": "Each partner gains {0} Sailing Intel",
+     "title": "Maritime Trade"
+    },
+    {
+     "id": "72",
+     "description": "Each partner completes {0} Bounty Quests",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "73",
+     "description": "Each partner completes {0} Grand Voyage Quests",
+     "title": "Great Voyage"
+    },
+    {
+     "id": "74",
+     "description": "Each partner completes {0} Daily Quests",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "75",
+     "description": "Each partner completes {0} Character Stories",
+     "title": "Character Stories"
+    },
+    {
+     "id": "76",
+     "description": "Each partner completes {0} Sailing Adventures",
+     "title": "Sailing Adventure"
+    },
+    {
+     "id": "77",
+     "description": "Each partner completes {0} Expeditions",
+     "title": "Expeditions"
+    },
+    {
+     "id": "78",
+     "description": "Each partner completes {0} Home Quests",
+     "title": "Home Quests"
+    },
+    {
+     "id": "79",
+     "description": "Each partner completes {0} Friends' Home Quests",
+     "title": "Home Quests"
+    },
+    {
+     "id": "80",
+     "description": "Each partner completes {0} Home Quests",
+     "title": "Home Quests"
+    },
+    {
+     "id": "81",
+     "description": "Each partner completes {0} Friends' Home Quests",
+     "title": "Home Quests"
+    },
+    {
+     "id": "82",
+     "description": "Each partner completes {0} Grand Voyage Quests",
+     "title": "Great Voyage"
+    },
+    {
+     "id": "83",
+     "description": "Each partner completes {0} Sailing Adventures",
+     "title": "Sailing Adventure"
+    },
+    {
+     "id": "84",
+     "description": "Each partner completes {0} Bounty Quests",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "85",
+     "description": "Each partner gains {0} Sailing Intel",
+     "title": "Maritime Trade"
+    },
+    {
+     "id": "86",
+     "description": "Each partner completes {0} Glory Matches",
+     "title": "Glory Match"
+    },
+    {
+     "id": "87",
+     "description": "Partners complete {0} Advanced Recruits (not Normal) in total",
+     "title": "Advanced Recruit"
+    },
+    {
+     "id": "88",
+     "description": "Partners complete {0} Advanced Recruits (not Normal) in total",
+     "title": "Advanced Recruit"
+    },
+    {
+     "id": "89",
+     "description": "Partners complete {0} Advanced Recruits (not Normal) in total",
+     "title": "Advanced Recruit"
+    }
+   ]
   },
   "TablePlayerDealConfig": {
    "key_column": "itemId",
@@ -6531,27 +9331,27 @@
     {
      "id": "31",
      "tenNum": "<size=17><color=#ba4b00>50x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
-     "rewardContent": "<size=20><color=#ba4b00>Charlotte Linlin Awakening Badge</color></size>*10"
+     "rewardContent": "<size=20><color=#ba4b00>Big Mom Awakening Badge</color></size>*10"
     },
     {
      "id": "32",
      "tenNum": "<size=17><color=#ba4b00>150x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
-     "rewardContent": "<size=20><color=#ba4b00>Charlotte Linlin Awakening Badge</color></size>*10"
+     "rewardContent": "<size=20><color=#ba4b00>Big Mom Awakening Badge</color></size>*10"
     },
     {
      "id": "33",
      "tenNum": "<size=17><color=#ba4b00>250x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
-     "rewardContent": "<size=20><color=#ba4b00>Charlotte Linlin Awakening Badge</color></size>*20"
+     "rewardContent": "<size=20><color=#ba4b00>Big Mom Awakening Badge</color></size>*20"
     },
     {
      "id": "34",
      "tenNum": "<size=17><color=#ba4b00>400x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
-     "rewardContent": "<size=20><color=#ba4b00>Charlotte Linlin Awakening Badge</color></size>*20"
+     "rewardContent": "<size=20><color=#ba4b00>Big Mom Awakening Badge</color></size>*20"
     },
     {
      "id": "35",
      "tenNum": "<size=17><color=#ba4b00>500x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
-     "rewardContent": "<size=20><color=#ba4b00>Charlotte Linlin Awakening Badge</color></size>*30"
+     "rewardContent": "<size=20><color=#ba4b00>Big Mom Awakening Badge</color></size>*30"
     },
     {
      "id": "36",
@@ -7108,27 +9908,27 @@
     {
      "id": "31",
      "tenNum": "<size=17><color=#ba4b00>First</color></size><size=12><color=#714a1e> 10-Pull</color></size>",
-     "rewardContent": "<size=20><color=#ba4b00>Charlotte Linlin Awakening Badge</color></size>*10"
+     "rewardContent": "<size=20><color=#ba4b00>Big Mom Awakening Badge</color></size>*10"
     },
     {
      "id": "32",
      "tenNum": "<size=17><color=#ba4b00>3x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
-     "rewardContent": "<size=20><color=#ba4b00>Charlotte Linlin Awakening Badge</color></size>*10"
+     "rewardContent": "<size=20><color=#ba4b00>Big Mom Awakening Badge</color></size>*10"
     },
     {
      "id": "33",
      "tenNum": "<size=17><color=#ba4b00>5x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
-     "rewardContent": "<size=20><color=#ba4b00>Charlotte Linlin Awakening Badge</color></size>*20"
+     "rewardContent": "<size=20><color=#ba4b00>Big Mom Awakening Badge</color></size>*20"
     },
     {
      "id": "34",
      "tenNum": "<size=17><color=#ba4b00>8x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
-     "rewardContent": "<size=20><color=#ba4b00>Charlotte Linlin Awakening Badge</color></size>*20"
+     "rewardContent": "<size=20><color=#ba4b00>Big Mom Awakening Badge</color></size>*20"
     },
     {
      "id": "35",
      "tenNum": "<size=17><color=#ba4b00>10x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
-     "rewardContent": "<size=20><color=#ba4b00>Charlotte Linlin Awakening Badge</color></size>*30"
+     "rewardContent": "<size=20><color=#ba4b00>Big Mom Awakening Badge</color></size>*30"
     },
     {
      "id": "36",
@@ -7242,6 +10042,36 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "id": "7",
+     "description": "Complete {0} Bounty Quests",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "8",
+     "description": "Complete {0} Bounty Quests",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "9",
+     "description": "Complete {0} Daily Quests",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "10",
+     "description": "Complete {0} Daily Quests",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "11",
+     "description": "Complete {0} Daily Quests",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "12",
+     "description": "Complete {0} Daily Quests",
+     "title": "Daily Quests"
+    },
+    {
      "id": "13",
      "description": "Complete {0} Guild Quests",
      "title": "Guild Quests"
@@ -7260,9 +10090,49 @@
      "id": "16",
      "description": "Complete {0} Guild Quests",
      "title": "Guild Quests"
+    },
+    {
+     "id": "32",
+     "description": "Complete {0} Expeditions",
+     "title": "Expeditions"
+    },
+    {
+     "id": "33",
+     "description": "Complete {0} Expeditions",
+     "title": "Expeditions"
+    },
+    {
+     "id": "34",
+     "description": "Complete {0} Expeditions",
+     "title": "Expeditions"
+    },
+    {
+     "id": "35",
+     "description": "Complete {0} Expeditions",
+     "title": "Expeditions"
     }
    ],
    "other_bundle_rows": [
+    {
+     "id": "5",
+     "description": "Complete {0} Bounty Quests",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "6",
+     "description": "Complete {0} Bounty Quests",
+     "title": "Bounty Quest"
+    },
+    {
+     "id": "7",
+     "description": "Complete {0} Daily Quests",
+     "title": "Daily Quests"
+    },
+    {
+     "id": "8",
+     "description": "Complete {0} Daily Quests",
+     "title": "Daily Quests"
+    },
     {
      "id": "11",
      "description": "Complete {0} Guild Quests",
@@ -7272,9 +10142,29 @@
      "id": "12",
      "description": "Complete {0} Guild Quests",
      "title": "Guild Quests"
+    },
+    {
+     "id": "24",
+     "description": "Complete {0} Expeditions",
+     "title": "Expeditions"
+    },
+    {
+     "id": "25",
+     "description": "Complete {0} Expeditions",
+     "title": "Expeditions"
+    },
+    {
+     "id": "26",
+     "description": "Complete {0} Expeditions",
+     "title": "Expeditions"
+    },
+    {
+     "id": "27",
+     "description": "Complete {0} Expeditions",
+     "title": "Expeditions"
     }
    ],
-   "partial": "6/57 rows translated so far"
+   "partial": "24/57 rows translated so far"
   },
   "TableQAgame": {
    "key_column": "questionId",
@@ -8457,6 +11347,158 @@
    ],
    "partial": "29/31 rows translated so far"
   },
+  "TableRogueHandBook": {
+   "key_column": "id",
+   "text_columns": [
+    "info"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "6",
+     "info": "Obtained at Killer Enhancement Lv1"
+    },
+    {
+     "id": "7",
+     "info": "Obtained at Killer Enhancement Lv2"
+    },
+    {
+     "id": "8",
+     "info": "Obtained at Killer Enhancement Lv3"
+    },
+    {
+     "id": "9",
+     "info": "Obtained at Killer Enhancement Lv4"
+    },
+    {
+     "id": "10",
+     "info": "Obtained at Killer Enhancement Lv5"
+    },
+    {
+     "id": "17",
+     "info": "Obtained at New World Kid Enhancement Lv1"
+    },
+    {
+     "id": "18",
+     "info": "Obtained at New World Kid Enhancement Lv2"
+    },
+    {
+     "id": "19",
+     "info": "Obtained at New World Kid Enhancement Lv3"
+    },
+    {
+     "id": "20",
+     "info": "Obtained at New World Kid Enhancement Lv4"
+    },
+    {
+     "id": "21",
+     "info": "Obtained at New World Kid Enhancement Lv5"
+    },
+    {
+     "id": "27",
+     "info": "Obtained at Wano Trafalgar Law Enhancement Lv1"
+    },
+    {
+     "id": "28",
+     "info": "Obtained at Wano Trafalgar Law Enhancement Lv2"
+    },
+    {
+     "id": "29",
+     "info": "Obtained at Wano Trafalgar Law Enhancement Lv3"
+    },
+    {
+     "id": "30",
+     "info": "Obtained at Wano Trafalgar Law Enhancement Lv4"
+    },
+    {
+     "id": "31",
+     "info": "Obtained at Wano Trafalgar Law Enhancement Lv5"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "5",
+     "info": "Extension skill, owned by default, cast via Gear Second"
+    },
+    {
+     "id": "6",
+     "info": "Extension skill, owned by default, cast via Gear Second"
+    },
+    {
+     "id": "7",
+     "info": "Obtained at Luffy Enhancement Lv4"
+    },
+    {
+     "id": "8",
+     "info": "Obtained at Luffy Enhancement Lv1"
+    },
+    {
+     "id": "9",
+     "info": "Obtained at Luffy Enhancement Lv2"
+    },
+    {
+     "id": "10",
+     "info": "Obtained at Luffy Enhancement Lv3"
+    },
+    {
+     "id": "11",
+     "info": "Obtained at Luffy Enhancement Lv4"
+    },
+    {
+     "id": "12",
+     "info": "Obtained at Luffy Enhancement Lv5"
+    },
+    {
+     "id": "16",
+     "info": "Obtained at Zoro Enhancement Lv3"
+    },
+    {
+     "id": "18",
+     "info": "Obtained at Zoro Enhancement Lv1"
+    },
+    {
+     "id": "19",
+     "info": "Obtained at Zoro Enhancement Lv2"
+    },
+    {
+     "id": "20",
+     "info": "Obtained at Zoro Enhancement Lv3"
+    },
+    {
+     "id": "21",
+     "info": "Obtained at Zoro Enhancement Lv4"
+    },
+    {
+     "id": "22",
+     "info": "Obtained at Zoro Enhancement Lv5"
+    },
+    {
+     "id": "25",
+     "info": "Obtained at Sanji Enhancement Lv4"
+    },
+    {
+     "id": "28",
+     "info": "Obtained at Sanji Enhancement Lv1"
+    },
+    {
+     "id": "29",
+     "info": "Obtained at Sanji Enhancement Lv2"
+    },
+    {
+     "id": "30",
+     "info": "Obtained at Sanji Enhancement Lv3"
+    },
+    {
+     "id": "31",
+     "info": "Obtained at Sanji Enhancement Lv4"
+    },
+    {
+     "id": "32",
+     "info": "Obtained at Sanji Enhancement Lv5"
+    }
+   ]
+  },
   "TableRogueRankConfig": {
    "key_column": "rankId",
    "text_columns": [
@@ -8497,6 +11539,169 @@
     }
    ]
   },
+  "TableRoleCheck": {
+   "key_column": "id",
+   "text_columns": [
+    "desc",
+    "tabName"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "desc": "Obtain the character Wano Sanji",
+     "tabName": ""
+    },
+    {
+     "id": "2",
+     "desc": "Wano Sanji reaches Lv100",
+     "tabName": ""
+    },
+    {
+     "id": "3",
+     "desc": "Wano Sanji reaches Transcend 6 Stars",
+     "tabName": ""
+    },
+    {
+     "id": "4",
+     "desc": "Wano Sanji reaches Transcend 8 Stars",
+     "tabName": ""
+    },
+    {
+     "id": "5",
+     "desc": "Wano Sanji reaches Breakthrough Lv3",
+     "tabName": ""
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "desc": "Obtain the character New World Brook",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "2",
+     "desc": "New World Brook reaches Lv20",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "3",
+     "desc": "New World Brook reaches Lv30",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "4",
+     "desc": "New World Brook reaches Lv40",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "5",
+     "desc": "New World Brook reaches Breakthrough 1",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "6",
+     "desc": "New World Brook reaches Breakthrough 2",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "7",
+     "desc": "New World Brook reaches Transcend 6 Stars",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "8",
+     "desc": "New World Brook reaches Transcend 8 Stars",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "9",
+     "desc": "Complete 10 Character Stories",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "10",
+     "desc": "Complete 30 Character Stories",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "11",
+     "desc": "Complete 50 Character Stories",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "12",
+     "desc": "New World Brook completes Training 50 times",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "13",
+     "desc": "New World Brook completes Training 150 times",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "14",
+     "desc": "New World Brook completes Training 200 times",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "15",
+     "desc": "Complete 20 Breakthrough Dungeons",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "16",
+     "desc": "Complete 45 Breakthrough Dungeons",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "17",
+     "desc": "Complete 60 Breakthrough Dungeons",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "18",
+     "desc": "Do 20 Elite Challenges",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "19",
+     "desc": "Do 40 Elite Challenges",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "20",
+     "desc": "Do 60 Elite Challenges",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "21",
+     "desc": "Do 3 Guild Bounties",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "22",
+     "desc": "Do 5 Guild Bounties",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "23",
+     "desc": "Clear Combat Training 90 times",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "24",
+     "desc": "Clear Combat Training 180 times",
+     "tabName": "Advanced Trial"
+    },
+    {
+     "id": "25",
+     "desc": "Clear Combat Training 300 times",
+     "tabName": "Advanced Trial"
+    }
+   ]
+  },
   "TableScrollsSystem": {
    "key_column": "id",
    "text_columns": [
@@ -8526,6 +11731,174 @@
     }
    ],
    "partial": "5/7 rows translated so far"
+  },
+  "TableServerChallengeHero": {
+   "key_column": "id",
+   "text_columns": [
+    "topText",
+    "timeText"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "Fixed Bonus"
+    },
+    {
+     "id": "2",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "12/25"
+    },
+    {
+     "id": "3",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "12/26"
+    },
+    {
+     "id": "4",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "12/27"
+    },
+    {
+     "id": "5",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "12/28"
+    },
+    {
+     "id": "6",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "12/29"
+    },
+    {
+     "id": "7",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "12/30"
+    },
+    {
+     "id": "8",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "12/31"
+    },
+    {
+     "id": "9",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "1/1"
+    },
+    {
+     "id": "10",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "1/2"
+    },
+    {
+     "id": "11",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "1/3"
+    },
+    {
+     "id": "12",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "1/4"
+    },
+    {
+     "id": "13",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "1/5"
+    },
+    {
+     "id": "14",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "1/6"
+    },
+    {
+     "id": "15",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "1/7"
+    },
+    {
+     "id": "16",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "1/8"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "2",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "3/26"
+    },
+    {
+     "id": "3",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "3/27"
+    },
+    {
+     "id": "4",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "3/28"
+    },
+    {
+     "id": "5",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "3/29"
+    },
+    {
+     "id": "6",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "3/30"
+    },
+    {
+     "id": "7",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "3/31"
+    },
+    {
+     "id": "8",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "4/1"
+    },
+    {
+     "id": "9",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "4/2"
+    },
+    {
+     "id": "10",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "4/3"
+    },
+    {
+     "id": "11",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "4/4"
+    },
+    {
+     "id": "12",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "4/5"
+    },
+    {
+     "id": "13",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "4/6"
+    },
+    {
+     "id": "14",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "4/7"
+    },
+    {
+     "id": "15",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "4/8"
+    },
+    {
+     "id": "16",
+     "topText": "Raid heroes gain +100% Final Damage Bonus",
+     "timeText": "4/9"
+    }
+   ]
   },
   "TableShowTheirDepartments": {
    "key_column": "id",
@@ -11348,6 +14721,10 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "id": "113020",
+     "winString": "The Diamond Shield Shining on the Battlefield\\n     Jozu"
+    },
+    {
      "id": "113021",
      "winString": "Peerless Ruler of the Old Era\\n    Whitebeard"
     },
@@ -11356,20 +14733,156 @@
      "winString": "Blue-Flame Phoenix Who Pursues Faith\\n     Marco"
     },
     {
+     "id": "113023",
+     "winString": "The Double Rondo of the Flower Swords\\n    Vista"
+    },
+    {
+     "id": "113025",
+     "winString": "The Sea Warrior Who Conquered His Fear\\n New World Usopp"
+    },
+    {
      "id": "113026",
      "winString": "Three-Sword Master Reborn\\n  New World Zoro"
+    },
+    {
+     "id": "113028",
+     "winString": "The Mature, Stunning Navigator\\n  New World Nami"
+    },
+    {
+     "id": "113029",
+     "winString": "The Light Seeker Beneath the Darkest History\\n  New World Robin"
     },
     {
      "id": "113031",
      "winString": "Fifth Emperor of the New World\\n   New World Luffy"
     },
     {
+     "id": "113032",
+     "winString": "The Free-Spirited New Vice Admiral\\n  New World Smoker"
+    },
+    {
+     "id": "113033",
+     "winString": "The Swordswoman Set on Overcoming Weakness\\n New World Tashigi"
+    },
+    {
+     "id": "113035",
+     "winString": "The Iron Shipwright Heading for the World's Peak\\n New World Franky"
+    },
+    {
+     "id": "113036",
+     "winString": "The Dream Musician Echoing Across the New World\\n New World Brook"
+    },
+    {
+     "id": "113037",
+     "winString": "The Chivalrous \"Diable Jambe\"\\n  New World Sanji"
+    },
+    {
+     "id": "113038",
+     "winString": "The Reindeer Doctor Who Eases His Friends' Pain\\n  New World Chopper"
+    },
+    {
+     "id": "113039",
+     "winString": "The \"Surgeon of Death\" with Unmatched Medical Skill\\n  New World Law"
+    },
+    {
+     "id": "113040",
+     "winString": "One of the Three Sweet Commanders, \"Minister of Flour\"\\n  Charlotte Katakuri"
+    },
+    {
+     "id": "113042",
+     "winString": "\"Fire Fist\" Rekindling Ace's Will\\n      Sabo"
+    },
+    {
+     "id": "113043",
+     "winString": "The Admiral Who Follows the Justice in His Heart\\n      Fujitora"
+    },
+    {
+     "id": "113044",
+     "winString": "The Born Destroyer Who Loves to Eat\\nBig Mom"
+    },
+    {
+     "id": "113045",
+     "winString": "One of the Three Sweet Commanders, \"Minister of Biscuits\"\\n    Charlotte Cracker"
+    },
+    {
+     "id": "113046",
+     "winString": "One of the Three Sweet Commanders, \"Minister of Juice\"\\n      Charlotte Smoothie"
+    },
+    {
+     "id": "113047",
+     "winString": "The Strongest Creature in the New World\\n    Kaido"
+    },
+    {
+     "id": "113049",
+     "winString": "The Admiral Who Seeks the Justice in His Heart\\n  New World Kuzan"
+    },
+    {
+     "id": "113050",
+     "winString": "The Newly Appointed Fleet Admiral of Marine HQ\\n  New World Akainu"
+    },
+    {
+     "id": "113051",
+     "winString": "The Eldest Daughter of the Vinsmoke Family\\n      Vinsmoke Reiju"
+    },
+    {
+     "id": "113052",
+     "winString": "The Killing Machine Who Believes Weakness Is a Sin\\n   New World Ruz"
+    },
+    {
+     "id": "113053",
+     "winString": "The Pirate Empress of Breathtaking Beauty\\nImpel Down Hancock"
+    },
+    {
      "id": "113054",
      "winString": "Barrier Man of Absolute Defense\\nBartolomeo"
     },
     {
+     "id": "113055",
+     "winString": "The Blue-Flame Phoenix Who Inherited the Will\\n New World Marco"
+    },
+    {
+     "id": "113056",
+     "winString": "The Peerless Great Swordsman of the Black Blade\\n New World Mihawk"
+    },
+    {
+     "id": "113057",
+     "winString": "The Cute but Dangerous Devil Fruit User\\n     Sugar"
+    },
+    {
+     "id": "113058",
+     "winString": "The Pirate Prince with a Split Personality\\n   Cavendish"
+    },
+    {
+     "id": "113059",
+     "winString": "The Heir to the Shogun of Wano\\n  Kozuki Oden"
+    },
+    {
+     "id": "113060",
+     "winString": "The Peerless First Mate Called the Dark King\\n   Young Silvers Rayleigh"
+    },
+    {
+     "id": "113061",
+     "winString": "The Sulong Who Commands Super Lightning\\n    Carrot"
+    },
+    {
+     "id": "113062",
+     "winString": "The Handsome Swordsman, Kiku of the Lingering Snow\\n      O-Kiku"
+    },
+    {
+     "id": "113064",
+     "winString": "The Strongest Man Who Could Destroy the World\\n   Young Whitebeard"
+    },
+    {
      "id": "113065",
      "winString": "Haughty Ghost Princess\\n New World Perona"
+    },
+    {
+     "id": "113066",
+     "winString": "The Firmest Marine Bulwark of the Old Era\\n   Hero Garp"
+    },
+    {
+     "id": "113067",
+     "winString": "The New Emperor with the Power of Darkness and Destruction\\n New World Blackbeard"
     },
     {
      "id": "113068",
@@ -11378,10 +14891,37 @@
     {
      "id": "113069",
      "winString": "King Dazzling Under the Night\\n     Nekomamushi"
+    },
+    {
+     "id": "113070",
+     "winString": "The Three-Eyed Beauty Who Controls Memories\\n     Charlotte Pudding"
+    },
+    {
+     "id": "113071",
+     "winString": "The Tarot Cards That Divine Fate\\n   Basil Hawkins"
+    },
+    {
+     "id": "113072",
+     "winString": "The Ancient Zoan \"Red Flag\" X Drake\\n    X Drake"
+    },
+    {
+     "id": "113077",
+     "winString": "\\n     \"The Strongest Creature\" Returns in Fury!\\n              Dragon Man Kaido"
+    },
+    {
+     "id": "113088",
+     "winString": "\"Queen of Totland\"\\n              Dragon Man Kaido"
+    },
+    {
+     "id": "113100",
+     "winString": "The Legendary Pirate King\\n     Gol D. Roger"
+    },
+    {
+     "id": "113110",
+     "winString": "The Awakened Power of Rubber\\n     Gear 5 Luffy"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "8/50 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableUnionBountyGroup": {
    "key_column": "groupId",
@@ -12349,6 +15889,735 @@
     }
    ]
   },
+  "TableUnionSLGTask": {
+   "key_column": "id",
+   "text_columns": [
+    "taskText"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "taskText": "Our guild captures the Heart of the Deep Sea"
+    },
+    {
+     "id": "2",
+     "taskText": "5 guild members clear any stronghold"
+    },
+    {
+     "id": "3",
+     "taskText": "10 guild members clear any stronghold"
+    },
+    {
+     "id": "4",
+     "taskText": "20 guild members clear any stronghold"
+    },
+    {
+     "id": "5",
+     "taskText": "Guild total Power reaches 100000"
+    },
+    {
+     "id": "6",
+     "taskText": "Guild total Power reaches 500000"
+    },
+    {
+     "id": "7",
+     "taskText": "Guild total Power reaches 1000000"
+    },
+    {
+     "id": "8",
+     "taskText": "Guild total Power reaches 5000000"
+    },
+    {
+     "id": "9",
+     "taskText": "Guild Maritime reaches Lv3"
+    },
+    {
+     "id": "10",
+     "taskText": "Guild Maritime reaches Lv5"
+    },
+    {
+     "id": "11",
+     "taskText": "Guild Maritime reaches Lv10"
+    },
+    {
+     "id": "12",
+     "taskText": "Clear all Heart of the Deep Sea stages"
+    },
+    {
+     "id": "13",
+     "taskText": "Clear any 1 stronghold"
+    },
+    {
+     "id": "14",
+     "taskText": "Clear any 2 strongholds"
+    },
+    {
+     "id": "15",
+     "taskText": "Clear any 3 strongholds"
+    },
+    {
+     "id": "16",
+     "taskText": "Clear any 5 strongholds"
+    },
+    {
+     "id": "17",
+     "taskText": "Clear any 8 strongholds"
+    },
+    {
+     "id": "18",
+     "taskText": "Personal total Merit reaches 10000"
+    },
+    {
+     "id": "19",
+     "taskText": "Personal total Merit reaches 50000"
+    },
+    {
+     "id": "20",
+     "taskText": "Personal total Merit reaches 100000"
+    },
+    {
+     "id": "21",
+     "taskText": "Personal total Merit reaches 110000"
+    },
+    {
+     "id": "22",
+     "taskText": "Personal total Merit reaches 120000"
+    },
+    {
+     "id": "23",
+     "taskText": "Personal Merit ranking reaches the top 50"
+    },
+    {
+     "id": "24",
+     "taskText": "Join 1 Island Battle"
+    },
+    {
+     "id": "25",
+     "taskText": "Join 2 Island Battles"
+    },
+    {
+     "id": "26",
+     "taskText": "Join 3 Island Battles"
+    },
+    {
+     "id": "27",
+     "taskText": "Win 2 Island Battles"
+    },
+    {
+     "id": "28",
+     "taskText": "Personal Maritime reaches Lv3"
+    },
+    {
+     "id": "29",
+     "taskText": "Personal Maritime reaches Lv5"
+    },
+    {
+     "id": "30",
+     "taskText": "Personal Maritime reaches Lv10"
+    },
+    {
+     "id": "31",
+     "taskText": "Our guild captures the Heart of the Deep Sea"
+    },
+    {
+     "id": "32",
+     "taskText": "5 guild members clear any stronghold"
+    },
+    {
+     "id": "33",
+     "taskText": "10 guild members clear any stronghold"
+    },
+    {
+     "id": "34",
+     "taskText": "20 guild members clear any stronghold"
+    },
+    {
+     "id": "35",
+     "taskText": "Guild total Power reaches 100000"
+    },
+    {
+     "id": "36",
+     "taskText": "Guild total Power reaches 500000"
+    },
+    {
+     "id": "37",
+     "taskText": "Guild total Power reaches 1000000"
+    },
+    {
+     "id": "38",
+     "taskText": "Guild total Power reaches 5000000"
+    },
+    {
+     "id": "39",
+     "taskText": "Guild Maritime reaches Lv3"
+    },
+    {
+     "id": "40",
+     "taskText": "Guild Maritime reaches Lv5"
+    },
+    {
+     "id": "41",
+     "taskText": "Guild Maritime reaches Lv10"
+    },
+    {
+     "id": "42",
+     "taskText": "Clear all Heart of the Deep Sea stages"
+    },
+    {
+     "id": "43",
+     "taskText": "Clear any 1 stronghold"
+    },
+    {
+     "id": "44",
+     "taskText": "Clear any 2 strongholds"
+    },
+    {
+     "id": "45",
+     "taskText": "Clear any 3 strongholds"
+    },
+    {
+     "id": "46",
+     "taskText": "Clear any 5 strongholds"
+    },
+    {
+     "id": "47",
+     "taskText": "Clear any 8 strongholds"
+    },
+    {
+     "id": "48",
+     "taskText": "Personal total Merit reaches 10000"
+    },
+    {
+     "id": "49",
+     "taskText": "Personal total Merit reaches 50000"
+    },
+    {
+     "id": "50",
+     "taskText": "Personal total Merit reaches 100000"
+    },
+    {
+     "id": "51",
+     "taskText": "Personal total Merit reaches 110000"
+    },
+    {
+     "id": "52",
+     "taskText": "Personal total Merit reaches 120000"
+    },
+    {
+     "id": "53",
+     "taskText": "Personal Merit ranking reaches the top 50"
+    },
+    {
+     "id": "54",
+     "taskText": "Join 1 Island Battle"
+    },
+    {
+     "id": "55",
+     "taskText": "Join 2 Island Battles"
+    },
+    {
+     "id": "56",
+     "taskText": "Join 3 Island Battles"
+    },
+    {
+     "id": "57",
+     "taskText": "Win 2 Island Battles"
+    },
+    {
+     "id": "58",
+     "taskText": "Personal Maritime reaches Lv3"
+    },
+    {
+     "id": "59",
+     "taskText": "Personal Maritime reaches Lv5"
+    },
+    {
+     "id": "60",
+     "taskText": "Personal Maritime reaches Lv10"
+    },
+    {
+     "id": "61",
+     "taskText": "Our guild captures the Heart of the Deep Sea"
+    },
+    {
+     "id": "62",
+     "taskText": "5 guild members clear any stronghold"
+    },
+    {
+     "id": "63",
+     "taskText": "10 guild members clear any stronghold"
+    },
+    {
+     "id": "64",
+     "taskText": "20 guild members clear any stronghold"
+    },
+    {
+     "id": "65",
+     "taskText": "Guild total Power reaches 100000"
+    },
+    {
+     "id": "66",
+     "taskText": "Guild total Power reaches 500000"
+    },
+    {
+     "id": "67",
+     "taskText": "Guild total Power reaches 1000000"
+    },
+    {
+     "id": "68",
+     "taskText": "Guild total Power reaches 5000000"
+    },
+    {
+     "id": "69",
+     "taskText": "Guild Maritime reaches Lv3"
+    },
+    {
+     "id": "70",
+     "taskText": "Guild Maritime reaches Lv5"
+    },
+    {
+     "id": "71",
+     "taskText": "Guild Maritime reaches Lv10"
+    },
+    {
+     "id": "72",
+     "taskText": "Clear all Heart of the Deep Sea stages"
+    },
+    {
+     "id": "73",
+     "taskText": "Clear any 1 stronghold"
+    },
+    {
+     "id": "74",
+     "taskText": "Clear any 2 strongholds"
+    },
+    {
+     "id": "75",
+     "taskText": "Clear any 3 strongholds"
+    },
+    {
+     "id": "76",
+     "taskText": "Clear any 5 strongholds"
+    },
+    {
+     "id": "77",
+     "taskText": "Clear any 8 strongholds"
+    },
+    {
+     "id": "78",
+     "taskText": "Personal total Merit reaches 10000"
+    },
+    {
+     "id": "79",
+     "taskText": "Personal total Merit reaches 50000"
+    },
+    {
+     "id": "80",
+     "taskText": "Personal total Merit reaches 100000"
+    },
+    {
+     "id": "81",
+     "taskText": "Personal total Merit reaches 110000"
+    },
+    {
+     "id": "82",
+     "taskText": "Personal total Merit reaches 120000"
+    },
+    {
+     "id": "83",
+     "taskText": "Personal Merit ranking reaches the top 50"
+    },
+    {
+     "id": "84",
+     "taskText": "Join 1 Island Battle"
+    },
+    {
+     "id": "85",
+     "taskText": "Join 2 Island Battles"
+    },
+    {
+     "id": "86",
+     "taskText": "Join 3 Island Battles"
+    },
+    {
+     "id": "87",
+     "taskText": "Win 2 Island Battles"
+    },
+    {
+     "id": "88",
+     "taskText": "Personal Maritime reaches Lv3"
+    },
+    {
+     "id": "89",
+     "taskText": "Personal Maritime reaches Lv5"
+    },
+    {
+     "id": "90",
+     "taskText": "Personal Maritime reaches Lv10"
+    },
+    {
+     "id": "91",
+     "taskText": "Our guild captures the Heart of the Deep Sea"
+    },
+    {
+     "id": "92",
+     "taskText": "5 guild members clear any stronghold"
+    },
+    {
+     "id": "93",
+     "taskText": "10 guild members clear any stronghold"
+    },
+    {
+     "id": "94",
+     "taskText": "20 guild members clear any stronghold"
+    },
+    {
+     "id": "95",
+     "taskText": "Guild total Power reaches 100000"
+    },
+    {
+     "id": "96",
+     "taskText": "Guild total Power reaches 500000"
+    },
+    {
+     "id": "97",
+     "taskText": "Guild total Power reaches 1000000"
+    },
+    {
+     "id": "98",
+     "taskText": "Guild total Power reaches 5000000"
+    },
+    {
+     "id": "99",
+     "taskText": "Guild Maritime reaches Lv3"
+    },
+    {
+     "id": "100",
+     "taskText": "Guild Maritime reaches Lv5"
+    },
+    {
+     "id": "101",
+     "taskText": "Guild Maritime reaches Lv10"
+    },
+    {
+     "id": "102",
+     "taskText": "Clear all Heart of the Deep Sea stages"
+    },
+    {
+     "id": "103",
+     "taskText": "Clear any 1 stronghold"
+    },
+    {
+     "id": "104",
+     "taskText": "Clear any 2 strongholds"
+    },
+    {
+     "id": "105",
+     "taskText": "Clear any 3 strongholds"
+    },
+    {
+     "id": "106",
+     "taskText": "Clear any 5 strongholds"
+    },
+    {
+     "id": "107",
+     "taskText": "Clear any 8 strongholds"
+    },
+    {
+     "id": "108",
+     "taskText": "Personal total Merit reaches 10000"
+    },
+    {
+     "id": "109",
+     "taskText": "Personal total Merit reaches 50000"
+    },
+    {
+     "id": "110",
+     "taskText": "Personal total Merit reaches 100000"
+    },
+    {
+     "id": "111",
+     "taskText": "Personal total Merit reaches 110000"
+    },
+    {
+     "id": "112",
+     "taskText": "Personal total Merit reaches 120000"
+    },
+    {
+     "id": "113",
+     "taskText": "Personal Merit ranking reaches the top 50"
+    },
+    {
+     "id": "114",
+     "taskText": "Join 1 Island Battle"
+    },
+    {
+     "id": "115",
+     "taskText": "Join 2 Island Battles"
+    },
+    {
+     "id": "116",
+     "taskText": "Join 3 Island Battles"
+    },
+    {
+     "id": "117",
+     "taskText": "Win 2 Island Battles"
+    },
+    {
+     "id": "118",
+     "taskText": "Personal Maritime reaches Lv3"
+    },
+    {
+     "id": "119",
+     "taskText": "Personal Maritime reaches Lv5"
+    },
+    {
+     "id": "120",
+     "taskText": "Personal Maritime reaches Lv10"
+    },
+    {
+     "id": "121",
+     "taskText": "Our guild captures the Heart of the Deep Sea"
+    },
+    {
+     "id": "122",
+     "taskText": "5 guild members clear any stronghold"
+    },
+    {
+     "id": "123",
+     "taskText": "10 guild members clear any stronghold"
+    },
+    {
+     "id": "124",
+     "taskText": "20 guild members clear any stronghold"
+    },
+    {
+     "id": "125",
+     "taskText": "Guild total Power reaches 100000"
+    },
+    {
+     "id": "126",
+     "taskText": "Guild total Power reaches 500000"
+    },
+    {
+     "id": "127",
+     "taskText": "Guild total Power reaches 1000000"
+    },
+    {
+     "id": "128",
+     "taskText": "Guild total Power reaches 5000000"
+    },
+    {
+     "id": "129",
+     "taskText": "Guild Maritime reaches Lv3"
+    },
+    {
+     "id": "130",
+     "taskText": "Guild Maritime reaches Lv5"
+    },
+    {
+     "id": "131",
+     "taskText": "Guild Maritime reaches Lv10"
+    },
+    {
+     "id": "132",
+     "taskText": "Clear all Heart of the Deep Sea stages"
+    },
+    {
+     "id": "133",
+     "taskText": "Clear any 1 stronghold"
+    },
+    {
+     "id": "134",
+     "taskText": "Clear any 2 strongholds"
+    },
+    {
+     "id": "135",
+     "taskText": "Clear any 3 strongholds"
+    },
+    {
+     "id": "136",
+     "taskText": "Clear any 5 strongholds"
+    },
+    {
+     "id": "137",
+     "taskText": "Clear any 8 strongholds"
+    },
+    {
+     "id": "138",
+     "taskText": "Personal total Merit reaches 10000"
+    },
+    {
+     "id": "139",
+     "taskText": "Personal total Merit reaches 50000"
+    },
+    {
+     "id": "140",
+     "taskText": "Personal total Merit reaches 100000"
+    },
+    {
+     "id": "141",
+     "taskText": "Personal total Merit reaches 110000"
+    },
+    {
+     "id": "142",
+     "taskText": "Personal total Merit reaches 120000"
+    },
+    {
+     "id": "143",
+     "taskText": "Personal Merit ranking reaches the top 50"
+    },
+    {
+     "id": "144",
+     "taskText": "Join 1 Island Battle"
+    },
+    {
+     "id": "145",
+     "taskText": "Join 2 Island Battles"
+    },
+    {
+     "id": "146",
+     "taskText": "Join 3 Island Battles"
+    },
+    {
+     "id": "147",
+     "taskText": "Win 2 Island Battles"
+    },
+    {
+     "id": "148",
+     "taskText": "Personal Maritime reaches Lv3"
+    },
+    {
+     "id": "149",
+     "taskText": "Personal Maritime reaches Lv5"
+    },
+    {
+     "id": "150",
+     "taskText": "Personal Maritime reaches Lv10"
+    },
+    {
+     "id": "151",
+     "taskText": "Our guild captures the Heart of the Deep Sea"
+    },
+    {
+     "id": "152",
+     "taskText": "5 guild members clear any stronghold"
+    },
+    {
+     "id": "153",
+     "taskText": "10 guild members clear any stronghold"
+    },
+    {
+     "id": "154",
+     "taskText": "20 guild members clear any stronghold"
+    },
+    {
+     "id": "155",
+     "taskText": "Guild total Power reaches 100000"
+    },
+    {
+     "id": "156",
+     "taskText": "Guild total Power reaches 500000"
+    },
+    {
+     "id": "157",
+     "taskText": "Guild total Power reaches 1000000"
+    },
+    {
+     "id": "158",
+     "taskText": "Guild total Power reaches 5000000"
+    },
+    {
+     "id": "159",
+     "taskText": "Guild Maritime reaches Lv3"
+    },
+    {
+     "id": "160",
+     "taskText": "Guild Maritime reaches Lv5"
+    },
+    {
+     "id": "161",
+     "taskText": "Guild Maritime reaches Lv10"
+    },
+    {
+     "id": "162",
+     "taskText": "Clear all Heart of the Deep Sea stages"
+    },
+    {
+     "id": "163",
+     "taskText": "Clear any 1 stronghold"
+    },
+    {
+     "id": "164",
+     "taskText": "Clear any 2 strongholds"
+    },
+    {
+     "id": "165",
+     "taskText": "Clear any 3 strongholds"
+    },
+    {
+     "id": "166",
+     "taskText": "Clear any 5 strongholds"
+    },
+    {
+     "id": "167",
+     "taskText": "Clear any 8 strongholds"
+    },
+    {
+     "id": "168",
+     "taskText": "Personal total Merit reaches 10000"
+    },
+    {
+     "id": "169",
+     "taskText": "Personal total Merit reaches 50000"
+    },
+    {
+     "id": "170",
+     "taskText": "Personal total Merit reaches 100000"
+    },
+    {
+     "id": "171",
+     "taskText": "Personal total Merit reaches 110000"
+    },
+    {
+     "id": "172",
+     "taskText": "Personal total Merit reaches 120000"
+    },
+    {
+     "id": "173",
+     "taskText": "Personal Merit ranking reaches the top 50"
+    },
+    {
+     "id": "174",
+     "taskText": "Join 1 Island Battle"
+    },
+    {
+     "id": "175",
+     "taskText": "Join 2 Island Battles"
+    },
+    {
+     "id": "176",
+     "taskText": "Join 3 Island Battles"
+    },
+    {
+     "id": "177",
+     "taskText": "Win 2 Island Battles"
+    },
+    {
+     "id": "178",
+     "taskText": "Personal Maritime reaches Lv3"
+    },
+    {
+     "id": "179",
+     "taskText": "Personal Maritime reaches Lv5"
+    },
+    {
+     "id": "180",
+     "taskText": "Personal Maritime reaches Lv10"
+    }
+   ]
+  },
   "TableUnionSLGTechnologyLine": {
    "key_column": "id",
    "text_columns": [
@@ -12802,6 +17071,10 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "id": "113020",
+     "text": "The Diamond Shield Shining on the Battlefield\\n     Jozu"
+    },
+    {
      "id": "113021",
      "text": "Peerless Ruler of the Old Era\\n    Whitebeard"
     },
@@ -12810,20 +17083,156 @@
      "text": "Blue-Flame Phoenix Who Pursues Faith\\n     Marco"
     },
     {
+     "id": "113023",
+     "text": "The Double Rondo of the Flower Swords\\n    Vista"
+    },
+    {
+     "id": "113025",
+     "text": "The Sea Warrior Who Conquered His Fear\\n New World Usopp"
+    },
+    {
      "id": "113026",
      "text": "Three-Sword Master Reborn\\n  New World Zoro"
+    },
+    {
+     "id": "113028",
+     "text": "The Mature, Stunning Navigator\\n  New World Nami"
+    },
+    {
+     "id": "113029",
+     "text": "The Light Seeker Beneath the Darkest History\\n  New World Robin"
     },
     {
      "id": "113031",
      "text": "Fifth Emperor of the New World\\n   New World Luffy"
     },
     {
+     "id": "113032",
+     "text": "The Free-Spirited New Vice Admiral\\n  New World Smoker"
+    },
+    {
+     "id": "113033",
+     "text": "The Swordswoman Set on Overcoming Weakness\\n New World Tashigi"
+    },
+    {
+     "id": "113035",
+     "text": "The Iron Shipwright Heading for the World's Peak\\n New World Franky"
+    },
+    {
+     "id": "113036",
+     "text": "The Dream Musician Echoing Across the New World\\n New World Brook"
+    },
+    {
+     "id": "113037",
+     "text": "The Chivalrous \"Diable Jambe\"\\n  New World Sanji"
+    },
+    {
+     "id": "113038",
+     "text": "The Reindeer Doctor Who Eases His Friends' Pain\\n  New World Chopper"
+    },
+    {
+     "id": "113039",
+     "text": "The \"Surgeon of Death\" with Unmatched Medical Skill\\n  New World Law"
+    },
+    {
+     "id": "113040",
+     "text": "One of the Three Sweet Commanders, \"Minister of Flour\"\\n  Charlotte Katakuri"
+    },
+    {
+     "id": "113042",
+     "text": "\"Fire Fist\" Rekindling Ace's Will\\n      Sabo"
+    },
+    {
+     "id": "113043",
+     "text": "The Admiral Who Follows the Justice in His Heart\\n      Fujitora"
+    },
+    {
+     "id": "113044",
+     "text": "The Born Destroyer Who Loves to Eat\\nBig Mom"
+    },
+    {
+     "id": "113045",
+     "text": "One of the Three Sweet Commanders, \"Minister of Biscuits\"\\n    Charlotte Cracker"
+    },
+    {
+     "id": "113046",
+     "text": "One of the Three Sweet Commanders, \"Minister of Juice\"\\n      Charlotte Smoothie"
+    },
+    {
+     "id": "113047",
+     "text": "The Strongest Creature in the New World\\n    Kaido"
+    },
+    {
+     "id": "113049",
+     "text": "The Admiral Who Seeks the Justice in His Heart\\n  New World Kuzan"
+    },
+    {
+     "id": "113050",
+     "text": "The Newly Appointed Fleet Admiral of Marine HQ\\n  New World Akainu"
+    },
+    {
+     "id": "113051",
+     "text": "The Eldest Daughter of the Vinsmoke Family\\n      Vinsmoke Reiju"
+    },
+    {
+     "id": "113052",
+     "text": "The Killing Machine Who Believes Weakness Is a Sin\\n   New World Ruz"
+    },
+    {
+     "id": "113053",
+     "text": "The Pirate Empress of Breathtaking Beauty\\nImpel Down Hancock"
+    },
+    {
      "id": "113054",
      "text": "Barrier Man of Absolute Defense\\nBartolomeo"
     },
     {
+     "id": "113055",
+     "text": "The Blue-Flame Phoenix Who Inherited the Will\\n New World Marco"
+    },
+    {
+     "id": "113056",
+     "text": "The Peerless Great Swordsman of the Black Blade\\n New World Mihawk"
+    },
+    {
+     "id": "113057",
+     "text": "The Cute but Dangerous Devil Fruit User\\n     Sugar"
+    },
+    {
+     "id": "113058",
+     "text": "The Pirate Prince with a Split Personality\\n   Cavendish"
+    },
+    {
+     "id": "113059",
+     "text": "The Heir to the Shogun of Wano\\n  Kozuki Oden"
+    },
+    {
+     "id": "113060",
+     "text": "The Peerless First Mate Called the Dark King\\n   Young Silvers Rayleigh"
+    },
+    {
+     "id": "113061",
+     "text": "The Sulong Who Commands Super Lightning\\n    Carrot"
+    },
+    {
+     "id": "113062",
+     "text": "The Handsome Swordsman, Kiku of the Lingering Snow\\n      O-Kiku"
+    },
+    {
+     "id": "113064",
+     "text": "The Strongest Man Who Could Destroy the World\\n   Young Whitebeard"
+    },
+    {
      "id": "113065",
      "text": "Haughty Ghost Princess\\n New World Perona"
+    },
+    {
+     "id": "113066",
+     "text": "The Firmest Marine Bulwark of the Old Era\\n   Hero Garp"
+    },
+    {
+     "id": "113067",
+     "text": "The New Emperor with the Power of Darkness and Destruction\\n New World Blackbeard"
     },
     {
      "id": "113068",
@@ -12832,10 +17241,161 @@
     {
      "id": "113069",
      "text": "King Dazzling Under the Night\\n     Nekomamushi"
+    },
+    {
+     "id": "113070",
+     "text": "The Three-Eyed Beauty Who Controls Memories\\n     Charlotte Pudding"
+    },
+    {
+     "id": "113071",
+     "text": "The Tarot Cards That Divine Fate\\n   Basil Hawkins"
+    },
+    {
+     "id": "113072",
+     "text": "The Ancient Zoan \"Red Flag\" X Drake\\n    X Drake"
+    },
+    {
+     "id": "113073",
+     "text": "The Bloodthirsty Judge in a Rain of Blood\\n     Shiryu"
+    },
+    {
+     "id": "113076",
+     "text": "Sengoku the Buddha, Who Reigns Over the World\\n  Fleet Admiral Sengoku"
+    },
+    {
+     "id": "113078",
+     "text": "Not a Blade of Grass Survives Where He Passes\\n  Jack"
+    },
+    {
+     "id": "113079",
+     "text": "\"Plague\" of the \"Three Disasters\"\\nQueen"
+    },
+    {
+     "id": "113080",
+     "text": "Striving to Be Like \"Kozuki Oden\"\\nYamato"
+    },
+    {
+     "id": "113081",
+     "text": "As Long as It's Fun, That's a Win\\nUta"
+    },
+    {
+     "id": "113082",
+     "text": "Peh, I'm tired!\\nUlti"
+    },
+    {
+     "id": "113083",
+     "text": "\"Wildfire\", Leader of the \"Three Disasters\"\\nKing"
+    },
+    {
+     "id": "113084",
+     "text": "The Balanced Offense and Defense of the \"Spinosaurus\\nPage One"
+    },
+    {
+     "id": "113085",
+     "text": "\"Killing Warrior, the Silent Scythe\"\\nKiller"
+    },
+    {
+     "id": "113086",
+     "text": "The Magnetic Demon Who Magnetizes Everything\\nNew World Kid"
+    },
+    {
+     "id": "113087",
+     "text": "\"Surgeon of Death\"\\nWano Trafalgar Law"
+    },
+    {
+     "id": "113089",
+     "text": "\"I'm Gonna Kick Your Ass\"\\nWano Luffy"
+    },
+    {
+     "id": "113090",
+     "text": "\"Even If I Become a Demon!\"\\nWano Robin"
+    },
+    {
+     "id": "113091",
+     "text": "\"Passion Hotter Than Flames\"\\nWano Sanji"
+    },
+    {
+     "id": "113092",
+     "text": "\"King of Hell? Why Not!\"\\nWano Zoro"
+    },
+    {
+     "id": "113093",
+     "text": "The Reindeer Doctor Who Eases His Friends' Pain\\n  Wano Chopper"
+    },
+    {
+     "id": "113094",
+     "text": "The Sea Warrior Who Conquered His Fear\\n Wano Usopp"
+    },
+    {
+     "id": "113095",
+     "text": "The Genius Navigator Who Wields Thunder\\n Wano Nami"
+    },
+    {
+     "id": "113096",
+     "text": "Iron Pirate General Franky\\n Wano Franky"
+    },
+    {
+     "id": "113097",
+     "text": "The Soul King Who Wields the Soul Sword\\n Wano Brook"
+    },
+    {
+     "id": "113098",
+     "text": "The Sea Knight Skilled in Fish-Man Karate\\n Wano Jinbe"
+    },
+    {
+     "id": "113099",
+     "text": "Ancient Zoan Spider Fruit User\\n Black Maria"
+    },
+    {
+     "id": "113101",
+     "text": "The Legendary Flying Pirate\\n Golden Lion Shiki"
+    },
+    {
+     "id": "113102",
+     "text": "Battle-Suit Sanji Takes the Stage!\\n Soba Mask"
+    },
+    {
+     "id": "113103",
+     "text": "The Admiral Who Upholds Justice to the Death\\n Ryokugyu Green Bull"
+    },
+    {
+     "id": "113104",
+     "text": "Striving to Be Like \"Kozuki Oden\"\\n Okuchi no Makami Yamato"
+    },
+    {
+     "id": "113105",
+     "text": "Two Who Joined Forces!\\n Kid & Law"
+    },
+    {
+     "id": "113106",
+     "text": "The Big Eater Who Controls Age\\n Jewelry Bonney"
+    },
+    {
+     "id": "113107",
+     "text": "A Clone of the Seven Warlords!\\n S-Hawk"
+    },
+    {
+     "id": "113108",
+     "text": "A Clone of the Seven Warlords!\\n S-Snake"
+    },
+    {
+     "id": "113109",
+     "text": "Let's Settle This!\\n Egghead Kaku"
+    },
+    {
+     "id": "113111",
+     "text": "\"This Enemy Is Worth Killing!\"\\n Egghead Rob Lucci"
+    },
+    {
+     "id": "113112",
+     "text": "Queen of the Pleasure District\\n Egghead Stussy"
+    },
+    {
+     "id": "113034",
+     "text": "A Samurai from Wano!\\n Kin'emon"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "8/81 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableWorldTask": {
    "key_column": "taskId",
