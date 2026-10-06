@@ -38954,16 +38954,575 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "heroId": "4000001",
+     "heroIntro": "<color=#00000000>____</color>A girl from Shells Town.\\n<color=#00000000>____</color>She brought sweet rice balls to Zoro, who had been tied to a post by the Marines for days for saving her from Helmeppo's bullying."
+    },
+    {
+     "heroId": "121010",
+     "heroIntro": "<color=#00000000>____</color>Son of Marine Colonel Axe-Hand Morgan. In Shells Town he threw his father's weight around and did many bad things. After Luffy and Zoro defeated Morgan, he was reduced to a Marine chore boy and, by a twist of fate, met Coby.\\n<color=#00000000>____</color>After becoming friends with Coby, he decided to turn over a new leaf. He is now training hard alongside Coby to grow stronger."
+    },
+    {
+     "heroId": "121011",
+     "heroIntro": "<color=#00000000>____</color>Mayor of Orange Town. One of the central figures who rebuilt a new town on the ruins of the town destroyed by pirates 40 years ago.\\n<color=#00000000>____</color>Kind and deeply trusted by the people. When Buggy occupied the town, he intended to endure it with the townsfolk, but after seeing Luffy fight, he resolved to rise up and resist."
+    },
+    {
+     "heroId": "4000002",
+     "heroIntro": "<color=#00000000>____</color>A dog raised by Boodle's good friend. After its master died, Chouchou kept loyally guarding its master's pet food shop.\\n<color=#00000000>____</color>When the Buggy Pirates occupied the town, it stood firm in front of the shop and bravely took on Richie."
+    },
+    {
+     "heroId": "121021",
+     "heroIntro": "<color=#00000000>____</color>First mate and beast tamer of the Buggy Pirates. His fighting strength is not to be underestimated. They say there is no beast in the world he cannot tame.\\n<color=#00000000>____</color>He fights riding on the back of his beloved giant lion Richie, and easily takes down ordinary people. The doll hood on his head is actually his hair."
+    },
+    {
+     "heroId": "4000003",
+     "heroIntro": "<color=#00000000>____</color>A girl living in a big mansion in Syrup Village. Since her parents died of illness, she has been gloomy every day.\\n<color=#00000000>____</color>Cared for by her butlers, she lacks for nothing, but the only things supporting her heart are her butler Klahadore and Usopp's tall tales."
+    },
+    {
+     "heroId": "121003",
+     "heroIntro": "<color=#00000000>____</color>A ship guard of the Black Cat Pirates, known with Sham as the \"Nyaban Brothers\".\\n<color=#00000000>____</color>He looks huge, but his jumping power and speed are both excellent. The special moves he unleashes with these outstanding physical abilities are hugely destructive."
+    },
+    {
+     "heroId": "121004",
+     "heroIntro": "<color=#00000000>____</color>A ship guard of the Black Cat Pirates, known with Buchi as the \"Nyaban Brothers\".\\n<color=#00000000>____</color>Very good at deceiving opponents, and at \"Cat Burglar\", snatching enemies' weapons with speed the naked eye can't follow. He looks weak, but has high combat ability."
+    },
+    {
+     "heroId": "4000004",
+     "heroIntro": "<color=#00000000>____</color>Head chef of the sea restaurant. Former captain of the Cook Pirates, known as \"Red-Leg Zeff\".\\n<color=#00000000>____</color>While attacking the ship Sanji was on, he was caught in a raging storm and shipwrecked along with Sanji. He lost a leg saving Sanji, who shared his dream. He then gave up piracy and opened the sea restaurant Baratie. He has first-rate culinary skills and excels at leg-based fighting, and he passed all of these skills on to Sanji without holding anything back."
+    },
+    {
+     "heroId": "4000005",
+     "heroIntro": "<color=#00000000>____</color>The only policeman in Cocoyasi Village. He protected the village since before the Arlong Pirates invaded.\\n<color=#00000000>____</color>Knowing they could not beat the Arlong Pirates, and especially after learning of the hardships Nami went through to save the village, he urged the villagers to endure to the end."
+    },
+    {
+     "heroId": "121022",
+     "heroIntro": "<color=#00000000>____</color>One of the Arlong Pirates' officers, a ray Fish-Man. A 40th-dan master of \"Fish-Man Karate\", the special technique passed down for generations on Fish-Man Island.\\n<color=#00000000>____</color>In his fierce fight with Sanji at Arlong Park, he once had Sanji struggling. But Sanji finally saw through his weakness, and he was knocked out by a \"Mutton Shot\"."
+    },
+    {
+     "heroId": "121023",
+     "heroIntro": "<color=#00000000>____</color>An Arlong Pirates officer, a kissing gourami Fish-Man whose catchphrase is \"Chu♥\".\\n<color=#00000000>____</color>His greatest weapon is the Water Gun, spitting large amounts of water from his mouth at enemies with power far beyond a bullet. He also has the even stronger Water Cannon, but in his fierce fight with Usopp in Cocoyasi Village, he fell into Usopp's trap and was crushed."
+    },
+    {
+     "heroId": "4000006",
+     "heroIntro": "<color=#00000000>____</color>An island whale from the \"West Blue\" who crossed Reverse Mountain with pirates.\\n<color=#00000000>____</color>He firmly believes in the promise he made with his friends back then and that they will surely return alive. Later he formed a bond with Luffy, and now he waits for his \"rival\" Luffy to return."
+    },
+    {
+     "heroId": "121012",
+     "heroIntro": "<color=#00000000>____</color>Lighthouse keeper of Twin Cape. An old man, blood type AB, 71 years old, a Gemini.\\n<color=#00000000>____</color>Ever since the pirates left Laboon in his care, he often goes inside Laboon's body to calm him when he gets agitated and rams his head into the mountain, and he also protects Laboon from Baroque Works."
+    },
+    {
+     "heroId": "121037",
+     "heroIntro": "<color=#00000000>____</color>Partner of Miss Wednesday (Vivi) in Baroque Works. He dual-wields metal bats.\\n<color=#00000000>____</color>His mission to hunt the giant whale Laboon failed thanks to Luffy and the others. Later, at Whiskey Peak, Zoro beat him in no time."
+    },
+    {
+     "heroId": "121039",
+     "heroIntro": "<color=#00000000>____</color>Captain of the Alabasta Royal Guard, who went undercover in Baroque Works with Princess Vivi.\\n<color=#00000000>____</color>Disguised as the agent Mr. 8, he investigated Baroque Works' secrets. He also served as Igaram, mayor of Whiskey Peak, carrying out Baroque Works' orders to attack visiting pirates."
+    },
+    {
+     "heroId": "121040",
+     "heroIntro": "<color=#00000000>____</color>Kilo-Kilo Fruit user partnered with Mr. 5. She loves mocking opponents with exaggerated laughter, and her methods are cruel.\\n<color=#00000000>____</color>She loves lemon tea, and even her dress and earrings have a lemon design. She even has a fan club inside Baroque Works."
+    },
+    {
+     "heroId": "121038",
+     "heroIntro": "<color=#00000000>____</color>Partner of Mr. 8. Muscular all over and very strong.\\n<color=#00000000>____</color>At Whiskey Peak she disguised herself as a nun and had a drinking contest with Nami."
+    },
+    {
+     "heroId": "4000007",
+     "heroIntro": "<color=#00000000>____</color>A Baroque Works agent partnered with Miss Friday.\\n<color=#00000000>____</color>A member of the \"Black Friday the 13th\" duo. His job is to sketch anyone who learns Baroque Works' secrets and report to headquarters. He is also good at fighting, using a special shell with hidden weapons."
+    },
+    {
+     "heroId": "4000008",
+     "heroIntro": "<color=#00000000>____</color>A Baroque Works agent partnered with Mr. 13, a member of the \"Black Friday the 13th\" duo.\\n<color=#00000000>____</color>She relays information and orders and manages communications between agents. Whenever she finds someone who has failed a mission, she wipes them out on the spot with the machine gun on her back."
+    },
+    {
+     "heroId": "4000009",
+     "heroIntro": "<color=#00000000>____</color>A giant born in Elbaf, the village of warriors, 158 years old.\\n<color=#00000000>____</color>He has kept up a duel for over 100 years on Little Garden with his good friend Brogy, who shares his origins and age. He is rather slim, loves to fight with a sword, and has always believed the god of Elbaf protects him. In the Giant Warrior Pirates he was called the \"Blue Ogre\". His laugh is \"Gegyagyagyagya\"."
+    },
+    {
+     "heroId": "4000010",
+     "heroIntro": "<color=#00000000>____</color>A giant born in Elbaf, the village of warriors, 158 years old.\\n<color=#00000000>____</color>He has fought on Little Garden for over 100 years with Dorry, his good friend and rival. He loves fighting with an axe. In the Giant Warrior Pirates he was feared as the \"Red Ogre\". His laugh is \"Gababababa\"."
+    },
+    {
+     "heroId": "4000012",
+     "heroIntro": "<color=#00000000>____</color>The only doctor to survive Wapol's \"doctor hunt\", 139 years old.\\n<color=#00000000>____</color>An old woman who always shows up laughing \"hee hee hee\". A brilliant physician, but she demands huge fees from her patients. Her eccentric ways earned her the nickname \"Witch\". She loves plums and plum wine."
+    },
+    {
+     "heroId": "121043",
+     "heroIntro": "<color=#00000000>____</color>Chief of staff of the Drum Kingdom.\\n<color=#00000000>____</color>Together with Kuromarimo and Dalton he was known as the \"Three Officers\". A master archer who can fire three arrows accurately at once. He saw Wapol's oppression as a way of protecting the people, and always helped the tyrant."
+    },
+    {
+     "heroId": "121006",
+     "heroIntro": "<color=#00000000>____</color>An official of the Drum Kingdom.\\n<color=#00000000>____</color>He has a fuzzy-ball afro and beard, and is good at sticking statically charged black fuzzballs on opponents. He believes ruling the people systematically matters more than governing with heart. He also has a bad habit of forcing people to drink."
+    },
+    {
+     "heroId": "121048",
+     "heroIntro": "<color=#00000000>____</color>Former captain of the Drum Kingdom guard. A user of the Zoan-type Ox-Ox Fruit.\\n<color=#00000000>____</color>He loves his homeland and its people more than anyone, and was tormented by his inability to stop King Wapol's evil deeds. Very earnest, he even tells people trivial things. His favorite food is chestnut rice."
+    },
+    {
+     "heroId": "121041",
+     "heroIntro": "<color=#00000000>____</color>Ferocious, savage rabbits living on Drum Island.\\n<color=#00000000>____</color>When they gather in large packs they can cause avalanches. Big rabbits that attack humans for no reason, yet never forget a kindness."
+    },
+    {
+     "heroId": "121042",
+     "heroIntro": "<color=#00000000>____</color>Martial animals living in Alabasta.\\n<color=#00000000>____</color>They easily beat Usopp. Whenever they lose, they make the winner their master. Later, they kindly helped Vivi's group cross the Sandora River."
+    },
+    {
+     "heroId": "121049",
+     "heroIntro": "<color=#00000000>____</color>A high-ranking Baroque Works agent with the power of the Mole-Mole Fruit.\\n<color=#00000000>____</color>An impatient type who wants to cut every sentence short, the complete opposite of the slow Mr. 4. She excels at underground work, digging countless tunnels to support Mr. 4 and the dog-gun Lassoo."
+    },
+    {
+     "heroId": "4000013",
+     "heroIntro": "<color=#00000000>____</color>Full name Nefertari Cobra, the 12th king of the Kingdom of Alabasta.\\n<color=#00000000>____</color>He puts his people's interests first and is deeply loved by them. Even when Baroque Works' plot spread rumors about Dance Powder across the country, many people still believed in him. A wise ruler and a loving father to his daughter."
+    },
+    {
+     "heroId": "4000014",
+     "heroIntro": "<color=#00000000>____</color>Leader of the Rebel Army.\\n<color=#00000000>____</color>Unable to bear watching people die from the drought, he personally led the Rebel Army into battle. He is Vivi's childhood friend, and the scar on his face came from protecting Vivi when they were young."
+    },
+    {
+     "heroId": "121073",
+     "heroIntro": "<color=#00000000>____</color>Deputy of the Alabasta Royal Guard.\\n<color=#00000000>____</color>A user of the Zoan-type Dog-Dog Fruit, Model: Jackal. He has never doubted King Cobra. While Igaram was away, he served as acting captain and suppressed the people's riots. When the Rebel Army launched its all-out attack on Alubarna, he went to the front lines to command."
+    },
+    {
+     "heroId": "121060",
+     "heroIntro": "<color=#00000000>____</color>Known as the kingdom's strongest warrior, a deputy of the Alabasta Royal Guard.\\n<color=#00000000>____</color>A user of the Bird-Bird Fruit, Model: Falcon, one of only five confirmed flight abilities in the world. He excels at finding people and scouting enemy positions. He stopped the explosion in the plaza in front of the palace, saving the country and its people."
+    },
+    {
+     "heroId": "121056",
+     "heroIntro": "<color=#00000000>____</color>First mate of the Bellamy Pirates.\\n<color=#00000000>____</color>Nicknamed \"Big Knife Sarquiss\", he loves wielding a huge combat machete. He is always with his female companion Lilly. He showed Bellamy Luffy's 38,000,000-Berry wanted poster from before his bounty went up."
+    },
+    {
+     "heroId": "121055",
+     "heroIntro": "<color=#00000000>____</color>Gunner of the Bellamy Pirates.\\n<color=#00000000>____</color>A big guy in a hat who seems to have no eyebrows."
+    },
+    {
+     "heroId": "4000015",
+     "heroIntro": "<color=#00000000>____</color>Full name Montblanc Cricket.\\n<color=#00000000>____</color>A descendant of Noland the Liar from North Blue folklore, he sent Luffy's crew to the Sky Island. An adventurer who sticks to his convictions and never gives up."
+    },
+    {
+     "heroId": "4000016",
+     "heroIntro": "<color=#00000000>____</color>A girl living in Skypiea.\\n<color=#00000000>____</color>She lives with her father Pagaya and taught Luffy's crew about Sky Island culture and life."
+    },
+    {
+     "heroId": "121085",
+     "heroIntro": "<color=#00000000>____</color>The former God of Skypiea.\\n<color=#00000000>____</color>After Enel suddenly appeared with his Priests and Divine Soldiers and seized the throne, he became a freelance mercenary. After Enel left, he became \"God\" again and lives alongside the Shandians."
+    },
+    {
+     "heroId": "121069",
+     "heroIntro": "<color=#00000000>____</color>One of Enel's four Priests.\\n<color=#00000000>____</color>Nicknamed \"Satori of the Forest\", he guards the Lost Forest of \"God's Island\". He leisurely toys with opponents and attacks with \"Surprise Clouds\"."
+    },
+    {
+     "heroId": "121070",
+     "heroIntro": "<color=#00000000>____</color>One of Enel's four Priests.\\n<color=#00000000>____</color>Nicknamed the \"Sky Knight\", he excels at aerial combat riding a giant bird, armed with a fire spear and rope clouds that bind opponents."
+    },
+    {
+     "heroId": "121071",
+     "heroIntro": "<color=#00000000>____</color>One of Enel's four Priests.\\n<color=#00000000>____</color>Nicknamed the \"Sky Boss\", he judges sinners on God's Island and can be rather scatterbrained. His \"Jet Punch\" from a \"Jet Dial\" is extremely powerful."
+    },
+    {
+     "heroId": "121072",
+     "heroIntro": "<color=#00000000>____</color>One of Enel's four Priests.\\n<color=#00000000>____</color>Known as the \"Sky Rancher\", he keeps his strong beloved dog Holy. A swordsman who fights by freely controlling Iron Clouds."
+    },
+    {
+     "heroId": "121082",
+     "heroIntro": "<color=#00000000>____</color>A Shandian Warrior.\\n<color=#00000000>____</color>A calm and composed gunman who attacked God's Island together with Wyper. He cares deeply for his comrades and once covered for Laki."
+    },
+    {
+     "heroId": "112018",
+     "heroIntro": "<color=#00000000>____</color>A Shandian Warrior, descendant of the great warrior Calgara.\\n<color=#00000000>____</color>Nicknamed the War Demon. He fights desperately to take back his homeland from Enel."
+    },
+    {
+     "heroId": "121086",
+     "heroIntro": "<color=#00000000>____</color>A Shandian female warrior whose care for her comrades shows her homely side.\\n<color=#00000000>____</color>A spirited warrior who challenged God together with Wyper."
+    },
+    {
+     "heroId": "121005",
+     "heroIntro": "<color=#00000000>____</color>A Shandian Warrior.\\n<color=#00000000>____</color>Armed with two flash guns, he fights alongside the War Demon Wyper to take back their homeland."
+    },
+    {
+     "heroId": "4000017",
+     "heroIntro": "<color=#00000000>____</color>An old man of a nomadic tribe that migrates between islands.\\n<color=#00000000>____</color>Stuck on stilts for 10 years, he was left alone on the island. With Luffy's help he set out on a journey to reunite with his companions as soon as possible."
+    },
+    {
+     "heroId": "4000018",
+     "heroIntro": "<color=#00000000>____</color>Mayor of Water Seven and president of the Galley-La Company.\\n<color=#00000000>____</color>In his youth he studied with Franky under the genius shipwright Tom! After becoming mayor, he turned Water Seven into one of the world's top shipbuilding cities."
+    },
+    {
+     "heroId": "121087",
+     "heroIntro": "<color=#00000000>____</color>A shipwright of Water Seven deeply trusted by the citizens.\\n<color=#00000000>____</color>He is skilled with ropes and uses them in battle too."
+    },
+    {
+     "heroId": "121088",
+     "heroIntro": "<color=#00000000>____</color>Foreman of sail-making at Galley-La's Dock 1.\\n<color=#00000000>____</color>Good at heavy labor, he is proud to be Galley-La's big guy."
+    },
+    {
+     "heroId": "121092",
+     "heroIntro": "<color=#00000000>____</color>A CP9 agent.\\n<color=#00000000>____</color>He will patiently take roundabout means to reach his goal, has great endurance and excels at undercover work. An indispensable intelligence expert for important undercover investigations."
+    },
+    {
      "heroId": "121097",
      "heroIntro": "Mozu"
     },
     {
      "heroId": "121096",
      "heroIntro": "Kiwi"
+    },
+    {
+     "heroId": "121089",
+     "heroIntro": "<color=#00000000>____</color>A young boss of the Franky Family.\\n<color=#00000000>____</color>He admires Franky, is always active on the front lines and keeps the thugs in line."
+    },
+    {
+     "heroId": "4000019",
+     "heroIntro": "<color=#00000000>____</color>Station master of the Sea Train's mobile station.\\n<color=#00000000>____</color>She once served as secretary to the legendary shipwright Tom, and is an old acquaintance of Franky and Iceburg."
+    },
+    {
+     "heroId": "121091",
+     "heroIntro": "<color=#00000000>____</color>A CP9 rookie skilled in the \"Four Styles\".\\n<color=#00000000>____</color>As a CP9 reserve member, he was sent on the Sea Train to escort Robin. Defeated by Franky, he was expelled."
+    },
+    {
+     "heroId": "121090",
+     "heroIntro": "<color=#00000000>____</color>Ace of CP7 and head chef of the Sea Train.\\n<color=#00000000>____</color>A culinary fighter who has mastered Ramen Kenpo and handles prisoner escort duties."
+    },
+    {
+     "heroId": "111016",
+     "heroIntro": "<color=#00000000>____</color>A CP9 agent and master of the Six Powers.\\n<color=#00000000>____</color>He talks too much and can't keep secrets, so he was taken off undercover investigations. The zipper on his mouth can open by itself."
+    },
+    {
+     "heroId": "111017",
+     "heroIntro": "<color=#00000000>____</color>A CP9 agent.\\n<color=#00000000>____</color>He speaks in the tone of a kabuki actor and can control his white hair. Whenever he says something wrong, he tries to commit seppuku. He defends with Tekkai."
+    },
+    {
+     "heroId": "121093",
+     "heroIntro": "<color=#00000000>____</color>The current commander of CP9.\\n<color=#00000000>____</color>Hungry for glory, he has been obsessed with seizing the Ancient Weapons ever since his days as a CP5 officer."
+    },
+    {
+     "heroId": "121094",
+     "heroIntro": "<color=#00000000>____</color>Saved by Luffy, he joined the Marines he longed for.\\n<color=#00000000>____</color>Under Garp, he trains day and night aiming to become an officer."
+    },
+    {
+     "heroId": "121095",
+     "heroIntro": "<color=#00000000>____</color>His days of hiding behind his parents are behind him.\\n<color=#00000000>____</color>Now he studies hard day and night aiming to become an officer."
+    },
+    {
+     "heroId": "121127",
+     "heroIntro": "<color=#00000000>____</color>A beast-type zombie guarding the entrance of the Ship of Horrors.\\n<color=#00000000>____</color>For some reason, one of its three heads is a fox head. It attacks intruders without mercy."
+    },
+    {
+     "heroId": "4000020",
+     "heroIntro": "<color=#00000000>____</color>A flying zombie with bat wings, tasked with bringing people who stray onto the Ship of Horrors to its master."
+    },
+    {
+     "heroId": "4000021",
+     "heroIntro": "<color=#00000000>____</color>He looks just like a zombie, but is actually a badly injured old man.\\n<color=#00000000>____</color>Honorary chairman of the alliance of victims whose shadows were stolen by Moria."
+    },
+    {
+     "heroId": "121131",
+     "heroIntro": "<color=#00000000>____</color>A female zombie who hates plates.\\n<color=#00000000>____</color>She looks like an actress, but inside is a woman whose engagement was called off because she broke plates."
+    },
+    {
+     "heroId": "4000022",
+     "heroIntro": "<color=#00000000>____</color>A pig zombie hanging on the wall of Hogback's mansion.\\n<color=#00000000>____</color>He usually looks tough, but is actually a coward."
+    },
+    {
+     "heroId": "121135",
+     "heroIntro": "<color=#00000000>____</color>An old swordsman who was a renowned swordsman in life and cut down 7,000 people for his family."
+    },
+    {
+     "heroId": "121133",
+     "heroIntro": "<color=#00000000>____</color>A spider monkey commanding 500 spider mice!\\n<color=#00000000>____</color>Its ears are huge, but it still can't hear from far away! It can spit extremely sticky, incredibly strong thread."
+    },
+    {
+     "heroId": "4000023",
+     "heroIntro": "<color=#00000000>____</color>Perona's beloved animal zombie.\\n<color=#00000000>____</color>A patched-up toy zombie. It looks cute, but its voice is deep."
+    },
+    {
+     "heroId": "121137",
+     "heroIntro": "<color=#00000000>____</color>The strongest demon, infamous for the evil deed of destroying a country 500 years ago, who left behind the legend of the \"Country Thief\"."
+    },
+    {
+     "heroId": "121136",
+     "heroIntro": "<color=#00000000>____</color>The foremost \"knight\" of the animal zombie army.\\n<color=#00000000>____</color>Even against enemies, he never lays a hand on a woman."
+    },
+    {
+     "heroId": "4000024",
+     "heroIntro": "<color=#00000000>____</color>Captain of the Rolling Pirates who proposes to every man she meets, known as Lola the Proposer."
+    },
+    {
+     "heroId": "4000025",
+     "heroIntro": "<color=#00000000>____</color>A powerhouse Luffy holding 100 shadows!\\n<color=#00000000>____</color>With super strength lasting 3 minutes, he defeated Oars."
+    },
+    {
+     "heroId": "4000026",
+     "heroIntro": "<color=#00000000>____</color>A stylish starfish who can speak human language through sheer force of will.\\n<color=#00000000>____</color>Always smug, he keeps forgetting that he's a starfish."
+    },
+    {
+     "heroId": "4000027",
+     "heroIntro": "<color=#00000000>____</color>A waitress at the Mermaid Cafe on Fish-Man Island.\\n<color=#00000000>____</color>An airhead who often makes careless mistakes."
+    },
+    {
+     "heroId": "121145",
+     "heroIntro": "<color=#00000000>____</color>Leader of the Flying Fish Riders, who looks just like Sanji's wanted poster.\\n<color=#00000000>____</color>Thanks to Sanji's makeover kick, his face became handsome."
+    },
+    {
+     "heroId": "121151",
+     "heroIntro": "<color=#00000000>____</color>Descendant of a noble family of Celestial Dragon blood, with enormous wealth and power.\\n<color=#00000000>____</color>Whenever someone displeases him, he immediately shoots them down."
+    },
+    {
+     "heroId": "4000028",
+     "heroIntro": "<color=#00000000>____</color>A former pirate who lives with Rayleigh on the Sabaody Archipelago and runs the Rip-off Bar."
+    },
+    {
+     "heroId": "112028",
+     "heroIntro": "<color=#00000000>____</color>Calls himself the \"World's Tightest-Lipped Man\", former head of the Marine HQ Science Unit.\\n<color=#00000000>____</color>He has mastered Armament Haki."
+    },
+    {
+     "heroId": "121157",
+     "heroIntro": "<color=#00000000>____</color>A highly praised warrior who protects the peace of Amazon Lily.\\n<color=#00000000>____</color>She works day and night to maintain order."
+    },
+    {
+     "heroId": "4000029",
+     "heroIntro": "<color=#00000000>____</color>Former Empress of Amazon Lily.\\n<color=#00000000>____</color>No matter how badly she is treated, she persistently keeps advising Hancock, heedless of everyone around."
+    },
+    {
+     "heroId": "121153",
+     "heroIntro": "<color=#00000000>____</color>A Kuja Pirates member, the second of the three Gorgon Sisters.\\n<color=#00000000>____</color>She runs the Kuja Pirates together with her sisters."
+    },
+    {
+     "heroId": "121152",
+     "heroIntro": "<color=#00000000>____</color>A Kuja Pirates member, the third of the three Gorgon Sisters.\\n<color=#00000000>____</color>A martial warrior who excels at drawing power from her huge body."
+    },
+    {
+     "heroId": "121179",
+     "heroIntro": "<color=#00000000>____</color>Sadi's pet and one of the Jailer Beasts.\\n<color=#00000000>____</color>Its agility is completely unexpected from its appearance."
+    },
+    {
+     "heroId": "121172",
+     "heroIntro": "<color=#00000000>____</color>Chief Guard of Impel Down!\\n<color=#00000000>____</color>He uses the flute on his spear to freely command the Blugoris."
+    },
+    {
+     "heroId": "121171",
+     "heroIntro": "<color=#00000000>____</color>Deputy Chief Warden of Impel Down.\\n<color=#00000000>____</color>He feels deeply for ordinary people and is highly trusted by his subordinates.\\n<color=#00000000>____</color>Highly ambitious, he always acts like he wants to climb to the top."
+    },
+    {
+     "heroId": "121181",
+     "heroIntro": "<color=#00000000>____</color>Sadi's pet and one of the Jailer Beasts.\\n<color=#00000000>____</color>It looks dim-witted, but once it enters combat mode it can't be controlled.\\n<color=#00000000>____</color>Nimbly wielding two iron clubs and its huge body, its attack power is astonishing."
+    },
+    {
+     "heroId": "121177",
+     "heroIntro": "<color=#00000000>____</color>Sadi's pet and one of the Jailer Beasts.\\n<color=#00000000>____</color>Far from the image of a koala, it has overwhelming power and speed."
+    },
+    {
+     "heroId": "121182",
+     "heroIntro": "<color=#00000000>____</color>Sadi's pet and one of the Jailer Beasts.\\n<color=#00000000>____</color>Armed with a giant spiked club, its long-range attacks are extremely powerful."
+    },
+    {
+     "heroId": "121174",
+     "heroIntro": "<color=#00000000>____</color>One of Impel Down's Chief Jailers.\\n<color=#00000000>____</color>A sadist who is enraptured by the screams of prisoners."
+    },
+    {
+     "heroId": "121194",
+     "heroIntro": "<color=#00000000>____</color>A wild-haired, black-haired demon active everywhere.\\n<color=#00000000>____</color>A powerhouse who takes part in every important battle. Gripping eight swords with his hair, he fights like a spider."
+    },
+    {
+     "heroId": "121193",
+     "heroIntro": "<color=#00000000>____</color>A Marine HQ Vice Admiral and powerhouse skilled in swordsmanship.\\n<color=#00000000>____</color>A Marine HQ Vice Admiral guarding the waters around Marineford, strong enough to slay Sea Kings with his sword."
+    },
+    {
+     "heroId": "121190",
+     "heroIntro": "<color=#00000000>____</color>A female Marine HQ officer who \"imprisons\" both the bodies and hearts of criminals!\\n<color=#00000000>____</color>A woman who rose rapidly through the ranks on sheer ability in the male-dominated Marines. Her valiant figure on the battlefield always draws everyone's attention. Together with her classmate Smoker, she is seen as one of those carrying the Marines' future."
+    },
+    {
+     "heroId": "4000030",
+     "heroIntro": "<color=#00000000>____</color>The \"Pirate King\" who conquered the \"Grand Line\" and began the Great Pirate Era!\\n<color=#00000000>____</color>The legendary pirate, the first in history to reach the end of the \"Grand Line\". Suffering from an incurable illness, he turned himself in to the Marines. At the execution ground he confirmed the existence of the \"One Piece\", giving pirates endless dreams and romance."
+    },
+    {
+     "heroId": "4000031",
+     "heroIntro": "<color=#00000000>____</color>Ace's mother, who gave her life for her child!!\\n<color=#00000000>____</color>Determined to protect her child, she kept Ace in her womb for a full 20 months. A woman who deeply loved the Pirate King."
+    },
+    {
+     "heroId": "4000032",
+     "heroIntro": "<color=#00000000>____</color>The 16th Division Commander who carved a bloody path for his comrades.\\n<color=#00000000>____</color>A Whitebeard Pirates commander known for his topknot and kimono. He charges across the battlefield with the pistols in his robes."
+    },
+    {
+     "heroId": "4000033",
+     "heroIntro": "<color=#00000000>____</color>The 8th Division Commander of the Whitebeard Pirates, skilled in sea battles.\\n<color=#00000000>____</color>A Fish-Man deeply grateful to the great pirate Whitebeard. Masterful underwater tactics and overwhelming arm strength are abilities unique to Fish-Men."
+    },
+    {
+     "heroId": "4000034",
+     "heroIntro": "<color=#00000000>____</color>A great pirate who wields a long blade, known as the \"Maelstrom Spider\".\\n<color=#00000000>____</color>Captain of the Maelstrom Spider Pirates, deeply trusted by Whitebeard. Roger once killed all his comrades, and after Whitebeard took him in, he swore to follow him."
+    },
+    {
+     "heroId": "4000035",
+     "heroIntro": "<color=#00000000>____</color>A descendant of the demon Oars, and Ace's ally!\\n<color=#00000000>____</color>Descendant of the legendary demon. With a body more than twice the size of a giant, he bravely opened a path to survival in the Paramount War."
+    },
+    {
+     "heroId": "121203",
+     "heroIntro": "<color=#00000000>____</color>Captain of the Caribou Pirates, the cruel and ruthless \"Wet-Haired\".\\n<color=#00000000>____</color>He joined the fake Straw Hats to sabotage them from within. After discovering the truth, he tracked the real Luffy to Fish-Man Island."
+    },
+    {
+     "heroId": "121209",
+     "heroIntro": "<color=#00000000>____</color>Captain of the Flying Pirates, an extraordinarily obsessive deep-sea sniper! No target he aims at can escape!\\n<color=#00000000>____</color>The current heir of the Vander Decken line, he wants the legendary mermaid princess who can even command Sea Kings. After seeing the legendary power in the young Shirahoshi, he immediately began a frenzied courtship to fulfill his family's long-held wish. With the power of the Target-Target Fruit, which never loses its target, he pursues her relentlessly. His obsession has long since gone off the rails."
+    },
+    {
+     "heroId": "121210",
+     "heroIntro": "<color=#00000000>____</color>A hitman of the New Fish-Man Pirates, a blue-ringed octopus merman.\\n<color=#00000000>____</color>A dangerous swordsman who slashes at people when drunk. With superb swordsmanship and poison needles hidden on his body, even getting close to him is extremely dangerous."
+    },
+    {
+     "heroId": "121208",
+     "heroIntro": "<color=#00000000>____</color>Captain of the New Fish-Man Pirates, a Fish-Man ruled by malice and sworn to take revenge on humans!\\n<color=#00000000>____</color>A great white shark Fish-Man who hates humans and believes Fish-Men are the supreme race. Inheriting Arlong's will, he formed the New Fish-Man Pirates and plots to seize power over the kingdom."
+    },
+    {
+     "heroId": "4000041",
+     "heroIntro": "<color=#00000000>____</color>A seahorse merman.\\n<color=#00000000>____</color>The right hand of the sea god, who has devoted his life to the kingdom's peace. He watched the prince and princess grow up and dreams of a bright future for Fish-Man Island."
+    },
+    {
+     "heroId": "4000039",
+     "heroIntro": "<color=#00000000>____</color>Fish-Man Island's eldest sage, a catfish merman who runs Fish-Man Island's government.\\n<color=#00000000>____</color>For many years he has worked tirelessly for the people of the Ryugu Kingdom alongside Neptune and Otohime. A minister known for his long whiskers."
+    },
+    {
+     "heroId": "4000043",
+     "heroIntro": "<color=#00000000>____</color>A famous fortune teller who can foresee Fish-Man Island's future.\\n<color=#00000000>____</color>Owner of the Mermaid Cafe on Fish-Man Island, and Arlong's younger sister."
+    },
+    {
+     "heroId": "4000042",
+     "heroIntro": "<color=#00000000>____</color>Princess of the Ryugu Kingdom, kept inside the Hard Shell Tower of Ryugu Palace.\\n<color=#00000000>____</color>A cute and enormous mermaid princess! She hides the power to communicate with Sea Kings... A large kissing gourami mermaid."
+    },
+    {
+     "heroId": "4000040",
+     "heroIntro": "<color=#00000000>____</color>King of the Ryugu Kingdom, once called the \"Great Knight of the Sea\"!\\n<color=#00000000>____</color>A sea warrior who fought countless foreign enemies to defend Fish-Man Island using \"Merman Jujutsu\" and a trident. As the sea god, he left countless legends! However, these days, if he strains himself too much, his old back pain flares up."
+    },
+    {
+     "heroId": "4000044",
+     "heroIntro": "<color=#00000000>____</color>Prince of the Ryugu Kingdom, skilled in both letters and arms.\\n<color=#00000000>____</color>Heir to his mother's dream and Fish-Man Island's next ruler! The eldest of four siblings, he assists his father and protects his siblings."
+    },
+    {
+     "heroId": "121212",
+     "heroIntro": "<color=#00000000>____</color>A New Fish-Man Pirates officer, a giant squid Fish-Man.\\n<color=#00000000>____</color>He turns everyone who resists into dried squid! Traumatized by a friend being dried out, he is terrified of fire."
+    },
+    {
+     "heroId": "121214",
+     "heroIntro": "<color=#00000000>____</color>A New Fish-Man Pirates officer. A Fish-Man who can change his body color and hide like a chameleon.\\n<color=#00000000>____</color>A wobbegong Fish-Man who calls himself a noble of Fish-Man District. Known for his pride."
+    },
+    {
+     "heroId": "121213",
+     "heroIntro": "<color=#00000000>____</color>A New Fish-Man Pirates officer, a cookiecutter shark Fish-Man pirate with razor-sharp teeth.\\n<color=#00000000>____</color>He can chew through anything in his way, whether rock or human!"
+    },
+    {
+     "heroId": "121211",
+     "heroIntro": "<color=#00000000>____</color>A New Fish-Man Pirates officer, a Fish-Man warrior whose personality changes with his energy level!\\n<color=#00000000>____</color>When his energy is full, he stresses the ends of his sentences and becomes even more violent!"
+    },
+    {
+     "heroId": "4000045",
+     "heroIntro": "<color=#00000000>____</color>Former captain of the Brownbeard Pirates / former leader of the Centaur Patrol Unit\\n<color=#00000000>____</color>Violent and warlike, but he cares deeply for his subordinates."
+    },
+    {
+     "heroId": "4000047",
+     "heroIntro": "<color=#00000000>____</color>Kidnapped to be Caesar's test subject, her body grew giant after taking NHC10.\\n<color=#00000000>____</color>Taking NHC10 left her near death, but Law's surgery saved her life, and she escaped with Luffy's help."
+    },
+    {
+     "heroId": "4000048",
+     "heroIntro": "<color=#00000000>____</color>A fire dragon created by Vegapunk, called \"Dragon No. 13\"\\n<color=#00000000>____</color>It is enormous, and its fire breath drove many intruders away. It was finally defeated by Zoro's \"One Sword Style Iai: Death Lion Song\""
+    },
+    {
+     "heroId": "4000049",
+     "heroIntro": "<color=#00000000>____</color>Caesar's pet, over 150 meters long, which polluted Punk Hazard with H2S poison gas\\n<color=#00000000>____</color>After Caesar fed it a Devil Fruit, it became the ultimate killing weapon \"Shinokuni\""
+    },
+    {
+     "heroId": "4000050",
+     "heroIntro": "<color=#00000000>____</color>Commentator of the Corrida Colosseum\\n<color=#00000000>____</color>After Doflamingo's plot was exposed, Gatz switched to supporting Luffy and helped him when Luffy's Gear Fourth power ran out."
+    },
+    {
+     "heroId": "4000051",
+     "heroIntro": "<color=#00000000>____</color>Husband of Scarlett, princess of the Riku royal family, and father of Rebecca.\\n<color=#00000000>____</color>Turned into a toy soldier by Sugar, he went on caring for Rebecca as a toy soldier and taught her how to fight. He returned to his original form after \"Operation SOP\" succeeded"
+    },
+    {
+     "heroId": "4000052",
+     "heroIntro": "<color=#00000000>____</color>Granddaughter of Dressrosa's King Riku Dold the 3rd and daughter of the gladiator Kyros. She lost her mother Scarlett in the tragedy 10 years ago and lived with \"Mr. Soldier\" without knowing who her father was. In the Corrida Colosseum she met Luffy, disguised as \"Lucy\".\\n<color=#00000000>____</color>After Luffy defeated Doflamingo, Rebecca gave up her status as princess and went to live with her father."
+    },
+    {
+     "heroId": "4000053",
+     "heroIntro": "<color=#00000000>____</color>Leader of the Dwarves' Tontatta Squad. After defeating the Donquixote Family together with the \"Straw Hats\", he founded the Tontatta Pirates and became captain of ship No. 5 of the \"Straw Hat Grand Fleet\".\\n<color=#00000000>____</color>A user of the \"Stitch-Stitch Fruit\", he has the \"stitching\" power to sew together anything, human or steel."
+    },
+    {
+     "heroId": "4000054",
+     "heroIntro": "<color=#00000000>____</color>Rebecca's real father, the \"Strongest Gladiator\" in history, who set an unprecedented winning streak in the Colosseum, and also a hero who served as commander of King Riku's army.\\n<color=#00000000>____</color>10 years ago, Sugar's ability turned him into a toy. After the war ended, he lives a peaceful life with his beloved daughter."
+    },
+    {
+     "heroId": "4000056",
+     "heroIntro": "<color=#00000000>____</color>Former 12th Don of the Happo Navy, who gave up sailing after losing a battle to Garp.\\n<color=#00000000>____</color>After the battle with the Donquixote Pirates in Dressrosa, he acknowledged Sai's strength and will, and entrusted him with the secrets of the \"Eight-Impact Fist\" and the Happo Navy."
+    },
+    {
+     "heroId": "4000057",
+     "heroIntro": "<color=#00000000>____</color>An extreme patriot who dirtied his own hands for his homeland, only to be exiled by his own country.\\n<color=#00000000>____</color>An executioner skilled in beheading swordplay, dressed like a ghost. After the battle of Dressrosa, he joined the Beautiful Pirates."
+    },
+    {
+     "heroId": "4000058",
+     "heroIntro": "<color=#00000000>____</color>User of the \"Arms-Arms Fruit\".\\n<color=#00000000>____</color>Formerly a maid and assassin of the Donquixote Family, she faithfully carried out the Family's orders as a combatant together with Buffalo. Longing to be needed, she can't refuse anyone's request and is often deceived because of it. After the battle of Dressrosa, she married Sai."
+    },
+    {
+     "heroId": "4000059",
+     "heroIntro": "<color=#00000000>____</color>User of the \"Spin-Spin Fruit\".\\n<color=#00000000>____</color>He once lived in a country with terrible conditions and saw the Donquixote Pirates as a kind of paradise. Even though Corazon bullied him, he remained utterly loyal to Doflamingo."
+    },
+    {
+     "heroId": "4000060",
+     "heroIntro": "<color=#00000000>____</color>One of the \"fighters\" in the Corrida Colosseum.\\n<color=#00000000>____</color>The Corrida Colosseum's star fighter. Tamed by Luffy, it became his friend and charged all the way to Doflamingo with Luffy on its back."
+    },
+    {
+     "heroId": "4000061",
+     "heroIntro": "<color=#00000000>____</color>User of the \"Glare-Glare Fruit\", an \"assassin\" of the Donquixote Pirates.\\n<color=#00000000>____</color>Her true identity, however, is the younger sister of Scarlett, princess of the Kingdom of Dressrosa. 10 years ago, she joined the Donquixote Pirates in exchange for sparing her father's life. After the conflict in Dressrosa ended, she regained her status as princess."
+    },
+    {
+     "heroId": "4000062",
+     "heroIntro": "<color=#00000000>____</color>A former Donquixote Family officer, half \"Fighting Fish\" and half human.\\n<color=#00000000>____</color>Due to the personal tastes of Jora, who was in charge of his upbringing, he was raised like a girl.\\nDespite his looks, he is sadistic and ferocious. His \"Fighting Fish\" blood gives him strength and cruelty, letting him swiftly drown the Family's enemies in a sea of blood."
+    },
+    {
+     "heroId": "4000063",
+     "heroIntro": "<color=#00000000>____</color>User of the \"Stick-Stick Fruit\".\\n<color=#00000000>____</color>31 years ago, he saw Doflamingo's \"qualities of a king\", swore loyalty to him, and founded the Donquixote Family with him."
+    },
+    {
+     "heroId": "4000064",
+     "heroIntro": "<color=#00000000>____</color>User of the \"Flutter-Flutter Fruit\", one of the top executives of the Donquixote Pirates. He runs the Corrida Colosseum and also fights in it as a gladiator.\\n<color=#00000000>____</color>About 30 years ago, he saw the \"qualities of a king\" in Doflamingo, and is a founding member of the Donquixote Pirates."
+    },
+    {
+     "heroId": "4000065",
+     "heroIntro": "<color=#00000000>____</color>User of the \"Swim-Swim Fruit\".\\n<color=#00000000>____</color>A rare pirate full of manliness who lends a hand to the weak. He wears baby clothes as atonement for losing his beloved wife and son because of his own lies. Unbothered by the ridicule of those around him, he is a man of firm conviction and solitude."
+    },
+    {
+     "heroId": "4000066",
+     "heroIntro": "<color=#00000000>____</color>One of the top executives of the Donquixote Family, user of the \"Stone-Stone Fruit\".\\n<color=#00000000>____</color>When Doflamingo returned alive from Mary Geoise, he swore loyalty to Doflamingo together with Trebol and the others. He can merge with any stone, and when he uses his ability to grow giant, his size astonishes even giants. He has absolute confidence in his strength, yet was defeated in an instant in the battle with Luffy's group."
+    },
+    {
+     "heroId": "4000067",
+     "heroIntro": "<color=#00000000>____</color>User of the \"Pop-Pop Fruit\", an officer of the Donquixote Family.\\n<color=#00000000>____</color>He can make inorganic objects touching his body explode. Short-tempered, he has a habit of abusing his ability to calm himself down. He is also good at making meticulous plans, but slips up when plans change."
+    },
+    {
+     "heroId": "4000068",
+     "heroIntro": "<color=#00000000>____</color>User of the \"Hobby-Hobby Fruit\", a special officer of the Donquixote Pirates.\\n<color=#00000000>____</color>She can turn anyone she touches into a toy, control those toys at will, and make people forget everything about the victims. Doflamingo rescued her and her sister Monet from terrible conditions, so she devotes her strength to the Family."
+    },
+    {
+     "heroId": "4000069",
+     "heroIntro": "<color=#00000000>____</color>The 8th daughter of the Charlotte family, a Mirror Human with the \"Mirror-Mirror Fruit\" Devil Fruit ability, and keeper of the Seducing Woods.\\n<color=#00000000>____</color>Deeply self-conscious about the scar on her face, she tries to leave the same scar on beautiful women."
+    },
+    {
+     "heroId": "4000070",
+     "heroIntro": "<color=#00000000>____</color>The 19th son of the Charlotte family, a Book Human with the \"Book-Book Fruit\" Devil Fruit ability, and Minister of Cheese.\\n<color=#00000000>____</color>Mont-d'Or can trap animals or people inside books and is in charge of strategy and planning."
+    },
+    {
+     "heroId": "4000071",
+     "heroIntro": "<color=#00000000>____</color>The eldest Charlotte son, a Candy Human with the \"Lick-Lick Fruit\" Devil Fruit ability, and Minister of Candy.\\n<color=#00000000>____</color>He can make anything with candy craft. As long as he has a blueprint, he can even make intricate buildings."
+    },
+    {
+     "heroId": "4000072",
+     "heroIntro": "<color=#00000000>____</color>The 3rd son of the Charlotte family, a Lamp Human with the \"Lamp-Lamp Fruit\" Devil Fruit ability, and Minister of Beans. He can summon a genie with its own personality.\\n<color=#00000000>____</color>Daifuku acts faster than he talks, is hot-tempered and rough in manner, but very loyal to his mother Big Mom."
+    },
+    {
+     "heroId": "4000073",
+     "heroIntro": "<color=#00000000>____</color>The 4th son of the Charlotte family, a Heat Human with the \"Heat-Heat Fruit\" Devil Fruit ability, Minister of Baking, and one of the Big Mom Pirates' main fighters.\\n<color=#00000000>____</color>He has pure love for his family and agrees to whatever they ask of him."
+    },
+    {
+     "heroId": "4000074",
+     "heroIntro": "<color=#00000000>____</color>The 22nd daughter of the Charlotte family, wife of Capone \"Gang\" Bege, boss of the Fire Tank Pirates, and former Minister of Fluff.\\n<color=#00000000>____</color>She is Lola's twin sister and an expert at making chiffon cake."
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "2/142 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableRaidChapter": {
    "key_column": "chapterId",
@@ -40798,11 +41357,11 @@
     },
     {
      "runMapId": "5104",
-     "desc": "Human pirates have burst in from the Coral Hill side! Beat them down first."
+     "desc": "Human pirates have burst in from the Hard Shell Tower side! Beat them down first."
     },
     {
      "runMapId": "5105",
-     "desc": "Human pirates have burst in from the Coral Hill side! Beat them down first."
+     "desc": "Human pirates have burst in from the Hard Shell Tower side! Beat them down first."
     },
     {
      "runMapId": "5106",
@@ -50766,6 +51325,111 @@
    ]
   }
  },
- "glossary_additions": {},
- "uncertain_notes": []
+ "glossary_additions": {
+  "伊卡莱姆": "Igaram",
+  "铁桶山": "Drum Rockies",
+  "阿帕亚多": "Upper Yard",
+  "神之岛": "God's Island",
+  "雷迎": "Raigo",
+  "三怪人": "Mysterious Three",
+  "生命卡": "Vivre Card",
+  "屠魔令": "Buster Call",
+  "空气门": "Air Door",
+  "亢奋荷尔蒙": "Tension Hormones",
+  "黑槛": "Black Cage",
+  "冥王雷利": "Dark King Rayleigh",
+  "硬壳塔": "Hard Shell Tower",
+  "魔法天候棒": "Sorcery Clima-Tact",
+  "维萨利亚": "Weatheria",
+  "凶药": "Energy Steroids",
+  "魂之丧剑": "Soul Sword",
+  "铁之海盗": "Iron Pirate",
+  "弗兰奇将军": "General Franky",
+  "象主": "Zunesha",
+  "三枪手": "Three Musketeers",
+  "小人族": "Dwarves",
+  "东踏踏兵团": "Tontatta Squad",
+  "草帽大船团": "Straw Hat Grand Fleet",
+  "八冲拳": "Eight-Impact Fist",
+  "俊美海盗团": "Beautiful Pirates",
+  "玩具之家": "Toy House",
+  "四挡": "Gear Fourth",
+  "变档4": "Gear 4",
+  "隐形黑": "Stealth Black",
+  "热息": "Bolo Breath",
+  "大相扑地狱": "Great Sumo Inferno",
+  "流樱": "Flowing Cherry Blossom",
+  "思食症": "Craving",
+  "月狮": "Sulong",
+  "宙斯": "Zeus",
+  "阿拉丁": "Aladine",
+  "杰尔玛66": "Germa 66",
+  "愤怒军团": "Angry Legion",
+  "康家": "Yasuie",
+  "斩人魔镰造": "Kamazo the Killer",
+  "七百二十烦恼风": "720 Pound Phoenix",
+  "小猫兄弟": "Nyaban Brothers",
+  "据为猫有": "Cat Burglar",
+  "鱼人空手道": "Fish-Man Karate",
+  "羊肉SHOT": "Mutton Shot",
+  "李维斯山": "Reverse Mountain",
+  "双子岬": "Twin Cape",
+  "犬枪拉斯": "Lassoo",
+  "喷风贝": "Jet Dial",
+  "喷气拳": "Jet Punch",
+  "拉面拳法": "Ramen Kenpo",
+  "六式": "Six Powers",
+  "铁块": "Tekkai",
+  "敲竹杠酒吧": "Rip-off Bar",
+  "戈耳工三姐妹": "Gorgon Sisters",
+  "大涡蜘蛛": "Maelstrom Spider",
+  "人鱼柔术": "Merman Jujutsu",
+  "海上大骑士": "Great Knight of the Sea",
+  "庞加贝克": "Vegapunk",
+  "死亡国度": "Shinokuni",
+  "斗牛竞技场": "Corrida Colosseum",
+  "闪闪果实": "Glint-Glint Fruit",
+  "震震之果": "Tremor-Tremor Fruit",
+  "靶靶之果": "Target-Target Fruit",
+  "缝合之果": "Stitch-Stitch Fruit",
+  "武器之果": "Arms-Arms Fruit",
+  "转转之果": "Spin-Spin Fruit",
+  "瞪眼之果": "Glare-Glare Fruit",
+  "黏糊之果": "Stick-Stick Fruit",
+  "飘扬之果": "Flutter-Flutter Fruit",
+  "水水之果": "Swim-Swim Fruit",
+  "岩石之果": "Stone-Stone Fruit",
+  "爆裂之果": "Pop-Pop Fruit",
+  "童趣之果": "Hobby-Hobby Fruit",
+  "镜镜之果": "Mirror-Mirror Fruit",
+  "书书之果": "Book-Book Fruit",
+  "舔舔之果": "Lick-Lick Fruit",
+  "亮亮之果": "Lamp-Lamp Fruit",
+  "热热之果": "Heat-Heat Fruit",
+  "诱惑之森": "Seducing Woods",
+  "巧克力警察": "Chocolate Police",
+  "空岛共斗": "Sky Island Co-op",
+  "海军大佐": "Marine Colonel",
+  "天雷": "Heavenly Thunder"
+ },
+ "uncertain_notes": [
+  "TableSceneFight / TableRaidRunMap 22301: 玛雅 read as Jaya (the sky-island city); the Chinese spelling is unusual, so this is uncertain.",
+  "班克禁区 and 冰火岛 are both rendered as Punk Hazard (TableIntimacyChapter, TableRaidChapter, TableSceneFight).",
+  "奎因 and 昆因 are both rendered as Queen (Beast Pirates).",
+  "TableOPDex 934901: 企鹅\"骆驼\" kept as a nickname, Penguin \"Camel\"; the referent is uncertain.",
+  "新世界鲁兹 follows game_terms exactly (New World Ruz) even though plain 鲁兹 is Rob Lucci elsewhere.",
+  "TableHeroSceneAction 287/1107: 颓靡甜风 rendered literally as 'Decadent Sweet Breeze!' (skill shout).",
+  "TableNewWPBoss / TableWorldPersonBoss 32: 盖德 read as Kaido (the Emperor Moria once rivaled).",
+  "明哥/门戈 short forms rendered as Mingo; the full 多弗拉门戈/多弗拉明戈 as Doflamingo.",
+  "TableRaidRunMap 58: 斩击贝 follows the glossary (Impact Dial); in canon it is the Axe Dial.",
+  "TableRaidRunMap 50/1901: 方块大叔 read as Cricket (Montblanc Cricket, whose gold Bellamy stole).",
+  "TableRaidRunMap 6805: 霍尔海姆 treated as a typo for 霍尔德姆 (Holdem).",
+  "TableRaidRunMap 7104: 戴弗高 rendered as Daifugo; the glossary spelling 'Defugō' was not used because of the macron.",
+  "TableRaidRunMap 7105: 爆笑者 rendered as the Pleasures (Beast Pirates rank).",
+  "TableRaidRunMap 燃烧之果 follows the glossary (Blaze Fruit); in canon it is the Flame-Flame Fruit.",
+  "TableRaidRunMap 焦糖布丁 follows the glossary (Caramel Pudding); TablePokedex 4000069 describes the same character (Mirror-Mirror Fruit) without a name.",
+  "TablePokedex 4000072: 亮亮之果 rendered as Lamp-Lamp Fruit (Daifuku's genie fruit).",
+  "TablePokedex 121038: the source calls this character Mr. 8's partner; kept as written.",
+  "TablePokedex 4000048: 索隆 is another spelling of Zoro and was rendered as Zoro."
+ ]
 }
