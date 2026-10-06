@@ -846,6 +846,59 @@
    ],
    "partial": "1/7 rows translated so far"
   },
+  "TableBountyCommandHelp": {
+   "key_column": "id",
+   "text_columns": [
+    "leftIndex",
+    "rightIndex",
+    "currNameIndex"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "0",
+     "leftIndex": "Aokiji\\nOne of the Marines' three Admirals, user of the Ice-Ice Fruit.\\nHas many wide-area Ice damage skills  that also Freeze, greatly limiting enemies' Speed.\\nWhen the Wanted Boss opens on Monday morning, Aokiji appears in the desert with his subordinates.",
+     "rightIndex": "Ace\\nSon of Roger.\\nUser of the Flame-Flame Fruit, skilled at wide-area Fire attacks.\\nThe traits of his Logia fruit give Ace extra resistance to elemental and group damage.\\nWhen the Wanted Boss opens on Monday evening, Ace appears in Syrup Village.",
+     "currNameIndex": "Monday"
+    },
+    {
+     "id": "1",
+     "leftIndex": "Garp\\nThe legendary hero.\\nA Marine hero with an illustrious record, fighting with a balance of offense and defense.\\nYears of battle experience give Garp high resistance to physical damage.\\nWhen the Wanted Boss opens on Tuesday morning, Garp appears in the desert with his subordinates, fearlessly taking on all challengers in the name of justice.",
+     "rightIndex": "Whitebeard\\nThe strongest man in the world.\\nA Tremor Human who ate the Tremor-Tremor Fruit, one of the legendary Four Emperors.\\nWhitebeard has the power to destroy the world and high resistance to physical damage.\\nWhen the Wanted Boss opens on Tuesday evening, Whitebeard appears in Syrup Village, crushing every enemy who dares challenge him.",
+     "currNameIndex": "Tuesday"
+    },
+    {
+     "id": "2",
+     "leftIndex": "Blackbeard\\nThe legendary hero.\\nUser of the Dark-Dark Fruit, one of the legendary Four Emperors.\\nThe Dark-Dark Fruit gives Blackbeard high resistance to physical damage.\\nBlackbeard's special constitution makes him feel twice the pain of a normal person, so the first physical attack he takes each turn deals more damage\\nWhen the Wanted Boss opens on Wednesday morning, Blackbeard appears outside Alubarna. Challengers will feel the terrifying power of the \"Man of Ultimate Evil\" firsthand",
+     "rightIndex": "Aokiji\\nOne of the Marines' three Admirals, user of the Ice-Ice Fruit.\\nHas many wide-area Ice damage skills  that also Freeze, greatly limiting enemies' Speed.\\nWhen the Wanted Boss opens on Wednesday evening, Aokiji appears in the town of Cocoyasi Village.\\nPlayers who dare challenge him will face a powerful counterattack from Aokiji and his subordinates.",
+     "currNameIndex": "Wednesday"
+    },
+    {
+     "id": "3",
+     "leftIndex": "Crocodile\\nThe \"King of the Desert\", user of the Sand-Sand Fruit.\\nCan raise wide-area sandstorms that deal Wind damage.\\nWhen the Wanted Boss opens on Thursday morning, Crocodile appears outside Alubarna.",
+     "rightIndex": "Enel\\n\"God\", user of the Rumble-Rumble Fruit.\\nHe beats the Magatama Drums to channel powerful lightning in wide-area attacks, with a chance to Paralyze.\\nWhen the Wanted Boss opens on Thursday evening, Enel appears in Shandora",
+     "currNameIndex": "Thursday"
+    },
+    {
+     "id": "4",
+     "leftIndex": "Bartholomew Kuma\\nUser of the Paw Pad Fruit and former member of the Seven Warlords of the Sea.\\nWith his fruit's power he forms paw-shaped air bullets that, once compressed and released, unleash terrifying shockwaves.\\nWhen the Wanted Boss opens on Friday morning, Kuma appears outside Alubarna.",
+     "rightIndex": "Franky\\nThe Straw Hats' shipwright, a cyborg.\\nHis whole body has been modified, letting him use all kinds of ranged/melee attacks from different body parts to suit any battle situation.\\nWhen the Wanted Boss opens on Friday evening, Franky appears in the Little Garden wilds",
+     "currNameIndex": "Friday"
+    },
+    {
+     "id": "5",
+     "leftIndex": "Shanks\\nNicknamed Red-Haired, one of the legendary Four Emperors.\\nA top swordsman with full control of Haki, even Conqueror's Haki.\\nShanks races enemies to strike first; if Shanks is faster, he deals more damage\\nWhen the Wanted Boss opens on Saturday morning, Shanks appears in the town of Cocoyasi Village",
+     "rightIndex": "Rayleigh\\nKnown as the Dark King, former first mate of the Roger Pirates.\\nMaster of all three types of Haki.\\nRayleigh's combat skills raise his own Evasion\\nWhen the Wanted Boss opens on Saturday evening, Rayleigh appears in the Little Garden wilds",
+     "currNameIndex": "Saturday"
+    },
+    {
+     "id": "6",
+     "leftIndex": "Ivankov\\nQueen of the Kamabakka Kingdom, the \"Miracle Person\".\\nUser of the Hormone-Hormone Fruit with powerful support abilities.\\nIvankov reduces the direct damage he takes, but takes more reflected damage\\nWhen the Wanted Boss opens on Sunday morning, Ivankov appears in the town of Cocoyasi Village",
+     "rightIndex": "Marco\\nCommander of the Whitebeard Pirates' 1st Division, user of the rare Mythical Zoan \"Bird-Bird Fruit, Model: Phoenix\".\\nHas incredible regeneration and assault abilities.\\nMarco's strong surprise attacks deal more damage to players with Shields\\nWhen the Wanted Boss opens on Sunday evening, Marco appears in the Little Garden wilds",
+     "currNameIndex": "Sunday"
+    }
+   ]
+  },
   "TableBountyHuntChat": {
    "key_column": "id",
    "text_columns": [
@@ -2248,6 +2301,499 @@
    ],
    "partial": "1/3 rows translated so far"
   },
+  "TableFormationLevClassic": {
+   "key_column": "id",
+   "text_columns": [
+    "upPosDesc",
+    "buffDesc",
+    "descIndex"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A balanced formation for offense and defense. Upgrades raise Skill Damage and reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "2",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A balanced formation for offense and defense. Upgrades raise Skill Damage and reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "3",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A balanced formation for offense and defense. Upgrades raise Skill Damage and reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "4",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "Whole team's Skill Damage dealt +3%",
+     "descIndex": "A balanced formation for offense and defense. Upgrades raise Skill Damage and reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense, HP and Skill Damage</color>"
+    },
+    {
+     "id": "5",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "Whole team's damage taken -3%",
+     "descIndex": "A balanced formation for offense and defense. Upgrades raise Skill Damage and reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense, HP and Skill Damage; whole team takes less damage</color>"
+    },
+    {
+     "id": "6",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "Whole team's damage dealt +10%, Speed -5%",
+     "descIndex": "A formation suited to clearing dungeons that trades Speed for a big boost to damage. Upgrades further reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team's damage dealt greatly increased, Speed reduced</color>"
+    },
+    {
+     "id": "7",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to clearing dungeons that trades Speed for a big boost to damage. Upgrades further reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; damage dealt greatly increased, Speed reduced</color>"
+    },
+    {
+     "id": "8",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to clearing dungeons that trades Speed for a big boost to damage. Upgrades further reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; damage dealt greatly increased, Speed reduced</color>"
+    },
+    {
+     "id": "9",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to clearing dungeons that trades Speed for a big boost to damage. Upgrades further reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; damage dealt greatly increased, Speed reduced</color>"
+    },
+    {
+     "id": "10",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "Whole team's damage taken -5%",
+     "descIndex": "A formation suited to clearing dungeons that trades Speed for a big boost to damage. Upgrades further reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; damage dealt greatly increased, Speed reduced, damage taken reduced</color>"
+    },
+    {
+     "id": "11",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An elemental damage formation with steady output. Upgrades raise back-row characters' elemental damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "12",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An elemental damage formation with steady output. Upgrades raise back-row characters' elemental damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "13",
+     "upPosDesc": "Slot 7",
+     "buffDesc": "At battle start, the Slot 7 character gains Accuracy +15%",
+     "descIndex": "An elemental damage formation with steady output. Upgrades raise back-row characters' elemental damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 7 Accuracy increased</color>"
+    },
+    {
+     "id": "14",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An elemental damage formation with steady output. Upgrades raise back-row characters' elemental damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 7 Accuracy increased</color>"
+    },
+    {
+     "id": "15",
+     "upPosDesc": "Slot 12",
+     "buffDesc": "At battle start, the Slot 12 character gains elemental damage +25%",
+     "descIndex": "An elemental damage formation with steady output. Upgrades raise back-row characters' elemental damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 7 Accuracy increased; Slot 12 elemental damage increased</color>"
+    },
+    {
+     "id": "16",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A defensive formation. Upgrades raise the front row's Tenacity and Block.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "17",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A defensive formation. Upgrades raise the front row's Tenacity and Block.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "18",
+     "upPosDesc": "Slot 1",
+     "buffDesc": "At battle start, the Slot 1 character gains Tenacity +16%",
+     "descIndex": "A defensive formation. Upgrades raise the front row's Tenacity and Block.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 1 Tenacity increased</color>"
+    },
+    {
+     "id": "19",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A defensive formation. Upgrades raise the front row's Tenacity and Block.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 1 Tenacity increased</color>"
+    },
+    {
+     "id": "20",
+     "upPosDesc": "Slot 2",
+     "buffDesc": "At battle start, the Slot 2 character gains Block +20%",
+     "descIndex": "A defensive formation. Upgrades raise the front row's Tenacity and Block.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 1 Tenacity increased; Slot 2 Block increased</color>"
+    },
+    {
+     "id": "21",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to PvP. Upgrades raise the back row's Speed and Crit Rate for a first-strike edge.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "22",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to PvP. Upgrades raise the back row's Speed and Crit Rate for a first-strike edge.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "23",
+     "upPosDesc": "Slot 11",
+     "buffDesc": "At battle start, the Slot 11 character gains Crit +16%",
+     "descIndex": "A formation suited to PvP. Upgrades raise the back row's Speed and Crit Rate for a first-strike edge.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 11 Crit increased</color>"
+    },
+    {
+     "id": "24",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to PvP. Upgrades raise the back row's Speed and Crit Rate for a first-strike edge.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 11 Crit increased</color>"
+    },
+    {
+     "id": "25",
+     "upPosDesc": "Slot 8",
+     "buffDesc": "At battle start, the Slot 8 character gains Speed +10%",
+     "descIndex": "A formation suited to PvP. Upgrades raise the back row's Speed and Crit Rate for a first-strike edge.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 11 Crit increased; Slot 8 Speed increased</color>"
+    },
+    {
+     "id": "26",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A survival formation. Upgrades raise back-row characters' Evasion and Healing Bonus.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "27",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A survival formation. Upgrades raise back-row characters' Evasion and Healing Bonus.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "28",
+     "upPosDesc": "Slot 8",
+     "buffDesc": "At battle start, the Slot 8 character gains Evasion +16%",
+     "descIndex": "A survival formation. Upgrades raise back-row characters' Evasion and Healing Bonus.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 8 Evasion increased</color>"
+    },
+    {
+     "id": "29",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A survival formation. Upgrades raise back-row characters' Evasion and Healing Bonus.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 8 Evasion increased</color>"
+    },
+    {
+     "id": "30",
+     "upPosDesc": "Slot 9",
+     "buffDesc": "At battle start, the Slot 9 character gains Healing Bonus +20%",
+     "descIndex": "A survival formation. Upgrades raise back-row characters' Evasion and Healing Bonus.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 8 Evasion increased; Slot 9 Healing Bonus increased</color>"
+    },
+    {
+     "id": "31",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A brute-force damage formation. Upgrades raise back-row characters' Crit Rate and Crit Damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "32",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A brute-force damage formation. Upgrades raise back-row characters' Crit Rate and Crit Damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "33",
+     "upPosDesc": "Slot 9",
+     "buffDesc": "At battle start, the Slot 9 character gains Crit +16%",
+     "descIndex": "A brute-force damage formation. Upgrades raise back-row characters' Crit Rate and Crit Damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 9 Crit increased</color>"
+    },
+    {
+     "id": "34",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A brute-force damage formation. Upgrades raise back-row characters' Crit Rate and Crit Damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 9 Crit increased</color>"
+    },
+    {
+     "id": "35",
+     "upPosDesc": "Slot 11",
+     "buffDesc": "At battle start, the Slot 11 character gains Crit Damage +30%",
+     "descIndex": "A brute-force damage formation. Upgrades raise back-row characters' Crit Rate and Crit Damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 9 Crit increased; Slot 11 Crit Damage increased</color>"
+    },
+    {
+     "id": "36",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An offensive formation. Upgrades raise Pierce and Rage for characters in specific slots.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "37",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An offensive formation. Upgrades raise Pierce and Rage for characters in specific slots.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "38",
+     "upPosDesc": "Slot 4",
+     "buffDesc": "At battle start, the Slot 4 character gains Pierce +16%",
+     "descIndex": "An offensive formation. Upgrades raise Pierce and Rage for characters in specific slots.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 4 Pierce increased</color>"
+    },
+    {
+     "id": "39",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An offensive formation. Upgrades raise Pierce and Rage for characters in specific slots.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 4 Pierce increased</color>"
+    },
+    {
+     "id": "40",
+     "upPosDesc": "Slot 7",
+     "buffDesc": "At battle start, Slot 7 gains 15 Rage before acting in the first 3 turns (up to 2 triggers per 1 turn). When triggered on the first turn, Ultimate damage is reduced by 50% (doesn't stack, lasts 1 turn)",
+     "descIndex": "An offensive formation. Upgrades raise Pierce and Rage for characters in specific slots.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 4 Pierce increased; Slot 7 gains 15 Rage before acting in the first 3 turns (up to 2 triggers per 1 turn). When triggered on the first turn, Ultimate damage is reduced by 50% (doesn't stack, lasts 1 turn)</color>"
+    },
+    {
+     "id": "41",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A balanced formation for offense and defense. Upgrades raise Skill Damage and reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "42",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A balanced formation for offense and defense. Upgrades raise Skill Damage and reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "43",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A balanced formation for offense and defense. Upgrades raise Skill Damage and reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "44",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "Whole team's Skill Damage dealt +3%",
+     "descIndex": "A balanced formation for offense and defense. Upgrades raise Skill Damage and reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense, HP and Skill Damage</color>"
+    },
+    {
+     "id": "45",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "Whole team's damage taken -3%",
+     "descIndex": "A balanced formation for offense and defense. Upgrades raise Skill Damage and reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense, HP and Skill Damage; whole team takes less damage</color>"
+    },
+    {
+     "id": "46",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "Whole team's damage dealt +10%, Speed -5%",
+     "descIndex": "A formation suited to clearing dungeons that trades Speed for a big boost to damage. Upgrades further reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team's damage dealt greatly increased, Speed reduced</color>"
+    },
+    {
+     "id": "47",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to clearing dungeons that trades Speed for a big boost to damage. Upgrades further reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; damage dealt greatly increased, Speed reduced</color>"
+    },
+    {
+     "id": "48",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to clearing dungeons that trades Speed for a big boost to damage. Upgrades further reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; damage dealt greatly increased, Speed reduced</color>"
+    },
+    {
+     "id": "49",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to clearing dungeons that trades Speed for a big boost to damage. Upgrades further reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; damage dealt greatly increased, Speed reduced</color>"
+    },
+    {
+     "id": "50",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "Whole team's damage taken -5%",
+     "descIndex": "A formation suited to clearing dungeons that trades Speed for a big boost to damage. Upgrades further reduce damage taken.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; damage dealt greatly increased, Speed reduced, damage taken reduced</color>"
+    },
+    {
+     "id": "51",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An elemental damage formation with steady output. Upgrades raise back-row characters' elemental damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "52",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An elemental damage formation with steady output. Upgrades raise back-row characters' elemental damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "53",
+     "upPosDesc": "Slot 7",
+     "buffDesc": "At battle start, the Slot 7 character gains Accuracy +15%",
+     "descIndex": "An elemental damage formation with steady output. Upgrades raise back-row characters' elemental damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 7 Accuracy increased</color>"
+    },
+    {
+     "id": "54",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An elemental damage formation with steady output. Upgrades raise back-row characters' elemental damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 7 Accuracy increased</color>"
+    },
+    {
+     "id": "55",
+     "upPosDesc": "Slot 12",
+     "buffDesc": "At battle start, the Slot 12 character gains elemental damage +25%",
+     "descIndex": "An elemental damage formation with steady output. Upgrades raise back-row characters' elemental damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 7 Accuracy increased; Slot 12 elemental damage increased</color>"
+    },
+    {
+     "id": "56",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A defensive formation. Upgrades raise the front row's Tenacity and Block.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "57",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A defensive formation. Upgrades raise the front row's Tenacity and Block.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "58",
+     "upPosDesc": "Slot 1",
+     "buffDesc": "At battle start, the Slot 1 character gains Tenacity +16%",
+     "descIndex": "A defensive formation. Upgrades raise the front row's Tenacity and Block.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 1 Tenacity increased</color>"
+    },
+    {
+     "id": "59",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A defensive formation. Upgrades raise the front row's Tenacity and Block.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 1 Tenacity increased</color>"
+    },
+    {
+     "id": "60",
+     "upPosDesc": "Slot 2",
+     "buffDesc": "At battle start, the Slot 2 character gains Block +20%",
+     "descIndex": "A defensive formation. Upgrades raise the front row's Tenacity and Block.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 1 Tenacity increased; Slot 2 Block increased</color>"
+    },
+    {
+     "id": "61",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to PvP. Upgrades raise the back row's Speed and Crit Rate for a first-strike edge.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "62",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to PvP. Upgrades raise the back row's Speed and Crit Rate for a first-strike edge.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "63",
+     "upPosDesc": "Slot 11",
+     "buffDesc": "At battle start, the Slot 11 character gains Crit +16%",
+     "descIndex": "A formation suited to PvP. Upgrades raise the back row's Speed and Crit Rate for a first-strike edge.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 11 Crit increased</color>"
+    },
+    {
+     "id": "64",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A formation suited to PvP. Upgrades raise the back row's Speed and Crit Rate for a first-strike edge.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 11 Crit increased</color>"
+    },
+    {
+     "id": "65",
+     "upPosDesc": "Slot 8",
+     "buffDesc": "At battle start, the Slot 8 character gains Speed +10%",
+     "descIndex": "A formation suited to PvP. Upgrades raise the back row's Speed and Crit Rate for a first-strike edge.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 11 Crit increased; Slot 8 Speed increased</color>"
+    },
+    {
+     "id": "66",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A survival formation. Upgrades raise back-row characters' Evasion and Healing Bonus.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "67",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A survival formation. Upgrades raise back-row characters' Evasion and Healing Bonus.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "68",
+     "upPosDesc": "Slot 8",
+     "buffDesc": "At battle start, the Slot 8 character gains Evasion +16%",
+     "descIndex": "A survival formation. Upgrades raise back-row characters' Evasion and Healing Bonus.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 8 Evasion increased</color>"
+    },
+    {
+     "id": "69",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A survival formation. Upgrades raise back-row characters' Evasion and Healing Bonus.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 8 Evasion increased</color>"
+    },
+    {
+     "id": "70",
+     "upPosDesc": "Slot 9",
+     "buffDesc": "At battle start, the Slot 9 character gains Healing Bonus +20%",
+     "descIndex": "A survival formation. Upgrades raise back-row characters' Evasion and Healing Bonus.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 8 Evasion increased; Slot 9 Healing Bonus increased</color>"
+    },
+    {
+     "id": "71",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A brute-force damage formation. Upgrades raise back-row characters' Crit Rate and Crit Damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "72",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A brute-force damage formation. Upgrades raise back-row characters' Crit Rate and Crit Damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "73",
+     "upPosDesc": "Slot 9",
+     "buffDesc": "At battle start, the Slot 9 character gains Crit +16%",
+     "descIndex": "A brute-force damage formation. Upgrades raise back-row characters' Crit Rate and Crit Damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 9 Crit increased</color>"
+    },
+    {
+     "id": "74",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "A brute-force damage formation. Upgrades raise back-row characters' Crit Rate and Crit Damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 9 Crit increased</color>"
+    },
+    {
+     "id": "75",
+     "upPosDesc": "Slot 11",
+     "buffDesc": "At battle start, the Slot 11 character gains Crit Damage +30%",
+     "descIndex": "A brute-force damage formation. Upgrades raise back-row characters' Crit Rate and Crit Damage.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 9 Crit increased; Slot 11 Crit Damage increased</color>"
+    },
+    {
+     "id": "76",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An offensive formation. Upgrades raise Pierce and Rage for characters in specific slots.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "77",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An offensive formation. Upgrades raise Pierce and Rage for characters in specific slots.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP</color>"
+    },
+    {
+     "id": "78",
+     "upPosDesc": "Slot 4",
+     "buffDesc": "At battle start, the Slot 4 character gains Pierce +16%",
+     "descIndex": "An offensive formation. Upgrades raise Pierce and Rage for characters in specific slots.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 4 Pierce increased</color>"
+    },
+    {
+     "id": "79",
+     "upPosDesc": "Whole Team",
+     "buffDesc": "",
+     "descIndex": "An offensive formation. Upgrades raise Pierce and Rage for characters in specific slots.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 4 Pierce increased</color>"
+    },
+    {
+     "id": "80",
+     "upPosDesc": "Slot 7",
+     "buffDesc": "At battle start, Slot 7 gains 15 Rage before acting in the first 3 turns (up to 2 triggers per 1 turn). When triggered on the first turn, Ultimate damage is reduced by 50% (doesn't stack, lasts 1 turn)",
+     "descIndex": "An offensive formation. Upgrades raise Pierce and Rage for characters in specific slots.\\n<color=#d14e0d>Current effect: Whole team gains Attack, Defense and HP; Slot 4 Pierce increased; Slot 7 gains 15 Rage before acting in the first 3 turns (up to 2 triggers per 1 turn). When triggered on the first turn, Ultimate damage is reduced by 50% (doesn't stack, lasts 1 turn)</color>"
+    }
+   ]
+  },
   "TableFormationPassTask": {
    "key_column": "id",
    "text_columns": [
@@ -2714,6 +3260,208 @@
    ],
    "other_bundle_rows": []
   },
+  "TableHelpPowerUp": {
+   "key_column": "id",
+   "text_columns": [
+    "buffTxt"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "buffTxt": "When gaining [Dragon Scale], also gain [Scales]. At battle start, immediately gain 1 stack of [Scales]"
+    },
+    {
+     "id": "2",
+     "buffTxt": "[Scales] gained also trigger when Tenacity is 0, restoring 30% Tenacity"
+    },
+    {
+     "id": "3",
+     "buffTxt": "Ultimates in every state can stack [Scales]"
+    },
+    {
+     "id": "4",
+     "buffTxt": "Soul Jade cost -2. After using a Finisher or Ultimate for the first time, gain 10 Soul Jade."
+    },
+    {
+     "id": "5",
+     "buffTxt": "When attacked, gain 8% Tenacity Defense for each 1 Soul Jade remaining."
+    },
+    {
+     "id": "6",
+     "buffTxt": "After acting, gain 1 [Fury] energy for each 1 Soul Jade remaining. After using a [Finisher or Ultimate] in [Dragon-Human] state, if there is 20 [Fury] energy, consume it to follow up with [Drunken Dragon Bagua: Drunken Rage]. If [Drunken Dragon Bagua: Drunken Rage] hits a target whose Tenacity is 0, the target is instantly defeated. [Drunken Dragon Bagua: Drunken Rage] uses a 10-cost Finisher multiplier"
+    },
+    {
+     "id": "7",
+     "buffTxt": "In [Dragon-Human] state, attacking builds [Thunder]. When gaining [Thunder], own Speed +15% and Tenacity Break efficiency +10%; when gaining [Thunder], Crit Damage +30%. Stacks up to 3 times, lasts 3 turns."
+    },
+    {
+     "id": "8",
+     "buffTxt": "When attacking in [Dragon-Human] state, each stack of [Thunder] raises own Crit Damage by 50% of current Crit Damage, up to 3 times"
+    },
+    {
+     "id": "9",
+     "buffTxt": "In [Dragon-Human] state, when attacking a target: with 1 [Thunder], a hit adds 1 extra Tenacity Damage hit equal to 50% of total Tenacity Attack; with 2 [Thunder], attacks nullify the target's skill-damage-limiting effects and Invincibility; with 3 [Thunder], gain Sure Hit and Accuracy +100% (new servers: Accuracy only). When acting in Dragon-Human state with 3 [Thunder], gain the skill [Thunder Bagua] (0 CD, 0 cost; consumes all [Thunder] when used; 10-cost Finisher multiplier)."
+    },
+    {
+     "id": "10",
+     "buffTxt": "When gaining [Dragon Scale], also gain [Scales]. Each time [Scales] has been gained, own All Damage Bonus +200%, Final Damage Bonus +100%, Attack Bonus +300% and Accuracy +100%, stacking up to 3 times."
+    },
+    {
+     "id": "11",
+     "buffTxt": "While [Scales] are present, attacks can't be interrupted. On the first action, removes all debuffs and control effects"
+    },
+    {
+     "id": "12",
+     "buffTxt": "In the first 3 turns, after each action each [Scales] restores 10% Tenacity."
+    },
+    {
+     "id": "13",
+     "buffTxt": "Each action raises Tenacity Attack by 10%, stacking up to 3 times, lasts 3 turns."
+    },
+    {
+     "id": "14",
+     "buffTxt": "In [Dragon] state, each attack builds [Fire Dragon Energy]. Each stack of [Fire Dragon Energy] adds 10% Tenacity Damage in [Dragon] state."
+    },
+    {
+     "id": "15",
+     "buffTxt": "In [Dragon] state, with 5 stacks of [Fire Dragon Energy], after using an Ultimate, consume 5 stacks to follow up with [Flame Dragon Torch]. [Flame Dragon Torch] uses a 10-cost Finisher multiplier and adds 5 bouncing hits of extra Tenacity Damage at 120% of total Tenacity Attack, Stunning targets for 1 action, up to 2 targets."
+    },
+    {
+     "id": "16",
+     "buffTxt": "In [Human] state, skill attacks restore Tenacity, 5% each time"
+    },
+    {
+     "id": "17",
+     "buffTxt": "In [Dragon-Human] state, Tenacity Crit +30%, Tenacity Crit Damage +50%"
+    },
+    {
+     "id": "18",
+     "buffTxt": "In [Dragon] state, every attack that hits spreads 1 extra Tenacity Damage hit equal to 50% of own total Tenacity Attack to all enemies"
+    },
+    {
+     "id": "19",
+     "buffTxt": "At battle start, uses a special skill to devour all allied units. For each 1 unit devoured, gain 100% Attack, 150% Crit Damage, Tenacity Attack equal to 10% of the target's initial Attack and Tenacity equal to 65% of its max HP, up to 4 stacks. Finishers and Ultimates can also stack [Fire Dragon Energy]. If Rage is 100 after acting, immediately uses [Flame Dragon Torch], whose skill multiplier is then increased by 100%"
+    },
+    {
+     "id": "20",
+     "buffTxt": "Gain 1 extra action for every 2 units devoured, up to 2. After each action, Speed is reduced by 10% of current Speed; resets at the start of the turn. When this talent's extra actions trigger, Speed is reduced by 10% of current Speed"
+    },
+    {
+     "id": "21",
+     "buffTxt": "Gain 1 stack of [Dragon Might] after each action. When using an Ultimate with 5 stacks of [Dragon Might], consume them all to [Intimidate] the target for 1 action. When an [Intimidated] target attacks Kaido, 50% of its Tenacity Damage is lost."
+    },
+    {
+     "id": "22",
+     "buffTxt": "Gain Tenacity equal to 200% of initial HP and Tenacity Defense equal to 50% of initial Defense. While Tenacity remains, HP can't drop below 50%. Each time an attack is dodged, Accuracy +100%, stacking up to 6 times."
+    },
+    {
+     "id": "23",
+     "buffTxt": "Gain Tenacity Break equal to 50% of initial Attack, Tenacity Crit equal to initial Crit, and 150% Tenacity Crit Damage. Any initial Crit Damage above 150% is converted to Crit Damage at 60%"
+    },
+    {
+     "id": "24",
+     "buffTxt": "At battle start, Speed, Accuracy and HP +170%. After the first turn starts, Speed rises by 50% of current Speed, 3 times in a row. After each of Kaido's actions, Attack permanently rises by 35% of current Attack, Crit Damage permanently +80% and Final Damage Bonus permanently +30%, stacking up to 12 times and up to 3 times per turn."
+    },
+    {
+     "id": "25",
+     "buffTxt": "Attacks apply \"Vulnerable\". Targets with \"Vulnerable\" take 15% more Tenacity Damage, stacking up to 3 times."
+    },
+    {
+     "id": "26",
+     "buffTxt": "Before each action, each stack of \"Vulnerable\" deals extra Tenacity Damage equal to 30% of the source's total Tenacity Attack."
+    },
+    {
+     "id": "27",
+     "buffTxt": "When attacking a target with 3 stacks of \"Vulnerable\", \"Vulnerable\" immediately settles 1 extra Tenacity Damage hit."
+    }
+   ],
+   "other_bundle_rows": []
+  },
+  "TableHideTreasureEquipPool": {
+   "key_column": "equipId",
+   "text_columns": [
+    "name",
+    "intro",
+    "suitIntro"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "equipId": "1",
+     "name": "Scholar Robe",
+     "intro": "Clothes worn by scholars while studying on the Sky Island. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: All elemental resistances +300 in battle.\\nEffect 2: Elemental damage taken -25%."
+    },
+    {
+     "equipId": "2",
+     "name": "Withering Battle Coat",
+     "intro": "A coat a tribal chief always wore while ruling the tribe. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: Team Attack and Defense +2%, stacking up to 5 times.\\nEffect 2: When a teammate falls, immediately restore 10% HP."
+    },
+    {
+     "equipId": "3",
+     "name": "Knight Robe",
+     "intro": "Fine clothes a knight loves to wear in daily life. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: Armor Break trigger chance +30%.\\nEffect 2: When the character stands in the front row of the formation, damage reduction +15%."
+    },
+    {
+     "equipId": "4",
+     "name": "Slasher Uniform",
+     "intro": "A leather coat worn by a battle-hardened slasher. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: Execute effect +15%.\\nEffect 2: Defeating an enemy grants 2 Soul Jade and 10 Rage."
+    },
+    {
+     "equipId": "5",
+     "name": "Redbone Tunic",
+     "intro": "Clothes decorated with bones stained red with blood by warriors in battle. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: After entering battle, Attack and Crit Rate +5%.\\nEffect 2: Below 65% HP, immune to Stun and damage +10%."
+    },
+    {
+     "equipId": "6",
+     "name": "Warrior Armor",
+     "intro": "Clothes a warrior wore while roaming the world. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: After entering battle, Attack and HP +5%.\\nEffect 2: On the first turn, Attack, Defense and Crit Rate +10%."
+    },
+    {
+     "equipId": "7",
+     "name": "Starlight Outfit",
+     "intro": "A battle outfit formed from gathered starlight. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: Healing dealt +20%.\\nEffect 2: Own HP +10%, and healing received +15%."
+    },
+    {
+     "equipId": "8",
+     "name": "Dragon Scale Shining Armor",
+     "intro": "A battle robe decorated with the scales of a giant dragon after defeating it. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: Damage of all-target skills +10%.\\nEffect 2: Damage of each line skill +15%."
+    },
+    {
+     "equipId": "9",
+     "name": "Sentinel Uniform",
+     "intro": "The uniform a sentinel wears in battle. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: Defeating an enemy immediately restores 5% max HP.\\nEffect 2: For each 1 Soul Jade spent, gain 5 extra Rage; Ultimate damage +10%."
+    },
+    {
+     "equipId": "10",
+     "name": "Resolve Retainer's Outfit",
+     "intro": "Clothes woven from resolve. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: After entering battle, Attack and Defense +5%.\\nEffect 2: Crit Rate +10%; Speed +15% when worn by a female character."
+    },
+    {
+     "equipId": "11",
+     "name": "Duelist Armor",
+     "intro": "Armor worn by duelists in the arena, with excellent defense. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: Crit Rate +5%, Crit Damage +15%.\\nEffect 2: When your Soul Jade skills crit, there's a high chance to refund the Soul Jade spent on that skill."
+    },
+    {
+     "equipId": "12",
+     "name": "Guard Armor",
+     "intro": "Armor worn by city guards while defending their homes. As armor, it adds some Defense and HP.",
+     "suitIntro": "Effect 1: After entering battle, HP and Defense +5%.\\nEffect 2: Shield effect +30%; Defense +10% while the Shield lasts."
+    }
+   ]
+  },
   "TableHolidayActivityType": {
    "key_column": "holidayActivityType",
    "text_columns": [
@@ -2744,6 +3492,533 @@
     }
    ],
    "partial": "4/9 rows translated so far"
+  },
+  "TableHomeBuildingLev": {
+   "key_column": "id",
+   "text_columns": [
+    "attributes"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "attributes": "Home Quests claimable per day: <color=#D17b32><size=22> 3 </size></color>;Unlocks Character Rental;Unlocks the Home Exchange Shop"
+    },
+    {
+     "id": "2",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1200 </size></color>;Home Quests claimable per day: <color=#D17b32><size=22> 3 </size></color>"
+    },
+    {
+     "id": "3",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 3200 </size></color>;Home Quests claimable per day: <color=#D17b32><size=22> 4 </size></color>;Unlocks more Home scenery"
+    },
+    {
+     "id": "4",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 6800 </size></color>;Home Quests claimable per day: <color=#D17b32><size=22> 5 </size></color>"
+    },
+    {
+     "id": "5",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 12800 </size></color>;Home Quests claimable per day: <color=#D17b32><size=22> 5 </size></color>;Unlocks more Home scenery"
+    },
+    {
+     "id": "6",
+     "attributes": "Raids per day: <color=#D17b32><size=22> 3 </size></color>;Max Essence per raid: <color=#D17b32><size=22> 160 </size></color>;Unlocks the <color=#D17b32> Raid </color> feature"
+    },
+    {
+     "id": "7",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1000 </size></color>;Raids per day: <color=#D17b32><size=22> 3 </size></color>;Max Essence per raid: <color=#D17b32><size=22> 200 </size></color>;Activates battle skill <color=#D17b32> Attack Boost </color>"
+    },
+    {
+     "id": "8",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 2500 </size></color>;Raids per day: <color=#D17b32><size=22> 3 </size></color>;Max Essence per raid: <color=#D17b32><size=22> 240 </size></color>"
+    },
+    {
+     "id": "9",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 4500 </size></color>;Raids per day: <color=#D17b32><size=22> 3 </size></color>;Max Essence per raid: <color=#D17b32><size=22> 270 </size></color>;Activates battle skill <color=#D17b32> Defense Boost </color>"
+    },
+    {
+     "id": "10",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 7500 </size></color>;Raids per day: <color=#D17b32><size=22> 3 </size></color>;Max Essence per raid: <color=#D17b32><size=22> 300 </size></color>;Activates battle skill <color=#D17b32> Speed Boost </color>"
+    },
+    {
+     "id": "11",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 400 </size></color>;Essence protected when raided: <color=#D17b32><size=22> 20 </size></color>"
+    },
+    {
+     "id": "12",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1000 </size></color>;Essence protected when raided: <color=#D17b32><size=22> 30 </size></color>"
+    },
+    {
+     "id": "13",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1800 </size></color>;Essence protected when raided: <color=#D17b32><size=22> 40 </size></color>"
+    },
+    {
+     "id": "14",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 3000 </size></color>;Essence protected when raided: <color=#D17b32><size=22> 50 </size></color>"
+    },
+    {
+     "id": "15",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 4600 </size></color>;Essence protected when raided: <color=#D17b32><size=22> 60 </size></color>"
+    },
+    {
+     "id": "16",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 400 </size></color>;Character lounges: <color=#D17b32><size=22> 3 </size></color>;Dormitory Stamina recovery per hour: <color=#D17b32><size=22> 30 </size></color>"
+    },
+    {
+     "id": "17",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1000 </size></color>;Character lounges: <color=#D17b32><size=22> 3 </size></color>;Dormitory Stamina recovery per hour: <color=#D17b32><size=22> 30 </size></color>"
+    },
+    {
+     "id": "18",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1800 </size></color>;Character lounges: <color=#D17b32><size=22> 4 </size></color>;Dormitory Stamina recovery per hour: <color=#D17b32><size=22> 30 </size></color>"
+    },
+    {
+     "id": "19",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 3000 </size></color>;Character lounges: <color=#D17b32><size=22> 5 </size></color>;Dormitory Stamina recovery per hour: <color=#D17b32><size=22> 30 </size></color>"
+    },
+    {
+     "id": "20",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 4600 </size></color>;Character lounges: <color=#D17b32><size=22> 6 </size></color>;Dormitory Stamina recovery per hour: <color=#D17b32><size=22> 30 </size></color>"
+    },
+    {
+     "id": "26",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 400 </size></color>;Base Essence output per hour: <color=#D17b32><size=22> 60 </size></color>;Essence Collector max work hours per day: <color=#D17b32><size=22> 10 </size></color>;Max Essence storage: <color=#D17b32><size=22> 4000 </size></color>"
+    },
+    {
+     "id": "27",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1000 </size></color>;Base Essence output per hour: <color=#D17b32><size=22> 65 </size></color>;Essence Collector max work hours per day: <color=#D17b32><size=22> 10 </size></color>;Max Essence storage: <color=#D17b32><size=22> 8000 </size></color>"
+    },
+    {
+     "id": "28",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1800 </size></color>;Base Essence output per hour: <color=#D17b32><size=22> 70 </size></color>;Essence Collector max work hours per day: <color=#D17b32><size=22> 10 </size></color>;Max Essence storage: <color=#D17b32><size=22> 12000 </size></color>"
+    },
+    {
+     "id": "29",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 3000 </size></color>;Base Essence output per hour: <color=#D17b32><size=22> 75 </size></color>;Essence Collector max work hours per day: <color=#D17b32><size=22> 10 </size></color>;Max Essence storage: <color=#D17b32><size=22> 16000 </size></color>"
+    },
+    {
+     "id": "30",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 4600 </size></color>;Base Essence output per hour: <color=#D17b32><size=22> 80 </size></color>;Essence Collector max work hours per day: <color=#D17b32><size=22> 10 </size></color>;Max Essence storage: <color=#D17b32><size=22> 20000 </size></color>"
+    },
+    {
+     "id": "31",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 400 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 80 </size></color>;Unlocks the <color=#D17b32>Basic Diamond Bag</color> crafting recipe"
+    },
+    {
+     "id": "32",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1000 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 85 </size></color>"
+    },
+    {
+     "id": "33",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1800 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 90 </size></color>"
+    },
+    {
+     "id": "34",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 3000 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 95 </size></color>"
+    },
+    {
+     "id": "35",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 4600 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 100 </size></color>"
+    },
+    {
+     "id": "36",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 400 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 60 </size></color>;Unlocks the <color=#D17b32>Flawless Gem Box</color> crafting recipe"
+    },
+    {
+     "id": "37",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 800 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 65 </size></color>"
+    },
+    {
+     "id": "38",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1800 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 70 </size></color>"
+    },
+    {
+     "id": "39",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 3000 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 75 </size></color>"
+    },
+    {
+     "id": "40",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 4600 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 80 </size></color>"
+    },
+    {
+     "id": "41",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 400 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 90 </size></color>;Unlocks the <color=#D17b32>Common Refining Stone Bag</color> crafting recipe;Unlocks the <color=#D17b32>Ancient Bronze Ingot</color> crafting recipe"
+    },
+    {
+     "id": "42",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1000 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 100 </size></color>;Unlocks the <color=#D17b32>Tin-Iron Ingot</color> crafting recipe;<color=#D17b32>Refining Stone Bag</color> crafting recipe upgraded"
+    },
+    {
+     "id": "43",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1800 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 110 </size></color>;Unlocks the <color=#D17b32>Hero Stone, Refined Gold Ingot</color> crafting recipe;<color=#D17b32>Refining Stone Bag</color> crafting recipe upgraded"
+    },
+    {
+     "id": "44",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 3000 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 120 </size></color>;<color=#D17b32>Refining Stone Bag</color> crafting recipe upgraded"
+    },
+    {
+     "id": "45",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 4600 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 130 </size></color>;<color=#D17b32>Refining Stone Bag</color> crafting recipe upgraded"
+    },
+    {
+     "id": "46",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 400 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 110 </size></color>;Unlocks the <color=#D17b32>Common EXP Scroll Box</color> crafting recipe"
+    },
+    {
+     "id": "47",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1000 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 120 </size></color>;<color=#D17b32>EXP Scroll Box</color> crafting recipe upgraded"
+    },
+    {
+     "id": "48",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1800 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 130 </size></color>;<color=#D17b32>EXP Scroll Box</color> crafting recipe upgraded"
+    },
+    {
+     "id": "49",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 3000 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 140 </size></color>;<color=#D17b32>EXP Scroll Box</color> crafting recipe upgraded"
+    },
+    {
+     "id": "50",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 4600 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 150 </size></color>;<color=#D17b32>EXP Scroll Box</color> crafting recipe upgraded"
+    },
+    {
+     "id": "51",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 400 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 90 </size></color>;Unlocks the <color=#D17b32>Soul-Enchant Scroll</color> crafting recipe"
+    },
+    {
+     "id": "52",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1000 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 95 </size></color>"
+    },
+    {
+     "id": "53",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 1800 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 100 </size></color>"
+    },
+    {
+     "id": "54",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 3000 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 105 </size></color>"
+    },
+    {
+     "id": "55",
+     "attributes": "Building Prosperity: <color=#D17b32><size=22> 4600 </size></color>;Base Work Progress from production: <color=#D17b32><size=22> 110 </size></color>"
+    },
+    {
+     "id": "56",
+     "attributes": "Base Essence output per hour: <color=#D17b32><size=22> 60 </size></color>;Essence Collector max work hours per day: <color=#D17b32><size=22> 10 </size></color>;Max Essence storage: <color=#D17b32><size=22> 4000 </size></color>;Essence in the Advanced Essence Collector <color=#d27530>can't be raided</color>"
+    },
+    {
+     "id": "57",
+     "attributes": "Base Essence output per hour: <color=#D17b32><size=22> 70 </size></color>;Essence Collector max work hours per day: <color=#D17b32><size=22> 10 </size></color>;Max Essence storage: <color=#D17b32><size=22> 8000 </size></color>;Essence in the Advanced Essence Collector <color=#d27530>can't be raided</color>"
+    },
+    {
+     "id": "58",
+     "attributes": "Base Essence output per hour: <color=#D17b32><size=22> 80 </size></color>;Essence Collector max work hours per day: <color=#D17b32><size=22> 10 </size></color>;Max Essence storage: <color=#D17b32><size=22> 12000 </size></color>;Essence in the Advanced Essence Collector <color=#d27530>can't be raided</color>"
+    },
+    {
+     "id": "59",
+     "attributes": "Base Essence output per hour: <color=#D17b32><size=22> 90 </size></color>;Essence Collector max work hours per day: <color=#D17b32><size=22> 10 </size></color>;Max Essence storage: <color=#D17b32><size=22> 16000 </size></color>;Essence in the Advanced Essence Collector <color=#d27530>can't be raided</color>"
+    },
+    {
+     "id": "60",
+     "attributes": "Base Essence output per hour: <color=#D17b32><size=22> 100 </size></color>;Essence Collector max work hours per day: <color=#D17b32><size=22> 10 </size></color>;Max Essence storage: <color=#D17b32><size=22> 20000 </size></color>;Essence in the Advanced Essence Collector <color=#d27530>can't be raided</color>"
+    }
+   ]
+  },
+  "TableIntegralHonorTechTree": {
+   "key_column": "id",
+   "text_columns": [
+    "deatil",
+    "totalDetail"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "deatil": "Shop level raised to 2, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 2"
+    },
+    {
+     "id": "2",
+     "deatil": "Daily match rewards +10%",
+     "totalDetail": "*Shop level raised to 2*Daily match rewards +10%"
+    },
+    {
+     "id": "3",
+     "deatil": "Shop level raised to 3, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->15\\n<All-Class Shard Choice Box>  Purchase limit 10-->20*Daily match rewards +10%"
+    },
+    {
+     "id": "4",
+     "deatil": "Daily match rewards +30%",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->15\\n<All-Class Shard Choice Box>  Purchase limit 10-->20*Daily match rewards +30%"
+    },
+    {
+     "id": "5",
+     "deatil": "Shop level raised to 4, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->2\\n<All-Class Shard Choice Box>  Purchase limit 10-->30*Daily match rewards +30%"
+    },
+    {
+     "id": "6",
+     "deatil": "Daily match rewards +50%",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->2\\n<All-Class Shard Choice Box>  Purchase limit 10-->30*Daily match rewards +50%"
+    },
+    {
+     "id": "7",
+     "deatil": "Daily match rewards +70%",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->2\\n<All-Class Shard Choice Box>  Purchase limit 10-->30*Daily match rewards +70%"
+    },
+    {
+     "id": "8",
+     "deatil": "Purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->25\\n<Equipment Choice Chest>  Purchase limit 1-->3\\n<All-Class Shard Choice Box>  Purchase limit 10-->40*Daily match rewards +70%"
+    },
+    {
+     "id": "9",
+     "deatil": "Daily match rewards +100%",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->25\\n<Equipment Choice Chest>  Purchase limit 1-->3\\n<All-Class Shard Choice Box>  Purchase limit 10-->40*Daily match rewards +100%"
+    },
+    {
+     "id": "10",
+     "deatil": "Shop level raised to 5, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 5*<Lv8 Gem Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->30\\n<Basic Soul Refining Stone>  Purchase limit 10-->20\\n<Combat Strategy Plans>  Purchase limit 10-->20\\n<Naval Strategy Plans>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->4\\n<All-Class Shard Choice Box>  Purchase limit 10-->50*Daily match rewards +100%"
+    },
+    {
+     "id": "11",
+     "deatil": "Shop level raised to 2, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 2"
+    },
+    {
+     "id": "12",
+     "deatil": "Daily match rewards +10%",
+     "totalDetail": "*Shop level raised to 2*Daily match rewards +10%"
+    },
+    {
+     "id": "13",
+     "deatil": "Shop level raised to 3, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->15\\n<All-Class Shard Choice Box>  Purchase limit 10-->20*Daily match rewards +10%"
+    },
+    {
+     "id": "14",
+     "deatil": "Daily match rewards +30%",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->15\\n<All-Class Shard Choice Box>  Purchase limit 10-->20*Daily match rewards +30%"
+    },
+    {
+     "id": "15",
+     "deatil": "Shop level raised to 4, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->2\\n<All-Class Shard Choice Box>  Purchase limit 10-->30*Daily match rewards +30%"
+    },
+    {
+     "id": "16",
+     "deatil": "Daily match rewards +50%",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->2\\n<All-Class Shard Choice Box>  Purchase limit 10-->30*Daily match rewards +50%"
+    },
+    {
+     "id": "17",
+     "deatil": "Daily match rewards +70%",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->2\\n<All-Class Shard Choice Box>  Purchase limit 10-->30*Daily match rewards +70%"
+    },
+    {
+     "id": "18",
+     "deatil": "Purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->25\\n<Equipment Choice Chest>  Purchase limit 1-->3\\n<All-Class Shard Choice Box>  Purchase limit 10-->40*Daily match rewards +70%"
+    },
+    {
+     "id": "19",
+     "deatil": "Daily match rewards +100%",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->25\\n<Equipment Choice Chest>  Purchase limit 1-->3\\n<All-Class Shard Choice Box>  Purchase limit 10-->40*Daily match rewards +100%"
+    },
+    {
+     "id": "20",
+     "deatil": "Shop level raised to 5, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 5*<Lv8 Gem Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->30\\n<Basic Soul Refining Stone>  Purchase limit 10-->20\\n<Combat Strategy Plans>  Purchase limit 10-->20\\n<Naval Strategy Plans>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->4\\n<All-Class Shard Choice Box>  Purchase limit 10-->50*Daily match rewards +100%"
+    },
+    {
+     "id": "21",
+     "deatil": "Shop level raised to 2, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 2"
+    },
+    {
+     "id": "22",
+     "deatil": "Daily match rewards +10%",
+     "totalDetail": "*Shop level raised to 2*Daily match rewards +10%"
+    },
+    {
+     "id": "23",
+     "deatil": "Shop level raised to 3, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->15\\n<All-Class Shard Choice Box>  Purchase limit 10-->20*Daily match rewards +10%"
+    },
+    {
+     "id": "24",
+     "deatil": "Daily match rewards +30%",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->15\\n<All-Class Shard Choice Box>  Purchase limit 10-->20*Daily match rewards +30%"
+    },
+    {
+     "id": "25",
+     "deatil": "Shop level raised to 4, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->2\\n<All-Class Shard Choice Box>  Purchase limit 10-->30*Daily match rewards +30%"
+    },
+    {
+     "id": "26",
+     "deatil": "Daily match rewards +50%",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->2\\n<All-Class Shard Choice Box>  Purchase limit 10-->30*Daily match rewards +50%"
+    },
+    {
+     "id": "27",
+     "deatil": "Daily match rewards +70%",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->2\\n<All-Class Shard Choice Box>  Purchase limit 10-->30*Daily match rewards +70%"
+    },
+    {
+     "id": "28",
+     "deatil": "Purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->25\\n<Equipment Choice Chest>  Purchase limit 1-->3\\n<All-Class Shard Choice Box>  Purchase limit 10-->40*Daily match rewards +70%"
+    },
+    {
+     "id": "29",
+     "deatil": "Daily match rewards +100%",
+     "totalDetail": "*Shop level raised to 4*<Lv8 Gem Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->25\\n<Equipment Choice Chest>  Purchase limit 1-->3\\n<All-Class Shard Choice Box>  Purchase limit 10-->40*Daily match rewards +100%"
+    },
+    {
+     "id": "30",
+     "deatil": "Shop level raised to 5, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 5*<Lv8 Gem Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Soul Search Ticket>  Purchase limit 3-->5\\n<Reforge Rune Stone>  Purchase limit 10-->30\\n<Basic Soul Refining Stone>  Purchase limit 10-->20\\n<Combat Strategy Plans>  Purchase limit 10-->20\\n<Naval Strategy Plans>  Purchase limit 10-->20\\n<Equipment Choice Chest>  Purchase limit 1-->4\\n<All-Class Shard Choice Box>  Purchase limit 10-->50*Daily match rewards +100%"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "deatil": "Shop level raised to 2",
+     "totalDetail": "*Shop level raised to 2"
+    },
+    {
+     "id": "3",
+     "deatil": "Shop level raised to 3, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Hero Stone>  Purchase limit 5-->15\\n<Refining Stone>  Purchase limit 50-->150\\n<Advanced Potion Choice Pack>  Purchase limit 1-->3*Daily match rewards +10%"
+    },
+    {
+     "id": "4",
+     "deatil": "Daily match rewards +30%",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Hero Stone>  Purchase limit 5-->15\\n<Refining Stone>  Purchase limit 50-->150\\n<Advanced Potion Choice Pack>  Purchase limit 1-->3*Daily match rewards +30%"
+    },
+    {
+     "id": "5",
+     "deatil": "Shop level raised to 4, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->25\\n<Refining Stone>  Purchase limit 50-->250\\n<Advanced Potion>  Choice Pack purchase limit 1-->5*Daily match rewards +30%"
+    },
+    {
+     "id": "6",
+     "deatil": "Daily match rewards +50%",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->25\\n<Refining Stone>  Purchase limit 50-->250\\n<Advanced Potion Choice Pack>  Purchase limit 1-->5*Daily match rewards +50%"
+    },
+    {
+     "id": "7",
+     "deatil": "Daily match rewards +70%",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->25\\n<Refining Stone>  Purchase limit 50-->250\\n<Advanced Potion Choice Pack>  Purchase limit 1-->5*Daily match rewards +70%"
+    },
+    {
+     "id": "8",
+     "deatil": "Purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->40\\n<Refining Stone>  Purchase limit 50-->400\\n<Advanced Potion Choice Pack>  Purchase limit 1-->8\\n<Universal Formation Fragment>  Purchase limit 10-->20*Daily match rewards +70%"
+    },
+    {
+     "id": "9",
+     "deatil": "Daily match rewards +100%",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->40\\n<Refining Stone>  Purchase limit 50-->400\\n<Advanced Potion Choice Pack>  Purchase limit 1-->8\\n<Universal Formation Fragment>  Purchase limit 10-->20*Daily match rewards +100%"
+    },
+    {
+     "id": "10",
+     "deatil": "Purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->4\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->50\\n<Refining Stone>  Purchase limit 50-->500\\n<Advanced Potion Choice Pack>  Purchase limit 1-->10\\n<Universal Formation Fragment>  Purchase limit 10-->30*Daily match rewards +100%"
+    },
+    {
+     "id": "11",
+     "deatil": "Shop level raised to 2",
+     "totalDetail": "*Shop level raised to 2"
+    },
+    {
+     "id": "13",
+     "deatil": "Shop level raised to 3, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Hero Stone>  Purchase limit 5-->15\\n<Refining Stone>  Purchase limit 50-->150\\n<Advanced Potion Choice Pack>  Purchase limit 1-->3*Daily match rewards +10%"
+    },
+    {
+     "id": "14",
+     "deatil": "Daily match rewards +30%",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Hero Stone>  Purchase limit 5-->15\\n<Refining Stone>  Purchase limit 50-->150\\n<Advanced Potion Choice Pack>  Purchase limit 1-->3*Daily match rewards +30%"
+    },
+    {
+     "id": "15",
+     "deatil": "Shop level raised to 4, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->25\\n<Refining Stone>  Purchase limit 50-->250\\n<Advanced Potion>  Choice Pack purchase limit 1-->5*Daily match rewards +30%"
+    },
+    {
+     "id": "16",
+     "deatil": "Daily match rewards +50%",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->25\\n<Refining Stone>  Purchase limit 50-->250\\n<Advanced Potion Choice Pack>  Purchase limit 1-->5*Daily match rewards +50%"
+    },
+    {
+     "id": "17",
+     "deatil": "Daily match rewards +70%",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->25\\n<Refining Stone>  Purchase limit 50-->250\\n<Advanced Potion Choice Pack>  Purchase limit 1-->5*Daily match rewards +70%"
+    },
+    {
+     "id": "18",
+     "deatil": "Purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->40\\n<Refining Stone>  Purchase limit 50-->400\\n<Advanced Potion Choice Pack>  Purchase limit 1-->8\\n<Universal Formation Fragment>  Purchase limit 10-->20*Daily match rewards +70%"
+    },
+    {
+     "id": "19",
+     "deatil": "Daily match rewards +100%",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->40\\n<Refining Stone>  Purchase limit 50-->400\\n<Advanced Potion Choice Pack>  Purchase limit 1-->8\\n<Universal Formation Fragment>  Purchase limit 10-->20*Daily match rewards +100%"
+    },
+    {
+     "id": "20",
+     "deatil": "Purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->4\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->50\\n<Refining Stone>  Purchase limit 50-->500\\n<Advanced Potion Choice Pack>  Purchase limit 1-->10\\n<Universal Formation Fragment>  Purchase limit 10-->30*Daily match rewards +100%"
+    },
+    {
+     "id": "21",
+     "deatil": "Shop level raised to 2",
+     "totalDetail": "*Shop level raised to 2"
+    },
+    {
+     "id": "23",
+     "deatil": "Shop level raised to 3, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Hero Stone>  Purchase limit 5-->15\\n<Refining Stone>  Purchase limit 50-->150\\n<Advanced Potion Choice Pack>  Purchase limit 1-->3*Daily match rewards +10%"
+    },
+    {
+     "id": "24",
+     "deatil": "Daily match rewards +30%",
+     "totalDetail": "*Shop level raised to 3*<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Hero Stone>  Purchase limit 5-->15\\n<Refining Stone>  Purchase limit 50-->150\\n<Advanced Potion Choice Pack>  Purchase limit 1-->3*Daily match rewards +30%"
+    },
+    {
+     "id": "25",
+     "deatil": "Shop level raised to 4, purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->25\\n<Refining Stone>  Purchase limit 50-->250\\n<Advanced Potion>  Choice Pack purchase limit 1-->5*Daily match rewards +30%"
+    },
+    {
+     "id": "26",
+     "deatil": "Daily match rewards +50%",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->25\\n<Refining Stone>  Purchase limit 50-->250\\n<Advanced Potion Choice Pack>  Purchase limit 1-->5*Daily match rewards +50%"
+    },
+    {
+     "id": "27",
+     "deatil": "Daily match rewards +70%",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->2\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->25\\n<Refining Stone>  Purchase limit 50-->250\\n<Advanced Potion Choice Pack>  Purchase limit 1-->5*Daily match rewards +70%"
+    },
+    {
+     "id": "28",
+     "deatil": "Purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->40\\n<Refining Stone>  Purchase limit 50-->400\\n<Advanced Potion Choice Pack>  Purchase limit 1-->8\\n<Universal Formation Fragment>  Purchase limit 10-->20*Daily match rewards +70%"
+    },
+    {
+     "id": "29",
+     "deatil": "Daily match rewards +100%",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->3\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->40\\n<Refining Stone>  Purchase limit 50-->400\\n<Advanced Potion Choice Pack>  Purchase limit 1-->8\\n<Universal Formation Fragment>  Purchase limit 10-->20*Daily match rewards +100%"
+    },
+    {
+     "id": "30",
+     "deatil": "Purchase limits for unlocked items increased",
+     "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->4\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->50\\n<Refining Stone>  Purchase limit 50-->500\\n<Advanced Potion Choice Pack>  Purchase limit 1-->10\\n<Universal Formation Fragment>  Purchase limit 10-->30*Daily match rewards +100%"
+    }
+   ]
   },
   "TableIntegralZoneName": {
    "key_column": "id",
@@ -6491,6 +7766,509 @@
     }
    ]
   },
+  "TableReputationReward": {
+   "key_column": "id",
+   "text_columns": [
+    "name",
+    "desc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>500</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "2",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>1500</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>5</color> Basic Refining Stones"
+    },
+    {
+     "id": "3",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3500</color>. Open to get <color=#CD0000>50</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "4",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>10500</color>. Open to get a <color=#CD0000>Sprint Training Book</color>"
+    },
+    {
+     "id": "5",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>800</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "6",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>2300</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>10</color> Basic Refining Stones"
+    },
+    {
+     "id": "7",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>4800</color>. Open to get <color=#CD0000>100</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "8",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>16000</color>. Open to get the SR hero <color=#CD0000>Chopper</color>"
+    },
+    {
+     "id": "9",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>1000</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "10",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>4</color> Mid Refining Stones"
+    },
+    {
+     "id": "11",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>6600</color>. Open to get <color=#CD0000>200</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "12",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>24600</color>. Open to get a <color=#CD0000>Lv40 Hero Set Chest</color>"
+    },
+    {
+     "id": "13",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>1500</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "14",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>4500</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>5</color> Mid Refining Stones"
+    },
+    {
+     "id": "15",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9900</color>. Open to get <color=#CD0000>400</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "16",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>38100</color>. Open to get a <color=#CD0000>Lv40 Hero Set Chest</color>"
+    },
+    {
+     "id": "17",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>1500</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "18",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>4500</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>5</color> Advanced Refining Stones"
+    },
+    {
+     "id": "19",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9900</color>. Open to get <color=#CD0000>400</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "20",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>38100</color>. Open to get a <color=#CD0000>Lv60 Common Set Chest</color>"
+    },
+    {
+     "id": "21",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "22",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9000</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>2</color> Super Refining Stones"
+    },
+    {
+     "id": "23",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>19800</color>. Open to get <color=#CD0000>400</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "24",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>60600</color>. Open to get the <color=#CD0000>Hunter Formation</color>"
+    },
+    {
+     "id": "25",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "26",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9000</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>2</color> Lv80 Gear Socket Stones"
+    },
+    {
+     "id": "27",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>19800</color>. Open to get <color=#CD0000>400</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "28",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>60600</color>. Open to get the <color=#CD0000>Starlight Ring (Hero) and Starlight Necklace (Hero)</color>"
+    },
+    {
+     "id": "29",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>500</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "30",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>1500</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>5</color> Basic Refining Stones"
+    },
+    {
+     "id": "31",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3500</color>. Open to get <color=#CD0000>50</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "32",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>10500</color>. Open to get a <color=#CD0000>Lv20 Hero Set Chest</color>"
+    },
+    {
+     "id": "33",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>500</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "34",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>1500</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>5</color> Basic Refining Stones"
+    },
+    {
+     "id": "35",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3500</color>. Open to get <color=#CD0000>50</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "36",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>10500</color>. Open to get a <color=#CD0000>Lv20 Hero Set Chest</color>"
+    },
+    {
+     "id": "37",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "38",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9000</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>2</color> Lv100 Gear Socket Stones"
+    },
+    {
+     "id": "39",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>19800</color>. Open to get <color=#CD0000>400</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "40",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>60600</color>. Open to get the <color=#CD0000>Admiral Weapon (Hero) and Admiral Necklace (Hero)</color>"
+    },
+    {
+     "id": "41",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "42",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9000</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>2</color> Lv100 Gear Socket Stones"
+    },
+    {
+     "id": "43",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>19800</color>. Open to get <color=#CD0000>400</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "44",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>60600</color>. Open to get the <color=#CD0000>Admiral Armor (Hero) and Admiral Ring (Hero)</color>"
+    },
+    {
+     "id": "45",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>10</color> Master EXP Scrolls"
+    },
+    {
+     "id": "46",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9000</color>. Open to get <color=#CD0000>5</color> Ultimate Skill Books and <color=#CD0000>2</color> Holy Light Stones"
+    },
+    {
+     "id": "47",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>19800</color>. Open to get <color=#CD0000>500</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "48",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>60600</color>. Open to get <color=#CD0000>2 Lv100 Select Set Boxes</color>"
+    },
+    {
+     "id": "49",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>10</color> Master EXP Scrolls"
+    },
+    {
+     "id": "50",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9000</color>. Open to get <color=#CD0000>5</color> Ultimate Skill Books and <color=#CD0000>2</color> Holy Light Stones"
+    },
+    {
+     "id": "51",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>19800</color>. Open to get <color=#CD0000>500</color> Blue Diamonds and unlock <color=#CD0000>Dispatch</color> in the current region"
+    },
+    {
+     "id": "52",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>60600</color>. Open to get <color=#CD0000>2 Lv100 Select Set Boxes</color>"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "3",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3500</color>. Open to get <color=#CD0000>50</color> Blue Diamonds"
+    },
+    {
+     "id": "5",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>10500</color>. Open to get a <color=#CD0000>Sprint Training Book</color>"
+    },
+    {
+     "id": "6",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>800</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "7",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>2300</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>10</color> Basic Refining Stones"
+    },
+    {
+     "id": "8",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>4800</color>. Open to get <color=#CD0000>100</color> Blue Diamonds"
+    },
+    {
+     "id": "10",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>16000</color>. Open to get the SR hero <color=#CD0000>Chopper</color>"
+    },
+    {
+     "id": "11",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>1000</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "12",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>4</color> Mid Refining Stones"
+    },
+    {
+     "id": "13",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>6600</color>. Open to get <color=#CD0000>200</color> Blue Diamonds"
+    },
+    {
+     "id": "15",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>24600</color>. Open to get a <color=#CD0000>Lv40 Hero Set Chest</color>"
+    },
+    {
+     "id": "16",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>1500</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "17",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>4500</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>5</color> Mid Refining Stones"
+    },
+    {
+     "id": "18",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9900</color>. Open to get <color=#CD0000>400</color> Blue Diamonds"
+    },
+    {
+     "id": "20",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>38100</color>. Open to get a <color=#CD0000>Lv40 Hero Set Chest</color>"
+    },
+    {
+     "id": "21",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>1500</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "22",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>4500</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>5</color> Advanced Refining Stones"
+    },
+    {
+     "id": "23",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9900</color>. Open to get <color=#CD0000>400</color> Blue Diamonds"
+    },
+    {
+     "id": "25",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>38100</color>. Open to get a <color=#CD0000>Lv60 Common Set Chest</color>"
+    },
+    {
+     "id": "26",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "27",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9000</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>2</color> Super Refining Stones"
+    },
+    {
+     "id": "28",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>19800</color>. Open to get <color=#CD0000>400</color> Blue Diamonds"
+    },
+    {
+     "id": "30",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>60600</color>. Open to get <color=#CD0000>20</color> Hero Stones and <color=#CD0000>10</color> Golden Battle Souls"
+    },
+    {
+     "id": "31",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "32",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9000</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>50</color> Refining Stones"
+    },
+    {
+     "id": "33",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>19800</color>. Open to get <color=#CD0000>400</color> Blue Diamonds"
+    },
+    {
+     "id": "35",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>60600</color>. Open to get <color=#CD0000>20</color> Hero Stones and <color=#CD0000>10</color> Golden Battle Souls"
+    },
+    {
+     "id": "36",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>500</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "37",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>1500</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>5</color> Basic Refining Stones"
+    },
+    {
+     "id": "38",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3500</color>. Open to get <color=#CD0000>50</color> Blue Diamonds"
+    },
+    {
+     "id": "40",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>10500</color>. Open to get a <color=#CD0000>Lv20 Hero Set Chest</color>"
+    },
+    {
+     "id": "41",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>500</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "42",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>1500</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>5</color> Basic Refining Stones"
+    },
+    {
+     "id": "43",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3500</color>. Open to get <color=#CD0000>50</color> Blue Diamonds"
+    },
+    {
+     "id": "45",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>10500</color>. Open to get a <color=#CD0000>Lv20 Hero Set Chest</color>"
+    },
+    {
+     "id": "46",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "47",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9000</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>50</color> Refining Stones"
+    },
+    {
+     "id": "48",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>19800</color>. Open to get <color=#CD0000>400</color> Blue Diamonds"
+    },
+    {
+     "id": "50",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>60600</color>. Open to get <color=#CD0000>20</color> Hero Stones and <color=#CD0000>10</color> Golden Battle Souls"
+    },
+    {
+     "id": "51",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "52",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9000</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>50</color> Refining Stones"
+    },
+    {
+     "id": "53",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>19800</color>. Open to get <color=#CD0000>400</color> Blue Diamonds"
+    },
+    {
+     "id": "55",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>60600</color>. Open to get <color=#CD0000>20</color> Hero Stones and <color=#CD0000>10</color> Golden Battle Souls"
+    },
+    {
+     "id": "56",
+     "name": "Neutral Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>3000</color>. Open to get <color=#CD0000>30000</color> Gold Bars"
+    },
+    {
+     "id": "57",
+     "name": "Friendly Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>9000</color>. Open to get <color=#CD0000>50000</color> Gold Bars and <color=#CD0000>50</color> Refining Stones"
+    },
+    {
+     "id": "58",
+     "name": "Respected Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>19800</color>. Open to get <color=#CD0000>400</color> Blue Diamonds"
+    },
+    {
+     "id": "60",
+     "name": "Exalted Pack",
+     "desc": "Claimable when Regional Prestige reaches <color=#00CD00>60600</color>. Open to get <color=#CD0000>20</color> Hero Stones and <color=#CD0000>10</color> Golden Battle Souls"
+    }
+   ]
+  },
   "TableReturnSeaSubPages": {
    "key_column": "id",
    "text_columns": [
@@ -9723,6 +11501,134 @@
    ],
    "partial": "6/25 rows translated so far"
   },
+  "TableUnionCommandHelp": {
+   "key_column": "id",
+   "text_columns": [
+    "leftIndex",
+    "rightIndex",
+    "currNameIndex"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "0",
+     "leftIndex": "Every 1000 servers form a region, and each region has 10 groups.\\n[Event Schedule]\\nSign-up: Monday, Friday.\\nSea Battle: Tuesday, Saturday evening 19:30-22:02.\\n[Basic Rules]\\n(1) A guild must reach Lv2 and have at least 30 members to sign up for Sea Battle.\\n(2) Each Guild Sea Battle season lasts 8 weeks. Points reset on the Monday of a new season.\\n(3) The system automatically matches guilds with similar points for simultaneous sea battles. Winning earns points; losing costs points.",
+     "rightIndex": "(4) Destroying all enemy warships or capturing the enemy base counts as a victory.\\n(5) Each Sea Battle lasts 30 minutes. If there's no winner after 30 minutes, the side holding more outposts wins; if both hold the same number, it's a draw.\\n(6) In a draw, both sides count as losers.\\n(7) After each Sea Battle, the guild and its members receive rewards.\\n(8) Participating guilds automatically gain 300 Guild EXP per battle, win or lose.\\n(9) Auto-Play is allowed in Sea Battle, but players on Auto-Play earn less Guild Contribution.",
+     "currNameIndex": "Guild Sea Battle Info"
+    },
+    {
+     "id": "1",
+     "leftIndex": "[Reward Rules]\\nGuild rewards:\\n(1) The winning guild gets Guild Medals, Sea Battle Points, Crystals and Guild EXP.\\n(2) The losing side gets Guild Medals, Guild EXP and Crystals.\\n(3) Base points: +50 for a win, -50 for a loss.\\n(4) Bonus points: after a win, the guild gets 1 extra point for every 6 surviving fleets.\\nPersonal rewards: after a Sea Battle, players get Guild Contribution and Sea Battle Coins; members who don't use Auto-Play get more Contribution.\\n(The extra Contribution above doesn't stack and can only be earned once per Sea Battle)",
+     "rightIndex": "Season rewards: the top 50 guilds get limited-time title rewards. Check the Sea Battle Rankings screen for details.",
+     "currNameIndex": "Guild Sea Battle Info"
+    },
+    {
+     "id": "2",
+     "leftIndex": "Sea Battle Tech Optimization\\nAfter the Sea Battle tech optimization, guild resources spent upgrading outposts are refunded\\nOutpost upgrades are removed for all outposts; once unlocked, an outpost has the strength of a max-level outpost\\nUpgrade the Command Center to get new outposts; each Command Center level unlocks new outposts.\\nGuild Leaders and Vice Leaders spend guild resources to build outposts, which go into storage for use in Sea Battle.\\nDuring outpost deployment, only built outposts can be deployed, so leaders, please build outposts in advance just in case.",
+     "rightIndex": "New Outposts (1)\\nRally Outpost: once built, it can rally a number of offline Auto-Play allies. When the rally is complete, tapping any other outpost shows a \"Charge\" button; tap it to send all rallied Auto-Play allies to the target outpost.\\nTsunami Cannon Outpost: can attack all enemy warships on the same route.",
+     "currNameIndex": "New Outpost Rules"
+    },
+    {
+     "id": "3",
+     "leftIndex": "New Outposts (2)\\nTailwind Outpost: once built, all routes adjacent to the outpost become tailwind routes, doubling the movement speed of all our warships on them\\nHeadwind Outpost: once built, all routes adjacent to the outpost become headwind routes, halving the movement speed of all enemy warships on them",
+     "rightIndex": "New Outposts (3)\\nDock Outpost: periodically builds a time-limited warship that heads for the enemy headquarters and attacks any enemies it meets.\\nAdvanced Dock Outpost: periodically builds a stronger time-limited warship that heads for the enemy headquarters and attacks any enemies it meets.",
+     "currNameIndex": "New Outpost Rules"
+    },
+    {
+     "id": "4",
+     "leftIndex": "(1) For Guild War, the Guild Leader or a Vice Leader must sign up the guild on sign-up day; after that, guild members can sign up individually.\\n(2) Only after signing up individually can you join the Sea Battle lineup, otherwise you won't be able to take part in the Sea Battle!\\n(3) To sign up individually, set your battle lineup first. You can set it once the Dock is unlocked.",
+     "rightIndex": "UnionCommandHelp_2_2;UnionCommandHelp_2_3",
+     "currNameIndex": "Sea Battle - Sign-Up"
+    },
+    {
+     "id": "5",
+     "leftIndex": "(1) A guild that meets the Sea Battle requirements can declare war.\\n(2) Only the Guild Leader or a Vice Leader can declare war.\\n(3) A guild can declare war and be declared on once every Wednesday.\\n(4) Winning a declared war earns Sea Battle Medals, Guild Crystals, guild points and personal Contribution.\\n(5) If no one declares war on your guild, the next day's rewards for that round are given as a win.\\n(6) While a declaration is active, you can't kick members, disband the guild and so on, and members can't leave the guild.",
+     "rightIndex": "UnionCommandHelp_10_2",
+     "currNameIndex": "Guild War Declaration Info"
+    },
+    {
+     "id": "6",
+     "leftIndex": "(1) After the guild signs up, the matchups are announced after 0:00 the next day, and the Guild Leader or Vice Leaders can make Sea Battle preparations on the Sea Battle Deployment screen!\\n(2) The Guild Leader and Vice Leaders must go to Sea Battle Deployment in the Command Center to plan the coming battle. Deployment has two stages: personnel deployment and outpost deployment. When deploying personnel, Vice Leaders can only use Quick Deploy, which deploys signed-up members from highest to lowest Power. Vice Leaders can't deploy outposts.\\n(3) Members set for battle in personnel deployment take part in the Sea Battle. Members not deployed won't fight, but can still enter the battlefield to spectate and get the same Sea Battle rewards as deployed members.\\n(4) In outpost deployment you can choose which outpost techs to bring; outpost techs can upgrade normal outposts during battle!",
+     "rightIndex": "UnionCommandHelp_3_2;UnionCommandHelp_3_3",
+     "currNameIndex": "Sea Battle - Deployment"
+    },
+    {
+     "id": "7",
+     "leftIndex": "(1) In Battle Settings you can adjust the crew and warships you use in Sea Battle.\\n(2) Each member can set two fleets. The 1st Fleet sails first in Sea Battle, and the 2nd Fleet sails after the 1st Fleet is defeated.\\n(3) In each Sea Battle round, once all your fleets are defeated, you get one reorganization, after which your fleets can sail again.\\n(4) After reorganization, if only one fleet was set, only one fleet can sail again.",
+     "rightIndex": "UnionCommandHelp_4_2;UnionCommandHelp_4_3",
+     "currNameIndex": "Sea Battle - Personal"
+    },
+    {
+     "id": "8",
+     "leftIndex": "(1) Once the Sea Battle opens, members can enter! Deployed members can fight, and other members can spectate.\\n(2) Members can enter via the \"Enter Sea Battle\" button in the Command Center or on the main screen.\\n(3) Deployed captains can control their warships, and captains not deployed can still spectate!",
+     "rightIndex": "UnionCommandHelp_4_2;UnionCommandHelp_5_2",
+     "currNameIndex": "Sea Battle - Battle"
+    },
+    {
+     "id": "9",
+     "leftIndex": "(1) The battlefield is split into the Blue side and the Red side, so captains, know your color!\\n(2) The base is the most important thing on the battlefield. If the enemy captures it, you lose immediately!\\n(3) Each route can only hold so many warships, so plan your routes well.\\n(4) Captured outposts must be garrisoned; an ungarrisoned outpost turns neutral.\\n(5) Normal outposts can be upgraded into advanced functional outposts. The Guild Leader must set techs in Sea Battle Deployment before the battle.\\n(6) Each upgrade tech brought can only be used 1 time, and only normal outposts can be upgraded.\\n(7) The Guild Leader or a Vice Leader can upgrade outposts. The upgrader must stay garrisoned in the outpost until the upgrade finishes; leaving midway makes it fail.",
+     "rightIndex": "UnionCommandHelp_6_2;UnionCommandHelp_6_3",
+     "currNameIndex": "Sea Battle - Battlefield"
+    },
+    {
+     "id": "10",
+     "leftIndex": "(1) During Sea Battle you can still chat with friends outside or in World chat. Tap the battle status at the bottom left to open the chat box!\\n(2) Battle Replay lets you view the battles fought in this Sea Battle, and you can enter the battle scene to watch them.\\n(3) If you're still unsure about outposts and routes, the Help button may help.\\n(4) The Auto-Play button makes your warships sail automatically, but we don't recommend it, since it may reduce the Guild Contribution you earn in the end.\\n(5) The button at the bottom right of the screen quickly finds your own warships.",
+     "rightIndex": "UnionCommandHelp_7_2",
+     "currNameIndex": "Sea Battle - Interface"
+    },
+    {
+     "id": "11",
+     "leftIndex": "(1) You can open the Settings screen during Sea Battle to adjust sound settings.\\n(2) Only Free Talk, Hide UI and Play Sea Battle Voice differ from the regular settings.\\n(3) Free Talk only works for the Guild Leader and Vice Leaders; other members can't give voice commands in Sea Battle.\\n(4) We recommend turning on Play Sea Battle Voice so you can follow commands and raise your chance of winning.\\n(5) Hide UI lets you better feel the might of the Sea Battle.",
+     "rightIndex": "UnionCommandHelp_8_2;UnionCommandHelp_8_3",
+     "currNameIndex": "Sea Battle - Settings"
+    },
+    {
+     "id": "12",
+     "leftIndex": "(1) After the Sea Battle ends, the results screen appears, with detailed battle info in the middle.\\n(2) The bottom shows this Sea Battle's rewards and penalties.\\n(3) There are 4 results: Great Victory, Victory, Draw and Defeat.\\n(4) Great Victory means your side won with more than half of all its warships remaining.\\n(5) A Draw means the battle lasted 30 minutes and both sides held the same number of outposts.",
+     "rightIndex": "UnionCommandHelp_9_2;UnionCommandHelp_9_3",
+     "currNameIndex": "Sea Battle - Results"
+    },
+    {
+     "id": "13",
+     "leftIndex": "(1) Sea Battle also has Support.\\nIn Sea Battle, when deploying the 1st and 2nd Fleets, you also need to deploy each fleet's support lineup.\\nThe 1st and 2nd Fleets can't share support characters, and their support effects don't affect each other.",
+     "rightIndex": "(2) Some support effects are affected by warships.\\nFor example, Hogback's support effect doesn't work when Blackbeard's Raft is deployed.",
+     "currNameIndex": "Sea Battle - Support"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "0",
+     "leftIndex": "Every 1000 servers form a region, and each region has 10 groups.\\n[Event Schedule]\\nSign-up: Monday, Wednesday, Friday.\\nSea Battle: Tuesday, Thursday, Saturday, 12:30-15:02 at noon and 19:30-22:02 in the evening.\\n[Basic Rules]\\n(1) A guild must reach Lv2 and have at least 30 members to sign up for Sea Battle.\\n(2) Each Guild Sea Battle season lasts 8 weeks. Points reset on the Monday of a new season.\\n(3) The system automatically matches guilds with similar points for simultaneous sea battles. Winning earns points; losing costs points.",
+     "rightIndex": "(4) Destroying all enemy warships or capturing the enemy base counts as a victory.\\n(5) Each Sea Battle lasts 30 minutes. If there's no winner after 30 minutes, the side holding more outposts wins; if both hold the same number, it's a draw.\\n(6) In a draw, both sides count as losers.\\n(7) After each Sea Battle, the guild and its members receive rewards.\\n(8) Participating guilds automatically gain 300 Guild EXP per battle, win or lose.\\n(9) Auto-Play is allowed in Sea Battle, but players on Auto-Play earn less Guild Contribution.",
+     "currNameIndex": "Guild Sea Battle Info"
+    },
+    {
+     "id": "1",
+     "leftIndex": "[Reward Rules]\\nGuild rewards:\\n(1) The winning guild gets Guild Medals, Sea Battle Points, Crystals, Guild EXP and Sea Battle auction items (which can be auctioned at the Sea Battle Auction House).\\n(2) The losing side gets Guild Medals, Guild EXP and Crystals.\\n(3) Base points: +50 for a win, -50 for a loss.\\n(4) Bonus points: after a win, the guild gets 1 extra point for every 6 surviving fleets.\\nPersonal rewards: after a Sea Battle, players get base Contribution: 150 for a win, 100 for a loss, and members who don't use Auto-Play get an extra 30.\\n(The extra Contribution above doesn't stack and can only be earned once per Sea Battle)",
+     "rightIndex": "Season rewards: the top 50 guilds get limited-time title rewards. Check the Sea Battle Rankings screen for details.",
+     "currNameIndex": "Guild Sea Battle Info"
+    },
+    {
+     "id": "5",
+     "leftIndex": "(1) A guild that meets the Sea Battle requirements can declare war.\\n(2) Only the Guild Leader or a Vice Leader can declare war.\\n(3) A guild can declare war and be declared on once every Friday.\\n(4) Winning a declared war earns Sea Battle Medals, Guild Crystals, guild points, Sea Battle auctions and personal Contribution.\\n(5) If no one declares war on your guild, the next day's rewards for that round are given as a win, and a declaration auction opens after Sea Battle day ends.\\n(6) While a declaration is active, you can't kick members, disband the guild and so on, and members can't leave the guild.",
+     "rightIndex": "UnionCommandHelp_10_2",
+     "currNameIndex": "Guild War Declaration Info"
+    },
+    {
+     "id": "6",
+     "leftIndex": "(1) After the guild signs up, the matchups are announced at 0:00 the next day, and the Guild Leader or Vice Leaders can make Sea Battle preparations on the Sea Battle Deployment screen!\\n(2) The Guild Leader and Vice Leaders must go to Sea Battle Deployment in the Command Center to plan the coming battle. Deployment has two stages: personnel deployment and outpost deployment. When deploying personnel, Vice Leaders can only use Quick Deploy, which deploys signed-up members from highest to lowest Power. Vice Leaders can't deploy outposts.\\n(3) Members set for battle in personnel deployment take part in the Sea Battle. Members not deployed won't fight, but can still enter the battlefield to spectate and get the same Sea Battle rewards as deployed members.\\n(4) In outpost deployment you can choose which outpost techs to bring; outpost techs can upgrade normal outposts during battle!",
+     "rightIndex": "UnionCommandHelp_3_2;UnionCommandHelp_3_3",
+     "currNameIndex": "Sea Battle - Deployment"
+    },
+    {
+     "id": "12",
+     "leftIndex": "(1) After the Sea Battle ends, the results screen appears, with detailed battle info in the middle.\\n(2) The bottom shows this Sea Battle's rewards and penalties.\\n(3) There are 4 results: Great Victory, Victory, Draw and Defeat.\\n(4) Great Victory means your side won with more than half of all its warships remaining.\\n(5) A Draw means the battle lasted 30 minutes and both sides held the same number of outposts; a Draw's rewards and penalties are the same as a Defeat's.",
+     "rightIndex": "UnionCommandHelp_9_2;UnionCommandHelp_9_3",
+     "currNameIndex": "Sea Battle - Results"
+    }
+   ]
+  },
   "TableUnionPrayFrag": {
    "key_column": "id",
    "text_columns": [
@@ -10440,6 +12346,116 @@
     {
      "id": "524",
      "rewardTypeName": "King - Guild Weekly Power Rank 4"
+    }
+   ]
+  },
+  "TableUnionSLGTechnologyLine": {
+   "key_column": "id",
+   "text_columns": [
+    "deatil",
+    "totalDetail"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "deatil": "New: In battle, HP, Attack and Defense +5%",
+     "totalDetail": "*In battle, HP, Attack and Defense +5%"
+    },
+    {
+     "id": "2",
+     "deatil": "New: Gain 1 Domination Coin per minute",
+     "totalDetail": "*In battle, HP, Attack and Defense +5%\\n*Gain 1 Domination Coin per minute"
+    },
+    {
+     "id": "3",
+     "deatil": "New: Gain 1 personal Merit per minute",
+     "totalDetail": "*In battle, HP, Attack and Defense +5%\\n*Gain 1 Domination Coin per minute\\n*Gain 1 personal Merit per minute"
+    },
+    {
+     "id": "4",
+     "deatil": "Enhanced: In battle, HP, Attack and Defense +10%",
+     "totalDetail": "*In battle, HP, Attack and Defense +10%\\n*Gain 1 Domination Coin per minute\\n*Gain 1 personal Merit per minute"
+    },
+    {
+     "id": "5",
+     "deatil": "New: Deployable teams +1",
+     "totalDetail": "*In battle, HP, Attack and Defense +10%\\n*Gain 1 Domination Coin per minute\\n*Gain 1 personal Merit per minute\\n*Deployable teams +1"
+    },
+    {
+     "id": "6",
+     "deatil": "Enhanced: In battle, HP, Attack and Defense +15%",
+     "totalDetail": "*In battle, HP, Attack and Defense +15%\\n*Gain 1 Domination Coin per minute\\n*Gain 1 personal Merit per minute\\n*Deployable teams +1"
+    },
+    {
+     "id": "7",
+     "deatil": "New: Team lock time -10%",
+     "totalDetail": "*In battle, HP, Attack and Defense +15%\\n*Gain 1 Domination Coin per minute\\n*Gain 1 personal Merit per minute\\n*Deployable teams +1\\n*Team lock time -10%"
+    },
+    {
+     "id": "8",
+     "deatil": "Enhanced: Deployable teams +2",
+     "totalDetail": "*In battle, HP, Attack and Defense +15%\\n*Gain 1 Domination Coin per minute\\n*Gain 1 personal Merit per minute\\n*Deployable teams +2\\n*Team lock time -10%"
+    },
+    {
+     "id": "9",
+     "deatil": "New: Team lock time -20%",
+     "totalDetail": "*In battle, HP, Attack and Defense +15%\\n*Gain 1 Domination Coin per minute\\n*Gain 1 personal Merit per minute\\n*Deployable teams +2\\n*Team lock time -20%"
+    },
+    {
+     "id": "10",
+     "deatil": "Enhanced: Deployable teams +3",
+     "totalDetail": "*In battle, HP, Attack and Defense +15%\\n*Gain 1 Domination Coin per minute\\n*Gain 1 personal Merit per minute\\n*Deployable teams +3\\n*Team lock time -20%"
+    },
+    {
+     "id": "11",
+     "deatil": "New: Fortress, Recovery, Command and Battery Stronghold levels in [Island Battle] +1",
+     "totalDetail": "The following are all buffs in [Island Battle]:\\nRecovery Stronghold: fleets in the stronghold restore 60 HP every 5s; doesn't stack with other HP regen effects\\nBattery Stronghold: every 5s, automatically attacks enemy warships on connected routes for 12% of their max HP\\nFortress Stronghold: fleets in the stronghold gain Attack +12% and Defense +12%\\nCommand Stronghold: fleets in the stronghold gain Attack +7%; the first connected allied normal stronghold also gains this effect"
+    },
+    {
+     "id": "12",
+     "deatil": "Enhanced: Fortress, Recovery, Command and Battery Stronghold levels in [Island Battle] +2",
+     "totalDetail": "The following are all buffs in [Island Battle]:\\nRecovery Stronghold: fleets in the stronghold restore 65 HP every 5s; doesn't stack with other HP regen effects\\nBattery Stronghold: every 5s, automatically attacks enemy warships on connected routes for 13% of their max HP\\nFortress Stronghold: fleets in the stronghold gain Attack +13% and Defense +13%\\nCommand Stronghold: fleets in the stronghold gain Attack +8%; the first connected allied normal stronghold also gains this effect"
+    },
+    {
+     "id": "13",
+     "deatil": "Enhanced: Fortress, Recovery, Command and Battery Stronghold levels in [Island Battle] +3",
+     "totalDetail": "The following are all buffs in [Island Battle]:\\nRecovery Stronghold: fleets in the stronghold restore 70 HP every 5s; doesn't stack with other HP regen effects\\nBattery Stronghold: every 5s, automatically attacks enemy warships on connected routes for 14% of their max HP\\nFortress Stronghold: fleets in the stronghold gain Attack +14% and Defense +14%\\nCommand Stronghold: fleets in the stronghold gain Attack +9%; the first connected allied normal stronghold also gains this effect"
+    },
+    {
+     "id": "14",
+     "deatil": "New: Sailing Order cap +1",
+     "totalDetail": "Sailing Order cap +1\\nThe following are all buffs in [Island Battle]:\\nRecovery Stronghold: fleets in the stronghold restore 70 HP every 5s; doesn't stack with other HP regen effects\\nBattery Stronghold: every 5s, automatically attacks enemy warships on connected routes for 14% of their max HP\\nFortress Stronghold: fleets in the stronghold gain Attack +14% and Defense +14%\\nCommand Stronghold: fleets in the stronghold gain Attack +9%; the first connected allied normal stronghold also gains this effect"
+    },
+    {
+     "id": "15",
+     "deatil": "Enhanced: Fortress, Recovery, Command and Battery Stronghold levels in [Island Battle] +4",
+     "totalDetail": "Sailing Order cap +1\\nThe following are all buffs in [Island Battle]:\\nRecovery Stronghold: fleets in the stronghold restore 75 HP every 5s; doesn't stack with other HP regen effects\\nBattery Stronghold: every 5s, automatically attacks enemy warships on connected routes for 15% of their max HP\\nFortress Stronghold: fleets in the stronghold gain Attack +15% and Defense +15%\\nCommand Stronghold: fleets in the stronghold gain Attack +10%; the first connected allied normal stronghold also gains this effect"
+    },
+    {
+     "id": "16",
+     "deatil": "Enhanced: Fortress, Recovery, Command and Battery Stronghold levels in [Island Battle] +5",
+     "totalDetail": "Sailing Order cap +1\\nThe following are all buffs in [Island Battle]:\\nRecovery Stronghold: fleets in the stronghold restore 80 HP every 5s; doesn't stack with other HP regen effects\\nBattery Stronghold: every 5s, automatically attacks enemy warships on connected routes for 16% of their max HP\\nFortress Stronghold: fleets in the stronghold gain Attack +16% and Defense +16%\\nCommand Stronghold: fleets in the stronghold gain Attack +11%; the first connected allied normal stronghold also gains this effect"
+    },
+    {
+     "id": "17",
+     "deatil": "Enhanced: Sailing Order cap +2",
+     "totalDetail": "Sailing Order cap +2\\nThe following are all buffs in [Island Battle]:\\nRecovery Stronghold: fleets in the stronghold restore 80 HP every 5s; doesn't stack with other HP regen effects\\nBattery Stronghold: every 5s, automatically attacks enemy warships on connected routes for 16% of their max HP\\nFortress Stronghold: fleets in the stronghold gain Attack +16% and Defense +16%\\nCommand Stronghold: fleets in the stronghold gain Attack +11%; the first connected allied normal stronghold also gains this effect"
+    },
+    {
+     "id": "18",
+     "deatil": "Enhanced: Fortress, Recovery, Command and Battery Stronghold levels in [Island Battle] +6",
+     "totalDetail": "Sailing Order cap +2\\nThe following are all buffs in [Island Battle]:\\nRecovery Stronghold: fleets in the stronghold restore 85 HP every 5s; doesn't stack with other HP regen effects\\nBattery Stronghold: every 5s, automatically attacks enemy warships on connected routes for 17% of their max HP\\nFortress Stronghold: fleets in the stronghold gain Attack +17% and Defense +17%\\nCommand Stronghold: fleets in the stronghold gain Attack +12%; the first connected allied normal stronghold also gains this effect"
+    },
+    {
+     "id": "19",
+     "deatil": "Enhanced: Fortress, Recovery, Command and Battery Stronghold levels in [Island Battle] +7",
+     "totalDetail": "Sailing Order cap +2\\nThe following are all buffs in [Island Battle]:\\nRecovery Stronghold: fleets in the stronghold restore 90 HP every 5s; doesn't stack with other HP regen effects\\nBattery Stronghold: every 5s, automatically attacks enemy warships on connected routes for 18% of their max HP\\nFortress Stronghold: fleets in the stronghold gain Attack +18% and Defense +18%\\nCommand Stronghold: fleets in the stronghold gain Attack +13%; the first connected allied normal stronghold also gains this effect"
+    },
+    {
+     "id": "20",
+     "deatil": "Enhanced: Sailing Order cap +3",
+     "totalDetail": "Sailing Order cap +3\\nThe following are all buffs in [Island Battle]:\\nRecovery Stronghold: fleets in the stronghold restore 90 HP every 5s; doesn't stack with other HP regen effects\\nBattery Stronghold: every 5s, automatically attacks enemy warships on connected routes for 18% of their max HP\\nFortress Stronghold: fleets in the stronghold gain Attack +18% and Defense +18%\\nCommand Stronghold: fleets in the stronghold gain Attack +13%; the first connected allied normal stronghold also gains this effect"
     }
    ]
   },
