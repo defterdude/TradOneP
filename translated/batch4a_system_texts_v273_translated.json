@@ -3311,6 +3311,10 @@
      "text": "Unlock Formations"
     },
     {
+     "id": "item_xingyunbi",
+     "text": "Lucky Exchange Coin"
+    },
+    {
      "id": "Revocation_VicePresident",
      "text": "Vice Leader Removed"
     },
@@ -3353,6 +3357,18 @@
     {
      "id": "Discount",
      "text": "{0}/10 Price"
+    },
+    {
+     "id": "coin_desc_1011",
+     "text": "The Arena's currency, used to buy items in the Prestige Shop."
+    },
+    {
+     "id": "coin_desc_1013",
+     "text": "The Ladder's currency, used to buy items in the Arena Shop."
+    },
+    {
+     "id": "gonghuishuijing",
+     "text": "A rare item for upgrading the guild. Buying it gives you 1200 personal Contribution and your guild 1 Crystal."
     },
     {
      "id": "signUpUF",
@@ -3419,12 +3435,40 @@
      "text": "Reforge"
     },
     {
+     "id": "coin_name_zjtz",
+     "text": "Challenge Gold Coin"
+    },
+    {
+     "id": "coin_desc_zjtz",
+     "text": "A token from the Ultimate Challenge, used to exchange for advanced items in the Challenge Shop"
+    },
+    {
+     "id": "coin_name_zjtz_1",
+     "text": "Challenge Silver Coin"
+    },
+    {
+     "id": "coin_desc_zjtz_1",
+     "text": "A token from the Ultimate Challenge, used to exchange for basic items in the Challenge Shop"
+    },
+    {
      "id": "ExpGetWay_CrawlTower",
      "text": "Voyage Tower"
     },
     {
+     "id": "UnionBounty_store",
+     "text": "Bounty Shop"
+    },
+    {
      "id": "RecommendGrowUpSkill_OLD",
      "text": "Raise skill level"
+    },
+    {
+     "id": "coin_name_hjqztz",
+     "text": "Honor Coin"
+    },
+    {
+     "id": "coin_desc_hjqztz",
+     "text": "A currency earned in the Elite Challenge, used to exchange for items in the Elite Shop. Storage cap: 100000."
     },
     {
      "id": "awakeLevelUpBtn",
@@ -3433,11 +3477,19 @@
    ],
    "other_bundle_rows": [
     {
+     "id": "UI_bulin_jin",
+     "text": "Challenge Gold Coin"
+    },
+    {
+     "id": "UI_bulin_yin",
+     "text": "Challenge Silver Coin"
+    },
+    {
      "id": "ClassicLimited_title",
      "text": "Limited Recruit"
     }
    ],
-   "partial": "68/5841 rows translated so far"
+   "partial": "81/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
@@ -4808,28 +4860,564 @@
      "text": "Thank you, I'll take good care of this herb field!"
     },
     {
+     "id": "story_BranchTask_Content_000121",
+     "text": "The Fish-Men have been taken away, but not everyone hurt back then has been treated yet. Could you gather some herbs for me?"
+    },
+    {
+     "id": "story_BranchTask_Content_000122",
+     "text": "That's enough for now, but I may need your help again later."
+    },
+    {
+     "id": "story_BranchTask_Content_000129",
+     "text": "Guarding the town takes strength, and training my men takes realistic battles. Can I count on you?"
+    },
+    {
+     "id": "story_BranchTask_Content_000130",
+     "text": "We lost, huh. That shows us the gap in strength!"
+    },
+    {
+     "id": "story_BranchTask_Content_000131",
+     "text": "After facing the pirates, everyone has gained a lot of combat experience. Can I ask you for a mock battle?"
+    },
+    {
+     "id": "story_BranchTask_Content_000132",
+     "text": "Lost again, huh. That shows us the gap in strength!"
+    },
+    {
+     "id": "story_BranchTask_Content_000133",
+     "text": "So everyone has spare clothes to wear, please collect some clothing in the field for me."
+    },
+    {
      "id": "story_BranchTask_Content_000134",
      "text": "Thank you."
+    },
+    {
+     "id": "story_BranchTask_Content_000135",
+     "text": "Back then, that pirate crew came to town and took a lot of valuables."
+    },
+    {
+     "id": "story_BranchTask_Content_000136",
+     "text": "All we can do now is search the field. Go defeat 5 Bald Pirates and see if we can get the valuables back."
+    },
+    {
+     "id": "story_BranchTask_Content_000137",
+     "text": "Looks like nothing turned up. What a shame."
+    },
+    {
+     "id": "story_BranchTask_Content_000140",
+     "text": "A customer over there thinks being a pirate means he can eat without paying. Teach him a lesson for us."
+    },
+    {
+     "id": "story_BranchTask_Content_000141",
+     "text": "Our restaurant has never been afraid of pirate trouble."
+    },
+    {
+     "id": "story_BranchTask_Content_000142",
+     "text": "More pirates came up the back deck to make trouble. Go drive them off."
     },
     {
      "id": "story_BranchTask_Content_000143",
      "text": "Thank you."
     },
     {
+     "id": "story_BranchTask_Content_000144",
+     "text": "The Fish-Men are gone, but failing to protect this place shows we weren't strong enough!"
+    },
+    {
+     "id": "story_BranchTask_Content_000145",
+     "text": "Can I ask you for a mock battle? Don't hold back!"
+    },
+    {
+     "id": "story_BranchTask_Content_000146",
+     "text": "Lost again, huh. That shows us the gap in strength!"
+    },
+    {
+     "id": "story_BranchTask_Content_000147",
+     "text": "After Arlong was taken away, I want to live in peace with the villagers, but the Fish-Men in the field will try to stop me. Please scare them off for me; we believe in different things."
+    },
+    {
      "id": "story_BranchTask_Content_000148",
      "text": "Thank you."
+    },
+    {
+     "id": "story_BranchTask_Content_000154",
+     "text": "Guarding Loguetown takes strength, and training my men takes realistic battles. Can I count on you?"
+    },
+    {
+     "id": "story_BranchTask_Content_000155",
+     "text": "Lost again, huh. That shows us the gap in strength!"
+    },
+    {
+     "id": "story_BranchTask_Content_000156",
+     "text": "We've had reports of a large group of pirates in the Arlong Park field. Could you please deal with them?"
     },
     {
      "id": "story_BranchTask_Content_000157",
      "text": "Thank you very much."
     },
     {
+     "id": "story_BranchTask_Content_000158",
+     "text": "Hey, don't you watch where you're going? You almost ran into me. So, how are you going to pay me back?"
+    },
+    {
+     "id": "story_BranchTask_Content_000159",
+     "text": "Huh? Don't want to pay? Then I'll teach you a lesson."
+    },
+    {
+     "id": "story_BranchTask_Content_000160",
+     "text": "Heh heh heh, we didn't know you were so strong. Please forgive us small fry."
+    },
+    {
+     "id": "story_BranchTask_Content_000161",
+     "text": "Pirates keep causing trouble at the execution platform lately. Please teach them a lesson!"
+    },
+    {
+     "id": "story_BranchTask_Content_000162",
+     "text": "The execution platform symbolizes the Marines' authority. Pirates won't be allowed to damage it."
+    },
+    {
+     "id": "story_BranchTask_Content_000163",
+     "text": "Since Fish-Man Pirates appeared in the Cocoyasi Village field, the supply of their local fish has dropped sharply. Could you drive off some Fish-Man Pirates?"
+    },
+    {
      "id": "story_BranchTask_Content_000164",
      "text": "Thank you."
     },
     {
+     "id": "story_BranchTask_Content_000165",
+     "text": "Please go defeat some pirates, so people are less likely to get hurt."
+    },
+    {
+     "id": "story_BranchTask_Content_000166",
+     "text": "Maybe this will be useful."
+    },
+    {
+     "id": "story_BranchTask_Content_000167",
+     "text": "Even stranded, we can't let our fighting get rusty. Can I ask you for a mock battle?"
+    },
+    {
+     "id": "story_BranchTask_Content_000168",
+     "text": "You're really strong. Thank you."
+    },
+    {
+     "id": "story_BranchTask_Content_000169",
+     "text": "I never thought I'd end up on this island too. Some pirates nearby are forcing me to be their ship's doctor. Teach them a lesson for me; I serve everyone."
+    },
+    {
+     "id": "story_BranchTask_Content_000170",
+     "text": "Thank you. If you need treatment here, come find me anytime."
+    },
+    {
+     "id": "story_BranchTask_Content_000171",
+     "text": "There are lots of bounty hunters around here. If I made them all my men, I'd be a real power when I leave, right?"
+    },
+    {
+     "id": "story_BranchTask_Content_000172",
+     "text": "Hmm... none of them want to follow me. What do I do?"
+    },
+    {
+     "id": "story_BranchTask_name_000001",
+     "text": "Marine Captain"
+    },
+    {
+     "id": "story_BranchTask_name_000002",
+     "text": "Traveler"
+    },
+    {
+     "id": "story_BranchTask_name_000003",
+     "text": "Salesperson"
+    },
+    {
+     "id": "story_BranchTask_name_000004",
+     "text": "Shopkeeper"
+    },
+    {
+     "id": "story_BranchTask_name_000006",
+     "text": "Stall Owner"
+    },
+    {
+     "id": "story_BranchTask_name_000007",
+     "text": "Tavern Server"
+    },
+    {
+     "id": "story_BranchTask_name_000009",
+     "text": "Tavern Owner"
+    },
+    {
+     "id": "story_BranchTask_name_000019",
+     "text": "Coastal Villager"
+    },
+    {
+     "id": "story_BranchTask_name_000022",
+     "text": "Ferocious Pirate"
+    },
+    {
+     "id": "story_BranchTask_name_000024",
+     "text": "Medicine Merchant"
+    },
+    {
+     "id": "story_BranchTask_name_000026",
+     "text": "Portly Fisherman"
+    },
+    {
+     "id": "story_BranchTask_name_000029",
+     "text": "Boy on the Corner"
+    },
+    {
+     "id": "story_BranchTask_name_000030",
+     "text": "Stranded Pirate"
+    },
+    {
+     "id": "story_BranchTask_name_000031",
+     "text": "Panicked Pirate"
+    },
+    {
+     "id": "story_BranchTask_name_000046",
+     "text": "Food Merchant"
+    },
+    {
+     "id": "story_Cigudao_name_001007",
+     "text": "Villager A"
+    },
+    {
+     "id": "story_Cigudao_name_001008",
+     "text": "Villager B"
+    },
+    {
+     "id": "story_Haigangtown_name_001008",
+     "text": "Zoro"
+    },
+    {
+     "id": "story_Haishangcanting_name_001002",
+     "text": "Johnny"
+    },
+    {
+     "id": "story_Haishangcanting_name_001013",
+     "text": "Luffy, Zoro, Usopp"
+    },
+    {
+     "id": "story_Loguetown_Content_001051",
+     "text": "Jackpot!"
+    },
+    {
+     "id": "story_Shuangzihaixia_Content_001056",
+     "text": "So we can get out after all!"
+    },
+    {
+     "id": "story_Shuangzihaixia_name_001010",
+     "text": "Usopp, Sanji, Nami"
+    },
+    {
+     "id": "story_TwoBranchTask_name_000001_1",
+     "text": "Delivery Worker"
+    },
+    {
+     "id": "story_TwoBranchTask_name_000003_1",
+     "text": "Pirate A"
+    },
+    {
+     "id": "story_TwoBranchTask_name_000004_1",
+     "text": "Pirate B"
+    },
+    {
+     "id": "story_TwoBranchTask_name_000005_1",
+     "text": "Thin Villager"
+    },
+    {
+     "id": "story_TwoBranchTask_name_000006_1",
+     "text": "Fisher"
+    },
+    {
+     "id": "story_TwoBranchTask_name_000008_1",
+     "text": "Construction Worker"
+    },
+    {
+     "id": "story_Weishijishan_Content_001039",
+     "text": "Finally, it's our turn to take the stage."
+    },
+    {
+     "id": "story_Weishijishan_Content_001045",
+     "text": "Okay, it's over."
+    },
+    {
+     "id": "story_Weishijishan_Content_001060",
+     "text": "I'm going to live! Live! I'll make it back alive! Back to Alubarna!"
+    },
+    {
+     "id": "story_Weishijishan_Content_001061",
+     "text": "Calm down, I'm here to save you."
+    },
+    {
+     "id": "story_Weishijishan_Content_001140",
+     "text": "Ah, sorry, I just wanted to ask. I'm not trying to catch you; I just want to become a bounty hunter."
+    },
+    {
+     "id": "story_Weishijishan_Content_001141",
+     "text": "Do you think I'd make a good bounty hunter?"
+    },
+    {
+     "id": "story_Weishijishan_Content_001142",
+     "text": "You think being a bounty hunter is dangerous work? Could you find me a weapon?"
+    },
+    {
+     "id": "story_Weishijishan_Content_001143",
+     "text": "I know bounty hunting is dangerous, facing all kinds of pirates every day, but it's my dream."
+    },
+    {
+     "id": "story_Weishijishan_Content_001144",
+     "text": "There are bounty hunters all over Whiskey Peak, but they're not why I want to become one."
+    },
+    {
+     "id": "story_Weishijishan_Content_001145",
+     "text": "I came to this town when I was 10, and by then I'd already decided my path."
+    },
+    {
+     "id": "story_Weishijishan_Content_001146",
+     "text": "My hometown is a small town in the East Blue. Back then I lived a carefree life and worked at a blacksmith's. If you don't believe me, ask the blacksmith in Loguetown."
+    },
+    {
+     "id": "story_Weishijishan_Content_001147",
+     "text": "You mean that kid from back then? Yes, he worked under me as a helper, and I'm the one who sent him to the Grand Line."
+    },
+    {
+     "id": "story_Weishijishan_Content_001148",
+     "text": "Before I left that town, a band of mountain bandits came, and the town's peace was shattered."
+    },
+    {
+     "id": "story_Weishijishan_Content_001149",
+     "text": "They charged into the village, looted supplies everywhere and burned down quite a few houses. That kid couldn't stand it and went after the bandits."
+    },
+    {
+     "id": "story_Weishijishan_Content_001150",
+     "text": "You heard it from the blacksmith? Back then I charged at them and the bandits knocked me flat. I couldn't fight back at all."
+    },
+    {
+     "id": "story_Weishijishan_Content_001151",
+     "text": "But then two bounty hunters rushed out, stopped the bandits and saved me. They called themselves agents of justice."
+    },
+    {
+     "id": "story_Weishijishan_Content_001152",
+     "text": "Those two were easily beaten, but they said the words that made me become a bounty hunter: \"There are times when people fight for what they believe in.\""
+    },
+    {
+     "id": "story_Weishijishan_Content_001153",
+     "text": "Then a really strong three-sword bounty hunter showed up."
+    },
+    {
+     "id": "story_Weishijishan_Content_001154",
+     "text": "They beat the bandits and saved the village. After that, I made up my mind to become a bounty hunter."
+    },
+    {
+     "id": "story_Weishijishan_Content_001155",
+     "text": "So I asked the blacksmith to take me to the Grand Line. Just you wait, I'll definitely become a bounty hunter of justice!"
+    },
+    {
+     "id": "story_Weishijishan_Content_001156",
+     "text": "We're sorry for drawing our swords on you before and causing you trouble."
+    },
+    {
+     "id": "story_Weishijishan_Content_001157",
+     "text": "We had our reasons for doing that."
+    },
+    {
+     "id": "story_Weishijishan_Content_001158",
+     "text": "Whiskey Peak was originally a town famous for its hospitality and fine liquor."
+    },
+    {
+     "id": "story_Weishijishan_Content_001159",
+     "text": "I used to be a pirate too, and I stayed here because I loved this town."
+    },
+    {
+     "id": "story_Weishijishan_Content_001160",
+     "text": "For most pirates who've just entered the Grand Line, this is their first stop."
+    },
+    {
+     "id": "story_Weishijishan_Content_001161",
+     "text": "They stay here a few days to let their Log Pose record, then head for the next island."
+    },
+    {
+     "id": "story_Weishijishan_Content_001162",
+     "text": "While the pirates stay, everyone throws feasts together and drinks Whiskey Peak's fine liquor."
+    },
+    {
+     "id": "story_Weishijishan_Content_001163",
+     "text": "That's right, just like this."
+    },
+    {
+     "id": "story_Weishijishan_Content_001164",
+     "text": "Once the pirates are dead drunk, everyone in the village springs into action."
+    },
+    {
+     "id": "story_Weishijishan_Content_001165",
+     "text": "We capture all the pirates and claim their bounties."
+    },
+    {
+     "id": "story_Weishijishan_Content_001166",
+     "text": "All of this is on orders from a mysterious organization, and some of its officers are here."
+    },
+    {
+     "id": "story_Weishijishan_Content_001167",
+     "text": "We're no match for them, so we have no choice but to follow their orders."
+    },
+    {
+     "id": "story_Weishijishan_Content_001168",
+     "text": "They treat everyone in the village well and haven't changed our way of life, so everyone joined that mysterious organization."
+    },
+    {
+     "id": "story_Weishijishan_Content_001169",
+     "text": "Baroque Works: that's the organization's name. Even though we joined, we know very little about it."
+    },
+    {
+     "id": "story_Weishijishan_Content_001170",
+     "text": "To make amends, let us give you some fine liquor. It's stored in those cargo crates over there."
+    },
+    {
+     "id": "story_Weishijishan_Content_001171",
+     "text": "That's right, these ones."
+    },
+    {
+     "id": "story_Weishijishan_Content_001172",
+     "text": "Sorry, even the stock has been drunk dry. This is all that's left."
+    },
+    {
+     "id": "story_Weishijishan_Content_001173",
+     "text": "Take this as compensation."
+    },
+    {
+     "id": "story_Weishijishan_Content_001174",
+     "text": "Hey, what do you do? Interested in joining us at Baroque Works?"
+    },
+    {
+     "id": "story_Weishijishan_Content_001175",
+     "text": "What do I do? I'll tell you a secret: I'm a bounty hunter Baroque Works just sent to Whiskey Peak. You look strong; how about joining us?"
+    },
+    {
+     "id": "story_Weishijishan_Content_001176",
+     "text": "Oh? Interested? Then bring me something to eat and I'll tell you all about it."
+    },
+    {
+     "id": "story_Weishijishan_Content_001177",
+     "text": "That's better. Listen closely: Baroque Works is a seriously impressive outfit."
+    },
+    {
+     "id": "story_Weishijishan_Content_001178",
+     "text": "Hmm... I should test you first before you join; otherwise it's too casual."
+    },
+    {
+     "id": "story_Weishijishan_Content_001179",
+     "text": "You're amazing! You beat them so fast!"
+    },
+    {
+     "id": "story_Weishijishan_Content_001180",
+     "text": "Tch, I thought you'd die out there. (whispers)"
+    },
+    {
+     "id": "story_Weishijishan_Content_001181",
+     "text": "Hm? Something's off."
+    },
+    {
+     "id": "story_Weishijishan_Content_001182",
+     "text": "If you're this strong, why join Baroque Works through me?"
+    },
+    {
+     "id": "story_Weishijishan_Content_001183",
+     "text": "I need to go ask the boss upstairs, or... I kind of want to taste Whiskey Peak's fine liquor."
+    },
+    {
+     "id": "story_Weishijishan_Content_001184",
+     "text": "So you chose to join Baroque Works because I'm so handsome and dashing! Since you're so honest, I've got no reason to doubt you."
+    },
+    {
+     "id": "story_Weishijishan_Content_001185",
+     "text": "The core of Baroque Works is its senior agents, whose code names combine \"Mr.\" with a number."
+    },
+    {
+     "id": "story_Weishijishan_Content_001186",
+     "text": "Each of them is paired with a partner to carry out missions together. The closer the code name is to 0, the stronger they are."
+    },
+    {
+     "id": "story_Weishijishan_Content_001187",
+     "text": "I've been with Baroque Works a long time. I was originally over in Alubarna."
+    },
+    {
+     "id": "story_Weishijishan_Content_001188",
+     "text": "Ugh, it makes me mad just thinking about it. Fight me so I can blow off steam."
+    },
+    {
+     "id": "story_Weishijishan_Content_001189",
+     "text": "Shouldn't you go a little easy on me? Some intel just came in for me. Hold on."
+    },
+    {
+     "id": "story_Weishijishan_Content_001190",
+     "text": "W-wait, you look a lot like the photo in my intel."
+    },
+    {
+     "id": "story_Weishijishan_Content_001191",
+     "text": "You're on Baroque Works' hit list. Since we've talked so much, I won't tell them. Run, quick."
+    },
+    {
+     "id": "story_Weishijishan_Content_001192",
+     "text": "Who are you? I don't know you. Don't talk to me."
+    },
+    {
+     "id": "story_Weishijishan_Content_001193",
+     "text": "Go, quick. Take this, and don't let them catch you. (whispers)"
+    },
+    {
+     "id": "story_Weishijishan_name_001003",
+     "text": "Usopp"
+    },
+    {
      "id": "story_Weishijishan_name_001004",
      "text": "Sanji"
+    },
+    {
+     "id": "story_Weishijishan_name_001014",
+     "text": "Miss All Sunday"
+    },
+    {
+     "id": "story_Wusuopu_name_001001",
+     "text": "Zoro"
+    },
+    {
+     "id": "story_Xiaohuayuan_name_001010",
+     "text": "Brogy the Red Ogre"
+    },
+    {
+     "id": "story_Youcaihua_name_001007",
+     "text": "Crewmates"
+    },
+    {
+     "id": "story_Yudi_Content_001026",
+     "text": "It's him."
+    },
+    {
+     "id": "Sub_Arubana_Default_0001",
+     "text": "When will this war end?"
+    },
+    {
+     "id": "Sub_Arubana_Default_0002",
+     "text": "Sigh..."
+    },
+    {
+     "id": "Sub_Arubana_Default_0003",
+     "text": "Is this war really right?"
+    },
+    {
+     "id": "Sub_Arubana_Default_0004",
+     "text": "When I grow up, I want to be a hero of the country!"
+    },
+    {
+     "id": "Sub_Test_NetworkType_Default_0001",
+     "text": "If you want anything, just come to me."
+    },
+    {
+     "id": "Sub_Test_NetworkType_Option_1001",
+     "text": "Top Quality (Golden War Soul)"
+    },
+    {
+     "id": "Sub_Test_NetworkType_Option_1002",
+     "text": "Ordinary (Bronze War Soul)"
     },
     {
      "id": "Sub_Test_NetworkType_Option_2001",
@@ -4840,12 +5428,812 @@
      "text": "DEF Gem"
     },
     {
+     "id": "Sub_Test_NetworkType_Option_3001",
+     "text": "Best Gem (Lv6)"
+    },
+    {
+     "id": "Sub_Test_NetworkType_Option_3002",
+     "text": "Ordinary Gem (Lv4)"
+    },
+    {
+     "id": "Sub_Test_NetworkType_Option_3005",
+     "text": "Ordinary Gem (Lv4)"
+    },
+    {
+     "id": "Sub_Test_NetworkType_Option_3006",
+     "text": "Just Any Gem (Lv2)"
+    },
+    {
+     "id": "Sub_Test_NetworkType_Option_4001",
+     "text": "I Want to Challenge"
+    },
+    {
+     "id": "Sub_Test_NetworkType_Option_4002",
+     "text": "Play It Safe and Find the Merchant"
+    },
+    {
+     "id": "Submission_ciguzhen_Name_0005",
+     "text": "Royal Guard"
+    },
+    {
+     "id": "Submission_Luogetown_Desc_0011",
+     "text": "I'll take you all down together!"
+    },
+    {
+     "id": "Submission_Luogetown_Desc_0012",
+     "text": "Come on!"
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0001",
+     "text": "Have you heard the legend going around lately?"
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0002",
+     "text": "They say that treasure can make a person incredibly powerful."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0003",
+     "text": "I heard the legend from someone else. He hasn't been well lately, so you'd better bring him some herbs."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0004",
+     "text": "Thanks for the herbs. What did you come to see me about?"
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0005",
+     "text": "You want to know about that legend? I know very little myself; I only heard it's related to treasure."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0006",
+     "text": "I heard the legend from a friend in Syrup Village. If you want to know more, he's the one to ask."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0007",
+     "text": "What are you doing here? I'm busy. If you want to talk, go pick up some seashells for me first."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0008",
+     "text": "You're back."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0009",
+     "text": "Okay, what do you want? What? The legend? Where did you hear about it? No, I don't know anything."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0010",
+     "text": "Well? Did you learn the details of the legend?"
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0011",
+     "text": "He clearly didn't believe you. Take my letter; then he'll definitely tell you."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0012",
+     "text": "Ah, so he sent you to me."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0013",
+     "text": "It's a true legend, but only the strong can pursue it."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0014",
+     "text": "Hmm, you're pretty strong."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0015",
+     "text": "If you really want the truth of this legend, make your way to Loguetown."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0016",
+     "text": "I heard the legend from an old man in Loguetown: whoever gets the legendary treasure becomes incredibly powerful."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0017",
+     "text": "...You've been walking back and forth in this village for a while now, haven't you."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0018",
+     "text": "Do you want to know this village's history, from before that Fish-Man came?"
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0019",
+     "text": "Before that Fish-Man came to the village, everyone was happy."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0020",
+     "text": "That little girl back then was always talking about her dream of drawing a map of the whole world."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0021",
+     "text": "But one day, everyone's nightmare arrived."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0022",
+     "text": "That Fish-Man came to these islands."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0023",
+     "text": "At first, everyone wanted to rise up and fight back."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0024",
+     "text": "But the gap in strength was too great. We had no choice but to pay the money that Fish-Man demanded."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0025",
+     "text": "That little girl's family was struggling then. She lived with her sister and their adoptive mother."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0026",
+     "text": "Then that Fish-Man found their family, and tragedy struck."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0027",
+     "text": "Because they couldn't pay enough, the little girl's adoptive mother was killed by that Fish-Man."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0028",
+     "text": "That Fish-Man also discovered the little girl's talent for surveying and took her away."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0029",
+     "text": "The little girl made a decision for everyone in the village."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0030",
+     "text": "She decided to join the pirate crew and made the 100 million promise."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0031",
+     "text": "You know the rest, don't you."
+    },
+    {
+     "id": "Substory_Alonggongyuan_Content_0032",
+     "text": "I can tell that little girl from back then can smile for real now, with you."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0001",
+     "text": "The pirates have been driven off, so we've come back to the village."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0002",
+     "text": "To ease the burden on the mayor who took back the village, we decided to rebuild our homes together. The pirates got rid of all our tools, so go to the blacksmith first."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0003",
+     "text": "You've come to help rebuild the town? Then please go find some ore in the field first."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0004",
+     "text": "With this ore, I can make the tools everyone needs."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0005",
+     "text": "Please deliver these tools to the villagers so we can rebuild the town together."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0006",
+     "text": "Thank you. With these, everyone can get to work!"
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0007",
+     "text": "The hunter seems to be looking for help in the field."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0008",
+     "text": "Did they send you to help?"
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0009",
+     "text": "It's great that someone came to help. I'm preparing lumber for everyone, but I can't gather it all alone."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0010",
+     "text": "It's great that someone came to help. I'm preparing lumber for everyone, but I can't gather it all alone."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0011",
+     "text": "Here are some lunchboxes. Please hand them out; everyone's working hard on the rebuild."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0012",
+     "text": "Thank you for all your help. Please accept this small token of thanks."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0013",
+     "text": "The hunter sent an urgent message. Something urgent seems to have come up."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0014",
+     "text": "You're here. I just found out something important!"
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0015",
+     "text": "The last pirates were driven off, but we found more pirates in the field. Defeat them and find out what they're up to."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0016",
+     "text": "Well? What did they say?"
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0017",
+     "text": "What! They want to take over the village again! Hurry and warn the villagers!"
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0018",
+     "text": "Why did you rush back in such a hurry? What did the hunter find?"
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0019",
+     "text": "This time we'll arm ourselves and never let them take our town so easily again! Go get some weapons from the weapon merchant!"
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0020",
+     "text": "Please tell the hunter we're ready to defend ourselves!"
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0021",
+     "text": "The villagers are really determined. We should try to stop the attack; we can't let everyone in the village take such a big risk."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0022",
+     "text": "They must be about to give up on attacking. Just a little more."
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0023",
+     "text": "The pirate captain is over there! Defeating him will surely end this danger!"
+    },
+    {
+     "id": "Substory_Haigangtown_Content_0024",
+     "text": "Great, the town is safe now. Thank you so much; please accept this token of thanks."
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0001",
+     "text": "Lately I always hear the cooks whispering when I come to the restaurant. I'm a little curious what they're talking about."
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0002",
+     "text": "Go ask the cooks what they're talking about."
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0003",
+     "text": "Curious what we're talking about?"
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0004",
+     "text": "Since you're interested, I'll tell you: we're talking about every cook's dream, the \"ALL BLUE\""
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0005",
+     "text": "We got so caught up talking that customers ordered again. Help us catch some fish."
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0006",
+     "text": "Where were we just now?"
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0007",
+     "text": "Legend has it the \"ALL BLUE\" is a sea with every kind of fish from all four seas of the world. If you believe the head chef, it may be on the Grand Line. And the Grand Line is full of countless pirates in the way."
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0008",
+     "text": "That's why we're still in the East Blue."
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0009",
+     "text": "Never mind the legends. Our East Blue has fantastic ingredients too."
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0010",
+     "text": "But we haven't found those rare ingredients in a long time."
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0011",
+     "text": "The \"ALL BLUE\" may only exist in legend, but it's on everyone's mind."
+    },
+    {
+     "id": "Substory_Haishangcanting_Content_0012",
+     "text": "So the cooks were talking about their dreams. I hope they get to chase them."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0001",
+     "text": "You've come to see this execution platform, haven't you."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0002",
+     "text": "Do you know why this execution platform is so famous? It's the story of the Pirate King."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0003",
+     "text": "I've lived here for decades and seen so much."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0004",
+     "text": "I witnessed the birth and death of the Pirate King with my own eyes."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0005",
+     "text": "The Pirate King's journey began right here in Loguetown."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0006",
+     "text": "He set out from here, crossed the Red Line and searched the Grand Line for \"ONE PIECE\"."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0007",
+     "text": "It's a mysterious sea that no one had ever conquered."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0008",
+     "text": "He succeeded. He beat everyone and found \"ONE PIECE\"."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0009",
+     "text": "But after he found \"ONE PIECE\", the most baffling news came out."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0010",
+     "text": "He was suddenly captured by the Marines. Some rumors say a Marine hero caught him."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0011",
+     "text": "I still clearly remember that day, when he smiled on the execution platform and said those words."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0012",
+     "text": "Those words sent countless pirates flocking to the Grand Line."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0013",
+     "text": "You must have heard them too."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0014",
+     "text": "\"My treasure? If you want it, you can have it! Go find it! I left everything I own in that place!\""
+    },
+    {
+     "id": "Substory_Loguetown_Content_0015",
+     "text": "And so Loguetown became what it is now: the East Blue's last stop before the Grand Line."
+    },
+    {
+     "id": "Substory_Loguetown_Content_0016",
+     "text": "You were drawn here by the Pirate King too, weren't you? The Grand Line is right before you. Go seek the world's treasure!"
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0001",
+     "text": "We're sorry for drawing our swords on you before and causing you trouble."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0002",
+     "text": "We had our reasons for doing that"
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0003",
+     "text": "Whiskey Peak was originally a town famous for its hospitality and fine liquor."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0004",
+     "text": "I used to be a pirate too, and I stayed here because I loved this town."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0005",
+     "text": "For most pirates who've just entered the Grand Line, this is their first stop."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0006",
+     "text": "They stay here a few days to let their Log Pose record, then head for the next island."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0007",
+     "text": "While the pirates stay, everyone throws feasts together and drinks Whiskey Peak's fine liquor."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0008",
+     "text": "That's right, just like this."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0009",
+     "text": "Once the pirates are dead drunk, everyone in the village springs into action."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0010",
+     "text": "We capture all the pirates and claim their bounties."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0011",
+     "text": "All of this is on orders from a mysterious organization, and some of its officers are here."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0012",
+     "text": "We're no match for them, so we have no choice but to follow their orders."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0013",
+     "text": "They treat everyone in the village well and haven't changed our way of life, so everyone joined that mysterious organization."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0014",
+     "text": "I don't dare say the name of that organization. Even though we joined, we know very little about it."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0015",
+     "text": "To make amends, let us give you some fine liquor. It's stored in those cargo crates over there."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0016",
+     "text": "That's right, these ones."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0017",
+     "text": "Sorry, even the stock has been drunk dry. This is all that's left."
+    },
+    {
+     "id": "Substory_Weishijishan_Content_0018",
+     "text": "Take this as compensation."
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0001",
+     "text": "For some reason, today feels really different."
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0002",
+     "text": "Everyone in the village seems down. Is it because that guy left?"
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0003",
+     "text": "Without hearing that guy's lies today, I forgot to eat breakfast. He came on time every single day."
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0004",
+     "text": "No one's used to life without that guy."
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0005",
+     "text": "A villager told us what that guy did to protect the village. We'd wronged him before."
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0006",
+     "text": "Now everyone is truly grateful to that guy."
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0007",
+     "text": "That guy is gone, so we have to protect the young miss in his place. Please bring back a weapon."
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0008",
+     "text": "Great! With this weapon, we're confident we can protect the young miss!"
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0009",
+     "text": "The weapon's here, so let's give it a try."
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0010",
+     "text": "This weapon works great!"
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0011",
+     "text": "Ouch, I haven't moved in so long that I just pulled my back. Could you gather some herbs for me?"
+    },
+    {
+     "id": "Substory_Wusuopu_Content_0012",
+     "text": "That's enough. Thank you."
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0001",
+     "text": "Hey hey hey, did you just arrive on this island too? I got lost at sea and drifted here, and it looks like the bounty hunters chasing me ended up here too. Can you stop them for me?"
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0002",
+     "text": "Did you see that?! While you were gone, a dinosaur walked by! It was as tall as a 10-story building!"
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0003",
+     "text": "This island is terrifying. How could anyone stand up to dinosaurs that huge? I have to escape fast. Help me gather some lumber."
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0004",
+     "text": "G-giants? You say you ran into giants?"
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0005",
+     "text": "Could it be that the environment and creatures here are still in prehistoric times?"
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0006",
+     "text": "Be careful at every turn here."
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0007",
+     "text": "I think I've seen that person over there. He might know more about this island; go ask him."
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0008",
+     "text": "Hello. The pirates over there may have seen me on other islands. Wherever there's adventure, there I am."
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0009",
+     "text": "Want to know how this island came to be? Then help me find some things."
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0010",
+     "text": "Thank you. It would've taken me ages on my own."
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0011",
+     "text": "Little Garden got its name because of two giants."
+    },
+    {
+     "id": "Substory_Xiaohuayuan_Content_0012",
+     "text": "This is the giants' little garden."
+    },
+    {
+     "id": "Sub_Yudi_Name_0101",
+     "text": "Rebel Vanguard Member"
+    },
+    {
+     "id": "Sub_Yudi_Name_0102",
+     "text": "Water Carrier"
+    },
+    {
+     "id": "Sub_Cigu_Name_0002",
+     "text": "Lapahn"
+    },
+    {
+     "id": "gonghuishuijing",
+     "text": "A rare item for upgrading the guild. Buying it gives you 1200 personal Contribution and your guild 1 Crystal."
+    },
+    {
+     "id": "coin_desc_1",
+     "text": "A precious in-game currency obtained through top-ups."
+    },
+    {
      "id": "coin_desc_3",
      "text": "A precious currency in One Piece, used to buy event attempts, shop exchanges and more."
     },
     {
+     "id": "coin_desc_4",
+     "text": "An in-game trading currency used for trades in the Player Shop."
+    },
+    {
+     "id": "coin_desc_5",
+     "text": "An in-game currency used to enhance equipment, level up characters and more."
+    },
+    {
+     "id": "coin_desc_1010",
+     "text": "Gold earned by exploring the seas, exchangeable for mystery items"
+    },
+    {
+     "id": "coin_desc_1011",
+     "text": "The Arena's currency, used to buy items in the Prestige Shop."
+    },
+    {
+     "id": "coin_desc_1013",
+     "text": "The Ladder's currency, used to buy items in the Arena Shop."
+    },
+    {
+     "id": "coin_desc_1016",
+     "text": "An in-game currency used to buy items in the Crystal Soul Shop."
+    },
+    {
+     "id": "coin_desc_1301",
+     "text": "Intel earned from completing trade orders, used to unlock mystery order quests."
+    },
+    {
+     "id": "coin_desc_1302",
+     "text": "EXP earned from completing trade orders, used to raise Trade Level."
+    },
+    {
+     "id": "coin_name_zjtz",
+     "text": "Challenge Gold Coin"
+    },
+    {
+     "id": "coin_desc_zjtz",
+     "text": "A token from the Ultimate Challenge, used to exchange for advanced items in the Challenge Shop"
+    },
+    {
+     "id": "coin_name_zjtz_1",
+     "text": "Challenge Silver Coin"
+    },
+    {
+     "id": "coin_desc_zjtz_1",
+     "text": "A token from the Ultimate Challenge, used to exchange for basic items in the Challenge Shop"
+    },
+    {
+     "id": "coin_name_hjqztz",
+     "text": "Honor Coin"
+    },
+    {
+     "id": "coin_desc_hjqztz",
+     "text": "A currency earned in the Elite Challenge, used to exchange for items in the Elite Shop. Storage cap: 100000."
+    },
+    {
+     "id": "story_Moguzhen_Content_001081",
+     "text": "Great! This will definitely get us up to the sky!"
+    },
+    {
+     "id": "story_Moguzhen_Content_001082",
+     "text": "Charge! Going Merry!"
+    },
+    {
+     "id": "story_Moguzhen_Content_001083",
+     "text": "This is the sea! Not just a water spout, it's a sea current shooting into the sky!"
+    },
+    {
+     "id": "story_Moguzhen_Content_001084",
+     "text": "And the wind blowing up from below is an updraft from geothermal heat and steam explosions on the seafloor."
+    },
+    {
+     "id": "story_Moguzhen_Content_001085",
+     "text": "If it's wind and sea we're up against, I can sail us through!"
+    },
+    {
+     "id": "story_Moguzhen_Content_001086",
+     "text": "Who do you think this ship's navigator is?!"
+    },
+    {
+     "id": "Sub_CH19_Name_0005",
+     "text": "Giant-Hammer Pirate"
+    },
+    {
+     "id": "Sub_CH19_Name_0006",
+     "text": "Sniper"
+    },
+    {
+     "id": "Sub_CH19_Name_0007",
+     "text": "Heavy-Axe Pirate"
+    },
+    {
+     "id": "Sub_CH19_Content_0001",
+     "text": "Who are you, a pirate? I haven't seen your face before."
+    },
+    {
+     "id": "Sub_CH19_Content_0002",
+     "text": "Since you've come to Mock Town, take a walk around. If you see our boss, say hi for me."
+    },
+    {
+     "id": "Sub_CH19_Content_0003",
+     "text": "I haven't seen him in a long time. I wonder how he's doing."
+    },
+    {
+     "id": "Sub_CH22_Name_0003",
+     "text": "Provoking Divine Soldier"
+    },
+    {
+     "id": "story_Skypia_Content_001013",
+     "text": "Found it, it's the Going Merry."
+    },
+    {
+     "id": "story_Skypia_Content_001014",
+     "text": "That's the altar."
+    },
+    {
+     "id": "story_Skypia_Content_001015",
+     "text": "Miss Nami, Robin."
+    },
+    {
+     "id": "InterAct01",
+     "text": "With strength this pathetic, you dare go around killing people? Come with me!#1,9"
+    },
+    {
+     "id": "InterAct02",
+     "text": "#1,8Mind your own business!?"
+    },
+    {
+     "id": "InterAct03",
+     "text": "Stop talking tough and come quietly, and spare yourself the pain!#1,9"
+    },
+    {
+     "id": "InterAct04",
+     "text": "Go any further and you'll leave Loguetown. You'd better behave!#1,14"
+    },
+    {
+     "id": "InterAct05",
+     "text": "#1,8Let me go and we'll fight another three hundred rounds!"
+    },
+    {
+     "id": "InterAct06",
+     "text": "#1,16Quit running your mouth."
+    },
+    {
+     "id": "InterAct07",
+     "text": "I'm tired! I need a rest!#1,8"
+    },
+    {
+     "id": "InterAct08",
+     "text": "Enough talk, keep walking! Once I hand you to the Marines, I've got other things to do!#1,14"
+    },
+    {
+     "id": "InterActThreat01",
+     "text": "You'd better let me escort you to prison quietly and spare yourself the pain!"
+    },
+    {
+     "id": "InterActThreat02",
+     "text": "Listen up! I'm the ruler of the seas with ten thousand men and a hundred great ships. Just wait for your end!"
+    },
+    {
+     "id": "InterActThreat03",
+     "text": "You're so weak. Don't ever let me run into you again, or today's ending will repeat itself!"
+    },
+    {
+     "id": "InterActThreat04",
+     "text": "Behave yourself, or you'll taste bitter fruit. Any one of my crew could crush you!"
+    },
+    {
+     "id": "Main_CH26_Content_0177",
+     "text": "Huh!?"
+    },
+    {
+     "id": "Main_CH26_Content_0202",
+     "text": "Idiots, what are you yelling about!"
+    },
+    {
+     "id": "Main_Raid_desc_2501",
+     "text": "Faced with Admiral \"Aokiji\" suddenly showing killing intent, a flustered Robin strikes first..."
+    },
+    {
+     "id": "Main_CH28_Name_0018",
+     "text": "Sogeking"
+    },
+    {
      "id": "Main_CH32_Name_0035",
      "text": "Nightmare Luffy"
+    },
+    {
+     "id": "item_2120134",
+     "text": "Lucky Exchange Coin"
+    },
+    {
+     "id": "Gonghui_New_Name_0021",
+     "text": "Invading Pirate"
+    },
+    {
+     "id": "Gonghui_New_Name_0022",
+     "text": "Coastal Patrol Marine"
+    },
+    {
+     "id": "Gonghui_New_Default_0021",
+     "text": "This big ship is mine now!"
+    },
+    {
+     "id": "Gonghui_New_Default_0022",
+     "text": "Level-one alert, prepare for battle!"
+    },
+    {
+     "id": "Sub_CH29_Name_0019",
+     "text": "Elite Marine"
+    },
+    {
+     "id": "haizhanxunzhang",
+     "text": "Sea Battle Medals earned from Guild Sea Battles, used at the Command Center to upgrade Naval Technology"
+    },
+    {
+     "id": "union_medal",
+     "text": "Sea Battle Medal"
+    },
+    {
+     "id": "collection_100",
+     "text": "Loose Common Materials"
+    },
+    {
+     "id": "collection_101",
+     "text": "Scattered Quality Materials"
+    },
+    {
+     "id": "collection_102",
+     "text": "Pile of Rare Materials"
+    },
+    {
+     "id": "collection_103",
+     "text": "Cache of Valuable Materials"
+    },
+    {
+     "id": "collection_104",
+     "text": "Pile of Luxury Materials"
+    },
+    {
+     "id": "Sub_CH32_Name_007",
+     "text": "Uneasy Wounded"
     },
     {
      "id": "Main_CH39_Name_0004",
@@ -4856,20 +6244,88 @@
      "text": "Garp"
     },
     {
+     "id": "Main_CH39_Name_0047",
+     "text": "Guard"
+    },
+    {
+     "id": "Main_CH42_Content_0212",
+     "text": "This way, Vice Admiral Garp. Please be careful."
+    },
+    {
+     "id": "Main_CH42_Content_0213",
+     "text": "What a horrible sight."
+    },
+    {
+     "id": "Main_CH42_Content_0214",
+     "text": "Are you still alive, Ace..."
+    },
+    {
+     "id": "Main_CH42_Content_0215",
+     "text": "...Gramps."
+    },
+    {
      "id": "daily_title_25",
      "text": "Voyage Tower"
+    },
+    {
+     "id": "daily_title_26",
+     "text": "Awakening Trial"
+    },
+    {
+     "id": "daily_title_27",
+     "text": "Abyss Challenge"
+    },
+    {
+     "id": "daily_title_110",
+     "text": "Training Route"
+    },
+    {
+     "id": "daily_playingdesc_110",
+     "text": "Challenge the Training Route for Training Scrolls"
     },
     {
      "id": "daily_title_111",
      "text": "Combat Training"
     },
     {
+     "id": "UnionBounty_store",
+     "text": "Bounty Shop"
+    },
+    {
      "id": "daily_title_28",
      "text": "Guild Bounty"
+    },
+    {
+     "id": "daily_desc_114",
+     "text": "Daily 5:00-23:00"
+    },
+    {
+     "id": "daily_title_29",
+     "text": "Island Challenge"
+    },
+    {
+     "id": "daily_playingdesc_22",
+     "text": "*This is the Island Trial description. I don't know where it'll be shown either"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "355/706 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "id": "daily_playingdesc_16",
+     "text": "*Breakthrough Day is open every day and shares 10 attempts with Training Day.\\n*Higher-level stages give higher quality rewards."
+    },
+    {
+     "id": "daily_tipdesc_05",
+     "text": "Tue 12:00 - Wed 24:00\\nSat 12:00 - Sun 24:00"
+    },
+    {
+     "id": "daily_title_110",
+     "text": "Fantasy Drift"
+    },
+    {
+     "id": "daily_playingdesc_110",
+     "text": "Use Fan Bowei to gain the power of GAY"
+    }
+   ]
   },
   "TableTipWord": {
    "key_column": "id",
