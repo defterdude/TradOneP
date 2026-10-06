@@ -1410,6 +1410,3161 @@
      }
     ]
    }
+  },
+  "island_conquest": {
+   "TableautoChessGroupBuffDesc": {
+    "key_column": "id",
+    "text_columns": [
+     "desc"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "id": "1",
+      "desc": "First turn: 1 random ally gains a large Speed boost"
+     },
+     {
+      "id": "2",
+      "desc": "First turn: 2 random allies gain a large Speed boost"
+     },
+     {
+      "id": "4",
+      "desc": "CP9 Evasion +15%"
+     },
+     {
+      "id": "5",
+      "desc": "CP9 Evasion +30%"
+     },
+     {
+      "id": "6",
+      "desc": "Dispels 1 debuff on self each turn"
+     },
+     {
+      "id": "7",
+      "desc": "Grants all Marines a 2000 Shield each turn"
+     },
+     {
+      "id": "8",
+      "desc": "Grants all Marines a 3000 Shield each turn"
+     },
+     {
+      "id": "10",
+      "desc": "At match start, 1 random character gains a star"
+     },
+     {
+      "id": "11",
+      "desc": "+2 extra Gold at the end of each battle"
+     },
+     {
+      "id": "12",
+      "desc": "+4 extra Gold at the end of each battle"
+     },
+     {
+      "id": "13",
+      "desc": "First turn: Fears 1 enemy character"
+     },
+     {
+      "id": "14",
+      "desc": "First turn: Fears 2 enemy characters"
+     },
+     {
+      "id": "15",
+      "desc": "First turn: +50 Rage"
+     },
+     {
+      "id": "16",
+      "desc": "Fish-Men gain 30% Crit Rate and take 30% less elemental damage"
+     },
+     {
+      "id": "17",
+      "desc": "All Whitebeard Pirates gain 10% Attack and Defense"
+     },
+     {
+      "id": "18",
+      "desc": "All Whitebeard Pirates gain 30% Attack and Defense"
+     },
+     {
+      "id": "22",
+      "desc": "At the end of each turn, heals the ally with the lowest HP by 20% HP"
+     },
+     {
+      "id": "23",
+      "desc": "At the end of each turn, heals the ally with the lowest HP by 50% HP"
+     },
+     {
+      "id": "101",
+      "desc": "At battle start, all Zoans transform for 2 turns"
+     },
+     {
+      "id": "102",
+      "desc": "At battle start, all Zoans transform permanently"
+     },
+     {
+      "id": "103",
+      "desc": "Logias deal 50% more elemental damage"
+     },
+     {
+      "id": "104",
+      "desc": "Logias deal 100% more elemental damage"
+     },
+     {
+      "id": "105",
+      "desc": "Team deals 10% more physical damage"
+     },
+     {
+      "id": "106",
+      "desc": "Team deals 20% more physical damage"
+     },
+     {
+      "id": "107",
+      "desc": "Team deals 30% more physical damage"
+     },
+     {
+      "id": "108",
+      "desc": "Team HP +10%"
+     },
+     {
+      "id": "109",
+      "desc": "Team HP +20%"
+     },
+     {
+      "id": "110",
+      "desc": "Team HP +30%"
+     },
+     {
+      "id": "111",
+      "desc": "Swordsmen ignore 20% of Defense"
+     },
+     {
+      "id": "112",
+      "desc": "Swordsmen ignore 50% of Defense"
+     },
+     {
+      "id": "113",
+      "desc": "Team gains 5% Crit Rate and 20% Crit Damage"
+     },
+     {
+      "id": "114",
+      "desc": "Team gains 10% Crit Rate and 40% Crit Damage"
+     },
+     {
+      "id": "115",
+      "desc": "Team gains 15% Crit Rate and 60% Crit Damage"
+     }
+    ]
+   },
+   "TableAutoChessGroup": {
+    "key_column": "acHeroGroup",
+    "text_columns": [
+     "desc",
+     "groupDesc",
+     "groupSkillName"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "acHeroGroup": "1",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Straw Hat Pirates",
+      "groupSkillName": "Crew Inspiration"
+     },
+     {
+      "acHeroGroup": "2",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "CP9",
+      "groupSkillName": "Rokushiki"
+     },
+     {
+      "acHeroGroup": "3",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Impel Down",
+      "groupSkillName": "Fearless"
+     },
+     {
+      "acHeroGroup": "4",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Marines",
+      "groupSkillName": "Tight Security"
+     },
+     {
+      "acHeroGroup": "5",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Seven Warlords",
+      "groupSkillName": "Territorial Rule"
+     },
+     {
+      "acHeroGroup": "6",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Pirates",
+      "groupSkillName": "Raid"
+     },
+     {
+      "acHeroGroup": "7",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Thriller Bark Pirates",
+      "groupSkillName": "Trickery"
+     },
+     {
+      "acHeroGroup": "8",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Gods",
+      "groupSkillName": "Wrath of God"
+     },
+     {
+      "acHeroGroup": "9",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Fish-Men",
+      "groupSkillName": "Blessing of the Sea"
+     },
+     {
+      "acHeroGroup": "10",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Whitebeard Pirates",
+      "groupSkillName": "Kindred Bonds"
+     },
+     {
+      "acHeroGroup": "11",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Animal Force",
+      "groupSkillName": "Animal Force"
+     },
+     {
+      "acHeroGroup": "12",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Force of Nature",
+      "groupSkillName": "Force of Nature"
+     },
+     {
+      "acHeroGroup": "13",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Superhuman Force",
+      "groupSkillName": "Superhuman Force"
+     },
+     {
+      "acHeroGroup": "14",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Fighting Skills",
+      "groupSkillName": "Fighting Skills"
+     },
+     {
+      "acHeroGroup": "15",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Sword Skills",
+      "groupSkillName": "Sword Skills"
+     },
+     {
+      "acHeroGroup": "16",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Shooting Skills",
+      "groupSkillName": "Shooting Skills"
+     },
+     {
+      "acHeroGroup": "17",
+      "desc": "Deploy the required number of different characters from this group to trigger the Bond. Only the highest tier reached takes effect.",
+      "groupDesc": "Big Mom Pirates",
+      "groupSkillName": "Desserts"
+     }
+    ]
+   },
+   "TableAutoChessWeeklyTask": {
+    "key_column": "taskId",
+    "text_columns": [
+     "taskName",
+     "taskDesc"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": true,
+    "rows": [
+     {
+      "taskId": "1",
+      "taskName": "March on the Islands",
+      "taskDesc": "Play 5 Island Conquest matches"
+     },
+     {
+      "taskId": "2",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 5 (3 times)"
+     },
+     {
+      "taskId": "3",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 2 (2 times)"
+     },
+     {
+      "taskId": "4",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 4 (3 times)"
+     },
+     {
+      "taskId": "5",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (1 time)"
+     },
+     {
+      "taskId": "6",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (2 times)"
+     },
+     {
+      "taskId": "7",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (3 times)"
+     },
+     {
+      "taskId": "8",
+      "taskName": "Build Warships",
+      "taskDesc": "Spend 50 Gold upgrading your ship"
+     },
+     {
+      "taskId": "9",
+      "taskName": "Build Warships",
+      "taskDesc": "Spend 60 Gold upgrading your ship"
+     },
+     {
+      "taskId": "10",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 20 Gold refreshing the Character Shop"
+     },
+     {
+      "taskId": "11",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 30 Gold refreshing the Character Shop"
+     },
+     {
+      "taskId": "12",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 40 Gold refreshing the Character Shop"
+     },
+     {
+      "taskId": "13",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Luffy"
+     },
+     {
+      "taskId": "14",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Chopper"
+     },
+     {
+      "taskId": "15",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Zoro"
+     },
+     {
+      "taskId": "16",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Aokiji"
+     },
+     {
+      "taskId": "17",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Gecko Moria"
+     },
+     {
+      "taskId": "18",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Crocodile"
+     },
+     {
+      "taskId": "19",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Sentomaru"
+     },
+     {
+      "taskId": "20",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Absalom"
+     },
+     {
+      "taskId": "21",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Kalifa"
+     },
+     {
+      "taskId": "22",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Rob Lucci"
+     },
+     {
+      "taskId": "23",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Jinbe"
+     },
+     {
+      "taskId": "24",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Perona"
+     },
+     {
+      "taskId": "25",
+      "taskName": "Top Power",
+      "taskDesc": "Get 2 copies of 2-star Jabra"
+     },
+     {
+      "taskId": "26",
+      "taskName": "Strongest Crew",
+      "taskDesc": "Get 15 characters at 2 stars"
+     },
+     {
+      "taskId": "27",
+      "taskName": "Strongest Crew",
+      "taskDesc": "Get 3 characters at 3 stars"
+     },
+     {
+      "taskId": "28",
+      "taskName": "War of Attrition",
+      "taskDesc": "Fight 15 waves in 2 matches"
+     },
+     {
+      "taskId": "29",
+      "taskName": "March on the Islands",
+      "taskDesc": "Play 1 Island Conquest match"
+     },
+     {
+      "taskId": "30",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 4 (10 times)"
+     },
+     {
+      "taskId": "31",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (5 times)"
+     }
+    ],
+    "other_bundle_rows": [
+     {
+      "taskId": "1",
+      "taskName": "March on the Islands",
+      "taskDesc": "Play 10 Island Conquest matches (Weekly)"
+     },
+     {
+      "taskId": "2",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 5 (3 times) (Weekly)"
+     },
+     {
+      "taskId": "3",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 2 (2 times) (Weekly)"
+     },
+     {
+      "taskId": "4",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 4 (5 times) (Weekly)"
+     },
+     {
+      "taskId": "5",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (1 time) (Weekly)"
+     },
+     {
+      "taskId": "6",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (2 times) (Weekly)"
+     },
+     {
+      "taskId": "7",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (3 times) (Weekly)"
+     },
+     {
+      "taskId": "8",
+      "taskName": "Build Warships",
+      "taskDesc": "Spend 50 Gold upgrading your ship (Weekly)"
+     },
+     {
+      "taskId": "9",
+      "taskName": "Build Warships",
+      "taskDesc": "Spend 60 Gold upgrading your ship (Weekly)"
+     },
+     {
+      "taskId": "10",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 20 Gold refreshing the Character Shop (Weekly)"
+     },
+     {
+      "taskId": "11",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 30 Gold refreshing the Character Shop (Weekly)"
+     },
+     {
+      "taskId": "12",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 40 Gold refreshing the Character Shop (Weekly)"
+     },
+     {
+      "taskId": "13",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Luffy (Weekly)"
+     },
+     {
+      "taskId": "14",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Chopper (Weekly)"
+     },
+     {
+      "taskId": "15",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Zoro (Weekly)"
+     },
+     {
+      "taskId": "16",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Aokiji (Weekly)"
+     },
+     {
+      "taskId": "17",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Gecko Moria (Weekly)"
+     },
+     {
+      "taskId": "18",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Crocodile (Weekly)"
+     },
+     {
+      "taskId": "19",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Sentomaru (Weekly)"
+     },
+     {
+      "taskId": "20",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Absalom (Weekly)"
+     },
+     {
+      "taskId": "21",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Kalifa (Weekly)"
+     },
+     {
+      "taskId": "22",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Rob Lucci (Weekly)"
+     },
+     {
+      "taskId": "23",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Jinbe (Weekly)"
+     },
+     {
+      "taskId": "24",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Perona (Weekly)"
+     },
+     {
+      "taskId": "25",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Jabra (Weekly)"
+     },
+     {
+      "taskId": "26",
+      "taskName": "Strongest Crew",
+      "taskDesc": "Get 20 characters at 2 stars (Weekly)"
+     },
+     {
+      "taskId": "27",
+      "taskName": "Strongest Crew",
+      "taskDesc": "Get 5 characters at 3 stars (Weekly)"
+     },
+     {
+      "taskId": "28",
+      "taskName": "War of Attrition",
+      "taskDesc": "Fight 15 waves in 3 matches (Weekly)"
+     },
+     {
+      "taskId": "29",
+      "taskName": "Winning Streak",
+      "taskDesc": "Get a 3-win streak in 5 matches (Weekly)"
+     },
+     {
+      "taskId": "30",
+      "taskName": "Winning Streak",
+      "taskDesc": "Get a 4-win streak in 3 matches (Weekly)"
+     },
+     {
+      "taskId": "31",
+      "taskName": "Winning Streak",
+      "taskDesc": "Get a 5-win streak in 2 matches (Weekly)"
+     },
+     {
+      "taskId": "32",
+      "taskName": "Compound Interest",
+      "taskDesc": "Earn 200 Gold from interest (Weekly)"
+     },
+     {
+      "taskId": "33",
+      "taskName": "Win Some, Lose Some",
+      "taskDesc": "Earn 50 Gold from win streaks (Weekly)"
+     },
+     {
+      "taskId": "34",
+      "taskName": "Win Some, Lose Some",
+      "taskDesc": "Earn 50 Gold from loss streaks (Weekly)"
+     },
+     {
+      "taskId": "35",
+      "taskName": "Invincible Ship",
+      "taskDesc": "Deal 100 damage to enemy ships (Weekly)"
+     },
+     {
+      "taskId": "36",
+      "taskName": "March on the Islands",
+      "taskDesc": "Play 1 Island Conquest match"
+     },
+     {
+      "taskId": "37",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 50 Gold refreshing the Character Shop"
+     },
+     {
+      "taskId": "38",
+      "taskName": "Invincible Ship",
+      "taskDesc": "Deal 100 damage to enemy ships"
+     },
+     {
+      "taskId": "39",
+      "taskName": "Compound Interest",
+      "taskDesc": "Earn 50 Gold from interest"
+     },
+     {
+      "taskId": "40",
+      "taskName": "March on the Islands",
+      "taskDesc": "Play 3 Island Conquest matches"
+     },
+     {
+      "taskId": "41",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 150 Gold refreshing the Character Shop"
+     },
+     {
+      "taskId": "42",
+      "taskName": "Invincible Ship",
+      "taskDesc": "Deal 300 damage to enemy ships"
+     },
+     {
+      "taskId": "43",
+      "taskName": "Compound Interest",
+      "taskDesc": "Earn 150 Gold from interest"
+     },
+     {
+      "taskId": "44",
+      "taskName": "March on the Islands",
+      "taskDesc": "Play 10 Island Conquest matches"
+     },
+     {
+      "taskId": "45",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 500 Gold refreshing the Character Shop"
+     },
+     {
+      "taskId": "46",
+      "taskName": "Invincible Ship",
+      "taskDesc": "Deal 1000 damage to enemy ships"
+     },
+     {
+      "taskId": "47",
+      "taskName": "Compound Interest",
+      "taskDesc": "Earn 500 Gold from interest"
+     },
+     {
+      "taskId": "48",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 4 (5 times)"
+     },
+     {
+      "taskId": "49",
+      "taskName": "Strongest Crew",
+      "taskDesc": "Get 100 characters at 2 stars"
+     },
+     {
+      "taskId": "50",
+      "taskName": "March on the Islands",
+      "taskDesc": "Play 10 Island Conquest matches (Daily)"
+     },
+     {
+      "taskId": "51",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 5 (3 times) (Daily)"
+     },
+     {
+      "taskId": "52",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 2 (2 times) (Daily)"
+     },
+     {
+      "taskId": "53",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 4 (5 times) (Daily)"
+     },
+     {
+      "taskId": "54",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (1 time) (Daily)"
+     },
+     {
+      "taskId": "55",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (2 times) (Daily)"
+     },
+     {
+      "taskId": "56",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (3 times) (Daily)"
+     },
+     {
+      "taskId": "57",
+      "taskName": "Build Warships",
+      "taskDesc": "Spend 50 Gold upgrading your ship (Daily)"
+     },
+     {
+      "taskId": "58",
+      "taskName": "Build Warships",
+      "taskDesc": "Spend 60 Gold upgrading your ship (Daily)"
+     },
+     {
+      "taskId": "59",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 20 Gold refreshing the Character Shop (Daily)"
+     },
+     {
+      "taskId": "60",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 30 Gold refreshing the Character Shop (Daily)"
+     },
+     {
+      "taskId": "61",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 40 Gold refreshing the Character Shop (Daily)"
+     },
+     {
+      "taskId": "62",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Luffy (Daily)"
+     },
+     {
+      "taskId": "63",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Chopper (Daily)"
+     },
+     {
+      "taskId": "64",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Zoro (Daily)"
+     },
+     {
+      "taskId": "65",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Aokiji (Daily)"
+     },
+     {
+      "taskId": "66",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Gecko Moria (Daily)"
+     },
+     {
+      "taskId": "67",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Crocodile (Daily)"
+     },
+     {
+      "taskId": "68",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Sentomaru (Daily)"
+     },
+     {
+      "taskId": "69",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Absalom (Daily)"
+     },
+     {
+      "taskId": "70",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Kalifa (Daily)"
+     },
+     {
+      "taskId": "71",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Rob Lucci (Daily)"
+     },
+     {
+      "taskId": "72",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Jinbe (Daily)"
+     },
+     {
+      "taskId": "73",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Perona (Daily)"
+     },
+     {
+      "taskId": "74",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Jabra (Daily)"
+     },
+     {
+      "taskId": "75",
+      "taskName": "Strongest Crew",
+      "taskDesc": "Get 20 characters at 2 stars (Daily)"
+     },
+     {
+      "taskId": "76",
+      "taskName": "Strongest Crew",
+      "taskDesc": "Get 5 characters at 3 stars (Daily)"
+     },
+     {
+      "taskId": "77",
+      "taskName": "War of Attrition",
+      "taskDesc": "Fight 15 waves in 3 matches (Daily)"
+     },
+     {
+      "taskId": "78",
+      "taskName": "Winning Streak",
+      "taskDesc": "Get a 3-win streak in 5 matches (Daily)"
+     },
+     {
+      "taskId": "79",
+      "taskName": "Winning Streak",
+      "taskDesc": "Get a 4-win streak in 3 matches (Daily)"
+     },
+     {
+      "taskId": "80",
+      "taskName": "Winning Streak",
+      "taskDesc": "Get a 5-win streak in 2 matches (Daily)"
+     },
+     {
+      "taskId": "81",
+      "taskName": "Compound Interest",
+      "taskDesc": "Earn 200 Gold from interest (Daily)"
+     },
+     {
+      "taskId": "82",
+      "taskName": "Win Some, Lose Some",
+      "taskDesc": "Earn 50 Gold from win streaks (Daily)"
+     },
+     {
+      "taskId": "83",
+      "taskName": "Win Some, Lose Some",
+      "taskDesc": "Earn 50 Gold from loss streaks (Daily)"
+     },
+     {
+      "taskId": "84",
+      "taskName": "Invincible Ship",
+      "taskDesc": "Deal 100 damage to enemy ships (Daily)"
+     },
+     {
+      "taskId": "85",
+      "taskName": "March on the Islands",
+      "taskDesc": "Play 10 Island Conquest matches (Event)"
+     },
+     {
+      "taskId": "86",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 5 (3 times) (Event)"
+     },
+     {
+      "taskId": "87",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 2 (2 times) (Event)"
+     },
+     {
+      "taskId": "88",
+      "taskName": "Rule the Islands",
+      "taskDesc": "Finish in the top 4 (5 times) (Event)"
+     },
+     {
+      "taskId": "89",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (1 time) (Event)"
+     },
+     {
+      "taskId": "90",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (2 times) (Event)"
+     },
+     {
+      "taskId": "91",
+      "taskName": "Return of the King",
+      "taskDesc": "Finish first (3 times) (Event)"
+     },
+     {
+      "taskId": "92",
+      "taskName": "Build Warships",
+      "taskDesc": "Spend 50 Gold upgrading your ship (Event)"
+     },
+     {
+      "taskId": "93",
+      "taskName": "Build Warships",
+      "taskDesc": "Spend 60 Gold upgrading your ship (Event)"
+     },
+     {
+      "taskId": "94",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 20 Gold refreshing the Character Shop (Event)"
+     },
+     {
+      "taskId": "95",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 30 Gold refreshing the Character Shop (Event)"
+     },
+     {
+      "taskId": "96",
+      "taskName": "Elite Recruit",
+      "taskDesc": "Spend 40 Gold refreshing the Character Shop (Event)"
+     },
+     {
+      "taskId": "97",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Luffy (Event)"
+     },
+     {
+      "taskId": "98",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Chopper (Event)"
+     },
+     {
+      "taskId": "99",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Zoro (Event)"
+     },
+     {
+      "taskId": "100",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Aokiji (Event)"
+     },
+     {
+      "taskId": "101",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Gecko Moria (Event)"
+     },
+     {
+      "taskId": "102",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Crocodile (Event)"
+     },
+     {
+      "taskId": "103",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Sentomaru (Event)"
+     },
+     {
+      "taskId": "104",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Absalom (Event)"
+     },
+     {
+      "taskId": "105",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Kalifa (Event)"
+     },
+     {
+      "taskId": "106",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Rob Lucci (Event)"
+     },
+     {
+      "taskId": "107",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Jinbe (Event)"
+     },
+     {
+      "taskId": "108",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Perona (Event)"
+     },
+     {
+      "taskId": "109",
+      "taskName": "Top Power",
+      "taskDesc": "Get 3 copies of 2-star Jabra (Event)"
+     },
+     {
+      "taskId": "110",
+      "taskName": "Strongest Crew",
+      "taskDesc": "Get 20 characters at 2 stars (Event)"
+     },
+     {
+      "taskId": "111",
+      "taskName": "Strongest Crew",
+      "taskDesc": "Get 5 characters at 3 stars (Event)"
+     },
+     {
+      "taskId": "112",
+      "taskName": "War of Attrition",
+      "taskDesc": "Fight 15 waves in 3 matches (Event)"
+     },
+     {
+      "taskId": "113",
+      "taskName": "Winning Streak",
+      "taskDesc": "Get a 3-win streak in 5 matches (Event)"
+     },
+     {
+      "taskId": "114",
+      "taskName": "Winning Streak",
+      "taskDesc": "Get a 4-win streak in 3 matches (Event)"
+     },
+     {
+      "taskId": "115",
+      "taskName": "Winning Streak",
+      "taskDesc": "Get a 5-win streak in 2 matches (Event)"
+     },
+     {
+      "taskId": "116",
+      "taskName": "Compound Interest",
+      "taskDesc": "Earn 200 Gold from interest (Event)"
+     },
+     {
+      "taskId": "117",
+      "taskName": "Win Some, Lose Some",
+      "taskDesc": "Earn 50 Gold from win streaks (Event)"
+     },
+     {
+      "taskId": "118",
+      "taskName": "Win Some, Lose Some",
+      "taskDesc": "Earn 50 Gold from loss streaks (Event)"
+     },
+     {
+      "taskId": "119",
+      "taskName": "Invincible Ship",
+      "taskDesc": "Deal 100 damage to enemy ships (Event)"
+     }
+    ]
+   },
+   "TableAutoChessGrade": {
+    "key_column": "grade",
+    "text_columns": [
+     "gradeTypeName",
+     "gradeName"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "grade": "1",
+      "gradeTypeName": "Novice",
+      "gradeName": "Novice 1"
+     },
+     {
+      "grade": "2",
+      "gradeTypeName": "Novice",
+      "gradeName": "Novice 2"
+     },
+     {
+      "grade": "3",
+      "gradeTypeName": "Novice",
+      "gradeName": "Novice 3"
+     },
+     {
+      "grade": "4",
+      "gradeTypeName": "Novice",
+      "gradeName": "Novice 4"
+     },
+     {
+      "grade": "5",
+      "gradeTypeName": "Novice",
+      "gradeName": "Novice 5"
+     },
+     {
+      "grade": "6",
+      "gradeTypeName": "Novice",
+      "gradeName": "Novice 6"
+     },
+     {
+      "grade": "7",
+      "gradeTypeName": "Novice",
+      "gradeName": "Novice 7"
+     },
+     {
+      "grade": "8",
+      "gradeTypeName": "Novice",
+      "gradeName": "Novice 8"
+     },
+     {
+      "grade": "9",
+      "gradeTypeName": "Novice",
+      "gradeName": "Novice 9"
+     },
+     {
+      "grade": "10",
+      "gradeTypeName": "Expert",
+      "gradeName": "Expert 1"
+     },
+     {
+      "grade": "11",
+      "gradeTypeName": "Expert",
+      "gradeName": "Expert 2"
+     },
+     {
+      "grade": "12",
+      "gradeTypeName": "Expert",
+      "gradeName": "Expert 3"
+     },
+     {
+      "grade": "13",
+      "gradeTypeName": "Expert",
+      "gradeName": "Expert 4"
+     },
+     {
+      "grade": "14",
+      "gradeTypeName": "Expert",
+      "gradeName": "Expert 5"
+     },
+     {
+      "grade": "15",
+      "gradeTypeName": "Expert",
+      "gradeName": "Expert 6"
+     },
+     {
+      "grade": "16",
+      "gradeTypeName": "Expert",
+      "gradeName": "Expert 7"
+     },
+     {
+      "grade": "17",
+      "gradeTypeName": "Expert",
+      "gradeName": "Expert 8"
+     },
+     {
+      "grade": "18",
+      "gradeTypeName": "Expert",
+      "gradeName": "Expert 9"
+     },
+     {
+      "grade": "19",
+      "gradeTypeName": "Master",
+      "gradeName": "Master 1"
+     },
+     {
+      "grade": "20",
+      "gradeTypeName": "Master",
+      "gradeName": "Master 2"
+     },
+     {
+      "grade": "21",
+      "gradeTypeName": "Master",
+      "gradeName": "Master 3"
+     },
+     {
+      "grade": "22",
+      "gradeTypeName": "Master",
+      "gradeName": "Master 4"
+     },
+     {
+      "grade": "23",
+      "gradeTypeName": "Master",
+      "gradeName": "Master 5"
+     },
+     {
+      "grade": "24",
+      "gradeTypeName": "Master",
+      "gradeName": "Master 6"
+     },
+     {
+      "grade": "25",
+      "gradeTypeName": "Master",
+      "gradeName": "Master 7"
+     },
+     {
+      "grade": "26",
+      "gradeTypeName": "Master",
+      "gradeName": "Master 8"
+     },
+     {
+      "grade": "27",
+      "gradeTypeName": "Master",
+      "gradeName": "Master 9"
+     },
+     {
+      "grade": "28",
+      "gradeTypeName": "Rakshasa",
+      "gradeName": "Rakshasa 1"
+     },
+     {
+      "grade": "29",
+      "gradeTypeName": "Rakshasa",
+      "gradeName": "Rakshasa 2"
+     },
+     {
+      "grade": "30",
+      "gradeTypeName": "Rakshasa",
+      "gradeName": "Rakshasa 3"
+     },
+     {
+      "grade": "31",
+      "gradeTypeName": "Rakshasa",
+      "gradeName": "Rakshasa 4"
+     },
+     {
+      "grade": "32",
+      "gradeTypeName": "Rakshasa",
+      "gradeName": "Rakshasa 5"
+     },
+     {
+      "grade": "33",
+      "gradeTypeName": "Rakshasa",
+      "gradeName": "Rakshasa 6"
+     },
+     {
+      "grade": "34",
+      "gradeTypeName": "Rakshasa",
+      "gradeName": "Rakshasa 7"
+     },
+     {
+      "grade": "35",
+      "gradeTypeName": "Rakshasa",
+      "gradeName": "Rakshasa 8"
+     },
+     {
+      "grade": "36",
+      "gradeTypeName": "Rakshasa",
+      "gradeName": "Rakshasa 9"
+     },
+     {
+      "grade": "37",
+      "gradeTypeName": "Supreme",
+      "gradeName": "Supreme"
+     }
+    ]
+   },
+   "TableAutoChessHero": {
+    "key_column": "heroId",
+    "text_columns": [
+     "heroStyle"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "heroId": "111005",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "111006",
+      "heroStyle": "ST Burst"
+     },
+     {
+      "heroId": "111007",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "111008",
+      "heroStyle": "DEF Wall"
+     },
+     {
+      "heroId": "111009",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "111010",
+      "heroStyle": "ST Burst"
+     },
+     {
+      "heroId": "112001",
+      "heroStyle": "DEF Wall"
+     },
+     {
+      "heroId": "112002",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "112003",
+      "heroStyle": "ST Burst"
+     },
+     {
+      "heroId": "112004",
+      "heroStyle": "ST Burst"
+     },
+     {
+      "heroId": "112005",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "112006",
+      "heroStyle": "Heal Support"
+     },
+     {
+      "heroId": "112007",
+      "heroStyle": "Utility"
+     },
+     {
+      "heroId": "112008",
+      "heroStyle": "DEF Wall"
+     },
+     {
+      "heroId": "112009",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "112010",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "112011",
+      "heroStyle": "DEF Wall"
+     },
+     {
+      "heroId": "112012",
+      "heroStyle": "ST Burst"
+     },
+     {
+      "heroId": "112019",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "112020",
+      "heroStyle": "Heal Support"
+     },
+     {
+      "heroId": "112021",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "112023",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "112024",
+      "heroStyle": "Heal Support"
+     },
+     {
+      "heroId": "112025",
+      "heroStyle": "Utility"
+     },
+     {
+      "heroId": "112026",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "112027",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "112028",
+      "heroStyle": "DEF Wall"
+     },
+     {
+      "heroId": "113001",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "113002",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "113003",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "113004",
+      "heroStyle": "DEF Wall"
+     },
+     {
+      "heroId": "113005",
+      "heroStyle": "ST Burst"
+     },
+     {
+      "heroId": "113006",
+      "heroStyle": "DEF Wall"
+     },
+     {
+      "heroId": "113007",
+      "heroStyle": "ST Burst"
+     },
+     {
+      "heroId": "113009",
+      "heroStyle": "DEF Wall"
+     },
+     {
+      "heroId": "113010",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "113011",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "113012",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "113013",
+      "heroStyle": "ST Burst"
+     },
+     {
+      "heroId": "113014",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "113015",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "113016",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "113017",
+      "heroStyle": "DEF Wall"
+     },
+     {
+      "heroId": "113018",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "113022",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "113008",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "113021",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "113020",
+      "heroStyle": "DEF Wall"
+     },
+     {
+      "heroId": "113023",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "113044",
+      "heroStyle": "Balanced"
+     },
+     {
+      "heroId": "113040",
+      "heroStyle": "Sustain DMG"
+     },
+     {
+      "heroId": "113045",
+      "heroStyle": "DEF Wall"
+     },
+     {
+      "heroId": "113046",
+      "heroStyle": "Sustain DMG"
+     }
+    ]
+   },
+   "TableAutoChessAwards": {
+    "key_column": "id",
+    "text_columns": [
+     "desc"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "id": "1",
+      "desc": "A full-HP victory! Fight to the end!"
+     },
+     {
+      "id": "2",
+      "desc": "Keep it up and aim for first!"
+     },
+     {
+      "id": "3",
+      "desc": "Keep it up and aim for first!"
+     },
+     {
+      "id": "4",
+      "desc": "Keep it up and aim for first!"
+     },
+     {
+      "id": "5",
+      "desc": "Fear no hardship, fight bravely!"
+     },
+     {
+      "id": "6",
+      "desc": "Fear no hardship, fight bravely!"
+     },
+     {
+      "id": "7",
+      "desc": "Fear no hardship, fight bravely!"
+     },
+     {
+      "id": "8",
+      "desc": "Fear no hardship, fight bravely!"
+     }
+    ]
+   },
+   "TableAutoChessSeriesRound": {
+    "key_column": "seriesRound",
+    "text_columns": [
+     "winDes"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "seriesRound": "3",
+      "winDes": "Killing Spree"
+     },
+     {
+      "seriesRound": "5",
+      "winDes": "Unstoppable"
+     },
+     {
+      "seriesRound": "8",
+      "winDes": "Dominating"
+     }
+    ]
+   },
+   "TableAutoChessSeasionTitle": {
+    "key_column": "seasonTitleId",
+    "text_columns": [
+     "titleRank"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "seasonTitleId": "1",
+      "titleRank": "Rank <size=40>1</size>"
+     },
+     {
+      "seasonTitleId": "2",
+      "titleRank": "Rank 2-5"
+     },
+     {
+      "seasonTitleId": "3",
+      "titleRank": "Rank 6-10"
+     },
+     {
+      "seasonTitleId": "4",
+      "titleRank": "Supreme Tier"
+     }
+    ]
+   },
+   "TableAutoChessHeroRare": {
+    "key_column": "rare",
+    "text_columns": [
+     "rareDesc"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "rare": "1",
+      "rareDesc": "Common"
+     },
+     {
+      "rare": "2",
+      "rareDesc": "Uncommon"
+     },
+     {
+      "rare": "3",
+      "rareDesc": "Rare"
+     },
+     {
+      "rare": "4",
+      "rareDesc": "Epic"
+     },
+     {
+      "rare": "5",
+      "rareDesc": "Legendary"
+     }
+    ]
+   },
+   "TableAutoChessExtraHeroPack": {
+    "key_column": "packetId",
+    "text_columns": [
+     "packageName"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "packetId": "1",
+      "packageName": "Whitebeard Pirates"
+     },
+     {
+      "packetId": "2",
+      "packageName": "Big Mom Pirates"
+     }
+    ]
+   },
+   "TableEnterAutoChessConfig": {
+    "key_column": "id",
+    "text_columns": [
+     "value"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": false,
+    "rows": [
+     {
+      "id": "5",
+      "value": "Event Time: {0}/{1} {2}:{3}-{4}/{5} {6}:{7}"
+     },
+     {
+      "id": "6",
+      "value": "Island Conquest Shop"
+     }
+    ]
+   },
+   "TableText": {
+    "key_column": "id",
+    "text_columns": [
+     "text"
+    ],
+    "context_columns": [],
+    "content_diverges_between_bundles": true,
+    "rows": [
+     {
+      "id": "LadderCorrection_Tip",
+      "text": "Balanced Match allows only SR or lower characters, and equipment has no effect"
+     },
+     {
+      "id": "Ladder3V3_Tip",
+      "text": "3v3 Match allows only 3 deployed characters"
+     },
+     {
+      "id": "LadderMatch_Rank",
+      "text": "Rank:"
+     },
+     {
+      "id": "LadderMatch_Time",
+      "text": "Match Time:"
+     },
+     {
+      "id": "LadderAddIntegral",
+      "text": "Points: <color=#23FF1D>+{0}</color>"
+     },
+     {
+      "id": "LadderLoseIntegral",
+      "text": "Points: <color=#FFA35C>-{0}</color>"
+     },
+     {
+      "id": "LadderFormation",
+      "text": "Your match lineup is empty. Can't start matching!"
+     },
+     {
+      "id": "LadderFormationNotFill",
+      "text": "Your match lineup isn't full. Start matching anyway?"
+     },
+     {
+      "id": "LadderMatch_Into_Battle",
+      "text": "SSR characters can't be deployed in Balanced Match"
+     },
+     {
+      "id": "LadderMatchShared",
+      "text": "shared a Ladder match: Server {0}-{1} VS Server {2}-{3},"
+     },
+     {
+      "id": "CancelLadderMatch",
+      "text": "You entered a non-safe zone. Ladder matching has been canceled"
+     },
+     {
+      "id": "LadderMatchTitle1",
+      "text": "Matching for Ladder"
+     },
+     {
+      "id": "LadderMatch_CannotOperate",
+      "text": "Can't battle or change maps while queued"
+     },
+     {
+      "id": "LadderMatchTitle2",
+      "text": "Matching for Unrestricted Match..."
+     },
+     {
+      "id": "InTeamCantLadderMatch",
+      "text": "Can't join Ladder matching while teamed up"
+     },
+     {
+      "id": "LadderRank",
+      "text": "Rank {0} and below"
+     },
+     {
+      "id": "LadderNotOpen",
+      "text": "Ladder isn't open. Can't match"
+     },
+     {
+      "id": "LadderMatching_Tip1",
+      "text": "Matching for Unrestricted Match"
+     },
+     {
+      "id": "LadderMatching_Tip2",
+      "text": "Matching for Balanced Match"
+     },
+     {
+      "id": "LadderMatching_Tip3",
+      "text": "Matching for 3v3 Match"
+     },
+     {
+      "id": "LadderMatching_Tip4",
+      "text": "Matching for Glory Match"
+     },
+     {
+      "id": "LadderMatching_Tip5",
+      "text": "Matching for Peak Arena"
+     },
+     {
+      "id": "LadderRewardTipText",
+      "text": "(Weekly point rewards require at least 10 matches that week)"
+     },
+     {
+      "id": "LadderWar_RaceTreeTitle",
+      "text": "Zone {1} Conquest Tournament {2}/{3}-{4}/{5}"
+     },
+     {
+      "id": "LadderWar_BetSecNotice",
+      "text": "\\nBetting on this player costs: <sprite=1>{1}\\nIf they win the title, you get: <sprite=1>{0}\\nThis isn't the final reward. Bets can't be canceled."
+     },
+     {
+      "id": "LadderWar_SupportNotice",
+      "text": "Support {0}-{1}?"
+     },
+     {
+      "id": "LadderWar_TopRaceTreeTitle",
+      "text": "Championship Match"
+     },
+     {
+      "id": "LadderWar_RewardPageTitle",
+      "text": "Advancement Rewards"
+     },
+     {
+      "id": "LadderWar_RewardType7",
+      "text": "Champion"
+     },
+     {
+      "id": "LadderWar_RewardType6",
+      "text": "Runner-Up"
+     },
+     {
+      "id": "LadderWar_RewardType5",
+      "text": "Third Place"
+     },
+     {
+      "id": "LadderWar_RewardType4",
+      "text": "Semifinalist"
+     },
+     {
+      "id": "LadderWar_RewardType3",
+      "text": "Top 8"
+     },
+     {
+      "id": "LadderWar_RewardType2",
+      "text": "Top 16"
+     },
+     {
+      "id": "LadderWar_RewardType1",
+      "text": "Qualifier"
+     },
+     {
+      "id": "LadderWar_SeasonNum",
+      "text": "Season {0}"
+     },
+     {
+      "id": "LadderWar_ThirdRaceTitle",
+      "text": "Third-Place Match"
+     },
+     {
+      "id": "LadderWar_RoundEmpty",
+      "text": "No Players"
+     },
+     {
+      "id": "LadderWar_NotDefine",
+      "text": "Awaiting Result"
+     },
+     {
+      "id": "LadderWar_RewardDesc",
+      "text": "Advancement rewards are sent by mail once the champion is decided"
+     },
+     {
+      "id": "LadderWar_ReviewPageTitle",
+      "text": "Season Review"
+     },
+     {
+      "id": "LadderWar_ReviewTitle0",
+      "text": "Zone AB Champion"
+     },
+     {
+      "id": "LadderWar_ReviewTitle1",
+      "text": "Zone CD Champion"
+     },
+     {
+      "id": "LadderWar_ReviewTitle2",
+      "text": "Champion"
+     },
+     {
+      "id": "LadderWar_ReviewTitle3",
+      "text": "Third Place"
+     },
+     {
+      "id": "LadderWar_NiceHistory",
+      "text": "Support History"
+     },
+     {
+      "id": "LadderWar_Rule",
+      "text": "*Overview\\nWhen a Ladder season ends, the top 32 players are selected for the Conquest Tournament.\\nPlayers advance or are eliminated through the bracket until a champion is decided.\\nThe top three players get rare equipment rewards.\\n*Match Rules\\nEach match is best of three, with three battles:\\nFirst Match: 2v2 battle\\nSecond Match: 3v3 battle\\nThird Match: 5v5 battle\\nA character can't be deployed in more than one of the three battles.\\n*Preparation and Entering Battle\\nPreparation:\\nBefore each match, players must set their battle lineup.\\nEntering battle:\\n1. When the battle enters its preparation phase, players wait on the Conquest Tournament screen.\\n2. Players in a non-safe zone can't take part.\\n3. Players who are teamed up or following someone can't take part.\\n4. 10 seconds before the battle starts, a ready screen pops up. Once ready, players are pulled into the arena in real time and fight manually.\\n*Victory Conditions\\n1. Defeat all of the opponent's deployed characters to win.\\n2. If the battle runs past the time limit, the side with more HP advances.\\n*Betting and Support\\n1. Players can bet on the champion before the Top 32 matches start.\\n2. A bet costs 100 Blue Diamonds.\\n3. If your pick wins the title, you get up to 2000 Blue Diamonds.\\n4. Before each match you can support your favorite player. If they advance, you receive a support reward.\\n*Champion Display\\nThe top three players are shown on the Champion Display screen until the current tournament ends.\\n*Tournament Cycle\\nEach Conquest Tournament lasts one month\\n*Rewards\\n1. Every qualifier gets rare equipment and a title.\\n2. See the cycle on the Conquest Tournament screen for reward details.\\n3. A successful support grants 50 Arena Coins.\\n*The battle Support feature is disabled in the Conquest Tournament."
+     },
+     {
+      "id": "LadderWar_BetDuplicateNotice",
+      "text": "You've already bet on this player\\nIf they win the title, you get\\n<sprite=1>{0}"
+     },
+     {
+      "id": "OnceLadder_GetReady",
+      "text": "Getting ready..."
+     },
+     {
+      "id": "OnceLadder_Prepare",
+      "text": "Preparing..."
+     },
+     {
+      "id": "OnceLadderTips_Prepare",
+      "text": "The battle is being prepared..."
+     },
+     {
+      "id": "OnceLadderSession_GetReady",
+      "text": "Getting Ready"
+     },
+     {
+      "id": "OnceLadderSession_Prepare",
+      "text": "Preparing"
+     },
+     {
+      "id": "OnceLadderSession_Fighting",
+      "text": "In Battle"
+     },
+     {
+      "id": "LadderWar_SeasonTimeNotArrived",
+      "text": "Season hasn't started"
+     },
+     {
+      "id": "OnceLadder_Better",
+      "text": "Zone {0} Top {1} Match"
+     },
+     {
+      "id": "OnceLadder_PeakThirdWinner",
+      "text": "Peak Arena Third-Place Match"
+     },
+     {
+      "id": "OnceLadder_PeakChampine",
+      "text": "Peak Arena Championship Match"
+     },
+     {
+      "id": "OnceLadder_PeakBetter",
+      "text": "Peak Arena Top {0} Match"
+     },
+     {
+      "id": "LadderWar_NotInSeason",
+      "text": "The season hasn't started. Nothing to view."
+     },
+     {
+      "id": "LadderWar_NotArriveWinner",
+      "text": "No winner has been decided yet. Please wait!"
+     },
+     {
+      "id": "LadderExitBattleTip",
+      "text": "If you leave, the AI will play your match. You can return with the Battle button before it ends. Leave anyway?"
+     },
+     {
+      "id": "LadderWarReview",
+      "text": "You haven't supported any player yet"
+     },
+     {
+      "id": "LadderWar_HasSupport",
+      "text": "You can support only one player per match"
+     },
+     {
+      "id": "LadderWar_OutSupport",
+      "text": "The match has started. Support is closed"
+     },
+     {
+      "id": "LadderWar_greyend",
+      "text": "Match Over"
+     },
+     {
+      "id": "LadderWar_ChampionPVP",
+      "text": "{0}v{1} Match"
+     },
+     {
+      "id": "LadderWar_BetSecNoticeTitle",
+      "text": "Champion Bet"
+     },
+     {
+      "id": "Ladder_Three",
+      "text": "3v3 Match"
+     },
+     {
+      "id": "item_chessmoney",
+      "text": "Conquest Coin"
+     },
+     {
+      "id": "item_chessmoney_desc",
+      "text": "Island Conquest reward currency. Exchange it for items in the Island Conquest Exchange Shop"
+     },
+     {
+      "id": "Chess_EarningTitle",
+      "text": "Expected Income"
+     },
+     {
+      "id": "Chess_EarningWinningStreak",
+      "text": "Win Streak"
+     },
+     {
+      "id": "Chess_EarningLoseStreak",
+      "text": "Loss Streak"
+     },
+     {
+      "id": "Chess_PlayerListTitle",
+      "text": "Player List"
+     },
+     {
+      "id": "Chess_PersonInformation",
+      "text": "Profile"
+     },
+     {
+      "id": "Chess_UpHero",
+      "text": "Deployed"
+     },
+     {
+      "id": "Chess_PrepareHero",
+      "text": "Bench"
+     },
+     {
+      "id": "Chess_SeasonAward",
+      "text": "Season Titles"
+     },
+     {
+      "id": "Chess_AwardNumber",
+      "text": "Play at least <color=#BA5714FF>10</color> matches per week to earn rewards"
+     },
+     {
+      "id": "ChessFightWeeks",
+      "text": "Weekly Matches:"
+     },
+     {
+      "id": "ChessBuyHero",
+      "text": "Buy Characters"
+     },
+     {
+      "id": "ChessRequreQuitContent",
+      "text": "Quit Island Conquest? You won't be able to rejoin this match!"
+     },
+     {
+      "id": "ChessLeaveContent",
+      "text": "Quit Island Conquest? You won't be able to spectate this match again!"
+     },
+     {
+      "id": "AutoChessProfitDesc",
+      "text": "Gold is the only resource for buying characters, refreshing the shop and upgrading your ship in Island Conquest. You earn it automatically each wave, and selling characters refunds some Gold"
+     },
+     {
+      "id": "ChessBillingInfo",
+      "text": "Results"
+     },
+     {
+      "id": "chessHarmNumber",
+      "text": "Damage:"
+     },
+     {
+      "id": "chessSurvivalNumber",
+      "text": "Rounds Survived:"
+     },
+     {
+      "id": "ChessProbabilityTitle",
+      "text": "Draw Odds"
+     },
+     {
+      "id": "ChessHintText",
+      "text": "The odds of drawing each quality change as your level rises"
+     },
+     {
+      "id": "ChessLevelNow",
+      "text": "Current"
+     },
+     {
+      "id": "ChessLevelNext",
+      "text": "Next"
+     },
+     {
+      "id": "ACExplainPageHeroSubPageTabName",
+      "text": "Character Codex"
+     },
+     {
+      "id": "ACExplainPageWikiSubPageTabName",
+      "text": "Game Wiki"
+     },
+     {
+      "id": "ACExplainPageTutorialSubPageTabName",
+      "text": "How to Play"
+     },
+     {
+      "id": "ACExplainPageWikiSubPageRuleTabContent",
+      "text": "*Island Conquest is open daily 10:00~24:00\\n \\n*Each match has 8 players.\\n \\nUse your characters to fend off monsters and other players' attacks.\\n \\nIf your defense fails, you lose HP. When your HP hits zero, you're out.\\n \\nThe last player standing wins.\\n*You earn EXP and Gold during the match.\\n \\nEnough EXP raises your level, increasing how many characters you can deploy and the odds of drawing high-quality ones.\\n \\nGold buys characters and EXP, or refreshes the Character Shop.\\n*Choosing the right characters is the key to victory.\\n \\nAll players draw from a shared character pool.\\n \\nWith 3 identical characters of the same star level, you can upgrade them into a stronger one.\\n \\nDeploying several characters of a certain group or class activates extra bonuses."
+     },
+     {
+      "id": "ACExplainPageWikiSubPageRoundTabContent",
+      "text": "*At the start of each round you get round Gold, win streak bonus Gold, loss streak compensation Gold and interest Gold.\\n \\nYou get 1 EXP at the start of each round.\\n \\nThe Character Shop refreshes automatically at the start of each round.\\n \\n*During the preparation phase you can adjust your lineup and positions, or merge characters.\\n \\nDuring preparation, characters on the board can temporarily exceed the deployment limit.\\n \\nWhen preparation ends, characters over the limit are pulled back automatically; if the bench is full, the extras are sold automatically.\\n \\n*In the battle phase, each player is randomly assigned an opponent to defend against.\\n \\nEach player is the opponent of only 1 player per battle phase.\\n \\nYou can't adjust characters on the board during the battle phase.\\n \\nIn waves 1, 2 and 3 you defend against preset NPCs.\\n \\n*If your defense fails, you take damage based on the number and stars of the opponent's remaining characters. When your warship's HP hits 0, you're out."
+     },
+     {
+      "id": "ACExplainPageWikiSubPageLevelTabContent",
+      "text": "*Each match starts with a Lv1 warship. Earn enough warship EXP to level it up.\\n \\nYou get 1 warship EXP automatically at the start of each round.\\n \\nSpend 5 Gold on Build Warship to gain 4 warship EXP instantly.\\n \\n*Warship level sets the maximum number of deployable characters\\n \\nWarship level sets the odds of each character quality appearing in the Character Shop."
+     },
+     {
+      "id": "ACExplainPageWikiSubPageCoinTabContent",
+      "text": "*Round Gold: at the start of each round, get Gold based on the current round number.\\n \\nWin Streak Bonus / Loss Streak Compensation: at the start of each round, get Gold based on your current win or loss streak.\\n \\nInterest Gold: at the start of each round, get 10% interest on the Gold you hold, up to 5 Gold per round.\\n \\nVictory Reward: at the start of each round, get 2 Gold if you won the previous battle.\\n \\nSell Characters: selling characters you own returns some Gold.\\n \\n*Buy Characters: spend Gold in the Character Shop to buy characters. The shop refreshes automatically at the start of each round.\\n \\nRefresh: spend 2 Gold to refresh the Character Shop instantly\\n \\nBuild Warship: spend 5 Gold to gain 4 EXP instantly."
+     },
+     {
+      "id": "ACExplainPageWikiSubPageHeroTabContent",
+      "text": "*Deploy 3 identical characters to raise their star level.\\n \\nHigher-star characters are stronger\\n \\nEach character can reach up to 3 stars\\n \\n*Every character belongs to a specific group and class\\n \\nDeploying enough different characters of one group or class activates its bonus.\\n \\nBonuses with different count requirements can stack."
+     },
+     {
+      "id": "ACExplainPageWikiSubPageHeroShopTabContent",
+      "text": "*Buy characters in the Character Shop.\\n \\nAll characters in the Character Shop are 1-star.\\n \\nWhen a player is eliminated, their shop characters return to the pool.\\n \\n*The Character Shop refreshes automatically at the start of each round.\\n \\nUse Refresh at any phase to refresh the Character Shop for 2 Gold.\\n \\nWhen the shop refreshes, the odds of each quality appearing depend on warship level.\\n \\n*While locked, the Character Shop won't refresh at the start of a round.\\n \\nRefreshing while locked removes the lock.\\n \\nThe shop lock lasts only 1 round."
+     },
+     {
+      "id": "ChessWaveNumber",
+      "text": "Wave"
+     },
+     {
+      "id": "ChessRoleSet",
+      "text": "Lineup"
+     },
+     {
+      "id": "ac_player_death",
+      "text": "This player has been eliminated!"
+     },
+     {
+      "id": "ChessWaitForOthersEnd",
+      "text": "Waiting"
+     },
+     {
+      "id": "ACExplainPageTutorialSubPageInterfaceTab",
+      "text": "Interface"
+     },
+     {
+      "id": "ACExplainPageTutorialSubPageCampJobTab",
+      "text": "Groups & Abilities"
+     },
+     {
+      "id": "ACExplainPageTutorialSubPageChessTab",
+      "text": "Characters"
+     },
+     {
+      "id": "AutoChessShop",
+      "text": "Island Conquest Shop"
+     },
+     {
+      "id": "AutoChess_Level_Desc",
+      "text": "Current Tier"
+     },
+     {
+      "id": "AutoChess_Matching_Title",
+      "text": "Matching for Island Conquest"
+     },
+     {
+      "id": "AutoChess_Level_N",
+      "text": "Rank {0}"
+     },
+     {
+      "id": "AutoChessMatchingCantFightHint",
+      "text": "Matching for Island Conquest. You can't join other battles."
+     },
+     {
+      "id": "RecruitPauseAutoChess",
+      "text": "Entering Recruit will cancel Island Conquest matching. Continue?"
+     },
+     {
+      "id": "CancelAutoChessMatching",
+      "text": "You entered a non-safe zone. Island Conquest matching has been canceled"
+     },
+     {
+      "id": "InTeamCantAutoChessMatch",
+      "text": "Can't join Island Conquest matching while teamed up"
+     },
+     {
+      "id": "AutoChessExit",
+      "text": "Exit Island Conquest?\\nRe-enter to return to this match"
+     },
+     {
+      "id": "debufltChessText",
+      "text": "A full-HP victory! Fight to the end!"
+     },
+     {
+      "id": "ChessShipTitle",
+      "text": "Warship List"
+     },
+     {
+      "id": "ChessWinPrize",
+      "text": "Victory Rewards:"
+     },
+     {
+      "id": "ChessRewardEndDesc",
+      "text": "'Ends' M/d HH:mm"
+     },
+     {
+      "id": "ChessCitationTitle",
+      "text": "Island Commendation"
+     },
+     {
+      "id": "ChessSandShopTitle",
+      "text": "Board Shop"
+     },
+     {
+      "id": "ChessMonthlyCardTask",
+      "text": "+<color=#BA3901>{0}</color> Island Conquest weekly tasks"
+     },
+     {
+      "id": "ChessMonthlyCardMap",
+      "text": "Unlocks Commendation maps such as <color=#BA3901>\"{0}\"</color>"
+     },
+     {
+      "id": "ChessMonthlyCardCoin",
+      "text": "Conquest Coins earned from battles <color=#BA3901>+100%</color>"
+     },
+     {
+      "id": "Recharge_ChessMonthCard_Tab",
+      "text": "Island Conquest"
+     },
+     {
+      "id": "ios_Chess_subscribe_desc",
+      "text": "[Auto-Renewing Subscription Info]\\n1. Subscription:\\nIsland Commendation (1 month)\\n2. Price:\\nIsland Commendation: monthly auto-renewing plan at 30 CNY/month\\n3. Payment: charged to your iTunes account once you confirm the purchase\\n4. Auto-renewal: your Apple iTunes account is charged within 24 hours before expiry, and the subscription extends by one period once charged\\n5. Cancel: on your iPhone go to \"Settings\" --> \"iTunes Store & App Store\" -- tap \"Apple ID\", choose \"View Apple ID\", open \"Account Settings\" and tap \"Subscriptions\" to manage auto-renewal. To cancel, turn it off at least 24 hours before the billing period ends; you won't be charged within the 24 hours before expiry\\n6. User Agreement:\\n<link=\"url=https://www.nebulajoy.com/privacy_op/user_agree.html\"><#0000FF>https://www.nebulajoy.com/privacy_op/user_agree.html</color></link>\\n7. Privacy Policy:\\n<link=\"url=https://www.nebulajoy.com/privacy_op/privacy.html\"><#0000FF>https://www.nebulajoy.com/privacy_op/privacy.html</color></link>\\n"
+     },
+     {
+      "id": "ChessSandUseed",
+      "text": "In Use"
+     },
+     {
+      "id": "ChessMapNolockMapItem",
+      "text": "You don't own {0}, so you can't unlock this map!"
+     },
+     {
+      "id": "ChessMaplockMapItemSuccess",
+      "text": "You unlocked the {0} map!"
+     },
+     {
+      "id": "ios_Chess_Subscribe_DesText",
+      "text": "Subscribed"
+     },
+     {
+      "id": "ios_Chess_Subscribe_profit",
+      "text": "These perks last <color=#BA3901>one month</color>"
+     },
+     {
+      "id": "chessMonthCard",
+      "text": "Island Pass"
+     },
+     {
+      "id": "chessShopHeroDesc",
+      "text": "After buying {0}, you can use this hero in Island Conquest (this item is a full character card)"
+     },
+     {
+      "id": "ChessSet_PlayBattleAnimation",
+      "text": "Skip Battle Animations"
+     },
+     {
+      "id": "ChessSet_ShowLine",
+      "text": "Show Grid"
+     },
+     {
+      "id": "ChessSet_Back",
+      "text": "Back to Battle"
+     },
+     {
+      "id": "ChessPackagesTitle",
+      "text": "Limited Expansions"
+     },
+     {
+      "id": "ChessHeroName",
+      "text": "Island Characters"
+     },
+     {
+      "id": "OpenNewVersionLadder",
+      "text": "The new Ladder is open"
+     },
+     {
+      "id": "NewLadderPracticeBtn",
+      "text": "Glory Match"
+     },
+     {
+      "id": "NewLadderPinnacleBtn",
+      "text": "Peak Arena"
+     },
+     {
+      "id": "NewLadderPracticeShop",
+      "text": "Glory Match Shop"
+     },
+     {
+      "id": "NewLadderIntegralTips",
+      "text": "Points Required:"
+     },
+     {
+      "id": "NewLadderOpenPinnacle",
+      "text": "Peak Arena is open"
+     },
+     {
+      "id": "NewLadderPinnacleIntegral",
+      "text": "<color=#AF4A22FF>{0} Points</color> to enter the Ladder Peak Arena!"
+     },
+     {
+      "id": "NewLadderPinnacleRank",
+      "text": "The leaderboard's top <color=#AF4A22FF>32</color> enter the Conquest Tournament!"
+     },
+     {
+      "id": "NewLadderCoinLab",
+      "text": "{0}/week"
+     },
+     {
+      "id": "NewLadderPinnacleEnter",
+      "text": "1300 Points to enter the Ladder!"
+     },
+     {
+      "id": "NewLadderPinnacleTip",
+      "text": "Welcome to the Peak Arena!"
+     },
+     {
+      "id": "LadderMatchExplainTitle",
+      "text": "New Ladder Now Open"
+     },
+     {
+      "id": "NewLadderExplain",
+      "text": "Starting this season, the Ladder is improved with a new format, more precise matchmaking and better rewards. Set up your lineup and begin your new Ladder journey!"
+     },
+     {
+      "id": "NewLadderNoOpenPinnacle",
+      "text": "Under {0} Points. Can't join the Peak Arena"
+     },
+     {
+      "id": "UILadderWarRewardGoodsItemBtn",
+      "text": "Item Rewards"
+     },
+     {
+      "id": "UILadderWarRewardTitleItemBtn",
+      "text": "Title Rewards"
+     },
+     {
+      "id": "NewLadderNoOpenPinnacleTip",
+      "text": "Reach {0} Points in Glory Match to unlock the Peak Arena"
+     },
+     {
+      "id": "NewLadderNoneLastRank",
+      "text": "No data from last season"
+     },
+     {
+      "id": "NewLadderPracticeMatchTitle",
+      "text": "Matching for Glory Match"
+     },
+     {
+      "id": "NewLadderPinnacleMatchTitle",
+      "text": "Matching for Peak Arena"
+     },
+     {
+      "id": "NewLadderOPenPinnacleTip",
+      "text": "Peak Arena opens at <color=#FFCF3FFF>{0}</color> Points"
+     },
+     {
+      "id": "LadderChatCD",
+      "text": "Emotes are still on cooldown~"
+     },
+     {
+      "id": "AutoChessBuyExtraPackageInfo",
+      "text": "Besides the basic characters, you can only deploy the unlocked characters of one expansion at a time. Buy this expansion?"
+     },
+     {
+      "id": "AutoChessUseExtraPackageInfo",
+      "text": "If you deploy this expansion, you can't use characters from other expansions in Island Conquest. Deploy anyway?"
+     },
+     {
+      "id": "NewLadderAddIntegral",
+      "text": "Points: <color=#FFFFFF>{0}(</color><color=#23FF1D>+{1}</color><color=#FFFFFF>)</color>"
+     },
+     {
+      "id": "NewLadderLoseIntegral",
+      "text": "Points: <color=#FFFFFF>{0}(</color><color=#FFA35C>-{1}</color><color=#FFFFFF>)</color>"
+     },
+     {
+      "id": "LadderBreakWord1",
+      "text": "Unlocks at {0} Points"
+     },
+     {
+      "id": "LadderBreakWord2",
+      "text": "Passed {0} Points this season"
+     },
+     {
+      "id": "LadderBreakWord3",
+      "text": "Challenge at {0}+ Points"
+     },
+     {
+      "id": "LadderBreakWord4",
+      "text": "Clear this challenge to unlock {0} Points"
+     },
+     {
+      "id": "EnterAutoChess",
+      "text": "*Complete Island Conquest tasks during the event for generous rewards (including a brand-new Island Conquest board)!*During the event, the Island Conquest Shop stocks more rare items. Limited event items will be removed when the event ends.*Balance changes:\\n2-Raid Bond extra Gold per round lowered from 5 to 2.\\n4-Raid Bond extra Gold per round lowered from 10 to 4.\\nLowered Whitebeard's and Big Mom's stats at every star level.*Island Conquest unlock level lowered to Lv20"
+     },
+     {
+      "id": "NewLadderMasterMatchTitle",
+      "text": "Matching for Masters Tournament"
+     },
+     {
+      "id": "LadderMasterBanHeroTips",
+      "text": "Character Banned"
+     },
+     {
+      "id": "LadderMasterBanExplain",
+      "text": "Ban Info"
+     },
+     {
+      "id": "LadderMasterBuffExplain",
+      "text": "Buff Info"
+     },
+     {
+      "id": "LadderMasterContainBanHeroTips",
+      "text": "Your lineup contains a banned character!"
+     },
+     {
+      "id": "LadderMasterTimerFormat",
+      "text": "Masters Tournament season ends: 2025/4/20 0:00"
+     },
+     {
+      "id": "LadderMasterPopUpTitle",
+      "text": "Season Schedule"
+     },
+     {
+      "id": "LadderMasterPopUpContent",
+      "text": "*Dear Captain, the new Masters Tournament opens on 3/30. Reach the top 80 of the Ladder Peak Arena to qualify (selection uses the leaderboard when the Ladder Peak Arena ends on 3/29). Keep an eye on the Masters Tournament schedule and your qualification status."
+     },
+     {
+      "id": "LadderMasterProgressDesc",
+      "text": "*Availability: the Masters Tournament is an event mode based on the Ladder Peak Arena and is not permanent.\\nThis Masters Tournament selects captains from the leaderboard when the Ladder Peak Arena ends on 3/29.\\nCaptains in the top 80 of each war zone's leaderboard (expanded this season) qualify for the Masters Tournament (servers open for less than a set time are excluded from selection)*Qualified captains are placed in one of three divisions by server: East Blue/West Blue/South Blue/North Blue/New World/Supernova captains form one division, Zou captains form another, and Skypiea captains form the third.*Once qualified, captains must set up a separate lineup.\\nThe Masters Tournament isn't open all day, only 11:00-13:00 and 19:00-21:00 daily.\\nBattles and scoring work much like the Ladder Peak Arena.\\nThe Masters Tournament lasts three weeks. When it ends, captains receive titles and other rewards based on their rank.\\nCaptains who play 10 or more Masters matches per week earn Masters Gold based on their points. Use Masters Gold to buy valuable items in the Arena Shop."
+     },
+     {
+      "id": "LadderPracticeTimerFormat",
+      "text": "Ends in {0}"
+     },
+     {
+      "id": "item_autochess_name",
+      "text": "New Currency"
+     },
+     {
+      "id": "item_autochess_desc",
+      "text": "New currency test"
+     },
+     {
+      "id": "LadderAddIntegral1",
+      "text": "Points: <color=#FFA35C>{0}</color>"
+     },
+     {
+      "id": "LadderLoseIntegral2",
+      "text": "Points: <color=#FFFFFF>{0}(</color><color=#FFA35C>{1}</color><color=#FFFFFF>)</color>"
+     },
+     {
+      "id": "NewAutoChess_tips1",
+      "text": "Refresh tasks? Refreshes today ({0}/{1})"
+     },
+     {
+      "id": "NewAutoChess_tips2",
+      "text": "Refresh Tasks"
+     },
+     {
+      "id": "NewLadderBucketMatchTitle",
+      "text": "Matching for Brawl"
+     },
+     {
+      "id": "LadderBucketText1",
+      "text": "No special character deployed. Close anyway?"
+     },
+     {
+      "id": "LadderBucketText2",
+      "text": "No special character deployed. Can't start matching"
+     },
+     {
+      "id": "LadderBucketText3",
+      "text": "Brawl Formation"
+     },
+     {
+      "id": "LadderMatching_Tip11",
+      "text": "Matching for Brawl"
+     },
+     {
+      "id": "NewAutoChess_tips3",
+      "text": "Can't unlock yet"
+     },
+     {
+      "id": "AutoChess_Tip1",
+      "text": "The Commendation has been removed and can't be activated for now"
+     }
+    ],
+    "other_bundle_rows": [
+     {
+      "id": "LadderCorrection_Tip",
+      "text": "Balanced Match allows only SR or lower characters, and equipment has no effect"
+     },
+     {
+      "id": "Ladder3V3_Tip",
+      "text": "3v3 Match allows only 3 deployed characters"
+     },
+     {
+      "id": "LadderMatch_Rank",
+      "text": "Rank:"
+     },
+     {
+      "id": "LadderMatch_Time",
+      "text": "Match Time:"
+     },
+     {
+      "id": "LadderAddIntegral",
+      "text": "Points: <color=#23FF1D>+{0}</color>"
+     },
+     {
+      "id": "LadderLoseIntegral",
+      "text": "Points: <color=#FFA35C>-{0}</color>"
+     },
+     {
+      "id": "LadderFormation",
+      "text": "Your match lineup is empty. Can't start matching!"
+     },
+     {
+      "id": "LadderFormationNotFill",
+      "text": "Your match lineup isn't full. Start matching anyway?"
+     },
+     {
+      "id": "LadderMatch_Into_Battle",
+      "text": "SSR characters can't be deployed in Balanced Match"
+     },
+     {
+      "id": "LadderMatchShared",
+      "text": "shared a Ladder match: Server {0}-{1} VS Server {2}-{3},"
+     },
+     {
+      "id": "CancelLadderMatch",
+      "text": "You entered a non-safe zone. Ladder matching has been canceled"
+     },
+     {
+      "id": "LadderMatchTitle1",
+      "text": "Matching for Ladder"
+     },
+     {
+      "id": "LadderMatch_CannotOperate",
+      "text": "Can't battle or change maps while queued"
+     },
+     {
+      "id": "LadderMatchTitle2",
+      "text": "Matching for Unrestricted Match..."
+     },
+     {
+      "id": "InTeamCantLadderMatch",
+      "text": "Can't join Ladder matching while teamed up"
+     },
+     {
+      "id": "LadderRank",
+      "text": "Rank {0} and below"
+     },
+     {
+      "id": "LadderNotOpen",
+      "text": "Ladder isn't open. Can't match"
+     },
+     {
+      "id": "LadderMatching_Tip1",
+      "text": "Matching for Unrestricted Match"
+     },
+     {
+      "id": "LadderMatching_Tip2",
+      "text": "Matching for Balanced Match"
+     },
+     {
+      "id": "LadderMatching_Tip3",
+      "text": "Matching for 3v3 Match"
+     },
+     {
+      "id": "LadderMatching_Tip4",
+      "text": "Matching for Glory Match"
+     },
+     {
+      "id": "LadderMatching_Tip5",
+      "text": "Matching for Unrestricted Match"
+     },
+     {
+      "id": "LadderRewardTipText",
+      "text": "(Weekly point rewards require at least 10 matches that week)"
+     },
+     {
+      "id": "LadderWar_RaceTreeTitle",
+      "text": "Zone {1} Conquest Tournament {2}/{3}-{4}/{5}"
+     },
+     {
+      "id": "LadderWar_BetSecNotice",
+      "text": "\\nBetting on this player costs: <sprite=1>{1}\\nIf they win the title, you get: <sprite=1>{0}\\nThis isn't the final reward. Bets can't be canceled."
+     },
+     {
+      "id": "LadderWar_SupportNotice",
+      "text": "Support {0}-{1}?"
+     },
+     {
+      "id": "LadderWar_TopRaceTreeTitle",
+      "text": "Championship Match"
+     },
+     {
+      "id": "LadderWar_RewardPageTitle",
+      "text": "Advancement Rewards"
+     },
+     {
+      "id": "LadderWar_RewardType7",
+      "text": "Champion"
+     },
+     {
+      "id": "LadderWar_RewardType6",
+      "text": "Runner-Up"
+     },
+     {
+      "id": "LadderWar_RewardType5",
+      "text": "Third Place"
+     },
+     {
+      "id": "LadderWar_RewardType4",
+      "text": "Semifinalist"
+     },
+     {
+      "id": "LadderWar_RewardType3",
+      "text": "Top 8"
+     },
+     {
+      "id": "LadderWar_RewardType2",
+      "text": "Top 16"
+     },
+     {
+      "id": "LadderWar_RewardType1",
+      "text": "Qualifier"
+     },
+     {
+      "id": "LadderWar_SeasonNum",
+      "text": "Season {0}"
+     },
+     {
+      "id": "LadderWar_ThirdRaceTitle",
+      "text": "Third-Place Match"
+     },
+     {
+      "id": "LadderWar_RoundEmpty",
+      "text": "No Players"
+     },
+     {
+      "id": "LadderWar_NotDefine",
+      "text": "Awaiting Result"
+     },
+     {
+      "id": "LadderWar_RewardDesc",
+      "text": "Advancement rewards are sent by mail once the champion is decided"
+     },
+     {
+      "id": "LadderWar_ReviewPageTitle",
+      "text": "Season Review"
+     },
+     {
+      "id": "LadderWar_ReviewTitle0",
+      "text": "Zone AB Champion"
+     },
+     {
+      "id": "LadderWar_ReviewTitle1",
+      "text": "Zone CD Champion"
+     },
+     {
+      "id": "LadderWar_ReviewTitle2",
+      "text": "Champion"
+     },
+     {
+      "id": "LadderWar_ReviewTitle3",
+      "text": "Third Place"
+     },
+     {
+      "id": "LadderWar_NiceHistory",
+      "text": "Support History"
+     },
+     {
+      "id": "LadderWar_Rule",
+      "text": "*Overview\\nWhen a Ladder season ends, the top 32 players are selected for the Conquest Tournament.\\nPlayers advance or are eliminated through the bracket until a champion is decided.\\nThe top three players get rare equipment rewards.\\n*Match Rules\\nEach match is best of three, with three battles:\\nFirst Match: 2v2 battle\\nSecond Match: 3v3 battle\\nThird Match: 5v5 battle\\nA character can't be deployed in more than one of the three battles.\\n*Preparation and Entering Battle\\nPreparation:\\nBefore each match, players must set their battle lineup.\\nEntering battle:\\n1. When the battle enters its preparation phase, players wait on the Conquest Tournament screen.\\n2. Players in a non-safe zone can't take part.\\n3. Players who are teamed up or following someone can't take part.\\n4. 10 seconds before the battle starts, a ready screen pops up. Once ready, players are pulled into the arena in real time and fight manually.\\n*Victory Conditions\\n1. Defeat all of the opponent's deployed characters to win.\\n2. If the battle runs past the time limit, the side with more HP advances.\\n*Betting and Support\\n1. Players can bet on the champion before the Top 32 matches start.\\n2. A bet costs 100 Blue Diamonds.\\n3. If your pick wins the title, you get up to 2000 Blue Diamonds.\\n4. Before each match you can support your favorite player. If they advance, you receive a support reward.\\n*Champion Display\\nThe top three players are shown on the Champion Display screen until the current tournament ends.\\n*Tournament Cycle\\nEach Conquest Tournament lasts one month\\n*Rewards\\n1. Every qualifier gets rare equipment and a title.\\n2. See the cycle on the Conquest Tournament screen for reward details.\\n3. A successful support grants 50 Arena Coins.\\n*The battle Support feature is disabled in the Conquest Tournament."
+     },
+     {
+      "id": "LadderWar_BetDuplicateNotice",
+      "text": "You've already bet on this player\\nIf they win the title, you get\\n<sprite=1>{0}"
+     },
+     {
+      "id": "OnceLadder_GetReady",
+      "text": "Getting ready..."
+     },
+     {
+      "id": "OnceLadder_Prepare",
+      "text": "Preparing..."
+     },
+     {
+      "id": "OnceLadderTips_Prepare",
+      "text": "The battle is being prepared..."
+     },
+     {
+      "id": "OnceLadderSession_GetReady",
+      "text": "Getting Ready"
+     },
+     {
+      "id": "OnceLadderSession_Prepare",
+      "text": "Preparing"
+     },
+     {
+      "id": "OnceLadderSession_Fighting",
+      "text": "In Battle"
+     },
+     {
+      "id": "LadderWar_SeasonTimeNotArrived",
+      "text": "Season hasn't started"
+     },
+     {
+      "id": "OnceLadder_Better",
+      "text": "Zone {0} Top {1} Match"
+     },
+     {
+      "id": "OnceLadder_PeakThirdWinner",
+      "text": "Peak Arena Third-Place Match"
+     },
+     {
+      "id": "OnceLadder_PeakChampine",
+      "text": "Peak Arena Championship Match"
+     },
+     {
+      "id": "OnceLadder_PeakBetter",
+      "text": "Peak Arena Top {0} Match"
+     },
+     {
+      "id": "LadderWar_NotInSeason",
+      "text": "The season hasn't started. Nothing to view."
+     },
+     {
+      "id": "LadderWar_NotArriveWinner",
+      "text": "No winner has been decided yet. Please wait!"
+     },
+     {
+      "id": "LadderExitBattleTip",
+      "text": "If you leave, the AI will play your match. You can return with the Battle button before it ends. Leave anyway?"
+     },
+     {
+      "id": "LadderWarReview",
+      "text": "You haven't supported any player yet"
+     },
+     {
+      "id": "LadderWar_HasSupport",
+      "text": "You can support only one player per match"
+     },
+     {
+      "id": "LadderWar_OutSupport",
+      "text": "The match has started. Support is closed"
+     },
+     {
+      "id": "LadderWar_greyend",
+      "text": "Match Over"
+     },
+     {
+      "id": "LadderWar_ChampionPVP",
+      "text": "{0}v{1} Match"
+     },
+     {
+      "id": "LadderWar_BetSecNoticeTitle",
+      "text": "Champion Bet"
+     },
+     {
+      "id": "Ladder_Three",
+      "text": "3v3 Match"
+     },
+     {
+      "id": "item_chessmoney",
+      "text": "Conquest Coin"
+     },
+     {
+      "id": "item_chessmoney_desc",
+      "text": "Island Conquest reward currency. Exchange it for items in the Island Conquest Exchange Shop"
+     },
+     {
+      "id": "Chess_EarningTitle",
+      "text": "Expected Income"
+     },
+     {
+      "id": "Chess_EarningWinningStreak",
+      "text": "Win Streak"
+     },
+     {
+      "id": "Chess_EarningLoseStreak",
+      "text": "Loss Streak"
+     },
+     {
+      "id": "Chess_PlayerListTitle",
+      "text": "Player List"
+     },
+     {
+      "id": "Chess_PersonInformation",
+      "text": "Profile"
+     },
+     {
+      "id": "Chess_UpHero",
+      "text": "Deployed"
+     },
+     {
+      "id": "Chess_PrepareHero",
+      "text": "Bench"
+     },
+     {
+      "id": "Chess_SeasonAward",
+      "text": "Season Titles"
+     },
+     {
+      "id": "Chess_AwardNumber",
+      "text": "Play at least <color=#BA5714FF>10</color> matches per week to earn rewards"
+     },
+     {
+      "id": "ChessFightWeeks",
+      "text": "Weekly Matches:"
+     },
+     {
+      "id": "ChessBuyHero",
+      "text": "Buy Characters"
+     },
+     {
+      "id": "ChessRequreQuitContent",
+      "text": "Quit Island Conquest? You won't be able to rejoin this match!"
+     },
+     {
+      "id": "ChessLeaveContent",
+      "text": "Quit Island Conquest? You won't be able to spectate this match again!"
+     },
+     {
+      "id": "AutoChessProfitDesc",
+      "text": "Gold is the only resource for buying characters, refreshing the shop and upgrading your ship in Island Conquest. You earn it automatically each wave, and selling characters refunds some Gold"
+     },
+     {
+      "id": "ChessBillingInfo",
+      "text": "Results"
+     },
+     {
+      "id": "chessHarmNumber",
+      "text": "Damage:"
+     },
+     {
+      "id": "chessSurvivalNumber",
+      "text": "Rounds Survived:"
+     },
+     {
+      "id": "ChessProbabilityTitle",
+      "text": "Draw Odds"
+     },
+     {
+      "id": "ChessHintText",
+      "text": "The odds of drawing each quality change as your level rises"
+     },
+     {
+      "id": "ChessLevelNow",
+      "text": "Current"
+     },
+     {
+      "id": "ChessLevelNext",
+      "text": "Next"
+     },
+     {
+      "id": "ACExplainPageHeroSubPageTabName",
+      "text": "Character Codex"
+     },
+     {
+      "id": "ACExplainPageWikiSubPageTabName",
+      "text": "Game Wiki"
+     },
+     {
+      "id": "ACExplainPageTutorialSubPageTabName",
+      "text": "How to Play"
+     },
+     {
+      "id": "ACExplainPageWikiSubPageRuleTabContent",
+      "text": "*Island Conquest is open daily 10:00~24:00\\n \\n*Each match has 8 players.\\n \\nUse your characters to fend off monsters and other players' attacks.\\n \\nIf your defense fails, you lose HP. When your HP hits zero, you're out.\\n \\nThe last player standing wins.\\n*You earn EXP and Gold during the match.\\n \\nEnough EXP raises your level, increasing how many characters you can deploy and the odds of drawing high-quality ones.\\n \\nGold buys characters and EXP, or refreshes the Character Shop.\\n*Choosing the right characters is the key to victory.\\n \\nAll players draw from a shared character pool.\\n \\nWith 3 identical characters of the same star level, you can upgrade them into a stronger one.\\n \\nDeploying several characters of a certain group or class activates extra bonuses."
+     },
+     {
+      "id": "ACExplainPageWikiSubPageRoundTabContent",
+      "text": "*At the start of each round you get round Gold, win streak bonus Gold, loss streak compensation Gold and interest Gold.\\n \\nYou get 1 EXP at the start of each round.\\n \\nThe Character Shop refreshes automatically at the start of each round.\\n \\n*During the preparation phase you can adjust your lineup and positions, or merge characters.\\n \\nDuring preparation, characters on the board can temporarily exceed the deployment limit.\\n \\nWhen preparation ends, characters over the limit are pulled back automatically; if the bench is full, the extras are sold automatically.\\n \\n*In the battle phase, each player is randomly assigned an opponent to defend against.\\n \\nEach player is the opponent of only 1 player per battle phase.\\n \\nYou can't adjust characters on the board during the battle phase.\\n \\nIn waves 1, 2 and 3 you defend against preset NPCs.\\n \\n*If your defense fails, you take damage based on the number and stars of the opponent's remaining characters. When your warship's HP hits 0, you're out."
+     },
+     {
+      "id": "ACExplainPageWikiSubPageLevelTabContent",
+      "text": "*Each match starts with a Lv1 warship. Earn enough warship EXP to level it up.\\n \\nYou get 1 warship EXP automatically at the start of each round.\\n \\nSpend 5 Gold on Build Warship to gain 4 warship EXP instantly.\\n \\n*Warship level sets the maximum number of deployable characters\\n \\nWarship level sets the odds of each character quality appearing in the Character Shop."
+     },
+     {
+      "id": "ACExplainPageWikiSubPageCoinTabContent",
+      "text": "*Round Gold: at the start of each round, get Gold based on the current round number.\\n \\nWin Streak Bonus / Loss Streak Compensation: at the start of each round, get Gold based on your current win or loss streak.\\n \\nInterest Gold: at the start of each round, get 10% interest on the Gold you hold, up to 5 Gold per round.\\n \\nVictory Reward: at the start of each round, get 2 Gold if you won the previous battle.\\n \\nSell Characters: selling characters you own returns some Gold.\\n \\n*Buy Characters: spend Gold in the Character Shop to buy characters. The shop refreshes automatically at the start of each round.\\n \\nRefresh: spend 2 Gold to refresh the Character Shop instantly\\n \\nBuild Warship: spend 5 Gold to gain 4 EXP instantly."
+     },
+     {
+      "id": "ACExplainPageWikiSubPageHeroTabContent",
+      "text": "*Deploy 3 identical characters to raise their star level.\\n \\nHigher-star characters are stronger\\n \\nEach character can reach up to 3 stars\\n \\n*Every character belongs to a specific group and class\\n \\nDeploying enough different characters of one group or class activates its bonus.\\n \\nBonuses with different count requirements can stack."
+     },
+     {
+      "id": "ACExplainPageWikiSubPageHeroShopTabContent",
+      "text": "*Buy characters in the Character Shop.\\n \\nAll characters in the Character Shop are 1-star.\\n \\nWhen a player is eliminated, their shop characters return to the pool.\\n \\n*The Character Shop refreshes automatically at the start of each round.\\n \\nUse Refresh at any phase to refresh the Character Shop for 2 Gold.\\n \\nWhen the shop refreshes, the odds of each quality appearing depend on warship level.\\n \\n*While locked, the Character Shop won't refresh at the start of a round.\\n \\nRefreshing while locked removes the lock.\\n \\nThe shop lock lasts only 1 round."
+     },
+     {
+      "id": "ChessWaveNumber",
+      "text": "Wave"
+     },
+     {
+      "id": "ChessRoleSet",
+      "text": "Lineup"
+     },
+     {
+      "id": "ac_player_death",
+      "text": "This player has been eliminated!"
+     },
+     {
+      "id": "ChessWaitForOthersEnd",
+      "text": "Waiting"
+     },
+     {
+      "id": "ACExplainPageTutorialSubPageInterfaceTab",
+      "text": "Interface"
+     },
+     {
+      "id": "ACExplainPageTutorialSubPageCampJobTab",
+      "text": "Groups & Abilities"
+     },
+     {
+      "id": "ACExplainPageTutorialSubPageChessTab",
+      "text": "Characters"
+     },
+     {
+      "id": "AutoChessShop",
+      "text": "Island Conquest Shop"
+     },
+     {
+      "id": "AutoChess_Level_Desc",
+      "text": "Current Tier"
+     },
+     {
+      "id": "AutoChess_Matching_Title",
+      "text": "Matching for Island Conquest"
+     },
+     {
+      "id": "AutoChess_Level_N",
+      "text": "Rank {0}"
+     },
+     {
+      "id": "AutoChessMatchingCantFightHint",
+      "text": "Matching for Island Conquest. You can't join other battles."
+     },
+     {
+      "id": "RecruitPauseAutoChess",
+      "text": "Entering Recruit will cancel Island Conquest matching. Continue?"
+     },
+     {
+      "id": "CancelAutoChessMatching",
+      "text": "You entered a non-safe zone. Island Conquest matching has been canceled"
+     },
+     {
+      "id": "InTeamCantAutoChessMatch",
+      "text": "Can't join Island Conquest matching while teamed up"
+     },
+     {
+      "id": "AutoChessExit",
+      "text": "Exit Island Conquest?\\nRe-enter to return to this match"
+     },
+     {
+      "id": "debufltChessText",
+      "text": "A full-HP victory! Fight to the end!"
+     },
+     {
+      "id": "ChessShipTitle",
+      "text": "Warship List"
+     },
+     {
+      "id": "ChessWinPrize",
+      "text": "Victory Rewards:"
+     },
+     {
+      "id": "ChessRewardEndDesc",
+      "text": "'Ends' M/d HH:mm"
+     },
+     {
+      "id": "ChessCitationTitle",
+      "text": "Island Commendation"
+     },
+     {
+      "id": "ChessSandShopTitle",
+      "text": "Board Shop"
+     },
+     {
+      "id": "ChessMonthlyCardTask",
+      "text": "+<color=#BA3901>{0}</color> Island Conquest weekly tasks"
+     },
+     {
+      "id": "ChessMonthlyCardMap",
+      "text": "Unlocks Commendation maps such as <color=#BA3901>\"{0}\"</color>"
+     },
+     {
+      "id": "ChessMonthlyCardCoin",
+      "text": "Conquest Coins earned from battles <color=#BA3901>+100%</color>"
+     },
+     {
+      "id": "Recharge_ChessMonthCard_Tab",
+      "text": "Island Conquest"
+     },
+     {
+      "id": "ios_Chess_subscribe_desc",
+      "text": "[Auto-Renewing Subscription Info]\\n1. Subscription:\\nIsland Commendation (1 month)\\n2. Price:\\nIsland Commendation: monthly auto-renewing plan at 30 CNY/month\\n3. Payment: charged to your iTunes account once you confirm the purchase\\n4. Auto-renewal: your Apple iTunes account is charged within 24 hours before expiry, and the subscription extends by one period once charged\\n5. Cancel: on your iPhone go to \"Settings\" --> \"iTunes Store & App Store\" -- tap \"Apple ID\", choose \"View Apple ID\", open \"Account Settings\" and tap \"Subscriptions\" to manage auto-renewal. To cancel, turn it off at least 24 hours before the billing period ends; you won't be charged within the 24 hours before expiry\\n6. User Agreement:\\n<link=\"url=https://www.nebulajoy.com/privacy_op/user_agree.html\"><#0000FF>https://www.nebulajoy.com/privacy_op/user_agree.html</color></link>\\n7. Privacy Policy:\\n<link=\"url=https://www.nebulajoy.com/privacy_op/privacy.html\"><#0000FF>https://www.nebulajoy.com/privacy_op/privacy.html</color></link>\\n"
+     },
+     {
+      "id": "ChessSandUseed",
+      "text": "In Use"
+     },
+     {
+      "id": "ChessMapNolockMapItem",
+      "text": "You don't own {0}, so you can't unlock this map!"
+     },
+     {
+      "id": "ChessMaplockMapItemSuccess",
+      "text": "You unlocked the {0} map!"
+     },
+     {
+      "id": "ios_Chess_Subscribe_DesText",
+      "text": "Subscribed"
+     },
+     {
+      "id": "ios_Chess_Subscribe_profit",
+      "text": "These perks last <color=#BA3901>one month</color>"
+     },
+     {
+      "id": "chessMonthCard",
+      "text": "Island Pass"
+     },
+     {
+      "id": "chessShopHeroDesc",
+      "text": "After buying {0}, you can use this hero in Island Conquest (this item is a full character card)"
+     },
+     {
+      "id": "ChessSet_PlayBattleAnimation",
+      "text": "Skip Battle Animations"
+     },
+     {
+      "id": "ChessSet_ShowLine",
+      "text": "Show Grid"
+     },
+     {
+      "id": "ChessSet_Back",
+      "text": "Back to Battle"
+     },
+     {
+      "id": "ChessPackagesTitle",
+      "text": "Limited Expansions"
+     },
+     {
+      "id": "ChessHeroName",
+      "text": "Island Characters"
+     },
+     {
+      "id": "OpenNewVersionLadder",
+      "text": "The new Ladder is open"
+     },
+     {
+      "id": "NewLadderPracticeBtn",
+      "text": "Glory Match"
+     },
+     {
+      "id": "NewLadderPracticeShop",
+      "text": "Glory Match Shop"
+     },
+     {
+      "id": "NewLadderIntegralTips",
+      "text": "Points Required:"
+     },
+     {
+      "id": "NewLadderOpenPinnacle",
+      "text": "Unrestricted Match is open"
+     },
+     {
+      "id": "NewLadderPinnacleIntegral",
+      "text": "<color=#AF4A22FF>{0} Points</color> to enter the Ladder Unrestricted Match!"
+     },
+     {
+      "id": "NewLadderPinnacleRank",
+      "text": "The leaderboard's top <color=#AF4A22FF>32</color> enter the Conquest Tournament!"
+     },
+     {
+      "id": "NewLadderCoinLab",
+      "text": "{0}/week"
+     },
+     {
+      "id": "NewLadderPinnacleEnter",
+      "text": "1300 Points to enter the Ladder!"
+     },
+     {
+      "id": "NewLadderPinnacleTip",
+      "text": "Welcome to the Unrestricted Match!"
+     },
+     {
+      "id": "LadderMatchExplainTitle",
+      "text": "New Ladder Now Open"
+     },
+     {
+      "id": "NewLadderExplain",
+      "text": "Starting this season, the Ladder is improved with a new format, more precise matchmaking and better rewards. Set up your lineup and begin your new Ladder journey!"
+     },
+     {
+      "id": "NewLadderNoOpenPinnacle",
+      "text": "Under {0} Points. Can't join the Unrestricted Match"
+     },
+     {
+      "id": "UILadderWarRewardGoodsItemBtn",
+      "text": "Item Rewards"
+     },
+     {
+      "id": "UILadderWarRewardTitleItemBtn",
+      "text": "Title Rewards"
+     },
+     {
+      "id": "NewLadderNoOpenPinnacleTip",
+      "text": "Reach {0} Points in Glory Match to unlock the Unrestricted Match"
+     },
+     {
+      "id": "NewLadderNoneLastRank",
+      "text": "No data from last season"
+     },
+     {
+      "id": "NewLadderPracticeMatchTitle",
+      "text": "Matching for Glory Match"
+     },
+     {
+      "id": "NewLadderPinnacleMatchTitle",
+      "text": "Matching for Unrestricted Match"
+     },
+     {
+      "id": "NewLadderOPenPinnacleTip",
+      "text": "Unrestricted Match opens at <color=#FFCF3FFF>{0}</color> Points"
+     },
+     {
+      "id": "LadderChatCD",
+      "text": "Emotes are still on cooldown~"
+     },
+     {
+      "id": "AutoChessBuyExtraPackageInfo",
+      "text": "Besides the basic characters, you can only deploy the unlocked characters of one expansion at a time. Buy this expansion?"
+     },
+     {
+      "id": "AutoChessUseExtraPackageInfo",
+      "text": "If you deploy this expansion, you can't use characters from other expansions in Island Conquest. Deploy anyway?"
+     },
+     {
+      "id": "NewLadderAddIntegral",
+      "text": "Points: <color=#FFFFFF>{0}(</color><color=#23FF1D>+{1}</color><color=#FFFFFF>)</color>"
+     },
+     {
+      "id": "NewLadderLoseIntegral",
+      "text": "Points: <color=#FFFFFF>{0}(</color><color=#FFA35C>-{1}</color><color=#FFFFFF>)</color>"
+     },
+     {
+      "id": "LadderBreakWord1",
+      "text": "Unlocks at {0} Points"
+     },
+     {
+      "id": "LadderBreakWord2",
+      "text": "Passed {0} Points this season"
+     },
+     {
+      "id": "LadderBreakWord3",
+      "text": "Challenge at {0}+ Points"
+     },
+     {
+      "id": "LadderBreakWord4",
+      "text": "Clear this challenge to unlock {0} Points"
+     },
+     {
+      "id": "EnterAutoChess",
+      "text": "*Complete Island Conquest tasks during the event for generous rewards (including a brand-new Island Conquest board)!*During the event, the Island Conquest Shop stocks more rare items. Limited event items will be removed when the event ends.*Balance changes:\\n2-Raid Bond extra Gold per round lowered from 5 to 2.\\n4-Raid Bond extra Gold per round lowered from 10 to 4.\\nLowered Whitebeard's and Big Mom's stats at every star level.*Island Conquest unlock level lowered to Lv20"
+     },
+     {
+      "id": "LadderMasterBanHeroTips",
+      "text": "Character Banned"
+     },
+     {
+      "id": "LadderMasterBanExplain",
+      "text": "Ban Info"
+     },
+     {
+      "id": "LadderMasterBuffExplain",
+      "text": "Buff Info"
+     },
+     {
+      "id": "LadderMasterContainBanHeroTips",
+      "text": "Your lineup contains a banned character!"
+     },
+     {
+      "id": "LadderPracticeTimerFormat",
+      "text": "Ends in {0}"
+     },
+     {
+      "id": "NewLadderMasterMatchTitle",
+      "text": "Matching for Masters Tournament"
+     },
+     {
+      "id": "LadderMasterTimerFormat",
+      "text": "Masters Tournament season ends: 2024/12/22 0:00"
+     },
+     {
+      "id": "LadderMasterPopUpTitle",
+      "text": "Season Schedule"
+     },
+     {
+      "id": "LadderMasterPopUpContent",
+      "text": "*Dear Captain, the new Masters Tournament opens on 12/1. Reach the top 50 of the Ladder Peak Arena to qualify (selection uses the leaderboard when the Ladder Peak Arena ends on 11/30). Keep an eye on the Masters Tournament schedule and your qualification status."
+     },
+     {
+      "id": "LadderMasterProgressDesc",
+      "text": "*Availability: the Masters Tournament is an event mode based on the Ladder Peak Arena and is not permanent.\\nThis Masters Tournament selects captains from the leaderboard when the Ladder Peak Arena ends on 11/30.\\nCaptains in the top 50 of each war zone's leaderboard (expanded this season) qualify for the Masters Tournament (servers open for less than a set time are excluded from selection)*Qualified captains are placed in one of three divisions by server: East Blue/West Blue/South Blue/North Blue/New World/Supernova captains form one division, Zou captains form another, and Skypiea captains form the third.*Once qualified, captains must set up a separate lineup.\\nThe Masters Tournament isn't open all day, only 11:00-13:00 and 19:00-21:00 daily.\\nBattles and scoring work much like the Ladder Peak Arena.\\nThe Masters Tournament lasts three weeks. When it ends, captains receive titles and other rewards based on their rank.\\nCaptains who play 10 or more Masters matches per week earn Masters Gold based on their points. Use Masters Gold to buy valuable items in the Arena Shop."
+     },
+     {
+      "id": "item_autochess_name",
+      "text": "New Currency"
+     },
+     {
+      "id": "item_autochess_desc",
+      "text": "New currency test"
+     },
+     {
+      "id": "LadderAddIntegral1",
+      "text": "Points: <color=#FFA35C>{0}</color>"
+     },
+     {
+      "id": "LadderLoseIntegral2",
+      "text": "Points: <color=#FFFFFF>{0}(</color><color=#FFA35C>{1}</color><color=#FFFFFF>)</color>"
+     },
+     {
+      "id": "NewAutoChess_tips1",
+      "text": "Refresh tasks? Refreshes today ({0}/{1})"
+     },
+     {
+      "id": "NewAutoChess_tips2",
+      "text": "Refresh Tasks"
+     },
+     {
+      "id": "NewLadderBucketMatchTitle",
+      "text": "Matching for Brawl"
+     },
+     {
+      "id": "LadderBucketText1",
+      "text": "No special character deployed. Close anyway?"
+     },
+     {
+      "id": "LadderBucketText2",
+      "text": "No special character deployed. Can't start matching"
+     },
+     {
+      "id": "LadderBucketText3",
+      "text": "Brawl Formation"
+     },
+     {
+      "id": "LadderMatching_Tip11",
+      "text": "Matching for Brawl"
+     },
+     {
+      "id": "NewAutoChess_tips3",
+      "text": "Can't unlock yet"
+     },
+     {
+      "id": "AutoChess_Tip1",
+      "text": "The Commendation has been removed and can't be activated for now"
+     }
+    ]
+   }
   }
  },
  "ui_texts": [
@@ -1420,6 +4575,986 @@
    "zh": "船长指南",
    "note": "Captain's Guide page title",
    "en": "Captain's Guide"
+  },
+  {
+   "bundle": "restobundle/pages/autochessbillinginfopage.ab",
+   "gameobject": "Text (3)",
+   "path_id": -4069002291651891778,
+   "zh": "角色组",
+   "en": "Lineup"
+  },
+  {
+   "bundle": "restobundle/pages/autochessbillinginfopage.ab",
+   "gameobject": "Text",
+   "path_id": -2528030578581286387,
+   "zh": "结算信息",
+   "en": "Results"
+  },
+  {
+   "bundle": "restobundle/pages/autochessbillinginfopage.ab",
+   "gameobject": "Text (1)",
+   "path_id": 4503755071853235687,
+   "zh": "波数",
+   "en": "Wave"
+  },
+  {
+   "bundle": "restobundle/pages/autochessbillinginfopage.ab",
+   "gameobject": "duan",
+   "path_id": 4609411650825676235,
+   "zh": "初心5段",
+   "en": "Novice 5"
+  },
+  {
+   "bundle": "restobundle/pages/autochessbillinginfopage.ab",
+   "gameobject": "name",
+   "path_id": 8574096333859879752,
+   "zh": "玩家名玩家名",
+   "en": "Player Name"
+  },
+  {
+   "bundle": "restobundle/pages/autochessduanpage.ab",
+   "gameobject": "Text",
+   "path_id": 7959701891869008219,
+   "zh": "段",
+   "en": "Rank"
+  },
+  {
+   "bundle": "restobundle/pages/autochessduanpage.ab",
+   "gameobject": "titleText",
+   "path_id": 9077086570496046507,
+   "zh": "满血吃鸡，血战到底！",
+   "en": "A full-HP victory! Fight to the end!"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "SkillText",
+   "path_id": -8245688971548446746,
+   "zh": "描述描述描述描述描述描述描述描述描述描述",
+   "en": "Description description description description description"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "content",
+   "path_id": -8004228396408407844,
+   "zh": "蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子蚊子",
+   "en": "Mosquito mosquito mosquito mosquito mosquito mosquito mosquito mosquito mosquito mosquito mosquito mosquito mosquito mosquito mosquito mosquito"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "SkillText",
+   "path_id": -7468172546165082108,
+   "zh": "描述描述描述描述描述描述描述描述描述描述",
+   "en": "Description description description description description"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "text",
+   "path_id": -5681910655322000284,
+   "zh": "杰拉基尔",
+   "en": "Jerakir"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "SkillText",
+   "path_id": -5180237518180837336,
+   "zh": "描述描述描述描述描述描述描述描述描述描述",
+   "en": "Description description description description description"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "PeopleNum",
+   "path_id": -3299188835339279901,
+   "zh": "上阵：",
+   "en": "Deployed:"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Text (3)",
+   "path_id": -2411803229952767118,
+   "zh": "连胜",
+   "en": "Win Streak"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "SkillText",
+   "path_id": -1653469796913187004,
+   "zh": "描述描述描述描述描述描述描述描述描述描述",
+   "en": "Description description description description description"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Placeholder",
+   "path_id": -1346506199873006505,
+   "zh": "发送弹幕...",
+   "en": "Send Bullet Chat..."
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Text",
+   "path_id": -332677905461135770,
+   "zh": "文本内容文本内容文本内容文本内容文本内容文本内容文本内容文",
+   "en": "Text content text content text content text content"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "text",
+   "path_id": 358831728918419048,
+   "zh": "杰拉",
+   "en": "Jera"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Text",
+   "path_id": 905905171749770002,
+   "zh": "波",
+   "en": "Wave"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "title",
+   "path_id": 1702818960620978978,
+   "zh": "购买英雄",
+   "en": "Buy Heroes"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Text",
+   "path_id": 2285833284045506911,
+   "zh": "玩家姓名六字",
+   "en": "Six-Letter Player Name"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Name",
+   "path_id": 2991744734842864945,
+   "zh": "阵营名称",
+   "en": "Group Name"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "SkillText",
+   "path_id": 3435052136297573929,
+   "zh": "描述描述描述描述描述描述描述描述描述描述",
+   "en": "Description description description description description"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Text",
+   "path_id": 3584358101711413039,
+   "zh": "玩家姓名六字",
+   "en": "Six-Letter Player Name"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Time",
+   "path_id": 3713417528193473028,
+   "zh": "等待其",
+   "en": "Waiting for others"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Name",
+   "path_id": 4187978872836195047,
+   "zh": "玩家名字六字",
+   "en": "Six-Letter Player Name"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "text",
+   "path_id": 4332473047145731065,
+   "zh": "杰拉基尔",
+   "en": "Jerakir"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "PlayerRunk",
+   "path_id": 4683630944048772283,
+   "zh": "第1名",
+   "en": "Rank 1"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "name",
+   "path_id": 5398342785452728700,
+   "zh": "蒙奇。D。戈普",
+   "en": "Monkey D. Garp"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Text (4)",
+   "path_id": 6233679225124679959,
+   "zh": "连败",
+   "en": "Loss Streak"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Text",
+   "path_id": 6301329693613720476,
+   "zh": "玩家名字名字",
+   "en": "Player Name Name"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "Title",
+   "path_id": 6861236199373859687,
+   "zh": "预计收益",
+   "en": "Expected Income"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "SkillText",
+   "path_id": 7484277453380348666,
+   "zh": "描述描述描述描述描述描述描述描述描述描述",
+   "en": "Description description description description description"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "text",
+   "path_id": 7502167656092818988,
+   "zh": "杰拉基尔",
+   "en": "Jerakir"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmainpage.ab",
+   "gameobject": "text",
+   "path_id": 8655326011660855487,
+   "zh": "杰拉基尔",
+   "en": "Jerakir"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmodepage.ab",
+   "gameobject": "Text",
+   "path_id": -7745335969105381137,
+   "zh": "水电费水电费水电费水电费\n撕得粉碎的方爱仕达\n水电费水电费",
+   "en": "Utility bill utility bill utility bill utility bill\nTorn to shreds, square Aishida\nUtility bill utility bill"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmodepage.ab",
+   "gameobject": "time",
+   "path_id": -7120257910198546150,
+   "zh": "周六24点结算",
+   "en": "Settles Saturday at hour 24"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmodepage.ab",
+   "gameobject": "Text",
+   "path_id": -5495187718651057436,
+   "zh": "段",
+   "en": "Rank"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmodepage.ab",
+   "gameobject": "Text",
+   "path_id": -2124511301751505223,
+   "zh": "本周获得：",
+   "en": "Earned This Week:"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmodepage.ab",
+   "gameobject": "RankText",
+   "path_id": -1054789450034522875,
+   "zh": "第<size=32>1</size>名",
+   "en": "Rank <size=32>1</size>"
+  },
+  {
+   "bundle": "restobundle/pages/autochessmodepage.ab",
+   "gameobject": "Text",
+   "path_id": 8276515363864994039,
+   "zh": "活动剩余时间",
+   "en": "Event Time Left"
+  },
+  {
+   "bundle": "restobundle/pages/autochessplayerlistpage.ab",
+   "gameobject": "duan",
+   "path_id": -1176486022980928317,
+   "zh": "初心5段",
+   "en": "Novice 5"
+  },
+  {
+   "bundle": "restobundle/pages/autochessplayerlistpage.ab",
+   "gameobject": "Text",
+   "path_id": -908515497645201307,
+   "zh": "金币",
+   "en": "Gold"
+  },
+  {
+   "bundle": "restobundle/pages/autochessplayerlistpage.ab",
+   "gameobject": "Text",
+   "path_id": -664012925887426517,
+   "zh": "玩家列表",
+   "en": "Player List"
+  },
+  {
+   "bundle": "restobundle/pages/autochessplayerlistpage.ab",
+   "gameobject": "Text",
+   "path_id": 7405397918605330992,
+   "zh": "个人信息",
+   "en": "Profile"
+  },
+  {
+   "bundle": "restobundle/pages/autochessplayerlistpage.ab",
+   "gameobject": "name",
+   "path_id": 9147371145620712180,
+   "zh": "玩家名玩家名",
+   "en": "Player Name"
+  },
+  {
+   "bundle": "restobundle/pages/autochessprobability.ab",
+   "gameobject": "title",
+   "path_id": -8045261810932653116,
+   "zh": "抽取概率",
+   "en": "Draw Odds"
+  },
+  {
+   "bundle": "restobundle/pages/autochessprobability.ab",
+   "gameobject": "title (1)",
+   "path_id": -7111230001469491809,
+   "zh": "下级",
+   "en": "Next"
+  },
+  {
+   "bundle": "restobundle/pages/autochessprobability.ab",
+   "gameobject": "title (1)",
+   "path_id": -4493784038445887493,
+   "zh": "本级",
+   "en": "Current"
+  },
+  {
+   "bundle": "restobundle/pages/autochessprobability.ab",
+   "gameobject": "Text",
+   "path_id": -4458387003923212261,
+   "zh": "抽取各品质棋子概率随等级提高而变化",
+   "en": "The odds of drawing each quality change as your level rises"
+  },
+  {
+   "bundle": "restobundle/pages/chess_explainpage.ab",
+   "gameobject": "Text",
+   "path_id": 1367120161670949688,
+   "zh": "角色图鉴",
+   "en": "Character Codex"
+  },
+  {
+   "bundle": "restobundle/pages/chess_explainpage.ab",
+   "gameobject": "Text",
+   "path_id": 7584876949226070509,
+   "zh": "操作说明",
+   "en": "How to Play"
+  },
+  {
+   "bundle": "restobundle/pages/chess_explainpage.ab",
+   "gameobject": "Text",
+   "path_id": 9139490724997578279,
+   "zh": "游戏百科",
+   "en": "Game Wiki"
+  },
+  {
+   "bundle": "restobundle/pages/chess_herossubpage.ab",
+   "gameobject": "skillDesc",
+   "path_id": -9083687077127246088,
+   "zh": "文本内容文本内容文本内容文本内容文本内容文本内容文本内容文本内容文本内容文本内容文本内容文本内容文本内容文本内容文本内容文本内容文本内容文本内容",
+   "en": "Text content text content text content text content text content text content text content text content text content"
+  },
+  {
+   "bundle": "restobundle/pages/chess_herossubpage.ab",
+   "gameobject": "starToUnlock",
+   "path_id": -7654513111092226903,
+   "zh": "三星解锁",
+   "en": "Unlocks at 3 Stars"
+  },
+  {
+   "bundle": "restobundle/pages/chess_herossubpage.ab",
+   "gameobject": "name",
+   "path_id": -3095146730902231924,
+   "zh": "木给瓦拉撸费",
+   "en": "Mugiwara Luffy"
+  },
+  {
+   "bundle": "restobundle/pages/chess_herossubpage.ab",
+   "gameobject": "skillName",
+   "path_id": -2456255568455172286,
+   "zh": "面子果实",
+   "en": "Face-Face Fruit"
+  },
+  {
+   "bundle": "restobundle/pages/chess_tutorialsubpage.ab",
+   "gameobject": "Text",
+   "path_id": -3795532646926292868,
+   "zh": "界面说明",
+   "en": "Interface"
+  },
+  {
+   "bundle": "restobundle/pages/chess_tutorialsubpage.ab",
+   "gameobject": "Text",
+   "path_id": -465429370469633521,
+   "zh": "英雄商店",
+   "en": "Hero Shop"
+  },
+  {
+   "bundle": "restobundle/pages/chess_tutorialsubpage.ab",
+   "gameobject": "Text",
+   "path_id": 5917985268962564640,
+   "zh": "英雄相关",
+   "en": "Heroes"
+  },
+  {
+   "bundle": "restobundle/pages/chess_tutorialsubpage.ab",
+   "gameobject": "Text",
+   "path_id": 8888780833134806053,
+   "zh": "阵营&能力",
+   "en": "Groups & Abilities"
+  },
+  {
+   "bundle": "restobundle/pages/chessbeatnumberpage.ab",
+   "gameobject": "PlayerName",
+   "path_id": -5888944413793939786,
+   "zh": "玩家名字六字",
+   "en": "Six-Letter Player Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessbeatnumberpage.ab",
+   "gameobject": "num",
+   "path_id": 2191960660989436893,
+   "zh": "10连胜 称霸海域",
+   "en": "10-Win Streak: Ruler of the Seas"
+  },
+  {
+   "bundle": "restobundle/pages/chesschooseshippage.ab",
+   "gameobject": "Title",
+   "path_id": 6793881819284286490,
+   "zh": "选船列表",
+   "en": "Choose a Ship"
+  },
+  {
+   "bundle": "restobundle/pages/chessfightrecordpage.ab",
+   "gameobject": "Text",
+   "path_id": -8659516914654343834,
+   "zh": "当前没有战斗回放",
+   "en": "No battle replays yet"
+  },
+  {
+   "bundle": "restobundle/pages/chessfightrecordpage.ab",
+   "gameobject": "name",
+   "path_id": -3473746973287818084,
+   "zh": "玩家姓名六字",
+   "en": "Six-Letter Player Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessfightrecordpage.ab",
+   "gameobject": "Text",
+   "path_id": -3332557332007433500,
+   "zh": "第一波",
+   "en": "Wave 1"
+  },
+  {
+   "bundle": "restobundle/pages/chessfightrecordpage.ab",
+   "gameobject": "Text",
+   "path_id": 1402148409003544515,
+   "zh": "1234服-",
+   "en": "Server 1234-"
+  },
+  {
+   "bundle": "restobundle/pages/chessfightrecordpage.ab",
+   "gameobject": "Text",
+   "path_id": 2166711083015072294,
+   "zh": "剩余角色：",
+   "en": "Characters Left:"
+  },
+  {
+   "bundle": "restobundle/pages/chessfightrecordpage.ab",
+   "gameobject": "Text",
+   "path_id": 3327785162103414710,
+   "zh": "对战记录",
+   "en": "Battle History"
+  },
+  {
+   "bundle": "restobundle/pages/chessfightrecordpage.ab",
+   "gameobject": "name",
+   "path_id": 6081614255541838303,
+   "zh": "玩家姓名六字",
+   "en": "Six-Letter Player Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessfightrecordpage.ab",
+   "gameobject": "Text",
+   "path_id": 6220311291292463280,
+   "zh": "-1234服",
+   "en": "-Server 1234"
+  },
+  {
+   "bundle": "restobundle/pages/chessfightrecordpage.ab",
+   "gameobject": "Text",
+   "path_id": 8468071403171938056,
+   "zh": "剩余角色：",
+   "en": "Characters Left:"
+  },
+  {
+   "bundle": "restobundle/pages/chessherointroduction.ab",
+   "gameobject": "Name",
+   "path_id": -7091622054075178413,
+   "zh": "玩家名字六字",
+   "en": "Six-Letter Player Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessherointroduction.ab",
+   "gameobject": "Title",
+   "path_id": -285303054651453200,
+   "zh": "属抗\r",
+   "en": "Elemental RES\r"
+  },
+  {
+   "bundle": "restobundle/pages/chessherostarpage.ab",
+   "gameobject": "Name",
+   "path_id": -8404449221593878719,
+   "zh": "玩家名字六字",
+   "en": "Six-Letter Player Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessherostarpage.ab",
+   "gameobject": "active",
+   "path_id": -6466168612668257689,
+   "zh": "二 星",
+   "en": "2 Stars"
+  },
+  {
+   "bundle": "restobundle/pages/chessherostarpage.ab",
+   "gameobject": "inactive",
+   "path_id": -5011524945402374382,
+   "zh": "三 星",
+   "en": "3 Stars"
+  },
+  {
+   "bundle": "restobundle/pages/chessherostarpage.ab",
+   "gameobject": "Text",
+   "path_id": -1884463774685194714,
+   "zh": "水电费水电费水电费水电费\n撕得粉碎的方爱仕达\n水电费水电费",
+   "en": "Utility bill utility bill utility bill utility bill\nTorn to shreds, square Aishida\nUtility bill utility bill"
+  },
+  {
+   "bundle": "restobundle/pages/chessherostarpage.ab",
+   "gameobject": "inactive",
+   "path_id": 1701387413218220421,
+   "zh": "一 星",
+   "en": "1 Star"
+  },
+  {
+   "bundle": "restobundle/pages/chessherostarpage.ab",
+   "gameobject": "inactive",
+   "path_id": 5282394425791040590,
+   "zh": "二 星",
+   "en": "2 Stars"
+  },
+  {
+   "bundle": "restobundle/pages/chessherostarpage.ab",
+   "gameobject": "active",
+   "path_id": 7999328508866319024,
+   "zh": "一 星",
+   "en": "1 Star"
+  },
+  {
+   "bundle": "restobundle/pages/chessherostarpage.ab",
+   "gameobject": "active",
+   "path_id": 8683216123659273086,
+   "zh": "三 星",
+   "en": "3 Stars"
+  },
+  {
+   "bundle": "restobundle/pages/chessloadpage.ab",
+   "gameobject": "Text",
+   "path_id": -9006571746046578037,
+   "zh": "角色名六个字",
+   "en": "Six-Letter Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessloadpage.ab",
+   "gameobject": "Text",
+   "path_id": -8194154053032209051,
+   "zh": "角色名六个字",
+   "en": "Six-Letter Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessloadpage.ab",
+   "gameobject": "Text",
+   "path_id": -3684568191859916285,
+   "zh": "角色名六个字",
+   "en": "Six-Letter Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessloadpage.ab",
+   "gameobject": "Text",
+   "path_id": -2437225311634420274,
+   "zh": "角色名六个字",
+   "en": "Six-Letter Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessloadpage.ab",
+   "gameobject": "Text",
+   "path_id": -1422677586561015490,
+   "zh": "角色名六个字",
+   "en": "Six-Letter Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessloadpage.ab",
+   "gameobject": "Text",
+   "path_id": 3355342140457959952,
+   "zh": "角色名六个字",
+   "en": "Six-Letter Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessloadpage.ab",
+   "gameobject": "Text",
+   "path_id": 6911506383031168405,
+   "zh": "角色名六个字",
+   "en": "Six-Letter Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessloadpage.ab",
+   "gameobject": "Text",
+   "path_id": 8093840970856022967,
+   "zh": "角色名六个字",
+   "en": "Six-Letter Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessmatchsuccesspage.ab",
+   "gameobject": "num",
+   "path_id": -5949806117358613486,
+   "zh": "匹配成功",
+   "en": "Match Found"
+  },
+  {
+   "bundle": "restobundle/pages/chesspackagespage.ab",
+   "gameobject": "Text",
+   "path_id": -8845241816071340365,
+   "zh": "限定扩展包",
+   "en": "Limited Expansions"
+  },
+  {
+   "bundle": "restobundle/pages/chesspackagespage.ab",
+   "gameobject": "Text",
+   "path_id": -8360540929124379483,
+   "zh": "上 阵",
+   "en": "Deploy"
+  },
+  {
+   "bundle": "restobundle/pages/chesspackagespage.ab",
+   "gameobject": "name",
+   "path_id": 5870513170938182411,
+   "zh": "棋盘名称几个字",
+   "en": "Board Name Text"
+  },
+  {
+   "bundle": "restobundle/pages/chesspokedexpage.ab",
+   "gameobject": "Title",
+   "path_id": -9001790075691442515,
+   "zh": "属抗",
+   "en": "Elemental RES"
+  },
+  {
+   "bundle": "restobundle/pages/chesspokedexpage.ab",
+   "gameobject": "active",
+   "path_id": -8641444895798687144,
+   "zh": "三 星",
+   "en": "3 Stars"
+  },
+  {
+   "bundle": "restobundle/pages/chesspokedexpage.ab",
+   "gameobject": "Text",
+   "path_id": -5009393141743162333,
+   "zh": "水电费水电费水电费水电费\n撕得粉碎的方爱仕达\n水电费水电费",
+   "en": "Utility bill utility bill utility bill utility bill\nTorn to shreds, square Aishida\nUtility bill utility bill"
+  },
+  {
+   "bundle": "restobundle/pages/chesspokedexpage.ab",
+   "gameobject": "active",
+   "path_id": -3682792252981440824,
+   "zh": "二 星",
+   "en": "2 Stars"
+  },
+  {
+   "bundle": "restobundle/pages/chesspokedexpage.ab",
+   "gameobject": "inactive",
+   "path_id": -3591288988638858216,
+   "zh": "三 星",
+   "en": "3 Stars"
+  },
+  {
+   "bundle": "restobundle/pages/chesspokedexpage.ab",
+   "gameobject": "Name",
+   "path_id": 3669261364814032430,
+   "zh": "玩家名字六字",
+   "en": "Six-Letter Player Name"
+  },
+  {
+   "bundle": "restobundle/pages/chesspokedexpage.ab",
+   "gameobject": "inactive",
+   "path_id": 8834458068466104854,
+   "zh": "二 星",
+   "en": "2 Stars"
+  },
+  {
+   "bundle": "restobundle/pages/chessrankpage.ab",
+   "gameobject": "playerText",
+   "path_id": 5318252488269661714,
+   "zh": "名字名字名字",
+   "en": "Name Name Name"
+  },
+  {
+   "bundle": "restobundle/pages/chessrankpage.ab",
+   "gameobject": "numText",
+   "path_id": 5571358549643354389,
+   "zh": "段 位",
+   "en": "Tier"
+  },
+  {
+   "bundle": "restobundle/pages/chessresultpage.ab",
+   "gameobject": "Text",
+   "path_id": -8318913571306005509,
+   "zh": "胜利奖励：",
+   "en": "Victory Rewards:"
+  },
+  {
+   "bundle": "restobundle/pages/chessresultpage.ab",
+   "gameobject": "Text",
+   "path_id": -4365412879898990059,
+   "zh": "伤害：",
+   "en": "Damage:"
+  },
+  {
+   "bundle": "restobundle/pages/chessresultpage.ab",
+   "gameobject": "Text",
+   "path_id": 1756189010899680633,
+   "zh": "伤害：",
+   "en": "Damage:"
+  },
+  {
+   "bundle": "restobundle/pages/chessresultpage.ab",
+   "gameobject": "Text",
+   "path_id": 6116249727355616599,
+   "zh": "存活回合：",
+   "en": "Rounds Survived:"
+  },
+  {
+   "bundle": "restobundle/pages/chessresultpage.ab",
+   "gameobject": "PlayerName",
+   "path_id": 7761574304405888232,
+   "zh": "山智",
+   "en": "Sanji"
+  },
+  {
+   "bundle": "restobundle/pages/chessresultpage.ab",
+   "gameobject": "Text",
+   "path_id": 7930626132846962061,
+   "zh": "存活回合：",
+   "en": "Rounds Survived:"
+  },
+  {
+   "bundle": "restobundle/pages/chesssandshoppage.ab",
+   "gameobject": "Text",
+   "path_id": -6555624334337697146,
+   "zh": "沙盘商店",
+   "en": "Board Shop"
+  },
+  {
+   "bundle": "restobundle/pages/chesssandshoppage.ab",
+   "gameobject": "name",
+   "path_id": -5964513423184623189,
+   "zh": "棋盘名称几个字",
+   "en": "Board Name Text"
+  },
+  {
+   "bundle": "restobundle/pages/chessweeklytaskpage.ab",
+   "gameobject": "Title",
+   "path_id": -8325447234216704426,
+   "zh": "搜捕盗贼",
+   "en": "Hunt Thieves"
+  },
+  {
+   "bundle": "restobundle/pages/chessweeklytaskpage.ab",
+   "gameobject": "Target",
+   "path_id": -3961090136663053307,
+   "zh": "连胜次数",
+   "en": "Win Streaks"
+  },
+  {
+   "bundle": "restobundle/pages/chessweeklytaskpage.ab",
+   "gameobject": "Text",
+   "path_id": 118709251680045716,
+   "zh": "激活月卡领取",
+   "en": "Activate Monthly Card to claim"
+  },
+  {
+   "bundle": "restobundle/pages/enterautochesspage.ab",
+   "gameobject": "zi",
+   "path_id": -3883942794610498022,
+   "zh": "进入海岛争霸",
+   "en": "Enter Island Conquest"
+  },
+  {
+   "bundle": "restobundle/pages/enterautochesspage.ab",
+   "gameobject": "TxtName",
+   "path_id": 2524211983128968236,
+   "zh": "万象更新",
+   "en": "A Fresh Start"
+  },
+  {
+   "bundle": "restobundle/pages/enterautochesspage.ab",
+   "gameobject": "Txt",
+   "path_id": 7270954870319250961,
+   "zh": "可能获得奖励",
+   "en": "Possible Rewards"
+  },
+  {
+   "bundle": "restobundle/pages/enterautochesstaskpage.ab",
+   "gameobject": "TxtName",
+   "path_id": -3880381979745513593,
+   "zh": "累计活动获得【海岛币】",
+   "en": "Earn [Island Coins] during the event"
+  },
+  {
+   "bundle": "restobundle/pages/enterautochesstaskpage.ab",
+   "gameobject": "Description",
+   "path_id": 6840402050202286298,
+   "zh": "参与1场巅峰赛",
+   "en": "Play 1 Peak Arena match"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "textRight",
+   "path_id": -6728088573484937396,
+   "zh": "/30天",
+   "en": "/30 days"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "textLeft",
+   "path_id": -6250239683971599528,
+   "zh": "订阅",
+   "en": "Subscribe"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "Registed",
+   "path_id": -3719765538940162148,
+   "zh": " 已订阅",
+   "en": " Subscribed"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "Text (2)",
+   "path_id": -2580380029797887786,
+   "zh": "取消：若需要取消自动续费，请在到期前至少24小时在“IOS-账户设置”关闭，关闭后不再扣费；",
+   "en": "Cancel: to cancel auto-renewal, turn it off in \"iOS - Account Settings\" at least 24 hours before expiry. You won't be charged afterward;"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "Text (1)",
+   "path_id": -1321856066260253023,
+   "zh": "续费：“贸易通行证”到期前24小时，苹果会自动为您从iTunes账户扣费，成功后有效期自动延长一个周期；",
+   "en": "Renewal: 24 hours before the \"Trade Pass\" expires, Apple automatically charges your iTunes account, and it is extended by one period once charged;"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "Title",
+   "path_id": -794602063116040287,
+   "zh": "海岛嘉奖令",
+   "en": "Island Commendation"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "taskName",
+   "path_id": 496832893045680869,
+   "zh": "增加<color=#BA3901>5</color>个海岛争霸每周任务",
+   "en": "+<color=#BA3901>5</color> Island Conquest weekly tasks"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "Text (3)",
+   "path_id": 1828073042604827572,
+   "zh": "用户协议：http://op.aligames.com/privacy/\n隐私声明：http://op.aligames.com/privacy.html",
+   "en": "User Agreement: http://op.aligames.com/privacy/\nPrivacy Policy: http://op.aligames.com/privacy.html"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "mapName",
+   "path_id": 2184898390778670914,
+   "zh": "可使用<color=#BA3901>“沙漠海岛”</color>地图",
+   "en": "Unlocks the <color=#BA3901>\"Desert Island\"</color> map"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "Title",
+   "path_id": 2192408581789799311,
+   "zh": "激活海岛嘉奖令畅享特权功能",
+   "en": "Activate the Island Commendation to enjoy exclusive perks"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "Text",
+   "path_id": 3251968574923780875,
+   "zh": "付费：自动续费商品包括“贸易通行证”，您确认购买后，会从您的苹果iTunes账户扣费；",
+   "en": "Payment: auto-renewing products include the \"Trade Pass\". Once you confirm the purchase, your Apple iTunes account is charged;"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "Text",
+   "path_id": 3582563728938899696,
+   "zh": "自动续费说明",
+   "en": "Auto-Renewal Info"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "profit",
+   "path_id": 6563892183033621534,
+   "zh": "以上权益有效期<color=#BA3901>一个月</color>",
+   "en": "These perks last <color=#BA3901>one month</color>"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "mapName",
+   "path_id": 7244422698932622166,
+   "zh": "以上权益有效期<color=#BA3901>一个月</color>",
+   "en": "These perks last <color=#BA3901>one month</color>"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthcardiostab.ab",
+   "gameobject": "ContinueTitle",
+   "path_id": 8928060449220684067,
+   "zh": "未自动续订",
+   "en": "Not Auto-Renewed"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthlycardprofit.ab",
+   "gameobject": "Title",
+   "path_id": -6085474971561446208,
+   "zh": "可使用<color=#BA3901>“沙漠海岛”</color>地图",
+   "en": "Unlocks the <color=#BA3901>\"Desert Island\"</color> map"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthlycardprofit.ab",
+   "gameobject": "mapName",
+   "path_id": -5973577846270524234,
+   "zh": "沙漠海岛",
+   "en": "Desert Island"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthlycardprofit.ab",
+   "gameobject": "taskName",
+   "path_id": -3176671352090515700,
+   "zh": "增加<color=#BA3901>5</color>个海岛争霸每周任务",
+   "en": "+<color=#BA3901>5</color> Island Conquest weekly tasks"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthlycardprofit.ab",
+   "gameobject": "Title",
+   "path_id": 2193043272921601179,
+   "zh": "激活海岛嘉奖令畅享特权功能",
+   "en": "Activate the Island Commendation to enjoy exclusive perks"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chessmonthlycardprofit.ab",
+   "gameobject": "ProfitDesc",
+   "path_id": 8657945581494354893,
+   "zh": "以上权益有效期<color=#BA3901>一个月</color>",
+   "en": "These perks last <color=#BA3901>one month</color>"
   }
  ],
  "glossary_additions": {
@@ -1457,7 +5592,36 @@
   "训练之日": "Training Day",
   "福利活动": "Bonus Events",
   "野外": "Field",
-  "黑市商人": "Black Market Merchant"
+  "黑市商人": "Black Market Merchant",
+  "羁绊": "Bond",
+  "段位": "Tier",
+  "段": "Rank (e.g. 初心9段 = Novice 9)",
+  "初心 / 达人 / 名人 / 罗刹 / 至高": "Novice / Expert / Master / Rakshasa / Supreme (Island Conquest tiers)",
+  "金币/金钱 (Island Conquest)": "Gold",
+  "舰船/战舰 (Island Conquest)": "ship / warship",
+  "回合": "round (Island Conquest match) / turn (inside a battle)",
+  "波": "Wave",
+  "角色商店 (Island Conquest)": "Character Shop",
+  "备选角色/备选区": "Bench",
+  "扩展包": "Expansion",
+  "海岛嘉奖令": "Island Commendation",
+  "嘉奖令": "Commendation",
+  "海岛通行证": "Island Pass",
+  "海岛币": "Island Coin",
+  "沙盘商店": "Board Shop",
+  "棋盘": "Board",
+  "普通 / 优秀 / 精良 / 史诗 / 传说 (hero rarity)": "Common / Uncommon / Rare / Epic / Legendary",
+  "动物之力 / 自然之力 / 超人之力": "Animal Force / Force of Nature / Superhuman Force",
+  "格斗技巧 / 剑道技巧 / 射击技巧": "Fighting Skills / Sword Skills / Shooting Skills",
+  "修正赛": "Balanced Match",
+  "无限制赛": "Unrestricted Match",
+  "荣耀赛": "Glory Match",
+  "巅峰赛": "Peak Arena",
+  "争霸赛 (Ladder top-32 bracket)": "Conquest Tournament",
+  "大师赛": "Masters Tournament",
+  "乱斗/乱斗赛": "Brawl",
+  "竞猜": "Bet",
+  "大师赛金币": "Masters Gold"
  },
  "uncertain_notes": [
   "Captain's Guide: game_terms_v271 gives 大航海 = 'Grand Voyage', but the earlier batches and the item 大航海挂机次数券 use 'Great Voyage'; 'Great Voyage' was kept (e.g. 大航海商店 = 'Great Voyage Shop').",
@@ -1466,6 +5630,16 @@
   "Captain's Guide: 装备精粹 / 精粹石 has no in-game English yet; rendered 'Quintessence' / 'Quintessence Stones' (distinct from 精炼 = Refine and 精淬石 = Purification Stone).",
   "Captain's Guide: 海域争霸 (a sea-war mode whose shop sells warships and refinement items) has no in-game English; rendered 'Sea Conquest' by analogy with 海岛争霸 = Island Conquest.",
   "TableNewStrongGuideTarget row 18 (primary bundle): label 晶魂商城 (Crystal Soul Shop) but the text says 'from the Arena Shop' (天梯商店); translated as written. Row 15: label 讨伐任务 (Bounty Quest) but text mentions Blood Battle; translated as written. Row 37 (other bundle): label 黄金试炼 (Golden Trial) but text mentions Hero Trial; translated as written.",
-  "Character names in guide labels follow game_terms_v271 exactly (大熊 = 'Bartholomew Kuma', 艾斯 = 'Portgas D. Ace', 莫利亚 = 'Gecko Moria', 汉库珂 = 'Boa Hancock', 杰克斯 = 'Shanks')."
+  "Character names in guide labels follow game_terms_v271 exactly (大熊 = 'Bartholomew Kuma', 艾斯 = 'Portgas D. Ace', 莫利亚 = 'Gecko Moria', 汉库珂 = 'Boa Hancock', 杰克斯 = 'Shanks').",
+  "TableAutoChessGroup: game_terms gives 自然之力 = 'Force of Nature'; the two sibling bonds were rendered in the same spirit: 动物之力 = 'Animal Force', 超人之力 = 'Superhuman Force' (they are the Zoan / Paramecia bonds; the buff texts use Zoans/Logias).",
+  "TableAutoChessGrade: 罗刹 rendered 'Rakshasa' (the demon it names); 名人 rendered 'Master'. Tier names are 'Novice/Expert/Master/Rakshasa' + rank number, and the top tier 至高 = 'Supreme'.",
+  "TableAutoChessHeroRare: 普通/优秀/精良/史诗/传说 rendered as the usual rarity scale Common/Uncommon/Rare/Epic/Legendary (game_terms has 普通 = 'Normal', but that comes from a difficulty/quality context).",
+  "TableText ChessRewardEndDesc: source 'M月d日 HH:mm结算' looks like a .NET DateTime format string, so the English word is quoted as a format literal: \"'Ends' M/d HH:mm\". If the game does not use it as a DateTime format, the quotes would show; drop them then.",
+  "TableText AutoChess_Level_N '{0}段' rendered 'Rank {0}'. If the game prefixes it with the tier name (e.g. 初心 + '{0}段'), a leading space may be needed locally ('Novice' + ' Rank 9').",
+  "TableText ACExplainPageWikiSubPageRoundTabContent: the source's '获得会和金币' is a typo for 回合金币 ('round Gold') and was translated that way.",
+  "TableText ACExplainPageWikiSubPageHeroTabContent says bonuses of different counts stack, while TableAutoChessGroup.desc says only the highest tier triggers; both translated as written.",
+  "TableText: 助战 (the battle Support/assist feature) vs 支持 (supporting a player in the tournament bets) are both 'Support' in English; the LadderWar_Rule line about 助战 was written 'The battle Support feature is disabled' to keep them apart.",
+  "ui_texts: developer placeholder texts (玩家名玩家名, 描述描述…, 蚊子蚊子…, 文本内容…, 水电费…, 杰拉基尔, 木给瓦拉撸费, 面子果实) were translated literally but kept short; they are overwritten at runtime. 木给瓦拉撸费 is a joke transliteration of 'Mugiwara Luffy'.",
+  "ui_texts: '周六24点结算' uses the in-game rendering 'Settles Saturday at hour 24' from game_terms_v271."
  ]
 }
