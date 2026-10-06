@@ -25531,11 +25531,595 @@
      "text": "Can reach Lv{0}"
     },
     {
+     "id": "PersonCanival_BuyBattlePassLevelCurLevel",
+     "text": "Current Level: Lv{0}"
+    },
+    {
+     "id": "PersonCanival_BuyBattlePassLevelUpReward",
+     "text": "{0} total rewards"
+    },
+    {
+     "id": "PersonCarnival_tips",
+     "text": "The Carnival event has 5 parts:\\n\\n1. Character Trial: learn new characters' mechanics through trial stages, which include guidance. Clear a stage to claim its reward and unlock the next. Trial stages can be replayed, but rewards can't be claimed again\\n\\n2. Battle Pass: each Carnival has a Battle Pass. Gain Battle Pass EXP to raise its level and earn lots of rewards.\\nGain Battle Pass EXP to raise your pass level; each level up gives normal Battle Pass rewards.\\nMain sources of Battle Pass EXP:\\n(1) Daily Quests.\\n(2) Weekly Quests.\\n(3) Event Quests.\\n\\nPremium Battle Pass rewards: you can buy the Premium Battle Pass at any time while the event runs, and immediately claim all Premium rewards for the levels you've reached\\n\\nWhen buying the Premium Battle Pass you can choose the Basic or Advanced version. Besides unlocking Premium rewards, the Advanced version gives a one-time bonus and instantly raises your pass level (excess levels aren't refunded)\\nNote! After buying either the Advanced or Basic version, you can't buy the other, so think carefully before buying!\\n\\nDaily Quests: complete set quests each day for Battle Pass EXP; resets daily at 0:00\\nWeekly Quests: completing weekly quests adds Battle Pass EXP; resets every Monday at 0:00.\\nEvent Quests: these don't reset over time and can be completed only once\\n\\nThe Battle Pass lasts as long as the Carnival event\\n\\n3. Path of Growth: raise Nika Luffy's stars to earn valuable item rewards\\n\\n4. Check-In Gifts: the event lasts 21 days; check in daily to claim rewards\\n\\n5. Fun Quiz: each day the system offers a quiz or riddle; answer correctly for rewards"
+    },
+    {
+     "id": "OpenServerCarnival_tips",
+     "text": "The Launch Carnival has four parts:\\n\\n14-Day Goals: complete set quests to build points and claim valuable rewards; quests unlock day by day\\n\\nVoyage Tower: clear set Voyage Tower stages for quest rewards. Quests open in two waves: the first on days 1--7 after character creation, the second on days 8--14\\n\\nLevel Rush: level up for quest rewards. Quests open in two waves: the first on days 1--7 after character creation, the second on days 8--14\\n\\nPower Boost: raise your Power for quest rewards. Quests open in two waves: the first on days 1--7 after character creation, the second on days 8--14"
+    },
+    {
+     "id": "RechargeDiscountTicket",
+     "text": "Surprise Discount: {0}/10 Price"
+    },
+    {
+     "id": "NoRechargeDiscountTicket",
+     "text": "Don't Use Voucher"
+    },
+    {
+     "id": "RechargeDiscountTips",
+     "text": "You have a discount voucher available"
+    },
+    {
+     "id": "CheckDiscountTicket",
+     "text": "View\\nVouchers"
+    },
+    {
+     "id": "DiscountTicket",
+     "text": "Discount Voucher"
+    },
+    {
+     "id": "UseDiscountTicket",
+     "text": "Use Discount Voucher"
+    },
+    {
+     "id": "guide_arenaTip7",
+     "text": "Rewards are paused for inactive players (not logged in for 30 days)"
+    },
+    {
+     "id": "CeleBrationShopName",
+     "text": "Celebration Shop"
+    },
+    {
+     "id": "MatchOfRevengeTitle",
+     "text": "Grudge Match"
+    },
+    {
+     "id": "MatchOfRevengeOut_1",
+     "text": "Send Duel Letter"
+    },
+    {
+     "id": "MatchOfRevengeOut_2",
+     "text": "Spend {0} to challenge {1} to a duel"
+    },
+    {
+     "id": "MatchOfRevengeWait",
+     "text": "Waiting for the opponent to accept"
+    },
+    {
+     "id": "MatchOfRevengeMutePlayer",
+     "text": "Decline duel requests from this player for 10 minutes"
+    },
+    {
+     "id": "MatchOfRevengeStart",
+     "text": "Duel Start"
+    },
+    {
+     "id": "MatchOfRevengeLitter",
+     "text": "Tap to leave a message (up to 10 characters)"
+    },
+    {
+     "id": "MatchOfRevengeReject",
+     "text": "The opponent declined your duel invitation"
+    },
+    {
+     "id": "MatchOfRevengeBadState",
+     "text": "The opponent can't accept challenges right now"
+    },
+    {
+     "id": "MatchOfRevengeOutline",
+     "text": "The opponent is offline"
+    },
+    {
+     "id": "MatchOfRevengeApplyMute",
+     "text": "You've been blocked by this player for 10 minutes"
+    },
+    {
+     "id": "TurnItemEnough",
+     "text": "Fewer than {1} {0}. Buy {2}?"
+    },
+    {
+     "id": "PersonCarnivalGiftLock",
+     "text": "Purchases open as the Sky Island Challenge progresses"
+    },
+    {
+     "id": "BeastPiratesTips",
+     "text": "Sky Island Challenge is a mode that opens in stages\\n\\nIt opens different activities over time; join them to earn tokens and exchange them for rewards in the shop\\n\\nThe event finally closes on 12/31. Before then you can buy shop items, unlock the pass and complete quests for rewards; after it closes, rewards from the mode can't be obtained, so plan your time\\n\\nWhile Trial of the Gods is open, players can't leave or disband their guild or remove members."
+    },
+    {
+     "id": "BeastPiratesStageTips1",
+     "text": "Tower Climb\\n\\nIn this mode, you get 10 challenge attempts per day. Clearing a floor for the first time opens the next; higher floors give better rewards.\\n\\nThis mode is open until 12/24"
+    },
+    {
+     "id": "BeastPiratesStageTips2",
+     "text": "Elite Bounty\\n\\nIn this mode, new enemies appear each day. Each enemy lasts two days and closes at 22:59 on the second day. Each enemy can be challenged three times a day, ranked by your highest damage record\\n\\nYou can choose buffs in this mode to help you challenge the boss\\n\\nThis mode offers trial challenges so you can test lineups and find the best setup before challenging the boss for real\\n\\nThis mode ends on 12/5"
+    },
+    {
+     "id": "BeastPiratesStageTips3",
+     "text": "Outpost Clash\\n\\nThis mode ranks by guild. You get 3 challenge attempts per day to challenge any open outpost\\n\\nWhile challenging, try to complete personal traits for points, and guild traits with shared guild progress; completing them all earns your guild bonus points! Challenging the boss also gives base points and progress points based on the boss's HP lost\\n\\nYou can choose hard or easy bosses. Hard bosses' personal traits are harder, but their trait points, base points and progress points are higher.\\n\\nChoose outposts to attack based on your guild's and your own strategy!\\n\\nThis mode is open until 10/9"
+    },
+    {
+     "id": "BeastPiratesStageTips4",
+     "text": "Final Showdown\\n\\nIn this mode, you get 3 challenge attempts per day to challenge any boss; bosses gain new abilities as their HP drops.\\n\\nThis mode has personal and guild rankings; rewards are given by rank after the event ends"
+    },
+    {
+     "id": "BeastPiratesDonateTips",
+     "text": "Donation\\n\\nYou can donate set supplies once a day to give your guild contribution\\n\\nYou can also donate Battle Proofs earned in the mode for extra contribution; contribution milestones bring buffs for players\\n\\nFinal Showdown will open Will of the Showdown to help players face the ultimate challenge."
+    },
+    {
+     "id": "FreeChoicePack_title1",
+     "text": "Treasured Gift Items"
+    },
+    {
+     "id": "FreeChoicePack_title2",
+     "text": "Selectable Items"
+    },
+    {
+     "id": "helpPowerLevelTarget",
+     "text": "Reach Lv{0}"
+    },
+    {
+     "id": "helpPowerBreakTarget",
+     "text": "Breakthrough reaches {0}"
+    },
+    {
+     "id": "helpPowerStarTarget",
+     "text": "Stars reach {0}"
+    },
+    {
+     "id": "helpPowerHeroLock",
+     "text": "Support character not unlocked"
+    },
+    {
+     "id": "helpPowerHeroHasUp",
+     "text": "This support character is already supporting"
+    },
+    {
+     "id": "helpPowerHeroActiveBuff",
+     "text": "{0} Cheer Buff {1}"
+    },
+    {
+     "id": "helpPowerUnLockTitle",
+     "text": "{0} Cheer Unlocked"
+    },
+    {
+     "id": "helpPowerHeroTitle",
+     "text": "Characters That Can Cheer"
+    },
+    {
+     "id": "helpPowerFashionTarget",
+     "text": "Unlocked {0}"
+    },
+    {
+     "id": "helpPowerShipTarget",
+     "text": "Owns {0}"
+    },
+    {
+     "id": "helpPowerAwakeTarget",
+     "text": "Unlock Awakening Lv{0}"
+    },
+    {
+     "id": "PersonalityModel_Explain",
+     "text": "Use Persona Look unlock items to unlock Persona Looks\\nWith a Persona Look, you transform into that look in towns and can use town emotes\\nMore Persona Looks will be released over time\\nPersona Looks can only be used on some maps; the restriction varies by look."
+    },
+    {
+     "id": "UI_desc_szb",
+     "text": "Can be exchanged for various costumes"
+    },
+    {
+     "id": "PersonCarnival_BuyBPTips",
+     "text": "You can only buy one Premium Battle Pass version. Choose carefully"
+    },
+    {
+     "id": "HelpPower_tips",
+     "text": "Cheer is an enhancement system for specific characters\\n\\nUnlock Cheer with a specific item\\n\\nOnce unlocked, choose 5 of the specific characters to assist; each gives buffs once it meets certain conditions\\n\\nWhile Cheer is active, this lineup's support effects no longer apply."
+    },
+    {
+     "id": "BeastPiratesPass_tips",
+     "text": "This Battle Pass is only open during the Sky Island Challenge. Unlock the Premium Pass for better rewards. Complete daily quests for Activity to raise its level, or buy EXP with Rainbow Diamonds."
+    },
+    {
+     "id": "BeastPiratesShopName",
+     "text": "Sky Island Shop"
+    },
+    {
+     "id": "declareTeam",
+     "text": "Team {0}"
+    },
+    {
+     "id": "personalDeclareText1",
+     "text": "Ascending"
+    },
+    {
+     "id": "personalDeclareText2",
+     "text": "Descending"
+    },
+    {
+     "id": "personalDeclareText3",
+     "text": "Declare War"
+    },
+    {
+     "id": "personalDeclareText4",
+     "text": "[Fighting Spirit] requirement not met. Can't declare war"
+    },
+    {
+     "id": "personalDeclareText5",
+     "text": "Spend {0} to declare war on player {1}?"
+    },
+    {
+     "id": "personalDeclareText6",
+     "text": "*Personal Duel Info:\\n[Fighting Spirit] Build Fighting Spirit toward other players through various actions; it also drops naturally over time\\n*[Duel Invitation] Once your Fighting Spirit meets the requirement, choose a player from the list on the right to invite to a duel; it starts once they accept\\n*[Win Rules] Duels are best of three. Before each battle you have 60 seconds to adjust your lineup (characters used in earlier rounds can't be used), then tap Lock; the battle starts once both sides lock. Each battle won gives 1 point, and the first to 2 points wins the duel\\n*[Title Reward] Winning a duel activates an event-exclusive title; getting it again refreshes its duration"
+    },
+    {
+     "id": "personalDeclareText7",
+     "text": "You can only declare war on players with [Fighting Spirit] >= {0}"
+    },
+    {
+     "id": "personalDeclareText8",
+     "text": "Player {0} invited you to a Fervent Duel"
+    },
+    {
+     "id": "personalDeclareText9",
+     "text": "Lineup decision countdown"
+    },
+    {
+     "id": "personalDeclareText11",
+     "text": "Increase"
+    },
+    {
+     "id": "personalDeclareText12",
+     "text": "Decrease"
+    },
+    {
+     "id": "personalDeclareText14",
+     "text": "Winner's Rewards"
+    },
+    {
+     "id": "personalDeclareText15",
+     "text": "(14 days; getting it again refreshes the duration)"
+    },
+    {
+     "id": "personalDeclareText16",
+     "text": "Final Score"
+    },
+    {
+     "id": "personalDeclareText17",
+     "text": "Tap anywhere to continue"
+    },
+    {
+     "id": "personalDeclareText18",
+     "text": "Tap the screen to continue. Returning to formation in {0}s"
+    },
+    {
+     "id": "personalDeclareText19",
+     "text": "War can't be declared right now"
+    },
+    {
+     "id": "personalDeclareText20",
+     "text": "Your guild didn't join the war declaration. Please wait for the next guild duel"
+    },
+    {
+     "id": "personalDeclareText21",
+     "text": "The opponent disconnected and didn't reconnect for a long time, so you won this duel"
+    },
+    {
+     "id": "personalDeclareText22",
+     "text": "Sort by Fighting Spirit"
+    },
+    {
+     "id": "personalDeclareText23",
+     "text": "Fighting Spirit:"
+    },
+    {
+     "id": "personalDeclareText24",
+     "text": "Build Fighting Spirit (see tips below) and choose a player to battle"
+    },
+    {
+     "id": "personalDeclareText25",
+     "text": "Open daily 10:00-22:00"
+    },
+    {
+     "id": "personalDeclareText26",
+     "text": "Periodic"
+    },
+    {
+     "id": "personalDeclareText27",
+     "text": "Another lineup is using this character. Replacing it will swap with that lineup"
+    },
+    {
+     "id": "personalDeclareText29",
+     "text": "The opponent hasn't set a formation. Can't declare war"
+    },
+    {
+     "id": "unionDeclareText01",
+     "text": "Spend {0} to declare war on guild {1}?"
+    },
+    {
+     "id": "unionDeclareText02",
+     "text": "Only the guild leader can declare war"
+    },
+    {
+     "id": "unionDeclareText03",
+     "text": "Guild reaches Lv{0}"
+    },
+    {
+     "id": "unionDeclareText04",
+     "text": "Guild has more than {0} members"
+    },
+    {
+     "id": "unionDeclareText05",
+     "text": "You can only declare war on guilds with [Fighting Spirit] >= {0}"
+    },
+    {
+     "id": "unionDeclareText06",
+     "text": "Next phase in {0}"
+    },
+    {
+     "id": "unionDeclareText07",
+     "text": "Only the guild leader/vice leaders can assign members to battle"
+    },
+    {
+     "id": "unionDeclareText08",
+     "text": "{0} (Win +{1} pts)"
+    },
+    {
+     "id": "unionDeclareText09",
+     "text": "The leader/vice leaders assign guild members to battle; each assigned member faces a random member of the same group from the enemy guild (unassigned matches count as losses"
+    },
+    {
+     "id": "unionDeclareText10",
+     "text": "Get ready before the preparation phase ends; battle starts automatically afterward"
+    },
+    {
+     "id": "unionDeclareText11",
+     "text": "*Guild Duel Info:\\n[Fighting Spirit] Your guild's players build Fighting Spirit toward other guilds through various actions; it also drops naturally over time\\n*[Rounds and Phases]\\nGuild war has 7 rounds, each lasting 2 days and independent of the others. Each round has 4 phases: [Declaration], [Formation], [Preparation] and [Settlement]. After round 1's [Settlement] comes round 2's [Declaration], and so on\\n*[Schedule]\\n[Declaration] day1  03:00 -- day1  19:00\\n[Formation] day1  19:00 -- day2  18:55\\n[Preparation] day2  18:55 -- day2  19:00\\n(This phase is short, so guild members who will fight, take note)\\n[Settlement] day2  18:55 -- day3  03:00\\n*[Declaration]\\nOnce Fighting Spirit meets the requirement, the guild leader can declare war on other guilds in this phase; both sides receive a mail notice\\n*[Formation]\\nIn this phase, the leader/vice leaders assign guild members to battle. After the phase settles, each assigned member is randomly matched with a player in the same group. If no one is assigned, that match is a loss; if neither side assigns anyone, it's a draw\\n*[Battle Groups]\\nThis guild duel has three groups: [General], [Vanguard Core] and [Vanguard]. Wins in different groups give different points; arrange members wisely and the weak can beat the strong\\n*[Preparation]\\nIn this phase, members fighting this round must enter the screen to get ready. Battle starts automatically when the countdown ends; a side that isn't ready loses, and if neither is ready, it's a draw\\n*[Settlement]\\nAfter all battles end, each guild's total score is tallied and the higher score wins the round. The winning guild gets 1000 Guild Contribution and the losing guild 500; rewards are sent by mail, so check your inbox"
+    },
+    {
+     "id": "unionDeclareText12",
+     "text": "Bye"
+    },
+    {
+     "id": "unionDeclareText13",
+     "text": "Build Fighting Spirit (see tips below) and choose a guild to declare war on"
+    },
+    {
+     "id": "awakeExtraCondition",
+     "text": "Extra Conditions"
+    },
+    {
      "id": "awakeLevelUpBtn",
      "text": "Level Up"
+    },
+    {
+     "id": "awakeActivateTips",
+     "text": "Meet the conditions to activate"
+    },
+    {
+     "id": "awakeUnloadTips",
+     "text": "{0} unlocks {1}"
+    },
+    {
+     "id": "UI_text_techtree1",
+     "text": "Basic Research Medal"
+    },
+    {
+     "id": "UI_text_techtree2",
+     "text": "Mid Research Medal"
+    },
+    {
+     "id": "UI_text_techtree3",
+     "text": "Advanced Research Medal"
+    },
+    {
+     "id": "TopBtnsExtractBtn_Up",
+     "text": "Collapse"
+    },
+    {
+     "id": "TopBtnsExtractBtn_Down",
+     "text": "Expand"
+    },
+    {
+     "id": "UnionSLGPassTip",
+     "text": "Merit earned in the mode converts to Pass EXP at 10:1; level up to claim rewards"
+    },
+    {
+     "id": "UnionSLGPassHelp",
+     "text": "Domination Pass Info:\\nThe Summer Pass has three tiers that share Pass EXP and level.\\nBuying only unlocks the right to claim pass rewards. Without buying, you still level up and accumulate rewards, and can claim them all once you unlock the right.\\nRaise your pass level by converting Merit into Pass EXP"
+    },
+    {
+     "id": "TreasureBoxRecruitTips",
+     "text": "*Sky Island Chest Info:\\nIn this mode, use keys to open chests and draw their rewards; special rewards can only be obtained once. Opening a chest without a key gives worse rewards, doesn't count toward your total, and can't give special rewards.\\nSpecial rewards:*Rainbow Diamonds 1666*Rainbow Diamonds 2888*Fashion Coins 888*Title Exchange Coins 88*Recruit Ticket Choice 66*Fashion Coins 5888\\nThe chance of a special reward is 1.17%.\\nNormal reward rates: Gold Bars 50000 (11.86%) Blue Diamonds 100 (11.86%) Blue Diamonds 200 (5.93%) Rainbow Diamonds 200 (1.48%) Sprint Training Book 1 (11.86%) Hero Stone 1 (11.86%) Refining Stone Bag 1 (11.86%) Exquisite Gem Bag 1 (5.93%) Reforge Rune Stone 5 (5.93%) Warship Refining Stone 5 (5.93%) Soul Search Ticket 2 (1.98%) Golden Battle Soul 1 (2.96%) Fashion Coins 30 (1.48%) Elite Recruit Ticket 1 (2.96%) Elite Recruit Ticket 2 (1.48%) Verdant Stone 5 (0.99%) Amber Stone 1 (0.99%) Lv6 Rainbow Gem Choice Bag 1 (0.99%) Lv7 Rainbow Gem Choice Bag 1 (0.40%) Lv8 Rainbow Gem Choice Bag 1 (0.10%)"
+    },
+    {
+     "id": "NormalBoxTipInfo",
+     "text": "Opening the chest directly uses no key, but rewards are worse and it doesn't count toward your total. Open it directly?"
+    },
+    {
+     "id": "fangzhou_name",
+     "text": "Ark Maxim Seal"
+    },
+    {
+     "id": "fangzhou_desc",
+     "text": "Collect seven to exchange for the Ark Maxim"
+    },
+    {
+     "id": "CelebrationPersonNewTips",
+     "text": "Top-right info text text1 text2 text3"
+    },
+    {
+     "id": "CelebrationPersonNewWrong",
+     "text": "Invalid lineup characters!"
+    },
+    {
+     "id": "BeastPiratesRaidTips",
+     "text": "*Team Co-op Info:\\nIn this mode, create a team and invite guild members and friends, or join theirs. Once 5 players gather and are all ready, you can start the challenge\\nBefore the challenge starts, the leader can remove members, and can force-end the challenge midway. Communicate well!\\nOnce started, players can enter stages; each player has 3 entries per day, and each stage can only hold one player at a time\\nDefeating a stage's enemies clears it; clearing all stages completes the challenge. When the challenge is completed or force-ended by the leader, it enters settlement and players get rewards based on stages cleared,\\nPlayers get 10 challenges and 3 reward claims per week; reward claims are counted separately for each stage."
+    },
+    {
+     "id": "BeastPiratesSixTips",
+     "text": "*Trial of the Gods Info:\\nIn this mode, players take part as a guild with shared guild progress*\\nEach player gets 3 challenge attempts per day, and each stage can only be challenged by one player at a time*\\nStages have different rules; meeting conditions lowers a stage's Durability, and it's cleared at 0. Clears add progress; with enough progress, guild members can claim rewards.*\\nThe leaderboard ranks guilds by how early they clear. Go for the first kill!*\\nThe first week of Trial of the Gods is the Sprint period, with tough challenges and a race for first kills. After the update on the second Thursday comes the Breakout period, when Durability is easier to lower; after the update on the third Thursday comes the Siege period, when stage Durability and monster strength are weakened further. May every captain defeat the strong foes and win rewards!"
+    },
+    {
+     "id": "BeastPiratesSixCopyTips",
+     "text": "*Raid Stage: each clear removes X Durability\\n*Sweep Stage: each enemy defeated removes X Durability\\n*Boss Stage: every 1% damage dealt removes X Durability"
     }
    ],
    "other_bundle_rows": [
+    {
+     "id": "Reward_Unfinished",
+     "text": "If the bounty isn't completed before it expires, the reward is refunded."
+    },
+    {
+     "id": "Explanation_IntegralArena",
+     "text": "*Ladder Unrestricted Match is a cross-server PvP mode.\\nUnrestricted Match: no restriction on deployed characters' quality, and equipment refining, gems, training, guild skills and Great Voyage warship refinement all apply. Available once Ladder unlocks.\\nUnrestricted Match needs its own lineup and assists.\\n*At the start of an Unrestricted Match, all deployed characters take 20% less final damage; from turn 2, 10% less each turn; from turn 4, all deployed characters take 10% more final damage each turn\\n*Unrestricted Match starts at 1000 points and caps at 2500.*Ladder point rewards are settled weekly.\\nPlay at least 10 Unrestricted Matches a week to get weekly rewards.*Each Ladder season lasts 8 weeks. When it ends, all players' points are reset.\\nAfter the season, rare season titles are awarded based on Unrestricted Match rank.*Ladder point decay rules:\\nAfter weekly rewards, Unrestricted Match points are reduced somewhat for all participants.\\nPoints never drop below 1000, and players under 1000 points are not affected.\\nPoints used for Unrestricted Match weekly and season rewards are not affected by decay.\\n*Ladder Balanced Match is a cross-server PvP mode.\\nBalanced Match: only characters of SR rarity or lower can be deployed, and equipment, refining, gems, training and guild skills have no effect. Available once Balanced Match unlocks.\\nBalanced Match needs its own lineup and assists.\\n*At the start of an SR Balanced Match, all deployed characters take 20% less final damage; from turn 2, 10% less each turn; from turn 4, all deployed characters take 10% more final damage each turn\\n*Balanced Match starts at 1000 points and caps at 2500.*Balanced Match point rewards are settled weekly.\\nPlay at least 10 Balanced Matches a week to get weekly rewards.*Balanced Match opens periodically; all players' points are reset when it ends.\\nAfter it ends, rare titles are awarded based on Balanced Match rank.*Balanced Match point decay rules:\\nAfter weekly rewards, Balanced Match points are reduced somewhat for all participants.\\nPoints never drop below 1000, and players under 1000 points are not affected.*Ladder Brawl is a periodic balanced mode that requires 1600 points in Unrestricted Match\\nIn this mode, the character pool is limited to specific characters, and each period 1 character must be deployed. All characters' equipment, gems, stars and so on apply normally\\nWhile Brawl is open, your first 3 battles each day give an extra 15 Brawl Coins\\nBrawl has season rank rewards, sent by mail after the season ends"
+    },
+    {
+     "id": "Explanation_Recruit",
+     "text": "*Normal Recruit uses Normal Recruit Tickets; Elite Recruit and Limited Recruit use Advanced Recruit Tickets. Both can be bought in the Shop.*All three recruits can give SSR characters.*Each Elite or Limited Recruit gives 1 Golden Battle Soul, and a 10-pull guarantees an SR character.*New players' first two Elite 10-pulls are half price. After 3 Elite 10-pulls, choose any one SSR character.*After 30 Elite Recruits, the wish list unlocks: choose SSR characters to rate-up, and when you recruit an SSR, each wish list character's chance rises by 35%. Once you summon a wish list character in a week, their rate-up ends; the wish list and rate-up count reset every Thursday at 5:00.*Limited Recruit: greatly increased rates for each event's featured SSR characters. After getting a non-featured SSR, your next SSR is guaranteed to be the featured character.*Normal Recruit rates: R 96%, SR 3.5%, SSR 0.5%. At most 2 SSRs per 10-pull.*Elite and Limited Recruit base rates: R 89.4%, SR 10%, SSR 0.6%. An SSR is guaranteed within 80 pulls; overall SSR rate 2%.*After 200 total recruits in Elite and Limited Recruit, Selected Recruit unlocks. There you can pick any character from this week's list as your Featured Character, and recruits give that character and other items.*Selected Recruit guarantees an SSR every 60 pulls, with an overall SSR rate of 2.4%; SSRs from Selected Recruit are always your Featured Character. The character list refreshes every Thursday at 5:00."
+    },
+    {
+     "id": "Explanation_EquipmentRefine",
+     "text": "*Refining costs different Refining Stones depending on the refine level:\\n  Lv1 to 5: Basic Refining Stones;\\n  Lv6 to 10: Mid Refining Stones;\\n  Lv11 to 15: Advanced Refining Stones and Hero Stones;\\n  Lv16 to 20: Super Refining Stones and Hero Stones.\\n*Equipment of different levels has different refine caps:\\n  Lv10 equipment: up to +2;\\n  Lv20 and 30 equipment: up to +5;\\n  Lv40 equipment: up to +10;\\n  Lv50 and 60 equipment: up to +20;\\n  Each time refining reaches +5, +10, +15 or +20, you gain an extra stat; different equipment gets different extra stats."
+    },
+    {
+     "id": "Explanation_BloodyFight",
+     "text": "*Each opening lets you fully Quick Battle 1 Blood Battle stage.*Blood Battle is a consecutive stage challenge. Defeating each stage's guardian saves your lineup's current HP. Medicine doesn't restore characters' HP in Blood Battle.*Severely Injured characters can't be used again in this run, not even as support. Each run has 1 free heal, and you can buy up to 3 more with Rainbow Diamonds. Tap a Severely Injured character in the list to heal them.*Each wave won restores some HP to all characters on the team.*Uninjured characters recover 3% HP per hour outside battle.*Higher clear ratings give more rewards.*Defeating a stage's Boss opens a Blood Battle Chest, which may contain Blue Diamonds, Hero Stones, Quick Challenge Tickets or gems.*Deployed characters must be Lv30 for Blood Battle Alubarna, Lv40 for Skypiea and Lv50 for Enies Lobby. Support characters have no level requirement.*Clearing a Blood Battle stage with full stars unlocks Quick Battle for it. However, due to some stages' conditions, Quick Battle may not always get full stars, so use it with care."
+    },
+    {
+     "id": "TrainingExplain",
+     "text": "*Training Day is open daily and shares 10 daily attempts with Breakthrough Day.*Higher-level stages give higher-level training materials."
+    },
+    {
+     "id": "UIMorale_Influence",
+     "text": "Morale affects Attack, Defense and HP"
+    },
+    {
+     "id": "ConfirmTheRecoveryOfMorale",
+     "text": "Spend {0} Gold Bars to restore {1} Morale?"
+    },
+    {
+     "id": "UnionShopExplain",
+     "text": "*In the Guild Store, members can buy items with Guild Contribution; some rare items cost Rainbow Diamonds.*Upgrading the Guild Store unlocks more advanced items, discounts, rare limited items and the Auction House.*Limited items share one purchase limit across all guild members. The store refreshes daily at 12 noon.*The Auction House auctions rare items to all guild members at low prices. Each auction lasts 2 days, refreshing at 12 noon on auction day and running for 36 hours.*Members who win an item receive it by mail and must claim it there.*The Auction House needs an active guild to open: a member counts as active after over 1 hour online in total, and 20 active players are needed the day before for the auction to run."
+    },
+    {
+     "id": "PrisonOut_Time",
+     "text": "{0} minutes of detention left. Pay <sprite=3>×{1} to get out of prison. Pay now?"
+    },
+    {
+     "id": "fight_skip_tip_01",
+     "text": "Use              X{0} to skip the battle\\n\\n(Uses left today: {1}/999)"
+    },
+    {
+     "id": "fight_skip_tip_03",
+     "text": "Not enough Quick Challenge Tickets. Can't skip the battle"
+    },
+    {
+     "id": "Blue_drills",
+     "text": "Blue Diamond Cost:"
+    },
+    {
+     "id": "unionJoinUFTime",
+     "text": "Guild registration is open all day every Monday, Wednesday and Friday"
+    },
+    {
+     "id": "uiuniontips",
+     "text": "Each season lasts 8 weeks; rewards are sent by mail when it ends. This season ends: {0:d2}/{1:d2} {2:d2}:{3:d2}"
+    },
+    {
+     "id": "SeaFightSkillTitle",
+     "text": "Sea Battle Skills (active in World Domination Island Battles)"
+    },
+    {
+     "id": "SeaFightSkill",
+     "text": "Sea Battle Skills (active in World Domination Island Battles)"
+    },
+    {
+     "id": "ShipCanNotBuild",
+     "text": "Set it as deployed in any lineup"
+    },
+    {
+     "id": "DeclareWar_Des1",
+     "text": "After declaring war, your guild will fight the declared guild in a Sea Battle at <color=#b94200>{0}</color>."
+    },
+    {
+     "id": "DeclareWar_Statement",
+     "text": "Guild war declarations count as official Sea Battles and follow all Sea Battle rewards and penalties."
+    },
+    {
+     "id": "coin_desc_znq2",
+     "text": "A token used at the Shard Recycling Shop, exchangeable for items"
+    },
+    {
+     "id": "UI_icon_bi",
+     "text": "Essence Coins"
+    },
+    {
+     "id": "BattlePassExplain",
+     "text": "*The Sailing Pass is one way to earn event rewards through everyday play. Gain Pass EXP to raise your Sailing Pass level and earn lots of rewards.\\n*Gain Pass EXP to raise your pass level; each level up gives Basic Pass rewards. Main sources of Pass EXP:\\n(1) Daily Quests.\\n(2) Buying pass levels.\\nPremium Pass rewards: you can buy the Premium Sailing Pass at any time while the event runs, and immediately claim all Premium rewards for the levels you've reached.\\n*Daily Quests: completing set quests each day gives Pass EXP and Activity. Pass EXP raises your pass level; Activity adds to daily activity, and reaching certain values unlocks activity rewards. Activity rewards reset daily at 0:00, so claim them in time.\\n *Buying Sailing Pass levels: you can raise your Sailing Pass by buying levels. \\n*Premium Sailing Pass duration: it lasts as long as each event period and expires when the period ends. You must buy it again for each new period."
+    },
+    {
+     "id": "BP_TimeFormatDays",
+     "text": "Ends in {0}d {1}h {2}m"
+    },
+    {
+     "id": "BP_TimeFormatHours",
+     "text": "Ends in {0}h {1}m"
+    },
+    {
+     "id": "SailSkill",
+     "text": "Talent Traits"
+    },
+    {
+     "id": "PinnacleFormation",
+     "text": "Unrestricted Match Formation"
+    },
+    {
+     "id": "error_code_81316",
+     "text": "Ladder Unrestricted Match division isn't open"
+    },
+    {
+     "id": "SeaHangEarn",
+     "text": "Current Estimated Income"
+    },
+    {
+     "id": "PokedexReviewExplain",
+     "text": "*Light up goals in Legends to make progress. In non-overview entries, reaching 100% collection lets you claim a one-time reward from the Collection Master button at the bottom right.*Reaching 100% collection in the overview grants the animated title (Legend of the Seas).*Keep 100% collection to use the title permanently. If Legends updates drop your collection below 100%, the title stays usable for 7 days; after 7 days it can't be used*Use Activate All to activate every available goal."
+    },
+    {
+     "id": "refineExplain",
+     "text": "*Refining costs different amounts of Refining Stones and Hero Stones depending on the refine level.\\n*Each time refining reaches +5, +10, +15 or +20, you gain an extra stat; different equipment gets different extra stats.\\n *Equipment of different levels has different refine caps:\\nLv10 equipment: up to +2;\\n Lv20 and 30 equipment: up to +5;\\n Lv40 equipment: up to +10;\\n Lv50 and 60 equipment: up to +20, but Lv50 equipment gets no extra stat at +20;"
+    },
+    {
+     "id": "Btn_Role_Cultivate",
+     "text": "Daily Limit"
+    },
+    {
+     "id": "Btn_Equip_Cultivate",
+     "text": "Weekly Limit"
+    },
+    {
+     "id": "Btn_Game_Cultivate",
+     "text": "Permanent Limit"
+    },
+    {
+     "id": "GiftMonthCard",
+     "text": "1. Daily claim:\\n[Rainbow Diamonds*150]\\n2. 3 free make-up check-ins per month\\n3. Unlocks auto-refine for ships"
+    },
+    {
+     "id": "GiftBuildMonthCard",
+     "text": "1. Activates the [Advanced Essence Collector] building\\n2. 2 extra Home construction workers\\n3. Production buildings get 20% extra progress\\n4. Dormitory Stamina recovery 50% faster\\n5. Double Home daily quest rewards"
+    },
+    {
+     "id": "CrawlTowerDesc",
+     "text": "*Voyage Tower Guide*Voyage Tower is a challenging PvE mode\\nCaptains start from the first stage; clearing a stage unlocks the next, up to 100 stages.\\nClearing a stage gives stage rewards, split into first-clear rewards and clear rewards.\\nFirst-clear rewards: one-time rewards for your first clear; not given again after a reset.\\nClear rewards: given every time you clear the stage.\\nVoyage Tower reset: captains get one reset per week; tap the reset button to reset manually. Resets don't stack.\\nResetting sends your progress back to the first stage, so you can clear stages again for clear rewards.\\nVoyage Tower sweep: use sweep to clear quickly; stages swept = highest stage cleared - current stage.\\nVoyage Tower weekly quests: captains get 3 weekly quests that track how many stages you clear each week; clear the set number to claim rewards.\\nQuests refresh every Monday at 0:00, so remember to claim them in time, Captains."
+    },
     {
      "id": "UI_bulin_jin",
      "text": "Challenge Gold Coin"
@@ -25545,11 +26129,406 @@
      "text": "Challenge Silver Coin"
     },
     {
+     "id": "UI_bulin_jin_s",
+     "text": "Gold coins from Drake Challenge, used to buy valuable items in the current Drake Challenge Shop"
+    },
+    {
+     "id": "UI_bulin_yin_s",
+     "text": "Silver coins from Drake Challenge, used to buy valuable items in the current Drake Challenge Shop"
+    },
+    {
+     "id": "AnswerTopic",
+     "text": "The Fun Quiz has begun! Captains can answer <color=#B65E16>{0}</color> questions a day, and those who get them all right win <color=#B65e16>generous rewards</color>! Come join in!"
+    },
+    {
+     "id": "LivenessExplain",
+     "text": "*During the event, captains can get Training Points from [Character Verification] and [Fun Quiz]*Spend Training Points on this page to boost progress; reach certain progress for generous rewards*Claim your rewards quickly during the event; they won't wait!"
+    },
+    {
+     "id": "TrialStageExplain",
+     "text": "*Character Trial lets you try new characters' skills. All characters are provided by the system, with stats that differ from real ones and are unrelated to your progress. Skills match the real ones at max level.\\n*Some stages may be designed to be unwinnable; just finish the battle to open the next stage and try different skill combos.\\n*Unclaimed rewards are lost when the event ends."
+    },
+    {
+     "id": "ModuleActivityMain_1",
+     "text": "Summer Shop"
+    },
+    {
+     "id": "ModuleActivityMain_3",
+     "text": "Fun Quiz"
+    },
+    {
+     "id": "ModuleActivityMain_4",
+     "text": "Training Progress"
+    },
+    {
+     "id": "TimeTreasureDesc",
+     "text": "*Limited-Time Vault Guide*Only players with a Limited-Time Vault Key can open a Limited-Time Vault*Get keys from limited-time events, livestream draws and bundles (watch the game announcements for details)*There are currently three keys: Monthly Pass Vault Key and Golden Soul Vault Key.*Each vault has different rewards and can only be opened with its matching key.*Once opened, the vault's entrance appears at the event icon on the main screen.*Claim each day's reward in an open vault. A new reward unlocks every other day during the vault period; if you forget to claim one day, the next day's reward won't unlock, so claim in time, Captains.*Mind the vault's open period. Once it closes, unclaimed items disappear.*Only one vault of each type can be open at a time."
+    },
+    {
+     "id": "ModuleActivity_Temp_Tip",
+     "text": "*This event's theme is [New World Brook Training Plan], with [Character Trial], [Fun Quiz], [Training Progress] and [Character Verification].*[Character Trial] lets you play new-character stages with system-provided characters; clear them for generous rewards.*[Fun Quiz] is a quiz mode: 5 questions are drawn from the question bank each day; right answers give generous rewards and wrong answers give partial rewards. Questions refresh daily at 0:00."
+    },
+    {
+     "id": "SignInContext",
+     "text": "Thank you for being with us all along. Enjoy the 1.5 Anniversary celebration, Captains!"
+    },
+    {
+     "id": "coin_name_dianfengbi",
+     "text": "Peak Coins"
+    },
+    {
+     "id": "coin_desc_dianfengbi",
+     "text": "Currency from the Fourth Anniversary Fight to the Peak event, exchangeable for prizes at the Anniversary Shop."
+    },
+    {
+     "id": "CelebrationAnswerExplain",
+     "text": "Fun Event Info:\\n1. Fun events come in two types: Celebration Quiz and Celebration Riddle.\\n2. Riddles and quizzes alternate daily.\\n3. Each player can answer only one quiz or riddle per day and claim its reward.\\n4. The Celebration Quiz is multiple choice: pick from four options. Right answers give rewards automatically; if wrong, wait a few seconds to think again.\\n5. The Celebration Riddle gives one clue a day. Go to an area related to the clue, then tap Celebration Riddle again. If correct, you get the reward automatically."
+    },
+    {
+     "id": "FourAnniversaryActivityHelp",
+     "text": "Spring Festival Challenge Info:\\n1. This event runs from 1/19 to 2/5.\\n2. 2/3 to 2/5 is for claiming rewards and exchanging prizes. You can't join Spring Festival events then, but you can exchange Spring Festival Coins for gifts in the Spring Festival Shop and claim unclaimed check-in prizes.\\n3. Claiming missed check-in prizes requires that you logged in but didn't claim them; logins after 10/6 don't count toward check-in days.\\n4. After 2/5 the Fourth Anniversary Spring Festival event closes and remaining Spring Festival Coins are cleared, so exchange them for gifts in time!"
+    },
+    {
+     "id": "URRecruitExplain",
+     "text": "*UR Recruit uses UR Recruitment Tickets, which can be bought in the Shop.*Besides characters, the UR Recruit pool includes some game items.*All characters in UR Recruit are obtained as shards.*Every 20 recruits guarantee at least one shard of the current UR character.*UR Recruit rates: R 49.6%, SR 14.4%, non-limited SSR 3%, UR 0.5%, UR character shards 5.5%, other items 27%.*When your total recruits this period reach set amounts, you can claim pull-milestone rewards. Milestone progress and claim status reset when each UR Recruit period opens.*<color=#a32e00>This UR Recruit runs 2022.09.22-2022.10.05.</color>"
+    },
+    {
+     "id": "New_RedPacket_Tips_15",
+     "text": "Happy celebrations, Captains!"
+    },
+    {
+     "id": "New_RedPacket_Tips_16",
+     "text": "1st Anniversary Celebration"
+    },
+    {
+     "id": "New_RedPacket_Tips_17",
+     "text": "Celebration Red Envelope"
+    },
+    {
+     "id": "New_RedPacket_OpenTips_3",
+     "text": "Happy celebrations!"
+    },
+    {
+     "id": "AttainmentQuestion",
+     "text": "*Dreamy Early Summer event info.*Event period:\\n2023/6/9 to 2023/6/22.*Event content:\\nDreamy Early Summer has three parts: [Early Summer Journey], [Drifting Shop] and [Go to Blockade].*Details:\\nDuring the event, captains can play [Route Blockade] and complete [Early Summer Journey] quests to collect Dream Gold Coins, which can be exchanged for great rewards at the [Drifting Shop]."
+    },
+    {
+     "id": "UI_Attainment_cion_text",
+     "text": "A special currency of the Dreamy Early Summer event, used to buy valuable items in the shop."
+    },
+    {
+     "id": "AttainmentmainPageDes",
+     "text": "Leisurely summer days, set sail with your dreams!\\nRide the cool breeze toward the land of hope!"
+    },
+    {
+     "id": "RoguePVEExplainExplain",
+     "text": "*In Route Expedition, you challenge stages with system-provided characters whose stats are unrelated to your own characters. Improve them with random skills dropped by stages and with enhancements.\\n\\nAfter unlocking a new active skill through enhancement, tap \"Change\" on the lineup screen to see all skills you hold, then drag an active skill to the skill slot on the right to swap it in.\\n\\nThis period offers three characters; pick any one for each voyage.\\n*Defeating enemies in Route Expedition offers three random skills; pick any one.\\nStages drop Route Expedition Gold Coins and Silver Coins, each with a daily cap. Gold Coins buy items in the exclusive shop; Silver Coins enhance Route Expedition characters. Unused currency is cleared when the event ends.\\nEarn points by damaging monsters and clearing stages. Damage to the final boss on Difficulty II counts toward your boss score. Players with high point rankings get extra rewards when the event ends.\\n*When you feel you can't progress or raise your score, reset manually to start a new voyage. Resetting loses the random skills from this run but keeps enhancements.\\nOn a new voyage you can choose the difficulty and character again. This Route Expedition has two difficulties; clear every stage on Difficulty I to choose Difficulty II on your next voyage.\\nYou can reset 40 times for free during the event; after that, spend Blue Diamonds to keep resetting.\\n*After the event period ends, stages can't be challenged, but you can still view the leaderboard and buy items. The event closes at 24:00 that night and leaderboard rewards are settled."
+    },
+    {
+     "id": "UnionBossExplain",
+     "text": "*Boss Repel is a guild-based PvE mode; captains must join a guild to take part.\\n*While it's open, captains get 3 attempts per day. Your first successful clear of a stage uses one attempt and gives the first-clear reward.\\n*Each time the guild defeats a boss, guild members who attacked it get the boss reward.\\n*Note: leaving or switching guilds during the event bars you from this period's event, so think carefully, Captains.\\n*Damage dealt by guild members to all bosses converts to points, which add up to the guild's total and are ranked against other guilds in the region. The top 50 guilds get ranking rewards.\\n*After the event ends, stages can't be challenged, and rewards are mailed to all guild members based on the guild's rank."
+    },
+    {
+     "id": "ServerChallengeExplain",
+     "text": "*Event time: daily 8:00-24:00\\n*Details:\\nDuring the event, captains can earn Peak Gold Coins and point rewards by defeating bosses and more.\\nExchange Peak Gold Coins for great rewards in the [Event Shop].\\nAccumulated points give rewards after the event ends.\\n*Boss rules: bosses range from one to six stars.\\nThe more bosses you defeat, the more likely high-star bosses appear. Higher-star bosses give more points and Peak Gold Coins\\n*Point rules: boss points not settled that day are settled the next day; if you don't log in the next day, they won't count."
+    },
+    {
+     "id": "MultiTeamFightExplain_Formation",
+     "text": "Description description description"
+    },
+    {
+     "id": "DriftBotCostGetReward",
+     "text": "Spend {0} to get {1} hours of income? Uses left today: {2}/{3}"
+    },
+    {
+     "id": "UI_DriftBot_coin",
+     "text": "Fantasy Drift Coins"
+    },
+    {
+     "id": "UI_DriftBot_coin_test",
+     "text": "Currency from Fantasy Drift"
+    },
+    {
+     "id": "MultiTeamFightFirstChallengeTip",
+     "text": "Tip text AAAA"
+    },
+    {
+     "id": "MultiTeamFightExplain_Main",
+     "text": "*Peak Arena Tournament is a multi-lineup PvP mode.\\n*This season runs from 2024/5/23 to 2024/6/21\\n*While it's open, captains must set up at least 3 teams with 15 characters, and can adjust the teams' battle order.\\n*Opponents are pushed to you during the event. Beating them raises your points; losing lowers them. Being challenged by others doesn't change your points either way.\\n*Captains get five challenges per day during the event, and can also buy up to ten Arena Challenge Tickets daily in the Rainbow Diamond Shop; use one from your Bag for an extra challenge\\n*In this Peak Arena Tournament's starting tiers, character stats are synced to Lv60 and unlocked skills plus their follow-up skills are synced to max level; stats and buffs from equipment, gems, medicine, stars, breakthrough, training, costumes and titles have no effect. Higher tiers gradually unlock character stat modules\\n*AI opponents have been added below 1100 points for when opponents are scarce early on.\\n*The first time you reach certain tiers, you can claim tier-up rewards on the screen. 1000-1199 points is Bronze, 1200-1499 is Silver, and 1500+ is Gold.\\n*Captains can set hidden characters in their defense lineup; challengers can't see their info\\n*At each Wednesday 23:00 settlement, rewards are mailed based on your tier. Note: captains in the Novice tier get no weekly rewards, so play often\\n*When the event ends, rewards are mailed based on your rank and tier.\\n*Playing gives Arena Tournament Coins, with more for wins; exchange them for various items in the Arena Tournament Shop."
+    },
+    {
+     "id": "ForeverPassNotItem",
+     "text": "Unlock with the [Space-Time Pocket Watch] on login day 7"
+    },
+    {
+     "id": "ClassicCustomSaveTips",
+     "text": "Your wish list has changed. Save your current choices?"
+    },
+    {
+     "id": "ClassicCustomRewardTips",
+     "text": "Gold Bars, plus a bonus Voyage Companion. 10-pulls guarantee an SR!"
+    },
+    {
+     "id": "ClassicLimitedRewardTips",
+     "text": "Gold Bars, plus a bonus Voyage Companion. 10-pulls guarantee an SR!"
+    },
+    {
+     "id": "ClassicLimitedTips2",
+     "text": "SSR guaranteed in {0} more recruits!"
+    },
+    {
      "id": "ClassicLimited_title",
      "text": "Limited Recruit"
+    },
+    {
+     "id": "ClassicCustom_dis",
+     "text": "When you get an SSR character, each chosen character's rate rises by 35%. Choose up to 2 characters; each boost applies 1 time per week. Resets every Thursday at 5:00."
+    },
+    {
+     "id": "UI_Exercise",
+     "text": "Action Points"
+    },
+    {
+     "id": "UI_Exercise_test",
+     "text": "Action Points needed for Combat Training"
+    },
+    {
+     "id": "TripleSpeedLevelLimitTip",
+     "text": "3x battle speed unlocks at Lv20"
+    },
+    {
+     "id": "ExpGetWay_BattlePass",
+     "text": "[Pass] - Daily Quests (lots of EXP)"
+    },
+    {
+     "id": "RechargeVoyage_01",
+     "text": "Reach the matching level to claim its reward / <color=#00ff00>can be bought</color> at any level, but only <color=#00ff00>once</color>\\nThe event closes once all rewards are claimed; <color=#00ff00>tap the Rainbow Diamond icon to claim rewards</color>"
+    },
+    {
+     "id": "Equip_GetNewExtraAttr",
+     "text": "Gained {0} extra stats"
+    },
+    {
+     "id": "UnionBounty_ActiveScore",
+     "text": "Guild Activity: {0}"
+    },
+    {
+     "id": "UnionBounty_NoAccess",
+     "text": "Only the guild leader and vice leaders can open or reset dungeons"
+    },
+    {
+     "id": "UnionBounty_Reset",
+     "text": "Reset the current dungeon?"
+    },
+    {
+     "id": "UnionBounty_LevelReward",
+     "text": "({0} level bonus)"
+    },
+    {
+     "id": "UnionBounty_GuildActive",
+     "text": "Guild Activity"
+    },
+    {
+     "id": "UnionBounty_GuildActive_Info",
+     "text": "Guild members earn Guild Activity when they complete Sailing Pass daily quests\\nActivity is used to open and reset team dungeons\\nGuild Activity caps at 40,000 points,\\nActivity you contributed today: {0}\\nActivity contributed in the last 7 days: {1}"
+    },
+    {
+     "id": "UnionBountyDesc",
+     "text": "Welcome to Guild Bounty, Captains!\\n*Opening a dungeon costs some Guild Activity. Unspent Activity is cleared when you leave the guild.\\n*The leader and vice leaders can open Guild Bounty when a guild member has reached the dungeon level, with one discounted opening per week; discounts reset every Monday at 8:00.\\n*Once opened or reset, a Guild Bounty dungeon stays open for up to 14 days. After that it closes automatically and uncleared rewards are sent; it can then be reset and opened again.\\n*Guild members can challenge different dungeons at the same time, and enemy HP doesn't recover.\\n*22:00 - 08:00 daily is a ceasefire; no battles can be fought.\\n*Clearing a guild dungeon within the time limit gives more Bounty Coins.\\n*At settlement, captains ranked high for highest single-battle damage get more Bounty Coins.\\n*The closer your level is to the guild dungeon's, the more Bounty Coins you get.\\n*In the current version, Bounty Coins cap at 100,000 per player.\\n*Dungeons can be reset or opened up to 4 times per week.*$<size=30>Honor Roll Rules</size>*The Honor Roll ranks this server's players by highest single hit in Guild Bounty dungeons; each dungeon has its own Honor Roll.\\n*Players whose level differs from the dungeon level by ≥10 can't join that dungeon's Honor Roll."
+    },
+    {
+     "id": "PHONE_BIND_RewardTip",
+     "text": "Closed beta (data wipe) users can claim rebates and a title after linking"
+    },
+    {
+     "id": "Gift_2",
+     "text": "Choose who to gift to"
+    },
+    {
+     "id": "OnceTickGemMounting",
+     "text": "*One-Tap Gem Socketing automatically sockets the gem types you choose first, saving you from hunting for gems. Define gem types based on each hero's focus.\\n*When you select gem types, their order is marked too; deselecting one automatically updates the order.\\n*Selected gem types are socketed first during One-Tap Socketing.\\n*If a type is missing, or same-type gems can't be socketed together, the next selectable type in order is used. If none of the selected types can be socketed, remaining gems are socketed in the default order. To prevent that, check \"Only socket selected gems\" when editing the plan.\\n*One-Tap Socketing replaces currently socketed gems with the active socketing plan.\\n*One-Tap Socketing only uses unsocketed gems.\\n*Higher-level gems have higher socketing priority. To avoid low-level gems, set the desired level above the One-Tap Socketing button.\\n*Gem Memory remembers the gems on the selected equipment and updates instantly as they change, so you can one-tap socket anytime."
+    },
+    {
+     "id": "GemSuitCannotEmpty",
+     "text": "Choose at least one gem type to save as a preset"
+    },
+    {
+     "id": "GemSuitRenameTips",
+     "text": "Preset name exceeds 8 characters. Please change it, Captain"
+    },
+    {
+     "id": "MultiTeamFightRank5",
+     "text": "Diamond"
+    },
+    {
+     "id": "MultiTeamFightRank20",
+     "text": "Peak Arena Challenge Tickets come from tier-up rewards or the shop. Use one from your Bag to add a Peak Arena challenge."
+    },
+    {
+     "id": "EquipRefineLuckyRuleDesc",
+     "text": "*When this equipment reaches refine +20, it has a chance to gain 1 extra rare stat. If not, it gains 40 Luck (shared with all equipment of the same level).\\n*All Lv60 equipment starts at 0 Luck; at 100 Luck, the next refine to +20 always gives a rare stat.\\n*Luck resets automatically once the equipment gains a rare stat."
+    },
+    {
+     "id": "SeaExplore_Explain",
+     "text": "Explanation screen"
+    },
+    {
+     "id": "SeaExploreBoss_Explain",
+     "text": "Boss battle explanation"
+    },
+    {
+     "id": "SeaExplore_NoDailySupply",
+     "text": "Already claimed today"
+    },
+    {
+     "id": "SeaExplore_NoShareSupply",
+     "text": "Already shared today"
+    },
+    {
+     "id": "SeaExplore_CopyUnExplore",
+     "text": "Unexplored location"
+    },
+    {
+     "id": "SeaExplore_CopyUnExploreChallenge",
+     "text": "Unexplored location. Can't challenge"
+    },
+    {
+     "id": "SeaExplore_ShareItemBtn",
+     "text": "Share Boss"
+    },
+    {
+     "id": "LawlessLand_TeamDesc",
+     "text": "*Showdown Battlefield is a cross-server PvP mode set in a shared area.\\n*It runs from 2024/9/5 to 2024/9/15.\\n*The battlefield opens at noon every Friday during the event (9/6 and 9/13); captains must register Monday to Thursday.\\n*Registration closes at 0:00 on Friday, and battlefields are created based on registrations.\\n*Once the battlefield opens, registered captains must enter during the prep window (11:00-11:59:59). The battle lasts 40 minutes. Note: try not to leave before it ends, or it counts as forfeiting.\\n*On entering, captains are assigned to one of four random factions and must team up with faction allies to defeat players from the other three.\\n*Captains have a limited number of revives; each defeat uses one, and losing all revives means elimination from the battlefield.\\n*Each player from another faction you defeat gives points, and gathering items in the area also gives points. Note: battlefield gatherables have gathering and respawn limits.\\n*The battlefield ends when time runs out or only one faction remains. It's then settled, and captains' points convert to battlefield currency at a set ratio: Points = personal points + participation points (500) + faction total points/10.\\n*Spend battlefield currency on rewards in the Battlefield Shop."
+    },
+    {
+     "id": "ShipResolveTitle",
+     "text": "The warship will disappear after dismantling. Continue? This won't dismantle warships moored at the dock"
+    },
+    {
+     "id": "TurnTableBuyNeed_3_5",
+     "text": "Not enough Surprise Wheel Tickets. Spend 750 Rainbow Diamonds to buy five Surprise Wheel Tickets?"
+    },
+    {
+     "id": "cycleVipPageInfo_Desc",
+     "text": "*At VIP <color=#a32e00>{0}</color> or above, every <color=#a32e00>{1}</color> Rainbow Diamonds spent gives <color=#a32e00>{2}</color> Peerless Points\\n*Peerless Points last <color=#a32e00>{3}</color> days\\n*Reaching <color=#a32e00>{4}</color> Peerless Points instantly grants the current VIP level and its rewards\\n*The current VIP level lasts at least <color=#a32e00>{5}</color> days from the day you get it. After that, if your valid Peerless Points total <color=#a32e00>{6}</color>, you keep your current Peerless VIP level and get all rewards for it and lower levels; otherwise you drop a level\\n*Rewards are sent by mail. Time-limited rewards such as titles <color=#a32e00>start their timer automatically in each mode's list</color>"
+    },
+    {
+     "id": "UnionSLG_Text_desc2",
+     "text": "1. The flow is as follows:\\n[First Waters] Players set out from their guild's home port and explore nearby outposts. For protection, these outposts aren't contested\\n\\n[Lost in Far Seas] Keep heading toward the center of the sea\\n\\n[Red Sea Conquest] Battles heat up; keep capturing other outposts\\n\\n[Final Showdown] Capture more outposts and earn more Merit\\n\\nThis season's flow is simplified: all outposts can be explored from the start\\n\\n\\n2. Team Editing\\nYou can edit multiple teams; the team cap depends on Maritime level, and is 5 in the current version\\n\\nOnce stationed at an outpost, you can start battles against your current or adjacent outposts\\n\\nAfter any battle, a team becomes locked: it can't move between islands or be edited for a while, then recovers on its own\\n\\n\\n3. Neutral Outposts\\nStart: contestable outposts begin neutral; uncontested outposts around the home port begin captured\\n\\nCapture: each outpost has several stages. Each guild member who clears all of them raises the guild's capture rate there; once it meets the target, the outpost is captured\\n\\nOutput: while the guild holds an outpost and you've personally cleared all its stages, you start earning personal Merit and other rewards, and keep earning [Capture Rewards] offline; output stops after season settlement\\n\\nExtra: once captured, every few more members who clear all stages boost everyone's [Capture Rewards]\\n\\n\\n4. Declaring War\\n[Declare War] Daily 13:00---14:30 you can declare war on other guilds' outposts; each declaration costs Sailing Orders\\n\\n[Preparation]: after a successful declaration, the outpost enters preparation for a while, during which both attackers and defenders can [Assign Teams] to adjacent outposts\\n\\n[Island Battle]: after preparation, defenders fight attackers in [Island Battles] in the order war was declared. If an attacker wins, the island goes to them and enters a truce; otherwise the defender faces the next attacker, until all of today's attackers on that island have lost;\\n\\nOther rules:\\n[Island Battles] were improved this season: guilds can now take part in two [Island Battles] at once with no delay. 5 minutes before each [Island Battle], players choose which stationed teams join; no teams can be added once it starts (in the first round, team selection starts immediately; from the second round, selection opens about 35 minutes after the first [Island Battle] starts; follow the countdown shown)\\n\\nEach team can join only one [Island Battle] per day, and after joining it can't challenge PvE stages that day. Plan your teams wisely and the weak can beat the strong\\n\\nFor fairness, formations can't be changed after 19:00 daily, and character stats in lineups are fixed; growth outside the event (leveling, swapping equipment, etc.) doesn't affect stats in the event\\n\\nIf the attacker has no teams when an [Island Battle] starts, the attack counts as failed and that stage is skipped\\n\\n\\n5. Maritime\\nDuring the season, raise your Maritime level for buffs that only apply in this mode\\n\\nMaritime comes in personal and guild types: personal Maritime only affects you; guild Maritime affects all guild members\\n\\nOnly the leader and vice leaders can upgrade guild Maritime\\n\\n\\nRewards\\nWeekly rewards: every Monday at 4:00, ranking rewards are mailed based on personal Merit and guild Power\\n\\nSeason rewards: when the World Domination phase ends and the season-end phase begins, ranking rewards are mailed based on personal Merit and guild Power (the sum of all members' Merit)\\n\\nShop exchange: mode currency can be exchanged in the exclusive shop. It expires when the season ends, so mind the exchange deadline"
+    },
+    {
+     "id": "UnionSLG_Text_desc4",
+     "text": "World Domination opens irregularly. Players in a guild at Lv60 or above can take part. Players can't leave their guild during or after ranking\\n\\nWorld Domination is a guild team battle mode. By wisely deploying and assigning guild members' lineups and capturing key outposts first, the weak can beat the strong and compete for higher ranks\\n\\nThis season, World Domination keeps the promotion system: after the season, groups' first place in the Lower/Middle Division advances to the Middle/Upper Division next season, while groups' last place in the Middle/Upper Division drops to the Lower/Middle Division. Climb higher to reach better war zones and win more deluxe rewards!\\n\\nMatching brackets (guilds are only matched with guilds in the same bracket):\\nLower Division:\\n1. Classic Servers 1-100\\n2. Classic Servers 101-200\\n3. Classic Servers 201-300\\n\\nMiddle Division:\\n1. Classic Servers 1-100\\n2. Classic Servers 101-200\\n3. Classic Servers 201-300\\n\\nUpper Division:\\n1. Classic Servers 1-300"
+    },
+    {
+     "id": "ShipConfirmContent",
+     "text": "Only one of each warship can exist. Later you can get Pointers from Warship Dismantling, used to unlock refinement sets. Continue?"
+    },
+    {
+     "id": "ShipRegimentsTrial_Explain",
+     "text": "[How It Works]\\nIn Fleet Trial, players take on bosses as a fleet, competing for rank with higher damage records\\n\\n[Bosses]\\nDuring the event, 1 boss rotates every 2 days. From 0:00 on the first day to 23:00 the next day is challenge time, when you can challenge the boss repeatedly for damage records; from 23:00 to 24:00 on the second day the boss is settled and can't be challenged (KOC periods may be adjusted)\\nEach boss has certain traits; building lineups around them helps deal more damage\\n\\n[Challenges]\\nEach boss challenge costs 1 Trial Proof\\nIt refills to 5 daily and can also be bought, with the price rising with each daily purchase\\nAfter each challenge, you can choose to save that battle record or keep your previous one; the boss is settled using your saved record\\nFor easy comparison, boss damage converts to Battle Score at 1:50000, rounded down\\n\\n[Buffs and Duplicate Heroes]\\nEvery boss except the first has several powerful buffs; activating them greatly boosts combat power and helps deal more damage\\nThe fewer duplicate heroes used in fleet members' battle records against the current boss, the more buffs can be activated for the next boss (buffs activate automatically from top to bottom, no manual activation needed). See the help in \"Records\" for details. Talk with your fleetmates and use as many different characters as possible!\\n\\n[Rankings]\\nAfter the last boss, total Battle Score across all bosses decides the rankings and rewards\\nPoints from ranking rewards are added directly to the fleet's total points, not to personal points\\n\\n[Other]\\nFleet member changes don't affect finished boss records; records for the boss in progress change accordingly"
+    },
+    {
+     "id": "ShipRegimentsTrial_DamageToScore",
+     "text": "10,000 damage = 1 Battle Score, rounded down"
+    },
+    {
+     "id": "CelebrationServer_tips7",
+     "text": "As of {0:00}/{1:00} {2:00}:{3:00}"
+    },
+    {
+     "id": "ACLevelChallengeDesc",
+     "text": "Reach the set levels before 4/27 to claim rewards!"
+    },
+    {
+     "id": "ACRankChallengeDesc",
+     "text": "Rankings close at 0:00 on 4/17. Compete for the top of each ranking!\\nThe Power ranking is by Power, the Ladder ranking by Ladder points, and the Guild ranking by members' total activity, earned from Pass quests."
+    },
+    {
+     "id": "Opdex_tips1",
+     "text": "You already have the right to use this title"
+    },
+    {
+     "id": "Opdex_tips2",
+     "text": "You don't have the right to use this title yet"
+    },
+    {
+     "id": "SuperSoulOverHaulUseful",
+     "text": "Description"
+    },
+    {
+     "id": "ReIdentifyOverloadHelp",
+     "text": "This is the Overload Reforge help text; to be completed later"
+    },
+    {
+     "id": "ReIdentifyOverloadConfirm",
+     "text": "You're in Overload Reforge mode. This will spend {0} Overload progress for a special reforge with a high chance of advanced stats. Continue?"
+    },
+    {
+     "id": "ShipSkillRepair_Explain",
+     "text": "Refinement Luck Info:\\n[Refine] Besides Talent/Resonance skills, each refinement gives some Luck.\\n\\n[Build-Up] When Talent/Resonance Luck reaches 100%, you enter Lucky mode.\\n\\n[Spend] In Lucky mode, each refinement has a higher chance of better skills, meaning possibly better values or more specialized Talent/Resonance skill effects.\\n\\n[Cycle] In Lucky mode, each refinement spends Luck; at 0% you switch back to normal mode.\\n\\n[Overflow] If Luck is above 100% when entering Lucky mode, the excess is kept until you return to normal mode."
+    },
+    {
+     "id": "WeekendVictories_Explain",
+     "text": "Event period: 12/4-12/17\\nBuild win streaks to earn rewards based on streak count. A streak breaks after 4 total losses; streak and loss counts then reset to zero."
+    },
+    {
+     "id": "EquipResonance_tips1",
+     "text": "Equipment Resonance Info:\\n\\nEquipment that can resonate: Sentinel, Starry, Vengeance, Ranger, Dragon Scale\\n\\nAt refine Lv25/30, equipment opens its Lv1 and Lv2 resonance slots respectively; spend materials to try activating them. Opening a slot gives one free resonance attempt automatically.\\n\\nActivating a resonance slot has a certain chance; after several failures the next try always succeeds.\\n\\nActivated slots give fixed, non-random stats, though they may differ between pieces of equipment\\n\\nSlots must be activated in order: the Lv1 slot must be activated before trying the Lv2 slot\\n\\nOnce all four pieces of a set unlock Lv2 resonance, the set can enter Equipment Attunement from its entry in Legends!"
+    },
+    {
+     "id": "EquipPromotion_tips1",
+     "text": "Equipment Promotion Info:\\n\\nEquipment that can be promoted: Sentinel, Starry, Vengeance, Ranger, Dragon Scale\\n\\nSome equipment can be promoted by spending materials.\\n\\nAfter 2 promotions, the refine cap rises to 25; after 4, it rises to 30\\n\\nEquipment promotion requires a certain player level."
+    },
+    {
+     "id": "ChargeEnergyUse",
+     "text": "Spend {0} {1} to charge {2}"
+    },
+    {
+     "id": "desperateChallenge_tips9",
+     "text": "New Abyss Challenge Info:\\n\\nNew Abyss Challenge is a guild-based mode. Players must be Lv30 and in a guild to join, and guildmates share progress.\\n\\nThe event lasts three weeks. Thursday to the following Monday are battle days; Tuesday and Wednesday are rest and settlement days.\\n\\nBuild different lineups to take on the bosses in turn. Each player can challenge 3 times a day, each with a different lineup. Characters used can't be used again that day, and reusing equipment that day lowers damage on that challenge as a penalty. Attempts reset daily at 00:00\\n\\nIn the first week, guilds that defeat more than 50 bosses move up to S Tier for the next week; other guilds go to A Tier. S Tier starts directly from the second difficulty stage at the start of weeks two and three!\\n\\nIn the second week, the top 20 guilds in S Tier move up to SS Tier for the next week, and the top 20 guilds in A Tier move up to S Tier. SS Tier starts directly from the third difficulty stage at the start of week three!\\n\\nProgress resets weekly and settles on Wednesday. Week one rewards are based on bosses defeated; weeks two and three are based on the guild's rank in its tier. (Leaving the guild early may forfeit settlement rewards.) Each challenge also gives some rewards.\\n\\nOn battle days, players above Lv60 can't leave or be removed from their guild; this doesn't apply on rest days.\\n\\nTrial challenges don't use attempts, so you can test lineups there.\\n\\nYou can skip battles; they're settled as auto-battles."
+    },
+    {
+     "id": "desperateChallenge_tips20",
+     "text": "Equipment used can't be used again in today's Abyss Challenge. Fighting with this lineup incurs a penalty that may lower damage in this battle"
+    },
+    {
+     "id": "desperateChallenge_tips22",
+     "text": "The event closes at 23:00 on 7/2"
+    },
+    {
+     "id": "Equipvariation_Tip4",
+     "text": "Completing Equipment Attunement unlocks an extra gem slot"
+    },
+    {
+     "id": "Equipvariation_Tip5",
+     "text": "The set has completed Attunement!"
+    },
+    {
+     "id": "Equipvariation_Tip_text",
+     "text": "Equipment Attunement Info:\\n\\nEquipment that can attune: Sentinel, Starry, Vengeance, Ranger, Dragon Scale\\n\\nSome equipment can attune after activating Lv2 resonance\\n\\nEquipment with Lv2 resonance can go in the attunement slots; once all four pieces of a set are in, the set enters Attunement and unlocks an extra gem slot!\\n\\nWhile attuned, equipment can't be taken out of the attunement slots; cancel Attunement first to remove it."
+    },
+    {
+     "id": "EquipPromotion_tips3",
+     "text": "The set has completed all resonance!"
+    },
+    {
+     "id": "PersonCarnival_tips",
+     "text": "The Carnival event has 5 parts:\\n\\n1. Character Trial: learn new characters' mechanics through trial stages, which include guidance. Clear a stage to claim its reward and unlock the next. Trial stages can be replayed, but rewards can't be claimed again\\n\\n2. Battle Pass: each Carnival has a Battle Pass. Gain Battle Pass EXP to raise its level and earn lots of rewards.\\nGain Battle Pass EXP to raise your pass level; each level up gives normal Battle Pass rewards.\\nMain sources of Battle Pass EXP:\\n(1) Daily Quests.\\n(2) Weekly Quests.\\n(3) Event Quests.\\n\\nPremium Battle Pass rewards: you can buy the Premium Battle Pass at any time while the event runs, and immediately claim all Premium rewards for the levels you've reached\\n\\nWhen buying the Premium Battle Pass you can choose the Basic or Advanced version. Besides unlocking Premium rewards, the Advanced version gives a one-time bonus and instantly raises your pass level (excess levels aren't refunded)\\nNote! After buying either the Advanced or Basic version, you can't buy the other, so think carefully before buying!\\n\\nDaily Quests: complete set quests each day for Battle Pass EXP; resets daily at 0:00\\nWeekly Quests: completing weekly quests adds Battle Pass EXP; resets every Monday at 0:00.\\nEvent Quests: these don't reset over time and can be completed only once\\n\\nThe Battle Pass lasts as long as the Carnival event\\n\\n3. Path of Growth: raise New World Rob Lucci's stars to earn valuable item rewards\\n\\n4. Check-In Gifts: the event lasts 21 days; check in daily to claim rewards\\n\\n5. Fun Quiz: each day the system offers a quiz or riddle; answer correctly for rewards"
+    },
+    {
+     "id": "helpPowerAwakeTarget",
+     "text": "Unlock Cheer Lv{0}"
+    },
+    {
+     "id": "TreasureBoxRecruitTips",
+     "text": "*Sky Island Chest Info:\\nIn this mode, use keys to open chests and draw their rewards; special rewards can only be obtained once. Opening a chest without a key gives worse rewards, doesn't count toward your total, and can't give special rewards.\\nSpecial rewards:*Rainbow Diamonds 1666*Rainbow Diamonds 2888*Costume Exchange Coins 188*Selected Recruit Tickets 30*Recruit Ticket Choice 66*Ark Maxim.\\nThe chance of a special reward is 1.17%.\\nNormal reward rates: Gold Bars 50000 (11.86%) Blue Diamonds 100 (11.86%) Blue Diamonds 200 (5.93%) Rainbow Diamonds 200 (1.48%) Sprint Training Book 1 (11.86%) Hero Stone 1 (11.86%) Refining Stone 5 (11.86%) Exquisite Gem Bag 1 (5.93%) Warship Modification Material Choice Box 3 (5.93%) Warship Refining Stone 5 (5.93%) Limited Recruitment Ticket 1 (1.98%) Golden Battle Soul 1 (2.96%) Advanced Elemental RES Potion Choice Box 1 (1.48%) Elite Recruit Ticket 1 (2.96%) Elite Recruit Ticket 2 (1.48%) Verdant Stone 5 (0.99%) Amber Stone 1 (0.99%) Lv6 Gem Choice Box 1 (0.99%) Lv7 Gem Choice Box 1 (0.40%) Lv8 Gem Choice Box 1 (0.10%)"
+    },
+    {
+     "id": "BeastPiratesRaidTips",
+     "text": "*Team Co-op Info:\\n*In this mode, create a team and invite guild members and friends, or join theirs. Once 5 players gather and are all ready, you can start the challenge\\n*Before the challenge starts, the leader can remove members, and can force-end the challenge midway. Communicate well!\\n*Once started, players can enter stages; each player has 3 entries per day, and each stage can only hold one player at a time\\n*Defeating a stage's enemies clears it; clearing all stages completes the challenge. When the challenge is completed or force-ended by the leader, it enters settlement and players get rewards based on stages cleared,\\n*Players get 10 challenges and 3 reward claims per week; reward claims are counted separately for each stage."
     }
-   ],
-   "partial": "5596/5841 rows translated so far"
+   ]
   },
   "TableTextModule": {
    "key_column": "id",
@@ -28409,6 +29388,112 @@
    ]
   }
  },
- "glossary_additions": {},
- "uncertain_notes": []
+ "glossary_additions": {
+  "梦岛": "Dream Isle",
+  "势气": "Morale",
+  "议事大厅": "Council Hall",
+  "兽栏": "Beast Pen",
+  "神兽": "Divine Beast",
+  "炼金石": "Alchemy Stone",
+  "押送": "Escort (prisoner)",
+  "担保": "Vouch / Bail",
+  "禁言": "Mute",
+  "航海团": "crew",
+  "首领悬赏": "Boss Bounty",
+  "玩家悬赏": "Player Bounty",
+  "讨伐任务": "Bounty Quest",
+  "情报值": "Intel",
+  "神秘订单": "Mystery Order",
+  "海域纷争": "Sea Conflict",
+  "征服者金币": "Conqueror Gold Coin",
+  "魂卡": "Soul Card",
+  "搜魂": "Soul Search",
+  "附魂大师": "Soul Infusion Master",
+  "超级附魂": "Super Soul Infusion",
+  "超载": "Overload",
+  "钛钢": "Titanium Steel",
+  "装备工坊": "Equipment Workshop",
+  "散件": "Loose Piece",
+  "套装": "Set",
+  "精淬": "Tempering",
+  "重铸": "Reforge",
+  "重铸石": "Reforge Stone",
+  "共鸣": "Resonance",
+  "共振": "Attunement",
+  "晋升": "Promotion",
+  "超奥义": "Super Ultimate",
+  "航海伙伴": "Voyage Companion",
+  "家园建设证": "Home Builder Pass",
+  "繁荣度": "Prosperity",
+  "威望": "Renown",
+  "作战室": "War Room",
+  "宿舍": "Dormitory",
+  "友情币": "Friendship Coins",
+  "航海通行证": "Sailing Pass",
+  "高阶通行证": "Premium Pass",
+  "通行印章": "Pass Seal",
+  "嘉奖令": "Commendation",
+  "默契值": "Synergy",
+  "友好度": "Friendliness",
+  "首领讨伐": "Boss Hunt",
+  "赐福符": "Blessing Charm",
+  "祈愿树": "Wishing Tree",
+  "航线阻击战": "Route Blockade",
+  "航路探险": "Route Expedition",
+  "历练航路": "Training Route",
+  "历练书卷": "Training Scrolls",
+  "实战演练": "Combat Training",
+  "战斗演习": "Battle Drill",
+  "秘境试炼": "Secret Realm Trial",
+  "德雷克挑战": "Drake Challenge",
+  "海兽围捕": "Sea Beast Hunt",
+  "近海之王": "Lord of the Coast",
+  "首领击退战": "Boss Repel",
+  "对决战场": "Showdown Battlefield",
+  "恩怨对决": "Grudge Match",
+  "战意值": "Fighting Spirit",
+  "助威": "Cheer",
+  "个性形象": "Persona Look",
+  "大船团": "Grand Fleet",
+  "船团试炼": "Fleet Trial",
+  "试炼之证": "Trial Proof",
+  "公会悬赏": "Guild Bounty",
+  "悬赏币": "Bounty Coins",
+  "海港": "Seaport",
+  "海事": "Maritime",
+  "功勋": "Merit",
+  "公会势力": "Guild Power",
+  "航海令": "Sailing Order",
+  "热度": "Heat",
+  "热血币": "Passion Coins",
+  "纵横币": "Domination Coins",
+  "擂台币": "Arena Tournament Coins",
+  "荣耀币": "Glory Coins",
+  "共斗币": "Co-op Coins",
+  "乱斗币": "Brawl Coins",
+  "无双积分": "Peerless Points",
+  "万用之阵": "Universal Formation",
+  "阵法特权": "Formation Privilege",
+  "晶魂": "Crystal Soul",
+  "航海王：燃烧意志": "One Piece: Burning Will",
+  "尼卡路飞": "Nika Luffy",
+  "勾玉": "Magatama",
+  "鬼斩": "Oni Giri",
+  "宝石炼化": "Gem Refining"
+ },
+ "uncertain_notes": [
+  "TableText ExplanationTables/Chapter: 哈索 in Chapter20Tittle read as the Skypiean greeting 'Heso!'.",
+  "TableText Main_CH69turn_003: 御殿的血仇 rendered as 'Oden's blood feud' (game_terms gives 光月御殿 = Kozuki Oden).",
+  "TableText Main_CH71turn_010: 扁姆斯 identified as Pekoms; 兔碗采掘场 as the Udon mines.",
+  "TableText 恐怖之船: game_terms gives 'Thriller Bark Pirates'; in Blood Battle stage lists it was rendered 'Thriller Bark'.",
+  "TableText 声望: game_terms gives 'Reputation', but the Arena currency/shop texts use 'Prestige' to match 声望商店 = Prestige Shop.",
+  "TableText 月卡: rendered 'Monthly Card'; earlier batches also used 'Monthly Pass' in places.",
+  "TableText 航海通行证 rendered 'Sailing Pass' to avoid clashing with 航线通行证 = Voyage Tower Pass.",
+  "TableText HC_BattleInfo_*: affix names follow game_terms where present; the rest are literal renderings. 勾玉 (HC_BattleInfo_203) kept as 'Magatama' though it likely means Soul Jade.",
+  "TableText 东踏踏小助手 (VipPrivilege_desc_2): kept as 'Dongtata Helper'; meaning unclear.",
+  "TableText 指针 (ShipConfirmContent, other bundle): rendered 'Pointers'; actual item name unknown.",
+  "TableText UnionSLGPassHelp: source text says 暑期通行证 (Summer Pass) under a Domination Pass heading; translated literally.",
+  "TableText: developer placeholders (e.g. 'Text表：Explanation_SeaTreasure@陈镝', '描述描述描述', '提示文本AAAA') were translated literally.",
+  "TableText date/number formats: 'M月d日 HH:mm' -> 'M/d HH:mm'; {0:d2}/{0:00} format specifiers kept intact."
+ ]
 }
