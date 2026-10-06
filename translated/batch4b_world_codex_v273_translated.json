@@ -39260,6 +39260,2330 @@
    ],
    "other_bundle_rows": []
   },
+  "TableRaidRunMap": {
+   "key_column": "runMapId",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "runMapId": "1",
+     "desc": "Those annoying Marines have gathered at Rika's door, and they're even breaking their promise and going to execute Zoro! Colonel's son or not, send him flying!"
+    },
+    {
+     "runMapId": "2",
+     "desc": "To get Zoro to join the crew, search the Marine Base for Zoro's swords!"
+    },
+    {
+     "runMapId": "3",
+     "desc": "The fearsome Marine Colonel Axe-Hand Morgan has appeared! Defeat him together with Zoro!"
+    },
+    {
+     "runMapId": "4",
+     "desc": "Luffy fell from the sky and was suddenly caught up in a chase. No idea what's going on yet, but beat them first anyway!"
+    },
+    {
+     "runMapId": "5",
+     "desc": "On condition that Nami joins the crew, she has brought you to Buggy's base. Defeat Buggy the Clown!"
+    },
+    {
+     "runMapId": "6",
+     "desc": "Mohji the beast tamer dared to destroy Chouchou's most precious treasure. Defeat him!"
+    },
+    {
+     "runMapId": "7",
+     "desc": "Challenge Buggy the Clown! But his chief of staff Cabaji has stepped forward. This is a duel between swordsmen. Defeat him!"
+    },
+    {
+     "runMapId": "8",
+     "desc": "Buggy the Clown dares to mock our goal of entering the Grand Line and becoming the Pirate King. Defeat him!"
+    },
+    {
+     "runMapId": "9",
+     "desc": "You've arrived on a new island, and a man calling himself Captain Usopp blocks your way."
+    },
+    {
+     "runMapId": "10",
+     "desc": "Usopp is in great danger! The Black Cat Pirates are storming the shore! Stop them!"
+    },
+    {
+     "runMapId": "11",
+     "desc": "The Black Cat Pirates' long-laid plan has been foiled, and they've launched an all-out attack. You must protect Miss Kaya!"
+    },
+    {
+     "runMapId": "12",
+     "desc": "After being given food, Don Krieg went back on his word and started attacking everyone in the restaurant! Stop him!"
+    },
+    {
+     "runMapId": "13",
+     "desc": "The world's greatest swordsman! Mihawk! The man Zoro has always chased and longed to challenge is here. Challenge the pinnacle of the world!"
+    },
+    {
+     "runMapId": "14",
+     "desc": "Krieg's underling Pearl has appeared. Shield man? Handsome man? Whatever he is, defeat him!"
+    },
+    {
+     "runMapId": "15",
+     "desc": "Gin is using Zeff as a hostage to threaten Sanji. Don't let him get away with it! Defeat him!"
+    },
+    {
+     "runMapId": "16",
+     "desc": "The final showdown with Krieg is here. Can the spear in Luffy's heart defeat \"Don\" Krieg?"
+    },
+    {
+     "runMapId": "17",
+     "desc": "Nami has asked Luffy for help. What reason could we have not to help her? Defeat the Fish-Man Pirates!"
+    },
+    {
+     "runMapId": "18",
+     "desc": "Some Fish-Men are blocking the way at the gate of Arlong Park. Beat them first!"
+    },
+    {
+     "runMapId": "19",
+     "desc": "The Arlong Pirates' officers have appeared: Kuroobi, Chew and Hatchan! Defeat them!"
+    },
+    {
+     "runMapId": "20",
+     "desc": "To Arlong, humans are a weak, lowly race. Now defeat him to free Nami!"
+    },
+    {
+     "runMapId": "21",
+     "desc": "We survived! But Buggy's gang still surrounds the execution platform. Defeat them and break out!"
+    },
+    {
+     "runMapId": "22",
+     "desc": "The Marines are closing in! To set off for the Grand Line, you must break through their blockade!"
+    },
+    {
+     "runMapId": "23",
+     "desc": "Colonel Smoker blocks the docks. You must defeat him to enter the Grand Line. No matter what, you can't be stopped here!"
+    },
+    {
+     "runMapId": "24",
+     "desc": "2 whale hunters, Mr. 9 and Miss Wednesday. For some reason, just looking at them is annoying."
+    },
+    {
+     "runMapId": "25",
+     "desc": "Whiskey Peak is a nest of Bounty Hunters. It's the perfect chance for Zoro to test his new swords."
+    },
+    {
+     "runMapId": "26",
+     "desc": "The mayor of Whiskey Peak and Miss Wednesday stand in your way. Defeat them!"
+    },
+    {
+     "runMapId": "27",
+     "desc": "The mayor of Whiskey Peak and Miss Wednesday stand in your way. Defeat them!"
+    },
+    {
+     "runMapId": "28",
+     "desc": "Having accepted Igaram's request, you must save Vivi. Defeat Mr. 5 and Miss Valentine before you!"
+    },
+    {
+     "runMapId": "29",
+     "desc": "The ones who meddled in the giants' fight were Mr. 5 and Miss Valentine! Unforgivable!"
+    },
+    {
+     "runMapId": "30",
+     "desc": "Mr. 3 is the mastermind! These guys defiled the duel between the giant old men! Beat them!"
+    },
+    {
+     "runMapId": "31",
+     "desc": "Mr. 3 is the mastermind! These guys defiled the duel between the giant old men! Beat them!"
+    },
+    {
+     "runMapId": "32",
+     "desc": "Mr. 3 is the mastermind! These guys defiled the duel between the giant old men! Beat them!"
+    },
+    {
+     "runMapId": "33",
+     "desc": "Carry Nami up the Drum Rockies. The only doctor is in the castle at the summit. Wapol has appeared on the mountain path. Defeat them!"
+    },
+    {
+     "runMapId": "34",
+     "desc": "Wapol chased us all the way to the castle! Nami is still being treated, so we'll beat these guys!"
+    },
+    {
+     "runMapId": "35",
+     "desc": "A pirate flag isn't as simple as you think. It's a pirate's conviction! Defeat Wapol!"
+    },
+    {
+     "runMapId": "36",
+     "desc": "A pirate flag isn't as simple as you think. It's a pirate's conviction! Defeat Wapol!"
+    },
+    {
+     "runMapId": "37",
+     "desc": "Smoker is in this town too! Why is he here? Defeat him!"
+    },
+    {
+     "runMapId": "38",
+     "desc": "Uh-oh! The Marines have surrounded the town. Defeat them and regroup with Vivi!"
+    },
+    {
+     "runMapId": "39",
+     "desc": "You've reunited with your brother Ace, but some tactless Bounty Hunters have come to interrupt. A good chance to see whether you've both grown stronger!"
+    },
+    {
+     "runMapId": "40",
+     "desc": "The Kung-Fu Dugongs block the way. \"If you want to come ashore, try beating us!\" is what they're saying."
+    },
+    {
+     "runMapId": "41",
+     "desc": "You finally got water in Rainbase! But you've run into Colonel Smoker and Tashigi again, and our target is Crocodile!"
+    },
+    {
+     "runMapId": "42",
+     "desc": "You've found Crocodile in Rainbase! Try to defeat him! Win or lose, we have to reach Alubarna!"
+    },
+    {
+     "runMapId": "43",
+     "desc": "Crocodile has caught up! Luffy will stop him single-handedly! Luffy VS Crocodile!"
+    },
+    {
+     "runMapId": "44",
+     "desc": "Chopper, alone, has run into Mr. 4 and Miss Merry Christmas. Defeat them and become a true pirate!"
+    },
+    {
+     "runMapId": "45",
+     "desc": "Usopp and Chopper have regrouped! Defeat Mr. 4 and Miss Merry Christmas together!"
+    },
+    {
+     "runMapId": "46",
+     "desc": "Mr. 1 blocks Zoro's path. Can Zoro break through? A technique that can even cut steel! Defeat him!"
+    },
+    {
+     "runMapId": "47",
+     "desc": "In this kingdom of chaos, the Rebels have stepped forward to stop us. Unless we defeat them, there's no way to chase Crocodile!"
+    },
+    {
+     "runMapId": "48",
+     "desc": "We ran into the Marines while chasing Crocodile! We're both after Crocodile, but we can't go on without defeating them!"
+    },
+    {
+     "runMapId": "49",
+     "desc": "You've finally caught Crocodile in the Underground Palace. Defeat him and end all of this!"
+    },
+    {
+     "runMapId": "50",
+     "desc": "Bellamy stole Cricket's gold bars. Find him and get the old man's gold back!"
+    },
+    {
+     "runMapId": "51",
+     "desc": "You've encountered Angel Island's White Berets, the island's law enforcers."
+    },
+    {
+     "runMapId": "2001",
+     "desc": "Defeat the Rebels stationed here."
+    },
+    {
+     "runMapId": "2002",
+     "desc": "Face off against the Royal Army led by Pell."
+    },
+    {
+     "runMapId": "2003",
+     "desc": "Completely clear out the pirates outside the city."
+    },
+    {
+     "runMapId": "2004",
+     "desc": "Face off against the Royal Army led by Chaka."
+    },
+    {
+     "runMapId": "1701",
+     "desc": "Sanji has found Mr. 2 in Alubarna! Defeat him and foil Baroque Works' plot!"
+    },
+    {
+     "runMapId": "1702",
+     "desc": "Nami has a new weapon, and Miss Doublefinger is hot on her heels! Nami VS Doublefinger!"
+    },
+    {
+     "runMapId": "1703",
+     "desc": "Luffy is back! Defeat Crocodile and stop his plot! End it! All of it!"
+    },
+    {
+     "runMapId": "52",
+     "desc": "The four trials of God's Island: the Trial of Balls! Priest Satori stands in our way. Survival rate 10%!"
+    },
+    {
+     "runMapId": "53",
+     "desc": "The four trials of God's Island: the Trial of Balls! Priest Satori stands in our way. Survival rate 10%!"
+    },
+    {
+     "runMapId": "54",
+     "desc": "The four trials of God's Island: the Trial of Balls! Priest Satori stands in our way. Survival rate 10%!"
+    },
+    {
+     "runMapId": "55",
+     "desc": "The four trials of God's Island: the Trial of Strings! Priest Shura ambushed our Merry. Survival rate 3%!"
+    },
+    {
+     "runMapId": "56",
+     "desc": "The Shandian Warrior Wyper wants to drive us off this island. Upper Yard on God's Island is their land. We can't stop here! Defeat him!"
+    },
+    {
+     "runMapId": "57",
+     "desc": "The Shandian Warrior Braham has appeared! As long as we stay here, we're their enemies!"
+    },
+    {
+     "runMapId": "58",
+     "desc": "On God's orders, the Divine Soldiers have come to intercept us! Watch out for the Impact Dials in their hands, weapons made especially for fighting Shandians and Blue Sea dwellers."
+    },
+    {
+     "runMapId": "59",
+     "desc": "The four trials of God's Island: the Trial of Swamps! Priest Gedatsu awaits us in Shandora. Survival rate 50%!"
+    },
+    {
+     "runMapId": "60",
+     "desc": "The four trials of God's Island: the Trial of Iron! Priest Ohm awaits the challengers. No way to survive, sorrowful seekers. Survival rate 0%!"
+    },
+    {
+     "runMapId": "61",
+     "desc": "God Enel has predicted that 5 survivors will remain at the end of this trial. Who will they be?"
+    },
+    {
+     "runMapId": "62",
+     "desc": "Everything is futile before Enel, but he must have some weakness!"
+    },
+    {
+     "runMapId": "63",
+     "desc": "Enel intends to wipe out all of Skypiea with Raigo, and let no one escape! Stop him!"
+    },
+    {
+     "runMapId": "21901",
+     "desc": "Drunken pirates stand in front of the tavern. They can barely stay upright, so they shouldn't be too hard to beat..."
+    },
+    {
+     "runMapId": "21902",
+     "desc": "The pirates are back for revenge, and this time they mean it! Get ready to fight back."
+    },
+    {
+     "runMapId": "22001",
+     "desc": "While wandering the streets, you ran into a White Beret patrol. No choice, knock them out."
+    },
+    {
+     "runMapId": "22002",
+     "desc": "More pursuers are closing in here too. Take them out quickly."
+    },
+    {
+     "runMapId": "22101",
+     "desc": "Deep in the Trial Grounds, a warrior unexpectedly blocks your way. A fierce battle is unavoidable."
+    },
+    {
+     "runMapId": "22102",
+     "desc": "Go face the Shandian Warrior at full strength. Tip: offense is the best defense. Use single-target attacks to beat him."
+    },
+    {
+     "runMapId": "22201",
+     "desc": "Divine Soldiers are guarding this place. Help the Shandian Warriors defeat them."
+    },
+    {
+     "runMapId": "22202",
+     "desc": "Divine Soldiers are sneaking around for a surprise attack from behind! Hurry and beat them."
+    },
+    {
+     "runMapId": "22301",
+     "desc": "A warrior in the city of Jaya has gone berserk from his wounds. Hold him down and clear his head."
+    },
+    {
+     "runMapId": "22302",
+     "desc": "Teach the arrogant Divine Soldiers a lesson. Tip: there are many enemies, and the strongest one is protected in the middle. Attack range seems more important than firepower."
+    },
+    {
+     "runMapId": "22303",
+     "desc": "Special Rule: <color=#ff0000>[Allied Healing -50%]</color> Tip: If Wyper's overwhelming attacks worry you, why not try focusing your attacks on the back row?"
+    },
+    {
+     "runMapId": "22304",
+     "desc": "No gain without a price. The Divine Soldiers guard the treasure. If you want it, you'll have to confront them head-on."
+    },
+    {
+     "runMapId": "20401",
+     "desc": "Help the chefs of the sea restaurant drive off the pirates trying to eat without paying."
+    },
+    {
+     "runMapId": "20601",
+     "desc": "Drive off the pirates making trouble for no reason."
+    },
+    {
+     "runMapId": "20602",
+     "desc": "Spar with the townsfolk's friends."
+    },
+    {
+     "runMapId": "21501",
+     "desc": "Try to defeat the Kung-Fu Dugongs!"
+    },
+    {
+     "runMapId": "21502",
+     "desc": "Teach the Bounty Hunters who seized this turf a lesson."
+    },
+    {
+     "runMapId": "21601",
+     "desc": "Drive off the Casino Guards eyeing the tourists."
+    },
+    {
+     "runMapId": "21602",
+     "desc": "Fight off the Casino Guards."
+    },
+    {
+     "runMapId": "21603",
+     "desc": "Defeat the head guard."
+    },
+    {
+     "runMapId": "21801",
+     "desc": "Subdue the agitated Rebels."
+    },
+    {
+     "runMapId": "21802",
+     "desc": "Defeat the Royal Army soldiers who won't listen."
+    },
+    {
+     "runMapId": "1901",
+     "desc": "Bellamy stole Cricket's gold bars. Find him and get the old man's gold back!"
+    },
+    {
+     "runMapId": "2101",
+     "desc": "The four trials of God's Island: the Trial of Strings! Priest Shura ambushed our Merry. Survival rate 3%!"
+    },
+    {
+     "runMapId": "2102",
+     "desc": "The Shandian Warrior Wyper wants to drive us off this island. Upper Yard on God's Island is their land. We can't stop here! Defeat him!"
+    },
+    {
+     "runMapId": "2201",
+     "desc": "The Shandian Warrior Braham has appeared! As long as we stay here, we're their enemies!"
+    },
+    {
+     "runMapId": "2202",
+     "desc": "The four trials of God's Island: the Trial of Swamps! Priest Gedatsu awaits us in Shandora. Survival rate 50%!"
+    },
+    {
+     "runMapId": "2203",
+     "desc": "The four trials of God's Island: the Trial of Iron! Priest Ohm awaits the challengers. No way to survive, sorrowful seekers. Survival rate 0%!"
+    },
+    {
+     "runMapId": "2401",
+     "desc": "During the race, Porche shows up to cause trouble. To win the race, go stop them."
+    },
+    {
+     "runMapId": "2402",
+     "desc": "Blocking the way is the Foxy Pirates' wobbly monster duo. For your crewmates' sake, go defeat them."
+    },
+    {
+     "runMapId": "2403",
+     "desc": "The final round at last, a battle with 5 Straw Hat crewmates at stake. Give it everything to win."
+    },
+    {
+     "runMapId": "2404",
+     "desc": "Through Foxy's relentless onslaught, Luffy is still standing. Luffy VS Foxy, the final duel begins."
+    },
+    {
+     "runMapId": "2405",
+     "desc": "The Foxy Pirates' crew all joined the Straw Hats at once, and now there seem to be... way too many. Send them back to their \"former boss's\" ship."
+    },
+    {
+     "runMapId": "2406",
+     "desc": "The Foxy Pirates' crew all joined the Straw Hats at once, and now there seem to be... way too many. Send them back to their \"former boss's\" ship."
+    },
+    {
+     "runMapId": "2407",
+     "desc": "The Foxy Pirates' crew all joined the Straw Hats at once, and now there seem to be... way too many. Send them back to their \"former boss's\" ship."
+    },
+    {
+     "runMapId": "2408",
+     "desc": "The Foxy Pirates' crew all joined the Straw Hats at once, and now there seem to be... way too many. Send them back to their \"former boss's\" ship."
+    },
+    {
+     "runMapId": "2502",
+     "desc": "Under Aokiji's attack, Robin has been frozen and is near death. Do everything you can to stop Admiral Aokiji."
+    },
+    {
+     "runMapId": "2503",
+     "desc": "At the critical moment, Luffy challenges Aokiji to a one-on-one fight. With such a huge gap in strength, how will the battle end..."
+    },
+    {
+     "runMapId": "2601",
+     "desc": "You seem to have said something rude. Kalifa suddenly got angry and attacked. What on earth is going on..."
+    },
+    {
+     "runMapId": "2602",
+     "desc": "Beat up the Franky Family members to get even for Usopp."
+    },
+    {
+     "runMapId": "2603",
+     "desc": "The 200 million stolen Berries no longer matter. Go smash the Franky Family to pieces!"
+    },
+    {
+     "runMapId": "2604",
+     "desc": "Faced with Usopp, who has made up his mind to leave and demands a duel, Captain Luffy's choice is..."
+    },
+    {
+     "runMapId": "2605",
+     "desc": "Usopp prepared thoroughly and has the upper hand. How will it end?"
+    },
+    {
+     "runMapId": "22601",
+     "desc": "The Franky Family asked you to train them. Men always grow through setbacks, so go beat them!"
+    },
+    {
+     "runMapId": "22602",
+     "desc": "The Franky Family from the Water Seven shopping street also wants training. Go spar with them. Come to think of it, the Franky Family members all seem to look exactly alike..."
+    },
+    {
+     "runMapId": "22603",
+     "desc": "This is the last training session, so give it your all! These guys don't look weak, so be careful."
+    },
+    {
+     "runMapId": "2701",
+     "desc": "Franky! He's the culprit who hurt Usopp! That guy... is absolutely unforgivable!"
+    },
+    {
+     "runMapId": "2702",
+     "desc": "What's going on? The shipyard foremen we thought had come to help have turned on us."
+    },
+    {
+     "runMapId": "2703",
+     "desc": "Robin is the culprit? Unbelievable! We have to break out and ask Iceburg what's going on!"
+    },
+    {
+     "runMapId": "2704",
+     "desc": "Some Shipwrights are guarding the gate of Galley-La Headquarters. To see Iceburg, we have to force our way in! Defeat them!"
+    },
+    {
+     "runMapId": "2705",
+     "desc": "Luffy charged in on his own, but the Shipwrights weren't drawn away! We don't want to clash with them, but there's no choice!"
+    },
+    {
+     "runMapId": "2706",
+     "desc": "The foremen... Weren't they friends? How could this happen? We can't just stand by and watch Paulie get hurt!"
+    },
+    {
+     "runMapId": "2707",
+     "desc": "How are they so strong? Robin! I can't accept you leaving like this! Why is this happening?"
+    },
+    {
+     "runMapId": "2708",
+     "desc": "Kaku is on their side too? Was the ship inspection a lie as well? Damn it!"
+    },
+    {
+     "runMapId": "2709",
+     "desc": "Robin is leaving! And now Lucci stands in our way! We can't let him hold us back!"
+    },
+    {
+     "runMapId": "2710",
+     "desc": "Is this the gap between us? Lucci in his beast form is overwhelming. Can we... really defeat him?"
+    },
+    {
+     "runMapId": "2801",
+     "desc": "Sanji has sneaked onto the Sea Train carrying Robin. No matter what, he'll get Robin back!"
+    },
+    {
+     "runMapId": "2901",
+     "desc": "The moment you land on Enies Lobby, a horde of Marines blocks the way. No time to play with them. Defeat them quickly and push on!"
+    },
+    {
+     "runMapId": "2902",
+     "desc": "Blocking the way is Enies Lobby's elite Judicial Dog Squad. Go defeat them!"
+    },
+    {
+     "runMapId": "2903",
+     "desc": "The Marines have no intention of letting the intruders go. Clear out the Marines in your way!"
+    },
+    {
+     "runMapId": "2904",
+     "desc": "The Marines have no intention of letting the intruders go. Clear out the Marines in your way!"
+    },
+    {
+     "runMapId": "2905",
+     "desc": "The Marines have no intention of letting the intruders go. Clear out the Marines in your way!"
+    },
+    {
+     "runMapId": "2906",
+     "desc": "The Marines have no intention of letting the intruders go. Clear out the Marines in your way!"
+    },
+    {
+     "runMapId": "2907",
+     "desc": "The Judicial Dog Squad appears ahead again. Defeat them!"
+    },
+    {
+     "runMapId": "2908",
+     "desc": "The Judicial Dog Squad appears ahead again. Defeat them!"
+    },
+    {
+     "runMapId": "2909",
+     "desc": "Burly strongmen with giant iron balls: the Guilty Jury stands before everyone. Rescuing Robin can't wait, so defeat them now."
+    },
+    {
+     "runMapId": "2910",
+     "desc": "Robin is just one step away. Help the Franky Family defeat the guards protecting the drawbridge switch!"
+    },
+    {
+     "runMapId": "2911",
+     "desc": "Robin is just one step away. Help the Franky Family defeat the guards protecting the drawbridge switch!"
+    },
+    {
+     "runMapId": "2912",
+     "desc": "Blueno, stepping out of an Air Door, blocks Luffy's path. You can't back down. Defeat Blueno!"
+    },
+    {
+     "runMapId": "2913",
+     "desc": "Luffy must surpass himself to protect his crewmates! Unleash his secret technique and fight with all his might!"
+    },
+    {
+     "runMapId": "2914",
+     "desc": "Right after entering the Tower of Justice, you ran into a weird guy. He's CP9 too, so beat him first!"
+    },
+    {
+     "runMapId": "2915",
+     "desc": "The cola energy isn't full yet, but there's no time left. Go all out and defeat Fukuro!"
+    },
+    {
+     "runMapId": "2916",
+     "desc": "Who appears in the room? CP9 member Kalifa has shown up..."
+    },
+    {
+     "runMapId": "2917",
+     "desc": "Facing a beautiful woman, Sanji is at an impasse. Will Sanji stay true to his chivalry?"
+    },
+    {
+     "runMapId": "2918",
+     "desc": "A noisy guy has appeared before you. CP9 member Kumadori is here!"
+    },
+    {
+     "runMapId": "2919",
+     "desc": "Chopper has decided to stand on his own! Do your best to defeat Kumadori!"
+    },
+    {
+     "runMapId": "2920",
+     "desc": "Change of fighters! Now Nami takes on Kalifa. Take her down and win the key!"
+    },
+    {
+     "runMapId": "2921",
+     "desc": "In the middle of the room is CP9's Kaku. This long nose is not to be trifled with."
+    },
+    {
+     "runMapId": "2922",
+     "desc": "Usopp found a key that seems easy to grab, but it's Jabra's trap! Fight Jabra."
+    },
+    {
+     "runMapId": "2923",
+     "desc": "Kaku in his Beast Form is even stronger, with no blind spots. Go beat this CP9 combat expert!"
+    },
+    {
+     "runMapId": "2924",
+     "desc": "The cunning Jabra's onslaught keeps intensifying. Go knock this powerful opponent down for good!"
+    },
+    {
+     "runMapId": "2925",
+     "desc": "Following the underground passage after Robin, that pigeon guy appears again..."
+    },
+    {
+     "runMapId": "2926",
+     "desc": "Spandam's Marines are closing in. Hurry and defeat them!"
+    },
+    {
+     "runMapId": "2927",
+     "desc": "A furious Spandam is attacking. Don't hesitate, hit him back hard!"
+    },
+    {
+     "runMapId": "2928",
+     "desc": "Spandam leads his Marines in an attack. But do human-wave tactics really work? Go take them out."
+    },
+    {
+     "runMapId": "2929",
+     "desc": "The Buster Call Marines have landed on the Bridge of Hesitation. Defeat every Marine in sight!"
+    },
+    {
+     "runMapId": "2930",
+     "desc": "The Buster Call Marines have landed on the Bridge of Hesitation. Defeat every Marine in sight!"
+    },
+    {
+     "runMapId": "2931",
+     "desc": "The Buster Call Marines have landed on the Bridge of Hesitation. Defeat every Marine in sight!"
+    },
+    {
+     "runMapId": "2932",
+     "desc": "The Buster Call Marines have landed on the Bridge of Hesitation. Defeat every Marine in sight!"
+    },
+    {
+     "runMapId": "2933",
+     "desc": "The Buster Call Marines have landed on the Bridge of Hesitation. Defeat every Marine in sight!"
+    },
+    {
+     "runMapId": "2934",
+     "desc": "The final showdown. Against a serious Lucci, what chance do we have... Don't think about that now. Go all out and send that pigeon guy flying!"
+    },
+    {
+     "runMapId": "2935",
+     "desc": "The final showdown. Against a serious Lucci, what chance do we have... Don't think about that now. Go all out and send that pigeon guy flying!"
+    },
+    {
+     "runMapId": "2936",
+     "desc": "The Marine elites are closing in. Hurry and beat these guys, then let's go home together!"
+    },
+    {
+     "runMapId": "3001",
+     "desc": "The Marines have launched a sudden attack! Are they pursuers sent from Enies Lobby? Fight back!"
+    },
+    {
+     "runMapId": "3002",
+     "desc": "Luffy and Garp really are family... They can both fall asleep in the middle of talking..."
+    },
+    {
+     "runMapId": "3003",
+     "desc": "When Zoro returned, he saw a horde of Marines! For your crewmates' safety, defeat them quickly."
+    },
+    {
+     "runMapId": "3004",
+     "desc": "On Garp's orders, 2 mysterious figures suddenly step forward to stop Zoro. Who are they?"
+    },
+    {
+     "runMapId": "3005",
+     "desc": "Luffy's grandpa has decided to give up on catching him on this island, but before leaving he wants to teach Luffy another lesson. What a good grandpa."
+    },
+    {
+     "runMapId": "3101",
+     "desc": "To make Franky join the Straw Hats, everyone launches an attack. Iceburg did say the only way is to take him by force!"
+    },
+    {
+     "runMapId": "3102",
+     "desc": "To make Franky join the Straw Hats, everyone launches an attack. Iceburg did say the only way is to take him by force!"
+    },
+    {
+     "runMapId": "3103",
+     "desc": "The Straw Hats, waiting for someone on the shore, have been spotted by the Marines! Garp is back to catch Luffy!"
+    },
+    {
+     "runMapId": "3104",
+     "desc": "Evade Garp's pursuit! Everyone leaves together!"
+    },
+    {
+     "runMapId": "22901",
+     "desc": "Defeat the Marines blocking the way!"
+    },
+    {
+     "runMapId": "22902",
+     "desc": "Defeat the angry Marines."
+    },
+    {
+     "runMapId": "22903",
+     "desc": "Defeat the intelligence agents blocking the way."
+    },
+    {
+     "runMapId": "22904",
+     "desc": "Defeat the Marine reinforcements that have arrived."
+    },
+    {
+     "runMapId": "22905",
+     "desc": "Drive off the cowardly Marines."
+    },
+    {
+     "runMapId": "22906",
+     "desc": "Drive off the Marine Officers."
+    },
+    {
+     "runMapId": "22907",
+     "desc": "Defeat the Marine Commander chasing after you."
+    },
+    {
+     "runMapId": "22908",
+     "desc": "Defeat the Marine Officers."
+    },
+    {
+     "runMapId": "22909",
+     "desc": "Defeat the Marine Colonel."
+    },
+    {
+     "runMapId": "23001",
+     "desc": "Defeat the Pirate Buying on Credit."
+    },
+    {
+     "runMapId": "23002",
+     "desc": "Defeat the Pirate Buying on Credit."
+    },
+    {
+     "runMapId": "23003",
+     "desc": "Defeat the Arrogant Pirate."
+    },
+    {
+     "runMapId": "23101",
+     "desc": "Teach the badly behaved pirates a lesson."
+    },
+    {
+     "runMapId": "23102",
+     "desc": "Help the man with his training."
+    },
+    {
+     "runMapId": "23103",
+     "desc": "Help the man with his training again."
+    },
+    {
+     "runMapId": "3201",
+     "desc": "Luffy and the others arrived somewhere unfamiliar and ran into an enemy before they'd gone far."
+    },
+    {
+     "runMapId": "300001",
+     "desc": "To seize royal power, you must first raise your influence in the Kingdom of Sand. Becoming a hero who protects the people is the best way."
+    },
+    {
+     "runMapId": "300002",
+     "desc": "To take over the Kingdom of Sand, you need an army of your own. The side effects of the \"Dance Powder\" are the perfect plan to stir up the people's rebellion."
+    },
+    {
+     "runMapId": "300003",
+     "desc": "Vivi was easily defeated and captured, but the Straw Hat Pirates interfered on the way. How could such small fry compare to me, Crocodile? They must be wiped out!"
+    },
+    {
+     "runMapId": "300004",
+     "desc": "The showdown with the Straw Hat Pirates. The reckless Luffy actually came to fight me alone. Anyone who stands in the way of my taking the Kingdom of Sand has only death ahead..."
+    },
+    {
+     "runMapId": "300005",
+     "desc": "Every plan is going as expected. The two guardians of the Kingdom of Sand and its elite soldiers risking their lives to resist in the royal capital only stirs your desire to toy with them. But the Straw Hats show up again and throw everything into disarray."
+    },
+    {
+     "runMapId": "300006",
+     "desc": "Nico Robin is ordered to escort Cobra to the Underground Palace, where the secrets of the Kingdom of Alabasta are buried."
+    },
+    {
+     "runMapId": "300007",
+     "desc": "Having defeated Luffy, Crocodile forces the King of the Kingdom of Sand into the royal family's secret tomb, the place said to hold clues to \"Pluton\"."
+    },
+    {
+     "runMapId": "3202",
+     "desc": "You've met Cerberus. Everyone is curious what kind of creature it actually is..."
+    },
+    {
+     "runMapId": "3203",
+     "desc": "The group barged into the graveyard and saw countless zombies crawling out of the ground. Amid the shock, they realized they were already surrounded."
+    },
+    {
+     "runMapId": "3301",
+     "desc": "A mysterious woman in the well suddenly started throwing plates. Looks like we're not welcome!"
+    },
+    {
+     "runMapId": "3302",
+     "desc": "After the specimen on the wall spoke, a horde of zombies suddenly poured out of the mansion. No choice but to fight."
+    },
+    {
+     "runMapId": "3303",
+     "desc": "You want to escape the mansion, but the door you came in through won't open again, and the zombies are closing in once more."
+    },
+    {
+     "runMapId": "3304",
+     "desc": "An astonishing secret has been discovered in the mysterious room! Meanwhile, eerie zombies lie in wait throughout the mansion!"
+    },
+    {
+     "runMapId": "3305",
+     "desc": "The group was caught peeking at Hogback's secret research, and enemies have surrounded them from behind too!"
+    },
+    {
+     "runMapId": "3401",
+     "desc": "A fully armed zombie suddenly appears in the hall! It looks much stronger than an ordinary zombie."
+    },
+    {
+     "runMapId": "3402",
+     "desc": "A swarm of zombies blocks the way! You must break through! General Zombies and regular zombies are surging in like a tide..."
+    },
+    {
+     "runMapId": "3403",
+     "desc": "A swarm of zombies blocks the way! You must break through! General Zombies and regular zombies are surging in like a tide..."
+    },
+    {
+     "runMapId": "3404",
+     "desc": "A swarm of zombies blocks the way! You must break through! General Zombies and regular zombies are surging in like a tide..."
+    },
+    {
+     "runMapId": "3405",
+     "desc": "A zombie that talks just like Zoro has suddenly appeared?! Could it be Zoro?"
+    },
+    {
+     "runMapId": "3406",
+     "desc": "A giant spider has appeared. It seems to be a monster zombie called Spider Monkey!"
+    },
+    {
+     "runMapId": "3407",
+     "desc": "The Spider Monkey you defeated earlier wasn't destroyed after all! Brook is in danger!"
+    },
+    {
+     "runMapId": "3501",
+     "desc": "Uh-oh! The Mysterious Three have spotted us! Defeat them and escape!!"
+    },
+    {
+     "runMapId": "3502",
+     "desc": "Spotted by the animal zombies in the Wonder Garden. Break through them to go on!"
+    },
+    {
+     "runMapId": "3503",
+     "desc": "Spotted by the animal zombies in the Wonder Garden. Break through them to go on!"
+    },
+    {
+     "runMapId": "3504",
+     "desc": "Spotted by the animal zombies in the Wonder Garden. Break through them to go on!"
+    },
+    {
+     "runMapId": "3505",
+     "desc": "Perona, one of the Mysterious Three, has appeared! With her ghosts around, she seems hard to beat!"
+    },
+    {
+     "runMapId": "3506",
+     "desc": "Astonishingly, the Negative Hollow has no effect on Usopp!"
+    },
+    {
+     "runMapId": "3601",
+     "desc": "Nami was suddenly attacked by a boar zombie, but why does it keep yelling about a thieving cat?"
+    },
+    {
+     "runMapId": "3602",
+     "desc": "After befriending Lola, Absalom comes chasing after you."
+    },
+    {
+     "runMapId": "3603",
+     "desc": "Absalom has carried off Nami, and now General Zombies block everyone's way."
+    },
+    {
+     "runMapId": "3604",
+     "desc": "Absalom has carried off Nami, and now General Zombies block everyone's way."
+    },
+    {
+     "runMapId": "3605",
+     "desc": "Absalom has carried off Nami, and now General Zombies block everyone's way."
+    },
+    {
+     "runMapId": "3606",
+     "desc": "In the church, Absalom is about to marry Nami, but Sanji, rushing to save her, is stopped halfway by zombies."
+    },
+    {
+     "runMapId": "3607",
+     "desc": "In the church, Absalom is about to marry Nami, but Sanji, rushing to save her, is stopped halfway by zombies."
+    },
+    {
+     "runMapId": "3608",
+     "desc": "In the church, Absalom is about to marry Nami, but Sanji, rushing to save her, is stopped halfway by zombies."
+    },
+    {
+     "runMapId": "3609",
+     "desc": "Absalom didn't just hurt Nami, he's also the man who stole Sanji's dream!"
+    },
+    {
+     "runMapId": "3701",
+     "desc": "You've met Cindry in the ballroom. Get ready to fight back!"
+    },
+    {
+     "runMapId": "3702",
+     "desc": "Hogback's underlings Jigoro and Dog Penguin attack us under his command!"
+    },
+    {
+     "runMapId": "3703",
+     "desc": "Hogback's theories are intolerable to Chopper! But the revived Cindry still stands in our way!"
+    },
+    {
+     "runMapId": "3704",
+     "desc": "Hogback's underlings Jigoro and Dog Penguin attack us again under his command!"
+    },
+    {
+     "runMapId": "3705",
+     "desc": "Persuaded by Chopper, Cindry sheds tears, but under his control she can't disobey orders..."
+    },
+    {
+     "runMapId": "3706",
+     "desc": "Beat Hogback to a pulp! He doesn't deserve to be called a doctor!"
+    },
+    {
+     "runMapId": "3801",
+     "desc": "You found Moria in the freezer room! But his shadow blocks Luffy's way!"
+    },
+    {
+     "runMapId": "3802",
+     "desc": "Oars has spotted the Straw Hats and attacks!"
+    },
+    {
+     "runMapId": "3803",
+     "desc": "Brook, locked in a final showdown with Zombie Ryuma, is saved by Zoro. The black blade Shusui, he must get it!"
+    },
+    {
+     "runMapId": "3804",
+     "desc": "Everyone gathers in the courtyard! Join forces to defeat Oars!!"
+    },
+    {
+     "runMapId": "3805",
+     "desc": "To get the shadows back, you must defeat Moria! This is the final showdown!!!"
+    },
+    {
+     "runMapId": "3806",
+     "desc": "The voice of another of the Seven Warlords rings out around everyone... Can the Straw Hats, fresh from defeating Moria, beat him?"
+    },
+    {
+     "runMapId": "3901",
+     "desc": "Camie, who went alone to save Hatchan, has been caught by the Macro Pirates. Whatever the grudge with Hatchan, we can't abandon the innocent Camie!"
+    },
+    {
+     "runMapId": "3807",
+     "desc": "Putting old grudges aside for now, the Straw Hat Pirates aim to break through the Flying Fish Riders' base and free the captive octopus Hatchan!"
+    },
+    {
+     "runMapId": "3903",
+     "desc": "The true leader behind the Flying Fish Riders has finally appeared! This tall man in an iron mask charges at the Straw Hat Pirates, full of endless hatred!"
+    },
+    {
+     "runMapId": "3904",
+     "desc": "Hunted by everyone for looking too much like Sanji's wanted poster, his suffering has finally turned into burning resentment. Straw Hat Pirates, taste Duval's endless fury!"
+    },
+    {
+     "runMapId": "4001",
+     "desc": "Pirates who have entered the Grand Line gather here. As the Straw Hat Pirates' fame grows, so do their bounties, and today they've drawn in some overconfident Bounty Hunters..."
+    },
+    {
+     "runMapId": "4002",
+     "desc": "Pirates who have entered the Grand Line gather here. As the Straw Hat Pirates' fame grows, so do their bounties, and today they've drawn in some overconfident Bounty Hunters..."
+    },
+    {
+     "runMapId": "4003",
+     "desc": "Pirates who have entered the Grand Line gather here. As the Straw Hat Pirates' fame grows, so do their bounties, and today they've drawn in some overconfident Bounty Hunters..."
+    },
+    {
+     "runMapId": "4004",
+     "desc": "Pirates who have entered the Grand Line gather here. As the Straw Hat Pirates' fame grows, so do their bounties, and today they've drawn in some overconfident Bounty Hunters..."
+    },
+    {
+     "runMapId": "4005",
+     "desc": "The bar's name is a bit scary, and the owner really does act like she's ripping you off... but she's Hatchan's friend, so she should be trustworthy... probably..."
+    },
+    {
+     "runMapId": "4101",
+     "desc": "With the Flying Fish Riders' help, you finally found out where Camie is. The Straw Hats, set on taking her back by force, clash fiercely with the Staff Members."
+    },
+    {
+     "runMapId": "4102",
+     "desc": "To Disco, Camie is a precious item worth 500 million. He can't let the pirates take her!"
+    },
+    {
+     "runMapId": "4103",
+     "desc": "Witnessing the Celestial Dragon's outrageous behavior, Luffy ignores Hatchan's warning and throws a furious punch!"
+    },
+    {
+     "runMapId": "4104",
+     "desc": "Luffy's actions have utterly enraged the Celestial Dragon Saint Rosward. Always above everyone, he can't stand a commoner laying hands on his son."
+    },
+    {
+     "runMapId": "4105",
+     "desc": "Luffy's actions have utterly enraged the Celestial Dragon Saint Rosward. Always above everyone, he can't stand a commoner laying hands on his son."
+    },
+    {
+     "runMapId": "4106",
+     "desc": "Luffy's actions have utterly enraged the Celestial Dragon Saint Rosward. Always above everyone, he can't stand a commoner laying hands on his son."
+    },
+    {
+     "runMapId": "4107",
+     "desc": "Luffy's actions have utterly enraged the Celestial Dragon Saint Rosward. Always above everyone, he can't stand a commoner laying hands on his son."
+    },
+    {
+     "runMapId": "4108",
+     "desc": "Marines summoned by Saint Rosward have surrounded the Human Auction Market, and an Admiral is about to arrive. You must break through the siege quickly."
+    },
+    {
+     "runMapId": "4109",
+     "desc": "Marines summoned by Saint Rosward have surrounded the Human Auction Market, and an Admiral is about to arrive. You must break through the siege quickly."
+    },
+    {
+     "runMapId": "4110",
+     "desc": "Marines summoned by Saint Rosward have surrounded the Human Auction Market, and an Admiral is about to arrive. You must break through the siege quickly."
+    },
+    {
+     "runMapId": "3808",
+     "desc": "It isn't yet time to meet Rayleigh, but the Straw Hats run into someone unexpected..."
+    },
+    {
+     "runMapId": "4112",
+     "desc": "Admiral Kizaru makes his entrance! He ate the Glint-Glint Fruit, he's a Light Human, the strongest Logia! Can the Straw Hat Pirates survive at his hands?"
+    },
+    {
+     "runMapId": "4113",
+     "desc": "Realizing how outmatched they are, the Straw Hat Pirates decide to split up and flee. Sentomaru and the Pacifista give chase."
+    },
+    {
+     "runMapId": "4114",
+     "desc": "Having watched Zoro vanish, the Straw Hat Pirates are furious, but they're powerless to stop Kuma's next attack..."
+    },
+    {
+     "runMapId": "4201",
+     "desc": "As the first man to set foot in the nation of women, Luffy is attacked by the warriors of Amazon Lily."
+    },
+    {
+     "runMapId": "4202",
+     "desc": "As the first man to set foot in the nation of women, Luffy is attacked by the warriors of Amazon Lily."
+    },
+    {
+     "runMapId": "4203",
+     "desc": "As the first man to set foot in the nation of women, Luffy is attacked by the warriors of Amazon Lily."
+    },
+    {
+     "runMapId": "4204",
+     "desc": "Luffy lost Rayleigh's Vivre Card and feared he couldn't regroup with his crew, until he found it on Daisy."
+    },
+    {
+     "runMapId": "4205",
+     "desc": "To escape the Amazon Lily warriors hunting him, Luffy flees across the rooftops of Amazon Lily!"
+    },
+    {
+     "runMapId": "4206",
+     "desc": "Luffy accidentally barges into Kuja Castle's bath and sees the secret on Hancock's back. Shocked and furious, Hancock wants to silence him for good."
+    },
+    {
+     "runMapId": "4207",
+     "desc": "In martial Amazon Lily, the strong hold the highest honor. Luffy faces the Kuja Pirates' strongest fighters in a final showdown in the Arena..."
+    },
+    {
+     "runMapId": "4208",
+     "desc": "Realizing Luffy is no ordinary opponent, Sandersonia and Marigold get serious too!"
+    },
+    {
+     "runMapId": "4209",
+     "desc": "Full of beasts from the demon realm: Luffy and Buggy's journey through hell!"
+    },
+    {
+     "runMapId": "4210",
+     "desc": "Not just beasts... this place is also full of traps and contraptions. Proceed carefully..."
+    },
+    {
+     "runMapId": "4301",
+     "desc": "Luffy has just entered the prison and been spotted by the guards. Defeat them quickly to avoid causing a commotion!"
+    },
+    {
+     "runMapId": "4302",
+     "desc": "Luffy has just entered the prison and been spotted by the guards. Defeat them quickly to avoid causing a commotion!"
+    },
+    {
+     "runMapId": "4303",
+     "desc": "Luffy has just entered the prison and been spotted by the guards. Defeat them quickly to avoid causing a commotion!"
+    },
+    {
+     "runMapId": "4304",
+     "desc": "While questioning a prisoner, Luffy runs into a patrolling Jailer. No choice but to fight!"
+    },
+    {
+     "runMapId": "4305",
+     "desc": "Just after learning where Ace might be held, Luffy suddenly sees someone familiar being chased..."
+    },
+    {
+     "runMapId": "4306",
+     "desc": "You've run into Buggy in the prison! Since there's already a commotion, let's turn it into a super flashy operation!"
+    },
+    {
+     "runMapId": "4307",
+     "desc": "The annoying Blugoris keep up their relentless chase! Shake them off!"
+    },
+    {
+     "runMapId": "4308",
+     "desc": "After giving Buggy the armband from Nami, just as he's about to head to the second basement level, Luffy runs into prison guards again."
+    },
+    {
+     "runMapId": "4309",
+     "desc": "This is the second basement level... Wild Beast Hell! Full of beasts from the demon realm!!!"
+    },
+    {
+     "runMapId": "4310",
+     "desc": "Not just beasts... this place is also full of traps and contraptions. Proceed carefully..."
+    },
+    {
+     "runMapId": "4311",
+     "desc": "They're Manticores, man-eating lions with human faces!!! If they catch you, there won't be a bone left!!"
+    },
+    {
+     "runMapId": "4312",
+     "desc": "The guardian of the stairs: the Sphinx!!! Only by defeating it can you reach the third level!"
+    },
+    {
+     "runMapId": "4401",
+     "desc": "On the third level, Starvation Hell, full of hunger and dryness, you've run into Jailers even here..."
+    },
+    {
+     "runMapId": "4402",
+     "desc": "Ambushed in the desert by Chief Guard Hoss! How will you break out!!"
+    },
+    {
+     "runMapId": "4403",
+     "desc": "The Sphinx has awoken! Now's the chance! Break out in one go!!"
+    },
+    {
+     "runMapId": "4404",
+     "desc": "Buggy and Mr. 3 were about to escape on their own, but as they say goodbye, Hoss catches up again with the Blugoris!"
+    },
+    {
+     "runMapId": "4405",
+     "desc": "The Sphinx blocks the way... It just helped you escape the encirclement, but to find Ace you have no choice but to defeat it!"
+    },
+    {
+     "runMapId": "4406",
+     "desc": "Hoss blocks the way forward again! Defeat him!"
+    },
+    {
+     "runMapId": "4407",
+     "desc": "While talking with Mr. 2, the silhouette of a huge beast suddenly appears! It's Minotaurus!!!"
+    },
+    {
+     "runMapId": "4408",
+     "desc": "At the entrance to the fourth level, Buggy and Mr. 3 have come back with Minotaurus! How do you deal with Minotaurus's incredible Recovery ability?"
+    },
+    {
+     "runMapId": "4409",
+     "desc": "The Chief Warden has set a dragnet in the fourth level, Blazing Hell. To rescue Ace, you must break through here!"
+    },
+    {
+     "runMapId": "4410",
+     "desc": "The Chief Warden has set a dragnet in the fourth level, Blazing Hell. To rescue Ace, you must break through here!"
+    },
+    {
+     "runMapId": "4411",
+     "desc": "The Chief Warden has set a dragnet in the fourth level, Blazing Hell. To rescue Ace, you must break through here!"
+    },
+    {
+     "runMapId": "4412",
+     "desc": "Chief Warden Magellan appears, the strongest man in the prison... Can you beat him?"
+    },
+    {
+     "runMapId": "4413",
+     "desc": "Facing poison that seeps in everywhere... Luffy... can only go All or Nothing!!!"
+    },
+    {
+     "runMapId": "4501",
+     "desc": "While Luffy draws Magellan's attention, Buggy and Mr. 3 prepare to force their way to the third level!"
+    },
+    {
+     "runMapId": "4502",
+     "desc": "Full of regret, Mr. 2 reaches the entrance to the third level, but Hannyabal stands in his way..."
+    },
+    {
+     "runMapId": "4503",
+     "desc": "The fierce Army Wolves of Freezing Hell are the perfect guards! Extreme cold plus fierce beasts! How will you get through!"
+    },
+    {
+     "runMapId": "4504",
+     "desc": "Mr. 3 and Buggy vanished in the blink of an eye! Mr. 2 faces the surging Army Wolves alone!"
+    },
+    {
+     "runMapId": "4505",
+     "desc": "No matter what, he must protect Straw Hat Boy now! Facing the wolf pack, Mr. 2 won't take a single step back!"
+    },
+    {
+     "runMapId": "4506",
+     "desc": "In a mysterious space within this prison, a pirate out for revenge suddenly charges out! His target is Ivankov!"
+    },
+    {
+     "runMapId": "4507",
+     "desc": "The Jailers seem to have found some clue! We can't let them find Newkama Land!"
+    },
+    {
+     "runMapId": "4601",
+     "desc": "Luffy has survived! Next, go rescue Ace! Nothing can stop us now!!"
+    },
+    {
+     "runMapId": "4602",
+     "desc": "Ace is within reach! Guards, out of the way!!!"
+    },
+    {
+     "runMapId": "4603",
+     "desc": "Ace is about to be taken to Marine HQ! Use every second to catch up to him!"
+    },
+    {
+     "runMapId": "4604",
+     "desc": "The gate to the fourth level is open! Jailers and guards appear before you! With Jinbe and Crocodile's help, you can surely catch up to Ace faster!"
+    },
+    {
+     "runMapId": "4605",
+     "desc": "Hoss arrives leading the Blugoris. How can we let ourselves be held back at a time like this? Defeat them swiftly and cleanly!"
+    },
+    {
+     "runMapId": "4606",
+     "desc": "The Jailer Beasts and Sadi-chan furiously block the escape army. The Okamas and prisoners are at a loss..."
+    },
+    {
+     "runMapId": "4607",
+     "desc": "Fierce sparks fly between Sadi-chan and Ivankov!"
+    },
+    {
+     "runMapId": "4608",
+     "desc": "The last guard on the fourth level is Hannyabal. Getting past him seems like it'll take some effort!"
+    },
+    {
+     "runMapId": "4609",
+     "desc": "Hannyabal unleashes astonishing willpower!"
+    },
+    {
+     "runMapId": "4610",
+     "desc": "Minotaurus's appearance has diverted everyone's attention. Let Blackbeard go for now!"
+    },
+    {
+     "runMapId": "4611",
+     "desc": "Ivankov holds Magellan back on the third level! Luffy! You must catch up to Ace!"
+    },
+    {
+     "runMapId": "4612",
+     "desc": "Back on the second level, you've released a crowd of prisoners. Everyone, break through the prison's defenses together!"
+    },
+    {
+     "runMapId": "4613",
+     "desc": "The Jailer Beasts rushed up to the first level by elevator and block the way forward! Daylight is right ahead!"
+    },
+    {
+     "runMapId": "4614",
+     "desc": "Magellan is enraged! The greatest crisis in the prison has arrived! You must escape safely!!"
+    },
+    {
+     "runMapId": "4615",
+     "desc": "There isn't a single ship at the docks!!! Leave this to Jinbe!!!"
+    },
+    {
+     "runMapId": "4701",
+     "desc": "The Paramount War begins in earnest with Whitebeard's arrival! The pirates have torn a hole in the Marines' defensive line. Charge the execution platform! Defeat the Marines blocking the way!"
+    },
+    {
+     "runMapId": "4702",
+     "desc": "As the Whitebeard Pirates charge into the bay, Mihawk, who never cares about such things, steps forward and grips his black blade!"
+    },
+    {
+     "runMapId": "4703",
+     "desc": "While we watch the fierce battle in the inner bay, the Marines in front of us charge! Defeat them!"
+    },
+    {
+     "runMapId": "4704",
+     "desc": "As we charge into the bay, the Admirals make their move. Kizaru leaps into action!"
+    },
+    {
+     "runMapId": "4705",
+     "desc": "While we watch the fierce battle in the inner bay, the Marines in front of us charge! Defeat them!"
+    },
+    {
+     "runMapId": "4706",
+     "desc": "With Oars Jr. throwing the Marine formation into chaos, the pirates storm Oris Plaza, and then a dazzling figure descends from the sky..."
+    },
+    {
+     "runMapId": "4707",
+     "desc": "The Vice Admirals have all come out of the bay to stop the pirates' advance. Vice Admiral Onigumo takes the stage!"
+    },
+    {
+     "runMapId": "4708",
+     "desc": "Oars Jr. has charged to the edge of Oris Plaza. Ace is within reach, but the tyrant Kuma silently stands atop the high wall..."
+    },
+    {
+     "runMapId": "4709",
+     "desc": "A huge number of pirates have already fallen before Vice Admiral Momonga. To charge into the battlefield in the bay, you must defeat him!"
+    },
+    {
+     "runMapId": "4710",
+     "desc": "Oars Jr. was gravely wounded by Kuma's attack. The execution platform holding Ace is right in front of him. If he can't reach Ace... he'll at least take down one of the Seven Warlords!"
+    },
+    {
+     "runMapId": "4711",
+     "desc": "Luffy has barely entered the battlefield when the Marines intercept him. Defeat them!"
+    },
+    {
+     "runMapId": "4712",
+     "desc": "Before anyone could react, Crocodile charged at Whitebeard! That's the old man Ace loves. Don't lay a hand on him!"
+    },
+    {
+     "runMapId": "4713",
+     "desc": "It's that guy from Sabaody! Admiral Kizaru blocks the road to Ace! Don't lose to him this time! Rescue Ace!"
+    },
+    {
+     "runMapId": "4714",
+     "desc": "The guy who sent everyone flying on Sabaody! Kuma also blocks Luffy's way, and it looks like Ivankov and he are old acquaintances..."
+    },
+    {
+     "runMapId": "4715",
+     "desc": "You dodged Kuma's attack, but now you have to take a detour toward the execution platform. \"Black Cage\" Hina blocks the way ahead!"
+    },
+    {
+     "runMapId": "4716",
+     "desc": "Under Kizaru's command, Vice Admiral Bastille charges at Luffy! You can't stop here!"
+    },
+    {
+     "runMapId": "4717",
+     "desc": "Moria tries to summon zombies on the battlefield to besiege Luffy, but Jinbe arrives just in time to help. No time to deal with him! Rescuing Ace is our goal!!"
+    },
+    {
+     "runMapId": "4718",
+     "desc": "Just after shaking off Moria, a cloud of smoke appears! It's Smoker! That jitte is laced with Seastone!"
+    },
+    {
+     "runMapId": "4719",
+     "desc": "Escaping Smoker's ambush under Hancock's protection, you see Doflamingo appear beside Ivankov and Kuma. He seems to know something about Kuma's current state..."
+    },
+    {
+     "runMapId": "4720",
+     "desc": "A sense of danger looms ahead... It's Mihawk! The world's greatest swordsman! Can you break through his attacks?"
+    },
+    {
+     "runMapId": "4721",
+     "desc": "The Marines' scheme comes to light. Sentomaru appears outside the bay with a large number of the Pacifista seen on Sabaody, and the pirates are thrown into disarray by the attack!"
+    },
+    {
+     "runMapId": "4722",
+     "desc": "Just as Luffy nears Oris Plaza, Kizaru appears again. We have to get to Ace fast!"
+    },
+    {
+     "runMapId": "4723",
+     "desc": "The Marines' series of schemes is becoming clear. What awaits the Whitebeard Pirates in the end..."
+    },
+    {
+     "runMapId": "4801",
+     "desc": "The Marines really are executing Ace early! Rush to Ace's side! Beat the Marines in front of you!"
+    },
+    {
+     "runMapId": "4802",
+     "desc": "A chill sweeps in! Admiral Aokiji blocks the way! You must break through no matter what!"
+    },
+    {
+     "runMapId": "4803",
+     "desc": "The Vice Admirals and Kizaru block the road to the execution platform together, and Luffy is starting to show signs of fatigue..."
+    },
+    {
+     "runMapId": "4804",
+     "desc": "Ivankov has injected Luffy with Tension Hormones again... This time you must reach Ace's side! Onigumo blocks the way. Defeat him!"
+    },
+    {
+     "runMapId": "4805",
+     "desc": "Coby, now a Marine, also stands in the way. Even against a friend, you can't hold back!"
+    },
+    {
+     "runMapId": "4806",
+     "desc": "Damn! The Pacifista have gathered from outside the bay onto the plaza. Their laser attacks are no joke! Get past them quickly!"
+    },
+    {
+     "runMapId": "4807",
+     "desc": "The Conqueror's Haki Luffy unleashed by accident saved Ace! Now's the chance, head for the execution platform where Ace is!"
+    },
+    {
+     "runMapId": "4808",
+     "desc": "With the Whitebeard Pirates' help, Luffy got past obstacle after obstacle, but Mihawk blocks the way once again!"
+    },
+    {
+     "runMapId": "4809",
+     "desc": "The Pacifista attack again! And this time Sentomaru is backing them up! Defeat them!"
+    },
+    {
+     "runMapId": "4810",
+     "desc": "Ace is right before your eyes! Inazuma has built a road leading straight to the execution platform! This is the last chance!"
+    },
+    {
+     "runMapId": "4811",
+     "desc": "Ace is free! But the Marines just won't give up! Beat them and break out of the encirclement!"
+    },
+    {
+     "runMapId": "4812",
+     "desc": "Ace is free! But the Marines just won't give up! Beat them and break out of the encirclement!"
+    },
+    {
+     "runMapId": "4813",
+     "desc": "Aokiji blocks the way, but this time Ace is free. Nothing can stop Ace and Luffy!"
+    },
+    {
+     "runMapId": "4814",
+     "desc": "Whitebeard has decided to settle things with the Marines! But Marines are still surrounding him from behind! Ace won't stand for it!"
+    },
+    {
+     "runMapId": "4815",
+     "desc": "Whitebeard is the great pirate who created this era!!!"
+    },
+    {
+     "runMapId": "4901",
+     "desc": "Ace died at Akainu's hands, and Akainu's next target is Luffy! You must not let him succeed, no matter what!!!"
+    },
+    {
+     "runMapId": "4902",
+     "desc": "Whitebeard appears behind Akainu! Ace's death makes Whitebeard erupt in extraordinary fury!!!"
+    },
+    {
+     "runMapId": "4903",
+     "desc": "No one expected Blackbeard Teach to show up on this chaotic battlefield. Facing Teach, who broke the one iron rule of his ship, Whitebeard will settle things this time!"
+    },
+    {
+     "runMapId": "4904",
+     "desc": "No one can believe their eyes! Blackbeard is using the power of Whitebeard's Tremor-Tremor Fruit!"
+    },
+    {
+     "runMapId": "4905",
+     "desc": "Sengoku won't let Blackbeard keep wrecking Marineford! Garp joins the fight too! This is Marineford, the island at nearly the center of the world! The justice called honor will never die!!!"
+    },
+    {
+     "runMapId": "4906",
+     "desc": "Jinbe is about to escape Marineford with Luffy, but the Pacifista block the way again! Even Hancock is treated as an enemy by the Pacifista!"
+    },
+    {
+     "runMapId": "4907",
+     "desc": "To escape Marineford, you must break through layer after layer of Marine encirclement. Wave after wave of Marines block the escape route..."
+    },
+    {
+     "runMapId": "4908",
+     "desc": "To escape Marineford, you must break through layer after layer of Marine encirclement. Wave after wave of Marines block the escape route..."
+    },
+    {
+     "runMapId": "4909",
+     "desc": "Akainu, badly wounded by Whitebeard, appears before Jinbe and Luffy again! And the nearest stretch of sea has been frozen by Aokiji! How will you escape!"
+    },
+    {
+     "runMapId": "4910",
+     "desc": "You've escaped Akainu's pursuit for now, but the Marines' attacks are almost frenzied."
+    },
+    {
+     "runMapId": "4911",
+     "desc": "You've escaped Akainu's pursuit for now, but the Marines' attacks are almost frenzied."
+    },
+    {
+     "runMapId": "4912",
+     "desc": "Marineford's high wall is within reach and escape is in sight, but Akainu catches up once again..."
+    },
+    {
+     "runMapId": "4913",
+     "desc": "Crocodile and the Whitebeard Pirates saved Jinbe and Luffy at the critical moment. We won't let the Marines have their way!"
+    },
+    {
+     "runMapId": "4914",
+     "desc": "Just as Law is about to escape with Jinbe and Luffy, the 3 Admirals unleash a final combined strike!"
+    },
+    {
+     "runMapId": "5001",
+     "desc": "Consumed by the pain of Ace's death, Luffy keeps hurting himself. To stop his frenzy, Jinbe has no choice but to step in."
+    },
+    {
+     "runMapId": "5002",
+     "desc": "A woman calling herself the \"Little Thief Cat\" volunteers to force Nami to submit by force."
+    },
+    {
+     "runMapId": "5003",
+     "desc": "Not just Nami, even \"Sogeking\" has shown up. What on earth is going on...?"
+    },
+    {
+     "runMapId": "5004",
+     "desc": "To get back to the Sabaody Archipelago, Zoro split a pirate ship bound for Fish-Man Island in two. Those pirates launch a furious revenge on him!"
+    },
+    {
+     "runMapId": "5005",
+     "desc": "The fake Straw Hats have gathered many pirates in the lawless zone, and the real Luffy is right next to them!"
+    },
+    {
+     "runMapId": "5006",
+     "desc": "The cruel pirate \"Wet-Haired\" Caribou ignores the fake Luffy's orders and brutally slaughters the Marines!"
+    },
+    {
+     "runMapId": "5007",
+     "desc": "After 2 years, Sentomaru and the Pacifista stand in Luffy's way again. But the reborn Luffy is no longer someone they can stop!"
+    },
+    {
+     "runMapId": "5008",
+     "desc": "Against the strong foes they were helpless against 2 years ago, Zoro and Sanji show unimaginable strength."
+    },
+    {
+     "runMapId": "5009",
+     "desc": "So the Straw Hats can set sail safely, the Dark King Rayleigh stands in the way of the pursuing Marines."
+    },
+    {
+     "runMapId": "5010",
+     "desc": "Endless Marines are closing in from other directions. To get back to the Thousand Sunny, you must break through the Marine net!"
+    },
+    {
+     "runMapId": "5011",
+     "desc": "The Straw Hat Pirates are all together! But a Marine warship appears ahead, and just then, the Pirate Empress Hancock's ship appears!"
+    },
+    {
+     "runMapId": "5101",
+     "desc": "With Sanji in danger, the New Fish-Man Pirates stop Luffy and the others from asking the Fish-Men for help! No matter what, we can't let Sanji die like this!!!"
+    },
+    {
+     "runMapId": "5102",
+     "desc": "While Usopp and the others wait for the banquet, the Left Minister suddenly says 2 of the Straw Hats are suspects and must be arrested! As if we'd give up! Get ready to fight back!"
+    },
+    {
+     "runMapId": "5103",
+     "desc": "After driving off a group of Ryugu Palace guards, Neptune also orders the Straw Hats' arrest! More and more Ryugu Palace guards keep arriving. Whatever happens, we can't be caught!"
+    },
+    {
+     "runMapId": "5104",
+     "desc": "Human pirates have burst in from the Coral Hill side! Beat them down first."
+    },
+    {
+     "runMapId": "5105",
+     "desc": "Human pirates have burst in from the Coral Hill side! Beat them down first."
+    },
+    {
+     "runMapId": "5106",
+     "desc": "The human pirates launch another fierce wave of attacks! Stop them!!"
+    },
+    {
+     "runMapId": "5107",
+     "desc": "Hody Jones! He has led the New Fish-Man Pirates into Ryugu Palace! He's a Fish-Man who inherited Arlong's will..."
+    },
+    {
+     "runMapId": "5108",
+     "desc": "Hody's New Fish-Man Pirates are attacking!!!"
+    },
+    {
+     "runMapId": "5109",
+     "desc": "Humans are always at a disadvantage fighting underwater. Zoro asks Neptune to take Usopp and Brook away, and he'll face Hody Jones alone!"
+    },
+    {
+     "runMapId": "5110",
+     "desc": "Zoro defeated Hody! But the New Fish-Man Pirates swallowed some kind of drug! The Fish-Man Pirates attack again!!"
+    },
+    {
+     "runMapId": "5111",
+     "desc": "Just as Neptune is about to flee with Zoro and the others, the Fish-Man Pirates block the way again!"
+    },
+    {
+     "runMapId": "5112",
+     "desc": "Vander Decken the 9th appears! Rejected by Shirahoshi, all his love has turned into hatred! Don't let him hurt Shirahoshi!!"
+    },
+    {
+     "runMapId": "5113",
+     "desc": "Luffy wants to go to Ryugu Palace to rescue his crewmates, but Jinbe resolutely blocks his way..."
+    },
+    {
+     "runMapId": "5201",
+     "desc": "Fukaboshi leads soldiers to rescue Neptune and is met by a furious attack from the New Fish-Man Pirates!"
+    },
+    {
+     "runMapId": "5202",
+     "desc": "At Shirahoshi's request, Straw Hat Luffy finally takes the stage! A fierce battle breaks out between Luffy and Hody."
+    },
+    {
+     "runMapId": "5203",
+     "desc": "Facing Zeo's arrogant taunts, Zoro fearlessly takes on the Armored Corps, who boast a defense like an iron wall."
+    },
+    {
+     "runMapId": "5204",
+     "desc": "Daruma commands the New Fish-Man Pirates to attack Shirahoshi from the air, and Sanji shows off the fruits of his training: Sky Walk!"
+    },
+    {
+     "runMapId": "5205",
+     "desc": "Dosun orders the Artillery Corps to aim at Shirahoshi. Brook takes on the Artillery Corps and treats them to a night of revelry!"
+    },
+    {
+     "runMapId": "5206",
+     "desc": "Fish-Man Pirates surge toward Shirahoshi like a tide, and Robin holds them back with ease."
+    },
+    {
+     "runMapId": "5207",
+     "desc": "Franky unveils the Sunny's new weapon: the Iron Pirate! General Franky!"
+    },
+    {
+     "runMapId": "5208",
+     "desc": "Nami shows the fruits of her training in Weatheria, defeating enemies with her Sorcery Clima-Tact!"
+    },
+    {
+     "runMapId": "5209",
+     "desc": "After 2 years of desperate training, Usopp doesn't run from the enemy. He meets them as a brave warrior of the sea!"
+    },
+    {
+     "runMapId": "5210",
+     "desc": "Chopper, powered up by Kung Fu Point, faces Daruma in an underground showdown. Free of his worries, Chopper defeats Daruma!"
+    },
+    {
+     "runMapId": "5211",
+     "desc": "Zoro and Sanji clear a path for Luffy to reach Hody. The duel between captains finally begins!"
+    },
+    {
+     "runMapId": "5212",
+     "desc": "After Hody, Hyouzou also loses his mind to the Energy Steroids, becoming a killing machine in a life-or-death battle with Zoro!"
+    },
+    {
+     "runMapId": "5213",
+     "desc": "Nami attacks the New Fish-Man Pirates with her signature weather sorcery, but Zeo is secretly targeting her!"
+    },
+    {
+     "runMapId": "5214",
+     "desc": "At the critical moment when Nami falls into a trap, Brook and General Franky step in and battle Ikaros Much!"
+    },
+    {
+     "runMapId": "5215",
+     "desc": "Zeo, blending into his surroundings, unleashes his ultimate move on Brook, but Brook's Soul Sword is superior!"
+    },
+    {
+     "runMapId": "5216",
+     "desc": "Chopper and Usopp work in perfect harmony to take on Daruma and Dosun together!"
+    },
+    {
+     "runMapId": "5217",
+     "desc": "Robin lives up to Jinbe's trust and frees the human slaves. The enraged Fish-Man Pirates launch a fierce attack on Robin!"
+    },
+    {
+     "runMapId": "5218",
+     "desc": "Usopp carefully sets traps, catches Daruma in them and finishes off the enemy in style!"
+    },
+    {
+     "runMapId": "5219",
+     "desc": "Chopper shows off his self-controlled Monster form and easily sends Dosun flying!"
+    },
+    {
+     "runMapId": "5220",
+     "desc": "At the earnest request of Fukaboshi and Shirahoshi, Luffy and Hody begin their final battle!"
+    },
+    {
+     "runMapId": "5221",
+     "desc": "Caribou, who sneaked into the banquet, tries to kidnap the mermaid princess, but Luffy mercilessly crushes his ambitions!"
+    },
+    {
+     "runMapId": "5301",
+     "desc": "On a mysterious burning land, Luffy and the others meet a legendary creature: a dragon!"
+    },
+    {
+     "runMapId": "5302",
+     "desc": "The mysterious centaurs suddenly turn hostile, calling Luffy an intruder, and a brawl breaks out."
+    },
+    {
+     "runMapId": "5303",
+     "desc": "On the snowy back mountain, Brownbeard leads the centaur unit to intercept the Straw Hats crossing the lake!"
+    },
+    {
+     "runMapId": "5304",
+     "desc": "Nami and the others escape the detention room, and the commotion sets the PH Squad after them!"
+    },
+    {
+     "runMapId": "5305",
+     "desc": "The PH Squad relentlessly pursues them through the sealed laboratory, and Nami and the others have to fight back."
+    },
+    {
+     "runMapId": "5306",
+     "desc": "The Straw Hats fled into the Biscuit Room and met the giant children, and then the PH Squad caught up!"
+    },
+    {
+     "runMapId": "5307",
+     "desc": "Leaving the children with Chopper and Nami, Sanji and Franky volunteer to stay behind and stop the PH Squad."
+    },
+    {
+     "runMapId": "5308",
+     "desc": "A fierce clash breaks out at the laboratory's main gate between Seven Warlord Trafalgar Law and the G-5 Marines led by Smoker."
+    },
+    {
+     "runMapId": "5309",
+     "desc": "Tashigi is no match for Trafalgar. To protect his subordinates, Smoker fights Law fiercely."
+    },
+    {
+     "runMapId": "5310",
+     "desc": "Luffy and Chopper (Franky), heading off to take down Caesar, are attacked in the wild by a mysterious figure!"
+    },
+    {
+     "runMapId": "5311",
+     "desc": "The assassin brothers take a job from their master Caesar to wipe out the Straw Hats and the discarded pawn Brownbeard."
+    },
+    {
+     "runMapId": "5312",
+     "desc": "The assassin brothers are ordered to bring back Franky (Nami), and Luffy steps up to protect his crewmates! Trafalgar joins the fight against the assassin brothers too."
+    },
+    {
+     "runMapId": "5313",
+     "desc": "Following the battle plan, Luffy and the others reach the laboratory's main gate and run into the PH Squad."
+    },
+    {
+     "runMapId": "5314",
+     "desc": "The G-5 Marines entrenched at the laboratory's main gate spot the Straw Hats. A battle between pirates and Marines is unavoidable."
+    },
+    {
+     "runMapId": "5315",
+     "desc": "Smoker and Tashigi finally meet the Straw Hats again, but with their souls and bodies swapped, they can't use their full strength and are defeated by Luffy."
+    },
+    {
+     "runMapId": "5316",
+     "desc": "Caesar appears before everyone himself. To carry out the plan to kidnap Caesar, Luffy fights him fiercely."
+    },
+    {
+     "runMapId": "5317",
+     "desc": "The strange liquid Smiley suddenly falls from the sky! This poison-gas-spewing monster attacks everyone indiscriminately!"
+    },
+    {
+     "runMapId": "5318",
+     "desc": "Caesar comes to the abandoned shelter on the back mountain to take the children, but meets resistance from the Straw Hats."
+    },
+    {
+     "runMapId": "5319",
+     "desc": "Caesar reveals his true face to Brownbeard and moves to kill his former subordinate."
+    },
+    {
+     "runMapId": "5320",
+     "desc": "Having lured the children out of the cave with candy, Caesar intends to finish off the 3 battered survivors!"
+    },
+    {
+     "runMapId": "5401",
+     "desc": "Luffy, trying to find Caesar, is intercepted by the loyal PH Squad."
+    },
+    {
+     "runMapId": "5402",
+     "desc": "The G-5 Marines run into the Straw Hats in Building A, and of course the Marines won't let them off easily!"
+    },
+    {
+     "runMapId": "5403",
+     "desc": "In Building B, the G-5 Marines meet their savior, \"Demon Bamboo\" Vergo, only to be ruthlessly attacked by him."
+    },
+    {
+     "runMapId": "5404",
+     "desc": "The Marines crumble before Vergo, Tashigi is no match either, and Sanji arrives at the crucial moment."
+    },
+    {
+     "runMapId": "5405",
+     "desc": "Luffy finds Caesar in the lab. Caesar tries to avoid him, but Luffy strikes resolutely!"
+    },
+    {
+     "runMapId": "5406",
+     "desc": "To protect Caesar and his experiments, Monet stands between Caesar and Luffy, and Luffy's opponent becomes Monet."
+    },
+    {
+     "runMapId": "5407",
+     "desc": "Luffy falls into the garbage dump and happens to meet Momonosuke. They've barely climbed out when they run into a PH Squad patrol."
+    },
+    {
+     "runMapId": "5408",
+     "desc": "Zoro's group comes across a restless Wyvern on the way, and Kin'emon volunteers to slay the menace."
+    },
+    {
+     "runMapId": "5409",
+     "desc": "Mocha, brought back to the laboratory in a daze, is surrounded by the PH Squad. Chopper steps forward and helps her drive them off."
+    },
+    {
+     "runMapId": "5410",
+     "desc": "The children go berserk from candy withdrawal. Ignoring Chopper's earnest pleas, they brawl with him. Hurry and get all the children under control!"
+    },
+    {
+     "runMapId": "5411",
+     "desc": "Monet suddenly appears in the Biscuit Room and blocks everyone. With the Straw Hats holding her off, Mocha escapes safely. But Monet won't let them go easily!"
+    },
+    {
+     "runMapId": "5412",
+     "desc": "Believing Zoro won't fight a woman, Tashigi resolves to take on Monet herself, but she's no match for Monet."
+    },
+    {
+     "runMapId": "5413",
+     "desc": "With Tashigi in danger, Zoro, watching from the side, actually steps in. Caught off guard, Monet scrambles to face Zoro."
+    },
+    {
+     "runMapId": "5414",
+     "desc": "Vergo follows Law to Building D. He has seen through Law's plan and intends to stop him before it's too late."
+    },
+    {
+     "runMapId": "5415",
+     "desc": "Smoker's arrival throws Vergo off his rhythm, forcing him to deal with Smoker first."
+    },
+    {
+     "runMapId": "5416",
+     "desc": "Understanding Law's signal, Smoker uses his power as a feint, while really aiming to take back Law's heart."
+    },
+    {
+     "runMapId": "5417",
+     "desc": "Just as Caesar is about to deal Brownbeard a fatal blow, Luffy arrives at Building R in time. The final battle begins!"
+    },
+    {
+     "runMapId": "5418",
+     "desc": "Caesar is no match for Luffy. To boost his power, he ignores his subordinates' lives and has poison gas released into Building R..."
+    },
+    {
+     "runMapId": "5419",
+     "desc": "At the harbor of Punk Hazard, Franky meets an assassin who has come all the way from Dressrosa."
+    },
+    {
+     "runMapId": "5420",
+     "desc": "Having found Caesar's trail, Buffalo and Baby 5 are set on taking Caesar away, but Franky stands in their way."
+    },
+    {
+     "runMapId": "5421",
+     "desc": "Doflamingo, rushing in from Dressrosa, finds only Marines at the harbor, and he's going to take out his fury on them."
+    },
+    {
+     "runMapId": "5501",
+     "desc": "A burly man seems to have something he can't manage at the gambling table. Ignoring it isn't Luffy's style."
+    },
+    {
+     "runMapId": "5502",
+     "desc": "Franky finds one of Doflamingo's men in a corner of the city. Looks like his bright idea will take some muscle!"
+    },
+    {
+     "runMapId": "5503",
+     "desc": "The first challenger came sooner than expected. You can't reveal your identity, so deal with him quickly!"
+    },
+    {
+     "runMapId": "5504",
+     "desc": "Why does even watching a match lead to a fight? No choice but to take it on!"
+    },
+    {
+     "runMapId": "5505",
+     "desc": "The Block C match officially begins. Defeat the other contestants!"
+    },
+    {
+     "runMapId": "5506",
+     "desc": "There's a special fighter among the Block C contestants, and he seems strong. Let's trade a few blows!"
+    },
+    {
+     "runMapId": "5507",
+     "desc": "Jean Ango's behavior is giving Luffy a real headache. Hurry and beat him!"
+    },
+    {
+     "runMapId": "5508",
+     "desc": "In the arena, Don Chinjao attacks once again. Meet him head-on!"
+    },
+    {
+     "runMapId": "5509",
+     "desc": "After finally winning the match and before getting any rest, Cavendish, who knows Luffy's identity, appears. You don't understand Cavendish's anger, but you have to fight!"
+    },
+    {
+     "runMapId": "5510",
+     "desc": "Rebecca suddenly attacks Luffy. Defeat her!"
+    },
+    {
+     "runMapId": "5511",
+     "desc": "The legendary Fighting Fish has appeared as expected. Defeat it!"
+    },
+    {
+     "runMapId": "5512",
+     "desc": "How can you let untimely enemies interrupt a lovely date?"
+    },
+    {
+     "runMapId": "5513",
+     "desc": "Why are Doflamingo's men here? Deal with them!"
+    },
+    {
+     "runMapId": "5514",
+     "desc": "After dealing with several groups of troublemakers, this time the one who starts the fight is..."
+    },
+    {
+     "runMapId": "5515",
+     "desc": "No matter whose underlings they are, anyone who dares stand in the way of Sanji's pursuit of love will be defeated!"
+    },
+    {
+     "runMapId": "5516",
+     "desc": "As one of the Seven Warlords, Doflamingo can of course borrow the Marines' strength. The enemies are more numerous and stronger than expected!"
+    },
+    {
+     "runMapId": "5517",
+     "desc": "Doflamingo is hot on your heels. Don't get caught!"
+    },
+    {
+     "runMapId": "5518",
+     "desc": "A tough battle is unavoidable. Your opponent is Admiral Fujitora, carrying out the arrest order!"
+    },
+    {
+     "runMapId": "5519",
+     "desc": "Doflamingo flies toward the Thousand Sunny. With all their strongest fighters gone, do the Straw Hats stand a chance?"
+    },
+    {
+     "runMapId": "5520",
+     "desc": "Sanji has seen Law's obsession with Doflamingo, but can Law handle Doflamingo? It's come to this, so go all in!"
+    },
+    {
+     "runMapId": "5521",
+     "desc": "The match officially begins, and Rebecca must survive in a ring surrounded by strong foes!"
+    },
+    {
+     "runMapId": "5522",
+     "desc": "The Blaze Fruit has drawn in strong fighters, Rolling Logan among them, but victory will surely be Rebecca's!"
+    },
+    {
+     "runMapId": "5523",
+     "desc": "Fight for a happy life!"
+    },
+    {
+     "runMapId": "5524",
+     "desc": "Rebecca is starting to tire. Don't let up!"
+    },
+    {
+     "runMapId": "5525",
+     "desc": "Sleiman's sword is heavy and fast, but Rebecca has a reason she absolutely can't lose. Hold on!"
+    },
+    {
+     "runMapId": "5526",
+     "desc": "What's with the wind in the ring? Fight carefully!"
+    },
+    {
+     "runMapId": "5527",
+     "desc": "Admiral Fujitora is an opponent you can't underestimate!"
+    },
+    {
+     "runMapId": "5528",
+     "desc": "The battle isn't going well, and the Marines have arrived too. It's too much to handle!"
+    },
+    {
+     "runMapId": "5529",
+     "desc": "Bellamy, loyal to Doflamingo, was cruelly cast aside for failing to finish off \"Straw Hat\". Now Dellinger will purge him from the Donquixote Family."
+    },
+    {
+     "runMapId": "5530",
+     "desc": "That guy Kin'emon has brought a huge crowd of Doflamingo's men with him. Help him take care of them!"
+    },
+    {
+     "runMapId": "5601",
+     "desc": "Robin's group successfully sneaked into the underground trading port, but Doflamingo's men spotted them. Defeat them before they alert the others!"
+    },
+    {
+     "runMapId": "5602",
+     "desc": "For \"Operation SOP\" to succeed, Sugar must be knocked out, even by force!"
+    },
+    {
+     "runMapId": "5603",
+     "desc": "\"Operation SOP\" has been exposed! Escape from the furious Trebol's clutches!"
+    },
+    {
+     "runMapId": "5604",
+     "desc": "Trebol made it back to Sugar's side. Facing 2 top Family officers, Leo has to attack Sugar at all costs."
+    },
+    {
+     "runMapId": "5605",
+     "desc": "Robin bravely steps up and rescues Leo from danger at Trebol's hands!"
+    },
+    {
+     "runMapId": "5606",
+     "desc": "Usopp makes up his mind to face Sugar and Trebol to answer the Dwarves' call!"
+    },
+    {
+     "runMapId": "5607",
+     "desc": "Gladiators unhappy with the result of the last Block D match are wrecking the Colosseum. Stop them quickly!"
+    },
+    {
+     "runMapId": "5608",
+     "desc": "Diamante announces that the \"Blaze Fruit\" is on one of the Fighting Fish!! You have to get it!!"
+    },
+    {
+     "runMapId": "5609",
+     "desc": "You've finally found Fighting Fish No. 01 carrying the \"Blaze Fruit\". Defeat it and get the \"Blaze Fruit\"!"
+    },
+    {
+     "runMapId": "5610",
+     "desc": "Colosseum champion Diamante stands before the \"Blaze Fruit\". Defeat him!"
+    },
+    {
+     "runMapId": "5611",
+     "desc": "Rebecca is in danger now. Go save her!"
+    },
+    {
+     "runMapId": "5612",
+     "desc": "Fighting Fish No. 01 has appeared once more. This time you must get the \"Blaze Fruit\"!"
+    },
+    {
+     "runMapId": "5613",
+     "desc": "The giant \"Stone Human\" Pica blocks Luffy's group. Smash him!!"
+    },
+    {
+     "runMapId": "5614",
+     "desc": "Baby 5 is determined to avenge Doflamingo. Knock her down!"
+    },
+    {
+     "runMapId": "5615",
+     "desc": "Doflamingo suddenly appears and attacks Kyros. Stop him quickly!"
+    },
+    {
+     "runMapId": "5616",
+     "desc": "While fleeing the royal palace, Donquixote Family member Senor Pink blocks the way. Defeat him quickly!"
+    },
+    {
+     "runMapId": "5617",
+     "desc": "While fleeing the royal palace, Donquixote Family member Dellinger blocks the way. Defeat him quickly!"
+    },
+    {
+     "runMapId": "5618",
+     "desc": "Citizens tempted by the bounty block the way. Defeat them and escape with your life!"
+    },
+    {
+     "runMapId": "5619",
+     "desc": "The Marines have come to block the way. Defeat them!"
+    },
+    {
+     "runMapId": "5620",
+     "desc": "Admiral Fujitora is blocking your advance again. Give it everything to break through his blockade!"
+    },
+    {
+     "runMapId": "5621",
+     "desc": "Admiral Fujitora is blocking your advance again. Give it everything to break through his blockade!"
+    },
+    {
+     "runMapId": "5701",
+     "desc": "Drive off Doflamingo's men and storm the \"Toy House\"!"
+    },
+    {
+     "runMapId": "5702",
+     "desc": "Senor Pink of the Donquixote Family blocks the way. Defeat him quickly!"
+    },
+    {
+     "runMapId": "5703",
+     "desc": "More clueless guys are getting in the way. Defeat them and show your true Iron Man charm!"
+    },
+    {
+     "runMapId": "5704",
+     "desc": "The Marines suddenly appear. Go wild!"
+    },
+    {
+     "runMapId": "5705",
+     "desc": "Marine Vice Admiral Bastille comes in person. Settle it once and for all!"
+    },
+    {
+     "runMapId": "5706",
+     "desc": "Under attack from both Dellinger and the Marines at once, the situation takes a sudden turn for the worse!"
+    },
+    {
+     "runMapId": "5707",
+     "desc": "Quickly defeat the guys blocking the way and head for the factory!"
+    },
+    {
+     "runMapId": "5708",
+     "desc": "Nearby pirates have lost their minds over the huge bounties. Defeat them quickly!"
+    },
+    {
+     "runMapId": "5709",
+     "desc": "Senor Pink appears again. Defeat him!"
+    },
+    {
+     "runMapId": "5710",
+     "desc": "Pirates stirred up by Doflamingo are swarming in. Drive them off!"
+    },
+    {
+     "runMapId": "5711",
+     "desc": "Ignoring all advice, the hotheaded Marines intend to strike by force. Stop them!"
+    },
+    {
+     "runMapId": "5712",
+     "desc": "To stop Sabo, Bastille is determined to duel him. Defeat Bastille!"
+    },
+    {
+     "runMapId": "5713",
+     "desc": "Moved by the identity of the 3 brothers, Admiral Fujitora stands before Sabo. Defeat him!"
+    },
+    {
+     "runMapId": "5714",
+     "desc": "Enraged by Luffy, Pica unleashes astonishing power. Break his offensive!"
+    },
+    {
+     "runMapId": "5715",
+     "desc": "The stirred-up fanatical pirates appear again. Don't let them get in the way!"
+    },
+    {
+     "runMapId": "5716",
+     "desc": "Doflamingo's men are blocking the road to the royal palace. Send them flying!"
+    },
+    {
+     "runMapId": "5717",
+     "desc": "Cover Luffy's advance on the royal palace! The final showdown between Zoro and Pica finally begins!"
+    },
+    {
+     "runMapId": "5718",
+     "desc": "Pica has finally revealed his true form. Slice him apart!"
+    },
+    {
+     "runMapId": "5719",
+     "desc": "Mocked by Luffy once again, Pica is livid. A great battle is about to erupt!"
+    },
+    {
+     "runMapId": "5801",
+     "desc": "Doflamingo's men block the road to the first level. Defeat them and be the first to arrive!"
+    },
+    {
+     "runMapId": "5802",
+     "desc": "You've fallen into Doflamingo's trap. Escape his clutches fast!"
+    },
+    {
+     "runMapId": "5803",
+     "desc": "Stop Baby 5 so Luffy can keep moving forward!"
+    },
+    {
+     "runMapId": "5804",
+     "desc": "A battle between the Happo Navy's old and new Dons! Both sides have principles they can't give up!!"
+    },
+    {
+     "runMapId": "5805",
+     "desc": "After breaking through the ring of Doflamingo's men, terrifying giant toy soldiers come into view. Crush them!"
+    },
+    {
+     "runMapId": "5806",
+     "desc": "So Luffy and the others can go all out against Doflamingo, Robin's group stands in Gladius's way."
+    },
+    {
+     "runMapId": "5807",
+     "desc": "Gladius is unusually hard to deal with! Defeat him quickly and regroup with Luffy!"
+    },
+    {
+     "runMapId": "5808",
+     "desc": "To regroup with Luffy, Rebecca reaches the royal palace plateau on the fourth level, but Diamante blocks her way."
+    },
+    {
+     "runMapId": "5809",
+     "desc": "Kyros arrives in time to save Rebecca from danger, and now he'll settle things with his nemesis himself!"
+    },
+    {
+     "runMapId": "5810",
+     "desc": "Kyros's rage at Diamante has hit its limit! Finish his nemesis in a single blow!"
+    },
+    {
+     "runMapId": "5811",
+     "desc": "Doflamingo hides behind and controls Bellamy to attack Luffy's group! Stop Bellamy!"
+    },
+    {
+     "runMapId": "5812",
+     "desc": "Luffy can't hold back and unleashes the secret plan he and Law came up with on the way to the palace. This time, Mingo is going flying!"
+    },
+    {
+     "runMapId": "5813",
+     "desc": "Is Doflamingo's noble bloodline the source of his strength?! Whatever the case, you must beat him!"
+    },
+    {
+     "runMapId": "5814",
+     "desc": "Let Doflamingo taste the power of the \"Op-Op Fruit\"!!"
+    },
+    {
+     "runMapId": "5815",
+     "desc": "Bellamy, controlled by Doflamingo, is charging at Luffy. Danger!"
+    },
+    {
+     "runMapId": "5816",
+     "desc": "You can't delay any longer! Stop Bellamy first, then regroup with Traffy!"
+    },
+    {
+     "runMapId": "5817",
+     "desc": "Facing the double onslaught of Doflamingo and Trebol, you must hold on!"
+    },
+    {
+     "runMapId": "5818",
+     "desc": "Bellamy and Traffy have fallen one after the other. Unleash all your fury!!"
+    },
+    {
+     "runMapId": "5819",
+     "desc": "Doflamingo fell for it! Use the secret plan to turn the tables!"
+    },
+    {
+     "runMapId": "5820",
+     "desc": "Doflamingo is still alive! Traffy is in danger. Protect him quickly!!"
+    },
+    {
+     "runMapId": "5821",
+     "desc": "Held back by Trebol's slime, break free quickly!"
+    },
+    {
+     "runMapId": "5822",
+     "desc": "Trebol is enraged. Expose his true face!"
+    },
+    {
+     "runMapId": "5901",
+     "desc": "Luffy entrusts the badly wounded Law to Robin's group, but Doflamingo suddenly attacks Law."
+    },
+    {
+     "runMapId": "5902",
+     "desc": "For the innocent people! For crying friends! \"Gear Fourth\"!! Send every troublemaker flying!!!"
+    },
+    {
+     "runMapId": "5903",
+     "desc": "For Straw Hat to defeat Doflamingo, you must buy 10 minutes!"
+    },
+    {
+     "runMapId": "5904",
+     "desc": "Doflamingo's men block the citizens fleeing to the old royal palace. Defeat them!"
+    },
+    {
+     "runMapId": "5905",
+     "desc": "To protect Rebecca, Viola will settle things with Doflamingo once and for all."
+    },
+    {
+     "runMapId": "5906",
+     "desc": "Doflamingo controls Rebecca to attack Viola. You can't let family turn on each other!"
+    },
+    {
+     "runMapId": "5907",
+     "desc": "Luffy has finally recovered. This time, KO Doflamingo in one blow!!!! Save Dressrosa!!!"
+    },
+    {
+     "runMapId": "5908",
+     "desc": "The Marines have finally begun their arrest operation. You absolutely can't let them catch you!"
+    },
+    {
+     "runMapId": "5909",
+     "desc": "Break out of the Marine encirclement! There's still something you must do in Dressrosa!!"
+    },
+    {
+     "runMapId": "5910",
+     "desc": "You must bring Rebecca to that place! No one can stop you before then!"
+    },
+    {
+     "runMapId": "5912",
+     "desc": "While you wait for your crewmates who haven't arrived yet, Admiral Fujitora shows up. Hurry! Luffy!!"
+    },
+    {
+     "runMapId": "5913",
+     "desc": "If I don't beat that guy here, I'll never become the Pirate King!!"
+    },
+    {
+     "runMapId": "6001",
+     "desc": "The moment you enter Zou, a mysterious creature attacks. Zoro fights back!"
+    },
+    {
+     "runMapId": "6002",
+     "desc": "Luffy, searching everywhere for his crewmates, is stopped by someone in the forest..."
+    },
+    {
+     "runMapId": "6003",
+     "desc": "The Beast Pirates have broken through Zou's gates. Defeat these invaders!"
+    },
+    {
+     "runMapId": "6004",
+     "desc": "The Beast Pirates are wreaking havoc on the Mokomo Dukedom. To protect the citizens, the Musketeers join the battle!"
+    },
+    {
+     "runMapId": "6005",
+     "desc": "The Beast Pirates have angered the Three Musketeers, and Lion Leon decides to crush them with everything he has!"
+    },
+    {
+     "runMapId": "6006",
+     "desc": "Against the unreasonable Jack the Drought, there's no choice but to fight! To protect the nation, Duke Inuarashi fights with all his might!"
+    },
+    {
+     "runMapId": "6007",
+     "desc": "The sun sets and the moon rises. Nekomamushi, the man who waits for nightfall, joins the battlefield and fights Jack in Duke Inuarashi's place!"
+    },
+    {
+     "runMapId": "6008",
+     "desc": "The sun sets and the moon rises. Nekomamushi, the man who waits for nightfall, joins the battlefield and fights Jack in Duke Inuarashi's place!"
+    },
+    {
+     "runMapId": "6009",
+     "desc": "Nami's group lands on Zou, but what awaits them is a ravaged nation and the pirate Sheepshead hunting down its citizens!"
+    },
+    {
+     "runMapId": "6010",
+     "desc": "To cover Nami and the fleeing Minks, Brook intercepts the pursuing Sheepshead!"
+    },
+    {
+     "runMapId": "6011",
+     "desc": "To cover Nami and the fleeing Minks, Brook intercepts the pursuing Sheepshead!"
+    },
+    {
+     "runMapId": "6012",
+     "desc": "In her distress, Wanda mistakes Nami's group for Jack's accomplices and attacks them. Stop the furious Wanda!"
+    },
+    {
+     "runMapId": "6013",
+     "desc": "Facing the great benefactor who saved his homeland, Pekoms means to let Sanji go, but is attacked from behind by Capone..."
+    },
+    {
+     "runMapId": "6014",
+     "desc": "After freeing his crewmates from Capone's control, Sanji stays behind, resolved to face it all alone!"
+    },
+    {
+     "runMapId": "6015",
+     "desc": "Jack the Drought has come back, and he's attacking Zunesha! Protect Zunesha and stop him!"
+    },
+    {
+     "runMapId": "6016",
+     "desc": "Given permission to fight, Zunesha strikes back to drive Jack away!"
+    },
+    {
+     "runMapId": "6017",
+     "desc": "Remnants of the Beast Pirates are still entrenched on the island. Drive them out!"
+    },
+    {
+     "runMapId": "6018",
+     "desc": "Remnants of the Beast Pirates are still entrenched on the island. Drive them out!"
+    },
+    {
+     "runMapId": "6019",
+     "desc": "Remnants of the Beast Pirates are still entrenched on the island. Drive them out!"
+    },
+    {
+     "runMapId": "6101",
+     "desc": "While searching for Sanji, another Luffy appears before the Straw Hats. A chaotic battle breaks out between Luffy and Luffy!"
+    }
+   ],
+   "other_bundle_rows": [],
+   "partial": "578/899 rows translated so far"
+  },
   "TableRaidSweepEpisode": {
    "key_column": "sweepEpisodeId",
    "text_columns": [
