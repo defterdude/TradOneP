@@ -764,6 +764,23 @@
     }
    ]
   },
+  "TableAchievementConditionShow": {
+   "key_column": "id",
+   "text_columns": [
+    "descri",
+    "title"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "197",
+     "descri": "Unlock Pudding's Flying Carpet and Wedding Dress skins",
+     "title": "\"Pudding\""
+    }
+   ],
+   "other_bundle_rows": []
+  },
   "TableActivityEntrance": {
    "key_column": "typeId",
    "text_columns": [
@@ -781,8 +798,20 @@
      "name": "Treasure Hunt"
     },
     {
+     "typeId": "10040",
+     "name": "Lucky Wheel"
+    },
+    {
+     "typeId": "10057",
+     "name": "Sea Beast Capture"
+    },
+    {
      "typeId": "10059",
      "name": "Secret Realm Trial"
+    },
+    {
+     "typeId": "10093",
+     "name": "Route Interception"
     },
     {
      "typeId": "10092",
@@ -793,12 +822,152 @@
      "name": "Guild Boss Battle"
     },
     {
+     "typeId": "10095",
+     "name": "Peak Arena Tournament"
+    },
+    {
+     "typeId": "10064",
+     "name": "Puzzle Mode"
+    },
+    {
      "typeId": "10103",
      "name": "Surprise Wheel"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "6/13 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "typeId": "10040",
+     "name": "Wheel"
+    },
+    {
+     "typeId": "10087",
+     "name": "Celebration Challenge"
+    }
+   ]
+  },
+  "TableActivityWeekPVPTask": {
+   "key_column": "id",
+   "text_columns": [
+    "text"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "text": "Defeat opponents in Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "2",
+     "text": "Join Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "3",
+     "text": "Join Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "4",
+     "text": "Join Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "5",
+     "text": "Join Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "6",
+     "text": "Join Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "7",
+     "text": "Join Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "8",
+     "text": "Join Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "9",
+     "text": "Win {0} in a row in Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "10",
+     "text": "Win {0} in a row in Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "11",
+     "text": "Win {0} in a row in Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "12",
+     "text": "Win {0} in a row in Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "13",
+     "text": "Win {0} in a row in Ladder Peak Match or Ladder Glory Match"
+    },
+    {
+     "id": "14",
+     "text": "Win {0} in a row in Ladder Peak Match or Ladder Glory Match"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "text": "Defeat opponents in Ladder"
+    },
+    {
+     "id": "2",
+     "text": "Join Ladder"
+    },
+    {
+     "id": "3",
+     "text": "Join Ladder"
+    },
+    {
+     "id": "4",
+     "text": "Join Ladder"
+    },
+    {
+     "id": "5",
+     "text": "Join Ladder"
+    },
+    {
+     "id": "6",
+     "text": "Join Ladder"
+    },
+    {
+     "id": "7",
+     "text": "Join Ladder"
+    },
+    {
+     "id": "8",
+     "text": "Join Ladder"
+    },
+    {
+     "id": "9",
+     "text": "Win {0} in a row in Ladder"
+    },
+    {
+     "id": "10",
+     "text": "Win {0} in a row in Ladder"
+    },
+    {
+     "id": "11",
+     "text": "Win {0} in a row in Ladder"
+    },
+    {
+     "id": "12",
+     "text": "Win {0} in a row in Ladder"
+    },
+    {
+     "id": "13",
+     "text": "Win {0} in a row in Ladder"
+    },
+    {
+     "id": "14",
+     "text": "Win {0} in a row in Ladder"
+    }
+   ]
   },
   "TableActivtyStrengthType": {
    "key_column": "typeId",
@@ -1257,6 +1426,92 @@
     }
    ]
   },
+  "TableAttainmentBlessTalk": {
+   "key_column": "Id",
+   "text_columns": [
+    "text"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "Id": "1",
+     "text": "Welcome~"
+    },
+    {
+     "Id": "2",
+     "text": "So many prizes! Come try your luck!"
+    },
+    {
+     "Id": "3",
+     "text": "Great, you won a prize!"
+    },
+    {
+     "Id": "4",
+     "text": "So close to the grand prize, try again."
+    },
+    {
+     "Id": "5",
+     "text": "You're getting closer to the grand prize, keep it up!"
+    },
+    {
+     "Id": "6",
+     "text": "Wow! You won the grand prize! Your luck is amazing!"
+    }
+   ]
+  },
+  "TableAttainmentSubPage": {
+   "key_column": "id",
+   "text_columns": [
+    "buttonText",
+    "MessageTips"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "buttonText": "<color=#C85918>Warm Winter Sun</color>;<color=#7B685D>Quests Closed</color>",
+     "MessageTips": "Event not open"
+    },
+    {
+     "id": "2",
+     "buttonText": "<color=#C85918>Phase Quests Open</color>;<color=#7B686D>Phase Quests Closed</color>",
+     "MessageTips": "Event not open"
+    },
+    {
+     "id": "3",
+     "buttonText": "<color=#C85918>Wishing Tree</color>;<color=#7B686D>Wishing Tree</color>",
+     "MessageTips": "Event not open"
+    },
+    {
+     "id": "4",
+     "buttonText": "<color=#C85918>Progress Bar Open</color>;<color=#7B686D>Progress Bar Closed</color>",
+     "MessageTips": "Event not open"
+    },
+    {
+     "id": "5",
+     "buttonText": "Check In",
+     "MessageTips": "Event not open"
+    },
+    {
+     "id": "6",
+     "buttonText": "<color=#C85918>Shop Open</color>;<color=#7B686D>Shop Closed</color>",
+     "MessageTips": "Event not open"
+    },
+    {
+     "id": "7",
+     "buttonText": "<color=#C85918>Route Expedition</color>;<color=#7B686D>Route Expedition</color>",
+     "MessageTips": "Event not open"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "buttonText": "<color=#C85918>Summer Journey</color>;<color=#7B685D>Quests Closed</color>",
+     "MessageTips": "Event not open"
+    }
+   ]
+  },
   "TableAttainmentTask": {
    "key_column": "Id",
    "text_columns": [
@@ -1357,6 +1612,56 @@
     }
    ]
   },
+  "TableAttainmentTaskTab": {
+   "key_column": "Id",
+   "text_columns": [
+    "buttonName",
+    "selectText",
+    "lockText",
+    "lockMessageBox"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "Id": "1",
+     "buttonName": "Daily Quests",
+     "selectText": "Daily quests refresh at 0:00",
+     "lockText": "",
+     "lockMessageBox": ""
+    },
+    {
+     "Id": "2",
+     "buttonName": "Period Quests",
+     "selectText": "This event period ends on 12/3/2025",
+     "lockText": "",
+     "lockMessageBox": ""
+    },
+    {
+     "Id": "1001",
+     "buttonName": "Phase Quests 1",
+     "selectText": "",
+     "lockText": "",
+     "lockMessageBox": ""
+    },
+    {
+     "Id": "1002",
+     "buttonName": "Phase Quests 2",
+     "selectText": "",
+     "lockText": "Unlocks after completing the previous phase's quests",
+     "lockMessageBox": "Unlocks after completing all quests in the previous phase"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "Id": "2",
+     "buttonName": "Period Quests",
+     "selectText": "This event period ends on 8/30/2023",
+     "lockText": "",
+     "lockMessageBox": ""
+    }
+   ]
+  },
   "TableAttainmentUIConfig": {
    "key_column": "id",
    "text_columns": [
@@ -1365,19 +1670,115 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "id": "mainPageTime",
+     "value": "Event ends: {0}/{1}/{2} {3}:{4}                 Time Left"
+    },
+    {
      "id": "mainPageTimeDay",
      "value": "{0} days"
+    },
+    {
+     "id": "mainPageTimeMin",
+     "value": "1 hour"
     },
     {
      "id": "mainPageTimeHour",
      "value": "{0} hours"
     },
     {
+     "id": "error",
+     "value": "SC data error"
+    },
+    {
      "id": "blessRemain",
      "value": "{0} left"
+    },
+    {
+     "id": "BlessIsFree",
+     "value": "This draw is free"
+    },
+    {
+     "id": "BlessToFreeTime",
+     "value": "Free in {0}:{1}"
+    },
+    {
+     "id": "randomTenButtonText",
+     "value": "Draw {0}x"
+    },
+    {
+     "id": "blessItemRemainInfinite",
+     "value": "∞ left"
     }
+   ]
+  },
+  "TableBeastPiratesBattleIntent": {
+   "key_column": "id",
+   "text_columns": [
+    "unlockInfo"
    ],
-   "partial": "3/10 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "unlockInfo": "Will to Fight"
+    },
+    {
+     "id": "2",
+     "unlockInfo": "Encouragement from Comrades"
+    },
+    {
+     "id": "3",
+     "unlockInfo": "Confidence of the Strong"
+    },
+    {
+     "id": "4",
+     "unlockInfo": "Mutual Bonds"
+    },
+    {
+     "id": "5",
+     "unlockInfo": "Resolve to Win"
+    },
+    {
+     "id": "6",
+     "unlockInfo": "Will to Fight"
+    },
+    {
+     "id": "7",
+     "unlockInfo": "Encouragement from Comrades"
+    },
+    {
+     "id": "8",
+     "unlockInfo": "Confidence of the Strong"
+    },
+    {
+     "id": "9",
+     "unlockInfo": "Mutual Bonds"
+    },
+    {
+     "id": "10",
+     "unlockInfo": "Resolve to Win"
+    },
+    {
+     "id": "11",
+     "unlockInfo": "Will to Fight"
+    },
+    {
+     "id": "12",
+     "unlockInfo": "Encouragement from Comrades"
+    },
+    {
+     "id": "13",
+     "unlockInfo": "Confidence of the Strong"
+    },
+    {
+     "id": "14",
+     "unlockInfo": "Mutual Bonds"
+    },
+    {
+     "id": "15",
+     "unlockInfo": "Resolve to Win"
+    }
+   ]
   },
   "TableBeastPiratesPassTask": {
    "key_column": "id",
@@ -1762,6 +2163,23 @@
     }
    ]
   },
+  "TableBeastPiratesSpecialDonate": {
+   "key_column": "id",
+   "text_columns": [
+    "volitionInfo"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "volitionInfo": "Gain 2 Contribution"
+    },
+    {
+     "id": "2",
+     "volitionInfo": "Gain 3 Fighting Spirit"
+    }
+   ]
+  },
   "TableBeastPiratesStage": {
    "key_column": "stageId",
    "text_columns": [
@@ -1771,6 +2189,11 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "stageId": "1",
+     "name": "Tower Challenge",
+     "desc": "Tower"
+    },
+    {
      "stageId": "2",
      "name": "Elite Bounty",
      "desc": "Bounty"
@@ -1779,6 +2202,16 @@
      "stageId": "3",
      "name": "Stronghold Clash",
      "desc": "Outpost"
+    },
+    {
+     "stageId": "4",
+     "name": "Final Showdown",
+     "desc": "Server-Wide"
+    },
+    {
+     "stageId": "5",
+     "name": "Tower Challenge",
+     "desc": "Tower"
     },
     {
      "stageId": "6",
@@ -1795,8 +2228,7 @@
      "name": "Trial of God",
      "desc": "Guild"
     }
-   ],
-   "partial": "5/8 rows translated so far"
+   ]
   },
   "TableBeastPiratesStronghold": {
    "key_column": "id",
@@ -2002,6 +2434,35 @@
     }
    ]
   },
+  "TableBeastPiratesStrongholdReport": {
+   "key_column": "id",
+   "text_columns": [
+    "Text"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "Text": "{0} stronghold is open"
+    },
+    {
+     "id": "2",
+     "Text": "{0} stronghold has been subjugated. The top contributing guild is {1}"
+    },
+    {
+     "id": "3",
+     "Text": "Your guild has completed today's goal for {0} stronghold! Gained {1} bonus points!"
+    },
+    {
+     "id": "4",
+     "Text": "Player {0} completed the guild goal in {1} stronghold, adding {2} points to the guild!"
+    },
+    {
+     "id": "5",
+     "Text": "The event is complete. Thank you to every player for taking part!"
+    }
+   ]
+  },
   "TableBlessTask": {
    "key_column": "id",
    "text_columns": [
@@ -2010,6 +2471,11 @@
    ],
    "content_diverges_between_bundles": false,
    "rows": [
+    {
+     "id": "1",
+     "description": "Make 1 successful wish",
+     "title": "Wish Event"
+    },
     {
      "id": "2",
      "description": "Complete {0} Guild Quests",
@@ -2024,9 +2490,23 @@
      "id": "4",
      "description": "Complete {0} Daily Quests",
      "title": "Daily Quests"
+    },
+    {
+     "id": "5",
+     "description": "Complete Story Replay (Hard) {0} times",
+     "title": "Story Replay"
+    },
+    {
+     "id": "6",
+     "description": "Join {0} Glory Matches or Peak Arena matches",
+     "title": "Ladder"
+    },
+    {
+     "id": "7",
+     "description": "Do {0} non-Normal recruits",
+     "title": "Partner Recruit"
     }
-   ],
-   "partial": "3/7 rows translated so far"
+   ]
   },
   "TableBountyCommandHelp": {
    "key_column": "id",
@@ -2237,7 +2717,7 @@
     {
      "id": "30",
      "text": "You reckless fool, you dare kidnap me? Just wait until my men hunt you down!",
-     "replyText": "……"
+     "replyText": "..."
     },
     {
      "id": "31",
@@ -2312,7 +2792,7 @@
     {
      "id": "45",
      "text": "I'm only taking you to prison for the bounty. I hope you'll stop killing people so carelessly from now on.",
-     "replyText": "……"
+     "replyText": "..."
     },
     {
      "id": "46",
@@ -2451,6 +2931,23 @@
     }
    ]
   },
+  "TableBoxRecruitPoolType": {
+   "key_column": "type",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "type": "1",
+     "desc": "Normal Chest"
+    },
+    {
+     "type": "2",
+     "desc": "Key Chest"
+    }
+   ]
+  },
   "TableCarnivalItemData": {
    "key_column": "id",
    "text_columns": [
@@ -2523,15 +3020,30 @@
      "actName": "Hero Trial"
     },
     {
+     "id": "10022018",
+     "actName": "Guild Sea Battle"
+    },
+    {
      "id": "10022019",
      "actName": "Guild Donation"
     },
     {
      "id": "10022020",
      "actName": "Make Medicine"
+    },
+    {
+     "id": "10022021",
+     "actName": "Break Down Herbs"
+    },
+    {
+     "id": "10022022",
+     "actName": "Make Parts"
+    },
+    {
+     "id": "10022023",
+     "actName": "Refine Materials"
     }
-   ],
-   "partial": "18/22 rows translated so far"
+   ]
   },
   "TableCarnivalTask": {
    "key_column": "taskId",
@@ -4260,6 +4772,30 @@
     {
      "taskGroupId": "22",
      "groupName": "Day 8"
+    },
+    {
+     "taskGroupId": "23",
+     "groupName": "Day 9"
+    },
+    {
+     "taskGroupId": "24",
+     "groupName": "Day 10"
+    },
+    {
+     "taskGroupId": "25",
+     "groupName": "Day 11"
+    },
+    {
+     "taskGroupId": "26",
+     "groupName": "Day 12"
+    },
+    {
+     "taskGroupId": "27",
+     "groupName": "Day 13"
+    },
+    {
+     "taskGroupId": "28",
+     "groupName": "Day 14"
     }
    ],
    "other_bundle_rows": [
@@ -4322,9 +4858,32 @@
     {
      "taskGroupId": "36",
      "groupName": "Day 8"
+    },
+    {
+     "taskGroupId": "37",
+     "groupName": "Day 9"
+    },
+    {
+     "taskGroupId": "38",
+     "groupName": "Day 10"
+    },
+    {
+     "taskGroupId": "39",
+     "groupName": "Day 11"
+    },
+    {
+     "taskGroupId": "40",
+     "groupName": "Day 12"
+    },
+    {
+     "taskGroupId": "41",
+     "groupName": "Day 13"
+    },
+    {
+     "taskGroupId": "42",
+     "groupName": "Day 14"
     }
-   ],
-   "partial": "37/49 rows translated so far"
+   ]
   },
   "TableCelebrationFightUIConfig": {
    "key_column": "id",
@@ -4334,6 +4893,26 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "id": "1",
+     "value": "Please select a stage first"
+    },
+    {
+     "id": "3",
+     "value": "Reward drops:"
+    },
+    {
+     "id": "5",
+     "value": "Clear Normal difficulty {0} to unlock Challenge difficulty"
+    },
+    {
+     "id": "6",
+     "value": "Too many buffs selected"
+    },
+    {
+     "id": "7",
+     "value": "Buffs saved"
+    },
+    {
      "id": "11",
      "value": "Not enough challenge attempts"
     },
@@ -4341,8 +4920,82 @@
      "id": "12",
      "value": "Clear the previous stage first"
     }
+   ]
+  },
+  "TableCelebrationPersonGiftLimit": {
+   "key_column": "giftId",
+   "text_columns": [
+    "discountText"
    ],
-   "partial": "2/7 rows translated so far"
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "giftId": "9900119",
+     "discountText": "600% Value"
+    },
+    {
+     "giftId": "9900120",
+     "discountText": "600% Value"
+    },
+    {
+     "giftId": "9900121",
+     "discountText": "500% Value"
+    },
+    {
+     "giftId": "9900122",
+     "discountText": "500% Value"
+    },
+    {
+     "giftId": "9900123",
+     "discountText": "400% Value"
+    },
+    {
+     "giftId": "9900124",
+     "discountText": "300% Value"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "giftId": "9900020",
+     "discountText": "600% Deal"
+    },
+    {
+     "giftId": "9900021",
+     "discountText": "500% Deal"
+    },
+    {
+     "giftId": "9900022",
+     "discountText": "400% Deal"
+    },
+    {
+     "giftId": "9900023",
+     "discountText": "400% Deal"
+    }
+   ]
+  },
+  "TableCelebrationPersonOpen": {
+   "key_column": "seasonId",
+   "text_columns": [
+    "tryTitle",
+    "battlePassTitle"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "seasonId": "1",
+     "tryTitle": "<size=30>Character</size> Trial",
+     "battlePassTitle": "<size=30>Freedom</size> Battle Pass"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "seasonId": "1",
+     "tryTitle": "<size=30>Character</size> Trial",
+     "battlePassTitle": "<size=30>Justice</size> Battle Pass"
+    }
+   ]
   },
   "TableCelebrationPersonPassLev": {
    "key_column": "level",
@@ -4675,6 +5328,62 @@
    ],
    "other_bundle_rows": []
   },
+  "TableCelebrationPersonPassPay": {
+   "key_column": "id",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "desc": "Unlock Premium Battle Pass 198"
+    },
+    {
+     "id": "2",
+     "desc": "Unlock Premium Battle Pass 168"
+    },
+    {
+     "id": "3",
+     "desc": "Unlock Premium Battle Pass 328"
+    },
+    {
+     "id": "4",
+     "desc": "Buy 1 level"
+    },
+    {
+     "id": "5",
+     "desc": "Buy 5 levels"
+    },
+    {
+     "id": "7",
+     "desc": "Buy 20 levels"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "desc": "Unlock Premium Battle Pass 168"
+    },
+    {
+     "id": "2",
+     "desc": "Unlock Premium Battle Pass 198"
+    },
+    {
+     "id": "3",
+     "desc": "Buy 1 level"
+    },
+    {
+     "id": "4",
+     "desc": "Buy 5 levels"
+    },
+    {
+     "id": "6",
+     "desc": "Buy 20 levels"
+    }
+   ]
+  },
   "TableCelebrationPersonPassTask": {
    "key_column": "taskId",
    "text_columns": [
@@ -4770,6 +5479,55 @@
    ],
    "other_bundle_rows": []
   },
+  "TableCelebrationPersonTrialStage": {
+   "key_column": "stageId",
+   "text_columns": [
+    "name",
+    "title",
+    "desc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "stageId": "1001",
+     "name": "Stage 1",
+     "title": "Basic Tutorial",
+     "desc": "Basic Combat"
+    },
+    {
+     "stageId": "1002",
+     "name": "Stage 2",
+     "title": "Advanced Tutorial",
+     "desc": "Use the Ultimate [Kong Gun] to crush the enemies"
+    },
+    {
+     "stageId": "1003",
+     "name": "Stage 3",
+     "title": "Free Practice",
+     "desc": "Fight freely and crush the enemies"
+    },
+    {
+     "stageId": "1004",
+     "name": "Stage 1",
+     "title": "Basic Tutorial",
+     "desc": "Basic Combat"
+    },
+    {
+     "stageId": "1005",
+     "name": "Stage 2",
+     "title": "Advanced Tutorial",
+     "desc": "Use the Ultimate [Kong Gun] to crush the enemies"
+    },
+    {
+     "stageId": "1006",
+     "name": "Stage 3",
+     "title": "Free Practice",
+     "desc": "Fight freely and crush the enemies"
+    }
+   ],
+   "other_bundle_rows": []
+  },
   "TableChatConfig": {
    "key_column": "channelId",
    "text_columns": [
@@ -4810,11 +5568,54 @@
      "channelName": "Sea Battle"
     },
     {
+     "channelId": "8",
+     "channelName": "Sea Battle System"
+    },
+    {
+     "channelId": "9",
+     "channelName": "Sea Battle Faction"
+    },
+    {
      "channelId": "11",
      "channelName": "Island Conquest"
     }
+   ]
+  },
+  "TableChatPrefix": {
+   "key_column": "prefixId",
+   "text_columns": [
+    "identityText"
    ],
-   "partial": "9/11 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "prefixId": "1",
+     "identityText": "<color=#d46eaa>Newbie Guide · </color>"
+    }
+   ]
+  },
+  "TableCionInfo": {
+   "key_column": "id",
+   "text_columns": [
+    "getWay"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [],
+   "other_bundle_rows": [
+    {
+     "id": "3",
+     "getWay": "Story Replay|4;Character Stories|6"
+    },
+    {
+     "id": "5",
+     "getWay": "Daily Quests|1;Bounty Quests|2;Expeditions|9;Golden Trial|38;Blood Battle|102"
+    },
+    {
+     "id": "7",
+     "getWay": "Daily Quests|1;Bounty Quests|2;Voyage Tower|33"
+    }
+   ]
   },
   "TableCollectionActivity": {
    "key_column": "Id",
@@ -4830,9 +5631,206 @@
     {
      "Id": "2",
      "taskName": "Event Dungeons"
+    },
+    {
+     "Id": "3",
+     "taskName": "Obtain Items"
+    },
+    {
+     "Id": "4",
+     "taskName": "Consume Items"
     }
+   ]
+  },
+  "TableDeclareValue": {
+   "key_column": "id",
+   "text_columns": [
+    "showText"
    ],
-   "partial": "2/4 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "showText": "Ladder battle (win or lose)"
+    },
+    {
+     "id": "2",
+     "showText": "Ladder revenge (win or lose)"
+    },
+    {
+     "id": "3",
+     "showText": "Field battle (win or lose)"
+    },
+    {
+     "id": "4",
+     "showText": "Daily decrease"
+    },
+    {
+     "id": "5",
+     "showText": "Complete a duel (win or lose)"
+    },
+    {
+     "id": "6",
+     "showText": "Guild member Ladder battle (win or lose)"
+    },
+    {
+     "id": "7",
+     "showText": "Guild member Ladder revenge (win or lose)"
+    },
+    {
+     "id": "8",
+     "showText": "Guild member field battle (win or lose)"
+    },
+    {
+     "id": "9",
+     "showText": "Daily decrease"
+    },
+    {
+     "id": "10",
+     "showText": "Complete a duel (win or lose)"
+    }
+   ]
+  },
+  "TableDesperateChallengeRankReward": {
+   "key_column": "id",
+   "text_columns": [
+    "text"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "6",
+     "text": "A Tier"
+    },
+    {
+     "id": "7",
+     "text": "A Tier"
+    },
+    {
+     "id": "8",
+     "text": "A Tier"
+    },
+    {
+     "id": "9",
+     "text": "A Tier"
+    },
+    {
+     "id": "10",
+     "text": "A Tier"
+    },
+    {
+     "id": "11",
+     "text": "A Tier"
+    },
+    {
+     "id": "12",
+     "text": "A Tier"
+    },
+    {
+     "id": "13",
+     "text": "S Tier"
+    },
+    {
+     "id": "14",
+     "text": "S Tier"
+    },
+    {
+     "id": "15",
+     "text": "S Tier"
+    },
+    {
+     "id": "16",
+     "text": "S Tier"
+    },
+    {
+     "id": "17",
+     "text": "S Tier"
+    },
+    {
+     "id": "18",
+     "text": "S Tier"
+    },
+    {
+     "id": "19",
+     "text": "S Tier"
+    },
+    {
+     "id": "20",
+     "text": "A Tier"
+    },
+    {
+     "id": "21",
+     "text": "A Tier"
+    },
+    {
+     "id": "22",
+     "text": "A Tier"
+    },
+    {
+     "id": "23",
+     "text": "A Tier"
+    },
+    {
+     "id": "24",
+     "text": "A Tier"
+    },
+    {
+     "id": "25",
+     "text": "A Tier"
+    },
+    {
+     "id": "26",
+     "text": "A Tier"
+    },
+    {
+     "id": "27",
+     "text": "S Tier"
+    },
+    {
+     "id": "28",
+     "text": "S Tier"
+    },
+    {
+     "id": "29",
+     "text": "S Tier"
+    },
+    {
+     "id": "30",
+     "text": "S Tier"
+    },
+    {
+     "id": "31",
+     "text": "S Tier"
+    },
+    {
+     "id": "32",
+     "text": "S Tier"
+    },
+    {
+     "id": "33",
+     "text": "S Tier"
+    },
+    {
+     "id": "34",
+     "text": "SS Tier"
+    },
+    {
+     "id": "35",
+     "text": "SS Tier"
+    },
+    {
+     "id": "36",
+     "text": "SS Tier"
+    },
+    {
+     "id": "37",
+     "text": "SS Tier"
+    },
+    {
+     "id": "38",
+     "text": "SS Tier"
+    }
+   ]
   },
   "TableEastCollapseTask": {
    "key_column": "id",
@@ -4856,9 +5854,20 @@
     {
      "id": "4",
      "itemName": "Guild Quests"
+    },
+    {
+     "id": "5",
+     "itemName": "Daily Quest Dispatch"
+    },
+    {
+     "id": "6",
+     "itemName": "Arena Quick Battle"
+    },
+    {
+     "id": "7",
+     "itemName": "Sea Conflict Idle & Quick Earnings"
     }
-   ],
-   "partial": "4/7 rows translated so far"
+   ]
   },
   "TableEquipUpdateConfig": {
    "key_column": "id",
@@ -4995,6 +6004,31 @@
     }
    ]
   },
+  "TableFairPlayTask": {
+   "key_column": "id",
+   "text_columns": [
+    "description",
+    "name"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "description": "Fight {0} Battle Tournament battles",
+     "name": "Daily Battle I"
+    },
+    {
+     "id": "2",
+     "description": "Fight {0} Battle Tournament battles",
+     "name": "Daily Battle II"
+    },
+    {
+     "id": "3",
+     "description": "Fight {0} Battle Tournament battles",
+     "name": "Daily Wins"
+    }
+   ]
+  },
   "TableFestivalBattlePassLevel": {
    "key_column": "id",
    "text_columns": [
@@ -5002,6 +6036,10 @@
    ],
    "content_diverges_between_bundles": false,
    "rows": [
+    {
+     "id": "1",
+     "levelTitle": "Get Instantly"
+    },
     {
      "id": "2",
      "levelTitle": "Lv1"
@@ -5201,9 +6239,12 @@
     {
      "id": "51",
      "levelTitle": "Lv50"
+    },
+    {
+     "id": "52",
+     "levelTitle": "Max Level Breakthrough Reward"
     }
-   ],
-   "partial": "50/52 rows translated so far"
+   ]
   },
   "TableFestivalBattlePassTask": {
    "key_column": "id",
@@ -5225,6 +6266,10 @@
      "descr": "Clear Event Dungeons 10 times"
     },
     {
+     "id": "4",
+     "descr": "Challenge the Arena 1 time"
+    },
+    {
      "id": "5",
      "descr": "Challenge Arena 3 times"
     },
@@ -5233,8 +6278,16 @@
      "descr": "Challenge the Arena 5 times"
     },
     {
+     "id": "7",
+     "descr": "Challenge Ladder 1 time"
+    },
+    {
      "id": "8",
      "descr": "Challenge Ladder 2 times"
+    },
+    {
+     "id": "9",
+     "descr": "Challenge Ladder 3 times"
     },
     {
      "id": "10",
@@ -5245,6 +6298,14 @@
      "descr": "Complete 6 Expeditions"
     },
     {
+     "id": "12",
+     "descr": "Gather herbs or crafting materials 5 times"
+    },
+    {
+     "id": "13",
+     "descr": "Gather herbs or crafting materials 10 times"
+    },
+    {
      "id": "14",
      "descr": "Make 1 Guild Donation"
     },
@@ -5252,8 +6313,36 @@
      "id": "15",
      "descr": "Make 1 Shop Purchase"
     }
+   ]
+  },
+  "TableFightManeuver": {
+   "key_column": "id",
+   "text_columns": [
+    "name"
    ],
-   "partial": "10/15 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "name": "Blade Pirate First Mate"
+    },
+    {
+     "id": "2",
+     "name": "Rifle Pirate First Mate"
+    },
+    {
+     "id": "3",
+     "name": "Blade Pirate Sailor"
+    },
+    {
+     "id": "4",
+     "name": "Rifle Pirate Sailor"
+    },
+    {
+     "id": "5",
+     "name": "Non-Attacking Pirate"
+    }
+   ]
   },
   "TableFightReportConfig": {
    "key_column": "id",
@@ -5403,6 +6492,50 @@
     }
    ]
   },
+  "TableFirstRechargeTask": {
+   "key_column": "id",
+   "text_columns": [
+    "title"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "title": "Day 1 Free Claim"
+    },
+    {
+     "id": "2",
+     "title": "Day 2 Free Claim"
+    },
+    {
+     "id": "3",
+     "title": "Day 3 Free Claim"
+    },
+    {
+     "id": "4",
+     "title": "Clear Voyage Tower stage 20"
+    },
+    {
+     "id": "5",
+     "title": "Top up 200 yuan in total"
+    },
+    {
+     "id": "6",
+     "title": "Reach Lv50"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "4",
+     "title": "Clear Voyage Tower stage 80"
+    },
+    {
+     "id": "5",
+     "title": "Top up 68 yuan in total"
+    }
+   ]
+  },
   "TableFirstRechargeTaskGroup": {
    "key_column": "groupType",
    "text_columns": [
@@ -5410,14 +6543,86 @@
    ],
    "content_diverges_between_bundles": true,
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
-   "rows": [],
+   "rows": [
+    {
+     "groupType": "1",
+     "title": "Boa Hancock"
+    },
+    {
+     "groupType": "2",
+     "title": "Nika Luffy"
+    }
+   ],
    "other_bundle_rows": [
     {
      "groupType": "2",
      "title": "Rose Gown"
     }
+   ]
+  },
+  "TableFood": {
+   "key_column": "foodId",
+   "text_columns": [
+    "foodName",
+    "effect"
    ],
-   "partial": "1/3 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "foodId": "1",
+     "foodName": "Dish 1",
+     "effect": "Food Description 1"
+    },
+    {
+     "foodId": "2",
+     "foodName": "Dish 2",
+     "effect": "Food Description 2"
+    },
+    {
+     "foodId": "3",
+     "foodName": "Dish 3",
+     "effect": "Food Description 3"
+    },
+    {
+     "foodId": "4",
+     "foodName": "Dish 4",
+     "effect": "Food Description 4"
+    },
+    {
+     "foodId": "5",
+     "foodName": "Dish 5",
+     "effect": "Food Description 5"
+    }
+   ]
+  },
+  "TableFoodEffect": {
+   "key_column": "id",
+   "text_columns": [
+    "reachText"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "reachText": "Guild Boss"
+    },
+    {
+     "id": "2",
+     "reachText": "Ladder Challenge"
+    },
+    {
+     "id": "3",
+     "reachText": "Ladder Challenge"
+    },
+    {
+     "id": "4",
+     "reachText": "Guild Boss"
+    },
+    {
+     "id": "5",
+     "reachText": "Guild Boss"
+    }
+   ]
   },
   "TableFormationLevClassic": {
    "key_column": "id",
@@ -5927,9 +7132,24 @@
      "desc": "Log in once today"
     },
     {
+     "id": "2",
+     "descr": "Daily Quests",
+     "desc": "Complete 10 Daily Quests"
+    },
+    {
      "id": "3",
      "descr": "Bounty Quest",
      "desc": "Complete 5 Bounty Quests"
+    },
+    {
+     "id": "4",
+     "descr": "Guild Quests",
+     "desc": "Complete 10 Guild Quests"
+    },
+    {
+     "id": "5",
+     "descr": "Story Replay",
+     "desc": "Clear Story Replay 10 times"
     },
     {
      "id": "6",
@@ -5957,6 +7177,11 @@
      "desc": "Complete 2 Expeditions"
     },
     {
+     "id": "11",
+     "descr": "Gather Resources",
+     "desc": "Gather herbs or crafting materials 5 times"
+    },
+    {
      "id": "13",
      "descr": "Elite Challenge",
      "desc": "Defeat 1 Elite Challenge boss"
@@ -5970,6 +7195,11 @@
      "id": "15",
      "descr": "Guild Donation",
      "desc": "Make 1 Guild Donation"
+    },
+    {
+     "id": "19",
+     "descr": "Blood Battle",
+     "desc": "Complete 10 Blood Battle stages"
     },
     {
      "id": "20",
@@ -6000,6 +7230,16 @@
      "id": "25",
      "descr": "Home Quests",
      "desc": "Complete 1 Home Quest"
+    },
+    {
+     "id": "26",
+     "descr": "Great Voyage",
+     "desc": "Spend 300 Stamina in the Grand Voyage"
+    },
+    {
+     "id": "27",
+     "descr": "Sea Conflict Rewards",
+     "desc": "Claim Sea Conflict rewards 1 time"
     }
    ],
    "other_bundle_rows": [
@@ -6017,9 +7257,58 @@
      "id": "4",
      "descr": "Ladder",
      "desc": "Challenge Ladder 2 times"
+    },
+    {
+     "id": "5",
+     "descr": "Arena",
+     "desc": "Challenge the Arena 10 times"
+    },
+    {
+     "id": "6",
+     "descr": "Arena",
+     "desc": "Challenge the Arena 20 times"
+    },
+    {
+     "id": "7",
+     "descr": "Arena",
+     "desc": "Challenge the Arena 40 times"
+    },
+    {
+     "id": "8",
+     "descr": "Arena",
+     "desc": "Challenge the Arena 70 times"
+    },
+    {
+     "id": "9",
+     "descr": "Arena",
+     "desc": "Challenge the Arena 100 times"
+    },
+    {
+     "id": "10",
+     "descr": "Ladder",
+     "desc": "Challenge Ladder 3 times"
+    },
+    {
+     "id": "11",
+     "descr": "Ladder",
+     "desc": "Challenge Ladder 5 times"
+    },
+    {
+     "id": "12",
+     "descr": "Ladder",
+     "desc": "Challenge Ladder 15 times"
+    },
+    {
+     "id": "13",
+     "descr": "Ladder",
+     "desc": "Challenge Ladder 30 times"
+    },
+    {
+     "id": "14",
+     "descr": "Ladder",
+     "desc": "Challenge Ladder 50 times"
     }
-   ],
-   "partial": "19/36 rows translated so far"
+   ]
   },
   "TableFriendDegree": {
    "key_column": "id",
@@ -6033,8 +7322,20 @@
      "name": "Dialogue"
     },
     {
+     "id": "2",
+     "name": "Team Bounty"
+    },
+    {
      "id": "3",
      "name": "Home Quests"
+    },
+    {
+     "id": "4",
+     "name": "Team Auto-Play"
+    },
+    {
+     "id": "5",
+     "name": "Send Gifts"
     },
     {
      "id": "6",
@@ -6055,9 +7356,12 @@
     {
      "id": "10",
      "name": "Partner Quests"
+    },
+    {
+     "id": "11",
+     "name": "Daily Login"
     }
-   ],
-   "partial": "7/11 rows translated so far"
+   ]
   },
   "TableFriendValue": {
    "key_column": "id",
@@ -6067,11 +7371,26 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "id": "1",
+     "name": "Passing Acquaintance"
+    },
+    {
+     "id": "2",
+     "name": "Kindred Spirits"
+    },
+    {
+     "id": "3",
+     "name": "Like-Minded"
+    },
+    {
      "id": "4",
      "name": "Inseparable"
+    },
+    {
+     "id": "5",
+     "name": "Inseparable"
     }
-   ],
-   "partial": "1/5 rows translated so far"
+   ]
   },
   "TableGiftLeftType": {
    "key_column": "titleid",
@@ -6083,9 +7402,149 @@
     {
      "titleid": "1",
      "showname": "Starter Bundle"
+    },
+    {
+     "titleid": "2",
+     "showname": "Anniversary Celebration"
+    },
+    {
+     "titleid": "3",
+     "showname": "Anniversary Carnival"
+    },
+    {
+     "titleid": "4",
+     "showname": "Launch Carnival"
     }
+   ]
+  },
+  "TableHarvestSeasonDailyTask": {
+   "key_column": "id",
+   "text_columns": [
+    "text"
    ],
-   "partial": "1/4 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "text": "Monday: the autumn moon on the horizon, a fleeting dream"
+    },
+    {
+     "id": "2",
+     "text": "Tuesday: the moon drifts far away with the fading dream"
+    },
+    {
+     "id": "3",
+     "text": "Wednesday: a bird's beak dusted with white plum petals"
+    },
+    {
+     "id": "4",
+     "text": "Thursday: sweeping the yard, broom in arms, forgetting to watch the snow"
+    },
+    {
+     "id": "5",
+     "text": "Friday: winding round and round the well bucket"
+    },
+    {
+     "id": "6",
+     "text": "Saturday: the Buddha holds up a flower and Kasyapa smiles"
+    },
+    {
+     "id": "7",
+     "text": "Sunday: flower petals ripple across Lake Biwa"
+    },
+    {
+     "id": "8",
+     "text": "Monday: the autumn moon on the horizon, a fleeting dream"
+    },
+    {
+     "id": "9",
+     "text": "Tuesday: the moon drifts far away with the fading dream"
+    },
+    {
+     "id": "10",
+     "text": "Wednesday: a bird's beak dusted with white plum petals"
+    },
+    {
+     "id": "11",
+     "text": "Thursday: sweeping the yard, broom in arms, forgetting to watch the snow"
+    },
+    {
+     "id": "12",
+     "text": "Friday: winding round and round the well bucket"
+    },
+    {
+     "id": "13",
+     "text": "Saturday: the Buddha holds up a flower and Kasyapa smiles"
+    },
+    {
+     "id": "14",
+     "text": "Sunday: flower petals ripple across Lake Biwa"
+    },
+    {
+     "id": "15",
+     "text": "Monday: the autumn moon on the horizon, a fleeting dream"
+    },
+    {
+     "id": "16",
+     "text": "Tuesday: the moon drifts far away with the fading dream"
+    },
+    {
+     "id": "17",
+     "text": "Wednesday: a bird's beak dusted with white plum petals"
+    },
+    {
+     "id": "18",
+     "text": "Thursday: sweeping the yard, broom in arms, forgetting to watch the snow"
+    },
+    {
+     "id": "19",
+     "text": "Friday: winding round and round the well bucket"
+    },
+    {
+     "id": "20",
+     "text": "Saturday: the Buddha holds up a flower and Kasyapa smiles"
+    },
+    {
+     "id": "21",
+     "text": "Sunday: flower petals ripple across Lake Biwa"
+    },
+    {
+     "id": "22",
+     "text": "Monday: the autumn moon on the horizon, a fleeting dream"
+    },
+    {
+     "id": "23",
+     "text": "Tuesday: the moon drifts far away with the fading dream"
+    },
+    {
+     "id": "24",
+     "text": "Wednesday: a bird's beak dusted with white plum petals"
+    },
+    {
+     "id": "25",
+     "text": "Thursday: sweeping the yard, broom in arms, forgetting to watch the snow"
+    },
+    {
+     "id": "26",
+     "text": "Friday: winding round and round the well bucket"
+    },
+    {
+     "id": "27",
+     "text": "Saturday: the Buddha holds up a flower and Kasyapa smiles"
+    },
+    {
+     "id": "28",
+     "text": "Sunday: flower petals ripple across Lake Biwa"
+    },
+    {
+     "id": "29",
+     "text": "Monday: the autumn moon on the horizon, a fleeting dream"
+    },
+    {
+     "id": "30",
+     "text": "Tuesday: the moon drifts far away with the fading dream"
+    }
+   ]
   },
   "TableHarvestSeasonTask": {
    "key_column": "id",
@@ -6101,6 +7560,11 @@
      "desc": "Log in once today"
     },
     {
+     "id": "2",
+     "descr": "Daily Quests",
+     "desc": "Complete 10 Daily Quests"
+    },
+    {
      "id": "3",
      "descr": "Shop Purchase",
      "desc": "Make 1 Shop Purchase"
@@ -6109,6 +7573,11 @@
      "id": "4",
      "descr": "Shop Purchase",
      "desc": "Make 1 Shop Purchase"
+    },
+    {
+     "id": "5",
+     "descr": "Story Replay",
+     "desc": "Clear Story Replay 10 times"
     },
     {
      "id": "6",
@@ -6161,6 +7630,11 @@
      "desc": "Make 1 Guild Donation"
     },
     {
+     "id": "19",
+     "descr": "Blood Battle",
+     "desc": "Conquer 1 Blood Battle stage"
+    },
+    {
      "id": "20",
      "descr": "Sea Battle",
      "desc": "Join 1 Guild Sea Battle"
@@ -6196,9 +7670,29 @@
      "desc": "Make 1 Shop Purchase"
     },
     {
+     "id": "26",
+     "descr": "Sea Conflict Rewards",
+     "desc": "Claim Sea Conflict rewards 1 time"
+    },
+    {
+     "id": "27",
+     "descr": "Daily Quests",
+     "desc": "Complete 10 Daily Quests"
+    },
+    {
      "id": "28",
      "descr": "Bounty Quest",
      "desc": "Complete 5 Bounty Quests"
+    },
+    {
+     "id": "29",
+     "descr": "Guild Quests",
+     "desc": "Complete 10 Guild Quests"
+    },
+    {
+     "id": "30",
+     "descr": "Story Replay",
+     "desc": "Clear Story Replay 10 times"
     },
     {
      "id": "31",
@@ -6221,6 +7715,16 @@
      "desc": "Make 1 Shop Purchase"
     },
     {
+     "id": "35",
+     "descr": "Expeditions",
+     "desc": "Complete 5 Expeditions"
+    },
+    {
+     "id": "36",
+     "descr": "Gather Resources",
+     "desc": "Gather herbs or crafting materials 5 times"
+    },
+    {
      "id": "37",
      "descr": "Shop Purchase",
      "desc": "Make 1 Shop Purchase"
@@ -6234,6 +7738,11 @@
      "id": "39",
      "descr": "Guild Donation",
      "desc": "Make 1 Guild Donation"
+    },
+    {
+     "id": "40",
+     "descr": "Blood Battle",
+     "desc": "Conquer 1 Blood Battle stage"
     },
     {
      "id": "41",
@@ -6266,9 +7775,34 @@
      "desc": "Complete 1 Home Quest"
     },
     {
+     "id": "47",
+     "descr": "Great Voyage",
+     "desc": "Spend 300 Stamina in the Grand Voyage"
+    },
+    {
+     "id": "48",
+     "descr": "Sea Conflict Rewards",
+     "desc": "Claim Sea Conflict rewards 1 time"
+    },
+    {
+     "id": "49",
+     "descr": "Daily Quests",
+     "desc": "Complete 10 Daily Quests"
+    },
+    {
      "id": "50",
      "descr": "Bounty Quest",
      "desc": "Complete 5 Bounty Quests"
+    },
+    {
+     "id": "51",
+     "descr": "Guild Quests",
+     "desc": "Complete 10 Guild Quests"
+    },
+    {
+     "id": "52",
+     "descr": "Story Replay",
+     "desc": "Clear Story Replay 10 times"
     },
     {
      "id": "53",
@@ -6291,6 +7825,16 @@
      "desc": "Challenge Ladder 2 times"
     },
     {
+     "id": "57",
+     "descr": "Expeditions",
+     "desc": "Complete 5 Expeditions"
+    },
+    {
+     "id": "58",
+     "descr": "Gather Resources",
+     "desc": "Gather herbs or crafting materials 5 times"
+    },
+    {
      "id": "59",
      "descr": "Elite Challenge",
      "desc": "Defeat 1 Elite Challenge boss"
@@ -6304,6 +7848,11 @@
      "id": "61",
      "descr": "Guild Donation",
      "desc": "Make 1 Guild Donation"
+    },
+    {
+     "id": "62",
+     "descr": "Blood Battle",
+     "desc": "Conquer 1 Blood Battle stage"
     },
     {
      "id": "63",
@@ -6336,9 +7885,34 @@
      "desc": "Complete 1 Home Quest"
     },
     {
+     "id": "69",
+     "descr": "Great Voyage",
+     "desc": "Spend 300 Stamina in the Grand Voyage"
+    },
+    {
+     "id": "70",
+     "descr": "Sea Conflict Rewards",
+     "desc": "Claim Sea Conflict rewards 1 time"
+    },
+    {
+     "id": "71",
+     "descr": "Daily Quests",
+     "desc": "Complete 10 Daily Quests"
+    },
+    {
      "id": "72",
      "descr": "Shop Purchase",
      "desc": "Make 1 Shop Purchase"
+    },
+    {
+     "id": "73",
+     "descr": "Guild Quests",
+     "desc": "Complete 10 Guild Quests"
+    },
+    {
+     "id": "74",
+     "descr": "Story Replay",
+     "desc": "Clear Story Replay 10 times"
     },
     {
      "id": "75",
@@ -6359,9 +7933,30 @@
      "id": "78",
      "descr": "Shop Purchase",
      "desc": "Make 1 Shop Purchase"
+    },
+    {
+     "id": "79",
+     "descr": "Expeditions",
+     "desc": "Complete 5 Expeditions"
+    }
+   ]
+  },
+  "TableHelpPower": {
+   "key_column": "id",
+   "text_columns": [
+    "heroAbility",
+    "heroHelpName"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "heroAbility": "Fish Fruit",
+     "heroHelpName": "Beast Pirates Cheer"
     }
    ],
-   "partial": "53/77 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableHelpPowerUnlock": {
    "key_column": "heroId",
@@ -6497,6 +8092,126 @@
    ],
    "other_bundle_rows": []
   },
+  "TableHeroChange": {
+   "key_column": "id",
+   "text_columns": [
+    "text1",
+    "text2"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "2",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "3",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "4",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "5",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "6",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "7",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "8",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "9",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "10",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "11",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "12",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "13",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "14",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "15",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "16",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "17",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "18",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "19",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "20",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "21",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    },
+    {
+     "id": "22",
+     "text1": "Every",
+     "text2": "recruits guarantee"
+    }
+   ]
+  },
   "TableHideTreasureEquipPool": {
    "key_column": "equipId",
    "text_columns": [
@@ -6604,12 +8319,53 @@
      "holidayActivityDesc": "Spending Rewards"
     },
     {
+     "holidayActivityType": "4",
+     "holidayActivityTitle": "Holiday Drops",
+     "holidayActivityDesc": "Holiday Drops"
+    },
+    {
+     "holidayActivityType": "5",
+     "holidayActivityTitle": "Turkey Feast",
+     "holidayActivityDesc": "Turkey Feast"
+    },
+    {
      "holidayActivityType": "6",
      "holidayActivityTitle": "Lucky Shop",
      "holidayActivityDesc": "Lucky Shop"
+    },
+    {
+     "holidayActivityType": "7",
+     "holidayActivityTitle": "Holiday Packs",
+     "holidayActivityDesc": "Holiday Packs"
+    },
+    {
+     "holidayActivityType": "8",
+     "holidayActivityTitle": "Shop Discounts",
+     "holidayActivityDesc": "Shop Discounts"
+    },
+    {
+     "holidayActivityType": "9",
+     "holidayActivityTitle": "Shop Discounts",
+     "holidayActivityDesc": "Shop Discounts"
     }
+   ]
+  },
+  "TableHolidayType": {
+   "key_column": "holidayType",
+   "text_columns": [
+    "holidayDesc"
    ],
-   "partial": "4/9 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "holidayType": "1",
+     "holidayDesc": "Thanksgiving"
+    },
+    {
+     "holidayType": "2",
+     "holidayDesc": "Double 11"
+    }
+   ]
   },
   "TableHomeBuildingLev": {
    "key_column": "id",
@@ -6837,6 +8593,631 @@
     {
      "id": "60",
      "attributes": "Base Essence output per hour: <color=#D17b32><size=22> 100 </size></color>;Essence Collector max work hours per day: <color=#D17b32><size=22> 10 </size></color>;Max Essence storage: <color=#D17b32><size=22> 20000 </size></color>;Essence in the Advanced Essence Collector <color=#d27530>can't be raided</color>"
+    }
+   ]
+  },
+  "TableHomeBuildingType": {
+   "key_column": "id",
+   "text_columns": [
+    "npcChat"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "npcChat": "Welcome home!;Welcome home!;Welcome home!"
+    },
+    {
+     "id": "2",
+     "npcChat": "The seas have been rough lately, so be careful!;The seas have been rough lately, so be careful!;The seas have been rough lately, so be careful!"
+    },
+    {
+     "id": "3",
+     "npcChat": "Don't worry, with me here it'll be fine!;Don't worry, with me here it'll be fine!;Don't worry, with me here it'll be fine!"
+    },
+    {
+     "id": "4",
+     "npcChat": "Tired? Come take a rest!;Tired? Come take a rest!;Tired? Come take a rest!"
+    },
+    {
+     "id": "6",
+     "npcChat": "Hello, what can I do for you?;Hello, what can I do for you?;Hello, what can I do for you?"
+    },
+    {
+     "id": "7",
+     "npcChat": "What shall we do today?;What shall we do today?;What shall we do today?"
+    },
+    {
+     "id": "8",
+     "npcChat": "What shall we do today?;What shall we do today?;What shall we do today?"
+    },
+    {
+     "id": "9",
+     "npcChat": "What shall we do today?;What shall we do today?;What shall we do today?"
+    },
+    {
+     "id": "10",
+     "npcChat": "What shall we do today?;What shall we do today?;What shall we do today?"
+    },
+    {
+     "id": "11",
+     "npcChat": "What shall we do today?;What shall we do today?;What shall we do today?"
+    },
+    {
+     "id": "12",
+     "npcChat": "Hello, what can I do for you?;Hello, what can I do for you?;Hello, what can I do for you?"
+    }
+   ]
+  },
+  "TableHomeNewUserTask": {
+   "key_column": "taskId",
+   "text_columns": [
+    "taskSummarize",
+    "taskDese"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "taskId": "1",
+     "taskSummarize": "Build the Library",
+     "taskDese": "You can build many production buildings in your Home. They produce all kinds of items for developing characters, and are among the Home's key facilities. Now, let's build 1 Library!"
+    },
+    {
+     "taskId": "2",
+     "taskSummarize": "Collect {0}",
+     "taskDese": "Building your Home takes Stone and Steel, obtained from Home Quests. Home Quests refresh daily, and raising the Home Hall level gives you more quests. Let's go collect materials."
+    },
+    {
+     "taskId": "3",
+     "taskSummarize": "Set Up Character Rental",
+     "taskDese": "You can rent characters out to friends. Renting to friends earns Friendship Coins, which can be exchanged for many items at the Home Shop."
+    },
+    {
+     "taskId": "4",
+     "taskSummarize": "Set Up Battle Lineup",
+     "taskDese": "You can use a battle lineup to raid other Homes and defend your own. Successfully raiding other players earns Essence, one of the main ways to get it, so station your strongest lineup!"
+    },
+    {
+     "taskId": "5",
+     "taskSummarize": "Build the Dormitory",
+     "taskDese": "The Dormitory is the only way for characters to recover Stamina. Characters out of Stamina slowly recover it when placed in the Dormitory. Characters with no Stamina can't work, so keep an eye on their Stamina."
+    },
+    {
+     "taskId": "6",
+     "taskSummarize": "Raise Prosperity",
+     "taskDese": "Home Prosperity is one measure of how developed your Home is, and it determines the Home Hall's level. Raise Prosperity by constructing buildings and activating decorations. Higher Prosperity can also activate various Home skills."
+    },
+    {
+     "taskId": "7",
+     "taskSummarize": "Raise the Hall to Lv2",
+     "taskDese": "The Home Hall's level determines the types and number of buildings in your Home. Raising it helps your Home develop and earns more rewards from it."
+    },
+    {
+     "taskId": "8",
+     "taskSummarize": "Raise the Collector to Lv2",
+     "taskDese": "The Essence Collector is one of the Home's key resources. Upgrading it gathers Essence more efficiently and increases Essence storage."
+    },
+    {
+     "taskId": "9",
+     "taskSummarize": "Build the Blue Diamond Workshop",
+     "taskDese": "You can build many production buildings in your Home. They produce all kinds of items for developing characters, and are among the Home's key facilities. Now, let's build 1 Library!"
+    },
+    {
+     "taskId": "10",
+     "taskSummarize": "Raise Home Prosperity",
+     "taskDese": "Home Prosperity is one measure of how developed your Home is, and it determines the Home Hall's level. Raise Prosperity by constructing buildings and activating decorations. Higher Prosperity can also activate various Home skills."
+    },
+    {
+     "taskId": "11",
+     "taskSummarize": "Raise the Hall to Lv3",
+     "taskDese": "The Home Hall's level determines the types and number of buildings in your Home. Raising it helps your Home develop and earns more rewards from it."
+    }
+   ]
+  },
+  "TableHomeProsperity": {
+   "key_column": "id",
+   "text_columns": [
+    "resDes"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [],
+   "other_bundle_rows": [
+    {
+     "id": "6",
+     "resDes": "All deployed characters gain <color=#d14e0d>Speed +12</color>."
+    },
+    {
+     "id": "7",
+     "resDes": "All deployed characters gain <color=#d14e0d>HP +2000, Attack +100</color>."
+    }
+   ]
+  },
+  "TableIdolChallenge": {
+   "key_column": "id",
+   "text_columns": [
+    "title",
+    "copyDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "title": "Beast Mansion Pilgrimage",
+     "copyDesc": "Head to Tadokoro Koji's Beast Mansion. Remember to buy black tea on the way, or you'll regret it"
+    },
+    {
+     "id": "2",
+     "title": "Ride the Odakyu Line",
+     "copyDesc": "A black luxury car has appeared at Shimokitazawa, a key Odakyu Line station. Stay out of its way, or you'll be in for it, three times, three times"
+    },
+    {
+     "id": "3",
+     "title": "Members-Only Restaurant",
+     "copyDesc": "The three great human desires. Watch out for Sasaki Hirofumi"
+    }
+   ]
+  },
+  "TableIdolTask": {
+   "key_column": "id",
+   "text_columns": [
+    "title"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "10001",
+     "title": "Drinks and Food, Ah (Arena"
+    },
+    {
+     "id": "10002",
+     "title": "Save the Market, Ah (Ladder"
+    },
+    {
+     "id": "10003",
+     "title": "Old Times, Ah (Expeditions"
+    },
+    {
+     "id": "10004",
+     "title": "Ninety, Ah (Daily Quests"
+    },
+    {
+     "id": "10005",
+     "title": "That's Right, Ah (Story Replay"
+    },
+    {
+     "id": "10006",
+     "title": "Old Style, Ah (Spend 100 Rainbow Diamonds"
+    }
+   ]
+  },
+  "TableIntegraChat": {
+   "key_column": "chatId",
+   "text_columns": [
+    "chatInfo"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "chatId": "1",
+     "chatInfo": "After this match, your points are mine"
+    },
+    {
+     "chatId": "2",
+     "chatInfo": "Young man, that's not very sporting of you"
+    },
+    {
+     "chatId": "3",
+     "chatInfo": "What's wrong? Did I hit you too hard?"
+    },
+    {
+     "chatId": "4",
+     "chatInfo": "Don't lose heart. Just try not to run into me next match"
+    },
+    {
+     "chatId": "5",
+     "chatInfo": "Against real strength, extra moves are meaningless"
+    },
+    {
+     "chatId": "6",
+     "chatInfo": "Come at me"
+    }
+   ]
+  },
+  "TableIntegral2V2SeasonEndDuanweiReward": {
+   "key_column": "id",
+   "text_columns": [
+    "duanweiReward"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "duanweiReward": "Bronze III"
+    },
+    {
+     "id": "2",
+     "duanweiReward": "Bronze II"
+    },
+    {
+     "id": "3",
+     "duanweiReward": "Bronze I"
+    },
+    {
+     "id": "4",
+     "duanweiReward": "Silver III"
+    },
+    {
+     "id": "5",
+     "duanweiReward": "Silver II"
+    },
+    {
+     "id": "6",
+     "duanweiReward": "Silver I"
+    },
+    {
+     "id": "7",
+     "duanweiReward": "Gold IV"
+    },
+    {
+     "id": "8",
+     "duanweiReward": "Gold III"
+    },
+    {
+     "id": "9",
+     "duanweiReward": "Gold II"
+    },
+    {
+     "id": "10",
+     "duanweiReward": "Gold I"
+    },
+    {
+     "id": "11",
+     "duanweiReward": "Platinum III"
+    },
+    {
+     "id": "12",
+     "duanweiReward": "Platinum II"
+    },
+    {
+     "id": "13",
+     "duanweiReward": "Platinum I"
+    }
+   ]
+  },
+  "TableIntegral2V2chengfa": {
+   "key_column": "id",
+   "text_columns": [
+    "text"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "text": "This is your violation number {0}. In your current tier, {1} violations in total will break your flawless and win streaks."
+    },
+    {
+     "id": "2",
+     "text": "This is your violation number {0}. In your current tier, {1} violations in total will deduct {2} points."
+    },
+    {
+     "id": "3",
+     "text": "This is your violation number {0}. In your current tier, {1} violations in total will deduct {2} points."
+    },
+    {
+     "id": "4",
+     "text": "This is your violation number {0}. In your current tier, {1} violations in total will deduct {2} points."
+    },
+    {
+     "id": "5",
+     "text": "This is your violation number {0}. In your current tier, {1} violations in total will deduct {2} points."
+    }
+   ]
+  },
+  "TableIntegralArenaReward": {
+   "key_column": "id",
+   "text_columns": [
+    "duanweiReward"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "69",
+     "duanweiReward": "Platinum I"
+    },
+    {
+     "id": "70",
+     "duanweiReward": "Platinum II"
+    },
+    {
+     "id": "71",
+     "duanweiReward": "Platinum III"
+    },
+    {
+     "id": "72",
+     "duanweiReward": "Gold I"
+    },
+    {
+     "id": "73",
+     "duanweiReward": "Gold II"
+    },
+    {
+     "id": "74",
+     "duanweiReward": "Gold III"
+    },
+    {
+     "id": "75",
+     "duanweiReward": "Gold IV"
+    },
+    {
+     "id": "76",
+     "duanweiReward": "Silver I"
+    },
+    {
+     "id": "77",
+     "duanweiReward": "Silver II"
+    },
+    {
+     "id": "78",
+     "duanweiReward": "Silver III"
+    },
+    {
+     "id": "79",
+     "duanweiReward": "Bronze I"
+    },
+    {
+     "id": "80",
+     "duanweiReward": "Bronze II"
+    },
+    {
+     "id": "81",
+     "duanweiReward": "Bronze III"
+    },
+    {
+     "id": "82",
+     "duanweiReward": "Glory"
+    },
+    {
+     "id": "83",
+     "duanweiReward": "Gold I"
+    },
+    {
+     "id": "84",
+     "duanweiReward": "Gold II"
+    },
+    {
+     "id": "85",
+     "duanweiReward": "Gold III"
+    },
+    {
+     "id": "86",
+     "duanweiReward": "Gold IV"
+    },
+    {
+     "id": "87",
+     "duanweiReward": "Silver I"
+    },
+    {
+     "id": "88",
+     "duanweiReward": "Silver II"
+    },
+    {
+     "id": "89",
+     "duanweiReward": "Silver III"
+    },
+    {
+     "id": "90",
+     "duanweiReward": "Bronze I"
+    },
+    {
+     "id": "91",
+     "duanweiReward": "Bronze II"
+    },
+    {
+     "id": "92",
+     "duanweiReward": "Bronze III"
+    },
+    {
+     "id": "93",
+     "duanweiReward": "Glory"
+    },
+    {
+     "id": "94",
+     "duanweiReward": "Gold I"
+    },
+    {
+     "id": "95",
+     "duanweiReward": "Gold II"
+    },
+    {
+     "id": "96",
+     "duanweiReward": "Gold III"
+    },
+    {
+     "id": "97",
+     "duanweiReward": "Gold IV"
+    },
+    {
+     "id": "98",
+     "duanweiReward": "Silver I"
+    },
+    {
+     "id": "99",
+     "duanweiReward": "Silver II"
+    },
+    {
+     "id": "100",
+     "duanweiReward": "Silver III"
+    },
+    {
+     "id": "101",
+     "duanweiReward": "Bronze I"
+    },
+    {
+     "id": "102",
+     "duanweiReward": "Bronze II"
+    },
+    {
+     "id": "103",
+     "duanweiReward": "Bronze III"
+    },
+    {
+     "id": "104",
+     "duanweiReward": "Glory"
+    },
+    {
+     "id": "105",
+     "duanweiReward": "Gold I"
+    },
+    {
+     "id": "106",
+     "duanweiReward": "Gold II"
+    },
+    {
+     "id": "107",
+     "duanweiReward": "Gold III"
+    },
+    {
+     "id": "108",
+     "duanweiReward": "Gold IV"
+    },
+    {
+     "id": "109",
+     "duanweiReward": "Silver I"
+    },
+    {
+     "id": "110",
+     "duanweiReward": "Silver II"
+    },
+    {
+     "id": "111",
+     "duanweiReward": "Silver III"
+    },
+    {
+     "id": "112",
+     "duanweiReward": "Bronze I"
+    },
+    {
+     "id": "113",
+     "duanweiReward": "Bronze II"
+    },
+    {
+     "id": "114",
+     "duanweiReward": "Bronze III"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "55",
+     "duanweiReward": "Platinum I"
+    },
+    {
+     "id": "56",
+     "duanweiReward": "Platinum II"
+    },
+    {
+     "id": "57",
+     "duanweiReward": "Platinum III"
+    },
+    {
+     "id": "58",
+     "duanweiReward": "Gold I"
+    },
+    {
+     "id": "59",
+     "duanweiReward": "Gold II"
+    },
+    {
+     "id": "60",
+     "duanweiReward": "Gold III"
+    },
+    {
+     "id": "61",
+     "duanweiReward": "Gold IV"
+    },
+    {
+     "id": "62",
+     "duanweiReward": "Silver I"
+    },
+    {
+     "id": "63",
+     "duanweiReward": "Silver II"
+    },
+    {
+     "id": "64",
+     "duanweiReward": "Silver III"
+    },
+    {
+     "id": "65",
+     "duanweiReward": "Bronze I"
+    },
+    {
+     "id": "66",
+     "duanweiReward": "Bronze II"
+    },
+    {
+     "id": "67",
+     "duanweiReward": "Bronze III"
+    },
+    {
+     "id": "68",
+     "duanweiReward": "Glory"
+    },
+    {
+     "id": "69",
+     "duanweiReward": "Gold I"
+    },
+    {
+     "id": "70",
+     "duanweiReward": "Gold II"
+    },
+    {
+     "id": "71",
+     "duanweiReward": "Gold III"
+    },
+    {
+     "id": "72",
+     "duanweiReward": "Gold IV"
+    },
+    {
+     "id": "73",
+     "duanweiReward": "Silver I"
+    },
+    {
+     "id": "74",
+     "duanweiReward": "Silver II"
+    },
+    {
+     "id": "75",
+     "duanweiReward": "Silver III"
+    },
+    {
+     "id": "76",
+     "duanweiReward": "Bronze I"
+    },
+    {
+     "id": "77",
+     "duanweiReward": "Bronze II"
+    },
+    {
+     "id": "78",
+     "duanweiReward": "Bronze III"
+    }
+   ]
+  },
+  "TableIntegralConfuseTime": {
+   "key_column": "seasonId",
+   "text_columns": [
+    "timeText"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [],
+   "other_bundle_rows": [
+    {
+     "seasonId": "1",
+     "timeText": "Challenge ends: 2025/07/02-22:59:59"
     }
    ]
   },
@@ -7236,6 +9617,626 @@
      "id": "30",
      "deatil": "Purchase limits for unlocked items increased",
      "totalDetail": "*Shop level raised to 4*<Lv60 Hero Gear Choice Box>  Purchase limit 1-->4\\n<Elite Recruit Ticket>  Purchase limit 3-->5\\n<Lv6 Gem Choice Box>  Purchase limit 1-->2\\n<Hero Stone>  Purchase limit 5-->50\\n<Refining Stone>  Purchase limit 50-->500\\n<Advanced Potion Choice Pack>  Purchase limit 1-->10\\n<Universal Formation Fragment>  Purchase limit 10-->30*Daily match rewards +100%"
+    }
+   ]
+  },
+  "TableIntegralRank": {
+   "key_column": "id",
+   "text_columns": [
+    "integralRankName"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "integralRankName": "Bronze III"
+    },
+    {
+     "id": "2",
+     "integralRankName": "Bronze II"
+    },
+    {
+     "id": "3",
+     "integralRankName": "Bronze I"
+    },
+    {
+     "id": "4",
+     "integralRankName": "Silver III"
+    },
+    {
+     "id": "5",
+     "integralRankName": "Silver II"
+    },
+    {
+     "id": "6",
+     "integralRankName": "Silver I"
+    },
+    {
+     "id": "7",
+     "integralRankName": "Gold IV"
+    },
+    {
+     "id": "8",
+     "integralRankName": "Gold III"
+    },
+    {
+     "id": "9",
+     "integralRankName": "Gold II"
+    },
+    {
+     "id": "10",
+     "integralRankName": "Gold I"
+    },
+    {
+     "id": "11",
+     "integralRankName": "Glory"
+    },
+    {
+     "id": "12",
+     "integralRankName": "Platinum III"
+    },
+    {
+     "id": "13",
+     "integralRankName": "Platinum II"
+    },
+    {
+     "id": "14",
+     "integralRankName": "Platinum I"
+    },
+    {
+     "id": "15",
+     "integralRankName": "Crystal III"
+    },
+    {
+     "id": "16",
+     "integralRankName": "Crystal II"
+    },
+    {
+     "id": "17",
+     "integralRankName": "Crystal I"
+    },
+    {
+     "id": "18",
+     "integralRankName": "Diamond IV"
+    },
+    {
+     "id": "19",
+     "integralRankName": "Diamond III"
+    },
+    {
+     "id": "20",
+     "integralRankName": "Diamond II"
+    },
+    {
+     "id": "21",
+     "integralRankName": "Diamond I"
+    },
+    {
+     "id": "22",
+     "integralRankName": "Peak"
+    },
+    {
+     "id": "23",
+     "integralRankName": "Rising Star I"
+    },
+    {
+     "id": "24",
+     "integralRankName": "Elite II"
+    },
+    {
+     "id": "25",
+     "integralRankName": "Elite I"
+    },
+    {
+     "id": "26",
+     "integralRankName": "Overlord II"
+    },
+    {
+     "id": "27",
+     "integralRankName": "Overlord I"
+    },
+    {
+     "id": "28",
+     "integralRankName": "Peak"
+    },
+    {
+     "id": "29",
+     "integralRankName": "Bronze III"
+    },
+    {
+     "id": "30",
+     "integralRankName": "Bronze II"
+    },
+    {
+     "id": "31",
+     "integralRankName": "Bronze I"
+    },
+    {
+     "id": "32",
+     "integralRankName": "Silver III"
+    },
+    {
+     "id": "33",
+     "integralRankName": "Silver II"
+    },
+    {
+     "id": "34",
+     "integralRankName": "Silver I"
+    },
+    {
+     "id": "35",
+     "integralRankName": "Gold IV"
+    },
+    {
+     "id": "36",
+     "integralRankName": "Gold III"
+    },
+    {
+     "id": "37",
+     "integralRankName": "Gold II"
+    },
+    {
+     "id": "38",
+     "integralRankName": "Gold I"
+    },
+    {
+     "id": "39",
+     "integralRankName": "Platinum III"
+    },
+    {
+     "id": "40",
+     "integralRankName": "Platinum II"
+    },
+    {
+     "id": "41",
+     "integralRankName": "Platinum I"
+    },
+    {
+     "id": "42",
+     "integralRankName": "Bronze III"
+    },
+    {
+     "id": "43",
+     "integralRankName": "Bronze II"
+    },
+    {
+     "id": "44",
+     "integralRankName": "Bronze I"
+    },
+    {
+     "id": "45",
+     "integralRankName": "Silver III"
+    },
+    {
+     "id": "46",
+     "integralRankName": "Silver II"
+    },
+    {
+     "id": "47",
+     "integralRankName": "Silver I"
+    },
+    {
+     "id": "48",
+     "integralRankName": "Gold IV"
+    },
+    {
+     "id": "49",
+     "integralRankName": "Gold III"
+    },
+    {
+     "id": "50",
+     "integralRankName": "Gold II"
+    },
+    {
+     "id": "51",
+     "integralRankName": "Gold I"
+    },
+    {
+     "id": "52",
+     "integralRankName": "Glory"
+    },
+    {
+     "id": "53",
+     "integralRankName": "Bronze III"
+    },
+    {
+     "id": "54",
+     "integralRankName": "Bronze II"
+    },
+    {
+     "id": "55",
+     "integralRankName": "Bronze I"
+    },
+    {
+     "id": "56",
+     "integralRankName": "Silver III"
+    },
+    {
+     "id": "57",
+     "integralRankName": "Silver II"
+    },
+    {
+     "id": "58",
+     "integralRankName": "Silver I"
+    },
+    {
+     "id": "59",
+     "integralRankName": "Gold IV"
+    },
+    {
+     "id": "60",
+     "integralRankName": "Gold III"
+    },
+    {
+     "id": "61",
+     "integralRankName": "Gold II"
+    },
+    {
+     "id": "62",
+     "integralRankName": "Gold I"
+    },
+    {
+     "id": "63",
+     "integralRankName": "Glory"
+    },
+    {
+     "id": "64",
+     "integralRankName": "Bronze III"
+    },
+    {
+     "id": "65",
+     "integralRankName": "Bronze II"
+    },
+    {
+     "id": "66",
+     "integralRankName": "Bronze I"
+    },
+    {
+     "id": "67",
+     "integralRankName": "Silver III"
+    },
+    {
+     "id": "68",
+     "integralRankName": "Silver II"
+    },
+    {
+     "id": "69",
+     "integralRankName": "Silver I"
+    },
+    {
+     "id": "70",
+     "integralRankName": "Gold IV"
+    },
+    {
+     "id": "71",
+     "integralRankName": "Gold III"
+    },
+    {
+     "id": "72",
+     "integralRankName": "Gold II"
+    },
+    {
+     "id": "73",
+     "integralRankName": "Gold I"
+    },
+    {
+     "id": "74",
+     "integralRankName": "Glory"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "integralRankName": "Silver III"
+    },
+    {
+     "id": "2",
+     "integralRankName": "Silver II"
+    },
+    {
+     "id": "3",
+     "integralRankName": "Silver I"
+    },
+    {
+     "id": "4",
+     "integralRankName": "Gold III"
+    },
+    {
+     "id": "5",
+     "integralRankName": "Gold II"
+    },
+    {
+     "id": "6",
+     "integralRankName": "Gold I"
+    },
+    {
+     "id": "7",
+     "integralRankName": "Glory"
+    },
+    {
+     "id": "8",
+     "integralRankName": "Crystal III"
+    },
+    {
+     "id": "9",
+     "integralRankName": "Crystal II"
+    },
+    {
+     "id": "10",
+     "integralRankName": "Crystal I"
+    },
+    {
+     "id": "11",
+     "integralRankName": "Diamond III"
+    },
+    {
+     "id": "12",
+     "integralRankName": "Diamond II"
+    },
+    {
+     "id": "13",
+     "integralRankName": "Diamond I"
+    },
+    {
+     "id": "14",
+     "integralRankName": "Peak"
+    },
+    {
+     "id": "15",
+     "integralRankName": "Platinum III"
+    },
+    {
+     "id": "16",
+     "integralRankName": "Platinum II"
+    },
+    {
+     "id": "17",
+     "integralRankName": "Platinum I"
+    },
+    {
+     "id": "18",
+     "integralRankName": "Crystal III"
+    },
+    {
+     "id": "19",
+     "integralRankName": "Crystal II"
+    },
+    {
+     "id": "20",
+     "integralRankName": "Crystal I"
+    },
+    {
+     "id": "21",
+     "integralRankName": "Diamond IV"
+    },
+    {
+     "id": "22",
+     "integralRankName": "Diamond III"
+    },
+    {
+     "id": "23",
+     "integralRankName": "Diamond II"
+    },
+    {
+     "id": "24",
+     "integralRankName": "Diamond I"
+    },
+    {
+     "id": "25",
+     "integralRankName": "Peak"
+    },
+    {
+     "id": "26",
+     "integralRankName": "Bronze III"
+    },
+    {
+     "id": "27",
+     "integralRankName": "Bronze II"
+    },
+    {
+     "id": "28",
+     "integralRankName": "Bronze I"
+    },
+    {
+     "id": "29",
+     "integralRankName": "Silver III"
+    },
+    {
+     "id": "30",
+     "integralRankName": "Silver II"
+    },
+    {
+     "id": "31",
+     "integralRankName": "Silver I"
+    },
+    {
+     "id": "32",
+     "integralRankName": "Gold IV"
+    },
+    {
+     "id": "33",
+     "integralRankName": "Gold III"
+    },
+    {
+     "id": "34",
+     "integralRankName": "Gold II"
+    },
+    {
+     "id": "35",
+     "integralRankName": "Gold I"
+    },
+    {
+     "id": "36",
+     "integralRankName": "Platinum III"
+    },
+    {
+     "id": "37",
+     "integralRankName": "Platinum II"
+    },
+    {
+     "id": "38",
+     "integralRankName": "Platinum I"
+    },
+    {
+     "id": "39",
+     "integralRankName": "Bronze III"
+    },
+    {
+     "id": "40",
+     "integralRankName": "Bronze II"
+    },
+    {
+     "id": "41",
+     "integralRankName": "Bronze I"
+    },
+    {
+     "id": "42",
+     "integralRankName": "Silver III"
+    },
+    {
+     "id": "43",
+     "integralRankName": "Silver II"
+    },
+    {
+     "id": "44",
+     "integralRankName": "Silver I"
+    },
+    {
+     "id": "45",
+     "integralRankName": "Gold IV"
+    },
+    {
+     "id": "46",
+     "integralRankName": "Gold III"
+    },
+    {
+     "id": "47",
+     "integralRankName": "Gold II"
+    },
+    {
+     "id": "48",
+     "integralRankName": "Gold I"
+    },
+    {
+     "id": "49",
+     "integralRankName": "Glory"
+    },
+    {
+     "id": "50",
+     "integralRankName": "Bronze III"
+    },
+    {
+     "id": "51",
+     "integralRankName": "Bronze II"
+    },
+    {
+     "id": "52",
+     "integralRankName": "Bronze I"
+    },
+    {
+     "id": "53",
+     "integralRankName": "Silver III"
+    },
+    {
+     "id": "54",
+     "integralRankName": "Silver II"
+    },
+    {
+     "id": "55",
+     "integralRankName": "Silver I"
+    },
+    {
+     "id": "56",
+     "integralRankName": "Gold IV"
+    },
+    {
+     "id": "57",
+     "integralRankName": "Gold III"
+    },
+    {
+     "id": "58",
+     "integralRankName": "Gold II"
+    },
+    {
+     "id": "59",
+     "integralRankName": "Gold I"
+    },
+    {
+     "id": "60",
+     "integralRankName": "Glory"
+    },
+    {
+     "id": "61",
+     "integralRankName": "Bronze III"
+    },
+    {
+     "id": "62",
+     "integralRankName": "Bronze II"
+    },
+    {
+     "id": "63",
+     "integralRankName": "Bronze I"
+    },
+    {
+     "id": "64",
+     "integralRankName": "Silver III"
+    },
+    {
+     "id": "65",
+     "integralRankName": "Silver II"
+    },
+    {
+     "id": "66",
+     "integralRankName": "Silver I"
+    },
+    {
+     "id": "67",
+     "integralRankName": "Gold IV"
+    },
+    {
+     "id": "68",
+     "integralRankName": "Gold III"
+    },
+    {
+     "id": "69",
+     "integralRankName": "Gold II"
+    },
+    {
+     "id": "70",
+     "integralRankName": "Gold I"
+    },
+    {
+     "id": "71",
+     "integralRankName": "Glory"
+    },
+    {
+     "id": "72",
+     "integralRankName": "Crystal III"
+    },
+    {
+     "id": "73",
+     "integralRankName": "Crystal II"
+    },
+    {
+     "id": "74",
+     "integralRankName": "Crystal I"
+    },
+    {
+     "id": "75",
+     "integralRankName": "Diamond III"
+    },
+    {
+     "id": "76",
+     "integralRankName": "Diamond II"
+    },
+    {
+     "id": "77",
+     "integralRankName": "Diamond I"
+    },
+    {
+     "id": "78",
+     "integralRankName": "Peak"
     }
    ]
   },
@@ -8310,6 +11311,98 @@
     }
    ]
   },
+  "TableLadderBubble": {
+   "key_column": "id",
+   "text_columns": [
+    "content"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "content": "The top 32 in Peak Arena can enter the Championship"
+    },
+    {
+     "id": "2",
+     "content": "Word is the Ladder Shop has new stock"
+    },
+    {
+     "id": "3",
+     "content": "The Championship has better rewards now"
+    }
+   ]
+  },
+  "TableLimitChallengeLevel": {
+   "key_column": "id",
+   "text_columns": [
+    "conditionText1",
+    "conditionText2",
+    "conditionText3"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "conditionText1": "Clear the stage",
+     "conditionText2": "Clear in 8 turns",
+     "conditionText3": "60% HP remaining"
+    },
+    {
+     "id": "2",
+     "conditionText1": "Clear the stage",
+     "conditionText2": "Clear in 8 turns",
+     "conditionText3": "No one falls"
+    },
+    {
+     "id": "3",
+     "conditionText1": "Clear the stage",
+     "conditionText2": "Clear in 8 turns",
+     "conditionText3": "Deploy a Lv70 8-star Bartholomew Kuma"
+    },
+    {
+     "id": "4",
+     "conditionText1": "Clear the stage",
+     "conditionText2": "Clear in 8 turns",
+     "conditionText3": "60% HP remaining"
+    },
+    {
+     "id": "5",
+     "conditionText1": "Clear the stage",
+     "conditionText2": "Clear in 8 turns",
+     "conditionText3": "No one falls"
+    },
+    {
+     "id": "6",
+     "conditionText1": "Clear the stage",
+     "conditionText2": "Clear in 8 turns",
+     "conditionText3": "Deploy a Lv75 8-star Rob Lucci"
+    },
+    {
+     "id": "7",
+     "conditionText1": "Clear the stage",
+     "conditionText2": "Clear in 8 turns",
+     "conditionText3": "60% HP remaining"
+    },
+    {
+     "id": "8",
+     "conditionText1": "Clear the stage",
+     "conditionText2": "Clear in 8 turns",
+     "conditionText3": "Deploy a Lv80 8-star Jinbe"
+    },
+    {
+     "id": "9",
+     "conditionText1": "Clear the stage",
+     "conditionText2": "Clear in 8 turns",
+     "conditionText3": "60% HP remaining"
+    },
+    {
+     "id": "10",
+     "conditionText1": "Clear the stage",
+     "conditionText2": "Clear in 8 turns",
+     "conditionText3": "Deploy a Lv80 8-star Silvers Rayleigh"
+    }
+   ]
+  },
   "TableMainStoryActivity": {
    "key_column": "id",
    "text_columns": [
@@ -8470,6 +11563,98 @@
      "id": "22",
      "name": "Phase 5",
      "desc": "Main Story Chapter 46: \"Bloom the Flower of Friendship\" - Limited-Time Hard Stage Challenge"
+    }
+   ]
+  },
+  "TableMainStoryActivityDifficulty": {
+   "key_column": "id",
+   "text_columns": [
+    "showTime"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "showTime": "Within 24 hours"
+    },
+    {
+     "id": "2",
+     "showTime": "After 24 hours"
+    },
+    {
+     "id": "3",
+     "showTime": "After 2 days"
+    },
+    {
+     "id": "4",
+     "showTime": "After 3 days"
+    },
+    {
+     "id": "5",
+     "showTime": "Within 24 hours"
+    },
+    {
+     "id": "6",
+     "showTime": "After 24 hours"
+    },
+    {
+     "id": "7",
+     "showTime": "After 2 days"
+    },
+    {
+     "id": "8",
+     "showTime": "After 3 days"
+    },
+    {
+     "id": "9",
+     "showTime": "Within 24 hours"
+    },
+    {
+     "id": "10",
+     "showTime": "After 24 hours"
+    },
+    {
+     "id": "11",
+     "showTime": "After 2 days"
+    },
+    {
+     "id": "12",
+     "showTime": "After 3 days"
+    },
+    {
+     "id": "13",
+     "showTime": "Within 24 hours"
+    },
+    {
+     "id": "14",
+     "showTime": "After 24 hours"
+    },
+    {
+     "id": "15",
+     "showTime": "After 2 days"
+    },
+    {
+     "id": "16",
+     "showTime": "After 3 days"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "3",
+     "showTime": "After 3 days"
+    },
+    {
+     "id": "4",
+     "showTime": "After 7 days"
+    },
+    {
+     "id": "11",
+     "showTime": "After 3 days"
+    },
+    {
+     "id": "12",
+     "showTime": "After 7 days"
     }
    ]
   },
@@ -8778,6 +11963,191 @@
      "id": "2202",
      "name": "Episode 2",
      "taskName": "Chapter 46: Target: Marine HQ"
+    }
+   ]
+  },
+  "TableMedal": {
+   "key_column": "medalId",
+   "text_columns": [
+    "name",
+    "specialInfo",
+    "desc",
+    "getInfo"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "medalId": "1",
+     "name": "Beast Pirates Challenge Conqueror · Gold",
+     "specialInfo": "Exclusive chat frame;Exclusive title;Exclusive login notice",
+     "desc": "Commemorates your fearless performance in the Beast Pirates Challenge",
+     "getInfo": "Obtained by joining the Beast Pirates Challenge"
+    },
+    {
+     "medalId": "2",
+     "name": "Beast Pirates Challenge Conqueror · Silver",
+     "specialInfo": "Exclusive chat frame;Exclusive title",
+     "desc": "Commemorates your fearless performance in the Beast Pirates Challenge",
+     "getInfo": "Obtained by joining the Beast Pirates Challenge"
+    },
+    {
+     "medalId": "3",
+     "name": "Beasts Pirates Challenge Conqueror · Bronze",
+     "specialInfo": "Exclusive chat frame",
+     "desc": "Commemorates your fearless performance in the Beast Pirates Challenge",
+     "getInfo": "Obtained by joining the Beast Pirates Challenge"
+    },
+    {
+     "medalId": "4",
+     "name": "Wave Breaker",
+     "specialInfo": "Exclusive chat frame",
+     "desc": "Breaking the Waves",
+     "getInfo": "Earned from an event."
+    },
+    {
+     "medalId": "5",
+     "name": "Fearless",
+     "specialInfo": "Exclusive chat frame",
+     "desc": "Brave and Fearless",
+     "getInfo": "Earned from an event."
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "medalId": "1",
+     "name": "Enies Lobby Breaker · Gold",
+     "specialInfo": "Exclusive chat frame;Exclusive title;Exclusive login notice",
+     "desc": "Commemorates your fearless performance in the Enies Lobby Challenge",
+     "getInfo": "Obtained by joining the Enies Lobby Challenge"
+    },
+    {
+     "medalId": "2",
+     "name": "Enies Lobby Breaker · Silver",
+     "specialInfo": "Exclusive chat frame;Exclusive title",
+     "desc": "Commemorates your fearless performance in the Enies Lobby Challenge",
+     "getInfo": "Obtained by joining the Enies Lobby Challenge"
+    },
+    {
+     "medalId": "3",
+     "name": "Enies Lobby Breaker · Bronze",
+     "specialInfo": "Exclusive chat frame",
+     "desc": "Commemorates your fearless performance in the Enies Lobby Challenge",
+     "getInfo": "Obtained by joining the Enies Lobby Challenge"
+    }
+   ]
+  },
+  "TableMedalChat": {
+   "key_column": "medalChatId",
+   "text_columns": [
+    "name",
+    "desc",
+    "getInfo"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "medalChatId": "1",
+     "name": "Beast Pirates Challenge Conqueror",
+     "desc": "Commemorates your fearless performance in the Beast Pirates Challenge",
+     "getInfo": "Obtained by activating the Beast Pirates Challenge Conqueror medal series"
+    },
+    {
+     "medalChatId": "2",
+     "name": "Wave Breaker",
+     "desc": "Breaking the Waves",
+     "getInfo": "Obtained by activating the Breaking the Waves medal"
+    },
+    {
+     "medalChatId": "3",
+     "name": "Fearless",
+     "desc": "Brave and Fearless",
+     "getInfo": "Obtained by activating the Fearless medal"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "medalChatId": "1",
+     "name": "Enies Lobby Breaker",
+     "desc": "Commemorates your fearless performance in the Enies Lobby Challenge",
+     "getInfo": "Obtained by activating the Enies Lobby Breaker medal series"
+    }
+   ]
+  },
+  "TableMedalMarquee": {
+   "key_column": "medalMarqueeId",
+   "text_columns": [
+    "name",
+    "pushMessage",
+    "desc",
+    "getInfo"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "medalMarqueeId": "1",
+     "name": "Beast Pirates Challenge Conqueror",
+     "pushMessage": "<color=#91DB9D>{0}</color>, Conqueror of the Beast Pirates Challenge, has returned to the Grand Line",
+     "desc": "Commemorates your fearless performance in the Beast Pirates Challenge",
+     "getInfo": "Obtained by activating the Beast Pirates Challenge Conqueror medal series"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "medalMarqueeId": "1",
+     "name": "Enies Lobby Breaker",
+     "pushMessage": "<color=#91DB9D>{0}</color>, Breaker of Enies Lobby, has returned to the Grand Line",
+     "desc": "Commemorates your fearless performance in the Enies Lobby Challenge",
+     "getInfo": "Obtained by activating the Enies Lobby Breaker medal series"
+    }
+   ]
+  },
+  "TableMedalTitle": {
+   "key_column": "medalTitleId",
+   "text_columns": [
+    "name",
+    "desc",
+    "getInfo"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "medalTitleId": "1",
+     "name": "Beast Pirates Challenge Conqueror",
+     "desc": "Commemorates your fearless performance in the Beast Pirates Challenge",
+     "getInfo": "Obtained by activating the Beast Pirates Challenge Conqueror medal series"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "medalTitleId": "1",
+     "name": "Enies Lobby Breaker",
+     "desc": "Commemorates your fearless performance in the Enies Lobby Challenge",
+     "getInfo": "Obtained by activating the Enies Lobby Breaker medal series"
+    }
+   ]
+  },
+  "TableMissionDispatch": {
+   "key_column": "id",
+   "text_columns": [
+    "missionName"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "missionName": "Dispatch Squad"
+    },
+    {
+     "id": "2",
+     "missionName": "Dispatch Company"
+    },
+    {
+     "id": "3",
+     "missionName": "Dispatch Battalion"
     }
    ]
   },
@@ -9145,6 +12515,69 @@
     }
    ]
   },
+  "TableMutiTeamFightRanklimit": {
+   "key_column": "id",
+   "text_columns": [
+    "rkname",
+    "ranktext"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "11001",
+     "rkname": "Novice",
+     "ranktext": "*Test\\n*This tier is\\n*Novice"
+    },
+    {
+     "id": "11002",
+     "rkname": "Bronze",
+     "ranktext": "*Test\\n*This tier is\\n*Bronze"
+    },
+    {
+     "id": "11003",
+     "rkname": "Silver",
+     "ranktext": "*Test\\n*This tier is\\n*Silver"
+    },
+    {
+     "id": "11004",
+     "rkname": "Gold",
+     "ranktext": "*Test\\n*This tier is\\n*Gold"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "11001",
+     "rkname": "Novice",
+     "ranktext": "*Your tier is Novice*In this tier, character levels sync to Lv60, unlocked skills and their follow-up skills sync to max level, and gear, gems, potions, stars, Breakthrough, Training, outfits and titles have no effect*Failed attacks in this tier don't lose points*This tier has no tier settlement rewards"
+    },
+    {
+     "id": "11002",
+     "rkname": "Bronze",
+     "ranktext": "*Your tier is Bronze*In this tier, character levels sync to Lv60, unlocked skills and their follow-up skills sync to max level, and gear, gems, potions, stars, Breakthrough, Training, outfits and titles have no effect*Failed attacks in this tier don't lose points"
+    },
+    {
+     "id": "11003",
+     "rkname": "Silver",
+     "ranktext": "*Your tier is Silver*In this tier, character levels sync to Lv60, unlocked skills and their follow-up skills sync to max level, and gear, gems, potions, stars, Breakthrough, Training, outfits and titles have no effect*Failed attacks in this tier don't lose points"
+    },
+    {
+     "id": "11004",
+     "rkname": "Gold",
+     "ranktext": "*Your tier is Gold*In this tier, character levels sync to Lv60, unlocked skills and their follow-up skills sync to max level, and gear, gems, potions, stars, Breakthrough, Training, outfits and titles have no effect*Reaching the point cap in this tier triggers a Promotion Match!"
+    },
+    {
+     "id": "11005",
+     "rkname": "Diamond",
+     "ranktext": "*Your tier is Diamond*In this tier, characters' gear, gems, potions, outfits and titles have no effect"
+    },
+    {
+     "id": "11006",
+     "rkname": "Master",
+     "ranktext": "*Your tier is Master*No stat module limits for characters in this tier. Race for the peak together!*In this tier, attacking fewer than 40 times a week deducts 100 points after weekly settlement*In this tier you can't see opponents' avatars or names*In this tier, one extra random unit is hidden when previewing an opponent's lineup"
+    }
+   ]
+  },
   "TableNameFrame": {
    "key_column": "ID",
    "text_columns": [
@@ -9321,10 +12754,20 @@
      "redPacketId": "1",
      "redPacketName": "Rainbow Diamond Gift Packet",
      "blessing": "0"
+    },
+    {
+     "redPacketId": "2",
+     "redPacketName": "Item Red Envelope",
+     "blessing": "Happy 6th Anniversary"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "1/3 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "redPacketId": "2",
+     "redPacketName": "Item Red Envelope",
+     "blessing": "Happy New Year"
+    }
+   ]
   },
   "TableNewTriggerGiftGroup": {
    "key_column": "id",
@@ -9471,6 +12914,10 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "groupId": "1",
+     "groupName": "Daily Must-Dos"
+    },
+    {
      "groupId": "2",
      "groupName": "Story Replay"
     },
@@ -9483,11 +12930,63 @@
      "groupName": "Event Dungeons"
     },
     {
+     "groupId": "5",
+     "groupName": "Sailing Life"
+    },
+    {
+     "groupId": "6",
+     "groupName": "Side Quests"
+    },
+    {
      "groupId": "7",
      "groupName": "Proof of Strength"
     }
+   ]
+  },
+  "TablePartnerLevel": {
+   "key_column": "level",
+   "text_columns": [
+    "describeSimple",
+    "describeComplex"
    ],
-   "partial": "4/7 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "level": "1",
+     "describeSimple": "Unlocks D-rank quests and item rewards",
+     "describeComplex": "Can complete quests up to D-rank quality and get 50 Blue Diamonds and 3 Soul-Enchant Scrolls (this reward can only be claimed once; it can't be claimed again after changing partner teams and reactivating)"
+    },
+    {
+     "level": "2",
+     "describeSimple": "Unlocks C-rank quests and item rewards",
+     "describeComplex": "Can complete quests up to C-rank quality and get 100 Blue Diamonds and 5 Golden Battle Souls (this reward can only be claimed once; it can't be claimed again after changing partner teams and reactivating)"
+    },
+    {
+     "level": "3",
+     "describeSimple": "Unlocks B-rank quests and a buff",
+     "describeComplex": "Can complete quests up to B-rank quality (this reward can only be claimed once; it can't be claimed again after changing partner teams and reactivating); when teaming with friends in Daily Bounty and Story Replay, gain extra EXP (+10% EXP for each 1 friend in the team)"
+    },
+    {
+     "level": "4",
+     "describeSimple": "Item Rewards",
+     "describeComplex": "Can complete quests up to B-rank quality and get 200 Blue Diamonds and 10 Warship Refining Stones (this reward can only be claimed once; it can't be claimed again after changing partner teams and reactivating)"
+    },
+    {
+     "level": "5",
+     "describeSimple": "Unlocks A-rank quests and Bounty Dispatch",
+     "describeComplex": "Can complete quests up to A-rank quality (this reward can only be claimed once; it can't be claimed again after changing partner teams and reactivating); once activated, invite partners to team up for Bounty Quests to unlock Quick Bounty (requires 3 partners in the team)"
+    },
+    {
+     "level": "6",
+     "describeSimple": "Unlocks S-rank quests and item rewards",
+     "describeComplex": "Can complete quests up to S-rank quality and get 300 Blue Diamonds and 2 Elite Recruit Tickets (this reward can only be claimed once; it can't be claimed again after changing partner teams and reactivating)"
+    },
+    {
+     "level": "7",
+     "describeSimple": "Unlocks an exclusive title reward",
+     "describeComplex": "Can complete quests up to S-rank quality and get an exclusive partner title (this reward can only be claimed once; it can't be claimed again after changing partner teams and reactivating)"
+    }
+   ]
   },
   "TablePartnerTask": {
    "key_column": "id",
@@ -9941,6 +13440,23 @@
      "id": "89",
      "description": "Partners complete {0} Advanced Recruits (not Normal) in total",
      "title": "Advanced Recruit"
+    }
+   ]
+  },
+  "TablePersonalityModel": {
+   "key_column": "fashionId",
+   "text_columns": [
+    "getInfo",
+    "mapNames",
+    "desc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "fashionId": "90001",
+     "getInfo": "Live Events",
+     "mapNames": "Shells Town",
+     "desc": "A girl from Shells Town. She brought sweet rice balls to Zoro, who had been tied to a post by the Marines for days for saving her from Helmeppo's bullying."
     }
    ]
   },
@@ -10920,6 +14436,42 @@
      "dealCompleteTip": "Purchase successful"
     },
     {
+     "itemId": "130002",
+     "dealCompleteTip": "Purchase successful. Please check the Dock"
+    },
+    {
+     "itemId": "130003",
+     "dealCompleteTip": "Purchase successful. Please check the Dock"
+    },
+    {
+     "itemId": "130004",
+     "dealCompleteTip": "Purchase successful. Please check the Dock"
+    },
+    {
+     "itemId": "130005",
+     "dealCompleteTip": "Purchase successful. Please check the Dock"
+    },
+    {
+     "itemId": "130006",
+     "dealCompleteTip": "Purchase successful. Please check the Dock"
+    },
+    {
+     "itemId": "130007",
+     "dealCompleteTip": "Purchase successful. Please check the Dock"
+    },
+    {
+     "itemId": "130008",
+     "dealCompleteTip": "Purchase successful. Please check the Dock"
+    },
+    {
+     "itemId": "130015",
+     "dealCompleteTip": "Purchase successful. Please check the Dock"
+    },
+    {
+     "itemId": "130014",
+     "dealCompleteTip": "Purchase successful. Please check the Dock"
+    },
+    {
      "itemId": "280101",
      "dealCompleteTip": "Purchase successful"
     },
@@ -11463,8 +15015,7 @@
      "itemId": "81000024",
      "dealCompleteTip": "Purchase successful"
     }
-   ],
-   "partial": "378/387 rows translated so far"
+   ]
   },
   "TablePromoteRecruit": {
    "key_column": "id",
@@ -12339,6 +15890,36 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "id": "1",
+     "description": "Clear Story Replay (Hard) {0} times",
+     "title": "Replay the Story"
+    },
+    {
+     "id": "2",
+     "description": "Clear Story Replay (Hard) {0} times",
+     "title": "Replay the Story"
+    },
+    {
+     "id": "3",
+     "description": "Clear Story Replay (Hard) {0} times",
+     "title": "Replay the Story"
+    },
+    {
+     "id": "4",
+     "description": "Clear Story Replay (Hard) {0} times",
+     "title": "Replay the Story"
+    },
+    {
+     "id": "5",
+     "description": "Join {0} Wanted Boss subjugations",
+     "title": "Boss Bounty"
+    },
+    {
+     "id": "6",
+     "description": "Join {0} Wanted Boss subjugations",
+     "title": "Boss Bounty"
+    },
+    {
      "id": "7",
      "description": "Complete {0} Bounty Quests",
      "title": "Bounty Quest"
@@ -12389,6 +15970,81 @@
      "title": "Guild Quests"
     },
     {
+     "id": "17",
+     "description": "Do {0} Limited or Elite recruits",
+     "title": "Partner Recruit"
+    },
+    {
+     "id": "18",
+     "description": "Do {0} Limited or Elite recruits",
+     "title": "Partner Recruit"
+    },
+    {
+     "id": "19",
+     "description": "Make {0} Guild Donations in total",
+     "title": "Guild Donation"
+    },
+    {
+     "id": "20",
+     "description": "Make {0} Guild Donations in total",
+     "title": "Guild Donation"
+    },
+    {
+     "id": "21",
+     "description": "Make {0} Guild Donations in total",
+     "title": "Guild Donation"
+    },
+    {
+     "id": "22",
+     "description": "Make {0} Guild Donations in total",
+     "title": "Guild Donation"
+    },
+    {
+     "id": "23",
+     "description": "Join {0} Ladder matches",
+     "title": "Ladder"
+    },
+    {
+     "id": "24",
+     "description": "Join {0} Ladder matches",
+     "title": "Ladder"
+    },
+    {
+     "id": "25",
+     "description": "Join {0} Ladder matches",
+     "title": "Ladder"
+    },
+    {
+     "id": "26",
+     "description": "Clear {0} Blood Battle stages in total",
+     "title": "Blood Battle"
+    },
+    {
+     "id": "27",
+     "description": "Clear {0} Blood Battle stages in total",
+     "title": "Blood Battle"
+    },
+    {
+     "id": "28",
+     "description": "Clear {0} Blood Battle stages in total",
+     "title": "Blood Battle"
+    },
+    {
+     "id": "29",
+     "description": "Complete {0} Sea Trade orders",
+     "title": "Maritime Trade"
+    },
+    {
+     "id": "30",
+     "description": "Complete {0} Sea Trade orders",
+     "title": "Maritime Trade"
+    },
+    {
+     "id": "31",
+     "description": "Complete {0} Sea Trade orders",
+     "title": "Maritime Trade"
+    },
+    {
      "id": "32",
      "description": "Complete {0} Expeditions",
      "title": "Expeditions"
@@ -12407,6 +16063,21 @@
      "id": "35",
      "description": "Complete {0} Expeditions",
      "title": "Expeditions"
+    },
+    {
+     "id": "36",
+     "description": "Clear Event Dungeons {0} times",
+     "title": "Event Dungeons"
+    },
+    {
+     "id": "37",
+     "description": "Clear Event Dungeons {0} times",
+     "title": "Event Dungeons"
+    },
+    {
+     "id": "38",
+     "description": "Clear Event Dungeons {0} times",
+     "title": "Event Dungeons"
     }
    ],
    "other_bundle_rows": [
@@ -12441,6 +16112,36 @@
      "title": "Guild Quests"
     },
     {
+     "id": "15",
+     "description": "Do {0} Limited or Elite recruits",
+     "title": "Partner Recruit"
+    },
+    {
+     "id": "16",
+     "description": "Do {0} Limited or Elite recruits",
+     "title": "Partner Recruit"
+    },
+    {
+     "id": "17",
+     "description": "Make {0} Guild Donations in total",
+     "title": "Guild Donation"
+    },
+    {
+     "id": "18",
+     "description": "Make {0} Guild Donations in total",
+     "title": "Guild Donation"
+    },
+    {
+     "id": "21",
+     "description": "Join {0} Ladder matches",
+     "title": "Ladder"
+    },
+    {
+     "id": "22",
+     "description": "Join {0} Ladder matches",
+     "title": "Ladder"
+    },
+    {
      "id": "24",
      "description": "Complete {0} Expeditions",
      "title": "Expeditions"
@@ -12459,9 +16160,23 @@
      "id": "27",
      "description": "Complete {0} Expeditions",
      "title": "Expeditions"
+    },
+    {
+     "id": "28",
+     "description": "Clear Event Dungeons {0} times",
+     "title": "Event Dungeons"
+    },
+    {
+     "id": "29",
+     "description": "Clear Event Dungeons {0} times",
+     "title": "Event Dungeons"
+    },
+    {
+     "id": "30",
+     "description": "Clear Event Dungeons {0} times",
+     "title": "Event Dungeons"
     }
-   ],
-   "partial": "24/57 rows translated so far"
+   ]
   },
   "TableQAgame": {
    "key_column": "questionId",
@@ -12952,6 +16667,43 @@
      "answerText": "hero_2d_2001;hero_2d_3027;hero_2d_2005;hero_2d_2004"
     }
    ]
+  },
+  "TableRemanberPhotoModule": {
+   "key_column": "id",
+   "text_columns": [
+    "from",
+    "story"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "from": "A Get-Well Gift from Rika",
+     "story": "Rika brought the bound Zoro the first rice balls she'd ever made. She added sugar, so they tasted very sweet."
+    },
+    {
+     "id": "2",
+     "from": "Farewell to Coby",
+     "story": "To thank Luffy and Zoro for saving the Marine Base and the town, Coby and the Marine soldiers saluted the two as they left."
+    }
+   ],
+   "other_bundle_rows": []
+  },
+  "TableRemanberPhotoType": {
+   "key_column": "id",
+   "text_columns": [
+    "typeName"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "typeName": "Story Footage"
+    }
+   ],
+   "other_bundle_rows": []
   },
   "TableReputationReward": {
    "key_column": "id",
@@ -13456,6 +17208,174 @@
     }
    ]
   },
+  "TableReturnSeaPrayTask": {
+   "key_column": "taskId",
+   "text_columns": [
+    "taskDesc",
+    "title"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "taskId": "1",
+     "taskDesc": "Log in today {0}/{1} times",
+     "title": "Log In"
+    },
+    {
+     "taskId": "2",
+     "taskDesc": "Join Ladder challenges {0}/{1} times",
+     "title": "Ladder Conquest"
+    },
+    {
+     "taskId": "3",
+     "taskDesc": "Join Expeditions {0}/{1} times",
+     "title": "Expeditions"
+    },
+    {
+     "taskId": "4",
+     "taskDesc": "Challenge any Abyss Challenge stage {0}/{1} times",
+     "title": "Survive the Abyss"
+    },
+    {
+     "taskId": "5",
+     "taskDesc": "Complete any Event Dungeon {0}/{1} times",
+     "title": "Event Dungeons"
+    }
+   ]
+  },
+  "TableReturnSeaSelectHero": {
+   "key_column": "id",
+   "text_columns": [
+    "name",
+    "description",
+    "descriptionDetail"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "113046",
+     "name": "Charlotte Smoothie",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "A character with sustained damage output. Targets the front row first."
+    },
+    {
+     "id": "113047",
+     "name": "Kaido",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "A balanced offense and defense character with well-rounded stats. Targets the front row first."
+    },
+    {
+     "id": "113051",
+     "name": "Vinsmoke Reiju",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "The eldest daughter of the Vinsmoke family. She loves poison and can neutralize poisoning."
+    },
+    {
+     "id": "113057",
+     "name": "Sugar",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "A control-focused support character. Targets the opposite slot first."
+    },
+    {
+     "id": "113078",
+     "name": "Jack",
+     "description": "Powerful Limited Character",
+     "descriptionDetail": "A defensive bulwark character who can absorb heavy damage. Targets the front row first."
+    },
+    {
+     "id": "113042",
+     "name": "Sabo",
+     "description": "Powerful Limited Character",
+     "descriptionDetail": "A balanced offense and defense character. Targets the front row first."
+    },
+    {
+     "id": "113064",
+     "name": "Young Whitebeard",
+     "description": "Powerful Limited Character",
+     "descriptionDetail": "A balanced offense and defense character with well-rounded stats. Targets the front row first."
+    },
+    {
+     "id": "113044",
+     "name": "Big Mom",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "A balanced offense and defense character. Targets the front row first."
+    },
+    {
+     "id": "113040",
+     "name": "Charlotte Katakuri",
+     "description": "Character Awakening Badge",
+     "descriptionDetail": "Raises Charlotte Katakuri to the Awakened state."
+    },
+    {
+     "id": "113055",
+     "name": "New World Marco",
+     "description": "Powerful Limited Character",
+     "descriptionDetail": "A balanced offense and defense character. Targets the front row first."
+    },
+    {
+     "id": "113058",
+     "name": "Cavendish",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "A balanced offense and defense character. Targets the front row first."
+    },
+    {
+     "id": "113039",
+     "name": "New World Law",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "A balanced offense and defense character. Targets the front row first."
+    },
+    {
+     "id": "113079",
+     "name": "Queen",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "A balanced offense and defense character. Targets the front row first."
+    },
+    {
+     "id": "113007",
+     "name": "Kizaru",
+     "description": "Character Awakening Badge",
+     "descriptionDetail": "Raises Kizaru to the Awakened state."
+    },
+    {
+     "id": "113008",
+     "name": "Portgas D. Ace",
+     "description": "Character Awakening Badge",
+     "descriptionDetail": "Raises Portgas D. Ace to the Awakened state."
+    },
+    {
+     "id": "113053",
+     "name": "Impel Down Hancock",
+     "description": "Character Awakening Badge",
+     "descriptionDetail": "Raises Impel Down Hancock to the Awakened state."
+    },
+    {
+     "id": "113086",
+     "name": "New World Kid",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "A balanced offense and defense character. Targets the front row first."
+    },
+    {
+     "id": "113083",
+     "name": "King",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "A balanced offense and defense character. Targets the opposite slot first."
+    },
+    {
+     "id": "113080",
+     "name": "Yamato",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "A balanced offense and defense character. Targets the opposite slot first."
+    },
+    {
+     "id": "113085",
+     "name": "Killer",
+     "description": "Popular Limited Character",
+     "descriptionDetail": "A balanced offense and defense character. Targets the front row first."
+    }
+   ],
+   "other_bundle_rows": []
+  },
   "TableReturnSeaSubPages": {
    "key_column": "id",
    "text_columns": [
@@ -13464,11 +17384,242 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "id": "1",
+     "name": "Sailing Wishes"
+    },
+    {
+     "id": "2",
+     "name": "Sailing Training"
+    },
+    {
+     "id": "3",
+     "name": "Sailing Packs"
+    },
+    {
      "id": "4",
      "name": "Voyage Shop"
+    },
+    {
+     "id": "5",
+     "name": "Sailing Catch-Up"
+    },
+    {
+     "id": "6",
+     "name": "Sailing Journal"
+    },
+    {
+     "id": "7",
+     "name": "Go to New Server"
     }
+   ]
+  },
+  "TableReturnSeaTrainActivityTasks": {
+   "key_column": "id",
+   "text_columns": [
+    "description"
    ],
-   "partial": "1/7 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "description": "Join Blood Battle {0}/{1} times"
+    },
+    {
+     "id": "2",
+     "description": "Join Blood Battle {0}/{1} times"
+    },
+    {
+     "id": "3",
+     "description": "Join Blood Battle {0}/{1} times"
+    },
+    {
+     "id": "4",
+     "description": "Join Peak Arena {0}/{1} times"
+    },
+    {
+     "id": "5",
+     "description": "Join Peak Arena {0}/{1} times"
+    },
+    {
+     "id": "6",
+     "description": "Join Peak Arena {0}/{1} times"
+    },
+    {
+     "id": "7",
+     "description": "Guild Donations {0}/{1}"
+    },
+    {
+     "id": "8",
+     "description": "Guild Donations {0}/{1}"
+    },
+    {
+     "id": "9",
+     "description": "Guild Donations {0}/{1}"
+    },
+    {
+     "id": "10",
+     "description": "Peak Arena wins {0}/{1}"
+    },
+    {
+     "id": "11",
+     "description": "Peak Arena wins {0}/{1}"
+    },
+    {
+     "id": "12",
+     "description": "Peak Arena wins {0}/{1}"
+    }
+   ]
+  },
+  "TableReturnSeaTrainDailySignIn": {
+   "key_column": "day",
+   "text_columns": [
+    "description"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "day": "1",
+     "description": "Day 1 login {0}/{1}"
+    },
+    {
+     "day": "2",
+     "description": "Day 2 login {0}/{1}"
+    },
+    {
+     "day": "3",
+     "description": "Day 3 login {0}/{1}"
+    },
+    {
+     "day": "4",
+     "description": "Day 4 login {0}/{1}"
+    },
+    {
+     "day": "5",
+     "description": "Day 5 login {0}/{1}"
+    },
+    {
+     "day": "6",
+     "description": "Day 6 login {0}/{1}"
+    },
+    {
+     "day": "7",
+     "description": "Day 7 login {0}/{1}"
+    }
+   ]
+  },
+  "TableReturnSeaTrainFightPower": {
+   "key_column": "id",
+   "text_columns": [
+    "addPowerDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "addPowerDesc": "Total Power growth {0}/{1}"
+    },
+    {
+     "id": "2",
+     "addPowerDesc": "Total Power growth {0}/{1}"
+    },
+    {
+     "id": "3",
+     "addPowerDesc": "Total Power growth {0}/{1}"
+    },
+    {
+     "id": "4",
+     "addPowerDesc": "Total Power growth {0}/{1}"
+    },
+    {
+     "id": "5",
+     "addPowerDesc": "Total Power growth {0}/{1}"
+    },
+    {
+     "id": "6",
+     "addPowerDesc": "Total Power growth {0}/{1}"
+    }
+   ]
+  },
+  "TableReturnSeaTrainResourceCost": {
+   "key_column": "id",
+   "text_columns": [
+    "costDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "2",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "3",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "4",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "5",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "6",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "7",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "8",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "9",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "10",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "11",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "12",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "13",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "14",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "15",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "16",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "17",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    },
+    {
+     "id": "18",
+     "costDesc": "Total {0} consumed {1}/{2}"
+    }
+   ]
   },
   "TableReturnSeaUIConfig": {
    "key_column": "id",
@@ -13478,6 +17629,14 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "id": "1",
+     "value": "Dear Captain:\\n    Welcome back to the greatest sea of adventure in the world.\\n    Your logbook was last updated {0} days ago. While you were back on the island of reality, we've been waiting to meet you again in the legendary sea, the \"New World\". To celebrate the start of a great adventure, we've prepared generous return rewards for you.\\n    {1} is a day worth remembering: the day you began your amazing adventure. Your journey paused at Lv{2}. Along the way you met {3} crewmates, {4}'s Power rose to {5}, and you made it onto the Ladder rankings.\\n    Though much time has passed, your legend still lives on at sea. This time, set sail for the end of the world!"
+    },
+    {
+     "id": "2",
+     "value": "yyyy/MM/dd"
+    },
+    {
      "id": "3",
      "value": "{0} days"
     },
@@ -13485,8 +17644,24 @@
      "id": "5",
      "value": "Event Time: {0}/{1} {2}:{3}-{4}/{5} {6}:{7}"
     }
+   ]
+  },
+  "TableRogueDifficulty": {
+   "key_column": "id",
+   "text_columns": [
+    "info"
    ],
-   "partial": "2/4 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "info": "Difficulty 1"
+    },
+    {
+     "id": "2",
+     "info": "Difficulty 2"
+    }
+   ]
   },
   "TableRogueEvent": {
    "key_column": "eventId",
@@ -13567,6 +17742,11 @@
      "eventSubName": "Common"
     },
     {
+     "eventId": "15",
+     "eventName": "Difficulty 1 Final Stage",
+     "eventSubName": "Common"
+    },
+    {
      "eventId": "16",
      "eventName": "Stage 1",
      "eventSubName": "Common"
@@ -13640,9 +17820,13 @@
      "eventId": "30",
      "eventName": "Stage 15",
      "eventSubName": "Common"
+    },
+    {
+     "eventId": "31",
+     "eventName": "Final Difficulty Final Stage",
+     "eventSubName": "Ultimate Boss"
     }
-   ],
-   "partial": "29/31 rows translated so far"
+   ]
   },
   "TableRogueHandBook": {
    "key_column": "id",
@@ -13999,6 +18183,43 @@
     }
    ]
   },
+  "TableSacredTreeWord": {
+   "key_column": "id",
+   "text_columns": [
+    "content"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "content": "Come try your luck"
+    },
+    {
+     "id": "2",
+     "content": "One step closer to the grand prize"
+    },
+    {
+     "id": "3",
+     "content": "How did you manage to dodge the grand prize?"
+    },
+    {
+     "id": "4",
+     "content": "The prizes are running low"
+    },
+    {
+     "id": "5",
+     "content": "What do you think the odds of a grand prize are next time?"
+    },
+    {
+     "id": "6",
+     "content": "I bet you need two more draws to win"
+    },
+    {
+     "id": "7",
+     "content": "I bet a meal the next draw hits the grand prize"
+    }
+   ]
+  },
   "TableScrollsSystem": {
    "key_column": "id",
    "text_columns": [
@@ -14007,8 +18228,16 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "id": "1",
+     "name": "Straw Hat Pirates"
+    },
+    {
      "id": "2",
      "name": "Straw Hat Crew (New World)"
+    },
+    {
+     "id": "3",
+     "name": "Marine Admirals"
     },
     {
      "id": "4",
@@ -14026,8 +18255,7 @@
      "id": "7",
      "name": "Big Mom Pirates"
     }
-   ],
-   "partial": "5/7 rows translated so far"
+   ]
   },
   "TableServerChallengeHero": {
    "key_column": "id",
@@ -14231,6 +18459,10 @@
      "Title": "Shooting"
     },
     {
+     "id": "86",
+     "Title": "Non-Fruit Users"
+    },
+    {
      "id": "117",
      "Title": "Male"
     },
@@ -14271,8 +18503,20 @@
      "Title": "Three Admirals"
     },
     {
+     "id": "267",
+     "Title": "Thriller Bark"
+    },
+    {
      "id": "272",
      "Title": "Big Mom Pirates"
+    },
+    {
+     "id": "274",
+     "Title": "World Government and Marines"
+    },
+    {
+     "id": "292",
+     "Title": "Swordsmanship and Supernovas"
     },
     {
      "id": "310",
@@ -14282,8 +18526,92 @@
      "id": "316",
      "Title": "Seven Warlords"
     }
+   ]
+  },
+  "TableSpringCookbook": {
+   "key_column": "dishId",
+   "text_columns": [
+    "dishName",
+    "desc"
    ],
-   "partial": "19/23 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "dishId": "1",
+     "dishName": "Cherry Pie",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "2",
+     "dishName": "Takoyaki",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "3",
+     "dishName": "Cream Pasta",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "4",
+     "dishName": "Pudding",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "5",
+     "dishName": "Stone-Grilled Stew",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "6",
+     "dishName": "Seafood Fried Rice",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "7",
+     "dishName": "Curry Rice",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "8",
+     "dishName": "Crispy Sausage",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "9",
+     "dishName": "Pirate Bento",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "10",
+     "dishName": "Sliced Octopus",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "11",
+     "dishName": "Fried Bread Crusts",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "12",
+     "dishName": "Western-Style Saury",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "13",
+     "dishName": "Pan-Fried Shredded Potatoes",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "14",
+     "dishName": "Super Tasty Clams",
+     "desc": "Dish description~!"
+    },
+    {
+     "dishId": "15",
+     "dishName": "Tofu Udon",
+     "desc": "Dish description~!"
+    }
+   ]
   },
   "TableSpringSpeedUpItem": {
    "key_column": "id",
@@ -14299,9 +18627,12 @@
     {
      "id": "2",
      "desc": "30 minutes"
+    },
+    {
+     "id": "3",
+     "desc": "1 hour"
     }
-   ],
-   "partial": "2/3 rows translated so far"
+   ]
   },
   "TableStrengthVerifyRankReward": {
    "key_column": "rewardId",
@@ -14311,11 +18642,38 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "rewardId": "10001",
+     "title": "Most SSR Characters"
+    },
+    {
+     "rewardId": "20001",
+     "title": "Strongest in Voyage Tower"
+    },
+    {
+     "rewardId": "30001",
+     "title": "Highest Total SSR Stars"
+    },
+    {
      "rewardId": "40001",
      "title": "Highest Lineup Power"
+    },
+    {
+     "rewardId": "50001",
+     "title": "Best Blood Battle Result"
+    },
+    {
+     "rewardId": "60001",
+     "title": "Highest Legend Activation Value"
+    },
+    {
+     "rewardId": "70001",
+     "title": "Strongest in Sea Conflict"
+    },
+    {
+     "rewardId": "80001",
+     "title": "Highest Peak Arena Score"
     }
-   ],
-   "partial": "1/8 rows translated so far"
+   ]
   },
   "TableStrengthVerifyReward": {
    "key_column": "rewardId",
@@ -14365,6 +18723,26 @@
      "conditionDes": "Voyage Tower reaches {0}"
     },
     {
+     "rewardId": "3001",
+     "conditionDes": "Total SSR stars reach {0}"
+    },
+    {
+     "rewardId": "3002",
+     "conditionDes": "Total SSR stars reach {0}"
+    },
+    {
+     "rewardId": "3003",
+     "conditionDes": "Total SSR stars reach {0}"
+    },
+    {
+     "rewardId": "3004",
+     "conditionDes": "Total SSR stars reach {0}"
+    },
+    {
+     "rewardId": "3005",
+     "conditionDes": "Total SSR stars reach {0}"
+    },
+    {
      "rewardId": "4001",
      "conditionDes": "Lineup Power reaches {0}"
     },
@@ -14405,6 +18783,46 @@
      "conditionDes": "Clear Blood Battle stage {0}"
     },
     {
+     "rewardId": "6001",
+     "conditionDes": "Total Gallery activation value reaches {0}"
+    },
+    {
+     "rewardId": "6002",
+     "conditionDes": "Total Gallery activation value reaches {0}"
+    },
+    {
+     "rewardId": "6003",
+     "conditionDes": "Total Gallery activation value reaches {0}"
+    },
+    {
+     "rewardId": "6004",
+     "conditionDes": "Total Gallery activation value reaches {0}"
+    },
+    {
+     "rewardId": "6005",
+     "conditionDes": "Total Gallery activation value reaches {0}"
+    },
+    {
+     "rewardId": "7001",
+     "conditionDes": "Sea Conflict reaches stage {0}"
+    },
+    {
+     "rewardId": "7002",
+     "conditionDes": "Sea Conflict reaches stage {0}"
+    },
+    {
+     "rewardId": "7003",
+     "conditionDes": "Sea Conflict reaches stage {0}"
+    },
+    {
+     "rewardId": "7004",
+     "conditionDes": "Sea Conflict reaches stage {0}"
+    },
+    {
+     "rewardId": "7005",
+     "conditionDes": "Sea Conflict reaches stage {0}"
+    },
+    {
      "rewardId": "8001",
      "conditionDes": "Peak Arena points reach {0}"
     },
@@ -14424,8 +18842,7 @@
      "rewardId": "8005",
      "conditionDes": "Peak Arena points reach {0}"
     }
-   ],
-   "partial": "25/40 rows translated so far"
+   ]
   },
   "TableStrengthVerifyType": {
    "key_column": "verifyType",
@@ -14492,6 +18909,84 @@
      "rankDes": "Peak Arena",
      "rankRequestDes": "Peak Arena points reach {0}",
      "rankTitle": "Peak Arena Ranking"
+    }
+   ]
+  },
+  "TableSuperiorRecruit": {
+   "key_column": "id",
+   "text_columns": [
+    "tenNum",
+    "rewardContent"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "tenNum": "<size=17><color=#ba4b00>1x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>Awakening Badge Choice Chest</color></size>*1"
+    },
+    {
+     "id": "2",
+     "tenNum": "<size=17><color=#ba4b00>2x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>Awakening Badge Choice Chest</color></size>*1"
+    },
+    {
+     "id": "3",
+     "tenNum": "<size=17><color=#ba4b00>4x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>Awakening Badge Choice Chest</color></size>*2"
+    },
+    {
+     "id": "4",
+     "tenNum": "<size=17><color=#ba4b00>6x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>Awakening Badge Choice Chest</color></size>*2"
+    },
+    {
+     "id": "5",
+     "tenNum": "<size=17><color=#ba4b00>8x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>Awakening Badge Choice Chest</color></size>*3"
+    },
+    {
+     "id": "6",
+     "tenNum": "<size=17><color=#ba4b00>10x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>Awakening Badge Choice Chest</color></size>*4"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "tenNum": "<size=17><color=#ba4b00>First</color></size><size=12><color=#714a1e> 10-Pull</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>20% Off</color></size> Recruit"
+    },
+    {
+     "id": "2",
+     "tenNum": "<size=17><color=#ba4b00>3x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>Golden Battle Soul</color></size>*10"
+    },
+    {
+     "id": "3",
+     "tenNum": "<size=17><color=#ba4b00>5x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>20% Off</color></size> Recruit"
+    },
+    {
+     "id": "4",
+     "tenNum": "<size=17><color=#ba4b00>8x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>Golden Battle Soul</color></size>*10"
+    },
+    {
+     "id": "5",
+     "tenNum": "<size=17><color=#ba4b00>11x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>20% Off</color></size> Recruit"
+    },
+    {
+     "id": "6",
+     "tenNum": "<size=17><color=#ba4b00>15x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>Golden Battle Soul</color></size>*10"
+    },
+    {
+     "id": "7",
+     "tenNum": "<size=17><color=#ba4b00>20x</color></size><size=12><color=#714a1e> 10-Pulls</color></size>",
+     "rewardContent": "<size=20><color=#ba4b00>Featured Choice Box</color></size>"
     }
    ]
   },
@@ -16076,6 +20571,27 @@
     }
    ]
   },
+  "TableTeamTaskSuccorBubble": {
+   "key_column": "id",
+   "text_columns": [
+    "content"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "content": "Bounty Aid can't earn the Leader Pack"
+    },
+    {
+     "id": "2",
+     "content": "Teaming up with real players earns more rewards"
+    },
+    {
+     "id": "3",
+     "content": "Each Bounty Aid reduces EXP gained by 5%"
+    }
+   ]
+  },
   "TableThemeActivityData": {
    "key_column": "typeId",
    "text_columns": [
@@ -16090,12 +20606,16 @@
      "titleIndex": "1.1~1.31"
     },
     {
+     "typeId": "10003",
+     "nameIndex": "Level Packs",
+     "titleIndex": "Always Open"
+    },
+    {
      "typeId": "10004",
      "nameIndex": "Bundle Purchase",
      "titleIndex": "1.16~1.31"
     }
-   ],
-   "partial": "2/3 rows translated so far"
+   ]
   },
   "TableTimeLimitTreasureType": {
    "key_column": "id",
@@ -16210,6 +20730,104 @@
     {
      "id": "10",
      "title": "7-Day Token Vault"
+    }
+   ]
+  },
+  "TableTimeLimitedLivenessActivity": {
+   "key_column": "ID",
+   "text_columns": [
+    "ExchangeBtnTextNormal",
+    "ExchangeBtnTextDone",
+    "ProgressDescriptionText"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "ID": "1",
+     "ExchangeBtnTextNormal": "Decorate",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Decoration Value"
+    },
+    {
+     "ID": "2",
+     "ExchangeBtnTextNormal": "Decorate",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Decoration Value"
+    },
+    {
+     "ID": "3",
+     "ExchangeBtnTextNormal": "Decorate",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Decoration Value"
+    },
+    {
+     "ID": "4",
+     "ExchangeBtnTextNormal": "Decorate",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Decoration Value"
+    },
+    {
+     "ID": "5",
+     "ExchangeBtnTextNormal": "Decorate",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Decoration Value"
+    },
+    {
+     "ID": "6",
+     "ExchangeBtnTextNormal": "",
+     "ExchangeBtnTextDone": "Decoration Complete",
+     "ProgressDescriptionText": "Decoration Value"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "ID": "1",
+     "ExchangeBtnTextNormal": "Develop",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Development Value"
+    },
+    {
+     "ID": "2",
+     "ExchangeBtnTextNormal": "Develop",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Development Value"
+    },
+    {
+     "ID": "3",
+     "ExchangeBtnTextNormal": "Develop",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Development Value"
+    },
+    {
+     "ID": "4",
+     "ExchangeBtnTextNormal": "Develop",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Development Value"
+    },
+    {
+     "ID": "5",
+     "ExchangeBtnTextNormal": "Develop",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Development Value"
+    },
+    {
+     "ID": "6",
+     "ExchangeBtnTextNormal": "Develop",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Development Value"
+    },
+    {
+     "ID": "7",
+     "ExchangeBtnTextNormal": "Develop",
+     "ExchangeBtnTextDone": "",
+     "ProgressDescriptionText": "Development Value"
+    },
+    {
+     "ID": "8",
+     "ExchangeBtnTextNormal": "",
+     "ExchangeBtnTextDone": "Development Complete",
+     "ProgressDescriptionText": "Development Value"
     }
    ]
   },
@@ -17093,12 +21711,24 @@
      "itemTypeText": "Consumables"
     },
     {
+     "itemTypeId": "200",
+     "itemTypeText": "Materials"
+    },
+    {
      "itemTypeId": "300",
      "itemTypeText": "Skills"
     },
     {
      "itemTypeId": "400",
      "itemTypeText": "Characters"
+    },
+    {
+     "itemTypeId": "500",
+     "itemTypeText": "Premium Gems"
+    },
+    {
+     "itemTypeId": "600",
+     "itemTypeText": "Breakthrough Items"
     },
     {
      "itemTypeId": "1001",
@@ -17155,6 +21785,30 @@
     {
      "itemTypeId": "6001",
      "itemTypeText": "Breakthrough Book"
+    },
+    {
+     "itemTypeId": "6002",
+     "itemTypeText": "Breakthrough Crowns"
+    },
+    {
+     "itemTypeId": "6003",
+     "itemTypeText": "Breakthrough Scrolls"
+    },
+    {
+     "itemTypeId": "6004",
+     "itemTypeText": "Breakthrough Sea Charts"
+    },
+    {
+     "itemTypeId": "6005",
+     "itemTypeText": "Breakthrough Elixirs"
+    },
+    {
+     "itemTypeId": "20000",
+     "itemTypeText": "Lifestyle Goods"
+    },
+    {
+     "itemTypeId": "30000",
+     "itemTypeText": "Materials"
     },
     {
      "itemTypeId": "40000",
@@ -17276,8 +21930,7 @@
      "itemTypeId": "500001",
      "itemTypeText": "Warship"
     }
-   ],
-   "partial": "47/56 rows translated so far"
+   ]
   },
   "TableURRecruitHeroPreview": {
    "key_column": "id",
@@ -17296,6 +21949,42 @@
      "heroAbility": "Gum-Gum Fruit"
     },
     {
+     "id": "2",
+     "heroStyle": "Single Burst",
+     "heroAttackTarget": "Front",
+     "heroAbility": "Flame-Flame Fruit"
+    },
+    {
+     "id": "3",
+     "heroStyle": "Single Burst",
+     "heroAttackTarget": "Front",
+     "heroAbility": "Rumble-Rumble Fruit"
+    },
+    {
+     "id": "4",
+     "heroStyle": "Single Burst",
+     "heroAttackTarget": "Front",
+     "heroAbility": "Love-Love Fruit"
+    },
+    {
+     "id": "5",
+     "heroStyle": "Single Burst",
+     "heroAttackTarget": "Front",
+     "heroAbility": "Sand-Sand Fruit"
+    },
+    {
+     "id": "6",
+     "heroStyle": "Single Burst",
+     "heroAttackTarget": "Front",
+     "heroAbility": "Sand-Sand Fruit"
+    },
+    {
+     "id": "7",
+     "heroStyle": "Single Burst",
+     "heroAttackTarget": "Front",
+     "heroAbility": "Sand-Sand Fruit"
+    },
+    {
      "id": "8",
      "heroStyle": "Balanced",
      "heroAttackTarget": "Beast Pirates",
@@ -17308,14 +21997,19 @@
      "heroAbility": "Soul-Soul Fruit"
     },
     {
+     "id": "10",
+     "heroStyle": "Single Burst",
+     "heroAttackTarget": "Roger Pirates",
+     "heroAbility": "None"
+    },
+    {
      "id": "11",
      "heroStyle": "Balanced",
      "heroAttackTarget": "Straw Hat Pirates",
      "heroAbility": "Human-Human Fruit"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "4/11 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableURRecruitUI": {
    "key_column": "id",
@@ -17627,9 +22321,81 @@
     {
      "stageId": "1",
      "stageName": "Preparation Phase"
+    },
+    {
+     "stageId": "2",
+     "stageName": "Drink Purchase"
+    },
+    {
+     "stageId": "3",
+     "stageName": "Interval"
+    },
+    {
+     "stageId": "4",
+     "stageName": "Main Course Purchase"
+    },
+    {
+     "stageId": "5",
+     "stageName": "Interval"
+    },
+    {
+     "stageId": "6",
+     "stageName": "Dessert Purchase"
+    },
+    {
+     "stageId": "7",
+     "stageName": "Interval"
+    },
+    {
+     "stageId": "8",
+     "stageName": "Music Purchase"
+    },
+    {
+     "stageId": "9",
+     "stageName": "Interval"
+    },
+    {
+     "stageId": "10",
+     "stageName": "Dance Purchase"
+    },
+    {
+     "stageId": "11",
+     "stageName": "Interval"
+    },
+    {
+     "stageId": "12",
+     "stageName": "Normal Banquet Ends"
+    },
+    {
+     "stageId": "13",
+     "stageName": "Advanced Banquet Ends"
+    },
+    {
+     "stageId": "14",
+     "stageName": "Deluxe Banquet Ends"
     }
+   ]
+  },
+  "TableUnionBanquetType": {
+   "key_column": "banquetType",
+   "text_columns": [
+    "banquetName"
    ],
-   "partial": "1/14 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "banquetType": "1",
+     "banquetName": "Normal Banquet"
+    },
+    {
+     "banquetType": "2",
+     "banquetName": "Advanced Banquet"
+    },
+    {
+     "banquetType": "3",
+     "banquetName": "Deluxe Banquet"
+    }
+   ]
   },
   "TableUnionBountyGroup": {
    "key_column": "groupId",
@@ -17663,6 +22429,11 @@
      "showArea": "Inside Rainbase"
     },
     {
+     "groupId": "2",
+     "showGroupName": "Enel",
+     "showArea": "Jaya"
+    },
+    {
      "groupId": "3",
      "showGroupName": "Gecko Moria",
      "showArea": "Thriller Bark Forest"
@@ -17672,8 +22443,7 @@
      "showGroupName": "Sengoku",
      "showArea": "Oris Plaza"
     }
-   ],
-   "partial": "6/7 rows translated so far"
+   ]
   },
   "TableUnionBountyGroupTask": {
    "key_column": "id",
@@ -18036,6 +22806,27 @@
     }
    ]
   },
+  "TableUnionDeclareGroup": {
+   "key_column": "id",
+   "text_columns": [
+    "title"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "title": "General Battle"
+    },
+    {
+     "id": "2",
+     "title": "Core Battle"
+    },
+    {
+     "id": "3",
+     "title": "Vanguard Battle"
+    }
+   ]
+  },
   "TableUnionPrayFrag": {
    "key_column": "id",
    "text_columns": [
@@ -18269,6 +23060,40 @@
     }
    ]
   },
+  "TableUnionRedPacket": {
+   "key_column": "redPacketId",
+   "text_columns": [
+    "redPacketName"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "redPacketId": "1",
+     "redPacketName": "New Year Gold Bar Red Envelope"
+    },
+    {
+     "redPacketId": "2",
+     "redPacketName": "New Year Diamond Red Envelope"
+    }
+   ]
+  },
+  "TableUnionRepairType": {
+   "key_column": "typeId",
+   "text_columns": [
+    "typeDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "typeId": "1",
+     "typeDesc": "Normal Repairs"
+    },
+    {
+     "typeId": "2",
+     "typeDesc": "Advanced Repairs"
+    }
+   ]
+  },
   "TableUnionSLGGrade": {
    "key_column": "id",
    "text_columns": [
@@ -18283,9 +23108,45 @@
     {
      "id": "2",
      "name": "Gold"
+    },
+    {
+     "id": "3",
+     "name": "King"
+    },
+    {
+     "id": "4",
+     "name": "King"
+    },
+    {
+     "id": "5",
+     "name": "King"
     }
+   ]
+  },
+  "TableUnionSLGRank": {
+   "key_column": "id",
+   "text_columns": [
+    "name"
    ],
-   "partial": "2/5 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "name": "Season Merit"
+    },
+    {
+     "id": "2",
+     "name": "Season Power"
+    },
+    {
+     "id": "3",
+     "name": "Weekly Merit"
+    },
+    {
+     "id": "4",
+     "name": "Weekly Power"
+    }
+   ]
   },
   "TableUnionSLGRankReward": {
    "key_column": "id",
@@ -19670,6 +24531,76 @@
     }
    ]
   },
+  "TableUnionSLGWarReport": {
+   "key_column": "id",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "desc": "<color=#a32e00>{0} </color>successfully cleared <color=#d14e0d>{1} {2}</color>. The fleet has returned to port"
+    },
+    {
+     "id": "2",
+     "desc": "<color=#a32e00>{0} </color>failed to clear <color=#d14e0d>{1} {2}</color>. The fleet has returned to port"
+    },
+    {
+     "id": "3",
+     "desc": "Guild Leader <color=#a32e00>{0} </color> declared war on <color=#d14e0d>{2}</color>, an island held by <color=#a32e00>{1} </color>. Go rally"
+    },
+    {
+     "id": "4",
+     "desc": "<color=#a32e00>{0} </color>has met the defenders of <color=#d14e0d>{1}</color>. The battle is fierce"
+    },
+    {
+     "id": "5",
+     "desc": "<color=#a32e00>{0} </color> has pushed all the way forward in the <color=#d14e0d>{1}</color> siege and is now fighting for final control"
+    },
+    {
+     "id": "6",
+     "desc": "<color=#a32e00>{0} </color> suffered a defeat in the <color=#d14e0d>{1}</color> siege. The fleet has returned to its home port"
+    },
+    {
+     "id": "7",
+     "desc": "<color=#a32e00>{0} </color> worked together in the <color=#d14e0d>{1}</color> island battle and has taken control of the island"
+    },
+    {
+     "id": "8",
+     "desc": "<color=#a32e00>{0} </color> narrowly lost the <color=#d14e0d>{1}</color> island battle and has lost control of the island"
+    },
+    {
+     "id": "9",
+     "desc": "A new week has begun. <color=#d14e0d>{0}</color> has gathered a new band of enemies. Explore this island and you may find good loot"
+    }
+   ]
+  },
+  "TableUnionShop": {
+   "key_column": "shopType",
+   "text_columns": [
+    "shopName"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "shopType": "11",
+     "shopName": "Basic Items"
+    },
+    {
+     "shopType": "12",
+     "shopName": "Discount Items"
+    },
+    {
+     "shopType": "13",
+     "shopName": "Limited Items"
+    },
+    {
+     "shopType": "14",
+     "shopName": "Auction House"
+    }
+   ]
+  },
   "TableUnionStoreroomDonate": {
    "key_column": "id",
    "text_columns": [
@@ -19684,9 +24615,12 @@
     {
      "id": "2",
      "donateName": "Advanced"
+    },
+    {
+     "id": "3",
+     "donateName": "Deluxe"
     }
-   ],
-   "partial": "2/3 rows translated so far"
+   ]
   },
   "TableUnionWarGrade": {
    "key_column": "id",
@@ -19702,9 +24636,12 @@
     {
      "id": "2",
      "name": "Gold"
+    },
+    {
+     "id": "3",
+     "name": "King"
     }
-   ],
-   "partial": "2/3 rows translated so far"
+   ]
   },
   "TableUnionWarRank": {
    "key_column": "id",
@@ -19714,6 +24651,14 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "id": "1",
+     "name": "Team Power"
+    },
+    {
+     "id": "2",
+     "name": "Teams Defeated"
+    },
+    {
      "id": "3",
      "name": "Damage Rankings"
     },
@@ -19721,8 +24666,7 @@
      "id": "4",
      "name": "Guild Rankings"
     }
-   ],
-   "partial": "2/4 rows translated so far"
+   ]
   },
   "TableUnionWarReward": {
    "key_column": "id",
@@ -20111,9 +25055,75 @@
      "stageName": "Ranking Phase",
      "stageDesc": "Ranking Phase",
      "roundStageName": ""
+    },
+    {
+     "id": "3",
+     "stageName": "Ranking Phase",
+     "stageDesc": "Ranking to Match Interval",
+     "roundStageName": ""
+    },
+    {
+     "id": "4",
+     "stageName": "Match Phase",
+     "stageDesc": "Round 1",
+     "roundStageName": "Preparation Phase"
+    },
+    {
+     "id": "5",
+     "stageName": "Match Phase",
+     "stageDesc": "Round 1",
+     "roundStageName": "Match Phase"
+    },
+    {
+     "id": "6",
+     "stageName": "Match Phase",
+     "stageDesc": "Round 2",
+     "roundStageName": "Preparation Phase"
+    },
+    {
+     "id": "7",
+     "stageName": "Match Phase",
+     "stageDesc": "Round 2",
+     "roundStageName": "Match Phase"
+    },
+    {
+     "id": "8",
+     "stageName": "Match Phase",
+     "stageDesc": "Round 3",
+     "roundStageName": "Preparation Phase"
+    },
+    {
+     "id": "9",
+     "stageName": "Match Phase",
+     "stageDesc": "Round 3",
+     "roundStageName": "Match Phase"
+    },
+    {
+     "id": "10",
+     "stageName": "Match Phase",
+     "stageDesc": "Round 4",
+     "roundStageName": "Preparation Phase"
+    },
+    {
+     "id": "11",
+     "stageName": "Match Phase",
+     "stageDesc": "Round 4",
+     "roundStageName": "Match Phase"
+    },
+    {
+     "id": "12",
+     "stageName": "Season Settlement",
+     "stageDesc": "The season is about to end",
+     "roundStageName": ""
     }
    ],
    "other_bundle_rows": [
+    {
+     "id": "1",
+     "stageName": "Preview Phase",
+     "stageDesc": "A new Guild Sea Battle season is about to begin. Captains, please prepare well. The next phase is this season's Ranking Phase",
+     "roundStageName": ""
+    },
     {
      "id": "2",
      "stageName": "Ranking Phase",
@@ -20121,13 +25131,83 @@
      "roundStageName": ""
     },
     {
+     "id": "3",
+     "stageName": "Final Ranking",
+     "stageDesc": "The Ranking Phase has ended. A new sea battle is about to begin",
+     "roundStageName": ""
+    },
+    {
+     "id": "4",
+     "stageName": "Round 1",
+     "stageDesc": "Round 1",
+     "roundStageName": "Preparation Phase"
+    },
+    {
+     "id": "5",
+     "stageName": "Round 1",
+     "stageDesc": "Round 1",
+     "roundStageName": "Match Phase"
+    },
+    {
+     "id": "6",
+     "stageName": "Round 2",
+     "stageDesc": "Round 2",
+     "roundStageName": "Preparation Phase"
+    },
+    {
+     "id": "7",
+     "stageName": "Round 2",
+     "stageDesc": "Round 2",
+     "roundStageName": "Match Phase"
+    },
+    {
+     "id": "8",
+     "stageName": "Round 3",
+     "stageDesc": "Round 3",
+     "roundStageName": "Preparation Phase"
+    },
+    {
+     "id": "9",
+     "stageName": "Round 3",
+     "stageDesc": "Round 3",
+     "roundStageName": "Match Phase"
+    },
+    {
+     "id": "10",
+     "stageName": "Round 4",
+     "stageDesc": "Round 4",
+     "roundStageName": "Preparation Phase"
+    },
+    {
+     "id": "11",
+     "stageName": "Round 4",
+     "stageDesc": "Round 4",
+     "roundStageName": "Match Phase"
+    },
+    {
      "id": "12",
      "stageName": "Season Settlement",
      "stageDesc": "This season is about to end. Captains, hurry and exchange your rewards. Mode currency will expire after it ends",
      "roundStageName": ""
     }
+   ]
+  },
+  "TableVideoRecruitConfig": {
+   "key_column": "id",
+   "text_columns": [
+    "value"
    ],
-   "partial": "4/24 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "4",
+     "value": "Every"
+    },
+    {
+     "id": "5",
+     "value": "recruits guarantee"
+    }
+   ]
   },
   "TableVideoRecruitUI": {
    "key_column": "id",
@@ -20472,11 +25552,38 @@
    "content_diverges_between_bundles": false,
    "rows": [
     {
+     "taskId": "101",
+     "taskName": "Join 1 Abyss stage"
+    },
+    {
+     "taskId": "102",
+     "taskName": "Join Event Dungeons"
+    },
+    {
+     "taskId": "103",
+     "taskName": "Obtain {0}, {1}"
+    },
+    {
+     "taskId": "104",
+     "taskName": "Consume {0}, {1}"
+    },
+    {
+     "taskId": "105",
+     "taskName": "Obtain {0}, {1}"
+    },
+    {
+     "taskId": "106",
+     "taskName": "Consume {0}, {1}"
+    },
+    {
      "taskId": "107",
      "taskName": "Obtained {0}"
+    },
+    {
+     "taskId": "108",
+     "taskName": "Consume {0}"
     }
-   ],
-   "partial": "1/8 rows translated so far"
+   ]
   },
   "TableYearFunActivityQA": {
    "key_column": "questionId",
@@ -20523,6 +25630,147 @@
     }
    ]
   },
+  "TableYearFunActivityRiddle": {
+   "key_column": "questionId",
+   "text_columns": [
+    "questionText"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "questionId": "2",
+     "questionText": "Is that a fish? No, it's a restaurant at sea!"
+    },
+    {
+     "questionId": "4",
+     "questionText": "Is this where the Pirate King was executed back then?"
+    },
+    {
+     "questionId": "6",
+     "questionText": "That's not a mountain ahead! It's a whale!!"
+    },
+    {
+     "questionId": "8",
+     "questionText": "Is this really a town that welcomes pirates?"
+    },
+    {
+     "questionId": "10",
+     "questionText": "A battle of honor between warriors that has lasted a hundred years?!"
+    },
+    {
+     "questionId": "12",
+     "questionText": "There's no doctor on this island?!"
+    },
+    {
+     "questionId": "14",
+     "questionText": "The legendary City of Gold really does exist!"
+    }
+   ]
+  },
+  "TablepromoteUI": {
+   "key_column": "promotionLevel",
+   "text_columns": [
+    "promoteName",
+    "promoteDes",
+    "propUp",
+    "promoteNameNO",
+    "promoteDesNO",
+    "propUpNO",
+    "promoteSummary"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "promotionLevel": "1",
+     "promoteName": "Promotion 1",
+     "promoteDes": "Unlocks Super Ultimate; Rage cap raised to <color=#d14e0d>200</color>",
+     "propUp": "<color=#d14e0d>HP, Attack, Defense and Speed greatly increased</color>",
+     "promoteNameNO": "<color=#837E74FF>Promotion 1</color>",
+     "promoteDesNO": "<color=#837E74FF>Unlocks Super Ultimate; Rage cap raised to 200</color>",
+     "propUpNO": "<color=#837E74FF>HP, Attack, Defense and Speed greatly increased</color>",
+     "promoteSummary": "Unlocks Super Ultimate, raises Rage cap"
+    },
+    {
+     "promotionLevel": "2",
+     "promoteName": "Promotion 2",
+     "promoteDes": "Unlocks <color=#d14e0d>Promotion Talent</color>; Soul Jade cap raised to <color=#d14e0d>15</color>",
+     "propUp": "<color=#d14e0d>HP, Attack, Defense and Speed greatly increased</color>",
+     "promoteNameNO": "<color=#837E74FF>Promotion 2</color>",
+     "promoteDesNO": "<color=#837E74FF>Unlocks Promotion Talent; Soul Jade cap raised to 15</color>",
+     "propUpNO": "<color=#837E74FF>HP, Attack, Defense and Speed greatly increased</color>",
+     "promoteSummary": "Unlocks Talent, raises Soul Jade cap"
+    },
+    {
+     "promotionLevel": "3",
+     "promoteName": "Promotion 3",
+     "promoteDes": "Unlocks <color=#d14e0d>Passive and Talent</color>; raises the <color=#d14e0d>skill level cap</color> and <color=#d14e0d>skill book usage cap</color>",
+     "propUp": "<color=#d14e0d>HP, Attack, Defense and Speed greatly increased</color>",
+     "promoteNameNO": "<color=#837E74FF>Promotion 3</color>",
+     "promoteDesNO": "<color=#837E74FF>Unlocks Promotion Passive and Talent; raises the skill level cap and skill book usage cap</color>",
+     "propUpNO": "<color=#837E74FF>HP, Attack, Defense and Speed greatly increased</color>",
+     "promoteSummary": "Unlocks Passive and Talent, raises skill caps"
+    }
+   ]
+  },
+  "TabletrialReward": {
+   "key_column": "rewardId",
+   "text_columns": [
+    "conditionText"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "rewardId": "101",
+     "conditionText": "Clear Stage 1"
+    },
+    {
+     "rewardId": "102",
+     "conditionText": "Clear Stage 2"
+    },
+    {
+     "rewardId": "103",
+     "conditionText": "Clear Stage 3"
+    },
+    {
+     "rewardId": "104",
+     "conditionText": "Clear Stage 4"
+    },
+    {
+     "rewardId": "105",
+     "conditionText": "Clear Stage 5"
+    },
+    {
+     "rewardId": "106",
+     "conditionText": "Clear Stage 1"
+    },
+    {
+     "rewardId": "107",
+     "conditionText": "Clear Stage 2"
+    },
+    {
+     "rewardId": "108",
+     "conditionText": "Clear Stage 3"
+    },
+    {
+     "rewardId": "109",
+     "conditionText": "Clear Stage 1"
+    },
+    {
+     "rewardId": "110",
+     "conditionText": "Clear Stage 2"
+    },
+    {
+     "rewardId": "111",
+     "conditionText": "Clear Stage 3"
+    },
+    {
+     "rewardId": "112",
+     "conditionText": "Clear Stage 1"
+    }
+   ],
+   "other_bundle_rows": []
+  },
   "TabletrialStage": {
    "key_column": "stageId",
    "text_columns": [
@@ -20532,18 +25780,177 @@
    ],
    "content_diverges_between_bundles": true,
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
-   "rows": [],
+   "rows": [
+    {
+     "stageId": "1001",
+     "name": "Stage 1",
+     "text": "Dream Challenge,",
+     "conditionText": ""
+    },
+    {
+     "stageId": "1002",
+     "name": "Stage 2",
+     "text": "Dream Challenge,",
+     "conditionText": "Clear the previous stage"
+    },
+    {
+     "stageId": "1003",
+     "name": "Stage 3",
+     "text": "Dream Challenge,",
+     "conditionText": "Clear the previous stage"
+    },
+    {
+     "stageId": "1004",
+     "name": "Stage 4",
+     "text": "Dream Challenge,",
+     "conditionText": "Clear the previous stage"
+    },
+    {
+     "stageId": "1005",
+     "name": "Stage 5",
+     "text": "Dream Challenge,",
+     "conditionText": "Clear the previous stage"
+    },
+    {
+     "stageId": "1006",
+     "name": "Stage 1",
+     "text": "Shiryu, Character Trial",
+     "conditionText": ""
+    },
+    {
+     "stageId": "1007",
+     "name": "Stage 2",
+     "text": "Shiryu, Character Trial",
+     "conditionText": "Clear the previous stage"
+    },
+    {
+     "stageId": "1008",
+     "name": "Stage 3",
+     "text": "Shiryu, Character Trial",
+     "conditionText": "Clear the previous stage"
+    },
+    {
+     "stageId": "1009",
+     "name": "Stage 1",
+     "text": "Queen, Character Trial",
+     "conditionText": ""
+    },
+    {
+     "stageId": "1010",
+     "name": "Stage 2",
+     "text": "Queen, Character Trial",
+     "conditionText": "Clear the previous stage"
+    },
+    {
+     "stageId": "1011",
+     "name": "Stage 3",
+     "text": "Queen, Character Trial",
+     "conditionText": "Clear the previous stage"
+    },
+    {
+     "stageId": "1012",
+     "name": "Trial Stage",
+     "text": "Wano Sanji, Character Trial",
+     "conditionText": ""
+    }
+   ],
    "other_bundle_rows": [
     {
      "stageId": "1001",
      "name": "Stage 1",
      "text": "Character Trial",
      "conditionText": ""
+    },
+    {
+     "stageId": "1002",
+     "name": "Stage 2",
+     "text": "Character Trial",
+     "conditionText": "Clear the previous stage"
+    },
+    {
+     "stageId": "1003",
+     "name": "Stage 3",
+     "text": "Character Trial",
+     "conditionText": "Clear the previous stage"
     }
-   ],
-   "partial": "1/15 rows translated so far"
+   ]
   }
  },
- "glossary_additions": {},
- "uncertain_notes": []
+ "glossary_additions": {
+  "区域声望": "Regional Prestige",
+  "远海岛屿": "Far Sea Island",
+  "红海岛屿": "Red Sea Island",
+  "公会势力": "Guild Power",
+  "炮台据点": "Battery Stronghold",
+  "岛屿争夺战": "Island Battle",
+  "每日场次奖励": "Daily match rewards",
+  "队伍锁定": "Team Lock",
+  "爬塔挑战": "Tower Challenge",
+  "精英悬赏": "Elite Bounty",
+  "据点争锋": "Stronghold Clash",
+  "终极决战": "Final Showdown",
+  "航海情报值": "Sailing Intel",
+  "航海历险": "Sailing Adventure",
+  "大航海任务": "Grand Voyage Quest",
+  "奇袭英雄": "Raid Hero",
+  "增强天赋": "Enhancement Talent",
+  "坚韧值": "Tenacity",
+  "坚韧攻击": "Tenacity Attack",
+  "坚韧伤害": "Tenacity Damage",
+  "发火": "Fury",
+  "雷鸣": "Thunder",
+  "雷鸣八卦": "Thunder Bagua",
+  "酒龙八卦·酒后发火": "Drunken Dragon Bagua: Drunken Rage",
+  "火龙能量": "Fire Dragon Energy",
+  "火龙大炬": "Flame Dragon Torch",
+  "龙威": "Dragon Might",
+  "超奥义": "Super Ultimate",
+  "晋升天赋": "Promotion Talent",
+  "大将战": "General Battle",
+  "中坚战": "Core Battle",
+  "先锋战": "Vanguard Battle",
+  "时限战船": "time-limited warship",
+  "猿神枪": "Kong Gun",
+  "尼卡路飞": "Nika Luffy",
+  "装扮值": "Decoration Value",
+  "培养值": "Development Value",
+  "强者招募卷": "Elite Recruit Ticket",
+  "搜魂卷": "Soul Search Ticket",
+  "凋零战衣": "Withering Battle Coat",
+  "斩击者制服": "Slasher Uniform",
+  "冰冻果实": "Ice-Ice Fruit",
+  "暗暗果实": "Dark-Dark Fruit",
+  "响雷果实": "Rumble-Rumble Fruit",
+  "卡玛巴卡王国": "Kamabakka Kingdom",
+  "大胜": "Great Victory",
+  "重新整编": "Reorganization",
+  "剧场版": "Movie",
+  "风来爆破": "Coup de Burst",
+  "雨宴": "Rain Dinners",
+  "人妖王国": "Kamabakka Kingdom",
+  "伦巴海盗团": "Rumbar Pirates",
+  "洛克斯海盗团": "Rocks Pirates",
+  "长环岛": "Long Ring Long Land",
+  "风车村": "Foosha Village",
+  "初心": "Novice",
+  "铂金": "Platinum",
+  "霸主": "Overlord",
+  "战意": "Fighting Spirit",
+  "派遣": "Dispatch"
+ },
+ "uncertain_notes": [
+  "TableIdolChallenge / TableIdolTask: these rows reference a Japanese internet meme (Tadokoro Koji, the Beast Mansion, Shimokitazawa). The crude punchlines were softened ('or you'll regret it'). The TableIdolTask titles are homophone puns on 'jiu shi a' and were rendered loosely; their unclosed parentheses are kept as in the source.",
+  "TableHelpPowerUp (Kaido talents): 龙甲 keeps the glossary name [Dragon Scale]; 龙鳞 is rendered [Scales] so the two buffs stay distinct.",
+  "TableBountyCommandHelp 2: the source calls Blackbeard 传说中的英雄 ('the legendary hero'), probably a copy-paste error; kept as written.",
+  "TableQAgame 1015: the gear-type answers use the glossary names 手部护具 = Ring and 颈部护具 = Neckwear.",
+  "夏洛特·玲玲 and the typo 夏洛克·玲玲 are both rendered Big Mom, per the glossary.",
+  "海军大佐 is rendered Marine Colonel, the same as in 4b.",
+  "TableUnionSLGTechnologyLine and TableUnionSLGTask use 'Stronghold' (glossary: 堡垒据点 = Fortress Stronghold); the guild Sea Battle help texts keep the existing 'Outpost' renderings (Rally Outpost, Dock Outpost, etc.).",
+  "TableIntegralZoneName 1047: 小Y专 is rendered 'Xiao Y Exclusive'; the meaning is uncertain.",
+  "TableHarvestSeasonDailyTask: Japanese weekday names paired with haiku-style lines, rendered loosely.",
+  "TableHolidayType 2: 双11 is rendered 'Double 11' (Singles' Day).",
+  "TableReturnSeaUIConfig 2: the date format string yyyy年MM月dd日 is rendered yyyy/MM/dd.",
+  "TableTitle 140: 狂热对决 is rendered Fervent Duel, to match existing translations.",
+  "TableBountyHuntChat 30: a reply consisting only of …… is rendered '...'."
+ ]
 }
