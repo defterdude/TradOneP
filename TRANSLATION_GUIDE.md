@@ -1,47 +1,84 @@
-# Translation guide — Ships / Building / Missions batch
+# Translation guide — Batch 3 (`batch3_v272`)
 
 ## Game context
 
-This is a personal fan-translation patch for a Chinese mobile RPG, **One Piece Burning Will** (航海王：燃烧意志), private server "Longwang". The game has a naval/ship system (players own warships with props/skills, trade routes, treasure hunting), a guild building system, and a housing/base-building system (already translated separately — see `reference/`). You are translating three categories that have never been translated before: **Building** (guild + seaport buildings), **Ships** (warship stats, skills, combat attribute text), and **Missions** (daily/repeatable task boards — explicitly NOT the main story or side-quest dialogue, which stays untranslated on purpose).
+Personal fan-translation patch for the Chinese mobile RPG **One Piece Burning Will** (航海王：燃烧意志), private server "Longwang". Most of the game is already in English; this batch covers what the player meets next:
+
+1. **`captains_guide`**: the in-game **Captain's Guide** (船长指南), a help menu.
+   - Six categories: Team 战队, Characters 角色, Squad 队伍, Warship 战船, Equipment 装备, Gems 宝石.
+   - Each category has topics ("Team Level Up", "Get Characters"…).
+   - For each topic, a list of game modes where you progress, with a one-line explanation.
+2. **`voyage_guide_old`**: the older **Voyage Guide** page (航海指引), the same kind of text.
+3. **`island_conquest`**: **Island Conquest** (海岛争霸), the game's auto-battler mode, similar to Auto Chess or Teamfight Tactics.
+   - 8 players; each round you buy heroes with gold from a shop.
+   - Three identical heroes merge into a higher star.
+   - You place heroes on a board and level up your warship (more heroes, better shop odds).
+   - Synergy bonds ("groups", 羁绊) give bonuses.
+   - Fights run automatically against monsters or other players.
+   - The tables hold tiers and ranks (初心9段…), bonds and their buffs, weekly tasks, rewards and system messages (`TableText` rows whose key contains AutoChess/Chess…).
+4. **`item_descriptions`**: `TableItem` rows whose `name` or `intro` is still Chinese, about 1,850 items (bag tooltips).
+5. **`ui_texts`**: single Text components of page prefabs.
+   - The Captain's Guide title 船长指南 = "Captain's Guide".
+   - All the Island Conquest pages (main page, matching, shop, results, codex, tutorials…).
 
 ## Source data
 
-`source/ships_building_missions_v27x_source.json` — read its `header` first. It explains the file shape and lists every table under `header.tables_by_category` (`building`, `ships`, `missions`). Each table lives at `tables.<category>.<TableName>` with:
-- `key_column` — the column that uniquely identifies a row (copy verbatim, never translate)
-- `text_columns` — which fields contain translatable Chinese text
-- `rows` — the Chinese text from `text_source_bundle`
-- `content_diverges_between_bundles` — **read this per table, it matters** (see next section)
+`source/batch3_v272_source.json`:
+- `header.tables_by_category` lists the tables per category.
+- `tables.<category>.<Table>`:
+  - `key_column`: identifies the row. Copy it verbatim, never translate it.
+  - `text_columns`: fields to translate. Some cells in them may already be English: keep those as they are.
+  - `context_columns`: shown for context only, never changed. Example: `TableItem.name`, when already English, tells you what the item is.
+  - `rows`: the text of `tabledata.ab`. Only rows that still contain Chinese were exported.
+- `ui_texts`: `{bundle, gameobject, path_id, zh}`. Translate `zh` into a new field `en`.
 
-## Critical: the two-bundle divergence problem
+## Critical: the two-bundle rule (same as earlier batches)
 
-The game ships two nearly-identical data files (`tabledata.ab` and `tabledata_v1.ab`) that are supposed to mirror each other, but for most tables in this batch **they don't** — same row ID, different Chinese wording and/or different numbers, presumably from different build revisions.
+The game ships two data files, `tabledata.ab` and `tabledata_v1.ab`, which are not identical for several tables here. When a table has `content_diverges_between_bundles: true`, it also has `other_bundle_rows`, the `tabledata_v1.ab` text with its own row set and wording. Examples:
+- TableNewStrongGuideType has 6 categories in one bundle and 7 in the other.
+- TableItem has 1,863 rows in one and 1,584 in the other.
 
-- If `content_diverges_between_bundles` is `false`: translate `rows` once. That translation is used for both bundle copies.
-- If `content_diverges_between_bundles` is `true`: the table also has `other_bundle` (the bundle name) and `other_bundle_rows` (that bundle's own Chinese text). **Translate `rows` and `other_bundle_rows` completely independently.** Do not assume they mean the same thing or reuse one translation for the other, even if they look similar — check `divergence_detail.keys_with_differing_text_in_both_bundles` to see exactly which rows differ. Some rows in a "diverging" table may still be identical between bundles; only the ones the detail lists need separate treatment (though translating everything independently is always fine and never wrong).
+Translate `rows` and `other_bundle_rows` independently and completely. `divergence_detail` lists the keys found in only one bundle and the keys whose text differs. When a row is identical in both bundles, give it the identical translation.
 
-`TableShipSkillAttributeConfig` is the extreme case: `tabledata.ab` has 867 rows (ids 1–10050) and `tabledata_v1.ab` has 2272 rows (ids 1–3012), covering mostly different ids with genuinely different text — not a clean superset. Both are large; treat them as two mostly-separate translation jobs sharing the same output table.
+## Strict rules
 
-## Strict rules (same discipline used for the housing batch)
+1. **Markup tokens stay exactly as in the source:**
+   - `<size=..>…</size>`, `<color=#RRGGBB>…</color>`, `<b>…</b>`;
+   - placeholders `{0}`, `{1}`, `${0}$`;
+   - the two characters `\n` (literal backslash + n in the cells);
+   - `*` bullet markers;
+   - every number and percentage.
 
-1. **Placeholders**: text contains `{0}`, `{1}`, etc. in `tabledata.ab`, but `${0}$`, `${1}$` (dollar-wrapped) in `tabledata_v1.ab` for `TableShipSkillAttributeConfig` specifically. Preserve whichever exact placeholder syntax appears in the row you're translating — do not convert one style to the other, do not renumber, do not drop a placeholder.
-2. **Color tags**: `<color=#RRGGBB>...</color>` must appear in your translation with the exact same hex code and the same open/close pairing as the source. Never add or remove one.
-3. **Numbers**: every percentage, flat number, and quantity in the source must appear unchanged in the translation. Never recalculate or round.
-4. **Empty strings** (e.g. some `skillName` fields are `""`) stay empty — never invent content.
-5. **Terminology**: read `glossary/established_glossary.json` first and reuse its terms whenever the same Chinese word appears. Add new terms you coin for ship/naval/mission vocabulary to that file (or note them in your output) so future batches stay consistent.
-6. **Don't guess wildly**: if a term is genuinely ambiguous, pick your best interpretation and note it — don't silently drop or paraphrase away something you don't understand.
-7. **Style**: short UI labels (names, titles) stay short — a few words. Descriptions can be short sentences matching typical mobile-game tooltip terseness. See `reference/home_tables_v262_translated.json` for a worked example of the tone/format already accepted for this project.
-8. **Missions scope reminder**: everything in the `missions` category here is daily/repeatable/system content (login rewards, arena scores, codex progress, trial encounters, treasure hunting) — none of it is main-story or side-quest narrative, so there's no ambiguity about whether it's in scope. Translate all of it.
+   Only the words change. Example: `获取<size=28>蓝钻</size>` → `Get <size=28>Blue Diamonds</size>`. Do not add `\n` where the source has none (line wrapping is handled locally).
+2. **Spaces:** write normal spaces. The local build converts them to the spacing the game needs.
+3. **Labels** (names, titles, category and topic names, tier names, button texts): 1–3 words, Title Case, as short as possible.
+4. **Descriptions and tooltips:** short sentences in sentence case, terse mobile-game style.
+5. **Terminology:**
+   - First use `glossary/game_terms_v271.json`: names exactly as the player already sees them in the game, including hero and item names.
+   - Then use `glossary/established_glossary.json`.
+   - The same Chinese term always gets the same English, across categories and bundles.
+   - Fixed by the player: 海岛争霸 = "Island Conquest", 航线模拟战 = "Voyage Tower", 航线通行证 = "Voyage Tower Pass".
+   - Suggested: 战队 = "Team" (account level), 队伍 = "Squad", 战船 = "Warship", 角色 = "Character(s)", 装备 = "Equipment", 宝石 = "Gems", 羁绊 = "Bond", 段位 = "Tier", 段 = (tier) "Rank" (e.g. 初心9段 → "Novice 9"), 争霸币 = "Conquest Coin" (already in game), 金币 (inside Island Conquest) = "Gold".
+6. **One Piece names:** official English spellings (Luffy, Zoro, Kaido, Big Mom, Garp, Whitebeard…). Match `game_terms_v271.json` when the name is there.
+7. **Empty strings stay empty.** Developer placeholders (e.g. 提示文字提示文字, …需要策划Text填写) are still translated literally.
+8. **No Chinese characters** may remain in any translated value.
+9. **Uncertainty:** if a term is genuinely ambiguous, pick the best reading and record it in `uncertain_notes`. Never silently drop part of a string.
 
 ## Output format
 
-For each table, produce a translated version with the exact same keys/shape as the source: `rows` (translated) and, when the source had it, `other_bundle_rows` (translated independently). Keep every key column verbatim. Write your output to `translated/ships_building_missions_v27x_translated.json`, mirroring the source's `tables.<category>.<TableName>` structure. Include a top-level `glossary_additions` object recording any new term choices you made, and an `uncertain_notes` array for anything genuinely ambiguous (same pattern as `reference/home_tables_v262_translated.json`).
+`translated/batch3_v272_translated.json` mirrors the source:
+- `tables.<category>.<Table>` with the same `key_column`, `text_columns`, `context_columns`, and `rows`. It also has `other_bundle_rows` when the source has it.
+- Key and context columns are copied verbatim; every text column is translated.
+- `ui_texts`: the same list, each item with an added `en`.
+- `glossary_additions`: new term choices (Chinese → English).
+- `uncertain_notes`: anything ambiguous.
+
+## Suggested order (commit after each step; partial progress is welcome)
+
+1. `captains_guide` + `voyage_guide_old` + the 船长指南 ui text: small, do first.
+2. `island_conquest` tables + all Island Conquest `ui_texts`.
+3. `item_descriptions` (`TableItem`): the big one, about 1,850 + 1,580 rows. Commit every few hundred rows.
 
 ## What this repo is NOT for
 
-This repo contains **only text** — no game binaries, no Unity asset bundles, no APK. Do not try to build, patch, install, or verify anything against the actual game here; that happens later, locally, on the original machine, using the real bundle files this repo doesn't have. Your job is purely to produce correct, complete translated JSON and commit/push it.
-
-## Suggested order (commit as you finish each one, don't wait until everything is done)
-
-1. `building` category — small (3 tables, ~38 rows total), good warm-up.
-2. `missions` category — small-medium (6 tables, ~100 rows total).
-3. `ships` category — do the smaller tables first (`TableShipProp`, `TableShipSkill`, `TableShipTradeEvent`, `TableGvoShip`, `TableSeaAreaShipSkill`, `TableHideTreasureShipPool`, `TableUnionTradeShipReward`, `TableUnionTradeShipItemType`, `TableUSFAIShip`), then tackle `TableShipSkillAttributeConfig` last since it's by far the largest (~3100 rows combined across both bundles).
+Text only. No game binaries or bundles. Nothing to build, patch, install or verify here: that happens locally on the original machine.
