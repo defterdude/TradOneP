@@ -10867,6 +10867,30 @@
      "text": "In Guild Area"
     },
     {
+     "id": "NotSafeAreaMatch",
+     "text": "Can't matchmake outside a safe zone"
+    },
+    {
+     "id": "donateTips",
+     "text": "Spend {0}{1} to make a donation?"
+    },
+    {
+     "id": "SceneEnterTips",
+     "text": "Enter {0}"
+    },
+    {
+     "id": "activityRaidAttack",
+     "text": "Used for character Attack training"
+    },
+    {
+     "id": "activityRaidDefense",
+     "text": "Used for character Defense training"
+    },
+    {
+     "id": "activityRaidHP",
+     "text": "Used for character HP training"
+    },
+    {
      "id": "mallpage_1001",
      "text": "Rainbow Diamond Shop"
     },
@@ -10875,40 +10899,1808 @@
      "text": "Repairing"
     },
     {
+     "id": "action_name_002",
+     "text": "Digging"
+    },
+    {
+     "id": "action_name_003",
+     "text": "Searching"
+    },
+    {
+     "id": "action_name_004",
+     "text": "Toasting"
+    },
+    {
+     "id": "action_name_005",
+     "text": "Healing"
+    },
+    {
+     "id": "action_name_006",
+     "text": "Catching"
+    },
+    {
+     "id": "action_name_007",
+     "text": "Cleaning"
+    },
+    {
+     "id": "action_name_008",
+     "text": "Weeding"
+    },
+    {
+     "id": "action_name_009",
+     "text": "Trimming"
+    },
+    {
+     "id": "action_name_010",
+     "text": "Looking"
+    },
+    {
+     "id": "action_name_011",
+     "text": "Opening"
+    },
+    {
+     "id": "action_name_012",
+     "text": "Purifying"
+    },
+    {
+     "id": "action_name_013",
+     "text": "Hypnotizing"
+    },
+    {
+     "id": "action_name_014",
+     "text": "Sealing"
+    },
+    {
+     "id": "skill_extention_equip_warning",
+     "text": "Transformed skills can't be configured"
+    },
+    {
+     "id": "Rank_Description",
+     "text": "Here are the rankings for this event"
+    },
+    {
+     "id": "CurProp",
+     "text": "Current Stats"
+    },
+    {
+     "id": "NextProp",
+     "text": "Upgraded Stats"
+    },
+    {
+     "id": "HaveUnionDinnerContribution",
+     "text": "Personal Contribution: {0}"
+    },
+    {
+     "id": "memberHadLeave",
+     "text": "The player has left the guild"
+    },
+    {
+     "id": "Union_CantFollow",
+     "text": "You can't follow while in the guild"
+    },
+    {
+     "id": "DealLimitRelieve_Tips8",
+     "text": "The system detected that your character broke the rules in the User Agreement. You can wait {0} minutes for it to lift, or pay a deposit at the [Trade Restriction Manager (Loguetown 3,86)] to lift it now"
+    },
+    {
+     "id": "kickoutUnionMember",
+     "text": "Remove this member from the guild?"
+    },
+    {
+     "id": "joinUnionSuccessful",
+     "text": "You joined the guild"
+    },
+    {
+     "id": "skillAutoLevelUpTip",
+     "text": "Spend {0} Gold Bars and {1} Skill Points to quickly raise this skill to Lv{2}?"
+    },
+    {
+     "id": "ExpAdjust",
+     "text": "Some EXP would overflow. The right amount of EXP items will be selected automatically"
+    },
+    {
+     "id": "ship_food",
+     "text": "Supply Reserve"
+    },
+    {
+     "id": "ship_capacity",
+     "text": "Warship Capacity"
+    },
+    {
+     "id": "ship_getDownTime",
+     "text": "Sailing Time:"
+    },
+    {
+     "id": "ship_buildTitle",
+     "text": "Warship Construction"
+    },
+    {
+     "id": "ship_needLevel",
+     "text": "Required Shipbuilding Level"
+    },
+    {
+     "id": "ship_needTime",
+     "text": "Build Time"
+    },
+    {
+     "id": "ship_needEnergy",
+     "text": "Vigor Cost"
+    },
+    {
+     "id": "ShipAtt",
+     "text": "All crew {0} +{1}"
+    },
+    {
+     "id": "Fight_High2Low",
+     "text": "Power: High to Low"
+    },
+    {
+     "id": "Star_High2Low",
+     "text": "Stars: High to Low"
+    },
+    {
+     "id": "Level_High2Low",
+     "text": "Level: High to Low"
+    },
+    {
+     "id": "outLineDay",
+     "text": "<color=#BD1515FF>{0} days ago</color>"
+    },
+    {
+     "id": "outLineHour",
+     "text": "<color=#BD1515FF>{0} hours</color>"
+    },
+    {
+     "id": "payEnsure",
+     "text": "Confirm Payment"
+    },
+    {
+     "id": "payFail",
+     "text": "Payment failed. Please choose the item and order again"
+    },
+    {
+     "id": "Prison_KillingsToPrison",
+     "text": "You've defeated {0} players and have been sent to prison by the system."
+    },
+    {
+     "id": "HeroBindCoinTip",
+     "text": "After a skill reset, bound Gold Bars can only be used to upgrade this character's skills"
+    },
+    {
+     "id": "Skip_Expedition_Cost",
+     "text": "Quick-completing the expedition costs <sprite=1>{0}. Continue?"
+    },
+    {
+     "id": "timesTodayUseUp",
+     "text": "No uses left today"
+    },
+    {
+     "id": "arenaSweepItemIndex",
+     "text": "Run {0}"
+    },
+    {
+     "id": "Challenge5chi",
+     "text": "Challenge 5 Times"
+    },
+    {
+     "id": "ArenaSweepTimeOver",
+     "text": "No sweeps left"
+    },
+    {
+     "id": "UnionNoticeMailAll",
+     "text": "<color=red>(Send the notice by mail to all members?)</color>"
+    },
+    {
+     "id": "UnionNoticeMailSendToday",
+     "text": "Notice mail already sent today"
+    },
+    {
+     "id": "UnionNoticeMailSend",
+     "text": "Notice mail sent"
+    },
+    {
+     "id": "InPrison_CanOut",
+     "text": "You can leave prison now"
+    },
+    {
+     "id": "BountyHunt_SeekHelp_Union",
+     "text": "I'm being escorted to prison. Guild members, please come rescue me!"
+    },
+    {
+     "id": "payCancle",
+     "text": "Payment canceled"
+    },
+    {
+     "id": "payWaitSuccess",
+     "text": "Payment complete. Awaiting confirmation"
+    },
+    {
+     "id": "Guarantee_Success",
+     "text": "Bail successful"
+    },
+    {
+     "id": "Prison_RequestFriendGuarantee",
+     "text": "Help! I'm locked up in prison. Please come to the Guard Outpost prison and vouch for me. I won't forget this favor!"
+    },
+    {
      "id": "UnionSkillLevelUp",
      "text": "Skill Level Up"
+    },
+    {
+     "id": "UnionSkill",
+     "text": "Guild Skills"
+    },
+    {
+     "id": "buyTips",
+     "text": "Spend {0}<sprite={1}> to buy {2}?"
+    },
+    {
+     "id": "StrongerCurrentRemain",
+     "text": "Elites left in this area:"
+    },
+    {
+     "id": "NoPlayerImprisoned",
+     "text": "No friends online right now"
     },
     {
      "id": "Discount",
      "text": "{0}/10 Price"
     },
     {
+     "id": "leftTimeGift",
+     "text": "Delisted in {0}d {1}h"
+    },
+    {
+     "id": "SkillLevelFull",
+     "text": "This skill is maxed!"
+    },
+    {
+     "id": "InputPhoneNum",
+     "text": "Please enter a valid phone number"
+    },
+    {
+     "id": "prey_select_tip",
+     "text": "Choose wish items {0}/3"
+    },
+    {
+     "id": "prey_desc_01",
+     "text": "Log in tomorrow to claim 1 item for free. Don't miss it~"
+    },
+    {
+     "id": "prey_result_tip",
+     "text": "Spend <sprite=3>{0} to open again"
+    },
+    {
+     "id": "prey_result_info",
+     "text": "Choose a reward"
+    },
+    {
+     "id": "prey_cancel_share",
+     "text": "Cancel Share"
+    },
+    {
+     "id": "prey_desc_02",
+     "text": "You can get"
+    },
+    {
+     "id": "prey_show_union",
+     "text": "Show Guild Members Only"
+    },
+    {
+     "id": "prey_share_record",
+     "text": "Share Log"
+    },
+    {
+     "id": "LimitBuyEveryday",
+     "text": "Daily Limit:"
+    },
+    {
+     "id": "prey_share_reward_tip",
+     "text": "{0} can get"
+    },
+    {
+     "id": "prey_share_buy_time_desc",
+     "text": "Purchases {0}/{1}"
+    },
+    {
+     "id": "Explanation_bounty",
+     "text": "Boss Bounty opens daily at 11 AM and 7 PM, and each session lasts 30 minutes. The Boss appears at a set location during the session, and each player can attack it three times. When the event ends, players are ranked by total damage and rewarded accordingly*In Player Bounty, you can post a bounty on an enemy. Other players who accept it complete the bounty quest by defeating the target and get the bounty reward.*Each bounty can be accepted by up to 3 players. If no one completes it in time, the bounty fails and the reward is refunded."
+    },
+    {
+     "id": "prey_thank",
+     "text": "Thanks"
+    },
+    {
+     "id": "BountyHunt_TargetOverTop",
+     "text": "The bounty target's Power is over 20% higher than yours. You may not complete it. Accept anyway?"
+    },
+    {
+     "id": "SeekHelp_UnionYelling",
+     "text": "Guild shout sent"
+    },
+    {
+     "id": "player_discuss_request",
+     "text": "Spar invitation sent. Waiting for a reply"
+    },
+    {
+     "id": "player_discuss_refuse_tip",
+     "text": "Player {0} declined your spar request"
+    },
+    {
+     "id": "player_discuss_request_title",
+     "text": "Spar Request"
+    },
+    {
+     "id": "player_discuss_request_tip",
+     "text": "Player {0} sent you a spar request"
+    },
+    {
+     "id": "player_discuss_request_warning_tip",
+     "text": "Too many spar requests. Please try again later"
+    },
+    {
+     "id": "SeekHelp_AllRequest",
+     "text": "All requests sent"
+    },
+    {
+     "id": "lifeSkillLv_2",
+     "text": "Doctor"
+    },
+    {
+     "id": "lifeSkillLv_3",
+     "text": "Physician"
+    },
+    {
+     "id": "lifeSkillLv_4",
+     "text": "Expert"
+    },
+    {
+     "id": "hotsale",
+     "text": "Hot"
+    },
+    {
+     "id": "shop_limit_all_server",
+     "text": "Server Limit:"
+    },
+    {
+     "id": "medicineMakeLv_1",
+     "text": "Apprentice Medicine"
+    },
+    {
+     "id": "medicineMakeLv_2",
+     "text": "Doctor Medicine"
+    },
+    {
+     "id": "medicineMakeLv_3",
+     "text": "Physician Medicine"
+    },
+    {
+     "id": "medicineMakeLv_4",
+     "text": "Expert Medicine"
+    },
+    {
+     "id": "cookMakeLv_1",
+     "text": "Apprentice Cuisine"
+    },
+    {
+     "id": "cookMakeLv_2",
+     "text": "Basic Cuisine"
+    },
+    {
+     "id": "cookMakeLv_3",
+     "text": "Intermediate Cuisine"
+    },
+    {
+     "id": "cookMakeLv_4",
+     "text": "Advanced Cuisine"
+    },
+    {
+     "id": "cookMakeLv_5",
+     "text": "Master Cuisine"
+    },
+    {
+     "id": "personBuyLimit",
+     "text": "Personal limit in effect"
+    },
+    {
+     "id": "serverBuyLimit",
+     "text": "Server limit in effect"
+    },
+    {
+     "id": "ChatingWithEmeny",
+     "text": "Chatting with <color=#e49315>{0}</color> <color=#74aa56>[Hostility {1}]</color>"
+    },
+    {
+     "id": "wildKill",
+     "text": "Field Battle"
+    },
+    {
+     "id": "wildGather",
+     "text": "Field Gathering"
+    },
+    {
+     "id": "itemBagCdTip",
+     "text": "Item expires in {0}"
+    },
+    {
+     "id": "fight_skip_tip_01",
+     "text": "Use              X{0} to skip the battle\\n\\n(Uses left today: {1}/35)"
+    },
+    {
+     "id": "fight_skip_tip_02",
+     "text": "No Quick Challenge Ticket uses left today. Can't skip the battle"
+    },
+    {
+     "id": "fight_skip_tip_03",
+     "text": "Not enough Quick Battle Tickets. Can't skip the battle"
+    },
+    {
+     "id": "leftTimeGiftMinute",
+     "text": "Delisted in {0}h {1}m"
+    },
+    {
+     "id": "chargeGetDiamond",
+     "text": "Top-up successful. Got {0} Rainbow Diamonds"
+    },
+    {
+     "id": "QteBoxTipContent",
+     "text": "Chest Draw Info"
+    },
+    {
+     "id": "QteFishTipContent",
+     "text": "Fishing Event Info"
+    },
+    {
+     "id": "RewardPromulgator",
+     "text": "Posted by:"
+    },
+    {
+     "id": "Nautical_trade_grade",
+     "text": "Trade Level:"
+    },
+    {
+     "id": "Amazon_Warrior",
+     "text": "Mystery Quest"
+    },
+    {
+     "id": "Information_value",
+     "text": "Intel:"
+    },
+    {
+     "id": "ExchangeTime",
+     "text": "Refresh Orders"
+    },
+    {
+     "id": "TodayRemainUseTime",
+     "text": "Supplies today:"
+    },
+    {
+     "id": "SameTradeGoline",
+     "text": "Max Concurrent Trades"
+    },
+    {
+     "id": "Achievement_Value",
+     "text": "Achievement Points"
+    },
+    {
+     "id": "Btn_welfare",
+     "text": "Member Perks"
+    },
+    {
+     "id": "Btn_monthcard",
+     "text": "Monthly Card"
+    },
+    {
+     "id": "monthCard_Content",
+     "text": "{0}<sprite=3> daily for 30 days"
+    },
+    {
+     "id": "chargeSumProcess",
+     "text": "Top up <color=#BA3901>{0}</color><sprite=3> to activate: <color=#BA3901>{1}</color>/{2}"
+    },
+    {
+     "id": "modify",
+     "text": "Edit"
+    },
+    {
+     "id": "Click_Comments",
+     "text": "(Tap to comment)"
+    },
+    {
+     "id": "TaskItemHandTips",
+     "text": "No items to hand in"
+    },
+    {
+     "id": "SocialRelation_Enemy",
+     "text": "My Enemies"
+    },
+    {
+     "id": "PUBLISHMOOD_TITLE",
+     "text": "Post Mood"
+    },
+    {
+     "id": "PUBLISHMOOD_DEFAULT_CONTENT",
+     "text": "Say something (up to 80 characters)"
+    },
+    {
+     "id": "PUBLISHMOOD_ADD_IMAGE",
+     "text": "Add Images (up to 4)"
+    },
+    {
+     "id": "PUBLISHMOOD_INPUT_NUM",
+     "text": "Entered {0}/{1}"
+    },
+    {
+     "id": "PUBLISHMOOD_PUBLISH",
+     "text": "Post"
+    },
+    {
+     "id": "MENGDAO_PERSONAL_ZONE",
+     "text": "Personal Space"
+    },
+    {
+     "id": "MENGDAO_MENPAI",
+     "text": "Sect"
+    },
+    {
+     "id": "MENGDAO_LOCATION",
+     "text": "Location"
+    },
+    {
+     "id": "MENGDAO_UNION",
+     "text": "Guild"
+    },
+    {
+     "id": "MENGDAO_SIGN",
+     "text": "Signature"
+    },
+    {
+     "id": "MENGDAO_SIGN_PLACE_HOLDER",
+     "text": "Tap to edit your signature"
+    },
+    {
+     "id": "MENGDAO_FRIEND_DYNAMIC",
+     "text": "Friends' Posts"
+    },
+    {
+     "id": "MENGDAO_MY_DYNAMIC",
+     "text": "My Posts"
+    },
+    {
+     "id": "MENGDAO_FOLLOW_LIST",
+     "text": "Following"
+    },
+    {
+     "id": "MENGDAO_MESSAGE_HISTORY",
+     "text": "Messages"
+    },
+    {
+     "id": "MENGDAO_FLOWER_DETAIL",
+     "text": "Flower Details"
+    },
+    {
+     "id": "MENGDAO_RECENT_VISIT",
+     "text": "Recent Visitors"
+    },
+    {
+     "id": "MENGDAO_BOARD_DETAIL",
+     "text": "Message Details"
+    },
+    {
+     "id": "MENGDAO_MOOD_DETAIL",
+     "text": "Post Details"
+    },
+    {
+     "id": "MENGDAO_WRITE_MOOD",
+     "text": "Write Mood"
+    },
+    {
+     "id": "MENGDAO_ZONE",
+     "text": "Space"
+    },
+    {
+     "id": "MENGDAO_BOARD",
+     "text": "Message Board"
+    },
+    {
+     "id": "MENGDAO_HOT",
+     "text": "Trending"
+    },
+    {
+     "id": "MENGDAO_ALL_SERVER_HOT",
+     "text": "Server-Wide Trending"
+    },
+    {
+     "id": "MENGDAO_LOCAL_SERVER_HOT",
+     "text": "This Server Trending"
+    },
+    {
+     "id": "MENGDAO_ADD_FOLLOW",
+     "text": "Follow"
+    },
+    {
+     "id": "MENGDAO_CLICK_INPUT",
+     "text": "Tap to comment"
+    },
+    {
+     "id": "MENGDAO_COMMENT_TEXT_REPLY",
+     "text": "<color=#173250FF>[{0}] replied to [{1}]: <color=#173250FF>{2}"
+    },
+    {
+     "id": "MENGDAO_COMMENT_LINK_REPLY",
+     "text": "<link=\"{0}\"><color=#376891FF>[{1}]</color></link> replied to <link=\"{2}\"><color=#376891FF>[{3}]</color></link>:"
+    },
+    {
+     "id": "MENGDAO_INPUTFIELD_REPLY",
+     "text": "Reply to {0}"
+    },
+    {
+     "id": "MENGDAO_MOOD_READED_COUNT",
+     "text": "{0} views"
+    },
+    {
+     "id": "MENGDAO_LOAD_MORE",
+     "text": "Tap to load more"
+    },
+    {
+     "id": "MENGDAO_UNLOCK_PUBLISH_PIC",
+     "text": "Upload images at Lv{0}"
+    },
+    {
+     "id": "MENGDAO_PERMISSION_TEXT_0",
+     "text": "Don't share my location"
+    },
+    {
+     "id": "MENGDAO_PERMISSION_TEXT_1",
+     "text": "Only friends can leave messages"
+    },
+    {
+     "id": "MENGDAO_PERMISSION_TEXT_2",
+     "text": "Let people I follow leave messages"
+    },
+    {
+     "id": "MENGDAO_PERMISSION_TEXT_3",
+     "text": "Don't share my info on the map"
+    },
+    {
+     "id": "MENGDAO_PERMISSION_TEXT_4",
+     "text": "Hide previous names"
+    },
+    {
+     "id": "MENGDAO_VISIT_GET_GIFT",
+     "text": "Received {1} {2} from {0}"
+    },
+    {
+     "id": "MENGDAO_VISIT_NOT_GET_GIFT",
+     "text": "No gift received"
+    },
+    {
+     "id": "MENGDAO_LEAVE_MESSAGE_SUCCESS",
+     "text": "Message posted"
+    },
+    {
+     "id": "MENGDAO_REPLY_SUCCESS",
+     "text": "Reply posted"
+    },
+    {
+     "id": "MENGDAO_LOCATION_UPDATE_SUCCESS",
+     "text": "Location updated"
+    },
+    {
+     "id": "MENGDAO_DATE_TIME_FOTMAT",
+     "text": "M/d HH:mm"
+    },
+    {
+     "id": "MENGDAO_USER_NOT_PUBLISH_LOCATION",
+     "text": "This user doesn't share their location"
+    },
+    {
+     "id": "MENGDAO_FOLLOW_SUCCESS",
+     "text": "Followed"
+    },
+    {
+     "id": "MENGDAO_REMOVE_FOLLOW_SUCCESS",
+     "text": "Unfollowed"
+    },
+    {
+     "id": "MENGDAO_CAI_GET_GIFT",
+     "text": "Got {1} {0}"
+    },
+    {
+     "id": "MENGDAO_CAI_GET_BAG_FULL",
+     "text": "Bag is full. Please clear some space"
+    },
+    {
+     "id": "MENGDAO_PUBLISH_SUCCESS",
+     "text": "Posted"
+    },
+    {
+     "id": "MENGDAO_OPEN_LEVEL_TIP",
+     "text": "Space unlocks at Lv{0}"
+    },
+    {
+     "id": "MENGDAO_PLEASE_INPUT",
+     "text": "Please enter content"
+    },
+    {
+     "id": "MENGDAO_PLEASE_INPUT_PUBLISH",
+     "text": "Please enter something to post"
+    },
+    {
+     "id": "MENGDAO_PLEASE_INPUT_LOCATION",
+     "text": "Address can't be empty"
+    },
+    {
+     "id": "MENGDAO_HAS_RECENTLY_HISTORY",
+     "text": "{0} recent messages"
+    },
+    {
+     "id": "MENGDAO_PUT_PRESENT_SUCCESS",
+     "text": "Gift placed"
+    },
+    {
+     "id": "MENGDAO_DELETE_CONFIRM",
+     "text": "Delete this?"
+    },
+    {
+     "id": "MENGDAO_CAI_SUCCESS",
+     "text": "Thumbs down sent. {0} Popularity +{1}"
+    },
+    {
+     "id": "MENGDAO_UPLOADING_PLS_DONT_OPERATE",
+     "text": "Uploading image. Please don't do anything"
+    },
+    {
+     "id": "MENGDAO_MOOD_HAS_DELETE",
+     "text": "This mood has been deleted"
+    },
+    {
+     "id": "MENGDAO_MOOD_HAS_DELETE_CANT_FORWARD",
+     "text": "The original poster deleted this mood, so it can't be shared"
+    },
+    {
+     "id": "MENGDAO_SEND_FLOWER_LIMIT_1",
+     "text": "This gift can only be given to the opposite sex"
+    },
+    {
+     "id": "MENGDAO_SEND_FLOWER_LIMIT_2",
+     "text": "This gift can only be given to the same sex"
+    },
+    {
+     "id": "MENGDAO_ADD_FRIEND",
+     "text": "Add Friend"
+    },
+    {
+     "id": "MENGDAO_REMOVE_FRIEND",
+     "text": "Unfriend"
+    },
+    {
+     "id": "MENGDAO_FLOWER_NOTICE",
+     "text": "{0} gave {1} {2} bouquets of {3}, setting off a shower of petals!"
+    },
+    {
+     "id": "MENGDAO_GET_FLOWER",
+     "text": "{0} gave you {1} {2} in your Space!"
+    },
+    {
+     "id": "MENGDAO_NO_OPEN",
+     "text": "This player hasn't opened their Space yet"
+    },
+    {
+     "id": "DisPatchOK",
+     "text": "Dispatched"
+    },
+    {
+     "id": "DisPatchStart",
+     "text": "Dispatch started..."
+    },
+    {
+     "id": "DisPatchCountDepletedCannotDisPatch",
+     "text": "No dispatches left"
+    },
+    {
+     "id": "TaskCountDepletedCannotDisPatch",
+     "text": "No quest attempts left. Can't dispatch"
+    },
+    {
+     "id": "AlreadyHaveDailyTaskCannotDisPatch",
+     "text": "You've already accepted a solo Daily Quest. Can't dispatch"
+    },
+    {
+     "id": "BountyHunt_Assure",
+     "text": "Vouch for Player"
+    },
+    {
+     "id": "BountyHunt_Detainees",
+     "text": "Prisoner:"
+    },
+    {
+     "id": "Union_playerBelongto",
+     "text": "Guild:"
+    },
+    {
+     "id": "TimeOfDetention",
+     "text": "Detention Time:"
+    },
+    {
+     "id": "ShortenTimeOfDetention",
+     "text": "Shorten Detention"
+    },
+    {
+     "id": "TimeOfDetention_Shorten",
+     "text": "Shorten Detention by:"
+    },
+    {
+     "id": "Blue_drills",
+     "text": "Rainbow Diamond Cost:"
+    },
+    {
+     "id": "heroSayHello",
+     "text": "Greet"
+    },
+    {
+     "id": "BountyHunt_price",
+     "text": "Bounty:"
+    },
+    {
+     "id": "DetailsOfDragUse",
+     "text": "Medicine Use Details"
+    },
+    {
+     "id": "Prop_Icon",
+     "text": "Item Icon"
+    },
+    {
+     "id": "AmountAndUpperLimit",
+     "text": "Used/Limit"
+    },
+    {
+     "id": "SaveContent",
+     "text": "Your edits aren't saved yet. Save?"
+    },
+    {
+     "id": "SendCommentSuccess",
+     "text": "Comment posted"
+    },
+    {
+     "id": "BountyHuntPrice",
+     "text": "Bounty"
+    },
+    {
+     "id": "TimeLimitDrop",
+     "text": "Limited-Time Drops"
+    },
+    {
      "id": "coin_desc_1011",
      "text": "The Arena's currency, used to buy items in the Prestige Shop."
+    },
+    {
+     "id": "coin_desc_1012",
+     "text": "Resource used for field gathering."
     },
     {
      "id": "coin_desc_1013",
      "text": "The Ladder's currency, used to buy items in the Arena Shop."
     },
     {
+     "id": "coin_desc_1015",
+     "text": "Anniversary Revelry Coins, exchangeable for mystery items. Only usable during the anniversary event."
+    },
+    {
+     "id": "ExploreCoinDesc",
+     "text": "2nd Anniversary Gold Coins"
+    },
+    {
+     "id": "item_desc_xingyunbi",
+     "text": "Used to exchange items at the Exchange Shop."
+    },
+    {
      "id": "gonghuishuijing",
      "text": "A rare item for upgrading the guild. Buying it gives you 1200 personal Contribution and your guild 1 Crystal."
+    },
+    {
+     "id": "coin_desc_10007",
+     "text": "Medals earned in Sea Battles, spent in the guild."
+    },
+    {
+     "id": "ActivateTradeLicense",
+     "text": "Activate the Trade Pass to enjoy premium perks"
+    },
+    {
+     "id": "DailyReceipt",
+     "text": "Daily Claim"
+    },
+    {
+     "id": "TradeDividend",
+     "text": "Trade Dividend"
+    },
+    {
+     "id": "makeItemTitle",
+     "text": "Lv<size=24>{0}</size> Medicine"
+    },
+    {
+     "id": "logtalk_marin_1",
+     "text": "What are you two sneaking around by the road for? Planning something illegal in town?"
+    },
+    {
+     "id": "logtalk_marin_2",
+     "text": "Behave yourselves in town. If you cause trouble, Captain Smoker won't let you off."
+    },
+    {
+     "id": "IfGoto",
+     "text": "Move to this area?"
+    },
+    {
+     "id": "Auction_no_liveness",
+     "text": "Not enough guild member activity. Please wait for the next auction"
+    },
+    {
+     "id": "prey_result_tip_free",
+     "text": "You can claim this reward for free"
+    },
+    {
+     "id": "decomposeItemTitle",
+     "text": "Dismantle {0}"
+    },
+    {
+     "id": "decomposePageTitle",
+     "text": "Dismantle Medicine"
+    },
+    {
+     "id": "prey_num_warning",
+     "text": "Choose 3 wish items"
+    },
+    {
+     "id": "prey_num_limit_warning",
+     "text": "Wish item limit reached"
+    },
+    {
+     "id": "playershop_buy_limit_tip",
+     "text": "Purchases left this month: {0}"
+    },
+    {
+     "id": "playershop_buy_limit_tip_free",
+     "text": "Medicine purchases are unlimited"
+    },
+    {
+     "id": "playershop_buy_limit_desc01",
+     "text": "Monthly purchases are limited; the limit grows with player level. The count resets on the 1st of each month"
+    },
+    {
+     "id": "playershop_buy_limit_desc02",
+     "text": "Activate the Trade Pass to double your monthly purchases"
+    },
+    {
+     "id": "playershop_buy_limit_desc03",
+     "text": "Activate the Trade Pass for more perks"
+    },
+    {
+     "id": "makeDecomposeAdvacne",
+     "text": "Level is at this tier's cap; no more EXP can be gained"
+    },
+    {
+     "id": "Btn_ActiveImmediate",
+     "text": "Activate Now"
+    },
+    {
+     "id": "Exp_Full",
+     "text": "(EXP Full)"
+    },
+    {
+     "id": "LevelFull_NoExp",
+     "text": "Level is at this tier's cap; no more EXP can be gained"
+    },
+    {
+     "id": "prey_cost_money_tip",
+     "text": "Spend {0} Rainbow Diamonds to claim the reward?"
+    },
+    {
+     "id": "Current_use_of_drugs",
+     "text": "Medicine in Use"
+    },
+    {
+     "id": "DragActiveTime",
+     "text": "Duration:"
+    },
+    {
+     "id": "DragRolerole",
+     "text": "Applies To:"
+    },
+    {
+     "id": "monthCard_LeftDays",
+     "text": "Trade Pass active, <color=#BA3901>{0}</color> days left"
+    },
+    {
+     "id": "LikeTip",
+     "text": "Liked"
+    },
+    {
+     "id": "CancelLike",
+     "text": "Unlike"
+    },
+    {
+     "id": "playershop_buy_limit_warning",
+     "text": "Monthly purchase limit reached"
+    },
+    {
+     "id": "TradePermit_BuyPrivilege",
+     "text": "Double purchases at the Player Trade Shop"
+    },
+    {
+     "id": "medicineAdvitem_1",
+     "text": "Apprentice Pharmacy"
+    },
+    {
+     "id": "medicineAdvitem_2",
+     "text": "Doctor Pharmacy"
+    },
+    {
+     "id": "medicineAdvitem_3",
+     "text": "Physician Pharmacy"
+    },
+    {
+     "id": "medicineAdvitem_4",
+     "text": "Expert Pharmacy"
+    },
+    {
+     "id": "medicineAdvitem_5",
+     "text": "Master Pharmacy"
+    },
+    {
+     "id": "medicineAdvitem_6",
+     "text": "Grandmaster Pharmacy"
+    },
+    {
+     "id": "medicineAdvLev",
+     "text": "Tier Up"
+    },
+    {
+     "id": "Btn_dailysweep",
+     "text": "Dispatch"
+    },
+    {
+     "id": "DrugHeroEffect_1",
+     "text": "Applies to all allies"
+    },
+    {
+     "id": "DrugHeroEffect_2",
+     "text": "Applies to all enemies"
+    },
+    {
+     "id": "EffectDesc",
+     "text": "Effect: {0}"
+    },
+    {
+     "id": "guaranteeValueIsZero",
+     "text": "Vouch time can't be zero"
+    },
+    {
+     "id": "decomposeItemDesc",
+     "text": "Dismantle herbs gathered in the field to get medicine-making materials"
+    },
+    {
+     "id": "buyLimit",
+     "text": "Limit:"
+    },
+    {
+     "id": "inviteDesc",
+     "text": "Players under Lv20 can enter an invite code"
+    },
+    {
+     "id": "bountyHunt_PowerTooHigh",
+     "text": "The target's Power is 50% higher than yours. Can't accept the bounty"
+    },
+    {
+     "id": "heroUseItemInPage",
+     "text": "Used: {0}"
+    },
+    {
+     "id": "ItemUsingInHeroTips",
+     "text": "This character is already using this medicine. Medicines with the same effect don't stack. Use anyway?"
+    },
+    {
+     "id": "NoDelateAllMailTip",
+     "text": "No mail to delete"
+    },
+    {
+     "id": "union_center",
+     "text": "<color=#ffdd95>Lv{0}</color> Command Center"
+    },
+    {
+     "id": "SurveyTradeTitle",
+     "text": "Lv{0} Survey Quest"
+    },
+    {
+     "id": "SurveyTradeDesc",
+     "text": "Surveying gives <color=#Ba5714>{0}</color> Intel"
+    },
+    {
+     "id": "ShareSurveyTrade",
+     "text": "Shared by: <color=#Ba5714>{0}</color>"
+    },
+    {
+     "id": "adjustUF",
+     "text": "Sea Battle Deployment"
     },
     {
      "id": "signUpUF",
      "text": "Sea Battle Registration"
     },
     {
+     "id": "ufsignupDesc",
+     "text": "When checked, you'll register automatically on registration day. Registration can't be canceled"
+    },
+    {
+     "id": "ufcommandLv",
+     "text": "Command Center Level:"
+    },
+    {
+     "id": "Explanation_UnionCommandCenter",
+     "text": "Sea Battle Help"
+    },
+    {
+     "id": "specialSail",
+     "text": "Special Offer"
+    },
+    {
+     "id": "IdendityLimit",
+     "text": "Insufficient permissions"
+    },
+    {
+     "id": "ufsignupAfterUnion",
+     "text": "Your guild hasn't registered for Sea Battle yet. Choose personal auto-registration to register automatically once your guild joins"
+    },
+    {
+     "id": "unlockUnionLev",
+     "text": "Building unlocks at Guild Lv{0}"
+    },
+    {
+     "id": "ufSignLimitDesc",
+     "text": "Guild Sea Battle registration requires Guild Lv{0} and more than {1} members"
+    },
+    {
+     "id": "ufSignLimitIdenti",
+     "text": "Only the leader and vice leaders can do this"
+    },
+    {
+     "id": "ufUnionAutoSignUp",
+     "text": "The guild will auto-register for the next Sea Battle"
+    },
+    {
+     "id": "ufPersonAutoSignUp",
+     "text": "You'll be registered automatically once your guild joins a Sea Battle"
+    },
+    {
+     "id": "CancelUnionAutoSign",
+     "text": "The guild canceled auto-registration for the next Sea Battle"
+    },
+    {
+     "id": "CancelSelfAutoSign",
+     "text": "You canceled Sea Battle auto-registration"
+    },
+    {
+     "id": "RecallShipTradeTip",
+     "text": "Returning <color=#FF0000>won't</color> refund spent supplies and you <color=#FF0000>won't</color> get the order rewards. Return anyway?"
+    },
+    {
+     "id": "RaidConditionHeroUnusibale",
+     "text": "This hero can't be deployed!"
+    },
+    {
+     "id": "RaidConditionHeroForcebale",
+     "text": "This hero can't be removed!"
+    },
+    {
+     "id": "RaidConditionHeroNotHave",
+     "text": "You don't own this hero!"
+    },
+    {
+     "id": "BeginCondtionDesc0001",
+     "text": "A fierce clash with Buggy. Luffy won't let Buggy mock his dream!\\n<color=RED>Luffy</color> is locked into the lineup. Adjust your characters and positions to defeat the enemy."
+    },
+    {
+     "id": "BeginCondtionDesc0002",
+     "text": "Facing Kuro and Jango, Usopp can't stand being useless!\\n<color=RED>Usopp (Story)</color> is locked into the lineup. Adjust your characters and positions to defeat the enemy."
+    },
+    {
+     "id": "BeginCondtionDesc0003",
+     "text": "At last, Zoro has found Mihawk, the world's greatest swordsman! He must challenge him no matter what!\\nEven if it costs him his life! <color=RED>Zoro (Story)</color> is locked into the lineup."
+    },
+    {
+     "id": "BeginCondtionDesc0004",
+     "text": "Gin is holding Zeff hostage. \"Gin, point the gun at me,\" says Sanji.\\n<color=RED>Sanji (Story)</color> is locked into the lineup. Adjust your characters and positions to defeat the enemy."
+    },
+    {
+     "id": "BeginCondtionDesc0005",
+     "text": "Nami is our crew's navigator! Luffy will tear Arlong Park down!\\n<color=RED>Luffy (Story)</color> is locked into the lineup. Adjust your characters and positions to defeat the enemy."
+    },
+    {
+     "id": "BeginCondtionDesc0006",
+     "text": "Surrounded by the Marines! Break through to reach the Grand Line!\\n<color=RED>Luffy (Story)</color> and <color=RED>Zoro (Story)</color> are locked into the lineup. Adjust your characters and positions to defeat the enemy."
+    },
+    {
+     "id": "BeginCondtionDesc0007",
+     "text": "Big trouble! Zoro faces Whiskey Peak's bounty hunters alone!\\n<color=RED>Zoro (Story)</color> is locked into the lineup. Adjust your characters and positions to defeat the enemy."
+    },
+    {
+     "id": "BeginCondtionDesc0008",
+     "text": "Chopper's fury! Don't you dare insult this flag!\\n<color=RED>Chopper (Story)</color> is locked into the lineup. Adjust your characters and positions to defeat the enemy."
+    },
+    {
+     "id": "BeginCondtionDesc0009",
+     "text": "To stop Crocodile's pursuit, Luffy stays behind to fight alone!\\n<color=RED>Luffy (Story)</color> is locked into the lineup. Adjust your characters and positions to defeat the enemy."
+    },
+    {
+     "id": "BeginCondtionDesc0010",
+     "text": "The final showdown between Crocodile and Luffy! This fight can't be lost!\\n<color=RED>Luffy (Story)</color> is locked into the lineup. Adjust your characters and positions to defeat the enemy."
+    },
+    {
+     "id": "BeginCondtionDesc0011",
+     "text": "Zoro reaches the Shandora ruins, and everyone else gathers too. A free-for-all is inevitable.\\n<color=RED>Zoro (Story)</color> is locked into the lineup. Adjust your characters and positions to defeat the enemy."
+    },
+    {
+     "id": "BeginCondtionDesc0012",
+     "text": "Ring the golden bell in the sky! Prove that Skypiea exists!\\n<color=RED>Luffy (Story)</color> is locked into the lineup. Adjust your characters and positions to defeat the enemy."
+    },
+    {
+     "id": "ExpeditionSkipCost",
+     "text": "Quick-completing the expedition costs              X{0}\\nContinue?"
+    },
+    {
+     "id": "ExpeditionCostNotEnough",
+     "text": "Not enough Expedition Speed-Up Scrolls."
+    },
+    {
+     "id": "Refine_Combine",
+     "text": "Refining Stone Crafting"
+    },
+    {
+     "id": "Punch_Combine",
+     "text": "Socket Stone Crafting"
+    },
+    {
+     "id": "TeamCantPK",
+     "text": "Can't spar while in a team"
+    },
+    {
+     "id": "SkillIntroduction",
+     "text": "Skill Overview"
+    },
+    {
+     "id": "TradeExplainTip",
+     "text": "*Accept and complete world trade orders to get Intel and item rewards;*Accumulate Intel to earn Intel rewards;*Finishing each stage of Intel rewards opens the next stage;*Intel rewards and Intel progress reset every Monday at 0:00, and this week's Intel doesn't carry over.*Warship buffs come in Gold Bar and Intel types, in green, blue, purple and orange quality. Higher quality gives bigger gains.\\n   Gold Bars: raises an order's Gold Bar income;\\n   Intel: raises an order's Intel income."
+    },
+    {
+     "id": "TradeShareExplain",
+     "text": "Congrats on opening a Mystery Order! During the quest you can share its clues with friends, who get a generous Intel reward when they accept it."
+    },
+    {
+     "id": "RunAway",
+     "text": "Evacuated"
+    },
+    {
+     "id": "BuyShipFoodTitle",
+     "text": "Supplies"
+    },
+    {
+     "id": "ShipTradeUseItemTip",
+     "text": "Use a Trade Scroll to add one refresh? Use it now?"
+    },
+    {
+     "id": "BuyShipFoodTip",
+     "text": "Spend {0} Blue Diamonds to add {1} supplies now?"
+    },
+    {
+     "id": "SurveyTradeTip",
+     "text": "You're only looking for intel on the mystery quest. No goods needed"
+    },
+    {
+     "id": "Daily_Activity_Reward_Type_3",
+     "text": "Gold Bars"
+    },
+    {
+     "id": "Daily_Activity_Reward_Type_4",
+     "text": "Blue Diamonds"
+    },
+    {
+     "id": "RaidConditionHeroNumMax",
+     "text": "Deployment limit reached"
+    },
+    {
+     "id": "BuyCarnivalGiftTips",
+     "text": "Spend <sprite=3>{0} to buy this bundle now?"
+    },
+    {
+     "id": "NoFreeShipToGoOut",
+     "text": "You don't own this ship yet. Can't set sail"
+    },
+    {
+     "id": "Title_Reach_01",
+     "text": "Requirements"
+    },
+    {
+     "id": "Title_AllAdd_01",
+     "text": "Team Bonus"
+    },
+    {
+     "id": "Title_Content_01",
+     "text": "Title Description"
+    },
+    {
+     "id": "VerificationIsWrong",
+     "text": "Incorrect verification code"
+    },
+    {
+     "id": "BQ_mood03",
+     "text": "Greet"
+    },
+    {
+     "id": "BQ_mood04",
+     "text": "Relax"
+    },
+    {
+     "id": "BQ_mood05",
+     "text": "Show Off"
+    },
+    {
+     "id": "BQ_mood06",
+     "text": "Salute"
+    },
+    {
+     "id": "BQ_mood07",
+     "text": "Watch"
+    },
+    {
+     "id": "BQ_mood08",
+     "text": "Chill"
+    },
+    {
+     "id": "BQ_mood09",
+     "text": "Nod"
+    },
+    {
+     "id": "BQ_mood10",
+     "text": "Angry"
+    },
+    {
+     "id": "BQ_mood11",
+     "text": "Wave"
+    },
+    {
+     "id": "BQ_mood12",
+     "text": "Confused"
+    },
+    {
+     "id": "BQ_mood13",
+     "text": "Clap"
+    },
+    {
+     "id": "BQ_mood14",
+     "text": "Helpless"
+    },
+    {
+     "id": "BQ_mood15",
+     "text": "Scorn"
+    },
+    {
+     "id": "BQ_mood16",
+     "text": "Taunt"
+    },
+    {
+     "id": "BQ_mood17",
+     "text": "Pick Nose"
+    },
+    {
+     "id": "BQ_mood18",
+     "text": "Yawn"
+    },
+    {
+     "id": "BQ_mood19",
+     "text": "Photo"
+    },
+    {
+     "id": "BQ_mood20",
+     "text": "Sleep"
+    },
+    {
+     "id": "BQ_mood21",
+     "text": "Think"
+    },
+    {
+     "id": "BQ_mood22",
+     "text": "Laugh"
+    },
+    {
+     "id": "BQ_mood23",
+     "text": "Shake Head"
+    },
+    {
+     "id": "BQ_mood25",
+     "text": "Question"
+    },
+    {
+     "id": "BQ_mood26",
+     "text": "Read"
+    },
+    {
+     "id": "BQ_mood27",
+     "text": "Show"
+    },
+    {
+     "id": "BQ_mood28",
+     "text": "Play"
+    },
+    {
+     "id": "FormationOpotionHeroNumTip",
+     "text": "Required heroes not deployed. Can't battle"
+    },
+    {
+     "id": "WorldBossNext",
+     "text": "Next event starts in:"
+    },
+    {
+     "id": "WorldBossLast",
+     "text": "Current event ends in:"
+    },
+    {
+     "id": "HuntyBossLastStraw",
+     "text": "Last Hit"
+    },
+    {
+     "id": "SkipNow",
+     "text": "Speed Up Now"
+    },
+    {
+     "id": "ItemDebrisCombineItemIcon",
+     "text": "Crystal Soul Use"
+    },
+    {
+     "id": "ItemDebrisCombineItemScribe",
+     "text": "Used to buy in-game items at the Crystal Soul Shop"
+    },
+    {
+     "id": "ExecuteSkip",
+     "text": "Expedition Speed-Up"
+    },
+    {
+     "id": "SkipTime",
+     "text": "Speed-Up Time:"
+    },
+    {
+     "id": "ExecuteMax",
+     "text": "Expedition Speed-Up Scroll limit reached for this expedition"
+    },
+    {
+     "id": "BountyBossTimeOut",
+     "text": "Bounty ended"
+    },
+    {
+     "id": "delete_all_mail_question",
+     "text": "Delete all read mail?"
+    },
+    {
+     "id": "WorldBossOpenTime",
+     "text": "Elite Challenge opens daily at <color=#ba5714>{0}</color>, and each session lasts one hour."
+    },
+    {
+     "id": "prey_empty_tip",
+     "text": "No more bottles on the shore to wish on, but you can still claim rewards for wishes already made"
+    },
+    {
+     "id": "ShipTradeLevel",
+     "text": "Order Level:"
+    },
+    {
+     "id": "ShipTradeInfVal",
+     "text": "Intel Needed:"
+    },
+    {
+     "id": "ShipTradeMysteryTitle",
+     "text": "Complete world orders to accumulate Intel and unlock Mystery Orders"
+    },
+    {
+     "id": "sideTask_BtnOpen",
+     "text": "Open"
+    },
+    {
+     "id": "OpenCelebration_DailyWelfare",
+     "text": "Daily Perks"
+    },
+    {
+     "id": "OpenCelebration_Gift",
+     "text": "Special Bundle"
+    },
+    {
+     "id": "ShipTradeRefreshTip",
+     "text": "Refresh trade orders now?"
+    },
+    {
+     "id": "BountyBossLevelHigh",
+     "text": "This bounty Boss unlocks at Lv{0}"
+    },
+    {
+     "id": "UF_ReadyTime",
+     "text": "Starting in:"
+    },
+    {
+     "id": "UF_BattleTime",
+     "text": "Battle Time:"
+    },
+    {
+     "id": "FieldEnemy",
+     "text": "Idle Targets"
+    },
+    {
+     "id": "FieldMedicine",
+     "text": "Gatherable Resources"
+    },
+    {
+     "id": "FieldPlace",
+     "text": "Reachable Locations"
+    },
+    {
+     "id": "FieldViewOpenStateOff",
+     "text": "This area isn't unlocked yet"
+    },
+    {
+     "id": "FieldViewGoToBot",
+     "text": "Go to this area and idle-attack this target?"
+    },
+    {
+     "id": "uf_bot",
+     "text": "Auto-Play"
+    },
+    {
+     "id": "uf_cancle_bot",
+     "text": "Cancel Auto-Play"
+    },
+    {
+     "id": "botting",
+     "text": "Auto-playing..."
+    },
+    {
+     "id": "unionJoinUFTime",
+     "text": "Guild registration is open all day every Monday and Friday"
+    },
+    {
+     "id": "personJoinUFTime",
+     "text": "Personal registration is open until 30 minutes before battle"
+    },
+    {
      "id": "shipFactory",
      "text": "Shipyard"
+    },
+    {
+     "id": "HasNoMoreShip",
+     "text": "No spare warships to set sail"
+    },
+    {
+     "id": "ShipTradeDone",
+     "text": "Trade order complete"
+    },
+    {
+     "id": "NoShipTrade",
+     "text": "No trade orders"
+    },
+    {
+     "id": "ShortenTheVoyage",
+     "text": "Shortens the voyage by {0} hours"
+    },
+    {
+     "id": "RankFightPower",
+     "text": "Power: {0}"
+    },
+    {
+     "id": "uf_state1",
+     "text": "Reviving..."
+    },
+    {
+     "id": "uf_state2",
+     "text": "Spectate"
+    },
+    {
+     "id": "uf_state3",
+     "text": "Sailing..."
+    },
+    {
+     "id": "uf_state4",
+     "text": "Outpost"
+    },
+    {
+     "id": "wharf_ShipChange",
+     "text": "Stock"
+    },
+    {
+     "id": "wharf_ShipStrong",
+     "text": "Modify"
+    },
+    {
+     "id": "Train_ListTitle",
+     "text": "Training Overview"
+    },
+    {
+     "id": "Train_MasterTitle",
+     "text": "Master Overview"
+    },
+    {
+     "id": "ContChallengeBioChapter",
+     "text": "No attempts left today for this episode"
+    },
+    {
+     "id": "ShipShop",
+     "text": "Dock Shop"
+    },
+    {
+     "id": "uf_cannotAtTeam",
+     "text": "You can't enter Guild Sea Battle while in a team"
+    },
+    {
+     "id": "ShipTradeTimes",
+     "text": "+<color=#ba3901>1</color> in <color=#ba3901>{0}</color>"
     },
     {
      "id": "Limited",
      "text": "Limited Recruit"
     },
     {
+     "id": "Main_CH24_Piaozi_0001",
+     "text": "The Davy Back Fight finally begins"
+    },
+    {
+     "id": "Main_CH24_Piaozi_0002",
+     "text": "They lost the first round, the Donut Race, and Chopper was taken."
+    },
+    {
+     "id": "Main_CH24_Piaozi_0003",
+     "text": "They won him back in the third round, the roller-skate chase"
+    },
+    {
+     "id": "Main_CH24_Piaozi_0004",
+     "text": "It should have ended there, but Luffy accepted Foxy's three coins,"
+    },
+    {
+     "id": "Main_CH24_Piaozi_0005",
+     "text": "And the game went into overtime."
+    },
+    {
+     "id": "Main_CH24_Piaozi_0006",
+     "text": "They lost the first overtime round, and Robin was taken,"
+    },
+    {
+     "id": "Main_CH24_Piaozi_0007",
+     "text": "They were fired up to win her back, but in the second overtime round,"
+    },
+    {
+     "id": "Main_CH24_Piaozi_0008",
+     "text": "The recovered Chopper was taken again. Insult on top of injury..."
+    },
+    {
+     "id": "RefreshShipTradeTip",
+     "text": "Refresh to get 6 new trade orders?"
+    },
+    {
+     "id": "RefreshShipTradeTimes",
+     "text": "+1 refresh daily at 0:00, 6:00, 12:00 and 18:00"
+    },
+    {
+     "id": "NoSharedShipTrade",
+     "text": "You have no shared orders"
+    },
+    {
+     "id": "NoDoingShipTrade",
+     "text": "You have no orders in progress"
+    },
+    {
+     "id": "NoCanGetShipTrade",
+     "text": "Not enough Intel to accept a Mystery Order"
+    },
+    {
+     "id": "IntimacyFull",
+     "text": "Max Affinity level reached"
+    },
+    {
+     "id": "finishtaskname",
+     "text": "[Coming Soon]"
+    },
+    {
+     "id": "finishtaskdesc",
+     "text": "More exciting story coming soon."
+    },
+    {
+     "id": "LimitedRecruitItemEndTip",
+     "text": "This Limited Recruit event has ended!"
+    },
+    {
+     "id": "ufSystem",
+     "text": "<color=#eda950>System: </color>"
+    },
+    {
+     "id": "NoShip",
+     "text": "You don't have this warship yet"
+    },
+    {
+     "id": "ship_materialscribe",
+     "text": "Material Description"
+    },
+    {
+     "id": "file_UpLoadFail",
+     "text": "Recording failed"
+    },
+    {
+     "id": "ScreenShotOrNot",
+     "text": "Include screenshot:"
+    },
+    {
+     "id": "DetailScribe",
+     "text": "Details"
+    },
+    {
+     "id": "DoneAllMysticalShipTrade",
+     "text": "All Mystery Quests done for this week. Come back next week, Captain."
+    },
+    {
+     "id": "ShipVoyage",
+     "text": "Estimated Time"
+    },
+    {
+     "id": "MysteriousOrderLevel",
+     "text": "Mystery Order Level"
+    },
+    {
+     "id": "chargeNotOpen",
+     "text": "Top-up isn't available yet"
+    },
+    {
+     "id": "shipBuild_exp1",
+     "text": "Shipbuilding EXP"
+    },
+    {
+     "id": "NoPlayerIsImprisoned",
+     "text": "No players imprisoned right now"
+    },
+    {
+     "id": "Btn_RightNowUse",
+     "text": "Use Now"
+    },
+    {
+     "id": "TypeOfBug1",
+     "text": "Freeze"
+    },
+    {
+     "id": "TypeOfBug2",
+     "text": "Feature Error"
+    },
+    {
+     "id": "TypeOfBug3",
+     "text": "Display Error"
+    },
+    {
+     "id": "DefaultDescOfBug",
+     "text": "Please describe the issue in detail"
+    },
+    {
+     "id": "BtnState2",
+     "text": "Uploading"
+    },
+    {
+     "id": "BtnState3",
+     "text": "Processing"
+    },
+    {
+     "id": "Subscribe_privileges",
+     "text": "Subscription Perks"
+    },
+    {
      "id": "Automatic_renewal_instruction",
      "text": "Auto-Renewal Info"
+    },
+    {
+     "id": "Automatic_renewal",
+     "text": "Auto-Renew"
+    },
+    {
+     "id": "Recharge_MonthCard_Tab",
+     "text": "Featured Subscriptions"
     },
     {
      "id": "NoneAutomatic_renewal",
@@ -10927,8 +12719,556 @@
      "text": "Cancel: to cancel auto-renewal, turn it off in \"iOS - Account Settings\" at least 24 hours before expiry. You won't be charged afterward;"
     },
     {
+     "id": "ios_subscribe_desc",
+     "text": "[Auto-Subscription Service Info]\\n1. Subscription:\\nTrade Pass (1 month)\\n2. Price:\\nTrade Pass: ¥30/month, renewed monthly\\n3. Payment: charged to your iTunes account once you confirm the purchase\\n4. Auto-renewal: your Apple iTunes account is charged within 24 hours before expiry; once charged, the subscription extends by one period\\n5. Turning it off: on your iPhone go to \"Settings\" --> \"iTunes & App Store\" --> tap \"Apple ID\", choose \"View Apple ID\", open \"Account Settings\", tap \"Subscriptions\" and manage auto-subscriptions. To cancel, turn it off at least 24 hours before the end of each billing period; within 24 hours of expiry you won't be charged again\\n6. User Agreement:\\n<link=\"url=https://www.nebulajoy.com/privacy_op/user_agree.html\"><#0000FF>https://www.nebulajoy.com/privacy_op/user_agree.html</color></link>\\n7. Privacy Policy:\\n<link=\"url=https://www.nebulajoy.com/privacy_op/privacy.html\"><#0000FF>https://www.nebulajoy.com/privacy_op/privacy.html</color></link>\\n"
+    },
+    {
+     "id": "ios_monthcard_privilege3",
+     "text": "Double monthly purchases at the Player Trade Shop"
+    },
+    {
+     "id": "ios_monthcard_detail_1",
+     "text": "1. Subscription Price and Period"
+    },
+    {
+     "id": "ios_monthcard_detail_2",
+     "text": "2. Subscription Content"
+    },
+    {
+     "id": "ios_monthcard_detail_3",
+     "text": "3. Auto-Renewal"
+    },
+    {
+     "id": "ios_monthcard_detail_4",
+     "text": "4. User Agreement"
+    },
+    {
+     "id": "ios_monthcard_detail_5",
+     "text": "5. Privacy Policy and Statement"
+    },
+    {
+     "id": "ios_monthcard_detail_6",
+     "text": "6. How to Cancel"
+    },
+    {
+     "id": "ios_monthcard_detail_1_content",
+     "text": "You can subscribe to the Trade Pass in game for ¥30 per 30 days."
+    },
+    {
+     "id": "ios_monthcard_detail_2_content",
+     "text": "Trade Pass subscribers get rewards during the subscription.\\nPerks:\\na. First 3 make-up check-ins each month are free\\nb. Unlimited purchases at the Player Trade Shop\\nc. Daily Trade Dividend"
+    },
+    {
+     "id": "ios_monthcard_detail_3_content",
+     "text": "Official Apple App Store subscriptions auto-renew, with payment confirmed through your iTunes Account. You must turn off auto-renewal manually in your iTunes/Apple ID settings. Auto-renewal is charged within 24 hours before the end of each subscription period and confirmed through your iTunes Account. To cancel, turn off auto-renewal at least 24 hours before the subscription ends; otherwise the subscription renews automatically."
+    },
+    {
+     "id": "ios_monthcard_detail_4_content",
+     "text": "User Agreement: http://op.aligames.com/privacy.html"
+    },
+    {
+     "id": "ios_monthcard_detail_5_content",
+     "text": "Statement: http://op.aligames.com/privacy/"
+    },
+    {
+     "id": "ios_monthcard_detail_6_content",
+     "text": "To cancel, on your iOS device go to \"Settings\" --> \"iTunes & App Store\" --> tap \"Apple ID\", then \"View Apple ID\", open \"Account Settings\", tap \"Subscriptions\" --> \"Manage\", choose the subscription for \"One Piece: Burning Will\" and cancel it."
+    },
+    {
+     "id": "ios_monthcard_detail_title",
+     "text": "Subscription Info"
+    },
+    {
      "id": "ios_monthcard_subscribe_button_pre",
      "text": "Subscribe"
+    },
+    {
+     "id": "ios_monthcard_subscribe_button_after",
+     "text": "/month"
+    },
+    {
+     "id": "ShipTradeNum",
+     "text": "{0} orders"
+    },
+    {
+     "id": "TradeRapidDoneTip",
+     "text": "The voyage is already short enough to complete the order"
+    },
+    {
+     "id": "MonthRecruit",
+     "text": "The first 2 10-pulls each month are discounted!"
+    },
+    {
+     "id": "bothCamp",
+     "text": "Both Sides"
+    },
+    {
+     "id": "selfCamp",
+     "text": "Allies"
+    },
+    {
+     "id": "battleSituation",
+     "text": "Battle Status"
+    },
+    {
+     "id": "shipchangepage_text",
+     "text": "No other warships of this type in stock"
+    },
+    {
+     "id": "GoldAdd",
+     "text": "Gold Bar Bonus:"
+    },
+    {
+     "id": "foodNum",
+     "text": "Supplies Left:"
+    },
+    {
+     "id": "ShipGoOut",
+     "text": "Sailing..."
+    },
+    {
+     "id": "ShipTradeDoneTitle",
+     "text": "Order Complete"
+    },
+    {
+     "id": "ShipRecall",
+     "text": "Returned"
+    },
+    {
+     "id": "ShipRecallBtn",
+     "text": "Return"
+    },
+    {
+     "id": "TradeRapidDoneBtn",
+     "text": "Quick Arrival"
+    },
+    {
+     "id": "NeedItem",
+     "text": "Goods Needed"
+    },
+    {
+     "id": "ShipAttName",
+     "text": "All crew {0}"
+    },
+    {
+     "id": "ShipTradeRefreshTIimes",
+     "text": "Refreshes left today"
+    },
+    {
+     "id": "ShipBuildLevel",
+     "text": "Shipbuilding level too low"
+    },
+    {
+     "id": "ShipTradeMinUseItemTip",
+     "text": "You must use at least one"
+    },
+    {
+     "id": "ConvoyCannotBotMonster",
+     "text": "Can't idle while escorting!"
+    },
+    {
+     "id": "exitUFConfirm",
+     "text": "Leave the Sea Battle?"
+    },
+    {
+     "id": "Explanation_UnionFightHelp",
+     "text": "*Guild War help: to be filled in by design"
+    },
+    {
+     "id": "baseFortress",
+     "text": "Base"
+    },
+    {
+     "id": "SharedToFriend",
+     "text": "Share with Friends"
+    },
+    {
+     "id": "ShipTradeShareTimeTip",
+     "text": "Shared orders you can accept today:"
+    },
+    {
+     "id": "ShipTradeTitle",
+     "text": "Shared Mystery Orders"
+    },
+    {
+     "id": "ufChat_multiKill",
+     "text": "<color=#{0}>{1}</color> is on a <#fee558>{2}</color> win streak"
+    },
+    {
+     "id": "ufChat_Occupy",
+     "text": "{0} has captured <#fee558>{1}</color>"
+    },
+    {
+     "id": "ufChat_Fortress_LevelUp",
+     "text": "{0} upgraded <#fee558>{1}</color> to <#fee558>{2}</color>"
+    },
+    {
+     "id": "ufChat_nobodyOccupy",
+     "text": "Outpost {0} is currently unguarded"
+    },
+    {
+     "id": "ufChat_Fortress_levelUp_Fail",
+     "text": "{0} failed to upgrade <#fee558>{1}</color>"
+    },
+    {
+     "id": "ufChat_Fortress_Occupy_Reset",
+     "text": "{0}'s <#fee558>{1}</color> was destroyed"
+    },
+    {
+     "id": "uf_state6",
+     "text": "Auto-playing"
+    },
+    {
+     "id": "unionInfo_fundTitle",
+     "text": "Weekly Cost:"
+    },
+    {
+     "id": "polishingUnionFund",
+     "text": "Top Up Funds"
+    },
+    {
+     "id": "polishBox_Content",
+     "text": "Top up guild funds: {0}?"
+    },
+    {
+     "id": "unionApplyToggle",
+     "text": "Enable Guild Applications"
+    },
+    {
+     "id": "beOpenMicAuthority",
+     "text": "You've been given voice permission. You can turn on live voice in the battle info screen"
+    },
+    {
+     "id": "DecomposeShipMaterialTitle",
+     "text": "Material Dismantling"
+    },
+    {
+     "id": "leftShips",
+     "text": "Warships Left"
+    },
+    {
+     "id": "battleEnd",
+     "text": "Battle ends: 00:00"
+    },
+    {
+     "id": "DecomposeGet",
+     "text": "High chance to get"
+    },
+    {
+     "id": "DecomposeGet2",
+     "text": "Low chance to get"
+    },
+    {
+     "id": "DecomposeBtn",
+     "text": "Refine"
+    },
+    {
+     "id": "npcUnionChat_7_word_1",
+     "text": "Upgrading Sea Battle Tech gives the guild a bigger edge in Sea Battles."
+    },
+    {
+     "id": "npcUnionChat_7_word_2",
+     "text": "Guilds and individuals register for Sea Battles here. Your personal Sea Battle lineup is also set on the registration screen."
+    },
+    {
+     "id": "npcUnionChat_7_word_3",
+     "text": "The deployment screen shows the opposing guild and lets you adjust which guild members fight."
+    },
+    {
+     "id": "ufChat_Player_Blue",
+     "text": "<color=#43b2ff>Blue Team</color>"
+    },
+    {
+     "id": "ufChat_Player_Red",
+     "text": "<color=#c73b3b>Red Team</color>"
+    },
+    {
+     "id": "urpbigtitle",
+     "text": "Current Sea Battle Rankings"
+    },
+    {
+     "id": "urpunionrank",
+     "text": "Guild Rank"
+    },
+    {
+     "id": "urpserver",
+     "text": "Server"
+    },
+    {
+     "id": "uiuniontips",
+     "text": "Each season lasts two weeks; rewards are sent by mail when it ends. This season ends: {0:d2}/{1:d2} {2:d2}:{3:d2}"
+    },
+    {
+     "id": "uf_signedInfo",
+     "text": "Matchups are announced at 24:00 today. Check them in \"Sea Battle Deployment\"."
+    },
+    {
+     "id": "uiunioninforankbth",
+     "text": "Sea Battle Rankings"
+    },
+    {
+     "id": "unionseafightover",
+     "text": "Guild Sea Battle has ended"
+    },
+    {
+     "id": "unionvoicearthoritytips",
+     "text": "You don't have voice permission"
+    },
+    {
+     "id": "uf_formation_filled",
+     "text": "Formation full"
+    },
+    {
+     "id": "uf_formation_noneHero",
+     "text": "No characters deployed"
+    },
+    {
+     "id": "uf_formation_noneShip",
+     "text": "No warship deployed"
+    },
+    {
+     "id": "uf_formation_SetSucceed",
+     "text": "Formation set"
+    },
+    {
+     "id": "uiunionrewardtoptitle",
+     "text": "Sea Battle Rank Rewards"
+    },
+    {
+     "id": "uiunionrewardbottomtip",
+     "text": "Titles last until the end of the current season"
+    },
+    {
+     "id": "BountyBoss_BattleSkipTip",
+     "text": "Tap to skip"
+    },
+    {
+     "id": "usfrankwithsize",
+     "text": "Rank <size=16>{0}</size>"
+    },
+    {
+     "id": "usfranknorank",
+     "text": "No guilds ranked yet"
+    },
+    {
+     "id": "HideSelfBattleShip",
+     "text": "Hide Allied Warships"
+    },
+    {
+     "id": "HideOtherBattleShip",
+     "text": "Hide Enemy Warships"
+    },
+    {
+     "id": "HideSelfEvenKill",
+     "text": "Hide Allied Streaks"
+    },
+    {
+     "id": "HideOtherEvenKill",
+     "text": "Hide Enemy Streaks"
+    },
+    {
+     "id": "OpenResidualBloodEffect",
+     "text": "Low HP Effect"
+    },
+    {
+     "id": "HideKillNumber",
+     "text": "Hide Streak Count"
+    },
+    {
+     "id": "HideVoiceDisplay",
+     "text": "Hide Voice Display"
+    },
+    {
+     "id": "LeaveTheSeaBattle",
+     "text": "Leave Sea Battle"
+    },
+    {
+     "id": "UFDispose_InFight",
+     "text": "Fighting..."
+    },
+    {
+     "id": "UFDispose_WaitStart",
+     "text": "Not Started"
+    },
+    {
+     "id": "UFDispose_FinishTie",
+     "text": "Draw"
+    },
+    {
+     "id": "uf_formation_tips",
+     "text": "Set up 2 lineups to get one extra battle in Sea Battles"
+    },
+    {
+     "id": "Voyage_Adventer_Previouse_Chapter_Not_Finished",
+     "text": "Complete the previous quest first"
+    },
+    {
+     "id": "ufhelppage_btnleft",
+     "text": "Outposts"
+    },
+    {
+     "id": "ufhelppage_btnright",
+     "text": "Routes"
+    },
+    {
+     "id": "uf_formation_enter",
+     "text": "Warship Setup"
+    },
+    {
+     "id": "uf_battle_set",
+     "text": "Battle Setup"
+    },
+    {
+     "id": "rankrewardranks",
+     "text": "Rank"
+    },
+    {
+     "id": "rankrewardper",
+     "text": "Leader / Vice Leader"
+    },
+    {
+     "id": "USFResultPageUnionReward",
+     "text": "Guild Rewards"
+    },
+    {
+     "id": "USFResultPageIntegral",
+     "text": "Sea Battle Points"
+    },
+    {
+     "id": "USFResultPageAuction",
+     "text": "Auction Items"
+    },
+    {
+     "id": "USFResultPagePersonnalReward",
+     "text": "Personal Rewards"
+    },
+    {
+     "id": "ChannelChat_AutoPlayWarfare",
+     "text": "Hear Sea Battle Voice"
+    },
+    {
+     "id": "ChannelChat_AutoPlayFree",
+     "text": "Open Mic"
+    },
+    {
+     "id": "ChannelChat_AutoPlayHide",
+     "text": "Hide Screen"
+    },
+    {
+     "id": "UFSettingPage_exitbtn",
+     "text": "Exit Sea Battle"
+    },
+    {
+     "id": "UFSettingPage_backbtn",
+     "text": "Back to Sea Battle"
+    },
+    {
+     "id": "UFFormationPagebtnOne",
+     "text": "1st Fleet"
+    },
+    {
+     "id": "UFFormationPagebtnTwo",
+     "text": "2nd Fleet"
+    },
+    {
+     "id": "Determinesquad",
+     "text": "Confirm Lineup"
+    },
+    {
+     "id": "ChannelChat_UnionFight",
+     "text": "Sea Battle"
+    },
+    {
+     "id": "UfCombatPageTitleFir",
+     "text": "1st Fleet Battle Log"
+    },
+    {
+     "id": "UfCombatPageTitleSec",
+     "text": "2nd Fleet Battle Log"
+    },
+    {
+     "id": "UfCombatPagePlayerName",
+     "text": "{0}-Server {1}"
+    },
+    {
+     "id": "UfCombatPageBtnFir",
+     "text": "Send 2nd Fleet"
+    },
+    {
+     "id": "UfCombatPageBtnSec",
+     "text": "Reorganize Fleet"
+    },
+    {
+     "id": "noSecondFormation_Content",
+     "text": "Set up a 2nd Fleet on the deployment screen to send it into Guild Sea Battle when your 1st Fleet is wiped out, giving your guild more battle options. The steps above show how to set up a 2nd Fleet."
+    },
+    {
+     "id": "noSecondFormation_Title",
+     "text": "No 2nd Fleet Set"
+    },
+    {
+     "id": "text_task_all_adventure_task_completed",
+     "text": "No quests in progress"
+    },
+    {
+     "id": "Voyage_Adventer_Task_Can_Receive",
+     "text": "Accept\\nQuest"
+    },
+    {
+     "id": "Voyage_Adventer_Task_Time_Not_Reached",
+     "text": "Not\\nAvailable"
+    },
+    {
+     "id": "Voyage_Adventer_Task_Can_Do",
+     "text": "Go\\nComplete"
+    },
+    {
+     "id": "Voyage_Adventer_Task_Finished",
+     "text": "Quest\\nComplete"
+    },
+    {
+     "id": "StrongRoad_LeastMember",
+     "text": "You need more than {0} team members to challenge!"
+    },
+    {
+     "id": "UFFortressPromotionValidText",
+     "text": "Can Build:"
+    },
+    {
+     "id": "uf_icon_Name_Ready",
+     "text": "Sea Battle Prep"
+    },
+    {
+     "id": "NoBuildShip",
+     "text": "[Not Built]"
+    },
+    {
+     "id": "USFFortressLevelEffect",
+     "text": "Upgrade Effect"
+    },
+    {
+     "id": "FightSaleTab",
+     "text": "Sea Battle Auction"
+    },
+    {
+     "id": "UnionResNum",
+     "text": "Materials Owned"
+    },
+    {
+     "id": "Processbtn",
+     "text": "Raw Materials"
+    },
+    {
+     "id": "PartsMakeBtn",
+     "text": "Make Parts"
+    },
+    {
+     "id": "BuildShip",
+     "text": "[Deployed]"
+    },
+    {
+     "id": "Explanation_UFFormation",
+     "text": "*This sets your lineup for the Sea Battle mode; battles are fought using these settings.*You can set up to two fleets. They can't share crew or warships. Tap \"Confirm Lineup\" to save; closing the screen discards changes.*Your 1st Fleet fights first in a Sea Battle; if it's defeated, your 2nd Fleet goes in.*Once all your fleets are defeated, you get one reorganization, after which they can fight again.*If you only set up one fleet, only one fleet can fight again after reorganizing.*Fleet settings can't be changed while your guild is in a Sea Battle."
     },
     {
      "id": "Normal_Activity_ThkDayTitle",
@@ -10937,6 +13277,630 @@
     {
      "id": "Normal_Activity_ShopingTitle",
      "text": "Shopping Festival"
+    },
+    {
+     "id": "UnionFight_Promotion_Leave_Warning",
+     "text": "Can't leave the outpost while it's being modified"
+    },
+    {
+     "id": "UnionFight_Dive_RemainingConut",
+     "text": "Stealth uses left: {0}"
+    },
+    {
+     "id": "uf_unMatch",
+     "text": "Matching isn't done yet. Check member deployment later"
+    },
+    {
+     "id": "text_task_type_plot",
+     "text": "Story"
+    },
+    {
+     "id": "PossessionOfMaterials",
+     "text": "Guild Repair Points:"
+    },
+    {
+     "id": "UFTecSkillTitleMaxLevel",
+     "text": "Current max level reached!"
+    },
+    {
+     "id": "ShipAddTitle",
+     "text": "Warship Bonus"
+    },
+    {
+     "id": "ShipSpeed",
+     "text": "Sailing Data: {0}"
+    },
+    {
+     "id": "ShipFood",
+     "text": "Supply Reserve: {0}"
+    },
+    {
+     "id": "ShipCapacity",
+     "text": "Warship Capacity: {0}"
+    },
+    {
+     "id": "unionrankfir",
+     "text": "Rank <size=36>1</size>"
+    },
+    {
+     "id": "unionranksec",
+     "text": "Rank <size=36>2</size>"
+    },
+    {
+     "id": "unionrankthd",
+     "text": "Rank <size=36>3</size>"
+    },
+    {
+     "id": "unionrankfou",
+     "text": "Rank 4-10"
+    },
+    {
+     "id": "unionrankfif",
+     "text": "Rank 11-50"
+    },
+    {
+     "id": "uf_result_0",
+     "text": "Time's up! {0} holds more outposts and wins!"
+    },
+    {
+     "id": "uf_result_1",
+     "text": "Time's up! Both sides hold the same number of outposts. It's a draw!"
+    },
+    {
+     "id": "uf_result_2",
+     "text": "{0} took the enemy base and wins!"
+    },
+    {
+     "id": "uf_result_3",
+     "text": "{0} defeated all enemy members and wins!"
+    },
+    {
+     "id": "FightSaleContent",
+     "text": "Auction ended"
+    },
+    {
+     "id": "SetShipToFight",
+     "text": "Set Active"
+    },
+    {
+     "id": "TeckSkillNotLevelUpTip",
+     "text": "Can't upgrade"
+    },
+    {
+     "id": "The_Road_To_Strong_End",
+     "text": "Event ended!"
+    },
+    {
+     "id": "NotBuildTip",
+     "text": "Can't build yet"
+    },
+    {
+     "id": "Dominate_Team_NeedHero",
+     "text": "Deploy to double rewards"
+    },
+    {
+     "id": "OpenUFFormation_Tips_Content",
+     "text": "You need a battle lineup before registering. Set up your Sea Battle lineup now?"
+    },
+    {
+     "id": "coin_desc_1014",
+     "text": "Represents guild contribution; used in guild modes"
+    },
+    {
+     "id": "Voyage_Adventure_Label",
+     "text": "Story Challenge"
+    },
+    {
+     "id": "Dominate_Four_Seas_Label",
+     "text": "Extreme Challenge"
+    },
+    {
+     "id": "ShipBuildTip",
+     "text": "Building: {0}"
+    },
+    {
+     "id": "Dominate_Reset",
+     "text": "You can reset the Extreme Challenge for free\\n(Resets left today {0}/{1})"
+    },
+    {
+     "id": "Dominate_Buy_Reset",
+     "text": "Spend {0}<sprite=1> to buy a reset?"
+    },
+    {
+     "id": "OpenUFFormationTips",
+     "text": "Unlock the Dock to set up a lineup"
+    },
+    {
+     "id": "BuildShipLevelTips",
+     "text": "Required Shipbuilding Level: {0}"
+    },
+    {
+     "id": "BuildShipTimeTips",
+     "text": "Build Time: {0} minutes"
+    },
+    {
+     "id": "BuildCostEnergy",
+     "text": "Vigor Cost: {0}"
+    },
+    {
+     "id": "BuildShipGetExp",
+     "text": "EXP Gained: {0}"
+    },
+    {
+     "id": "UF_Dispose_People",
+     "text": "Member Deployment"
+    },
+    {
+     "id": "UF_Dispose_Fortress",
+     "text": "Outpost Deployment"
+    },
+    {
+     "id": "UF_DisposePage_tips",
+     "text": "You can enter the battlefield 5 minutes before the Sea Battle starts; the battle list can't be changed after that."
+    },
+    {
+     "id": "ShipFactoryLevelTips",
+     "text": "(Refine supplies gathered in the field to get warship materials)"
+    },
+    {
+     "id": "applyFightshow",
+     "text": "Power: {0}"
+    },
+    {
+     "id": "UF_Formation_NotChange",
+     "text": "Lineup unchanged"
+    },
+    {
+     "id": "lifeShipSkillLv_1",
+     "text": "Apprentice Shipbuilding"
+    },
+    {
+     "id": "lifeShipSkillLv_2",
+     "text": "Shipwright Shipbuilding"
+    },
+    {
+     "id": "ShipFactoryLevelTips2",
+     "text": "Level is at this tier's cap. Tier up to gain EXP again"
+    },
+    {
+     "id": "ShipFightingTip",
+     "text": "This warship is already deployed"
+    },
+    {
+     "id": "ShipCanNotBuild",
+     "text": "This ship can't be built"
+    },
+    {
+     "id": "uf_formation_addHero_tips",
+     "text": "Fleet {0} still has empty slots. Save?"
+    },
+    {
+     "id": "uf_formation_one",
+     "text": "1"
+    },
+    {
+     "id": "uf_formation_two",
+     "text": "2"
+    },
+    {
+     "id": "uf_formation_fighting",
+     "text": "The Sea Battle has started. Lineup changes won't apply to this battle"
+    },
+    {
+     "id": "BuildingShipTips",
+     "text": "{0} is under construction. Only one warship can be built at a time"
+    },
+    {
+     "id": "Uf_DisposePage_time",
+     "text": "Time:"
+    },
+    {
+     "id": "uf_DisposePage_opponent",
+     "text": "Versus:"
+    },
+    {
+     "id": "uf_DisposePage_num",
+     "text": "Members Deployed:"
+    },
+    {
+     "id": "uf_DisposePage_Gofight_head",
+     "text": "Battle List"
+    },
+    {
+     "id": "uf_DisposePage_Gohome_head",
+     "text": "Bench List"
+    },
+    {
+     "id": "uf_DisposePage_Gofight_button",
+     "text": "Deploy All"
+    },
+    {
+     "id": "uf_Formation_Change",
+     "text": "Current lineup isn't saved. Save?"
+    },
+    {
+     "id": "uf_Formation_UsedShip",
+     "text": "This warship is in use by Fleet {0}"
+    },
+    {
+     "id": "reorganizing",
+     "text": "Reorganizing"
+    },
+    {
+     "id": "uf_reorganize_noTimes",
+     "text": "No fleet reorganizations left. Tap to spectate."
+    },
+    {
+     "id": "ufresultpagenewkillnum",
+     "text": "Defeated"
+    },
+    {
+     "id": "uf_Formation_Using",
+     "text": "This warship is in use"
+    },
+    {
+     "id": "uf_formation_none",
+     "text": "Lineup can't be empty"
+    },
+    {
+     "id": "uf_formation_isFighting",
+     "text": "Lineups can't be changed during a Sea Battle"
+    },
+    {
+     "id": "ShipTradeGetRewards",
+     "text": "Claim"
+    },
+    {
+     "id": "NoMoreShipTradeDoing",
+     "text": "No trade orders in progress"
+    },
+    {
+     "id": "MysticalShipTrade_Tip",
+     "text": "*Mystery Orders have 15 stages; finish a lower stage to accept the next.*Mystery Order progress resets every Monday.*You can share a Mystery Order after accepting it, and get Intel when the shared order is completed."
+    },
+    {
+     "id": "MysticalShipTradeReceiveTips",
+     "text": "Complete the Lv{0} Mystery Quest first"
+    },
+    {
+     "id": "DeclareWar",
+     "text": "Guild War Declaration"
+    },
+    {
+     "id": "DeclareWar_List",
+     "text": "Declaration List"
+    },
+    {
+     "id": "DeclareWar_UnionEnemy",
+     "text": "Enemy Guilds"
+    },
+    {
+     "id": "DeclareWar_UnionLevel",
+     "text": "Guild Level"
+    },
+    {
+     "id": "DeclareWar_LostTime",
+     "text": "Defeats"
+    },
+    {
+     "id": "DeclareWar_Des1",
+     "text": "After declaring war, your guild will fight the declared guild in a Sea Battle on Thursday at <color=#b94200>{0}</color>."
+    },
+    {
+     "id": "DeclareWar_Des2",
+     "text": "Your guild will fight guild {2} of Server {1}\\nat <color=#b94200>{0}</color> in a Sea Battle"
+    },
+    {
+     "id": "DeclareWar_Statement",
+     "text": "Guild wars are fought for honor and follow the Sea Battle rewards and penalties."
+    },
+    {
+     "id": "DeclareWar_Time",
+     "text": "Declaration Time"
+    },
+    {
+     "id": "DeclareWar_ChoseTime",
+     "text": "Choose Declaration Time"
+    },
+    {
+     "id": "DeclareWar_TipsTitle",
+     "text": "Declaration Notice"
+    },
+    {
+     "id": "DeclareWar_Tips",
+     "text": "You've declared a guild war. Once confirmed, your guild will fight {1}-Server {2} in a Sea Battle tomorrow at {0}"
+    },
+    {
+     "id": "ReceiveShareTradeTitle",
+     "text": "Accept Shared Orders"
+    },
+    {
+     "id": "MyShareTradeTitle",
+     "text": "My Shares"
+    },
+    {
+     "id": "DressingRoomGreeting",
+     "text": "Welcome!"
+    },
+    {
+     "id": "NotShareMysticalTradeTip",
+     "text": "No Mystery Orders shared"
+    },
+    {
+     "id": "WeekGetInfoValTip",
+     "text": "Earned from shares this week:"
+    },
+    {
+     "id": "quickMelting",
+     "text": "Quick Smelt"
+    },
+    {
+     "id": "ShipTradeType0",
+     "text": "Normal Orders"
+    },
+    {
+     "id": "ShipTradeType1",
+     "text": "Mystery Orders"
+    },
+    {
+     "id": "ShipTradeType2",
+     "text": "Shared Orders"
+    },
+    {
+     "id": "ShipTradeType",
+     "text": "Order Type"
+    },
+    {
+     "id": "ShipTradeNoTask",
+     "text": "No orders in progress"
+    },
+    {
+     "id": "ChampionshipRule",
+     "text": "Rules"
+    },
+    {
+     "id": "ChampionshipPlayBackTitle",
+     "text": "Peak Replays"
+    },
+    {
+     "id": "ChampionshipRecordTitle",
+     "text": "Support Log"
+    },
+    {
+     "id": "luckDescContent",
+     "text": "Each lucky wheel spin gives random Luck. The higher your Luck, the better your chance of rare items. When Luck is full you automatically get a Lucky Chest, sent by mail\\n*Luck resets when you win the wheel's core rare item (top center) or when Luck fills up\\n*Items marked as owned won't be drawn again\\n*Luck resets when the event ends, so claim your rewards in time~\\n"
+    },
+    {
+     "id": "UFPlaybackTitle",
+     "text": "Sea Battle Replays"
+    },
+    {
+     "id": "UFPlayback_explain",
+     "text": "Sea Battle replays are kept for one week"
+    },
+    {
+     "id": "choosequickMeltingquality",
+     "text": "Choose the equipment quality to quick-smelt"
+    },
+    {
+     "id": "NormalItems",
+     "text": "Normal Equipment"
+    },
+    {
+     "id": "prosehero",
+     "text": "Loose Hero Gear"
+    },
+    {
+     "id": "ShipTradeLevel1",
+     "text": "Apprentice Sailor"
+    },
+    {
+     "id": "ShipTradeLevel2",
+     "text": "Sailor"
+    },
+    {
+     "id": "ShipTradeLevel3",
+     "text": "Helmsman"
+    },
+    {
+     "id": "ShipTradeLevel4",
+     "text": "First Mate"
+    },
+    {
+     "id": "ShipTradeLevel5",
+     "text": "Captain"
+    },
+    {
+     "id": "ShareShipTradeTip",
+     "text": "Not in a guild yet"
+    },
+    {
+     "id": "ShipGoOutStart",
+     "text": "{0}    Voyage begins!!"
+    },
+    {
+     "id": "TurnItemNotEnagth",
+     "text": "Not enough draw tickets!"
+    },
+    {
+     "id": "NotBuyShipFood",
+     "text": "No supplies needed right now"
+    },
+    {
+     "id": "replayError",
+     "text": "Replay unavailable"
+    },
+    {
+     "id": "RefreshTradeTips",
+     "text": "Take a break, Captain. Try again in {0}s"
+    },
+    {
+     "id": "RefreshSurveyTradeTip",
+     "text": "Refreshed"
+    },
+    {
+     "id": "TurnBuyNeedItemDirector1",
+     "text": "Not enough Lucky Draw Tickets. Spend {0} Rainbow Diamonds to buy {1} Lucky Draw Tickets?"
+    },
+    {
+     "id": "TurnBuyNeedItemDirector5",
+     "text": "Not enough Lucky Draw Tickets. Spend 250 Rainbow Diamonds to buy five Lucky Draw Tickets?"
+    },
+    {
+     "id": "DeclareWarTips_Success",
+     "text": "War declared"
+    },
+    {
+     "id": "DeclareWarTips_CantWar",
+     "text": "Target doesn't meet the conditions"
+    },
+    {
+     "id": "DeclareWarTips_HaveAWar",
+     "text": "That enemy is already booked for a battle"
+    },
+    {
+     "id": "DeclareWarTips_NoTime",
+     "text": "Your guild is already booked for this time slot"
+    },
+    {
+     "id": "DeclareWarTips_NoUnion",
+     "text": "No guild selected"
+    },
+    {
+     "id": "ShipTradeSharedNoTraget",
+     "text": "Choose who to share with"
+    },
+    {
+     "id": "SweepActivityCopyTip4",
+     "text": "Sweep to Golden Trial Floor {1}. Costs <sprite=5>×1 and <sprite=6>×{0}. Sweep?"
+    },
+    {
+     "id": "SweepActivityCopyTip5",
+     "text": "Sweep to Hero Trial Floor {1}. Costs <sprite=4>×1 and <sprite=6>×{0}. Sweep?"
+    },
+    {
+     "id": "SweepActivityCopyTitle4",
+     "text": "Golden Trial Sweep"
+    },
+    {
+     "id": "SweepActivityCopyTip",
+     "text": "Sweeping costs <sprite=6>X{0}. Sweep?"
+    },
+    {
+     "id": "SweepActivityCopyTitle1",
+     "text": "Secret Book Day Sweep"
+    },
+    {
+     "id": "SweepActivityCopyTitle2",
+     "text": "Training Day Sweep"
+    },
+    {
+     "id": "SweepActivityCopyTitle3",
+     "text": "Breakthrough Day Sweep"
+    },
+    {
+     "id": "SweepActivityItemNoMoreTip",
+     "text": "Fewer than {0} Quick Challenge Tickets. Can't sweep"
+    },
+    {
+     "id": "ShipFoodResetTips",
+     "text": "Supplies refresh daily at 0:00"
+    },
+    {
+     "id": "error_code_28005",
+     "text": "Invalid item for sale"
+    },
+    {
+     "id": "error_code_28101",
+     "text": "Support period has ended"
+    },
+    {
+     "id": "error_code_28102",
+     "text": "You already supported this round"
+    },
+    {
+     "id": "error_code_28103",
+     "text": "Betting hasn't started or has ended"
+    },
+    {
+     "id": "error_code_28104",
+     "text": "You've already placed a bet"
+    },
+    {
+     "id": "DeclareWar_Des3",
+     "text": "After declaring war, your guild will fight guild {2} of Server {1} in a Sea Battle at <color=#b94200>{0}</color>"
+    },
+    {
+     "id": "BF2_Score",
+     "text": "Got {0} points"
+    },
+    {
+     "id": "DecalreWar_EnemyFirstPage",
+     "text": "Already on the first page"
+    },
+    {
+     "id": "DecalreWar_EnemyEndPage",
+     "text": "Already on the last page"
+    },
+    {
+     "id": "changcishangzhen",
+     "text": "Match Lineup"
+    },
+    {
+     "id": "SharedTradeProgress",
+     "text": "Shared order progress: {0}/{1}"
+    },
+    {
+     "id": "ItemNoMoreTips4",
+     "text": "Not enough Golden Keys"
+    },
+    {
+     "id": "ItemNoMoreTips5",
+     "text": "Not enough Hero Trial Keys"
+    },
+    {
+     "id": "Fashion_HeroExist_Check_Tip",
+     "text": "You don't own this character. Can't wear it"
+    },
+    {
+     "id": "RunMapConditionNpcDesc",
+     "text": "This is a story stage; all characters used are story characters!"
+    },
+    {
+     "id": "noneReplayData",
+     "text": "One side hasn't set a formation, so no battle replay was made."
+    },
+    {
+     "id": "Fashion_Player_Equip_Default_Tip",
+     "text": "Can't uncheck while the displayed character is the leader"
+    },
+    {
+     "id": "HasBeenSent",
+     "text": "Sent"
+    },
+    {
+     "id": "NoMoreMySharedTrade",
+     "text": "No Mystery Orders shared by you"
+    },
+    {
+     "id": "Fashion_Default_Show_Tip",
+     "text": "The default look gives no stat bonus"
+    },
+    {
+     "id": "RaidRunMap_3203",
+     "text": "Escape the eerie graveyard"
+    },
+    {
+     "id": "RaidRunMap_3303",
+     "text": "Escape the mansion zombies"
+    },
+    {
+     "id": "RaidRunMap_3807",
+     "text": "Rescue Hatchan and defeat the Macro Pirates"
+    },
+    {
+     "id": "RaidRunMap_3808",
+     "text": "Escape the Sabaody Archipelago"
     },
     {
      "id": "moduleName_06",
@@ -11017,7 +13981,7 @@
      "text": "Limited Recruit"
     }
    ],
-   "partial": "1963/5841 rows translated so far"
+   "partial": "2704/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
