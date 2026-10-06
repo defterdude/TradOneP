@@ -15955,16 +15955,1832 @@
      "text": "Please start over"
     },
     {
+     "id": "backAgainMax",
+     "text": "Step Back limit reached"
+    },
+    {
+     "id": "ResetLevel",
+     "text": "Level:"
+    },
+    {
+     "id": "ResetSurpass",
+     "text": "Transcend:"
+    },
+    {
+     "id": "ResetBreak",
+     "text": "Breakthrough:"
+    },
+    {
+     "id": "ResetIntimacy",
+     "text": "Affinity:"
+    },
+    {
+     "id": "ResetMax",
+     "text": "No reset needed!"
+    },
+    {
+     "id": "ExpReturnExplain",
+     "text": "*Characters above Lv1 can be reset.*Resetting returns some of the EXP items used to level the character.*Resetting refunds all skill points, along with the Gold Bars spent on skill upgrades."
+    },
+    {
+     "id": "NotChangeSurpass",
+     "text": "Transcend unchanged"
+    },
+    {
+     "id": "NotChangeBreak",
+     "text": "Breakthrough unchanged"
+    },
+    {
+     "id": "NotChangeIntermaci",
+     "text": "Affinity unchanged"
+    },
+    {
+     "id": "ResetPercent",
+     "text": "Reset refunds {0}% of resources"
+    },
+    {
+     "id": "ResetInFormation",
+     "text": "This character is in the battle lineup. Continue?"
+    },
+    {
+     "id": "ResetInSubFormation",
+     "text": "This character is supporting; its support effect will be lost after the reset. Continue?"
+    },
+    {
+     "id": "ResetHaveEquipments",
+     "text": "This character has equipment, which will be removed automatically after the reset. Continue?"
+    },
+    {
+     "id": "CharacterBiographyChaperFullStar",
+     "text": "Congrats on a full-star clear! Quick Battle unlocked"
+    },
+    {
+     "id": "CharacterBiographyChaperTitle",
+     "text": "Star Conditions"
+    },
+    {
+     "id": "ChapterReward",
+     "text": "Stage {0} Rewards"
+    },
+    {
+     "id": "SkillTreeSimulateTitle",
+     "text": "Skill Point Simulator"
+    },
+    {
+     "id": "SkillTreeSimulateApplyBtn",
+     "text": "Apply"
+    },
+    {
+     "id": "ChapterSkip",
+     "text": "Stage {0}   Quick Battle in progress......{1}s"
+    },
+    {
+     "id": "CatchActionExplain",
+     "text": "*Sea Beast Hunt has 2 free plays per day; plays reset daily at 0:00.\\n \\n*How to play: use naval mines to trap the Lord of the Coast so it can't move, and it's caught. If it reaches the edge of the map, it escapes and the hunt fails.\\n \\nNaval Mines: tap an empty tile to place a mine; only one mine per turn. The Lord of the Coast can't move onto mined tiles. Some mines appear randomly on the map at the start to help you.\\n \\nLord of the Coast: each turn it moves one or two tiles toward the edge in a random direction, until it reaches the edge and escapes.\\n \\nStep Back: undoes one turn; you can use it three times per game. Stepping back doesn't reduce your recorded move count!*Game Rewards:\\nPer-game rewards: every game gives rewards whether the hunt succeeds or fails; successful hunts give better rewards.\\n \\nCatch rewards: after a certain number of successful catches you can claim catch rewards; each tier can only be claimed once per event.\\n \\n*Hall of Fame: records this event's rankings, keeping players' best results and ranks. It resets each event, and updates may be slightly delayed."
+    },
+    {
+     "id": "CatchActionMainNum",
+     "text": "Hunts left today"
+    },
+    {
+     "id": "SweepCostOnce",
+     "text": "Quick Battle costs <sprite=6>*{1} in total. Continue?"
+    },
+    {
+     "id": "SweepCost",
+     "text": "Each stage's Quick Battle costs <sprite=6>*{1}. Continue?"
+    },
+    {
+     "id": "SweepStopped",
+     "text": "Not enough Quick Challenge Tickets to continue Quick Battle"
+    },
+    {
+     "id": "SecretPlaceFightIntegral",
+     "text": "Glory Point System"
+    },
+    {
+     "id": "SecretPlaceFightTopScore",
+     "text": "Server High Score:"
+    },
+    {
+     "id": "SecretPlaceFightFormation",
+     "text": "Lineup used in this stage"
+    },
+    {
+     "id": "SelectDifficulty",
+     "text": "Choose Difficulty"
+    },
+    {
+     "id": "SkillSimulateReset",
+     "text": "All skills on this page will be reset. Confirm?"
+    },
+    {
+     "id": "SkillSimulateApplyNoCost",
+     "text": "Replace the hero's skill points with the simulated setup"
+    },
+    {
+     "id": "SkillSimulateApply",
+     "text": "\\nReplace the hero's skill points with the simulated setup\\n\\n<size=26>Item cost:            x{0}</size>"
+    },
+    {
+     "id": "SkillSimulateKeep",
+     "text": "Save the current simulated skill points?"
+    },
+    {
+     "id": "SecretPlaceFightWeekRank",
+     "text": "Tier:"
+    },
+    {
+     "id": "SecretPlaceFightWeekScore",
+     "text": "Weekly Total Points:"
+    },
+    {
+     "id": "SecretRankTitle",
+     "text": "Trainee Tier"
+    },
+    {
+     "id": "SecretRankDan",
+     "text": "Current Tier"
+    },
+    {
+     "id": "SecretRankScore",
+     "text": "Server Points"
+    },
+    {
+     "id": "PointAdd",
+     "text": "Points +"
+    },
+    {
+     "id": "refineAutoAddTips",
+     "text": "This refine will use enhancement items automatically. Confirm?"
+    },
+    {
+     "id": "refineOne",
+     "text": "Refine 1 Time"
+    },
+    {
+     "id": "NoCombinableGems",
+     "text": "No gems to combine"
+    },
+    {
+     "id": "NoCombinableTrain",
+     "text": "No Training Books to combine"
+    },
+    {
+     "id": "AlreadyUsedInOtherFight",
+     "text": "Already used in another trial"
+    },
+    {
+     "id": "FormationFightPower",
+     "text": "Lineup Power:"
+    },
+    {
+     "id": "secret_LookBattle",
+     "text": "View the battle record of this stage's top scorer?"
+    },
+    {
+     "id": "refineBtnCount",
+     "text": "Refine #{0}"
+    },
+    {
+     "id": "BloodyFightStar",
+     "text": "Quick Battle Unlocked"
+    },
+    {
+     "id": "SkipFightStopped",
+     "text": "Quick Battle stopped"
+    },
+    {
+     "id": "LeveUpExp",
+     "text": "2x EXP during the event"
+    },
+    {
+     "id": "SimulateSkillTressNotDifferent",
+     "text": "The simulated skills match your current skills. Nothing to apply"
+    },
+    {
+     "id": "secretRestTip",
+     "text": "Reset this Secret Realm stage?"
+    },
+    {
+     "id": "SecretRewardEndTime",
+     "text": "Settlement Time (SecretRewardEndTime)"
+    },
+    {
+     "id": "FunctionNotOpen",
+     "text": "Feature not available yet"
+    },
+    {
+     "id": "ResetLvNotEnough",
+     "text": "Must reach Lv{0} to reset"
+    },
+    {
+     "id": "ResetLvAsk",
+     "text": "Spend {0}*{1} to reset this character and refund {2}% of EXP?"
+    },
+    {
+     "id": "HeroNumCount",
+     "text": "Characters in this stage:"
+    },
+    {
+     "id": "CatchActionNoCost",
+     "text": "This game is free"
+    },
+    {
+     "id": "SecretPlaceNotFight",
+     "text": "No player has challenged yet"
+    },
+    {
+     "id": "CatchActionMainTishi",
+     "text": "Successful catches give better rewards!"
+    },
+    {
+     "id": "CatchActionRankStepDesc",
+     "text": "{0} moves"
+    },
+    {
+     "id": "SecretPlaceFightExplain",
+     "text": "*While the Secret Realm Trial is open, 3 Secret Realms are available to challenge.\\n*The max points for each Secret Realm are shown under each difficulty. Each realm deducts points by different rules, in these 3 types:\\nSpeed Trial: starting from turn 6, every 1 turn costs 15 points.\\nEndurance Trial: after each wave, every 1% HP lost by all characters deducts 2 points.\\nPerseverance Trial: every 1 skill used costs 2 points.\\n\\nWhen you finish a stage, your score is your best this week for that stage, and it updates your weekly total. Your team is then locked and can't be used in other Secret Realms.\\n*Total points, rank rewards and achievement rewards: the leaderboard opens once 100 players have joined the Secret Realm Trial, and stays closed until then\\n*Total points are the sum of all stage points in the period, and ranks compare total points among players in the same tier.\\nRanks for all players in the period are tallied daily at 0:00, and rank rewards are sent by mail.\\nAlso, reaching certain total points unlocks achievement rewards, claimable on the Achievements screen."
+    },
+    {
+     "id": "SkillTreeSimulateTishi",
+     "text": "Simulated skill points match the character's actual points"
+    },
+    {
+     "id": "SecretAchievementScore",
+     "text": "All-Time High Score"
+    },
+    {
+     "id": "SecretRankRewardDesc",
+     "text": "Opens once at least {0} players join this mode"
+    },
+    {
+     "id": "SecretCurRankRewrdFiggtNum",
+     "text": "Current participants {0}/200"
+    },
+    {
+     "id": "SecretPlaceFightHightScore",
+     "text": "All-Time High Score:"
+    },
+    {
+     "id": "SecretRankRewardOpenTip",
+     "text": "Not enough participants. Rewards aren't open yet"
+    },
+    {
+     "id": "SecretPlaceFightLookPrize",
+     "text": "Expected Rewards"
+    },
+    {
+     "id": "SecretPlaceFightNotOpen",
+     "text": "Not enough challengers\\nNot open yet"
+    },
+    {
+     "id": "SecretActivityEndTip",
+     "text": "Event hasn't started yet"
+    },
+    {
+     "id": "SweepTip",
+     "text": "Quick Battles {0}/{1}"
+    },
+    {
+     "id": "HomeLandWorkBtn",
+     "text": "Remove Character"
+    },
+    {
+     "id": "HomeLandPeopleNum",
+     "text": "People:"
+    },
+    {
+     "id": "HomeLandWarehouseDes",
+     "text": "The warehouse protects your resources when enemies raid"
+    },
+    {
+     "id": "HomeLandWarehouseRestBtn",
+     "text": "Upgrading"
+    },
+    {
+     "id": "HomeLandTrainRoomTitle",
+     "text": "Train Characters"
+    },
+    {
+     "id": "HomeLandWarehouseTitle",
+     "text": "Building Use"
+    },
+    {
+     "id": "HomeLandLevelUp",
+     "text": "Tap to Upgrade"
+    },
+    {
+     "id": "HomeLandTeam",
+     "text": "Formation"
+    },
+    {
+     "id": "HomeLandDefenseProduct",
+     "text": "Extra work progress:"
+    },
+    {
+     "id": "CantRideInTeam",
+     "text": "Can't ride while in a team"
+    },
+    {
+     "id": "homeGridUnLockTips",
+     "text": "Unlocks at Home Hall Lv{0}"
+    },
+    {
+     "id": "homeGridCanUnLock",
+     "text": "Can Clear"
+    },
+    {
+     "id": "CantRideInCurrentScene",
+     "text": "Can't ride in this area"
+    },
+    {
+     "id": "homeLand_noHome",
+     "text": "This player hasn't created a Home yet"
+    },
+    {
+     "id": "homeLand_unActive",
+     "text": "This player's Home isn't activated yet"
+    },
+    {
+     "id": "homeLandCountMaxed",
+     "text": "Building count <color=#D27831>maxed</color>"
+    },
+    {
+     "id": "buildNextLevel",
+     "text": "Requires Home Hall <color=#BA5C01>Lv{0}</color>"
+    },
+    {
+     "id": "alreadyBuindCount",
+     "text": "Built: <color=#ff984b>{0}</color>/{1}"
+    },
+    {
+     "id": "HomeLandStartWorkPlan",
+     "text": "Work Progress"
+    },
+    {
+     "id": "HomeLandStartWorkrole",
+     "text": "Working Characters"
+    },
+    {
+     "id": "HomeLandStartWorkDes",
+     "text": "Productivity affects work progress"
+    },
+    {
+     "id": "HomeLandStartWorkPro",
+     "text": "Work progress bonus:"
+    },
+    {
+     "id": "HomeLandStartWorkCost",
+     "text": "Work Cost"
+    },
+    {
+     "id": "HomeLandStartWorkProTime",
+     "text": "Production Time:"
+    },
+    {
+     "id": "HomeLandStartWorkNum",
+     "text": "Work Count:"
+    },
+    {
+     "id": "HomeLandOpenGrid",
+     "text": "Clear Land"
+    },
+    {
+     "id": "HomeLandOpenGridDesc",
+     "text": "Once cleared, you can build on this land"
+    },
+    {
+     "id": "HomeLandItemDes",
+     "text": "Choose an item to produce"
+    },
+    {
+     "id": "PlayerCall",
+     "text": "Dear Player:"
+    },
+    {
+     "id": "PinnacleFormation",
+     "text": "Peak Arena Formation"
+    },
+    {
+     "id": "PracticeFormation",
+     "text": "Glory Match Formation"
+    },
+    {
+     "id": "HomeLandRoleBtn",
+     "text": "My Characters"
+    },
+    {
+     "id": "HomeLandSupportBtn",
+     "text": "Rented Characters"
+    },
+    {
+     "id": "NotSweptActivityCopyTip",
+     "text": "This stage isn't cleared. Can't sweep"
+    },
+    {
+     "id": "HomeLandGatherTitle",
+     "text": "Collection Details"
+    },
+    {
+     "id": "HomelandGatherCurrent",
+     "text": "Collection time left:"
+    },
+    {
+     "id": "HomelandGatherRole",
+     "text": "Producing Characters"
+    },
+    {
+     "id": "HomelandGatherAddRole",
+     "text": "Add Character"
+    },
+    {
+     "id": "HomelandGatherOutputNum",
+     "text": "Essence output/hour:"
+    },
+    {
+     "id": "HomelandCreamStorageNum",
+     "text": "Essence stored:"
+    },
+    {
+     "id": "HomeLandCommonTitle",
+     "text": "Blue Diamond Workshop"
+    },
+    {
+     "id": "HomeLandCommonLeftBtn",
+     "text": "Previous Level"
+    },
+    {
+     "id": "HomeLandCommonRightBtn",
+     "text": "Next Level"
+    },
+    {
+     "id": "HomeLandCommonBottomTitle",
+     "text": "Building Function"
+    },
+    {
+     "id": "HomeLandCommonBottomBtn1",
+     "text": "Demolish"
+    },
+    {
+     "id": "BFStopSweep",
+     "text": "This chapter was swept to stage {0}. Can't sweep further"
+    },
+    {
+     "id": "BFSweepFinish",
+     "text": "Sweep complete"
+    },
+    {
+     "id": "error_code_81316",
+     "text": "Ladder Peak Arena division isn't open"
+    },
+    {
+     "id": "HomeLandDormitoryTitle",
+     "text": "Resting Roster"
+    },
+    {
+     "id": "pleaseSelectBuilding",
+     "text": "Choose a building to build"
+    },
+    {
+     "id": "homeLandUnLockLevel",
+     "text": "This land can be cleared at Lv{0}"
+    },
+    {
+     "id": "HomeLandDormitorySelectHero",
+     "text": "Placeable Characters"
+    },
+    {
+     "id": "UnlockLevelLimit",
+     "text": "Unlocks at Lv{0}"
+    },
+    {
+     "id": "HomeLandFriendLabel",
+     "text": "Can Assist"
+    },
+    {
+     "id": "HomeLandFriendLook",
+     "text": "Visit"
+    },
+    {
+     "id": "HomeLandBuildingStopProducing",
+     "text": "Stop Production"
+    },
+    {
+     "id": "cancleBuildingTips",
+     "text": "Canceling construction refunds the materials below. Cancel construction?"
+    },
+    {
+     "id": "removeBuildingTips",
+     "text": "Demolishing the building refunds the materials below. Demolish?"
+    },
+    {
+     "id": "HomeSpeedBuildingTitle",
+     "text": "Clearing Speed-Up"
+    },
+    {
+     "id": "timeOutReSetItem",
+     "text": "Exceeds the remaining time. Please choose again"
+    },
+    {
+     "id": "inTargetScene",
+     "text": "You're already in the target area"
+    },
+    {
+     "id": "UIHomeLandMainDegree",
+     "text": "Prosperity:"
+    },
+    {
+     "id": "UIHomeLandMainFight",
+     "text": "Renown:"
+    },
+    {
+     "id": "UIHomeLandResProtect",
+     "text": "Protects <color=#FFCF3FFF>{0}%</color> of items each time you're raided"
+    },
+    {
+     "id": "homelandCanBuild",
+     "text": "Can Build"
+    },
+    {
+     "id": "HomeSpeedBuildingTime",
+     "text": "Estimated Time:"
+    },
+    {
+     "id": "HomeLandCreamDescription",
+     "text": "A key Home resource, used for production and construction"
+    },
+    {
+     "id": "HomeHeroHireAddRole",
+     "text": "Please add a character"
+    },
+    {
+     "id": "HomeLandWarRoomGuard",
+     "text": "Expected Defense:"
+    },
+    {
+     "id": "HomeLandWarRoomGarrison",
+     "text": "Garrison Stamina cost/hour"
+    },
+    {
+     "id": "HomeLandWarRoomGuardNum",
+     "text": "Stamina cost per successful defense"
+    },
+    {
+     "id": "HomeLandWarRoomGuardFailNum",
+     "text": "Stamina lost per failed defense:"
+    },
+    {
+     "id": "HomeBuildingOverviewBuildingUpgrading",
+     "text": "Building upgrading..."
+    },
+    {
+     "id": "borrowSuccess",
+     "text": "Rented"
+    },
+    {
+     "id": "HomeLandBuildingFun",
+     "text": "Description:"
+    },
+    {
+     "id": "HomeLandBuiLdingState",
+     "text": "Status:"
+    },
+    {
+     "id": "HomeLandOpenGridExplain",
+     "text": "*Uncleared land in your Home must be cleared before use. Land only needs to be cleared once and can then be used permanently."
+    },
+    {
+     "id": "HomeLandBuildExplain",
+     "text": "*Building: you can build what you need on cleared land; each plot holds one building at a time.\\n \\n*Buildings: construction depends on the Home Hall level, which decides which buildings can be built and how many of each. Build wisely to get the most out of your Home.\\n \\nConstruction costs: buildings use Home materials such as Stone, Steel and Essence. Stone and Steel come from Home Quests; Essence comes from Essence Collectors."
+    },
+    {
+     "id": "HomeLandChoseNumberMax",
+     "text": "Max number of characters selected"
+    },
+    {
+     "id": "HomeLandChoseRentMax",
+     "text": "A rented character is already among your selection"
+    },
+    {
+     "id": "HomeLandStartWorkTip",
+     "text": "Not enough characters selected"
+    },
+    {
+     "id": "homeBuyHigLevelCreamTips",
+     "text": "Buy to build a Lv3 Essence Collector"
+    },
+    {
+     "id": "needBuy",
+     "text": "Purchase Required"
+    },
+    {
+     "id": "HomeLandStartWorkPrize",
+     "text": "Boost Work Progress"
+    },
+    {
+     "id": "HomeLandStartWorkFinishTime",
+     "text": "Quest completes in:"
+    },
+    {
+     "id": "HomeLandOpenGridCost",
+     "text": "Upgrade Requirements"
+    },
+    {
+     "id": "homeLogType1",
+     "text": "<color=#d3752f>{0}</color> finished production. Progress <color=#5d722d>+{1}</color>"
+    },
+    {
+     "id": "homeLogType2",
+     "text": "Friend <color=#d3752f>{0}</color> helped with your production"
+    },
+    {
+     "id": "homeLogType3",
+     "text": "<color=#d3752f>{0}</color> was rented by friend <color=#d3752f>{1}</color>. You got <color=#d3752f>{2}</color> Friendship Points"
+    },
+    {
+     "id": "homeLogType4",
+     "text": "<color=#d3752f>{0}</color> raided your Home. You lost <color=#d3752f>{1}</color> Essence"
+    },
+    {
+     "id": "homeLogType5",
+     "text": "You fought off <color=#d3752f>{0}</color>'s raid on your Home"
+    },
+    {
+     "id": "minutesBefore",
+     "text": "{0} minutes ago"
+    },
+    {
+     "id": "homeShop",
+     "text": "Home Shop"
+    },
+    {
+     "id": "helpSuccess",
+     "text": "Helped with production: 5 minutes faster. Got \"{0}\""
+    },
+    {
+     "id": "HomeLandCommonSkillDes",
+     "text": "Only works in the Home"
+    },
+    {
+     "id": "warPunishDesc",
+     "text": "Your Home level is higher than this player's, so raid gains will be reduced!"
+    },
+    {
+     "id": "warPunish",
+     "text": "Level Penalty"
+    },
+    {
+     "id": "LowFPSTipsNotRemind",
+     "text": "Don't remind me again"
+    },
+    {
+     "id": "HomeLogInfoTitle",
+     "text": "Info"
+    },
+    {
+     "id": "HomeLandHeroContChoose",
+     "text": "This character can't be selected"
+    },
+    {
+     "id": "HomeLandHeroHireExplain",
+     "text": "Character Support Info"
+    },
+    {
+     "id": "HomeLandFormationName0",
+     "text": "Lineup 1"
+    },
+    {
+     "id": "HomeLandFormationName1",
+     "text": "Lineup 2"
+    },
+    {
+     "id": "HomeLandFormationName2",
+     "text": "Lineup 3"
+    },
+    {
+     "id": "HomeLandFormationOpenCondition",
+     "text": "Raise the War Room to Lv<color=#AF4A22FF>{0}</color> to unlock <color=#AF4A22FF>{1}</color>"
+    },
+    {
+     "id": "HomeLandMonthCard_Text_6",
+     "text": "Activate the Home Builder Pass for premium perks:"
+    },
+    {
+     "id": "HomeLandMonthCard_Text_1",
+     "text": "Activates the <color=#BA3901>Advanced Essence Collector</color> building"
+    },
+    {
+     "id": "HomeLandMonthCard_Text_2",
+     "text": "<color=#BA3901>{0}</color> extra construction workers"
+    },
+    {
+     "id": "HomeLandMonthCard_Text_3",
+     "text": "Production buildings get <color=#BA3901>{0}%</color> extra progress"
+    },
+    {
+     "id": "HomeLandMonthCard_Text_4",
+     "text": "Dormitory Stamina recovery <color=#BA3901>{0}%</color> faster"
+    },
+    {
+     "id": "HomeLandMonthCard_Text_5",
+     "text": "Daily Home Quest <color=#BA3901>rewards doubled</color>"
+    },
+    {
+     "id": "homeMonthCardName",
+     "text": "Home Builder Pass"
+    },
+    {
+     "id": "HomePlunderTipTitle",
+     "text": "Raid Gains"
+    },
+    {
+     "id": "HomePublishOfferPlunder",
+     "text": "Once posted, your friends can raid this player"
+    },
+    {
+     "id": "HomePublishOfferPlunderPrize",
+     "text": "A successful raid gives"
+    },
+    {
+     "id": "HomeMonthCardTitle",
+     "text": "Activate the Home Builder Pass to enjoy premium perks"
+    },
+    {
+     "id": "HomeLandOpenGridLevel",
+     "text": "Requires Hall <color=#D17B32>Lv{0}</color>"
+    },
+    {
+     "id": "HomeLandOpenGridTime",
+     "text": "Clearing Time:"
+    },
+    {
+     "id": "Recharge_HomeMonthCard_Tab",
+     "text": "Home Subscription"
+    },
+    {
+     "id": "ios_home_monthcard_desc",
+     "text": "[Auto-Subscription Service Info]\\n1. Subscription:\\nHome Builder Pass (1 month)\\n2. Price:\\nHome Builder Pass: ¥68/month, renewed monthly\\n3. Payment: charged to your iTunes account once you confirm the purchase\\n4. Auto-renewal: your Apple iTunes account is charged within 24 hours before expiry; once charged, the subscription extends by one period\\n5. Turning it off: on your iPhone go to \"Settings\" --> \"iTunes & App Store\" --> tap \"Apple ID\", choose \"View Apple ID\", open \"Account Settings\", tap \"Subscriptions\" and manage auto-subscriptions. To cancel, turn it off at least 24 hours before the end of each billing period; within 24 hours of expiry you won't be charged again\\n6. User Agreement:\\n<link=\"url=https://www.nebulajoy.com/privacy_op/user_agree.html\"><#0000FF>https://www.nebulajoy.com/privacy_op/user_agree.html</color></link>\\n7. Privacy Policy:\\n<link=\"url=https://www.nebulajoy.com/privacy_op/privacy.html\"><#0000FF>https://www.nebulajoy.com/privacy_op/privacy.html</color></link>\\n"
+    },
+    {
+     "id": "homeProdeceAddProgress",
+     "text": "Production complete. +{0} work progress"
+    },
+    {
+     "id": "stopHomeLandWorkTipTitle",
+     "text": "Stop Work"
+    },
+    {
+     "id": "stopHomeLandWorkTips",
+     "text": "Stop the current work?"
+    },
+    {
+     "id": "homeProduceRestitutionTips",
+     "text": "Only {0} Essence is refunded during work"
+    },
+    {
+     "id": "HomeLandFightResultFailDes1",
+     "text": "The opponent fended off your attack"
+    },
+    {
+     "id": "HomeLandFightResultFailDes2",
+     "text": "Nothing was looted this time!"
+    },
+    {
+     "id": "HomeLandFightResultFailNum",
+     "text": "Raids"
+    },
+    {
+     "id": "HomeLandFightResultFailBtnLeft",
+     "text": "Battle Replay"
+    },
+    {
+     "id": "HomeLandFightResultWinTitle",
+     "text": "Loot"
+    },
+    {
+     "id": "HomeLandOpenGridProsperity",
+     "text": "Requires <color=#D17B32>{0}</color> Prosperity"
+    },
+    {
+     "id": "HomeLandBuildTime",
+     "text": "Build Time:"
+    },
+    {
+     "id": "HomeLandBuildLevel",
+     "text": "Required Hall Level"
+    },
+    {
+     "id": "HomeLandBuildlock",
+     "text": "Not unlocked yet"
+    },
+    {
+     "id": "HomeLogInfoBtn1",
+     "text": "Home Info"
+    },
+    {
+     "id": "HomeShopBuybtn",
+     "text": "Start Buying"
+    },
+    {
+     "id": "homeLogType6",
+     "text": "You raided player <color=#d3752f>{0}</color> and got <color=#d3752f>{1}</color> Essence"
+    },
+    {
+     "id": "homeLogType7",
+     "text": "Your raid on player <color=#d3752f>{0}</color> failed"
+    },
+    {
+     "id": "home_noFriends",
+     "text": "No friends yet"
+    },
+    {
+     "id": "home_noEnemy",
+     "text": "No enemies yet"
+    },
+    {
+     "id": "home_noOffer",
+     "text": "No bounties yet"
+    },
+    {
+     "id": "HomeLandOpenGridNeedTime",
+     "text": "Upgrade Time:"
+    },
+    {
+     "id": "HomeSpeedBuildingTishi",
+     "text": "Long-press to use Speed-Up Tickets continuously"
+    },
+    {
+     "id": "HomeSpeedBuildingTimeNum",
+     "text": "Build Time:"
+    },
+    {
+     "id": "HomeLandFriendEnemyNum",
+     "text": "Hostility:"
+    },
+    {
+     "id": "HomeLandFriendBoomNum",
+     "text": "Home Prosperity:"
+    },
+    {
+     "id": "HomeLandLevelNum",
+     "text": "Home Hall Level:"
+    },
+    {
+     "id": "HomeLandPlunderNum",
+     "text": "Raidable Essence:"
+    },
+    {
+     "id": "HomeBattlePeople",
+     "text": "No defense lineup"
+    },
+    {
+     "id": "HomePlunderTipBtn1",
+     "text": "Scout"
+    },
+    {
+     "id": "HomePlunderTipBtn2",
+     "text": "Raid"
+    },
+    {
+     "id": "HomeLandFriendLabel2",
+     "text": "Can't Assist"
+    },
+    {
+     "id": "helpState",
+     "text": "Assist Status:"
+    },
+    {
+     "id": "HomeHeroHireHelp",
+     "text": "Please add a character to rent out"
+    },
+    {
+     "id": "HomeHeroHireMoney",
+     "text": "Rental reward/time:"
+    },
+    {
+     "id": "HomeHighCreamNeed",
+     "text": "Activation Requirements"
+    },
+    {
+     "id": "HomeHighCreamLeftGet",
+     "text": "Activate now to get instantly"
+    },
+    {
+     "id": "HomeAssartCost",
+     "text": "Clearing Cost"
+    },
+    {
+     "id": "HomeAssartDes",
+     "text": "Cleared land can be used for buildings"
+    },
+    {
+     "id": "HomeAssartTitle",
+     "text": "Land Clearing"
+    },
+    {
+     "id": "HomeAssartBtn",
+     "text": "Clear"
+    },
+    {
+     "id": "EnableAdvCreamEfx_1",
+     "text": "Get a <color=#d27530>Lv5</color> Advanced Essence Collector instantly on activation"
+    },
+    {
+     "id": "EnableAdvCreamEfx_2",
+     "text": "Instantly raises daily output by up to <color=#d27530>1000</color> Essence"
+    },
+    {
+     "id": "EnableAdvCreamEfx_3",
+     "text": "Instantly raises Essence storage cap by <color=#d27530>20000</color>"
+    },
+    {
+     "id": "EnableAdvCreamEfx_4",
+     "text": "Essence in the Advanced Essence Collector <color=#d27530>can't be raided</color>"
+    },
+    {
+     "id": "HomeLandTaskLeftTitle",
+     "text": "Quest Goal"
+    },
+    {
+     "id": "HomeLandTaskLeftGoBtn",
+     "text": "Go Now"
+    },
+    {
      "id": "HomeLandTaskTitle",
      "text": "Home Quests"
+    },
+    {
+     "id": "RolePropertyFightBtn",
+     "text": "Support"
+    },
+    {
+     "id": "HomeLogInfoProductBtn",
+     "text": "Production Info"
+    },
+    {
+     "id": "HomeLandPlunderTipsTitle",
+     "text": "Change Opponents"
+    },
+    {
+     "id": "HomeLandPlunderFreeTips",
+     "text": "\\n<color=#845029ff>Change raid opponents? You'll be rematched with 4 new players</color>\\n\\n<color=#845029ff>Free this time (</color><color=#D17b32>{0}</color><color=#845029ff>/{1})</color>"
+    },
+    {
+     "id": "HomeLandPlunderCostTips",
+     "text": "\\n<color=#845029ff>Change raid opponents? You'll be rematched with 4 new players</color>\\n\\n<color=#845029ff>Cost: {0}{1}</color>"
+    },
+    {
+     "id": "HomeLandPlunderChange",
+     "text": "Change"
+    },
+    {
+     "id": "HomeLandProductionNo",
+     "text": "No orders yet"
+    },
+    {
+     "id": "HomeLandFriendship",
+     "text": "Friendship Coins"
+    },
+    {
+     "id": "HomeLandFriendshipDescribe",
+     "text": "Earned by renting your characters to friends in your Home. Exchange them for various valuable items"
+    },
+    {
+     "id": "RoleTrainingTitle",
+     "text": "Total training cost:"
+    },
+    {
+     "id": "HomeLand_ProduceTaskTips",
+     "text": "Please complete the production quest manually"
+    },
+    {
+     "id": "backHome",
+     "text": "Back to Home"
+    },
+    {
+     "id": "HomeLandCreamTimeLessOneHour",
+     "text": "Under 1 hour"
+    },
+    {
+     "id": "HomeLand_RobTaskTips",
+     "text": "Go to the War Room to complete the raid quest"
+    },
+    {
+     "id": "HomeLand_ChatWithFriendNpc",
+     "text": "Go to a friend's Home to talk to the NPC"
+    },
+    {
+     "id": "HomeLand_ChatWithMyNpc",
+     "text": "Return to your Home to talk to the NPC"
+    },
+    {
+     "id": "HomeLand_GatherFriendRes",
+     "text": "Go to a friend's Home to complete the gathering quest"
+    },
+    {
+     "id": "HomeLand_GatherMyRes",
+     "text": "Return to your Home to complete the gathering quest"
+    },
+    {
+     "id": "HomeLand_HandOverFriendItem",
+     "text": "Go to a friend's Home to complete the quest"
+    },
+    {
+     "id": "HomeLand_HandOverMyItem",
+     "text": "Return to your Home to complete the quest"
+    },
+    {
+     "id": "UnlockRightNow",
+     "text": "Unlock Now"
+    },
+    {
+     "id": "enterBuilding",
+     "text": "Enter Building"
+    },
+    {
+     "id": "EquipRefineTitle",
+     "text": "Refine Results"
+    },
+    {
+     "id": "HomeLandInactiveSkill_Level",
+     "text": "Unlocks at Lv{0}"
+    },
+    {
+     "id": "HomeLandInactiveSkill_Star",
+     "text": "Unlocks at {0}-star Transcend"
+    },
+    {
+     "id": "EquipRefineWindowTabBtn1",
+     "text": "By Count"
+    },
+    {
+     "id": "EquipRefineWindowTabBtn2",
+     "text": "By Level"
+    },
+    {
+     "id": "EquipRefineWindowStart",
+     "text": "Start Refining"
+    },
+    {
+     "id": "EquipRefineToTimes",
+     "text": "Enhance:      times"
+    },
+    {
+     "id": "EquipRefineToLevel",
+     "text": "Enhance to: Lv"
+    },
+    {
+     "id": "EquipRefineCurLevel",
+     "text": "Current Level: Lv{0}"
+    },
+    {
+     "id": "EquipRefineCancel",
+     "text": "Cancel Refining"
+    },
+    {
+     "id": "HomeLandFightWinText1",
+     "text": "You fought off the raiders"
+    },
+    {
+     "id": "HomeLandFightWinText2",
+     "text": "No supplies were lost!"
+    },
+    {
+     "id": "HomeLandFightLose",
+     "text": "Supplies Lost"
+    },
+    {
+     "id": "addSuccessful",
+     "text": "Added"
+    },
+    {
+     "id": "HomePlunderCostChangePlayer",
+     "text": "Spend {0}<color=#D17B32FF>{1}</color> to change opponents"
+    },
+    {
+     "id": "HomePlunderFreeChangePlayer",
+     "text": "Free opponent changes <color=#D17B32FF>{0}</color> / {1}"
+    },
+    {
+     "id": "HomeLandPlunderExplain",
+     "text": "Home Raid Info"
+    },
+    {
+     "id": "EquipRefineCost",
+     "text": "Enhancement Materials Used"
+    },
+    {
+     "id": "EquipRefineAdd",
+     "text": "Rate Materials Used"
+    },
+    {
+     "id": "HomeLandPokedexLeftTitle",
+     "text": "Decoration List"
+    },
+    {
+     "id": "HomeLandPokedexRightStyle",
+     "text": "Decoration Type"
+    },
+    {
+     "id": "HomeLandPokedexRightStar",
+     "text": "Decoration Stars"
+    },
+    {
+     "id": "HomeLandPokedexRightBuy",
+     "text": "(Purchased decorations take effect immediately)"
+    },
+    {
+     "id": "UIHomeLandMainCreamTip",
+     "text": "Current Essence stored:"
+    },
+    {
+     "id": "UIHomeLandMainJzTip",
+     "text": "Each construction needs <color=#E16728FF>1</color> construction worker. Activate the Home Builder Pass to get <color=#E16728FF>2</color> construction workers"
+    },
+    {
+     "id": "PerfectTrainingTips",
+     "text": "No items selected to use"
+    },
+    {
+     "id": "ExplainType_HomeLandDress",
+     "text": "*Decorations: you can freely place decorations at set spots in your Home, one decoration per spot. Decorations must be activated before placing, and come from various sources.\\n*Decoration Effects:\\n    Decorations have different effects. Once activated, you enjoy the effect in your Home without placing it, and effects stack.\\n    Bridges play an important role: they link the islands of your Home, letting you cross to each island and explore."
+    },
+    {
+     "id": "openNeedUnLockDress",
+     "text": "Activate {0} to use this land"
+    },
+    {
+     "id": "needBuyItem",
+     "text": "Requires purchase of <color=#C0550CFF>{0}</color>"
+    },
+    {
+     "id": "PerfectTrainingNotEnough",
+     "text": "Not enough resources for quick training"
     },
     {
      "id": "homePlunderTitle",
      "text": "Raid"
     },
     {
+     "id": "homePlunderContent",
+     "text": "\\n<color=#845029ff>Raid this player?</color>\\n\\nRaids left today: {0}"
+    },
+    {
+     "id": "PerfectDescriptionNone",
+     "text": "Quick training keeps consuming resources until training is maxed. Choose the resource type to use"
+    },
+    {
+     "id": "InTeamCantGoHomeLand",
+     "text": "Can't go Home while in a team"
+    },
+    {
+     "id": "Training_FiveBtn",
+     "text": "Train 5 Times"
+    },
+    {
+     "id": "HomeLand_GoNonFriendHome",
+     "text": "You're not this player's friend and can't enter"
+    },
+    {
+     "id": "HomePlunderGuardNum",
+     "text": "Defense teams:"
+    },
+    {
+     "id": "UIHomeLandMainHelpTitle",
+     "text": "Home Protection"
+    },
+    {
+     "id": "UIHomeLandMainHelptext",
+     "text": "Your Home is shrouded in mist and can't be scouted by enemies."
+    },
+    {
+     "id": "UIHomeLandMainHelpTime",
+     "text": "Protection left:"
+    },
+    {
+     "id": "Training_PerfectBtn",
+     "text": "Quick Training"
+    },
+    {
+     "id": "RefineRecoinTabBtn",
+     "text": "Reforge"
+    },
+    {
      "id": "RefineRecoinTabTitle",
      "text": "Reforge"
+    },
+    {
+     "id": "HomelandProsperityBuff",
+     "text": "Home Prosperity +{0}"
+    },
+    {
+     "id": "EquipRefineWindowSuccess",
+     "text": "With auto-select enhancement items on,\\nthey're only used to raise the success rate\\nfrom refine Lv<color=#845029ff>10</color> onward"
+    },
+    {
+     "id": "Choose_Refine_6",
+     "text": "Choose the equipment to reforge"
+    },
+    {
+     "id": "HomeLandTestTishi",
+     "text": "Home Quests refresh daily at 0:00"
+    },
+    {
+     "id": "reIdentityTips",
+     "text": "Spend {0}{1} to reforge {2}? Reforging re-rolls traits and stat values and binds the equipment. Continue?"
+    },
+    {
+     "id": "EntrustMake_Start",
+     "text": "Commission Crafting"
+    },
+    {
+     "id": "MakeItem_6_Enstrust",
+     "text": "Commission Medicine"
+    },
+    {
+     "id": "Gvo8013_shuangchengang",
+     "text": "Frostdust Port"
+    },
+    {
+     "id": "Gvo8013_haidaozhen",
+     "text": "Pirate Town"
+    },
+    {
+     "id": "Gvo8013_nuofuhaiwan",
+     "text": "Coward's Bay"
+    },
+    {
+     "id": "Gvo8013_ranxuehaixia",
+     "text": "Bloodstained Strait"
+    },
+    {
+     "id": "Gvo8013_bingyanhai",
+     "text": "Frostfire Sea"
+    },
+    {
+     "id": "Gvo8013_piaolinghai",
+     "text": "Drifting Sea"
+    },
+    {
+     "id": "Gvo8013_yinmiyucun",
+     "text": "Hidden Fishing Village"
+    },
+    {
+     "id": "Gvo8013_sihunhai",
+     "text": "Dead Souls Sea"
+    },
+    {
+     "id": "Gvo8013_aihaobingchuan",
+     "text": "Wailing Glacier"
+    },
+    {
+     "id": "entrustDecomposePageTitle",
+     "text": "Commission Dismantling"
+    },
+    {
+     "id": "ExplainType_EntrustMedicine",
+     "text": "*You can commission Chopper to make Master and Grandmaster tier medicine; he knows every recipe.\\n*Commissioned medicine costs the same Vigor and herb materials, and gives the same pharmacy EXP, as normal crafting.\\n*Commissions also cost some Strange Seeds as a fee.\\n*The higher your pharmacy level, the fewer Strange Seeds a commission needs."
+    },
+    {
+     "id": "AllTrainItemCombine",
+     "text": "All Training Books"
+    },
+    {
+     "id": "SeaAreaNotOpen",
+     "text": "Sea area not open yet"
+    },
+    {
+     "id": "NoCombinableTrainProps",
+     "text": "No training items to combine"
+    },
+    {
+     "id": "ExplainType_ReIdentify",
+     "text": "*Hero Sets at Lv100 and above (Lv100 included) can be reforged.\\nReforging re-rolls the values of main and fixed traits and the types of random traits.\\nEquipment with rare traits is more likely to roll rare traits after reforging.*UR equipment can be reforged; it only changes the values of base and fixed traits, not the trait types.\\nUR reforging never lowers base or fixed trait values.*You can pick the new stats or keep the original ones.*Each reforge costs a Reforge Stone. There's no limit on reforges.*Reforging doesn't change sockets or refine level."
+    },
+    {
+     "id": "HomeLandSkillDes",
+     "text": "Home Skills apply in all battles"
+    },
+    {
+     "id": "dressNpcRewardTips1",
+     "text": "Herbs are ready to collect. Collect them?"
+    },
+    {
+     "id": "dressNpcRewardTips2",
+     "text": "The herbs aren't ripe yet. Come back later; herbs can be collected in <color=#845029>{0}</color>"
+    },
+    {
+     "id": "homeDressChangeSceneTips",
+     "text": "Change the theme?"
+    },
+    {
+     "id": "needProsEffect",
+     "text": "<color=#855029FF>Activates at</color> {0} <color=#855029FF>Prosperity</color>"
+    },
+    {
+     "id": "HomeLandTaskRightBtn",
+     "text": "Accept Quest"
+    },
+    {
+     "id": "homeNpcGetreward",
+     "text": "Collect Herbs"
+    },
+    {
+     "id": "ExplainType_ExploreSystem",
+     "text": "*Only Lv100 Hero Sets can be reforged.*Reforging re-rolls the values of main and fixed traits and the types of random traits.*You can pick the new stats or keep the original ones.*Equipment with rare traits is more likely to roll rare traits after reforging.*Each reforge costs a Reforge Stone. There's no limit on reforges.*Reforging doesn't change sockets or refine level."
+    },
+    {
+     "id": "giftExpired",
+     "text": "Bundle expired"
+    },
+    {
+     "id": "timeExpired",
+     "text": "until expiry"
+    },
+    {
+     "id": "HomeMaterialsFr",
+     "text": "Prosperity"
+    },
+    {
+     "id": "HomeTaskDes",
+     "text": "Details"
+    },
+    {
+     "id": "ExploreBossType_3",
+     "text": "Hard"
+    },
+    {
+     "id": "ExploreBossType_4",
+     "text": "Abyss"
+    },
+    {
+     "id": "ExploreBossScoreTitle",
+     "text": "Point Info"
+    },
+    {
+     "id": "ExploreBossTitle",
+     "text": "Boss Info"
+    },
+    {
+     "id": "ExploreSystemResultCurrent",
+     "text": "Current condition score:"
+    },
+    {
+     "id": "ExploreSystemResultPrize",
+     "text": "Point Rewards:"
+    },
+    {
+     "id": "ExploreSystemResultTask",
+     "text": "Point Quests:"
+    },
+    {
+     "id": "currentNum",
+     "text": "Current 10-pull count (single pulls don't count): <color=#BD5813FF>{0}</color>"
+    },
+    {
+     "id": "costNameWithNum",
+     "text": "Cost <color=#543318>{0}</color> x {1}"
+    },
+    {
+     "id": "ExploreSystemBestPrize",
+     "text": "Best Possible Reward"
+    },
+    {
+     "id": "buyDressTips",
+     "text": "Activating this decoration costs {0}\\n \\nActivate?"
+    },
+    {
+     "id": "ExploreSystemBestScore",
+     "text": "Current High Score:"
+    },
+    {
+     "id": "Activity_Invest_DayNum",
+     "text": "Day <size=28>{0}</size>"
+    },
+    {
+     "id": "ExploreRewardBtn1",
+     "text": "Point Achievements"
+    },
+    {
+     "id": "HomeDescriptionBtn1",
+     "text": "Recipe Selection"
+    },
+    {
+     "id": "HomeDescriptionBtn2",
+     "text": "Production Info"
+    },
+    {
+     "id": "HomeDescriptionBtn3",
+     "text": "Character Selection"
+    },
+    {
+     "id": "HomeLandAccount1",
+     "text": "*Hall: the Home Hall is the heart of your Home. It controls which land is unlocked and the number and level of buildings. Raise its level to build a better Home.\\n *Rental: characters stationed in the Home Hall can be rented by friends. Rented-out characters lose Stamina, and those low on Stamina can't be rented again. Rented characters can only be used for 8 hours and don't recover Stamina. Rentals have daily lend and borrow limits that reset at 0:00.\\n *Friendship Coins: earned when you lend out characters; spend them on items in the Home Shop."
+    },
+    {
+     "id": "HomeLandAccount2",
+     "text": "*War Room: the War Room is a key defensive building. Use characters to fend off other players' raids and avoid losses.\\n *Lineups: battle lineups are used to raid or defend your Home. Each lineup has 3 characters, and you can set up to 3 lineups. When a defense fails, its characters lose some Stamina; characters low on Stamina can't gain Soul Jade in battle.\\n *Raids: you can raid other players' Homes for Essence. Raiding pits you against the opponent's battle lineups; if the attacker wins, they loot Essence, and if the defender wins, no Essence is lost. Raids have a daily cap that resets at 0:00, and successful raids use up attempts.\\n *Battle rules: your Lineup 1 fights their Lineup 1, Lineup 2 fights Lineup 2, and Lineup 3 fights Lineup 3; whoever wins more battles wins. Draws count as a defense win. If one side has no lineup, the side with a lineup wins; if neither has a defense lineup, that round is skipped"
+    },
+    {
+     "id": "HomeLandAccount3",
+     "text": "*Warehouse: protects Essence, reducing losses each time you're raided.\\n *Protection: upgrading the warehouse raises the amount of Essence protected. Multiple warehouses stack."
+    },
+    {
+     "id": "HomeLandAccount4",
+     "text": "*Stamina recovery: the Dormitory restores characters' Stamina. Station low-Stamina characters there and they'll slowly recover.\\n *Character Stamina: production, defense and rentals in the Home all use Stamina, and characters can't work without it. Stamina can only be recovered in the Dormitory.\\n *Capacity: the number of characters a Dormitory holds grows with its level."
+    },
+    {
+     "id": "HomeLandAccount5",
+     "text": "*Production: Essence Collectors produce Essence, a key Home material. Station a character with Stamina in a collector to make it work; it produces Essence at regular intervals.\\n *Work hours: collectors can only work 10 hours a day; after 10 hours they stop collecting. Work hours reset daily at 8:00.\\n *Essence storage: each collector has a max storage; once full, it stops producing. Upgrading the building raises the cap."
+    },
+    {
+     "id": "HomeLandAccount6",
+     "text": "*Production: production buildings make various character growth items. Pick one item order at a time to produce; production uses Essence. Each completed job adds work progress, and you get the item once the order's required progress is met.\\n *Orders: each production building has different orders, and upgrading it unlocks new ones. Higher-level orders give better rewards.\\n *Work progress: decides how many rewards each production gives. Building level, character skills, decorations and the Home Builder Pass raise the progress gained per job.\\n *Working characters: each job needs 3 characters, who spend Stamina while producing and can't be used when it runs low. Each character can only do one job at a time."
+    },
+    {
+     "id": "effectNum",
+     "text": "Uses:"
+    },
+    {
+     "id": "RechargeText",
+     "text": "Nothing here~"
+    },
+    {
+     "id": "ReceiveAward",
+     "text": "Please claim your reward items first~"
+    },
+    {
+     "id": "Home_Prosperity_Tips",
+     "text": "Raise Prosperity by constructing buildings and activating decorations"
+    },
+    {
+     "id": "Home_NewUserTask_Tips1",
+     "text": "No free land to build on"
+    },
+    {
+     "id": "Home_InProtectedTime",
+     "text": "Under protection. Can't be raided."
+    },
+    {
+     "id": "CanNotGetProp",
+     "text": "You haven't met the reward conditions yet, or the reward was already claimed!"
+    },
+    {
+     "id": "ExploreBossExplanation",
+     "text": "*Drake Challenge is a Boss challenge mode.*Each challenge uses 1 attempt, and the system tops you up to 3 attempts daily.*Stages are open for two weeks, with four stages opening each week; each has its own recommended level, Power and point quests.*Captains can take on stages suited to their strength; fully defeating the enemy gives Challenge Silver Coins, spendable in the challenge shop.*Point quests come in base and extended points; completing them earns more points.*After defeating the enemy, fewer turns used and higher remaining team HP earn more points.*Only your best score per difficulty is recorded; higher scores unlock rewards in Point Achievements.*Captains' best scores are recorded on the leaderboard, settled on 6/1 and 6/8, with Challenge Gold Coins awarded by rank. From 0:00 on 6/9 stages can't be challenged, but the shop stays open until 24:00 on 6/12 for captains to buy items."
+    },
+    {
+     "id": "homeDressLodingChangeTips",
+     "text": "Changing Home theme"
+    },
+    {
+     "id": "explore_remain_hp",
+     "text": "{0}% HP left on our side"
+    },
+    {
+     "id": "explore_round_num",
+     "text": "Defeated the Boss in {0} turns"
+    },
+    {
+     "id": "web_empty",
+     "text": "No announcements"
+    },
+    {
+     "id": "changeSkillOnceRound",
+     "text": "You can only switch skills once per turn"
+    },
+    {
+     "id": "noExtraSkillGroup",
+     "text": "No skills to switch to"
+    },
+    {
+     "id": "HeroPromoteTitle",
+     "text": "Soul Jade Up"
+    },
+    {
+     "id": "HeroPromote1",
+     "text": "Promotion 1:"
+    },
+    {
+     "id": "HeroPromoteDes1",
+     "text": "Character Soul Jade cap raised to <color=#d14e0d>15</color>"
+    },
+    {
+     "id": "HeroPromote2",
+     "text": "Promotion 2:"
+    },
+    {
+     "id": "HeroPromoteDes2",
+     "text": "Active skill level cap +<color=#d14e0d>10</color>, passive skill level cap +<color=#d14e0d>5</color>, and skill book use cap raised to <color=#d14e0d>170</color>"
+    },
+    {
+     "id": "HeroPromoteDes3",
+     "text": "Unlocks Super Ultimate and <color=#d14e0d>2</color> skill slots"
+    },
+    {
+     "id": "HeroPromote3",
+     "text": "Promotion 3:"
+    },
+    {
+     "id": "PuzzleLight",
+     "text": "<size=28>Light up</size> the full puzzle"
+    },
+    {
+     "id": "PuzzleGet",
+     "text": "Claim the <size=28>Ultimate Item</size>"
+    },
+    {
+     "id": "PuzzleOne",
+     "text": "Draw 1"
+    },
+    {
+     "id": "PuzzleFive",
+     "text": "Draw 5"
+    },
+    {
+     "id": "PuzzleChipTitle",
+     "text": "Shard Bag"
+    },
+    {
+     "id": "PuzzleChipNormal",
+     "text": "Normal Shards"
+    },
+    {
+     "id": "PuzzleChipBest",
+     "text": "Universal Shards"
+    },
+    {
+     "id": "PuzzleTaskTitle",
+     "text": "Puzzle Quests"
+    },
+    {
+     "id": "PuzzleUnComplete",
+     "text": "Puzzle isn't finished. Complete it first"
+    },
+    {
+     "id": "PuzzleRewardUnTaken",
+     "text": "Row and column puzzle rewards are unclaimed"
+    },
+    {
+     "id": "PuzzleChapterRewardTaken",
+     "text": "Ultimate Chest is unclaimed"
+    },
+    {
+     "id": "PuzzleGachaPropNotEnough",
+     "text": "Not enough draw items"
+    },
+    {
+     "id": "skillLevelUpCondition_promotion",
+     "text": "Activation requires character Promotion Lv<color=#a32e00>{0}</color>"
+    },
+    {
+     "id": "PuzzleHelpContent",
+     "text": "Treasure Puzzle is a puzzle event: use Treasure Tickets to draw puzzle shards and complete the picture for rewards.*Draw Tickets give random puzzle shards; a 5-draw has a chance to give 1 Universal Shard.*Universal Shards can be exchanged for any shard you're missing in the current picture, at a 1:1 rate.*There are 5 puzzles in this event; each must be completed before moving to the next.*After switching pictures, shards you own can still be used in the matching numbered spots of the current picture. Shards are only valid for this event; leftover shards are converted to Gold Bars and returned when it ends.*Filling every shard in any row or column gives that line's reward bag. Filling all shards gives the picture's ultimate reward."
+    },
+    {
+     "id": "PuzzleNextChapterContent",
+     "text": "Go to the next stage?"
+    },
+    {
+     "id": "PuzzleNextChapterUnCompleteContent",
+     "text": "This stage isn't complete. Go to the next stage anyway?"
+    },
+    {
+     "id": "Fashion_DressingOff",
+     "text": "Remove"
+    },
+    {
+     "id": "PuzzleHaventPass",
+     "text": "This stage isn't cleared yet"
+    },
+    {
+     "id": "DressingRoomEmpty",
+     "text": "No costume equipped"
+    },
+    {
+     "id": "PuzzleHasCompleteAllContent",
+     "text": "All puzzles in this event are complete"
+    },
+    {
+     "id": "PromoteRecruit",
+     "text": "Awakening Recruit"
+    },
+    {
+     "id": "AlreadyOwnHero",
+     "text": "You already own this character, so it was turned into <color=#ffe703>Awakening Shards</color>"
+    },
+    {
+     "id": "PromoteRecruitSuccessTips",
+     "text": "Got <color=#ffe703>Gold Bars</color>. Bonus <color=#ffe703>Voyage Companion</color>"
+    },
+    {
+     "id": "skilldetaildesc_super_anger",
+     "text": "Rage Cost 150"
+    },
+    {
+     "id": "EquipHole",
+     "text": "Equipment Tempering"
+    },
+    {
+     "id": "EquipHoleFinish",
+     "text": "Tempering complete"
+    },
+    {
+     "id": "Choose_Refine_7",
+     "text": "Choose equipment to temper"
+    },
+    {
+     "id": "EquipHoleNone",
+     "text": "No equipment to temper"
+    },
+    {
+     "id": "ExpandHolePosition",
+     "text": "Tempering Slot"
+    },
+    {
+     "id": "GVOHangUpCantSaveContent",
+     "text": "Conditions not met. Can't save"
+    },
+    {
+     "id": "SeaHangEarn",
+     "text": "Estimated income/hour"
+    },
+    {
+     "id": "SeaHangMainEarn",
+     "text": "Flagship Bonus"
+    },
+    {
+     "id": "SeaHangDeputyEarn",
+     "text": "Escort Ship Bonus"
+    },
+    {
+     "id": "SeaHangSure",
+     "text": "Confirm Setup"
+    },
+    {
+     "id": "SeaHangShip1",
+     "text": "Fleet 1"
+    },
+    {
+     "id": "SeaHangShip2",
+     "text": "Fleet 2"
+    },
+    {
+     "id": "SeaHangShip3",
+     "text": "Fleet 3"
+    },
+    {
+     "id": "SeaHangNoEarn",
+     "text": "No income from exploring yet. Come back later!"
+    },
+    {
+     "id": "SeaHangLeaveFormationEdit",
+     "text": "The current fleet lineup isn't saved. Save and leave?"
+    },
+    {
+     "id": "SeaHangSkipFight",
+     "text": "Skip the battle?"
+    },
+    {
+     "id": "SeaHangHasExisted",
+     "text": "Already deployed in Fleet {0}"
+    },
+    {
+     "id": "SeaHangUpMainShipFirst",
+     "text": "Deploy a flagship first"
+    },
+    {
+     "id": "SeaHangSaveFormationFirst",
+     "text": "Save your fleet setup first!"
+    },
+    {
+     "id": "SeaHangFormationCondition",
+     "text": "Each fleet needs at least one flagship and three heroes!"
+    },
+    {
+     "id": "SeaHangLeaveFormationTab",
+     "text": "The current fleet setup isn't saved. Leave anyway?"
+    },
+    {
+     "id": "SeaHangEndHangGetReward",
+     "text": "You're idling in another chapter. End it, collect the income, and start idling in this chapter?"
+    },
+    {
+     "id": "SeaHangEndHangFirst",
+     "text": "You're idling in another chapter. End that first"
+    },
+    {
+     "id": "SeaHangNoFormation",
+     "text": "No formation set. Set one up now?"
+    },
+    {
+     "id": "SeaHangGetQuickBotRewardFree",
+     "text": "Your first collection each day is free. Get {0} hours of income for free?<br>Uses left today: <color=#cd5903>{1}</color>/{2}"
+    },
+    {
+     "id": "SeaHangGetQuickBotRewardItem",
+     "text": "Spend <sprite=13><color=#cd5903>x1</color> to get {0} hours of income?<br>Uses left today: <color=#cd5903>{1}</color>/{2}"
+    },
+    {
+     "id": "SeaHangGetQuickBotRewardMoney",
+     "text": "Spend <sprite=1><color=#cd5903>{0}</color> to get {1} hours of income?<br>Uses left today: <color=#cd5903>{2}</color>/{3}"
+    },
+    {
+     "id": "SeaHangChapterHasPassed",
+     "text": "Chapter cleared"
+    },
+    {
+     "id": "SeaHangToBeContinue",
+     "text": "New chapters coming soon"
+    },
+    {
+     "id": "SeaHangChapterNotOpen",
+     "text": "Chapter not open"
+    },
+    {
+     "id": "PokedexReviewTip",
+     "text": "Collect all ships and characters to activate this Gallery entry!"
+    },
+    {
+     "id": "PokedexActivateProAdd",
+     "text": "Stats Combined:"
+    },
+    {
+     "id": "PokedexActivateNoRule",
+     "text": "Activation conditions not met"
+    },
+    {
+     "id": "PokedexActivateFourStar",
+     "text": "4 Stars"
+    },
+    {
+     "id": "PokedexActivateSixStar",
+     "text": "6 Stars"
+    },
+    {
+     "id": "PokedexActivateEightStar",
+     "text": "8 Stars"
+    },
+    {
+     "id": "PokedexActivateLevel1",
+     "text": "Lv60"
+    },
+    {
+     "id": "PokedexActivateLevel2",
+     "text": "Lv80"
+    },
+    {
+     "id": "PokedexActivateLevel3",
+     "text": "Lv100"
+    },
+    {
+     "id": "PokedexActivateLevel4",
+     "text": "Lv40"
+    },
+    {
+     "id": "IntimacyExplanation1",
+     "text": "The Straw Hat Pirates: friends gathered from all over the world who reunited after countless adventures and training, now a mighty crew charging toward ONE PIECE."
+    },
+    {
+     "id": "IntimacyExplanation2",
+     "text": "A mysterious island 10,000 meters up in the sky that produces special Dials, where legends of the City of Gold are told. Its people have two feather-like wings on their backs. The people of Angel Island are moon people."
+    },
+    {
+     "id": "IntimacyExplanation3",
+     "text": "Ten small islands form a ring, home to many strange creatures that are all unusually \"long\". The islanders migrate and return after the next migration."
+    },
+    {
+     "id": "IntimacyExplanation4",
+     "text": "A city on the water famous for first-class shipbuilding, where islanders travel the canals on animals they raise. The Sea Train runs straight to Enies Lobby, set up by the World Government."
+    },
+    {
+     "id": "IntimacyExplanation5",
+     "text": "An archipelago built on 79 trees and run by the World Government, with areas named after the numbers on the trees. It has a unique bubble culture and is ruled by the Celestial Dragons."
+    },
+    {
+     "id": "IntimacyExplanation6",
+     "text": "The world's greatest prison for dangerous criminals, deep under the sea in the Calm Belt of the first half of the Grand Line. Its security is extremely tight, earning it the name \"Iron Wall\"."
+    },
+    {
+     "id": "IntimacyExplanation7",
+     "text": "The all-out war the Whitebeard Pirates waged on the Marines to rescue Ace. The largest war since the Great Pirate Era began, it changed the world order."
+    },
+    {
+     "id": "IntimacyExplanation8",
+     "text": "A terrible accident once happened on this island, and corrosive substances turned it into an uninhabited island. Now run by the World Government, it's where Aokiji and Akainu fought for the post of Fleet Admiral."
+    },
+    {
+     "id": "IntimacyExplanation9",
+     "text": "A tropical island with a resort feel, the land of love and passion. Doflamingo once stole the country and turned its people into toys. It is now ruled by King Riku's family."
+    },
+    {
+     "id": "IntimacyExplanation10",
+     "text": "A meeting held by the World Government every four years, where the rulers of over fifty nations discuss world security and order."
+    },
+    {
+     "id": "IntimacyExplanation11",
+     "text": "The territory of the Emperor BIG MOM, shaped like a layered cake. She seeks to unite all the world's races and build a utopia."
     },
     {
      "id": "refineExplain",
@@ -16025,7 +17841,7 @@
      "text": "Limited Recruit"
     }
    ],
-   "partial": "3215/5841 rows translated so far"
+   "partial": "3669/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
