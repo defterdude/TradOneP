@@ -20115,6 +20115,1158 @@
      "text": "<color=#a32e00>Brutal Style</color>\\nOur crit damage +100%"
     },
     {
+     "id": "HC_BattleInfo_2064",
+     "text": "<color=#a32e00>Fighting Spirit</color>\\nFor every 1 HP recovery on our side, all damage +10%, up to 10 times (recovery and Lifesteal Gems don't count)"
+    },
+    {
+     "id": "HC_BattleInfo_2065",
+     "text": "<color=#a32e00>Seize the Moment</color>\\nWhen hit by a skill while shielded, enemies have a 10% chance to interrupt the player's action"
+    },
+    {
+     "id": "HC_BattleInfo_2066",
+     "text": "<color=#a32e00>Heroic Resistance</color>\\nFrom turn 2, enemies gain a 25% shield every three turns until the end of the turn; if the shield is broken before it fades, they gain 200% Vulnerability for 2 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2067",
+     "text": "<color=#a32e00>Brutal Style</color>\\nPlayer crit damage +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2068",
+     "text": "<color=#a32e00>Fighting Spirit</color>\\nEach time the player recovers HP, all damage +30%, up to 10 times (recovery and Lifesteal Gems don't count)"
+    },
+    {
+     "id": "HC_BattleInfo_2069",
+     "text": "<color=#a32e00>Seize the Moment</color>\\nWhen hit while shielded, enemies have a 10% chance to interrupt the player's action"
+    },
+    {
+     "id": "HC_BattleInfo_2070",
+     "text": "<color=#a32e00>Engulfed in Flames</color>\\nEnemies' final skill damage reduction +90%, fire RES -300%"
+    },
+    {
+     "id": "HC_BattleInfo_2071",
+     "text": "<color=#a32e00>Abnormal Power</color>\\nPlayers deal 50% more damage to enemies with Bleed/Burn/Poison/Shock"
+    },
+    {
+     "id": "HC_BattleInfo_2072",
+     "text": "<color=#a32e00>Flame Devour</color>\\nWhen players deal fire damage to an enemy, they deal an extra hit of True Damage"
+    },
+    {
+     "id": "HC_BattleInfo_2073",
+     "text": "<color=#a32e00>Elemental Breach</color>\\nPlayers' elemental damage can crit"
+    },
+    {
+     "id": "HC_BattleInfo_2074",
+     "text": "<color=#a32e00>Unshakable</color>\\nEnemies' final skill damage reduction +99%"
+    },
+    {
+     "id": "HC_BattleInfo_2075",
+     "text": "<color=#a32e00>Rear Bastion</color>\\nOne back-row enemy unit's HP is greatly raised"
+    },
+    {
+     "id": "HC_BattleInfo_2076",
+     "text": "<color=#a32e00>Defense Removal</color>\\nAfter one back-row enemy unit acts, it removes all player shields"
+    },
+    {
+     "id": "HC_BattleInfo_2077",
+     "text": "<color=#a32e00>Last Resort</color>\\nExcept for one back-row unit, enemy units clear all player-applied effects and revive on death; the battle ends when that back-row unit dies"
+    },
+    {
+     "id": "HC_TaskTitle_30",
+     "text": "Deploy Charlotte Katakuri +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_31",
+     "text": "Deploy Dragon Man Kaido +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_32",
+     "text": "Inflict debuffs such as Bleed/Burn/Poison/Shock +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_33",
+     "text": "A single skill dealing over {0}0K fire damage +{1} pts"
+    },
+    {
+     "id": "HC_TaskTitle_34",
+     "text": "Deploy Sabo +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_35",
+     "text": "Deploy Kizaru +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_36",
+     "text": "A single skill dealing over {0}0K wind damage +{1} pts"
+    },
+    {
+     "id": "HC_TaskTitle_37",
+     "text": "A single skill dealing over {0}0K light damage +{1} pts"
+    },
+    {
+     "id": "HC_TaskTitle_38",
+     "text": "Deploy Queen +{0} pts"
+    },
+    {
+     "id": "URRecruitExplain",
+     "text": "*UR Recruit uses UR Recruitment Tickets, which can be bought in the Shop.*Besides characters, the UR Recruit pool includes some game items.*All characters in UR Recruit are obtained as shards.*Every 20 recruits guarantee at least one shard of the current UR character.*UR Recruit rates: R 49.6%, SR 14.4%, non-limited SSR 3%, UR 0.5%, UR character shards 5.5%, other items 27%.*When your total recruits this period reach set amounts, you can claim pull-milestone rewards. Milestone progress and claim status reset when each UR Recruit period opens."
+    },
+    {
+     "id": "TVTips_BeginDrag",
+     "text": "Tip: long-press OK to start dragging"
+    },
+    {
+     "id": "TVTips_FininshDrag",
+     "text": "Drag mode on. Use the arrow keys to drag; press OK again to exit drag mode"
+    },
+    {
+     "id": "TVTips_FreeCursor",
+     "text": "Tip: long-press an arrow key to enable the free cursor"
+    },
+    {
+     "id": "TVOperate_Explain",
+     "text": "Basic controls:\\nNormally, pressing an arrow key moves the cursor to the next interactive target in that direction; press OK to click*Free Cursor:\\nLong-press any arrow key to enter [Free Cursor Mode]. The cursor no longer snaps to targets and moves directly with the arrow keys; press OK to exit this mode (pressing OK also clicks)*Dragging:\\nWhen the cursor is on a draggable target such as a scroll list, long-press OK to enter [Drag Mode]. Use the arrow keys to drag, and press OK again to exit (this doesn't click)"
+    },
+    {
+     "id": "AwakeSwitchTip1",
+     "text": "You already have pull reward progress in the current pool. Choosing a new pool will lose it. Switch anyway?"
+    },
+    {
+     "id": "AwakeSwitchTip2",
+     "text": "You have unclaimed progress rewards. Claim them before switching pools."
+    },
+    {
+     "id": "AwakeSwitchTip3",
+     "text": "After choosing this character, you can't change pools again this period. Confirm?"
+    },
+    {
+     "id": "AwakeSwitchTip4",
+     "text": "You've already changed pools this Awakening Recruit period and can't change again."
+    },
+    {
+     "id": "testHeroListTitle",
+     "text": "Trial Character List"
+    },
+    {
+     "id": "NewbieGuidePassBuy2",
+     "text": "Levels can be bought up to Lv{0}"
+    },
+    {
+     "id": "NewbieGuidePassBuy3",
+     "text": "{0} Blue Diamonds = {1} Pass EXP"
+    },
+    {
+     "id": "NewbieGuideStage",
+     "text": "Stage 1;Stage 2;Stage 3;Stage 4;Stage 5;Stage 6;Stage 7;Stage 8;Stage 9"
+    },
+    {
+     "id": "NewbieGuideTabName2",
+     "text": "Spending Rewards"
+    },
+    {
+     "id": "NewbieGuideEndDays",
+     "text": "days left"
+    },
+    {
+     "id": "noDemoHeros",
+     "text": "No trial cards yet"
+    },
+    {
+     "id": "demoHeroTip",
+     "text": "(Trial)"
+    },
+    {
+     "id": "HC_BattleInfo_2078",
+     "text": "<color=#a32e00>United Against the Enemy</color>\\nEach AoE skill a player uses in a turn gives the next skill +20% physical damage"
+    },
+    {
+     "id": "HC_BattleInfo_2079",
+     "text": "<color=#a32e01>Breakthrough Resolve</color>\\nPlayer healing +300%, damage taken +200%, and max HP of the first wave +300% from the start of turn 1"
+    },
+    {
+     "id": "HC_BattleInfo_2080",
+     "text": "<color=#a32e02>Shadow of Death</color>\\nEnemy single-target basic attacks or skills apply one stack of Heal Block on hit; for AoE, the chance is 30% lower; lasts 1 turn"
+    },
+    {
+     "id": "HC_BattleInfo_2081",
+     "text": "<color=#a32e03>Elemental Armament</color>\\nMonster damage +100%, elemental damage reduction 1000%"
+    },
+    {
+     "id": "HC_BattleInfo_2082",
+     "text": "<color=#a32e00>United Against the Enemy</color>\\nEach AoE skill a player uses in a turn gives the next skill +50% damage"
+    },
+    {
+     "id": "HC_BattleInfo_2083",
+     "text": "<color=#a32e01>Breakthrough Resolve</color>\\nPlayer healing +300%, damage taken +200%, and max HP of the first wave +300% from the start of turn 1"
+    },
+    {
+     "id": "HC_BattleInfo_2084",
+     "text": "<color=#a32e02>Shadow of Death</color>\\nEnemy single-target basic attacks or skills apply one stack of Heal Block on hit; for AoE, the chance is 30% lower; lasts 1 turn"
+    },
+    {
+     "id": "HC_BattleInfo_2085",
+     "text": "<color=#a32e03>Elemental Armament</color>\\nMonster damage +100%, elemental damage reduction 1000%"
+    },
+    {
+     "id": "HC_BattleInfo_2086",
+     "text": "<color=#a32e00>Swift as Thunder</color>\\nPlayers' wind and lightning damage +100%"
+    },
+    {
+     "id": "HC_BattleInfo_2087",
+     "text": "<color=#a32e00>Violent Storm</color>\\nPlayer crit damage +50%, and each crit adds +5% crit damage, stacking up to 10 times"
+    },
+    {
+     "id": "HC_BattleInfo_2088",
+     "text": "<color=#a32e00>Rage Burst</color>\\nIf a player ends their action with 100 Rage, all damage +100% until the end of their next action"
+    },
+    {
+     "id": "HC_BattleInfo_2089",
+     "text": "<color=#a32e00>Charged Flash</color>\\nWhen players dodge, Attack +5%, stacking up to 10 times"
+    },
+    {
+     "id": "HC_BattleInfo_2090",
+     "text": "<color=#a32e00>Like Wind, Like Mountain</color>\\nAt the start of battle all enemies gain 600% Speed, and final damage reduction +80% when attacked by slower players"
+    },
+    {
+     "id": "HC_BattleInfo_2091",
+     "text": "<color=#a32e00>Relentless Pursuit</color>\\nOn even turns, players gain +500% Attack when attacking targets slower than themselves"
+    },
+    {
+     "id": "HC_BattleInfo_2092",
+     "text": "<color=#a32e00>Light and Dark Boost</color>\\nPlayers' light and dark damage +300%"
+    },
+    {
+     "id": "HC_BattleInfo_2093",
+     "text": "<color=#a32e00>Final Blow</color>\\nWhen the back-row enemy dies, it deals damage equal to 20% max HP to all enemies"
+    },
+    {
+     "id": "HC_BattleInfo_2094",
+     "text": "<color=#a32e00>Indestructible</color>\\nMonster defense: all damage reduction +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2095",
+     "text": "<color=#a32e00>Sustained Combat</color>\\nMonsters recover 10% HP each turn, healing bonus +50%"
+    },
+    {
+     "id": "HC_BattleInfo_2096",
+     "text": "<color=#a32e00>Elemental Immunity</color>\\nMonsters are immune to elemental damage"
+    },
+    {
+     "id": "HC_BattleInfo_2097",
+     "text": "<color=#a32e00>Tough Body</color>\\nMonsters are immune to damage bonuses, and crit damage taken can't exceed 150%"
+    },
+    {
+     "id": "HC_BattleInfo_2098",
+     "text": "<color=#a32e00>Indestructible</color>\\nMonsters' all damage reduction +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2099",
+     "text": "<color=#a32e00>Stronger with Battle</color>\\nMonsters' damage bonus +20% each turn"
+    },
+    {
+     "id": "HC_BattleInfo_2100",
+     "text": "<color=#a32e00>Elemental Immunity</color>\\nMonsters are immune to elemental damage"
+    },
+    {
+     "id": "HC_BattleInfo_2101",
+     "text": "<color=#a32e00>Tough Body</color>\\nMonsters are immune to damage bonuses, and crit damage taken can't exceed 150%"
+    },
+    {
+     "id": "New_RedPacket_Tips_1",
+     "text": "Too slow!\\nThe Red Envelope is all gone!"
+    },
+    {
+     "id": "New_RedPacket_Tips_2",
+     "text": "Red Envelope expired"
+    },
+    {
+     "id": "New_RedPacket_Tips_4",
+     "text": "Item Red Envelope"
+    },
+    {
+     "id": "New_RedPacket_Tips_7",
+     "text": "Grabs left today"
+    },
+    {
+     "id": "New_RedPacket_Tips_8",
+     "text": "From"
+    },
+    {
+     "id": "New_RedPacket_Tips_9",
+     "text": "You've reached today's claim limit"
+    },
+    {
+     "id": "New_RedPacket_Tips_10",
+     "text": "No Red Envelopes to claim"
+    },
+    {
+     "id": "New_RedPacket_Tips_11",
+     "text": "Missed it"
+    },
+    {
+     "id": "New_RedPacket_Tips_12",
+     "text": "Claimed {0}"
+    },
+    {
+     "id": "New_RedPacket_Tips_13",
+     "text": "{0}'s Red Envelope"
+    },
+    {
+     "id": "New_RedPacket_Tips_14",
+     "text": "1. There are two types of Red Envelopes: Rainbow Diamond Red Envelopes and Item Red Envelopes.\\n2. Topping up specific bundles always gives a Rainbow Diamond Red Envelope; anniversary event challenges have a chance to drop Item Red Envelopes.\\n3. Once claimed, a Red Envelope is automatically shared to the World and Guild channels.\\n4. You can grab other captains' Red Envelopes in the World and Guild channels."
+    },
+    {
+     "id": "New_RedPacket_Tips_15",
+     "text": "Happy New Year, Captains!"
+    },
+    {
+     "id": "New_RedPacket_Tips_16",
+     "text": "2025 Spring Festival"
+    },
+    {
+     "id": "New_RedPacket_Tips_17",
+     "text": "New Year Red Envelope"
+    },
+    {
+     "id": "New_RedPacket_OpenTips_1",
+     "text": "Great luck!"
+    },
+    {
+     "id": "New_RedPacket_OpenTips_2",
+     "text": "Wishing you wealth!"
+    },
+    {
+     "id": "New_RedPacket_OpenTips_3",
+     "text": "Happy New Year!"
+    },
+    {
+     "id": "demoHeroInvalid",
+     "text": "Trial character has expired"
+    },
+    {
+     "id": "RookieRecruitFloorInfo",
+     "text": "<color=#a32e00>{0}</color> more recruits guarantee a strong SSR Voyage Companion!"
+    },
+    {
+     "id": "RookieRecruitTitle",
+     "text": "Beginner Recruit"
+    },
+    {
+     "id": "RookieCloseTips",
+     "text": "Beginner Recruit is ending soon, after which Beginner Recruitment Tickets can't be used. Close anyway? (Tickets can be recycled once the Beginner Guide closes)"
+    },
+    {
+     "id": "RookieItemNotEnoughTips",
+     "text": "Not enough Beginner Recruitment Tickets to recruit."
+    },
+    {
+     "id": "RookieRecruitRecordTitle",
+     "text": "Total recruits so far: {0}"
+    },
+    {
+     "id": "CrawlTowerPlayerLvLimit",
+     "text": "Level too low to challenge"
+    },
+    {
+     "id": "State_MovingFiles",
+     "text": "Processing files (no data used)"
+    },
+    {
+     "id": "ReturnSelectHeroTips",
+     "text": "Choose this reward? You can change it when picking rewards"
+    },
+    {
+     "id": "UI_Newfanhang_cion",
+     "text": "Return Coins"
+    },
+    {
+     "id": "RookieRecruitTenSuccessTips",
+     "text": "Bought <color=#ffe703>{0} Gold Bars</color> in total. Bonus <color=#ffe703>Voyage Companion</color>"
+    },
+    {
+     "id": "UI_chunjie_cion",
+     "text": "Sky Island Coins"
+    },
+    {
+     "id": "UI_chunjie_cion_text",
+     "text": "Currency from the Sky Island event series, used to buy valuable items in the Sky Island Shop"
+    },
+    {
+     "id": "UpdateIsNotFinished",
+     "text": "Resources aren't fully downloaded. Update to the full resources and try again"
+    },
+    {
+     "id": "SkipNewUser_Tips_1",
+     "text": "I'm New"
+    },
+    {
+     "id": "SkipNewUser_Tips_2",
+     "text": "I'm a Veteran"
+    },
+    {
+     "id": "SkipNewUser_Tips_3",
+     "text": "Start in <color=#d84200>Shells Town</color>, rescue Zoro with Luffy and Koby, and set off for the Grand Line.\\n<color=#d84200>Includes the tutorial chapters</color>; basic systems and modes unlock with the story for the full experience.\\n<color=#d84200>Requires the full mobile package!</color>"
+    },
+    {
+     "id": "SkipNewUser_Tips_4",
+     "text": "Start in <color=#d84200>Loguetown</color> and set off for the Grand Line with the Straw Hats' first five crewmates.\\n<color=#d84200>Skips the tutorial chapters</color>; basic systems and modes unlock right away, and you get all tutorial rewards immediately.\\n<color=#d84200>Requires the full mobile package!</color>"
+    },
+    {
+     "id": "SkipNewUser_Tips_5",
+     "text": "For players new to the game."
+    },
+    {
+     "id": "SkipNewUser_Tips_6",
+     "text": "<color=#489913>For players who already know the game.</color>"
+    },
+    {
+     "id": "SkipNewUser_Tips_8",
+     "text": "Welcome to your new journey, Captain. Choose Veteran to skip the tutorial, claim all earlier rewards right away and jump into the game! If you want to experience the game from the start, choose New."
+    },
+    {
+     "id": "emptyDemoHeroFormationLimit",
+     "text": "You must deploy a character you own before deploying a trial character"
+    },
+    {
+     "id": "SkipNewUser_Tips_9",
+     "text": "Congrats, Captain! You've skipped the East Blue adventure and arrived in Loguetown, where dreams begin! Claim all rewards from earlier chapters and set off for the Grand Line! <color=#d84200>Don't forget to train your Voyage Companions before you go~</color>"
+    },
+    {
+     "id": "SilenceAssetDownFinish",
+     "text": "Done"
+    },
+    {
+     "id": "ReturnSeaGoToNewServerRewardText",
+     "text": "Head to a new server for great rewards!"
+    },
+    {
+     "id": "returnseaGoToNewServerSeeRewardPageItemDesc",
+     "text": "VIP Lv{0}"
+    },
+    {
+     "id": "ReturnSeaGoToNewServerServerListPageItemTime",
+     "text": "Opens {0}/{1}/{2}"
+    },
+    {
+     "id": "ReturnSeaGoToNewServerMessageBox",
+     "text": "Activate Rekindle rewards on this server? They can only be activated once; once activated here, they can't be activated on another server!"
+    },
+    {
+     "id": "ReturnSeaGoToNewServerNewServerTaskPageOnClickGetRewardNoSelect",
+     "text": "You haven't chosen any reward"
+    },
+    {
+     "id": "ReturnSeaGoToNewServer_NewServerTaskPageActivateMaskText",
+     "text": "Rekindle rewards pending activation\\n\\nDear player, your VIP level on {0} is <color=#d84200>LV{1}</color>, which qualifies for Rekindle. Activate to claim rewards matching your VIP level! Activate and claim now!"
+    },
+    {
+     "id": "crawFormationNoFightState",
+     "text": "Set it to active and try again"
+    },
+    {
+     "id": "SkipNewUser_Tips_11",
+     "text": "<color=#834C11>Are you sure you want </color><color=#489913>I'm New</color><color=#834C11>? This can't be changed afterward!</color>"
+    },
+    {
+     "id": "SkipNewUser_Tips_12",
+     "text": "<color=#834C11>Are you sure you want </color><color=#489913>I'm a Veteran</color><color=#834C11>? This can't be changed afterward!</color>"
+    },
+    {
+     "id": "Switch_VipOpen",
+     "text": "{0} unlocks at VIP Lv{1}"
+    },
+    {
+     "id": "openVIPLevel",
+     "text": "Unlocks at VIP Lv{0}"
+    },
+    {
+     "id": "ReturnSeaGoToNewServer_NewServerTaskPageCheckingMaskText",
+     "text": "Checking your Rekindle eligibility\\nIf it takes too long, close this screen and check back later."
+    },
+    {
+     "id": "UI_Guildseawar_cion",
+     "text": "Sea Battle Gold Coins"
+    },
+    {
+     "id": "UI_Guildseawar_cion_text",
+     "text": "Currency from the Guild Sea Battle event, used to buy valuable items in the event shop."
+    },
+    {
+     "id": "HC_BattleInfo_2102",
+     "text": "<color=#a32e00>Holy Healing</color>\\nWhen players are healed, damage +50% for 1 action"
+    },
+    {
+     "id": "HC_BattleInfo_2103",
+     "text": "<color=#a32e00>Battle Instinct</color>\\nMonsters' all damage +100%, HP +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2104",
+     "text": "<color=#a32e00>Spreading Fire</color>\\nWhen enemies take fire damage, their fire and physical RES drop 30% for 2 turns, stacking up to 10 times"
+    },
+    {
+     "id": "HC_BattleInfo_2105",
+     "text": "<color=#a32e00>Devastating Strike</color>\\nMonsters' crit +50%, crit damage +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2106",
+     "text": "<color=#a32e00>Blood Control</color>\\nMonsters are immune to lifesteal, and players' Regen Gem effects are disabled"
+    },
+    {
+     "id": "HC_BattleInfo_2107",
+     "text": "<color=#a32e00>Toxic Touch</color>\\nMonster attacks deal an extra 300% poison damage that ignores immunity"
+    },
+    {
+     "id": "HC_BattleInfo_2108",
+     "text": "<color=#a32e00>No Retreat</color>\\nMonsters deal 300% more damage while acting, and take 10 times the damage"
+    },
+    {
+     "id": "HC_BattleInfo_2109",
+     "text": "<color=#a32e00>Unstoppable</color>\\nMonsters take 200% more physical damage"
+    },
+    {
+     "id": "HC_BattleInfo_2110",
+     "text": "<color=#a32e00>Hunting Instinct</color>\\nMonsters' damage bonus +50% per action"
+    },
+    {
+     "id": "HC_BattleInfo_2111",
+     "text": "<color=#a32e00>Steadfast Body</color>\\nPlayers' max HP +150%"
+    },
+    {
+     "id": "HC_TaskTitle_39",
+     "text": "Deploy New World Marco +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_40",
+     "text": "Deploy Bartholomew Kuma +{0} pts"
+    },
+    {
+     "id": "SkipNewUser_Tips_13",
+     "text": "Download progress: {0}%"
+    },
+    {
+     "id": "HC_BattleInfo_2112",
+     "text": "<color=#a32e00>Deadly Pierce</color>\\nDealing True Damage to an enemy raises all damage it takes by 30% for 1 turn."
+    },
+    {
+     "id": "HC_BattleInfo_2113",
+     "text": "<color=#a32e00>Precision Strike</color>\\nWhen players use a single-target skill, Attack +50% and it always crits."
+    },
+    {
+     "id": "HC_BattleInfo_2114",
+     "text": "<color=#a32e00>Weakening Blade</color>\\nEnemy attacks apply Weaken, lowering our characters' Attack by 20% until the end of their next action."
+    },
+    {
+     "id": "HC_BattleInfo_2115",
+     "text": "<color=#a32e00>Counter Every Move</color>\\nEnemies' Block +100%, but they can't block while stunned."
+    },
+    {
+     "id": "HC_BattleInfo_2116",
+     "text": "<color=#a32e00>Deadly Pierce</color>\\nDealing True Damage to an enemy raises all damage it takes by 50% for 1 turn."
+    },
+    {
+     "id": "HC_BattleInfo_2117",
+     "text": "<color=#a32e00>Precision Strike</color>\\nWhen players use a single-target skill, Attack +200% and it always crits."
+    },
+    {
+     "id": "HC_BattleInfo_2118",
+     "text": "<color=#a32e00>Fade</color>\\nOn even turns, enemies gain 95% final damage reduction."
+    },
+    {
+     "id": "HC_BattleInfo_2119",
+     "text": "<color=#a32e00>Counter Every Move</color>\\nEnemies' Block +300%, but they can't block while stunned."
+    },
+    {
+     "id": "HC_BattleInfo_2120",
+     "text": "<color=#a32e00>Swift Victory</color>\\nMonsters' Attack and Speed are raised"
+    },
+    {
+     "id": "HC_BattleInfo_2121",
+     "text": "<color=#a32e00>Clear-Headed Paralysis</color>\\nMonsters clear their own debuffs before acting, and their attacks have a 30% chance to paralyze the target for 1 turn"
+    },
+    {
+     "id": "HC_BattleInfo_2122",
+     "text": "<color=#a32e00>Steady Fighter</color>\\nMonsters' basic attack Accuracy, Tenacity and Block +100%"
+    },
+    {
+     "id": "HC_BattleInfo_2123",
+     "text": "<color=#a32e00>Ultimate Splash</color>\\nPlayers' single-target skill final damage +50%, AoE skill final damage -80%; single-target hits splash True Damage equal to 5 times their Attack onto all enemies"
+    },
+    {
+     "id": "HC_BattleInfo_2124",
+     "text": "<color=#a32e00>What They Have, We Have</color>\\nWhile shielded, players have a 30% chance to be immune to damage and debuffs"
+    },
+    {
+     "id": "HC_BattleInfo_2125",
+     "text": "<color=#a32e00>All-Out Fight</color>\\nMonsters' Attack is raised"
+    },
+    {
+     "id": "HC_BattleInfo_2126",
+     "text": "<color=#a32e00>Clear-Headed Paralysis</color>\\nMonsters clear their own debuffs before acting, and their attacks have a 30% chance to paralyze the target for 1 turn"
+    },
+    {
+     "id": "HC_BattleInfo_2127",
+     "text": "<color=#a32e00>Steady Fighter</color>\\nMonsters' basic attack Accuracy, Tenacity and Block +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2128",
+     "text": "<color=#a32e00>Ultimate Splash</color>\\nPlayers' single-target skill final damage +80%, AoE skill final damage -80%; single-target hits splash True Damage equal to 10 times their Attack onto all enemies"
+    },
+    {
+     "id": "HC_BattleInfo_2129",
+     "text": "<color=#a32e00>What They Have, We Have</color>\\nWhile shielded, players have a 30% chance to be immune to damage"
+    },
+    {
+     "id": "HC_BattleInfo_2130",
+     "text": "<color=#a32e00>Reckless Attack</color>\\nWhen a monster's attack is blocked, it loses HP equal to 2% of its max HP"
+    },
+    {
+     "id": "HC_BattleInfo_2131",
+     "text": "<color=#a32e00>Weakened Offense</color>\\nWhen a monster's attack is blocked, all damage it takes +10% for 3 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2132",
+     "text": "<color=#a32e00>Crushing Force</color>\\nWhen a monster's attack isn't blocked, it deals extra True Damage equal to 100% of its Attack"
+    },
+    {
+     "id": "HC_BattleInfo_2133",
+     "text": "<color=#a32e00>Unbreakable</color>\\nMonsters' Block +30%; when blocking, all damage taken -5% for 2 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2134",
+     "text": "<color=#a32e00>Reckless Attack</color>\\nWhen a monster's attack is blocked, it loses HP equal to 2% of its max HP"
+    },
+    {
+     "id": "HC_BattleInfo_2135",
+     "text": "<color=#a32e00>Weakened Offense</color>\\nWhen a monster's attack is blocked, all damage it takes +30% for 3 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2136",
+     "text": "<color=#a32e00>Crushing Force</color>\\nWhen a monster's attack isn't blocked, it deals extra True Damage equal to 500% of its Attack"
+    },
+    {
+     "id": "HC_BattleInfo_2137",
+     "text": "<color=#a32e00>Unbreakable</color>\\nMonsters' Block +70% and final elemental damage reduction +200%. When blocking, all damage taken -10% for 2 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2138",
+     "text": "<color=#a32e00>Rise from Death</color>\\nWhen taking fatal damage, monsters revive with 30% max HP"
+    },
+    {
+     "id": "HC_BattleInfo_2139",
+     "text": "<color=#a32e00>Shield Power</color>\\nWhile shielded, players' all damage +50% when attacking"
+    },
+    {
+     "id": "HC_BattleInfo_2140",
+     "text": "<color=#a32e00>Speed Advantage</color>\\nMonsters deal 30% more damage to slower units, and gain 30% more damage reduction when hit by slower units"
+    },
+    {
+     "id": "HC_BattleInfo_2141",
+     "text": "<color=#a32e00>Flame Boost</color>\\nMonsters take 30% more fire damage"
+    },
+    {
+     "id": "HC_BattleInfo_2142",
+     "text": "<color=#a32e00>Rise from Death</color>\\nWhen taking fatal damage, monsters revive with 30% max HP"
+    },
+    {
+     "id": "HC_BattleInfo_2143",
+     "text": "<color=#a32e00>Shield Burst</color>\\nWhile shielded, players' final damage +100% when attacking"
+    },
+    {
+     "id": "HC_BattleInfo_2144",
+     "text": "<color=#a32e00>Swift Ruin</color>\\nMonsters deal 30% more final damage to slower units, and gain 30% more final damage reduction when hit by slower units"
+    },
+    {
+     "id": "HC_BattleInfo_2145",
+     "text": "<color=#a32e00>King of Flames</color>\\nMonsters take 200% more fire damage"
+    },
+    {
+     "id": "HC_BattleInfo_2146",
+     "text": "<color=#a32e00>Ferocious Onslaught</color>\\nMonsters' damage +200% for the first two turns"
+    },
+    {
+     "id": "HC_BattleInfo_2147",
+     "text": "<color=#a32e00>Strike Back</color>\\nWhen a player blocks, they and allies in the surrounding 3x3 area gain +80% all damage for 1 action; doesn't stack"
+    },
+    {
+     "id": "HC_BattleInfo_2148",
+     "text": "<color=#a32e00>Tenfold True Fire</color>\\nIf a monster's attack isn't blocked, it Burns the 3x3 area around the target, ignoring immunity, stacking up to 10 times"
+    },
+    {
+     "id": "HC_BattleInfo_2149",
+     "text": "<color=#a32e00>Weakening Burn</color>\\nEach stack of Burn on a player lowers their all damage bonus by 10%"
+    },
+    {
+     "id": "HC_BattleInfo_2150",
+     "text": "<color=#a32e00>Fight to Sustain</color>\\nPlayers' Lifesteal and Regen Gems are disabled. When acting, if they've blocked or recovered HP 3 times, Burn is cleared from them and their 3x3 area, and the count resets"
+    },
+    {
+     "id": "HC_BattleInfo_2151",
+     "text": "<color=#a32e00>Ferocious Onslaught</color>\\nMonsters' damage +350% for the first two turns"
+    },
+    {
+     "id": "HC_BattleInfo_2152",
+     "text": "<color=#a32e00>Strike Back</color>\\nWhen a player blocks, they and allies in the surrounding 3x3 area gain +50% final damage for 1 action; doesn't stack"
+    },
+    {
+     "id": "HC_BattleInfo_2153",
+     "text": "<color=#a32e00>Weakening Burn</color>\\nEach stack of Burn on a player lowers their final damage bonus by 5%"
+    },
+    {
+     "id": "HC_BattleInfo_2154",
+     "text": "<color=#a32e00>Fight Fire with Fire</color>\\nMonsters' crit rate +30%, crit damage taken +60%"
+    },
+    {
+     "id": "HC_BattleInfo_2155",
+     "text": "<color=#a32e00>Ferocious Assault</color>\\nMonsters start with 100% final damage reduction, which drops 10% each time they're crit. Every 5 turns they regain 100% final damage reduction and all reduction penalties are cleared"
+    },
+    {
+     "id": "HC_BattleInfo_2156",
+     "text": "<color=#a32e00>Gathering Strength</color>\\nWhen players attack, all damage +10% per 1 remaining Soul Jade"
+    },
+    {
+     "id": "HC_BattleInfo_2157",
+     "text": "<color=#a32e00>Unyielding</color>\\nMonsters gain 10% Tenacity at the end of their turn"
+    },
+    {
+     "id": "HC_BattleInfo_2158",
+     "text": "<color=#a32e00>Fight Fire with Fire</color>\\nMonsters' crit rate +50%, crit damage taken +100%"
+    },
+    {
+     "id": "HC_BattleInfo_2159",
+     "text": "<color=#a32e00>Ferocious Assault</color>\\nMonsters start with 100% final damage reduction, which drops 8% each time they're crit. Every 5 turns they regain 100% final damage reduction, and all reduction penalties and Tenacity gains are cleared"
+    },
+    {
+     "id": "HC_BattleInfo_2160",
+     "text": "<color=#a32e00>Gathering Strength</color>\\nWhen players attack, all damage +20% per 1 remaining Soul Jade"
+    },
+    {
+     "id": "HC_BattleInfo_2161",
+     "text": "<color=#a32e00>One-Hit Victory</color>\\nThe first skill a player uses each action gets +60% final damage; when later skills hit monsters, their final damage reduction +70%"
+    },
+    {
+     "id": "HC_BattleInfo_2162",
+     "text": "<color=#a32e00>Rage Unleashed</color>\\nPlayers' Finisher and Ultimate skill final damage +150%, and they gain 100 extra Rage at the start of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2163",
+     "text": "<color=#a32e00>Valiant Counterattack</color>\\nAfter being hit by a skill, monsters have a 20% chance to interrupt the target and act immediately, with +20% damage on that attack; triggers once per enemy per turn"
+    },
+    {
+     "id": "HC_BattleInfo_2164",
+     "text": "<color=#a32e00>Stronger After Setbacks</color>\\nFor every 1 skill hit on a monster during the turn, its final damage reduction +5%, up to 10 stacks"
+    },
+    {
+     "id": "HC_BattleInfo_2165",
+     "text": "<color=#a32e00>One-Hit Victory</color>\\nThe first skill a player uses each action gets +80% final damage; when later skills hit monsters, their final damage reduction +80%"
+    },
+    {
+     "id": "HC_BattleInfo_2166",
+     "text": "<color=#a32e00>Rage Unleashed</color>\\nPlayers' Finisher and Ultimate skill final damage +300%, and they gain 100 extra Rage at the start of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2167",
+     "text": "<color=#a32e00>Valiant Counterattack</color>\\nAfter being hit by a skill, monsters have a 20% chance to interrupt the target and act immediately, with +50% all damage on that attack; triggers once per enemy per turn"
+    },
+    {
+     "id": "HC_BattleInfo_2168",
+     "text": "<color=#a32e00>Stronger After Setbacks</color>\\nFor every 1 skill hit on a monster during the turn, its final damage reduction +10%, up to 10 stacks"
+    },
+    {
+     "id": "HC_BattleInfo_2169",
+     "text": "<color=#a32e00>Battle Fervor</color>\\nPlayers gain 6% final damage after each action, stacking 3 times, for 2 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2170",
+     "text": "<color=#a32e00>Devotion of the Fallen</color>\\nMonsters start with 30% final damage reduction; when one dies, targets in its 3x3 area recover 10% HP and lose 10% final damage reduction"
+    },
+    {
+     "id": "HC_BattleInfo_2171",
+     "text": "<color=#a32e00>Can't Stand Alone</color>\\nAfter a single-target skill hit, monsters take 10% more damage, stacking 5 times, for 2 turns. Each AoE skill hit reduces their healing by 15% for 2 turns. If an AoE skill hits the monster targeted by a basic attack twice in a row during a player's action, the damage-taken increase is cleared from enemies in that monster's 3x3 area"
+    },
+    {
+     "id": "HC_BattleInfo_2172",
+     "text": "<color=#a32e00>Isolated</color>\\nMonsters gain 30% Evasion when targeted by AoE skills, and single-target skill hits splash True Damage equal to 20% Attack onto targets in their 3x3 area"
+    },
+    {
+     "id": "HC_BattleInfo_2173",
+     "text": "<color=#a32e00>Battle Fervor</color>\\nPlayers gain 12% final damage after each action, stacking 5 times, for 2 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2174",
+     "text": "<color=#a32e00>Devotion of the Fallen</color>\\nMonsters start with 40% final damage reduction; when one dies, targets in its 3x3 area recover 15% HP and lose 10% final damage reduction"
+    },
+    {
+     "id": "HC_BattleInfo_2175",
+     "text": "<color=#a32e00>Can't Stand Alone</color>\\nAfter a single-target skill hit, monsters take 30% more damage, stacking 5 times, for 2 turns. Each AoE skill hit reduces their healing by 15% for 2 turns. If an AoE skill hits the monster targeted by a basic attack twice in a row during a player's action, the damage-taken increase is cleared from enemies in that monster's 3x3 area"
+    },
+    {
+     "id": "HC_BattleInfo_2176",
+     "text": "<color=#a32e00>Isolated</color>\\nMonsters gain 35% Evasion when targeted by AoE skills, and single-target skill hits splash True Damage equal to 50% Attack onto targets in their 3x3 area"
+    },
+    {
+     "id": "HC_BattleInfo_2177",
+     "text": "<color=#a32e00>Stronger Over Time</color>\\nAbove 50% HP, monsters have 100% Vulnerability; below 50%, 200% damage reduction"
+    },
+    {
+     "id": "HC_BattleInfo_2178",
+     "text": "<color=#a32e00>Life Attack</color>\\nMonster attacks deal extra damage based on their max HP"
+    },
+    {
+     "id": "HC_BattleInfo_2179",
+     "text": "<color=#a32e00>Alert Block</color>\\nWhen blocking, monsters have a 40% chance to be immune to skill damage"
+    },
+    {
+     "id": "HC_BattleInfo_2180",
+     "text": "<color=#a32e00>Weak to Lightning and Fire</color>\\nWhen taking fire or lightning damage, gain 20% Vulnerability, up to 5 stacks each, until the end of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2181",
+     "text": "<color=#a32e00>Stronger Over Time</color>\\nAbove 50% HP, monsters have 100% Vulnerability; below 50%, 300% all damage reduction"
+    },
+    {
+     "id": "HC_BattleInfo_2182",
+     "text": "<color=#a32e00>Weak to Lightning and Fire</color>\\nWhen taking fire or lightning damage, gain 30% Vulnerability, up to 5 stacks each, until the end of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2183",
+     "text": "<color=#a32e00>Elemental Backflow</color>\\nMonsters' elemental damage reduction +200%; when taking elemental or True Damage, basic attack and skill damage taken +5%, up to 10 stacks"
+    },
+    {
+     "id": "HC_BattleInfo_2184",
+     "text": "<color=#a32e00>Stronger Through Adversity</color>\\nEvery 1 skill hit lowers a monster's final damage taken from non-Ultimate skills by 5% and raises basic attack and Ultimate damage taken by 15% for 2 turns, up to 10 stacks"
+    },
+    {
+     "id": "HC_BattleInfo_2185",
+     "text": "<color=#a32e00>Abnormal Toughness</color>\\nMonsters' Tenacity +80%, crit damage taken +120%"
+    },
+    {
+     "id": "HC_BattleInfo_2186",
+     "text": "<color=#a32e00>Better Broken Than Bent</color>\\nWhen attacking, monsters have a 50% chance to remove 1 Soul Jade from every member of the target's team and give them 5 Rage"
+    },
+    {
+     "id": "HC_BattleInfo_2187",
+     "text": "<color=#a32e00>Elemental Backflow</color>\\nMonsters' elemental damage reduction +350%; when taking elemental or True Damage, basic attack and skill damage taken +10%, up to 15 stacks"
+    },
+    {
+     "id": "HC_BattleInfo_2188",
+     "text": "<color=#a32e00>Stronger Through Adversity</color>\\nEvery 1 skill hit lowers a monster's final damage taken from non-Ultimate skills by 8% and raises basic attack and Ultimate damage taken by 25% for 2 turns, up to 10 stacks"
+    },
+    {
+     "id": "HC_BattleInfo_2189",
+     "text": "<color=#a32e00>Abnormal Toughness</color>\\nMonsters' Tenacity +120%, crit damage taken +200%"
+    },
+    {
+     "id": "HC_BattleInfo_2190",
+     "text": "<color=#a32e00>Life Sever</color>\\nMonster attacks have a 50% chance to Sever 10% of the target's HP"
+    },
+    {
+     "id": "HC_BattleInfo_2191",
+     "text": "<color=#a32e00>Fragile Body</color>\\nAfter being knocked up, damage taken +20%, up to 5 stacks"
+    },
+    {
+     "id": "HC_BattleInfo_2192",
+     "text": "<color=#a32e00>Forceful Block</color>\\nWhen monsters block, they have a 30% chance to interrupt"
+    },
+    {
+     "id": "HC_BattleInfo_2193",
+     "text": "<color=#a32e00>Evasive Action</color>\\nAfter a monster dodges, its next single-target attack stuns the target for 1 action 100% of the time, and its AoE attack has a 30% chance to stun targets for 1 action"
+    },
+    {
+     "id": "HC_BattleInfo_2194",
+     "text": "<color=#a32e00>Fragile Body</color>\\nAfter being knocked up, damage taken +30%, up to 5 stacks"
+    },
+    {
+     "id": "HC_BattleInfo_2195",
+     "text": "<color=#a32e00>Finisher Conversion</color>\\nMonsters hit by non-Finishers gain a mark; Finisher hits convert the marks. If fewer than 5 marks are converted, final damage reduction +10%, up to 5 stacks; if more than 10, final damage reduction -10%, up to 10 stacks."
+    },
+    {
+     "id": "HC_BattleInfo_2196",
+     "text": "<color=#a32e00>Slowing Strike</color>\\nMonster hits slow the target by 20% for 1 of the target's actions; monsters deal 50% more damage to slower targets."
+    },
+    {
+     "id": "HC_BattleInfo_2197",
+     "text": "<color=#a32e00>Basic Weakness</color>\\nAll damage taken from non-Finisher, non-Ultimate skills +50%"
+    },
+    {
+     "id": "HC_BattleInfo_2198",
+     "text": "<color=#a32e00>Power of Unity</color>\\nEach surviving monster gives all monsters +5% final damage reduction"
+    },
+    {
+     "id": "HC_BattleInfo_2199",
+     "text": "<color=#a32e00>Slowing Strike</color>\\nMonster hits slow the target by 30% for 1 of the target's actions; monsters deal 50% more damage to slower targets."
+    },
+    {
+     "id": "HC_BattleInfo_2200",
+     "text": "<color=#a32e00>Power of Unity</color>\\nEach surviving monster gives all monsters +8% final damage reduction"
+    },
+    {
+     "id": "HC_BattleInfo_2201",
+     "text": "<color=#a32e00>Shield as Weapon</color>\\nShielded players deal +5% damage when hitting monsters, up to 5 stacks, until the end of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2202",
+     "text": "<color=#a32e00>Piercing True Damage</color>\\nMonster hits on players deal extra True Damage that ignores shields"
+    },
+    {
+     "id": "HC_BattleInfo_2203",
+     "text": "<color=#a32e00>Exploit Weakness</color>\\nWhen monsters hit targets below 50% HP, final damage bonus +6%, up to 3 stacks, for 2 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2204",
+     "text": "<color=#a32e00>Fight Fire with Fire</color>\\nMonsters' crit rate +30%, crit damage taken +30%"
+    },
+    {
+     "id": "HC_BattleInfo_2205",
+     "text": "<color=#a32e00>Shield as Weapon</color>\\nShielded players deal +15% damage when attacking monsters, up to 5 stacks, until the end of the turn"
+    },
+    {
+     "id": "HC_BattleInfo_2206",
+     "text": "<color=#a32e00>Exploit Weakness</color>\\nWhen monsters hit targets below 50% HP, final damage bonus +12%, up to 5 stacks, for 2 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2207",
+     "text": "<color=#a32e00>Fight Fire with Fire</color>\\nMonsters' crit rate +50%, crit damage taken +60%"
+    },
+    {
+     "id": "HC_BattleInfo_2208",
+     "text": "<color=#a32e00>Dodge Duel</color>\\nPlayers using single-target skills gain +100% Evasion until their next action; using AoE skills costs 20% HP"
+    },
+    {
+     "id": "HC_BattleInfo_2209",
+     "text": "<color=#a32e00>Target Lock</color>\\nMonsters take 60% more final damage from single-target attacks and 80% less from AoE attacks, deal 200% more damage to front-row targets, and ignore shields for the first 5 turns"
+    },
+    {
+     "id": "HC_BattleInfo_2210",
+     "text": "<color=#a32e00>Flammable Armor</color>\\nMonsters' Defense is greatly raised. Each crit, True Damage or fire damage taken lowers current Defense by 20%; after 20 times, all effects of this skill are removed and Defense drops to 0"
+    },
+    {
+     "id": "HC_BattleInfo_2211",
+     "text": "<color=#a32e00>Dodge and Strike</color>\\nWhen players dodge, Attack +20% for 3 turns, up to 20 stacks; players gain 100 Rage before acting"
+    },
+    {
+     "id": "HC_BattleInfo_2212",
+     "text": "<color=#a32e00>Dodge Aim</color>\\nAfter a monster's attacks are dodged 2 times (only 1 counts per turn), its attacks next turn always hit, and the count resets"
+    },
+    {
+     "id": "HC_BattleInfo_2213",
+     "text": "<color=#a32e00>Dodge Duel</color>\\nPlayers using single-target skills gain +200% Evasion; using AoE skills costs 20% HP; lasts until their next action"
+    },
+    {
+     "id": "HC_BattleInfo_2214",
+     "text": "<color=#a32e00>Target Lock</color>\\nMonsters take 120% more final damage from single-target attacks and 80% less from AoE attacks, deal 300% more damage to front-row targets, and ignore shields for the first 5 turns"
+    },
+    {
+     "id": "HC_TaskTitle_41",
+     "text": "Deploy Yamato +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_43",
+     "text": "Deploy Uta +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_44",
+     "text": "Deploy Ulti +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_45",
+     "text": "Deploy King +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_46",
+     "text": "+{1} pts each time you deal fire damage"
+    },
+    {
+     "id": "HC_TaskTitle_47",
+     "text": "Deploy Page One +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_48",
+     "text": "Deploy Killer +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_49",
+     "text": "Deploy New World Kid +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_50",
+     "text": "Land a crit +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_51",
+     "text": "Deploy Wano Trafalgar Law +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_52",
+     "text": "Deploy Oiran Big Mom +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_53",
+     "text": "+{1} pts each time you deal lightning damage"
+    },
+    {
+     "id": "HC_TaskTitle_54",
+     "text": "Deploy Wano Luffy +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_55",
+     "text": "Deploy Wano Robin +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_56",
+     "text": "Deploy Wano Sanji +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_57",
+     "text": "Deploy Wano Chopper +{0} pts"
+    },
+    {
+     "id": "HC_TaskTitle_58",
+     "text": "Deploy Wano Usopp +{0} pts"
+    },
+    {
+     "id": "DeviceFreeRomNotEnough_Title",
+     "text": "Not Enough Space"
+    },
+    {
+     "id": "DeviceFreeRomNotEnough_Content",
+     "text": "Download size: {0}. Available storage: {1}. Free up space and try again"
+    },
+    {
+     "id": "AttainmentQuestion",
+     "text": "*Winter Sunshine event info.*Event period:\\n2025/11/20 to 2025/12/3.*Event content:\\nThis event has three parts: [Winter Sunshine], [Wishing Tree] and [Route Expedition].*Details:\\nDuring the event, captains can play [Route Expedition] and complete [Winter Sunshine] quests to collect Special Wish Tickets, which can be used at the [Wishing Tree] for valuable items and equipment."
+    },
+    {
+     "id": "AttainmentBlessQuestion",
+     "text": "*Wishing Tree info.*There are 10 types of Wishing Tree rewards, each in limited supply until drawn out; every wish gives one from the remaining rewards.*A single wish costs 1 item; a 10x wish costs 10.*Captains get one free wish per day during the event, which costs no tickets. <color=#d84200>You can hold at most one free wish; they don't stack</color>."
+    },
+    {
+     "id": "UI_Attainment_cion",
+     "text": "Dream Gold Coins"
+    },
+    {
+     "id": "UI_Attainment_cion_text",
+     "text": "A special seasonal event currency, used to buy valuable items in the shop."
+    },
+    {
+     "id": "RogueShipMoveTips",
+     "text": "Current progress: Stage {1}"
+    },
+    {
+     "id": "RogueTips_2",
+     "text": "Unlocks on event day {0}"
+    },
+    {
+     "id": "AttainmentmainPageDes",
+     "text": "Winter sunshine, warm hearts!\\nMarch on with your companions under the winter sun!"
+    },
+    {
+     "id": "AttainmentmainCollectDes",
+     "text": "Collect enough Dream Gold Coins in the event for generous rewards!"
+    },
+    {
+     "id": "RoguePVEShop",
+     "text": "Route Shop"
+    },
+    {
+     "id": "RoguePVETip_isNotOver",
+     "text": "Resetting returns stage progress to the start and clears the random skills earned during the run, keeping currency and enhancement levels. Reset?"
+    },
+    {
+     "id": "RoguePVETip_isMaxDifficulty",
+     "text": "You've cleared the highest difficulty. Resetting locks in this run's score and lets you start over for a higher score. Reset?"
+    },
+    {
+     "id": "RoguePVETip_isNotMaxDifficulty",
+     "text": "You've cleared every stage at this difficulty. Resetting locks in this run's score and opens a new difficulty. Reset?"
+    },
+    {
+     "id": "RoguePVETip_noTimes",
+     "text": "No purchases left"
+    },
+    {
+     "id": "RoguePVETip_reset",
+     "text": "Resets"
+    },
+    {
+     "id": "UI_RoguePVE_talent_coin",
+     "text": "Route Expedition Silver Coins"
+    },
+    {
+     "id": "UI_RoguePVE_coin_talent_text",
+     "text": "Used to enhance characters in Route Expedition"
+    },
+    {
+     "id": "UI_RoguePVE_shop_coin",
+     "text": "Route Expedition Gold Coins"
+    },
+    {
+     "id": "UI_RoguePVE_shop_coin_text",
+     "text": "Used to buy valuable items in the Route Expedition Shop"
+    },
+    {
+     "id": "UI_RoguePVETip_MaxGet",
+     "text": "Daily Limit"
+    },
+    {
+     "id": "UI_RoguePVETip_Title",
+     "text": "Route Expedition"
+    },
+    {
+     "id": "UI_RoguePVETip_CurDifficulty",
+     "text": "Current Difficulty"
+    },
+    {
+     "id": "UI_RoguePVETip_ActiveSkillTitle",
+     "text": "Active Skills"
+    },
+    {
+     "id": "RoguePVETip_passInOtherCondition",
+     "text": "(Reset or keep challenging the final Boss to try for higher damage)"
+    },
+    {
+     "id": "RoguePVETip_passNotInMaxDifficulty",
+     "text": "(Reset to challenge the next difficulty)"
+    },
+    {
+     "id": "UI_RoguePVETip_SelectSkillTitle",
+     "text": "Choose a skill"
+    },
+    {
+     "id": "UI_RoguePVETip_SoulNum",
+     "text": "Soul Jade Cost:"
+    },
+    {
+     "id": "UI_RoguePVETip_CDNum",
+     "text": "Cooldown Turns:"
+    },
+    {
+     "id": "DF_MaxFortressLimitInfo",
+     "text": "Max outposts carried"
+    },
+    {
+     "id": "UI_RoguePVETip_1",
+     "text": "General"
+    },
+    {
+     "id": "DF_NoFortressTips",
+     "text": "No outposts carried. Can't enter battle"
+    },
+    {
+     "id": "DF_ExitBattleTitle",
+     "text": "Confirm Exit"
+    },
+    {
+     "id": "DF_ExitBattleContent",
+     "text": "Leaving the match counts as a failed challenge. Exit now?"
+    },
+    {
+     "id": "DF_JoinCountText",
+     "text": "Entries left: {0}/{1}"
+    },
+    {
+     "id": "DF_FortressNotEnough",
+     "text": "Carry at least one outpost"
+    },
+    {
      "id": "ExpGetWay_CrawlTower",
      "text": "Voyage Tower"
     },
@@ -20135,6 +21287,10 @@
      "text": "A currency earned in the Elite Challenge, used to exchange for items in the Elite Shop. Storage cap: 100000."
     },
     {
+     "id": "HC_BattleInfo_2273",
+     "text": "<color=#a32e00>Unyielding</color>\\nMonsters gain 10% Tenacity at the end of their turn"
+    },
+    {
      "id": "awakeLevelUpBtn",
      "text": "Level Up"
     }
@@ -20153,7 +21309,7 @@
      "text": "Limited Recruit"
     }
    ],
-   "partial": "4247/5841 rows translated so far"
+   "partial": "4536/5841 rows translated so far"
   },
   "TableTextModule": {
    "key_column": "id",
