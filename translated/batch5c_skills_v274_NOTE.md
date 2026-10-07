@@ -1,6 +1,6 @@
 # batch5c_skills_v274 : traduction partielle
 
-Lignes traduites : **9920/17175**. Les tables complètes sont entièrement en anglais dans `batch5c_skills_v274_translated.json`.
+Lignes traduites : **11619/17175**. Les tables complètes sont entièrement en anglais dans `batch5c_skills_v274_translated.json`.
 Les tables incomplètes y figurent avec seulement les lignes traduites, et une clé `partial` indique combien.
 Les lignes absentes du fichier traduit restent en chinois dans le jeu (rien à appliquer pour elles).
 
@@ -8,7 +8,7 @@ Les lignes absentes du fichier traduit restent en chinois dans le jeu (rien à a
 
 | Table | Lignes faites / total | Textes chinois uniques restants | Caractères chinois | Colonnes |
 |---|---|---|---|---|
-| TableSkill | 7534/14789 | 3024 | 84628 | buttonEffect, skillDesc |
+| TableSkill | 9233/14789 | 2843 | 81130 | buttonEffect, skillDesc |
 
 Tables déjà complètes : TableASkill, TableBeastPiratesBossBuff, TableBeastPiratesBossSkill, TableBossSkillInfo, TableBossSkills, TableBuffGroupRule, TableCelebrationChallengeBuffList, TableEquipRefineFailBuffCard, TableEquipResonance, TableEquipUpgrade, TableExerciseBigChapter, TableExerciseHeroSkillType, TableExerciseSmallChapter, TableFightReportBuffDesc, TableFormationLev, TableHeroAssist, TableHeroAwake, TableHeroAwakeExtraSkill, TableHeroAwakeExtraSkillConditionDesc, TableHeroAwakeExtraSkillLev, TableHeroAwakeLevel, TableHeroAwakeOpen, TableHeroAwakeUnlock, TableHeroExtrarProperty, TableIntegralConfuseBuff, TableIntegralMasterFightBuff, TableLifeSkill, TableMutiTeamFightBuff, TableRogueTalent, TableSuperSoul, TableSuperSoulAdvancedAmend, TableSuperSoulAmendQualityText, TableSuperSoulAmendTypeText, TableSuperSoulExp, TableURRecruitSkillIntroduce, TableUSFSkill, TableUnionControlCenterSkill, TableUnionSLGPersonSkill, TableUnionSkillTreeGroup, TableUnionSkillTreeOneSkill, TableUnionSkillTreeOneSkillLevel, TableUnionTrainRoomSkill, TablecampHero, TablecampLevel.
 
