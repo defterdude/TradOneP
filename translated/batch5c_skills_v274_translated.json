@@ -3712,6 +3712,1834 @@
    ],
    "other_bundle_rows": []
   },
+  "TableHeroAssist": {
+   "key_column": "id",
+   "text_columns": [
+    "descIndex"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "descIndex": "Allied DEF +10"
+    },
+    {
+     "id": "2",
+     "descIndex": "Allied HP +400"
+    },
+    {
+     "id": "3",
+     "descIndex": "All allies recover 1.5% HP each turn"
+    },
+    {
+     "id": "4",
+     "descIndex": "Allied ATK +25"
+    },
+    {
+     "id": "5",
+     "descIndex": "Allied DEF +20"
+    },
+    {
+     "id": "6",
+     "descIndex": "Allied ATK +1.5%"
+    },
+    {
+     "id": "7",
+     "descIndex": "Allied ATK +25"
+    },
+    {
+     "id": "8",
+     "descIndex": "Allied CRIT Rate +1%"
+    },
+    {
+     "id": "9",
+     "descIndex": "Allied CRIT Rate +1.5%"
+    },
+    {
+     "id": "10",
+     "descIndex": "Allied DMG Bonus +0.5%"
+    },
+    {
+     "id": "11",
+     "descIndex": "Allied CRIT DMG +2%"
+    },
+    {
+     "id": "12",
+     "descIndex": "Allied CRIT DMG +3%"
+    },
+    {
+     "id": "13",
+     "descIndex": "Allied Accuracy +0.5%"
+    },
+    {
+     "id": "14",
+     "descIndex": "Allied DMG Bonus +1%"
+    },
+    {
+     "id": "15",
+     "descIndex": "All enemies' Accuracy -1.5%"
+    },
+    {
+     "id": "16",
+     "descIndex": "Allied HP +200"
+    },
+    {
+     "id": "17",
+     "descIndex": "Allied Tenacity +1%"
+    },
+    {
+     "id": "18",
+     "descIndex": "All allies' DMG reduction +3% on the first turn"
+    },
+    {
+     "id": "19",
+     "descIndex": "Allied ATK +25"
+    },
+    {
+     "id": "20",
+     "descIndex": "Allied ATK +50"
+    },
+    {
+     "id": "21",
+     "descIndex": "Last-row characters' ATK +5%"
+    },
+    {
+     "id": "22",
+     "descIndex": "Allied Tenacity +0.5%"
+    },
+    {
+     "id": "23",
+     "descIndex": "Allied DMG Reduction +1%"
+    },
+    {
+     "id": "24",
+     "descIndex": "First-row characters' DEF +5%"
+    },
+    {
+     "id": "25",
+     "descIndex": "Allied CRIT +0.5%"
+    },
+    {
+     "id": "26",
+     "descIndex": "Allied ATK +1%"
+    },
+    {
+     "id": "27",
+     "descIndex": "Finisher and Ultimate skill DMG +\\n2%"
+    },
+    {
+     "id": "28",
+     "descIndex": "Allied DMG Bonus +0.5%"
+    },
+    {
+     "id": "29",
+     "descIndex": "Allied Accuracy +1%"
+    },
+    {
+     "id": "30",
+     "descIndex": "All allies' ATK +2% for the first two turns"
+    },
+    {
+     "id": "31",
+     "descIndex": "Allied Dodge Rate +0.5%"
+    },
+    {
+     "id": "32",
+     "descIndex": "Allied Dodge Rate +1%"
+    },
+    {
+     "id": "33",
+     "descIndex": "All allies' Dodge +3% on the first turn"
+    },
+    {
+     "id": "34",
+     "descIndex": "Allied Attribute DMG +0.5%"
+    },
+    {
+     "id": "35",
+     "descIndex": "Allied Attribute DMG +1%"
+    },
+    {
+     "id": "36",
+     "descIndex": "Allied Attribute DMG +1.5%"
+    },
+    {
+     "id": "37",
+     "descIndex": "Allied Tenacity +0.5%"
+    },
+    {
+     "id": "38",
+     "descIndex": "Allied HP +400"
+    },
+    {
+     "id": "39",
+     "descIndex": "Allied HP +1.5%"
+    },
+    {
+     "id": "40",
+     "descIndex": "Allied Pierce +0.5%"
+    },
+    {
+     "id": "41",
+     "descIndex": "Allied Pierce +1%"
+    },
+    {
+     "id": "42",
+     "descIndex": "\"Single-Target Skill\" move DMG +\\n2%"
+    },
+    {
+     "id": "43",
+     "descIndex": "All enemies' Accuracy -0.5%"
+    },
+    {
+     "id": "44",
+     "descIndex": "All enemies' ATK -20"
+    },
+    {
+     "id": "45",
+     "descIndex": "All enemies' ATK -1.5%"
+    },
+    {
+     "id": "46",
+     "descIndex": "Allied Block +1%"
+    },
+    {
+     "id": "47",
+     "descIndex": "All enemies' Tenacity -1%"
+    },
+    {
+     "id": "48",
+     "descIndex": "Allied ATK +1%, DEF +1%"
+    },
+    {
+     "id": "1001",
+     "descIndex": "Allied ATK +0.5%, DEF +0.5%"
+    },
+    {
+     "id": "1002",
+     "descIndex": "Pirate faction characters' DMG +2%"
+    },
+    {
+     "id": "1003",
+     "descIndex": "Allied ATK +1%, DEF +1%"
+    },
+    {
+     "id": "1004",
+     "descIndex": "Allied CRIT +1%"
+    },
+    {
+     "id": "1005",
+     "descIndex": "All allies' ATK +4% on the first turn"
+    },
+    {
+     "id": "1006",
+     "descIndex": "Allied CRIT +1%, ATK +1%"
+    },
+    {
+     "id": "1007",
+     "descIndex": "Allied Dodge Rate +1%"
+    },
+    {
+     "id": "1008",
+     "descIndex": "Male characters' ATK +1.5%"
+    },
+    {
+     "id": "1009",
+     "descIndex": "Allied Accuracy +1%, Dodge Rate +1%"
+    },
+    {
+     "id": "1010",
+     "descIndex": "Allied Accuracy +1%"
+    },
+    {
+     "id": "1011",
+     "descIndex": "Allied Attribute DMG +2%"
+    },
+    {
+     "id": "1012",
+     "descIndex": "Allied DMG Bonus +2%"
+    },
+    {
+     "id": "1013",
+     "descIndex": "\"Single-Target Skill\" move DMG +\\n1%"
+    },
+    {
+     "id": "1014",
+     "descIndex": "All allies' Ultimate skill CRIT Rate\\n+2%"
+    },
+    {
+     "id": "1015",
+     "descIndex": "All allies' DMG +5% on the first turn"
+    },
+    {
+     "id": "1016",
+     "descIndex": "Allied Healing Bonus +2%"
+    },
+    {
+     "id": "1017",
+     "descIndex": "At the start of each turn, the ally with the lowest HP\\ngains +5% DMG reduction for 1 turn"
+    },
+    {
+     "id": "1018",
+     "descIndex": "All allies recover 2% HP each turn"
+    },
+    {
+     "id": "1019",
+     "descIndex": "All enemies' Healing -2%"
+    },
+    {
+     "id": "1020",
+     "descIndex": "At the start of each turn, 1 random ally gains ATK\\n+5% for 1 turn"
+    },
+    {
+     "id": "1021",
+     "descIndex": "Each turn, mark a random enemy so that\\nit takes 7% more DMG"
+    },
+    {
+     "id": "1022",
+     "descIndex": "Allied HP +1%"
+    },
+    {
+     "id": "1023",
+     "descIndex": "HP of characters in our front two rows\\n+3%"
+    },
+    {
+     "id": "1024",
+     "descIndex": "Allied Tenacity +2%"
+    },
+    {
+     "id": "1025",
+     "descIndex": "Allied ATK +1%"
+    },
+    {
+     "id": "1026",
+     "descIndex": "All allies' DMG +3% for the first two turns"
+    },
+    {
+     "id": "1027",
+     "descIndex": "Allied Dodge +2%"
+    },
+    {
+     "id": "1028",
+     "descIndex": "Allied Dodge +1%"
+    },
+    {
+     "id": "1029",
+     "descIndex": "Dodge of characters in our back two rows\\n+2%"
+    },
+    {
+     "id": "1030",
+     "descIndex": "Allied CRIT DMG +5%"
+    },
+    {
+     "id": "1031",
+     "descIndex": "Allied DEF +1%"
+    },
+    {
+     "id": "1032",
+     "descIndex": "Marine faction characters' ATK +2%"
+    },
+    {
+     "id": "1033",
+     "descIndex": "DMG dealt to Pirate faction characters\\n+3%"
+    },
+    {
+     "id": "1034",
+     "descIndex": "Allied CRIT +1%"
+    },
+    {
+     "id": "1035",
+     "descIndex": "Allied CRIT DMG +3%"
+    },
+    {
+     "id": "1036",
+     "descIndex": "Finisher and Ultimate skill DMG +\\n3%"
+    },
+    {
+     "id": "1037",
+     "descIndex": "Allied Tenacity +1%"
+    },
+    {
+     "id": "1038",
+     "descIndex": "Allied DEF +1.5%"
+    },
+    {
+     "id": "1039",
+     "descIndex": "Allied Tenacity +1%, DEF +1%"
+    },
+    {
+     "id": "1040",
+     "descIndex": "All allies' ATK +2% on the first turn"
+    },
+    {
+     "id": "1041",
+     "descIndex": "Allied Accuracy +1.5%"
+    },
+    {
+     "id": "1042",
+     "descIndex": "All allies' ATK +3% for the\\nfirst two turns"
+    },
+    {
+     "id": "1043",
+     "descIndex": "Allied Max HP +1%"
+    },
+    {
+     "id": "1044",
+     "descIndex": "Allied CRIT DMG RES +3%"
+    },
+    {
+     "id": "1045",
+     "descIndex": "All DMG taken by all allies\\n-2%"
+    },
+    {
+     "id": "1046",
+     "descIndex": "All allies gain 2% DMG reflection"
+    },
+    {
+     "id": "1047",
+     "descIndex": "All allies gain 3% DMG reflection"
+    },
+    {
+     "id": "1048",
+     "descIndex": "All allies gain 5% DMG reflection"
+    },
+    {
+     "id": "1049",
+     "descIndex": "Allied CRIT DMG +2%"
+    },
+    {
+     "id": "1050",
+     "descIndex": "Allied DMG Bonus +1.5%"
+    },
+    {
+     "id": "1051",
+     "descIndex": "All allies' ATK +1% each turn,\\nstacking up to 5 times"
+    },
+    {
+     "id": "1052",
+     "descIndex": "All allies' Lifesteal +1%"
+    },
+    {
+     "id": "1053",
+     "descIndex": "All allies' Lifesteal +2%"
+    },
+    {
+     "id": "1054",
+     "descIndex": "All allies' Max HP +3%"
+    },
+    {
+     "id": "1055",
+     "descIndex": "All DMG taken by all allies\\n-1%"
+    },
+    {
+     "id": "1056",
+     "descIndex": "Allied Healing Bonus +4%"
+    },
+    {
+     "id": "1057",
+     "descIndex": "At the start of each turn, remove 1 random\\ndebuff from our side"
+    },
+    {
+     "id": "1058",
+     "descIndex": "Allied ATK +1%"
+    },
+    {
+     "id": "1059",
+     "descIndex": "DMG dealt to targets below 30% HP\\n+5%"
+    },
+    {
+     "id": "1060",
+     "descIndex": "Enemies affected by Bleed, Burn, Shock or Poison\\ntake 5% more DMG"
+    },
+    {
+     "id": "1061",
+     "descIndex": "Allied Dodge +1%"
+    },
+    {
+     "id": "1062",
+     "descIndex": "All enemies' Accuracy -1.5%"
+    },
+    {
+     "id": "1063",
+     "descIndex": "All allies' Dodge +5% on the first turn"
+    },
+    {
+     "id": "1064",
+     "descIndex": "Allied Healing Bonus +2%"
+    },
+    {
+     "id": "1065",
+     "descIndex": "Allied Healing Bonus +4%"
+    },
+    {
+     "id": "1066",
+     "descIndex": "At the start of each turn, 1 random ally\\nrecovers 10% HP"
+    },
+    {
+     "id": "1067",
+     "descIndex": "Allied Accuracy +1%"
+    },
+    {
+     "id": "1068",
+     "descIndex": "All enemies' ATK -1.5%"
+    },
+    {
+     "id": "1069",
+     "descIndex": "On the first turn, 1 random enemy is Slowed by\\n15%"
+    },
+    {
+     "id": "1070",
+     "descIndex": "All allies' ATK +2% on the first turn"
+    },
+    {
+     "id": "1071",
+     "descIndex": "\"Line Skill\" move DMG +\\n2%"
+    },
+    {
+     "id": "1072",
+     "descIndex": "\"Single-Target Skill\" move DMG +\\n3%"
+    },
+    {
+     "id": "1073",
+     "descIndex": "Allied ATK +0.5%, HP +0.5%"
+    },
+    {
+     "id": "1074",
+     "descIndex": "Allied ATK +1.5%"
+    },
+    {
+     "id": "1075",
+     "descIndex": "Allied ATK +2%, DEF +2%"
+    },
+    {
+     "id": "3001",
+     "descIndex": "DMG of our member with the highest HP +7%"
+    },
+    {
+     "id": "3002",
+     "descIndex": "Our member with the most HP gains HP +5%,\\nTenacity +5%"
+    },
+    {
+     "id": "3003",
+     "descIndex": "Block Rate of our front two rows +15%"
+    },
+    {
+     "id": "3004",
+     "descIndex": "All enemies' Dodge Rate -3%"
+    },
+    {
+     "id": "3005",
+     "descIndex": "Our Pirate faction characters' DMG +5%"
+    },
+    {
+     "id": "3006",
+     "descIndex": "Our Seven Warlords faction characters gain CRIT Rate +3%,\\nCRIT DMG +10%"
+    },
+    {
+     "id": "3007",
+     "descIndex": "Before each turn, 1 random ally gains\\n10 Rage"
+    },
+    {
+     "id": "3008",
+     "descIndex": "Our \"Line Skill\" move DMG\\n+8%"
+    },
+    {
+     "id": "3009",
+     "descIndex": "\"All-Target Skill\" move DMG +\\n10%"
+    },
+    {
+     "id": "3010",
+     "descIndex": "Allied DEF +3%"
+    },
+    {
+     "id": "3011",
+     "descIndex": "On the first turn, 1 random enemy's SPD -10%"
+    },
+    {
+     "id": "3012",
+     "descIndex": "SPD of enemies in the front two rows -10%"
+    },
+    {
+     "id": "3013",
+     "descIndex": "Marine faction characters' HP +3%"
+    },
+    {
+     "id": "3014",
+     "descIndex": "Our Marine faction characters' Tenacity +10%"
+    },
+    {
+     "id": "3015",
+     "descIndex": "Marine faction characters' ATK +5%, CRIT\\n+5%"
+    },
+    {
+     "id": "3016",
+     "descIndex": "On the first turn, DMG of the enemy front two rows\\n-5%"
+    },
+    {
+     "id": "3017",
+     "descIndex": "ATK of our back two rows +5%"
+    },
+    {
+     "id": "3018",
+     "descIndex": "Enemy ATK -5%, CRIT Rate -5%"
+    },
+    {
+     "id": "3019",
+     "descIndex": "Before each turn, 1 random ally\\nhas 1 debuff removed"
+    },
+    {
+     "id": "3020",
+     "descIndex": "Allied members recover 2% HP each turn"
+    },
+    {
+     "id": "3021",
+     "descIndex": "At the start of each turn, our lowest-HP\\ncharacter has a chance to gain a\\nShield of 20% HP"
+    },
+    {
+     "id": "3022",
+     "descIndex": "Allied CRIT Rate +3% on the first turn"
+    },
+    {
+     "id": "3023",
+     "descIndex": "DMG dealt to enemies below 30% HP\\n+10%"
+    },
+    {
+     "id": "3024",
+     "descIndex": "Allied Accuracy +10%, CRIT DMG\\n+10%"
+    },
+    {
+     "id": "3025",
+     "descIndex": "Allied Fire DMG +10%"
+    },
+    {
+     "id": "3026",
+     "descIndex": "Allied Fire RES +10%"
+    },
+    {
+     "id": "3027",
+     "descIndex": "Our Finisher and Ultimate skill DMG\\n+10%"
+    },
+    {
+     "id": "3028",
+     "descIndex": "Characters who kill an enemy gain DMG +5%"
+    },
+    {
+     "id": "3029",
+     "descIndex": "DMG reduction of our front two rows +5%"
+    },
+    {
+     "id": "3030",
+     "descIndex": "Attribute DMG taken by allies -15%"
+    },
+    {
+     "id": "3031",
+     "descIndex": "All allies' ATK +3%"
+    },
+    {
+     "id": "3032",
+     "descIndex": "All allies' ATK +5% on the first turn"
+    },
+    {
+     "id": "3033",
+     "descIndex": "On the first turn, 1 random ally gains 1 Soul\\nJade and ATK +10%"
+    },
+    {
+     "id": "3034",
+     "descIndex": "For every 1 enemy that dies, all allies\\nrecover 3% HP"
+    },
+    {
+     "id": "3035",
+     "descIndex": "Our World Government faction characters' DMG +5%"
+    },
+    {
+     "id": "3036",
+     "descIndex": "Allied members ignore 15% of the enemy's\\nDEF"
+    },
+    {
+     "id": "3037",
+     "descIndex": "DMG reduction of our highest-ATK character +7%"
+    },
+    {
+     "id": "3038",
+     "descIndex": "First-row characters' Tenacity +5%,\\nDEF +5%"
+    },
+    {
+     "id": "3039",
+     "descIndex": "Before each turn, 1 random\\nally recovers 15% HP"
+    },
+    {
+     "id": "3040",
+     "descIndex": "Enemy male characters' Accuracy -5%"
+    },
+    {
+     "id": "3041",
+     "descIndex": "Each turn, mark a random enemy so that\\nit takes 10% more DMG"
+    },
+    {
+     "id": "3042",
+     "descIndex": "Our male characters' ATK +5%,\\nAccuracy +10%"
+    },
+    {
+     "id": "3043",
+     "descIndex": "At the start of each turn, 1 random ally gains ATK\\n+10% for 1 turn"
+    },
+    {
+     "id": "3044",
+     "descIndex": "Our first-row characters have a chance to be immune\\nto Knock-Up and Knockback"
+    },
+    {
+     "id": "3045",
+     "descIndex": "For the first two turns of battle, allies are immune to Seal\\nand Skill Seal; all allies' Lifesteal +5%"
+    },
+    {
+     "id": "3046",
+     "descIndex": "Allied HP +3%"
+    },
+    {
+     "id": "3047",
+     "descIndex": "Our Supernova faction characters' DMG reduction +5%"
+    },
+    {
+     "id": "3048",
+     "descIndex": "Before each turn, a \"Steel Shield\" is placed\\nrandomly in the front row"
+    },
+    {
+     "id": "3049",
+     "descIndex": "Allied CRIT +3%"
+    },
+    {
+     "id": "3050",
+     "descIndex": "Allied Accuracy +10%, ATK +3%"
+    },
+    {
+     "id": "3051",
+     "descIndex": "On the first turn, a random ally gains\\n50 Rage and CRIT +5%"
+    },
+    {
+     "id": "3052",
+     "descIndex": "Allied DEF +5%"
+    },
+    {
+     "id": "3053",
+     "descIndex": "Our Marine faction characters gain Dodge +5%,\\nHP +3%"
+    },
+    {
+     "id": "3054",
+     "descIndex": "At the end of each turn, our Marine faction\\ncharacters recover 5% HP"
+    },
+    {
+     "id": "3055",
+     "descIndex": "Enemy DMG -3%"
+    },
+    {
+     "id": "3056",
+     "descIndex": "Enemy CRIT Rate -5%, CRIT\\nDMG -10%"
+    },
+    {
+     "id": "3057",
+     "descIndex": "Healing received by enemies -35%"
+    },
+    {
+     "id": "3058",
+     "descIndex": "Enemy male characters' ATK -5%"
+    },
+    {
+     "id": "3059",
+     "descIndex": "Allied ATK and DEF +3%"
+    },
+    {
+     "id": "3060",
+     "descIndex": "Allied ATK and CRIT Rate +5% on\\nthe first turn"
+    },
+    {
+     "id": "3061",
+     "descIndex": "Allied HP +5%"
+    },
+    {
+     "id": "3062",
+     "descIndex": "All allies' ATK +5%"
+    },
+    {
+     "id": "3063",
+     "descIndex": "Whenever an ally dies, 1 random surviving\\nally gains 50 Rage"
+    },
+    {
+     "id": "3064",
+     "descIndex": "All allies' ATK and HP +3%"
+    },
+    {
+     "id": "3065",
+     "descIndex": "Allied members ignore 10% of the enemy's\\nDEF"
+    },
+    {
+     "id": "3066",
+     "descIndex": "Unleashes a powerful shock upon entering battle,\\nreducing all enemies' Accuracy and Dodge by\\n20% for two turns"
+    },
+    {
+     "id": "3067",
+     "descIndex": "Our single-target skill CRIT Rate +5%"
+    },
+    {
+     "id": "3068",
+     "descIndex": "Our AoE skill DMG +8%"
+    },
+    {
+     "id": "3069",
+     "descIndex": "Attribute DMG dealt by allies +15%"
+    },
+    {
+     "id": "3070",
+     "descIndex": "Allied Dodge +3%"
+    },
+    {
+     "id": "3071",
+     "descIndex": "DMG taken by allies from AoE skills\\n-10%"
+    },
+    {
+     "id": "3072",
+     "descIndex": "For the first two turns, 1 random ally gains SPD and\\nDodge +15%"
+    },
+    {
+     "id": "3073",
+     "descIndex": "Allied HP, ATK and DEF\\n+2%"
+    },
+    {
+     "id": "3074",
+     "descIndex": "When an ally's HP is below 50%, Dodge\\n+5%, Accuracy +5%"
+    },
+    {
+     "id": "3075",
+     "descIndex": "On the first turn, 1 random enemy loses 2 Soul\\nJade"
+    },
+    {
+     "id": "3076",
+     "descIndex": "Allied Accuracy +10%"
+    },
+    {
+     "id": "3077",
+     "descIndex": "On the first turn, 1 random enemy's DMG\\n-15%"
+    },
+    {
+     "id": "3078",
+     "descIndex": "On the first turn, 1 random enemy has a 10% chance to\\nhave its action interrupted after dealing DMG"
+    },
+    {
+     "id": "3079",
+     "descIndex": "All allies' ATK and CRIT Rate +3%"
+    },
+    {
+     "id": "3080",
+     "descIndex": "Allied HP +5%, DMG +5%"
+    },
+    {
+     "id": "3081",
+     "descIndex": "For the first two turns, allied CRIT Rate and Tenacity +10%"
+    },
+    {
+     "id": "3082",
+     "descIndex": "All allies' Dark DMG +15%"
+    },
+    {
+     "id": "3083",
+     "descIndex": "All DMG of all enemies -10%"
+    },
+    {
+     "id": "3084",
+     "descIndex": "Enemy ATK, CRIT and Accuracy\\n-8%"
+    },
+    {
+     "id": "3085",
+     "descIndex": "All allies' ATK +5%, doubled for\\nStraw Hat Crew members"
+    },
+    {
+     "id": "3086",
+     "descIndex": "All allies' Accuracy +7%, doubled for Straw Hat\\nCrew members"
+    },
+    {
+     "id": "3087",
+     "descIndex": "All allies have a 10% chance to increase\\nDMG by 50% when dealing DMG; doubled\\nfor Straw Hat Crew members"
+    },
+    {
+     "id": "3088",
+     "descIndex": "All allies' DMG +7%"
+    },
+    {
+     "id": "3089",
+     "descIndex": "All allies' Pierce +15%"
+    },
+    {
+     "id": "3090",
+     "descIndex": "Each turn, 1 random ally gains 1 stack of White String\\nShield; when taking DMG above 10% of Max HP,\\nthe DMG is reduced to 10% of Max HP"
+    },
+    {
+     "id": "3091",
+     "descIndex": "Attribute DMG taken by all allies -12%"
+    },
+    {
+     "id": "3092",
+     "descIndex": "All enemies' ATK -10%"
+    },
+    {
+     "id": "3093",
+     "descIndex": "Each turn, 1 random ally gains SPD, ATK\\nand Accuracy +5%"
+    },
+    {
+     "id": "3094",
+     "descIndex": "Straw Hat Crew members' DMG +10%"
+    },
+    {
+     "id": "3095",
+     "descIndex": "Thunder and Poison DMG taken by all allies\\n-20%"
+    },
+    {
+     "id": "3096",
+     "descIndex": "On the first turn, all allies have a 20% chance\\nto ignore the target's DMG reduction when casting an Ultimate"
+    },
+    {
+     "id": "3097",
+     "descIndex": "All DMG reduction of the Marine faction +8%"
+    },
+    {
+     "id": "3098",
+     "descIndex": "All enemies' Finisher and Ultimate DMG -10%"
+    },
+    {
+     "id": "3099",
+     "descIndex": "On the first turn, all allies gain a Shield of 15% Max\\nHP"
+    },
+    {
+     "id": "3100",
+     "descIndex": "Our Marine faction ATK +7%"
+    },
+    {
+     "id": "3101",
+     "descIndex": "If no Ultimate is cast this turn, the next\\nUltimate deals 10% more DMG, stacking\\nup to 30%"
+    },
+    {
+     "id": "3102",
+     "descIndex": "Recover 10% Max HP when we score a kill"
+    },
+    {
+     "id": "3103",
+     "descIndex": "Straw Hat Crew members' Dodge +10%"
+    },
+    {
+     "id": "3104",
+     "descIndex": "When attacked by non-Ultimate skills, all\\nDMG taken by all allies -10%"
+    },
+    {
+     "id": "3105",
+     "descIndex": "The first skill all allies cast each turn gains\\nDMG and Accuracy +20%"
+    },
+    {
+     "id": "3106",
+     "descIndex": "Each turn, the ally with the lowest HP recovers\\n10% HP"
+    },
+    {
+     "id": "3107",
+     "descIndex": "All allies' Healing +10%"
+    },
+    {
+     "id": "3108",
+     "descIndex": "All allies recover 8% HP each turn"
+    },
+    {
+     "id": "3109",
+     "descIndex": "DMG dealt by all allies to enemies above 50% HP\\n+10%"
+    },
+    {
+     "id": "3110",
+     "descIndex": "On the first turn, 1 random ally gains ATK and\\nCRIT +10%"
+    },
+    {
+     "id": "3111",
+     "descIndex": "For the first two turns, enemy skills have an 8%\\nchance to deal no DMG and apply no debuffs"
+    },
+    {
+     "id": "3112",
+     "descIndex": "Block of our front two rows +10%"
+    },
+    {
+     "id": "3113",
+     "descIndex": "CRIT DMG taken by all allies -20%"
+    },
+    {
+     "id": "3114",
+     "descIndex": "Each skill cast increases all DMG\\nfor the current turn by 5%"
+    },
+    {
+     "id": "3115",
+     "descIndex": "All enemies' Accuracy -7%"
+    },
+    {
+     "id": "3116",
+     "descIndex": "All allies' SPD +5%"
+    },
+    {
+     "id": "3117",
+     "descIndex": "The first time each ally dies, 1 random\\nenemy is Frozen"
+    },
+    {
+     "id": "3118",
+     "descIndex": "All allies' Max HP +7%"
+    },
+    {
+     "id": "3119",
+     "descIndex": "All allies' Dodge +10%"
+    },
+    {
+     "id": "3120",
+     "descIndex": "Each turn, 1 random enemy's skill cost\\nincreases by 1 Soul Jade"
+    },
+    {
+     "id": "3121",
+     "descIndex": "All allies' Pierce +5%"
+    },
+    {
+     "id": "3122",
+     "descIndex": "All allies' Fire DMG +10%"
+    },
+    {
+     "id": "3123",
+     "descIndex": "All allies' Ultimate DMG +15%"
+    },
+    {
+     "id": "3124",
+     "descIndex": "All allies' Accuracy and Dodge +7%"
+    },
+    {
+     "id": "3125",
+     "descIndex": "Big Mom Pirates' DEF and Tenacity +10%"
+    },
+    {
+     "id": "3126",
+     "descIndex": "All allies gain CRIT +10% when\\nHP is below 70%"
+    },
+    {
+     "id": "3127",
+     "descIndex": "All allies' Fire DMG +15%"
+    },
+    {
+     "id": "3128",
+     "descIndex": "Luffy and Ace gain ATK and CRIT +15%"
+    },
+    {
+     "id": "3129",
+     "descIndex": "Our Ultimate skills have a 20% chance to reduce the\\ntarget's Soul Jade by 1"
+    },
+    {
+     "id": "3130",
+     "descIndex": "Allies below 50% HP gain SPD\\n+5%"
+    },
+    {
+     "id": "3131",
+     "descIndex": "For every 1 enemy that dies, all allies\\ngain ATK +5%"
+    },
+    {
+     "id": "3132",
+     "descIndex": "On the first turn, 1 random enemy is\\ninflicted with Fear"
+    },
+    {
+     "id": "3133",
+     "descIndex": "All allies' Poison DMG +15%"
+    },
+    {
+     "id": "3134",
+     "descIndex": "All enemies' Attribute RES -15%"
+    },
+    {
+     "id": "3135",
+     "descIndex": "On the first turn, gain 20 Rage after\\ncasting an Ultimate"
+    },
+    {
+     "id": "3136",
+     "descIndex": "All allies' Max HP +7%"
+    },
+    {
+     "id": "3137",
+     "descIndex": "All DMG taken by all allies\\n-10%"
+    },
+    {
+     "id": "3138",
+     "descIndex": "On the first turn, our front row blocks column DMG"
+    },
+    {
+     "id": "3139",
+     "descIndex": "All allies' Max HP +10%"
+    },
+    {
+     "id": "3140",
+     "descIndex": "All enemies' SPD -10%"
+    },
+    {
+     "id": "3141",
+     "descIndex": "At battle start, all allies gain 30\\nRage"
+    },
+    {
+     "id": "3142",
+     "descIndex": "All allies' Healing +15%"
+    },
+    {
+     "id": "3143",
+     "descIndex": "Before each ally acts, squeeze out\\n1 dispellable debuff from them"
+    },
+    {
+     "id": "3144",
+     "descIndex": "20% of DMG dealt by all allies is converted\\ninto their own HP"
+    },
+    {
+     "id": "3145",
+     "descIndex": "All allies' Ice RES and Ice\\nDMG +10%"
+    },
+    {
+     "id": "3146",
+     "descIndex": "All allies' skills have a chance to deal\\na small amount of Ice DMG"
+    },
+    {
+     "id": "3147",
+     "descIndex": "Each turn, all enemies' ATK and\\nDEF -5%, up to 3 times per battle"
+    },
+    {
+     "id": "3148",
+     "descIndex": "Attribute DMG dealt by all allies\\n+10%"
+    },
+    {
+     "id": "3149",
+     "descIndex": "All allies' Block and Tenacity +7%"
+    },
+    {
+     "id": "3150",
+     "descIndex": "On the first turn, our Marine faction characters'\\nAttribute RES +50%"
+    },
+    {
+     "id": "3151",
+     "descIndex": "All allies' Poison RES and Poison\\nDMG +10%"
+    },
+    {
+     "id": "3152",
+     "descIndex": "All allies' skill attacks deal extra\\nPoison DMG equal to 20% of their ATK"
+    },
+    {
+     "id": "3153",
+     "descIndex": "When hit by a skill, all allies have a\\n30% chance to be immune to debuffs"
+    },
+    {
+     "id": "3154",
+     "descIndex": "All allies' CRIT +5%"
+    },
+    {
+     "id": "3155",
+     "descIndex": "SPD of our highest-ATK character\\n+10%"
+    },
+    {
+     "id": "3156",
+     "descIndex": "When hit by a skill, all allies deal True DMG to\\nthe attacker equal to 20% of the attacker's ATK"
+    },
+    {
+     "id": "3157",
+     "descIndex": "All allies' Accuracy +7%, doubled for male\\ncharacters"
+    },
+    {
+     "id": "3158",
+     "descIndex": "Enemy male characters' CRIT Rate -10%"
+    },
+    {
+     "id": "3159",
+     "descIndex": "Each turn, 1 random male enemy's Rage\\ngain is reduced by 50%"
+    },
+    {
+     "id": "3160",
+     "descIndex": "All allies' Attribute DMG +15%"
+    },
+    {
+     "id": "3161",
+     "descIndex": "All enemies' Block -10%"
+    },
+    {
+     "id": "3162",
+     "descIndex": "For each defeated teammate, all allies\\nrecover 10% HP"
+    },
+    {
+     "id": "3163",
+     "descIndex": "All allies' DEF and Block +5%,\\ndoubled for the Straw Hat Crew"
+    },
+    {
+     "id": "3164",
+     "descIndex": "At turn start, the 2 front-row characters gain a Shield\\nof 10% Max HP"
+    },
+    {
+     "id": "3165",
+     "descIndex": "When hit, all allies have a 10% chance to be immune to\\nand reflect debuffs"
+    },
+    {
+     "id": "3166",
+     "descIndex": "All allies' Pierce and Accuracy +7%"
+    },
+    {
+     "id": "3167",
+     "descIndex": "All allies' CRIT DMG +15%"
+    },
+    {
+     "id": "3168",
+     "descIndex": "When all allies cast single-target Finisher or Ultimate\\nskills, they apply Sever"
+    },
+    {
+     "id": "3169",
+     "descIndex": "All enemies' Tenacity and Accuracy -7%"
+    },
+    {
+     "id": "3170",
+     "descIndex": "All allies' SPD +5%"
+    },
+    {
+     "id": "3171",
+     "descIndex": "Each turn, 1 random ally is guaranteed to CRIT\\nwith the first skill they cast"
+    },
+    {
+     "id": "3172",
+     "descIndex": "All DMG dealt by all allies +7%"
+    },
+    {
+     "id": "3173",
+     "descIndex": "All enemies' Accuracy and Dodge -10%"
+    },
+    {
+     "id": "3174",
+     "descIndex": "When a non-summoned ally is defeated, summon a Head Clamp\\nin the front row, up to\\n2 times"
+    },
+    {
+     "id": "3175",
+     "descIndex": "All allies' Max HP +7%, doubled for Kozuki\\nFamily members"
+    },
+    {
+     "id": "3176",
+     "descIndex": "All enemies' Fire RES -10%"
+    },
+    {
+     "id": "3177",
+     "descIndex": "On the first turn, our characters have a 20% chance to fully evade\\nnon-single-target DMG"
+    },
+    {
+     "id": "3178",
+     "descIndex": "All allies' CRIT and Pierce +7%"
+    },
+    {
+     "id": "3179",
+     "descIndex": "CRIT DMG taken by all enemies +10%"
+    },
+    {
+     "id": "3180",
+     "descIndex": "When casting Finisher or Ultimate skills, 30% chance to\\nincrease all DMG by 50%"
+    },
+    {
+     "id": "3181",
+     "descIndex": "All allies' Attribute DMG +15%"
+    },
+    {
+     "id": "3182",
+     "descIndex": "All enemies' Tenacity and Block -7%"
+    },
+    {
+     "id": "3183",
+     "descIndex": "Creates a static ball on the enemy side that each turn deals\\nThunder DMG equal to 5% of Max HP to all enemies\\n(PvP only)"
+    },
+    {
+     "id": "3184",
+     "descIndex": "Our Swordsmanship characters' SPD +7%"
+    },
+    {
+     "id": "3185",
+     "descIndex": "All enemies' DEF -20%"
+    },
+    {
+     "id": "3186",
+     "descIndex": "For the first two turns, our skills cost 1 less Soul Jade,\\nand Rage is gained normally"
+    },
+    {
+     "id": "3187",
+     "descIndex": "All allies' Block and Tenacity +8%"
+    },
+    {
+     "id": "3188",
+     "descIndex": "For each character defeated on the field, all allies'\\nCRIT DMG +7%"
+    },
+    {
+     "id": "3189",
+     "descIndex": "For the first 2 turns, when we Block successfully, 50% chance\\nto be immune to 30% of final DMG"
+    },
+    {
+     "id": "3190",
+     "descIndex": "All allies' Pierce +8%"
+    },
+    {
+     "id": "3191",
+     "descIndex": "All enemies' ATK -10%"
+    },
+    {
+     "id": "3192",
+     "descIndex": "All DMG of all allies' non-Ultimate skills\\n+20%"
+    },
+    {
+     "id": "3193",
+     "descIndex": "All enemies' Attribute RES -15%"
+    },
+    {
+     "id": "3194",
+     "descIndex": "For the first 2 turns, all allies' ATK and SPD +4%"
+    },
+    {
+     "id": "3195",
+     "descIndex": "At the start of each turn, all allies gain 1 extra\\nSoul Jade"
+    },
+    {
+     "id": "3196",
+     "descIndex": "Our first-row characters' Block and Tenacity +18%"
+    },
+    {
+     "id": "3197",
+     "descIndex": "All allies' CRIT Rate +5%, CRIT DMG\\n+15%"
+    },
+    {
+     "id": "3198",
+     "descIndex": "Each turn, the first ally to act applies Knock-Up\\nwhen casting a single-target Finisher or Ultimate"
+    },
+    {
+     "id": "3199",
+     "descIndex": "All enemies' Pierce and Accuracy -8%"
+    },
+    {
+     "id": "3200",
+     "descIndex": "All allies' ATK and DMG Bonus permanently +4% each turn,\\nstacking up to 6 times"
+    },
+    {
+     "id": "3201",
+     "descIndex": "Our characters in the fourth row at battle start\\ncan deal Attribute DMG CRITs this battle"
+    },
+    {
+     "id": "3202",
+     "descIndex": "All allies' ATK +10% on odd turns"
+    },
+    {
+     "id": "3203",
+     "descIndex": "All enemies' Thunder RES -15%"
+    },
+    {
+     "id": "3204",
+     "descIndex": "At turn start, the ally with the lowest HP\\nbecomes immune to skill DMG\\nonce"
+    },
+    {
+     "id": "3205",
+     "descIndex": "All allies' Accuracy +15%"
+    },
+    {
+     "id": "3206",
+     "descIndex": "All allies' SPD +8% on even turns"
+    },
+    {
+     "id": "3207",
+     "descIndex": "When our highest-HP character is attacked,\\nthey recover 10% of their lost\\nHP"
+    },
+    {
+     "id": "3208",
+     "descIndex": "At turn end, all allies recover 6%\\nMax HP"
+    },
+    {
+     "id": "3209",
+     "descIndex": "For the first 2 turns, our fastest character's\\nSPD +15%"
+    },
+    {
+     "id": "3210",
+     "descIndex": "On the first turn, before acting, characters in our back 2 rows\\nremove all their debuffs"
+    },
+    {
+     "id": "3211",
+     "descIndex": "All enemies' Dodge Rate -15%"
+    },
+    {
+     "id": "3212",
+     "descIndex": "The highest-ATK enemy's ATK and SPD\\n-15%"
+    },
+    {
+     "id": "3213",
+     "descIndex": "The first ally to take lethal DMG interrupts the\\nenemy's action and recovers 50% HP\\n(triggers alongside the character's own talent)"
+    },
+    {
+     "id": "3214",
+     "descIndex": "For the first 2 turns of battle, all allies' DEF\\n+20%"
+    },
+    {
+     "id": "3215",
+     "descIndex": "When attacking characters with lower DEF than themselves,\\nATK +12%"
+    },
+    {
+     "id": "3216",
+     "descIndex": "After an ally acts, all allies' SPD\\n+3% (stackable) until the end of\\nthe turn"
+    },
+    {
+     "id": "3217",
+     "descIndex": "All allies' Dodge +14%"
+    },
+    {
+     "id": "3218",
+     "descIndex": "All enemies' DMG Bonus -15%"
+    },
+    {
+     "id": "3219",
+     "descIndex": "At battle start, characters in our back 2 rows gain\\nStealth for 3 turns"
+    },
+    {
+     "id": "3220",
+     "descIndex": "All allies' HP and DEF +10%"
+    },
+    {
+     "id": "3221",
+     "descIndex": "Our highest-ATK character's ATK permanently\\n+4% each turn"
+    },
+    {
+     "id": "3222",
+     "descIndex": "At battle start, all allies gain a Shield of 30%\\nMax HP"
+    },
+    {
+     "id": "3223",
+     "descIndex": "All allies' HP, Tenacity and Block +8%"
+    },
+    {
+     "id": "3224",
+     "descIndex": "All allies' CRIT, Accuracy and Pierce +8%"
+    },
+    {
+     "id": "3225",
+     "descIndex": "When attacking characters with a Shield,\\nATK +20%"
+    },
+    {
+     "id": "3226",
+     "descIndex": "All allies' HP +12%"
+    },
+    {
+     "id": "3227",
+     "descIndex": "At the end of the first 3 turns, all allies recover\\n13% Max HP"
+    },
+    {
+     "id": "3228",
+     "descIndex": "When our Finisher or Ultimate hits,\\n20% chance to knock the target back\\n1 tile"
+    },
+    {
+     "id": "3229",
+     "descIndex": "All allies' Accuracy and Dodge +10%"
+    },
+    {
+     "id": "3230",
+     "descIndex": "All enemies' DMG reduction permanently decreases by\\n4% each turn"
+    },
+    {
+     "id": "3231",
+     "descIndex": "When our Beasts Pirates characters take lethal DMG,\\nSPD and ATK permanently +20%,\\nup to 1 stack"
+    },
+    {
+     "id": "3232",
+     "descIndex": "True DMG dealt by all allies +20%"
+    },
+    {
+     "id": "3233",
+     "descIndex": "All enemies' CRIT and Pierce -10%"
+    },
+    {
+     "id": "3234",
+     "descIndex": "When an ally casts a skill, all allies'\\nATK +1% (stackable)\\nfor 3 turns"
+    },
+    {
+     "id": "3235",
+     "descIndex": "All enemies' Accuracy and Dodge -12%"
+    },
+    {
+     "id": "3236",
+     "descIndex": "For the first 3 turns, all allies' SPD +12%"
+    },
+    {
+     "id": "3237",
+     "descIndex": "When our characters cast single-target skills, ATK and\\nCRIT +15%"
+    },
+    {
+     "id": "3238",
+     "descIndex": "For the first 3 turns, all allies' Block +20%"
+    },
+    {
+     "id": "3239",
+     "descIndex": "When we Block successfully, 50% chance\\nto be immune to 30% of final DMG"
+    },
+    {
+     "id": "3240",
+     "descIndex": "When we Block successfully, all allies' SPD\\n+10%, stacking up to 2 times,\\nfor 2 turns"
+    },
+    {
+     "id": "3241",
+     "descIndex": "All allies' ATK +8%"
+    },
+    {
+     "id": "3242",
+     "descIndex": "All allies' SPD +12%, DEF -36%"
+    },
+    {
+     "id": "3243",
+     "descIndex": "When all allies attack, if the target's ATK is lower than\\ntheirs, 25% chance to nullify its Invincibility"
+    },
+    {
+     "id": "3244",
+     "descIndex": "All allies' Block +13%"
+    },
+    {
+     "id": "3245",
+     "descIndex": "When we Block successfully, recover\\n10% HP"
+    },
+    {
+     "id": "3246",
+     "descIndex": "All allies' SPD +7%, doubled for\\nthe Beasts Pirates"
+    },
+    {
+     "id": "3247",
+     "descIndex": "For the first 3 turns, all allies' CRIT\\n+15%"
+    },
+    {
+     "id": "3248",
+     "descIndex": "At turn end, all allies' ATK\\npermanently +2%"
+    },
+    {
+     "id": "3249",
+     "descIndex": "When an ally CRITs, all allies'\\nSPD +1% for 2\\nturns (stackable)"
+    },
+    {
+     "id": "3250",
+     "descIndex": "Our Supernovas' ATK +15%"
+    },
+    {
+     "id": "3251",
+     "descIndex": "On the first turn, all allies' SPD\\n+16%"
+    },
+    {
+     "id": "3252",
+     "descIndex": "The first 5 skills cast by all\\nallies gain Accuracy +35%"
+    },
+    {
+     "id": "3253",
+     "descIndex": "Our Supernovas' SPD +10%"
+    },
+    {
+     "id": "3254",
+     "descIndex": "All allies' Accuracy +18%"
+    },
+    {
+     "id": "3255",
+     "descIndex": "All enemies cannot recover HP on the first turn"
+    },
+    {
+     "id": "3256",
+     "descIndex": "Our Beasts Pirates characters on the field gain Max\\nHP and DEF +12%"
+    },
+    {
+     "id": "3257",
+     "descIndex": "All allies' ATK +12%"
+    },
+    {
+     "id": "3258",
+     "descIndex": "At the start of the first 4 turns, all enemies' Max\\nHP permanently -8%\\n(only in modes against players)"
+    },
+    {
+     "id": "3259",
+     "descIndex": "Our Supernovas and Straw Hat Crew members gain ATK and\\nCRIT Rate +10%"
+    },
+    {
+     "id": "3260",
+     "descIndex": "All allies' Accuracy +8%, CRIT\\nDMG +16%"
+    },
+    {
+     "id": "3261",
+     "descIndex": "For the first 2 turns, our Ultimates have a chance to\\nnullify the target's Invincibility\\n(single-target 50%, AoE 30%)"
+    },
+    {
+     "id": "3262",
+     "descIndex": "All allies' Accuracy +10%, all enemies'\\nDodge -10%"
+    },
+    {
+     "id": "3263",
+     "descIndex": "For the first 2 turns, enemies cannot enter\\nStealth"
+    },
+    {
+     "id": "3264",
+     "descIndex": "Each turn, the ally with the lowest HP\\ngains 1 stack of Flower Shield\\n: the next skill DMG taken cannot exceed 2%"
+    },
+    {
+     "id": "3265",
+     "descIndex": "Our Straw Hat Crew characters' SPD +10%"
+    },
+    {
+     "id": "3266",
+     "descIndex": "All allies' CRIT DMG +20%"
+    },
+    {
+     "id": "3267",
+     "descIndex": "When all allies attack, for each target\\nhit, their ATK\\n+2% until the end of the turn"
+    },
+    {
+     "id": "3268",
+     "descIndex": "All allies' SPD +8%"
+    },
+    {
+     "id": "3269",
+     "descIndex": "Our Straw Hat Crew's final DMG Bonus +10%"
+    },
+    {
+     "id": "3270",
+     "descIndex": "When an ally casts a skill, each Soul Jade spent increases all DMG by 5%"
+    },
+    {
+     "id": "3271",
+     "descIndex": "At turn start, all allies recover 10% HP"
+    },
+    {
+     "id": "3272",
+     "descIndex": "50% of overflow healing on our Straw Hat Crew characters\\nis converted into a stackable Shield; the Shield\\nlasts 1 turn"
+    },
+    {
+     "id": "3273",
+     "descIndex": "For the first 2 turns, before our characters act, there is a\\n50% chance to remove effects applied by enemies;\\ndoubled for Straw Hat Crew characters"
+    },
+    {
+     "id": "3274",
+     "descIndex": "All allies' Accuracy +15%"
+    },
+    {
+     "id": "3275",
+     "descIndex": "At the start of turn 4, all allies' ATK and\\nSPD +15% for 2 turns"
+    },
+    {
+     "id": "3276",
+     "descIndex": "Each time all allies cast a single-target skill, CRIT\\nDMG permanently +7%, up to 5 stacks"
+    },
+    {
+     "id": "3277",
+     "descIndex": "All allies' Dodge +15%"
+    },
+    {
+     "id": "3278",
+     "descIndex": "Attribute DMG of our back 2 rows +25%"
+    },
+    {
+     "id": "3279",
+     "descIndex": "For each Straw Hat Crew character on our field, our\\nStraw Hat Crew characters' SPD +5%"
+    },
+    {
+     "id": "3280",
+     "descIndex": "For the first 3 turns, all allies' Block +20%"
+    },
+    {
+     "id": "3281",
+     "descIndex": "At the start of each turn, our Straw Hat Crew characters gain\\na Shield of 20% Max HP for 1 turn"
+    },
+    {
+     "id": "3282",
+     "descIndex": "Before acting, allies with a Shield gain SPD and\\nATK +6% (stackable) for 4 turns"
+    },
+    {
+     "id": "3283",
+     "descIndex": "All allies' SPD +10%"
+    },
+    {
+     "id": "3284",
+     "descIndex": "All allies' Dodge +18%"
+    },
+    {
+     "id": "3285",
+     "descIndex": "At battle start, 2 random enemies are inflicted with Fear\\nfor 2 turns"
+    },
+    {
+     "id": "3286",
+     "descIndex": "All allies' Block +12%"
+    },
+    {
+     "id": "3287",
+     "descIndex": "At battle start, all Straw Hat Crew characters on our field\\nsplit a 50% SPD bonus equally"
+    },
+    {
+     "id": "3288",
+     "descIndex": "For the first 2 turns, after our first Straw Hat Crew character acts,\\ntheir Max HP and that of our first-row Straw Hat Crew characters cannot\\nbe reduced this turn"
+    },
+    {
+     "id": "3289",
+     "descIndex": "For the first 2 turns, all enemies' Dodge -20%"
+    },
+    {
+     "id": "3290",
+     "descIndex": "All allies' SPD +7%, doubled for the first 2 turns"
+    },
+    {
+     "id": "3291",
+     "descIndex": "At the end of each turn, the enemy with the highest remaining HP percentage\\npermanently loses 25% final DMG reduction"
+    },
+    {
+     "id": "3292",
+     "descIndex": "All allies' ATK +12%"
+    },
+    {
+     "id": "3293",
+     "descIndex": "When an enemy dies, all allies permanently gain 6% SPD\\n, stacking up to 5 times"
+    },
+    {
+     "id": "3294",
+     "descIndex": "At the start of odd turns, 1 enemy in the last row\\nhas skill DMG limits, Invincibility and guaranteed Dodge\\nnullified for 1 turn"
+    },
+    {
+     "id": "3295",
+     "descIndex": "All allies' SPD, Accuracy and Dodge +8%"
+    },
+    {
+     "id": "3296",
+     "descIndex": "For the first 2 turns, at turn start, the fastest enemy\\ncannot gain Shields for 1 turn"
+    },
+    {
+     "id": "3297",
+     "descIndex": "The first enemy to die cannot be revived"
+    },
+    {
+     "id": "3298",
+     "descIndex": "All allies' Dodge +15%"
+    },
+    {
+     "id": "3299",
+     "descIndex": "All allies' final DMG Bonus +8%"
+    },
+    {
+     "id": "3300",
+     "descIndex": "At battle start, our highest-ATK character gains a\\nonce-only HP Lock at 30% HP, removed after being triggered\\nby a skill hit"
+    },
+    {
+     "id": "3301",
+     "descIndex": "All allies are immune to Attribute DMG on the first turn"
+    },
+    {
+     "id": "3302",
+     "descIndex": "At battle start, all allies' SPD\\n+10%, all enemies' Dodge -10%"
+    },
+    {
+     "id": "3303",
+     "descIndex": "At battle start, select the slowest\\nenemy; it cannot deal skill DMG\\nor apply debuffs for 1 action"
+    },
+    {
+     "id": "3304",
+     "descIndex": "At battle start, allied Accuracy +15%"
+    },
+    {
+     "id": "3305",
+     "descIndex": "At battle start, allied SPD +12%\\nBlock +15%"
+    },
+    {
+     "id": "3306",
+     "descIndex": "For the first two turns of battle, our\\nBlock DMG reduction ratio +20%"
+    },
+    {
+     "id": "3307",
+     "descIndex": "All allies' ATK +12%"
+    },
+    {
+     "id": "3308",
+     "descIndex": "For the first three turns of battle, allied SPD +12%\\nDodge +10%"
+    },
+    {
+     "id": "3309",
+     "descIndex": "For the first three turns of battle, allied Toughness Break Efficiency\\n+5%"
+    },
+    {
+     "id": "3310",
+     "descIndex": "All allies' Pierce +15%"
+    },
+    {
+     "id": "3311",
+     "descIndex": "For the first three turns of battle, allied SPD +12%\\nand gain Tenacity Defense equal to 12% of\\nbase DEF"
+    },
+    {
+     "id": "3312",
+     "descIndex": "All allies' Finisher and Ultimate Toughness Break\\nEfficiency +15%"
+    },
+    {
+     "id": "3313",
+     "descIndex": "All allies' ATK +10%\\nToughness Break Efficiency +5%"
+    },
+    {
+     "id": "3314",
+     "descIndex": "For the first three turns of battle, allied SPD +12%\\nTenacity CRIT DMG +10%"
+    },
+    {
+     "id": "3315",
+     "descIndex": "At the start of each turn\\nallied Tenacity Attack +10% of the base stat\\nstacking twice, until the end of turn 2"
+    },
+    {
+     "id": "3316",
+     "descIndex": "All DMG reduction of all allies\\n+30%"
+    },
+    {
+     "id": "3317",
+     "descIndex": "For the first three turns of battle, allied SPD +12%\\nmale characters' Toughness Break Efficiency +10%"
+    },
+    {
+     "id": "3318",
+     "descIndex": "All allies' Tenacity DMG reduction\\n+10%"
+    },
+    {
+     "id": "3319",
+     "descIndex": "For the first 2 turns of battle, all allies'\\nSoul Jade cost -1"
+    },
+    {
+     "id": "3320",
+     "descIndex": "All allies' SPD +12%,\\nTenacity Defense +10%"
+    },
+    {
+     "id": "3321",
+     "descIndex": "First-turn SPD +2%.\\nFinisher and Ultimate attacks\\ndeal extra Tenacity DMG equal to 30% of base ATK"
+    },
+    {
+     "id": "3322",
+     "descIndex": "All allies' ATK +15%\\nTenacity Attack +10% of base"
+    },
+    {
+     "id": "3323",
+     "descIndex": "All allies' SPD +12%\\nfinal DMG +10%"
+    },
+    {
+     "id": "3324",
+     "descIndex": "When a teammate finishes acting with Tenacity below 50%,\\ngrant 15% Tenacity and 10% Toughness Break Efficiency\\nfor 2 turns, triggers stack up to 2 times"
+    },
+    {
+     "id": "3325",
+     "descIndex": "Allied Tenacity CRIT +8%"
+    },
+    {
+     "id": "3326",
+     "descIndex": "All allies' SPD +12%\\nToughness Break Efficiency +5%"
+    },
+    {
+     "id": "3327",
+     "descIndex": "After an ally acts, Tenacity Attack\\n+3% of base ATK, 2 times per turn\\npermanently, up to 10 stacks"
+    },
+    {
+     "id": "3328",
+     "descIndex": "Allied Tenacity Defense +10%\\nall DMG +20%"
+    },
+    {
+     "id": "3329",
+     "descIndex": "All allies' SPD +12%\\nTenacity DMG reduction +10%"
+    },
+    {
+     "id": "3330",
+     "descIndex": "When casting a Finisher or Ultimate\\nrecover 10% of own Tenacity\\nonce per turn"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "3231",
+     "descIndex": "Each time an ally takes lethal DMG,\\nSPD and ATK permanently +20%"
+    }
+   ]
+  },
   "TableHeroAwake": {
    "key_column": "id",
    "text_columns": [
@@ -32365,7 +34193,7 @@
     },
     {
      "skillId": "304254",
-     "skillName": "Toughness CRIT",
+     "skillName": "Tenacity CRIT",
      "skillDesc": "When　using　<color=#d14e0d>Falling　Snow　Sickle</color>,　there　is　a　<color=#d14e0d>{buffodds}%</color>　chance　to　raise　Toughness　Crit　by　<color=#d14e0d>{buffper1,19061}%</color>.",
      "buttonEffect": ""
     },
@@ -32401,7 +34229,7 @@
     },
     {
      "skillId": "304260",
-     "skillName": "Toughness CRIT",
+     "skillName": "Tenacity CRIT",
      "skillDesc": "With　<color=#d14e0d>{buffodds}%</color>　probability,　Toughness　Crit　Damage　rises　by　<color=#d14e0d>{buffper1,19069}%</color>　for　<color=#d14e0d>2</color>　turns.",
      "buttonEffect": ""
     },
