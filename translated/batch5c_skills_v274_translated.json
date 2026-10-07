@@ -78541,9 +78541,27 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300121",
+     "skillName": "Thin Mist Autumn Rain",
+     "skillDesc": "Before each turn, Tashigi gains the <color=#d14e0d>Shigure</color> or <color=#d14e0d>Haze</color> state. Using skills of the matching series grants a <color=#d14e0d>{buffper1}%</color> DMG bonus, while non-matching skills deal <color=#d14e0d>{buffper1,11115}%</color> less damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300122",
+     "skillName": "Swordsmanship Master",
+     "skillDesc": "When using a skill or Ultimate, Tashigi gains 1 stack of <color=#d14e0d>Momentum</color>. At 3 stacks, all <color=#d14e0d>Momentum</color> is consumed, and her next skill gains <color=#d14e0d>CRIT</color> +<color=#d14e0d>{buffper2}%</color> and <color=#d14e0d>CRIT DMG</color> +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300123",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300124",
+     "skillName": "Burn",
+     "skillDesc": "Gives <color=#d14e0d>Buggy Ball</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Burn</color>: enemies with <color=#d14e0d>Burn</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
      "buttonEffect": ""
     },
     {
@@ -78559,9 +78577,45 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300128",
+     "skillName": "Fire Elemental Damage",
+     "skillDesc": "Adds <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to <color=#d14e0d>Special Buggy Ball</color>. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300129",
+     "skillName": "Stun",
+     "skillDesc": "Gives <color=#d14e0d>Aerial Spiral Juggle</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Stun</color>, leaving the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300130",
+     "skillName": "Confusion",
+     "skillDesc": "Gives <color=#d14e0d>Chop-Chop Festival</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Confusion</color>, increasing the Soul Jade cost of the enemy target's skills by <color=#d14e0d>{buffval1}</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300131",
+     "skillName": "Burn",
+     "skillDesc": "Gives <color=#d14e0d>Special Buggy Ball</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Burn</color>: enemies with <color=#d14e0d>Burn</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300132",
      "skillName": "Evasion Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Dodge Rate by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300133",
+     "skillName": "Chop Fruit",
+     "skillDesc": "At battle start, Dodge Rate increases by <color=#d14e0d>{buffper1}%</color>. On a full Dodge, Dodge is permanently reduced by <color=#d14e0d>5%</color>, down to a maximum reduction of 50%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300134",
+     "skillName": "Captain Buggy",
+     "skillDesc": "While on the field, allied Paramecia characters' <color=#d14e0d>ATK</color> +<color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>DEF</color> +<color=#d14e0d>{buffper2}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -78577,6 +78631,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300137",
+     "skillName": "Lightning Elemental Damage",
+     "skillDesc": "Adds Thunder damage equal to <color=#d14e0d>{buffper1}%</color> of own ATK to the <color=#d14e0d>enhanced Weathervane</color>; <color=#d14e0d>the Attribute damage ignores the enemy's base DEF</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300138",
+     "skillName": "Soaked",
+     "skillDesc": "Gives <color=#d14e0d>enhanced Cool Ball</color> the <color=#d14e0d>Soaked</color> effect, increasing the enemy target's <color=#d14e0d>Fire RES</color> by <color=#d14e0d>{buffper1}%</color> but reducing its <color=#d14e0d>Thunder RES</color> by <color=#d14e0d>{buffper1,11145}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300139",
+     "skillName": "Confusion",
+     "skillDesc": "Gives <color=#d14e0d>Tornado Tempo</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Confusion</color>, increasing the Soul Jade cost of the enemy target's skills by <color=#d14e0d>{buffval1}</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300140",
+     "skillName": "Electrocution",
+     "skillDesc": "Gives <color=#d14e0d>enhanced Thunder Ball</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Shock</color>: enemies with <color=#d14e0d>Shock</color> lose some HP before acting each turn, lasting <color=#d14e0d>2 turns</color>; the effect stacks up to <color=#d14e0d>5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300141",
+     "skillName": "Lightning Elemental Damage",
+     "skillDesc": "Adds <color=#d14e0d>Thunder damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to <color=#d14e0d>Thunder Lance Tempo</color>. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300142",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>",
@@ -78586,6 +78670,30 @@
      "skillId": "300143",
      "skillName": "Speed Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300144",
+     "skillName": "Paralysis",
+     "skillDesc": "Gives <color=#d14e0d>Thunder Lance Tempo</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Paralysis</color>, leaving the enemy target <color=#d14e0d>unable to use skills and Ultimates</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300145",
+     "skillName": "Damage Reduction",
+     "skillDesc": "Gives <color=#d14e0d>Mirage Tempo</color> the <color=#d14e0d>DMG Reduction</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to reduce own <color=#d14e0d>damage</color> taken by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300146",
+     "skillName": "Little Thief Cat",
+     "skillDesc": "While Nami is on the field, Attribute damage dealt by all allies increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300147",
+     "skillName": "Meteorological Knowledge",
+     "skillDesc": "While a <color=#d14e0d>thundercloud</color> exists, damage dealt by Nami increases by <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -78601,9 +78709,57 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300150",
+     "skillName": "Damage Reflect",
+     "skillDesc": "Gives <color=#d14e0d>Slasher</color> the <color=#d14e0d>Reflect</color> effect, returning <color=#d14e0d>{buffper1}%</color> of the <color=#d14e0d>damage</color> dealt by the enemy target to the attacker for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300151",
+     "skillName": "Bleed",
+     "skillDesc": "Gives <color=#d14e0d>Dust Slash</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Bleed</color>: enemies with <color=#d14e0d>Bleed</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300152",
+     "skillName": "Blood Rage",
+     "skillDesc": "Gives <color=#d14e0d>Blade Whirlwind</color> the <color=#d14e0d>Blood Rage</color> effect: each <color=#d14e0d>Bleed</color> stack on the enemy target deals <color=#d14e0d>damage</color> equal to <color=#d14e0d>{buffper2}%</color> of own ATK to the target.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300153",
+     "skillName": "Bleed",
+     "skillDesc": "Gives <color=#d14e0d>Ripping Slash</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Bleed</color>: enemies with <color=#d14e0d>Bleed</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300156",
+     "skillName": "Weapon Destruction",
+     "skillDesc": "Gives <color=#d14e0d>Spiral Hollow Slash</color> the <color=#d14e0d>Weapon Break</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to reduce the <color=#d14e0d>damage</color> dealt by the enemy target by <color=#d14e0d>{buffper1}%</color> and its <color=#d14e0d>Accuracy</color> by <color=#d14e0d>{buffper2}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300157",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300158",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300159",
+     "skillName": "Professional Killer",
+     "skillDesc": "Each time a skill is cast, consumes <color=#d14e0d>10%</color> of own current HP to increase this <color=#d14e0d>skill damage</color> by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300160",
+     "skillName": "Dice-Dice Fruit",
+     "skillDesc": "When attacking with HP below 50%, ATK +<color=#d14e0d>{buffper1,820020}%</color>; below 30% HP, an extra <color=#d14e0d>{buffper1,820030}%</color> ATK; below 10% HP, a further <color=#d14e0d>{buffper1,820031}%</color> ATK.",
      "buttonEffect": ""
     },
     {
@@ -78619,9 +78775,51 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300163",
+     "skillName": "Bleed",
+     "skillDesc": "Gives <color=#d14e0d>Desert Spada</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Bleed</color>: enemies with <color=#d14e0d>Bleed</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300164",
+     "skillName": "Wind Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Sables</color> skill damage +<color=#d14e0d>33%</color>, plus <color=#d14e0d>Wind damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300165",
+     "skillName": "Wind Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Erosion Cycle</color> skill damage +<color=#d14e0d>17%</color>, plus <color=#d14e0d>Wind damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300166",
+     "skillName": "Fear",
+     "skillDesc": "Gives <color=#d14e0d>Barjan</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Fear</color>, leaving the enemy target <color=#d14e0d>unable to gain Rage</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300167",
+     "skillName": "Cracked and Dry",
+     "skillDesc": "Gives <color=#d14e0d>Erosion Cycle</color> the <color=#d14e0d>Desiccation</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to remove the enemy's <color=#d14e0d>buffs</color>; each buff removed increases damage dealt by <color=#d14e0d>{buffper1}%</color>, up to <color=#d14e0d>60%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300169",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300170",
+     "skillName": "Bleed",
+     "skillDesc": "Gives <color=#d14e0d>Desert Spada</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Bleed</color>: enemies with <color=#d14e0d>Bleed</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300171",
+     "skillName": "Wind Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Desert Storm</color> skill damage +<color=#d14e0d>25%</color>, plus <color=#d14e0d>Wind damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
      "buttonEffect": ""
     },
     {
@@ -78631,9 +78829,39 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300173",
+     "skillName": "Wind Elemental Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Wind damage by {buffper1}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300174",
+     "skillName": "Assassin Leader",
+     "skillDesc": "Characters of the Seven Warlords faction in the lineup gain <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>CRIT DMG</color> +<color=#d14e0d>{buffper2}%</color> upon entering battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300175",
+     "skillName": "Sand-Sand Fruit",
+     "skillDesc": "<color=#d14e0d>Wind damage</color> dealt by Crocodile increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300176",
+     "skillName": "Sandstorm Weather",
+     "skillDesc": "At battle start, Crocodile changes the surrounding weather and creates a sandstorm, reducing all enemies' <color=#d14e0d>Accuracy</color> by <color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>Dodge Rate</color> by <color=#d14e0d>{buffper2}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300178",
      "skillName": "Defense Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DEF by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300179",
+     "skillName": "Execution Slash",
+     "skillDesc": "Gives <color=#d14e0d>Black Blade: Slash</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Execute</color>, doubling the <color=#d14e0d>damage</color> taken by enemy targets below 30% of Max HP.",
      "buttonEffect": ""
     },
     {
@@ -78643,9 +78871,33 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300181",
+     "skillName": "Slash",
+     "skillDesc": "Gives <color=#d14e0d>Black Blade: Flash</color> the <color=#d14e0d>Sever effect</color>, making the enemy target instantly lose <color=#d14e0d>{buffper1}%</color> of its <color=#d14e0d>current HP</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300182",
+     "skillName": "Slash",
+     "skillDesc": "Gives <color=#d14e0d>Black Blade: Dawn</color> the <color=#d14e0d>Sever effect</color>, making the enemy target instantly lose <color=#d14e0d>{buffper1}%</color> of its <color=#d14e0d>current HP</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300184",
      "skillName": "Ignore Defense",
      "skillDesc": "Gives <color=#d14e0d>Black Blade: Flash</color> the <color=#d14e0d>Ignore DEF</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance for this attack to ignore the enemy target's DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300185",
+     "skillName": "Skill Seal",
+     "skillDesc": "Gives <color=#d14e0d>Black Blade: Void</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Skill Seal</color>, leaving the enemy target <color=#d14e0d>unable to use skills that cost Soul Jade</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300186",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
      "buttonEffect": ""
     },
     {
@@ -78667,6 +78919,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300190",
+     "skillName": "Greatest Swordsman",
+     "skillDesc": "Mihawk's <color=#d14e0d>ATK, DEF, Max HP and SPD</color> increase by <color=#d14e0d>{attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300191",
+     "skillName": "Break Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Pierce Rate by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300192",
      "skillName": "Accuracy Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Accuracy by {attributevalper}%</color>",
@@ -78685,6 +78949,42 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300195",
+     "skillName": "Dodge",
+     "skillDesc": "Gives <color=#d14e0d>Tiptoe Kick</color> the <color=#d14e0d>Evasion</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to increase own <color=#d14e0d>Dodge Rate</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300196",
+     "skillName": "Haste",
+     "skillDesc": "Gives <color=#d14e0d>Memoir of a Clear Summer Sky</color> the <color=#d14e0d>Haste</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to increase own <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300197",
+     "skillName": "Clone-Clone Fruit",
+     "skillDesc": "Each turn, Mr. 2 can mimic an enemy hit by his basic attack, gaining <color=#d14e0d>{buffper1}%</color> of the enemy's <color=#d14e0d>ATK and SPD</color> as a bonus, but not exceeding <color=#d14e0d>30%</color> of his own corresponding stats.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300198",
+     "skillName": "Okama Fist",
+     "skillDesc": "At battle start, ATK -<color=#d14e0d>10%</color>. When attacking enemies, ignores <color=#d14e0d>{buffper1}%</color> of the enemy's <color=#d14e0d>DEF</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300199",
+     "skillName": "Recovery",
+     "skillDesc": "Gives <color=#d14e0d>The Way of the Okama</color> the <color=#d14e0d>Recovery</color> effect, instantly healing our Okama for <color=#d14e0d>HP</color> equal to <color=#d14e0d>{buffper1}%</color> of Mr. 2's ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300200",
+     "skillName": "Ultimate Extension Skill",
+     "skillDesc": "After casting his Ultimate, Mr. 2 gains a new battle form, increasing own <color=#d14e0d>CRIT Rate</color> and <color=#d14e0d>CRIT DMG</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300201",
      "skillName": "Defense Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DEF by {attributeper}%</color>",
@@ -78700,6 +79000,42 @@
      "skillId": "300203",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300204",
+     "skillName": "Rage Enhancement",
+     "skillDesc": "The character's <color=#d14e0d>starting Rage</color> increases by <color=#d14e0d>{buffval1}</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300205",
+     "skillName": "Slow",
+     "skillDesc": "Gives <color=#d14e0d>Candle Hammer</color> the <color=#d14e0d>Slow</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300206",
+     "skillName": "Shield",
+     "skillDesc": "Gives <color=#d14e0d>Candle Transformation</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Shield</color>, creating a Shield for self with HP equal to <color=#d14e0d>{buffper1}%</color> of own <color=#d14e0d>Max HP</color> for <color=#d14e0d>2 turns</color>. <color=#d14e0d>The Shield disappears immediately when its HP drops to 0</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300207",
+     "skillName": "Imprison",
+     "skillDesc": "Gives <color=#d14e0d>Candle Lock</color> the <color=#d14e0d>Imprison</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>Dodge Rate</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300209",
+     "skillName": "Sculptural Art",
+     "skillDesc": "When attacking enemies <color=#d14e0d>slower than</color> self, skill damage increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300210",
+     "skillName": "Melting Fruit",
+     "skillDesc": "When casting Candle Cone, there is a <color=#d14e0d>{buffodds}%</color> chance to apply 1-2 random stacks of Slow to the target, each reducing <color=#d14e0d>SPD</color> by <color=#d14e0d>10%</color> for 3 turns, stacking up to 5 times.",
      "buttonEffect": ""
     },
     {
@@ -78727,6 +79063,42 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300215",
+     "skillName": "Seal",
+     "skillDesc": "Gives <color=#d14e0d>Spring Air Raid</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Seal</color>, leaving the enemy target <color=#d14e0d>unable to use Ultimate skills</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300216",
+     "skillName": "Sacrifice",
+     "skillDesc": "Gives <color=#d14e0d>Spring Hopper</color> the <color=#d14e0d>Sacrifice</color> effect, consuming HP equal to <color=#d14e0d>{buffper1}%</color> of own <color=#d14e0d>Max HP</color> at once to increase subsequent <color=#d14e0d>damage</color> dealt by <color=#d14e0d>{buffper2}%</color> for <color=#d14e0d>2 turns</color>. Cannot trigger if HP is below 10% of Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300217",
+     "skillName": "Slow",
+     "skillDesc": "Gives <color=#d14e0d>Spring Hopper</color> the <color=#d14e0d>Slow</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300218",
+     "skillName": "Strength",
+     "skillDesc": "Gives <color=#d14e0d>Charged Spring Leap</color> the <color=#d14e0d>Strength</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to increase own <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300219",
+     "skillName": "Spring Fruit",
+     "skillDesc": "If Bellamy loses more than 30% of his Max HP within one turn, his <color=#d14e0d>Dodge Rate</color> and <color=#d14e0d>DEF</color> increase by <color=#d14e0d>{buffper1}%</color> next turn. Does not stack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300220",
+     "skillName": "Ultimate Launch",
+     "skillDesc": "When <color=#d14e0d>Bounce</color> reaches <color=#d14e0d>5 stacks</color>, damage dealt to enemies increases by <color=#d14e0d>{buffper1}%</color> and he becomes immune to control effects.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300221",
      "skillName": "Speed Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {attributeper}%</color>",
@@ -78751,9 +79123,63 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300225",
+     "skillName": "Poison Resistance",
+     "skillDesc": "Gives <color=#d14e0d>Antidote</color> the <color=#d14e0d>Poison RES</color> effect, giving the allied target a <color=#d14e0d>{buffper1}%</color> chance to be <color=#d14e0d>immune to Poison</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300226",
+     "skillName": "Stop Bleeding",
+     "skillDesc": "Gives <color=#d14e0d>Bandage</color> the <color=#d14e0d>Hemostasis</color> effect, giving the allied target a <color=#d14e0d>{buffper1}%</color> chance to be <color=#d14e0d>immune to Bleed</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300227",
+     "skillName": "Medical Treatment",
+     "skillDesc": "Gives <color=#d14e0d>Heal</color> the <color=#d14e0d>Medical</color> effect, increasing own <color=#d14e0d>Healing</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300228",
+     "skillName": "Recovery",
+     "skillDesc": "Gives <color=#d14e0d>Rumble Ball: Hoof Print Cherry Blizzard</color> the <color=#d14e0d>Recovery</color> effect, instantly recovering HP equal to <color=#d14e0d>{buffper1}%</color> of own Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300229",
+     "skillName": "Ultimate Extension Skill",
+     "skillDesc": "After casting his Ultimate, Chopper gains a new battle form, increasing <color=#d14e0d>all base stats</color> by <color=#d14e0d>{buffper1}%</color> and gaining a <color=#d14e0d>Shield</color> with HP equal to <color=#d14e0d>{buffper1,700042}%</color> of his Max HP for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300230",
+     "skillName": "Professional Doctor",
+     "skillDesc": "<color=#d14e0d>Healing</color> done by Chopper increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300231",
+     "skillName": "Human-Human Fruit",
+     "skillDesc": "When Chopper turns into <color=#d14e0d>Arm Point</color> form, damage taken by all allies is reduced by <color=#d14e0d>{buffper1,11138}%</color>, doubled for himself.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300232",
+     "skillName": "Ice Elemental Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Ice damage by {buffper1}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300233",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300234",
+     "skillName": "Fire Resistance Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Fire RES by {buffper1}%</color>",
      "buttonEffect": ""
     },
     {
@@ -78769,6 +79195,72 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300237",
+     "skillName": "Freeze",
+     "skillDesc": "Gives <color=#d14e0d>Ice Block: Ice Fall</color> the <color=#d14e0d>Freeze</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>SPD</color> to <color=#d14e0d>1</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300238",
+     "skillName": "Shatter Ice",
+     "skillDesc": "Gives <color=#d14e0d>Ice Block: Partisan</color> the <color=#d14e0d>Ice Shatter</color> effect: when the enemy is <color=#d14e0d>Frozen or Iced</color>, there is a <color=#d14e0d>{buffodds}%</color> chance for <color=#d14e0d>Ice Block: Partisan</color> to always CRIT, with CRIT DMG +<color=#d14e0d>{buffper1,11143}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300239",
+     "skillName": "Slow",
+     "skillDesc": "Gives <color=#d14e0d>Ice Rain</color> the <color=#d14e0d>Slow</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300240",
+     "skillName": "Ice Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Icicle</color> skill damage +<color=#d14e0d>20%</color>, plus <color=#d14e0d>Ice damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300241",
+     "skillName": "Frozen",
+     "skillDesc": "Gives <color=#d14e0d>Ice Ball</color> the <color=#d14e0d>Freeze effect</color>, with a <color=#d14e0d>{buffodds}%</color> chance to leave the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>. <color=#d14e0d>If the enemy target takes damage exceeding 15% of its Max HP in this state, the Freeze ends early</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300242",
+     "skillName": "Freeze",
+     "skillDesc": "Gives <color=#d14e0d>Ice Age</color> the <color=#d14e0d>Freeze</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>SPD</color> to <color=#d14e0d>1</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300243",
+     "skillName": "Ice Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Ice Age</color> skill damage +<color=#d14e0d>17%</color>, plus <color=#d14e0d>Ice damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300244",
+     "skillName": "Ice Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Ice Block: Pheasant Beak</color> skill damage +<color=#d14e0d>38%</color>, plus <color=#d14e0d>Ice damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300245",
+     "skillName": "Three Admirals",
+     "skillDesc": "When all three Marine Admirals are fielded together, Aokiji's own <color=#d14e0d>ATK and DEF</color> increase by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300246",
+     "skillName": "Absolute Zero",
+     "skillDesc": "After battle starts, the SPD of characters in the enemy's front two rows is reduced by <color=#d14e0d>{buffper1}%</color> on the first turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300247",
+     "skillName": "Freeze Fruit",
+     "skillDesc": "Aokiji's skills deal extra <color=#d14e0d>Ice damage</color> based on their range, and <color=#d14e0d>Ice damage</color> dealt increases by <color=#d14e0d>{buffper1,14726}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300248",
      "skillName": "Defense Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DEF by {attributeper}%</color>",
@@ -78781,6 +79273,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300250",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300251",
      "skillName": "Block Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Block Rate by {attributevalper}%</color>",
@@ -78790,6 +79288,48 @@
      "skillId": "300252",
      "skillName": "Tenacity Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Tenacity by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300253",
+     "skillName": "Armor Break",
+     "skillDesc": "Gives <color=#d14e0d>Machine Gun Fist</color> the <color=#d14e0d>Armor Break</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>DEF</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300254",
+     "skillName": "Strength",
+     "skillDesc": "Gives <color=#d14e0d>Body Slam</color> the <color=#d14e0d>Strength</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to increase own <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300255",
+     "skillName": "Justice",
+     "skillDesc": "Gives <color=#d14e0d>Fist of Justice</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Justice</color>, making self unaffected by any <color=#d14e0d>buffs</color> or <color=#d14e0d>debuffs</color> except <color=#d14e0d>healing</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300256",
+     "skillName": "Stun",
+     "skillDesc": "Gives <color=#d14e0d>Fist of Love</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Stun</color>, leaving the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300257",
+     "skillName": "Hero's Entrance",
+     "skillDesc": "All Marine faction characters in the lineup gain <color=#d14e0d>ATK and DEF</color> +<color=#d14e0d>{buffper1}%</color>; the bonus disappears after Garp falls.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300258",
+     "skillName": "Fist Full of Love",
+     "skillDesc": "Ignores the <color=#d14e0d>DMG reduction</color> from enemies' active skills, and damage dealt by Garp increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300259",
+     "skillName": "Body Enhancement",
+     "skillDesc": "With a robust physique, the character's <color=#d14e0d>Max HP, DEF and Tenacity</color> increase by <color=#d14e0d>{attributevalper}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -78811,9 +79351,51 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300263",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300264",
      "skillName": "Speed Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300265",
+     "skillName": "Negative Energy",
+     "skillDesc": "Gives <color=#d14e0d>Ursus Shock Bullet</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Negative Energy</color>, inflicting the damage self took last turn on the attacked enemy target, <color=#d14e0d>but not exceeding 200% of own ATK</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300266",
+     "skillName": "Ignore Defense",
+     "skillDesc": "Gives <color=#d14e0d>Bear Paw Impact</color> the <color=#d14e0d>Ignore DEF</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance for this attack to ignore the enemy target's DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300267",
+     "skillName": "Seal",
+     "skillDesc": "Gives <color=#d14e0d>Bear Paw Impact</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Seal</color>, leaving the enemy target <color=#d14e0d>unable to use Ultimate skills</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300268",
+     "skillName": "Paw Pad Fruit",
+     "skillDesc": "Kuma returns <color=#d14e0d>{buffper1}%</color> of the damage he takes to the attacker.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300269",
+     "skillName": "Teleportation",
+     "skillDesc": "Kuma can teleport: when his HP falls below <color=#d14e0d>20%</color>, he automatically moves toward the back of the formation, changing his position, and instantly recovers <color=#d14e0d>{buffper1}%</color> of his Max HP. <color=#d14e0d>Can only trigger once per battle</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300270",
+     "skillName": "Body Modification",
+     "skillDesc": "With a mechanically modified body, <color=#d14e0d>DEF and DMG reduction</color> increase by <color=#d14e0d>{attributeper}%</color>, and he is <color=#d14e0d>immune to Bleed</color>.",
      "buttonEffect": ""
     },
     {
@@ -78829,9 +79411,39 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300273",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300274",
+     "skillName": "Lightning Elemental Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Thunder damage by {buffper1}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300275",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300276",
+     "skillName": "Lightning Elemental Damage",
+     "skillDesc": "Adds <color=#d14e0d>Thunder damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to <color=#d14e0d>Thunderbird</color>. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300277",
+     "skillName": "Electrocution",
+     "skillDesc": "Gives <color=#d14e0d>Ten Thousand Thunders</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Shock</color>: enemies with <color=#d14e0d>Shock</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300278",
+     "skillName": "Lightning Elemental Damage",
+     "skillDesc": "Adds <color=#d14e0d>Thunder damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to <color=#d14e0d>Thunder Dragon</color>. The Attribute damage ignores the enemy target's base DEF.",
      "buttonEffect": ""
     },
     {
@@ -78946,6 +79558,12 @@
      "skillId": "300386",
      "skillName": "Tenacity Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Tenacity by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300387",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
      "buttonEffect": ""
     },
     {
@@ -79183,6 +79801,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300534",
+     "skillName": "Break Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Pierce Rate by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300536",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>",
@@ -79234,6 +79858,12 @@
      "skillId": "300552",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300554",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
      "buttonEffect": ""
     },
     {
@@ -79345,6 +79975,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300575",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300579",
      "skillName": "Speed Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {attributeper}%</color>",
@@ -79405,9 +80041,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300589",
+     "skillName": "Break Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Pierce Rate by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300592",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300593",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
      "buttonEffect": ""
     },
     {
@@ -79450,6 +80098,12 @@
      "skillId": "300602",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300603",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
      "buttonEffect": ""
     },
     {
@@ -79639,6 +80293,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300738",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300739",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>.",
@@ -79735,6 +80395,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300812",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300819",
      "skillName": "Ruler of the Era",
      "skillDesc": "Each turn, there is a <color=#d14e0d>{buffodds}%</color> chance to dispel <color=#d14e0d>2</color> debuffs from self. Enemies attacking Whitebeard have a chance to have their action interrupted.",
@@ -79780,6 +80446,12 @@
      "skillId": "300864",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300865",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
      "buttonEffect": ""
     },
     {
@@ -79867,6 +80539,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300885",
+     "skillName": "Wind Elemental Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Wind damage by {buffper1}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300886",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>.",
@@ -79882,6 +80560,12 @@
      "skillId": "300888",
      "skillName": "Evasion Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Dodge Rate by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300891",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
      "buttonEffect": ""
     },
     {
@@ -79975,6 +80659,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300908",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300909",
+     "skillName": "Break Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Pierce Rate by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300910",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
@@ -80008,6 +80704,12 @@
      "skillId": "300929",
      "skillName": "CRIT DMG Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>CRIT DMG by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300930",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
      "buttonEffect": ""
     },
     {
@@ -80095,6 +80797,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300990",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300991",
      "skillName": "Defense Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DEF by {attributeper}%</color>",
@@ -80176,6 +80884,12 @@
      "skillId": "301033",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301035",
+     "skillName": "DMG Reduction Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
      "buttonEffect": ""
     },
     {
@@ -80869,6 +81583,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "302069",
+     "skillName": "Lightning Elemental Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Thunder damage by {buffper1}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "302070",
      "skillName": "DMG Reduction Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>.",
@@ -81127,6 +81847,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "303012",
+     "skillName": "Seal",
+     "skillDesc": "Gives <color=#d14e0d>Bear Paw Impact</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Seal</color>, leaving the enemy target <color=#d14e0d>unable to use Ultimate skills</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "303025",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>.",
@@ -81148,6 +81874,12 @@
      "skillId": "303028",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303029",
+     "skillName": "Break Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Pierce Rate by {attributevalper}%</color>",
      "buttonEffect": ""
     },
     {
@@ -81436,6 +82168,12 @@
      "skillId": "400071",
      "skillName": "DMG Bonus Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Bonus by {attributevalper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "400073",
+     "skillName": "Lightning Elemental Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Thunder damage by {buffper1}%</color>",
      "buttonEffect": ""
     },
     {
@@ -87997,7 +88735,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "13329/14789 rows translated so far"
+   "partial": "13452/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
