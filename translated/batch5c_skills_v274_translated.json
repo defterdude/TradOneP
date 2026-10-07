@@ -85381,6 +85381,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301802",
+     "skillName": "Counterattack at the Right Moment",
+     "skillDesc": "When the enemy acts, Luffy gains <color=#d14e0d>4</color> stacks of <color=#d14e0d>Counter</color>; each skill the enemy casts reduces Counter by <color=#d14e0d>1</color>. After the enemy acts, if Luffy's <color=#d14e0d>Counter</color> is above <color=#d14e0d>3</color> stacks, he immediately casts a <color=#d14e0d>single-target skill</color> <color=#d14e0d>with no Soul Jade cost and no cooldown</color>, clears all Counter stacks, and has a <color=#d14e0d>{buffper1}%</color> chance to permanently gain <color=#d14e0d>1</color> stack of <color=#d14e0d>Courage</color> along with the matching effect of <color=#d14e0d>Braver with Every Fight</color>. In <color=#d14e0d>normal state</color>, hitting with <color=#d14e0d>1 or 2 Courage</color> can only <color=#d14e0d>Stun the target for 1 turn</color> (the above effects only apply in PvP). When <color=#d14e0d>Ace or Sabo</color> is defeated, he directly gains <color=#d14e0d>4</color> stacks of <color=#d14e0d>Counter</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301803",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
@@ -85420,6 +85426,96 @@
      "skillId": "301809",
      "skillName": "Speed Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301810",
+     "skillName": "Kong Gatling",
+     "skillDesc": "Deals skill damage equal to a percentage of ATK to <color=#d14e0d>all enemies</color>, plus fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301811",
+     "skillName": "Kong Cannon",
+     "skillDesc": "Deals skill damage equal to a percentage of ATK to <color=#d14e0d>a single enemy</color>, plus fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301812",
+     "skillName": "Straw Hat Spirit",
+     "skillDesc": "In normal state, only takes single-target damage; Invincible on the first turn, and can survive a defeat once in the Extension state.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301813",
+     "skillName": "Counterattack at the Right Moment",
+     "skillDesc": "Enemy actions grant Luffy Counter marks; when the marks reach a certain number of stacks, Luffy counterattacks.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301941",
+     "skillName": "Sweets · Speed",
+     "skillDesc": "When casting <color=#d14e0d>Sweet Arrival</color>, <color=#d14e0d>our rearmost character</color> gains <color=#d14e0d>Sweets: Speed</color>, increasing <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1,17145}%</color> of Pudding's SPD <color=#d14e0d>for this turn</color>; if that character has already acted this turn, it gains <color=#d14e0d>1 extra action</color>.$When casting <color=#d14e0d>Sweet Arrival</color>, <color=#d14e0d>our rearmost character</color> gains <color=#d14e0d>Sweets: Speed</color>, increasing <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper3}%</color> of Pudding's SPD and granting 3 extra Soul Jade <color=#d14e0d>for this turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301942",
+     "skillName": "Adhesion",
+     "skillDesc": "When casting <color=#d14e0d>Amnesia Shot</color>, permanently reduces the target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper3,17145}%</color>; <color=#d14e0d>the effect stacks</color>.$When casting <color=#d14e0d>Amnesia Shot</color>, permanently reduces the target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color>; <color=#d14e0d>the effect stacks</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301943",
+     "skillName": "Memory Lock",
+     "skillDesc": "When casting <color=#d14e0d>Memory Thread</color>, there is a <color=#d14e0d>{buffper1}%</color> chance to <color=#d14e0d>randomly lock 1 or 2 of the target's skills</color> for the target's <color=#d14e0d>1</color> action; this does not affect Pudding.$When casting <color=#d14e0d>Memory Thread</color>, there is a <color=#d14e0d>{buffper1}%</color> chance to <color=#d14e0d>randomly lock 1 skill of the opposing target</color> and a <color=#d14e0d>{buffper2}%</color> chance to <color=#d14e0d>randomly lock 1 skill of other targets</color>, for the target's <color=#d14e0d>1</color> action; this does not affect Pudding.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301944",
+     "skillName": "Memory Deletion",
+     "skillDesc": "When casting <color=#d14e0d>Memory Edit</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>Memory Deletion</color>, making the target <color=#d14e0d>forget all active skills (including basic attacks)</color> for <color=#d14e0d>2 turns</color>; this does not affect Pudding.$When casting <color=#d14e0d>Memory Edit</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>Memory Deletion</color>, making the target <color=#d14e0d>forget all active skills (including basic attacks)</color> (PvP only) for <color=#d14e0d>2 turns</color>; this does not affect Pudding.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301946",
+     "skillName": "Flashback",
+     "skillDesc": "When casting <color=#d14e0d>Memory Thread: Flashback</color>, there is a <color=#d14e0d>{buffodds}%</color> chance <color=#d14e0d>to extend the target's <color=#d14e0d>Memory Deletion</color> effect by 1 turn.$When casting <color=#d14e0d>Memory Thread: Flashback</color>, there is a <color=#d14e0d>{buffodds}%</color> chance <color=#d14e0d>to extend the target's <color=#d14e0d>Memory Deletion</color> effect by 1 turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301947",
+     "skillName": "Homie Companion · Nitro",
+     "skillDesc": "Immune to all debuffs from the start of the first turn until Pudding's <color=#d14e0d>first action</color>. When this skill is <color=#d14e0d>on</color>, <color=#d14e0d>SPD</color> is permanently increased by <color=#d14e0d>{buffper3}%</color>; when it is <color=#d14e0d>off</color>, <color=#d14e0d>HP</color> cannot drop below <color=#d14e0d>{buffper2}%</color> until the end of Pudding's first action.$When this skill is <color=#d14e0d>on</color>, <color=#d14e0d>SPD</color> is permanently increased by <color=#d14e0d>{buffper1}%</color> after battle starts; when it is <color=#d14e0d>off</color>, Pudding's <color=#d14e0d>SPD</color> permanently increases by <color=#d14e0d>{buffper1,17118}%</color> each turn, with <color=#d14e0d>the bonus doubled</color> on the first turn, up to <color=#d14e0d>5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301949",
+     "skillName": "Split Personality",
+     "skillDesc": "At <color=#d14e0d>the end of her action</color>, Pudding gains <color=#d14e0d>Deception</color> for this turn: <color=#d14e0d>Deception</color> makes her <color=#d14e0d>not prioritized as a target</color>, and when she <color=#d14e0d>takes lethal damage</color>, she recovers <color=#d14e0d>30%</color> of Max HP, but her <color=#d14e0d>SPD</color> is permanently reduced by <color=#d14e0d>{buffper3,17131}%</color>; for each <color=#d14e0d>lethal hit</color> taken, the permanent <color=#d14e0d>SPD</color> reduction <color=#d14e0d>increases by 5%</color>.$At <color=#d14e0d>the end of her action</color>, Pudding gains <color=#d14e0d>Deception</color> for this turn: <color=#d14e0d>Deception</color> makes her <color=#d14e0d>not prioritized as a target</color>, and when she <color=#d14e0d>takes lethal damage</color>, she recovers <color=#d14e0d>20%</color> of Max HP, but her <color=#d14e0d>SPD</color> is permanently reduced by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301950",
+     "skillName": "Memory-Memory Fruit",
+     "skillDesc": "When taking <color=#d14e0d>lethal damage</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>Memory Deletion</color> to the attacker, up to <color=#d14e0d>2 times</color> per turn, making the target <color=#d14e0d>forget all active skills (including basic attacks)</color> for a random <color=#d14e0d>1 or 2 turns</color>; this does not affect Pudding.$When taking <color=#d14e0d>lethal damage</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>Memory Deletion</color> to the attacker (only applied in PvP), up to <color=#d14e0d>1 time</color> per turn, making the target <color=#d14e0d>forget all active skills (including basic attacks)</color> for <color=#d14e0d>2 turns</color>; this does not affect Pudding.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301951",
+     "skillName": "Homie Companion · Rabian",
+     "skillDesc": "When an ally gains a <color=#d14e0d>Sweets effect</color>, it <color=#d14e0d>dispels all debuffs</color> and recovers <color=#d14e0d>{buffper2}%</color> of Max HP, with <color=#d14e0d>other Big Mom Pirates members</color> recovering an extra <color=#d14e0d>{buffper2}%</color> of Max HP. If Pudding is the <color=#d14e0d>first to act</color>, <color=#d14e0d>Finisher cooldown is cleared</color> at <color=#d14e0d>the end of her action</color>.$When an ally gains a <color=#d14e0d>Sweets effect</color>, it <color=#d14e0d>dispels all debuffs</color> and recovers <color=#d14e0d>{buffper1}%</color> of Max HP, with <color=#d14e0d>Sanji and other Big Mom Pirates members</color> recovering an extra <color=#d14e0d>{buffper1}%</color> of Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301952",
+     "skillName": "Candy Coating · Walker",
+     "skillDesc": "After battle starts, <color=#d14e0d>ATK and Accuracy</color> +<color=#d14e0d>{buffper3}%</color> and gains <color=#d14e0d>2</color> extra Soul Jade each turn. While Pudding is on the field, allies' <color=#d14e0d>Accuracy</color> increases by <color=#d14e0d>{buffper2}%</color> of Pudding's Accuracy; while <color=#d14e0d>Sanji</color> is on the field, <color=#d14e0d>SPD and CRIT</color> also increase by <color=#d14e0d>{buffper2}%</color>.$After battle starts, <color=#d14e0d>ATK and Accuracy</color> +<color=#d14e0d>{buffper2}%</color> and gains <color=#d14e0d>5</color> extra Soul Jade on the first turn. While Pudding is on the field, allies' <color=#d14e0d>Accuracy</color> increases by <color=#d14e0d>{buffper2}%</color> of Pudding's Accuracy, and <color=#d14e0d>all Attribute damage</color> +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301953",
+     "skillName": "Caramel Café Owner",
+     "skillDesc": "After battle starts, <color=#d14e0d>Block, Dodge and Tenacity</color> +<color=#d14e0d>{buffper2}%</color>. When this skill is <color=#d14e0d>on</color>, Pudding's <color=#d14e0d>Block, Dodge and Tenacity</color> become 0 after battle starts, but when Pudding is <color=#d14e0d>defeated</color>, allies' <color=#d14e0d>Block, Dodge and Tenacity</color> increase by <color=#d14e0d>{buffper2}%</color> of Pudding's corresponding stats.$After battle starts, <color=#d14e0d>Block, Dodge and Tenacity</color> +<color=#d14e0d>{buffper1}%</color>. When this skill is <color=#d14e0d>on</color>, Pudding's <color=#d14e0d>Block, Dodge and Tenacity</color> become 0 after battle starts, but when Pudding is <color=#d14e0d>defeated</color>, allies recover <color=#d14e0d>{buffper3}%</color> of Max HP.",
      "buttonEffect": ""
     },
     {
@@ -85465,6 +85561,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "302011",
+     "skillName": "Fire Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Fire Fist</color> skill damage +<color=#d14e0d>33%</color>, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "302012",
      "skillName": "Burn",
      "skillDesc": "Gives <color=#d14e0d>Fire Fist</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Burn</color>: enemies with <color=#d14e0d>Burn</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
@@ -85474,6 +85576,102 @@
      "skillId": "302013",
      "skillName": "Burn",
      "skillDesc": "Gives <color=#d14e0d>Mirror Fire</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Burn</color>: enemies with <color=#d14e0d>Burn</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302014",
+     "skillName": "Burn",
+     "skillDesc": "Gives <color=#d14e0d>Hotarubi: Hidaruma</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Burn</color>: enemies with <color=#d14e0d>Burn</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302015",
+     "skillName": "Fire Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Shinka: Shiranui</color> skill damage +<color=#d14e0d>33%</color>, plus <color=#d14e0d>2</color> hits of <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302016",
+     "skillName": "Flame Pierce",
+     "skillDesc": "<color=#d14e0d>Cross Fire</color> skill damage +<color=#d14e0d>14%</color>, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK, which ignores the enemy target's base DEF; <color=#d14e0d>all damage</color> +<color=#d14e0d>{buffper2}%</color>, and each enemy target hit increases <color=#d14e0d>all damage</color> to the next target by an extra <color=#d14e0d>{buffper3}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302017",
+     "skillName": "Spread",
+     "skillDesc": "When casting <color=#d14e0d>Flame Commandment: Pillar of Fire</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to spread <color=#d14e0d>1 stack of Burn</color> on the target to <color=#d14e0d>all enemies</color> in turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302018",
+     "skillName": "Flame Wave",
+     "skillDesc": "When casting <color=#d14e0d>Great Flame Commandment: Flame Emperor</color>, <color=#d14e0d>all damage</color> +<color=#d14e0d>{buffper1}%</color>; on <color=#d14e0d>odd</color> turns, <color=#d14e0d>the bonus is doubled</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302019",
+     "skillName": "Fire Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Great Flame Commandment: Flame Emperor</color> skill damage +<color=#d14e0d>17%</color>, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302020",
+     "skillName": "Burn",
+     "skillDesc": "<color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Burn</color>; on hit, if the target has more than <color=#d14e0d>20 stacks</color> of <color=#d14e0d>Flammable</color>, burns away <color=#d14e0d>2 Soul Jade</color> and <color=#d14e0d>20 Rage</color> from the target.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302021",
+     "skillName": "Flame Burst",
+     "skillDesc": "When <color=#d14e0d>Fire Fist: Fury Flame</color> hits, if the target has fewer than <color=#d14e0d>30 stacks</color> of <color=#d14e0d>Flammable</color>, it applies an extra <color=#d14e0d>7 stacks of Flammable</color> (requires unlocking <color=#d14e0d>Flammable</color>); if the target has more than <color=#d14e0d>30 stacks</color> of <color=#d14e0d>Flammable</color>, each <color=#d14e0d>Flammable</color> stack increases <color=#d14e0d>all damage</color> the target takes by <color=#d14e0d>{buffper1,17019}%</color>, deals an extra <color=#d14e0d>{buffper1}%</color> <color=#d14e0d>Fire damage</color>, and clears <color=#d14e0d>15 stacks</color> (5 more for every 10 stacks above).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302022",
+     "skillName": "Flammable",
+     "skillDesc": "While Ace is on the field, each time an enemy takes <color=#d14e0d>Fire damage</color>, it gains <color=#d14e0d>1 stack of Flammable</color>, permanently reducing its <color=#d14e0d>Fire RES</color> by <color=#d14e0d>{buffper1}%</color>, up to <color=#d14e0d>60 stacks</color>. When Ace is defeated, all <color=#d14e0d>Burn</color> effects on the enemy field last until <color=#d14e0d>the end of battle</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302023",
+     "skillName": "Deep Brotherly Bond",
+     "skillDesc": "After battle starts, <color=#d14e0d>ATK and Max HP</color> +<color=#d14e0d>{buffper1}%</color>, and gains <color=#d14e0d>2 Soul Jade</color> and <color=#d14e0d>50 Rage</color> extra each turn. When fielded with <color=#d14e0d>Luffy or Sabo</color>, <color=#d14e0d>SPD</color> also +<color=#d14e0d>{buffper1}%</color>, and own <color=#d14e0d>SPD and CRIT</color> +<color=#d14e0d>{buffper1,17024}%</color> extra.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302024",
+     "skillName": "Flame Shield",
+     "skillDesc": "After attacking, gains a Flame Shield equal to <color=#d14e0d>20%</color> of the damage dealt. Attackers who hit Ace while he has <color=#d14e0d>any Shield</color> take <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of their Max HP (greatly reduced outside PvP) and <color=#d14e0d>1 stack of Burn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302025",
+     "skillName": "Blaze Fruit",
+     "skillDesc": "After battle starts, <color=#d14e0d>Fire damage</color> +<color=#d14e0d>{buffper1}%</color>; <color=#d14e0d>Burn</color> applied by Ace lasts <color=#d14e0d>1 turn</color> longer, and <color=#d14e0d>Burn</color> damage is greatly increased.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302026",
+     "skillName": "Power of Flame",
+     "skillDesc": "When Ace attacks enemies with <color=#d14e0d>Burn</color>, he gains <color=#d14e0d>1 stack of Warm-Up</color>; when he takes <color=#d14e0d>Fire damage</color>, he gains <color=#d14e0d>2 stacks of Warm-Up</color>. After casting his <color=#d14e0d>Ultimate</color>, if <color=#d14e0d>Warm-Up</color> reaches <color=#d14e0d>4 stacks</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>cast Flame Commandment: Pillar of Fire once for free</color> and clear all <color=#d14e0d>Warm-Up</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302027",
+     "skillName": "Body of Flame",
+     "skillDesc": "Immune to <color=#d14e0d>Ice damage, Freeze and Ice</color>, and when attacked by enemies with <color=#d14e0d>debuffs</color>, <color=#d14e0d>final damage</color> taken is reduced by <color=#d14e0d>{buffper1,17029}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302028",
+     "skillName": "Dancing Flames",
+     "skillDesc": "After battle starts, <color=#d14e0d>SPD, ATK and Accuracy</color> +<color=#d14e0d>{buffper1}%</color>, and skills deal heavy extra <color=#d14e0d>Fire damage</color>. Against enemies under <color=#d14e0d>Burn</color>, he ignores their <color=#d14e0d>Attribute DMG reduction</color>, and the <color=#d14e0d>Flammable</color> stacks applied when they take <color=#d14e0d>Fire damage</color> are <color=#d14e0d>doubled</color> (requires unlocking <color=#d14e0d>Flammable</color>); <color=#d14e0d>Spread</color> can additionally spread <color=#d14e0d>1 stack of Flammable</color> on the target to <color=#d14e0d>all enemies</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302029",
+     "skillName": "Undying Blaze",
+     "skillDesc": "At battle start, <color=#d14e0d>all enemies</color> gain <color=#d14e0d>15 stacks of Flammable</color> (requires unlocking <color=#d14e0d>Flammable</color>). If Ace is controlled by the enemy when acting, all enemies gain <color=#d14e0d>10 stacks of Flammable</color>. When Ace takes lethal damage, if the enemy has <color=#d14e0d>10 or more Flammable stacks</color> (+5 every 3 turns, up to 20), he clears <color=#d14e0d>10 Flammable stacks</color> (+5 every 3 turns, up to 20), dispels all his debuffs, interrupts the current target's action, recovers <color=#d14e0d>{buffper1,17017}%</color> HP and Shield, and reduces the target's <color=#d14e0d>ATK</color> to <color=#d14e0d>1</color> (until the end of this turn). Debuffs applied by Ace <color=#d14e0d>cannot be resisted</color>; enemies with <color=#d14e0d>more than 10 Flammable stacks</color> cannot apply debuffs to Ace; and when Ace's attack is Dodged, there is a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>1 stack of Burn</color> to the target.",
      "buttonEffect": ""
     },
     {
@@ -85519,6 +85717,102 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "302051",
+     "skillName": "Crit",
+     "skillDesc": "When casting <color=#d14e0d>Thunderbird</color>, all allies' <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302052",
+     "skillName": "Scorching Thunder",
+     "skillDesc": "When casting <color=#d14e0d>Thunder Dragon</color>, if Enel has at least 50 Rage, he consumes 50 Rage to deal an extra <color=#d14e0d>{buffper1,17202}%</color> Thunder damage and reduce the target's <color=#d14e0d>Tenacity</color> and <color=#d14e0d>CRIT DMG RES</color> by <color=#d14e0d>{buffper1}%</color>, doubled against targets with a <color=#d14e0d>Shield</color>, for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302053",
+     "skillName": "Lightning Blessing",
+     "skillDesc": "When casting <color=#d14e0d>Ten Thousand Thunders</color>, if Enel has at least 50 Rage, he consumes 50 Rage to increase all allies' <color=#d14e0d>CRIT DMG</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302054",
+     "skillName": "Lightning Cycle",
+     "skillDesc": "Gives <color=#d14e0d>Divine Thunder</color> an extra <color=#d14e0d>{buffper1}%</color> Thunder damage, and reduces all <color=#d14e0d>Finisher skill</color> cooldowns by <color=#d14e0d>1</color> turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302055",
+     "skillName": "Ultimate Extension",
+     "skillDesc": "After casting <color=#d14e0d>Raigo</color>, Enel activates <color=#d14e0d>Thunder God form</color>. In <color=#d14e0d>Thunder God form</color>, Enel gains <color=#d14e0d>{buffper1,17260}%</color> <color=#d14e0d>final DMG reduction</color>, and his <color=#d14e0d>all DMG Bonus</color>, <color=#d14e0d>CRIT Rate</color> and <color=#d14e0d>CRIT DMG</color> increase by <color=#d14e0d>{buffper1}%</color>, for 2 turns,",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302056",
+     "skillName": "Lightning Enhancement",
+     "skillDesc": "Gives <color=#d14e0d>God's Judgment</color> an extra <color=#d14e0d>{buffper1,17202}%</color> Thunder damage and increases Enel's <color=#d14e0d>ATK</color> and <color=#d14e0d>Thunder damage</color> by <color=#d14e0d>{buffper1}%</color> until <color=#d14e0d>the end of this turn</color>; on CRIT, gains <color=#d14e0d>1</color> extra Magatama.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302057",
+     "skillName": "Lightning Elemental Damage",
+     "skillDesc": "Gives <color=#d14e0d>Ten Million Volt: Thunder Beast</color> an extra <color=#d14e0d>{buffper1}%</color> Thunder damage, <color=#d14e0d>doubled</color> against targets with a <color=#d14e0d>Shield</color>, and grants <color=#d14e0d>a random ally</color> <color=#d14e0d>Removal Immunity</color> for <color=#d14e0d>2</color> turns, prioritizing the character in front of him.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302058",
+     "skillName": "Divine Punishment",
+     "skillDesc": "When casting <color=#d14e0d>Thunder God</color>, if Enel has <color=#d14e0d>2</color> Divine Punishment Magatama and the target's <color=#d14e0d>current HP</color> is below <color=#d14e0d>{buffper1}%</color>, he consumes <color=#d14e0d>2</color> Divine Punishment Magatama to bring down <color=#d14e0d>Divine Punishment</color>, <color=#d14e0d>removing the target from battle</color> on hit, and exits <color=#d14e0d>Thunder God form</color> (only in <color=#d14e0d>PvP</color>).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302059",
+     "skillName": "Electric Shock Heart",
+     "skillDesc": "Before his first action, Enel is <color=#d14e0d>Invincible</color> and <color=#d14e0d>immune to all debuffs</color>. When he takes lethal damage while allies other than Enel remain (not Banished), he brings down the Thunder God's halberd and elementalizes: <color=#d14e0d>Invincible</color>, <color=#d14e0d>immune to all debuffs</color>, <color=#d14e0d>untargetable</color> but <color=#d14e0d>unable to act</color>, while all allies' <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1}%</color>. Each skill CRIT by a teammate shocks Enel's heart once; before Enel acts, if he has received <color=#d14e0d>4</color> or more shocks (<color=#d14e0d>2</color> with <color=#d14e0d>5 Magatama</color> or in <color=#d14e0d>Overload</color>), he clears all <color=#d14e0d>debuffs</color> and <color=#d14e0d>revives</color>. If shocks are insufficient, he can consume <color=#d14e0d>1</color> <color=#d14e0d>Divine Punishment Magatama</color> to clear all <color=#d14e0d>debuffs</color> and <color=#d14e0d>revive</color>. When a teammate dies, if <color=#d14e0d>only Enel remains</color> on our side and he is <color=#d14e0d>elementalized</color>, he leaves the field.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302060",
+     "skillName": "Lightning",
+     "skillDesc": "At battle start, Enel gains <color=#d14e0d>50</color> Rage; at turn start, there is a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>3</color> Magatama and <color=#d14e0d>5</color> Soul Jade, and in Thunder God form, <color=#d14e0d>skill costs are reduced by 2</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302061",
+     "skillName": "Flash Thunder",
+     "skillDesc": "When Enel's <color=#d14e0d>skills CRIT</color>, he gains <color=#d14e0d>1</color> Magatama (<color=#d14e0d>2</color> in normal form), with a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Paralysis</color> for <color=#d14e0d>1</color> turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302062",
+     "skillName": "Rumble-Rumble Fruit",
+     "skillDesc": "Enel is immune to <color=#d14e0d>Paralysis</color>, and each <color=#d14e0d>1</color> Magatama consumed permanently increases Thunder damage by <color=#d14e0d>{buffper1}%</color>, up to {buffper2}%,",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302063",
+     "skillName": "Sense Divine Power",
+     "skillDesc": "Characters in <color=#d14e0d>Overload</color> gain <color=#d14e0d>ATK</color> and <color=#d14e0d>Accuracy</color> +<color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper3}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302064",
+     "skillName": "Mind Net",
+     "skillDesc": "After battle starts, <color=#d14e0d>ATK</color>, <color=#d14e0d>Accuracy</color>, <color=#d14e0d>CRIT</color> and <color=#d14e0d>HP</color> +<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302065",
+     "skillName": "Ancient Magatama",
+     "skillDesc": "Enel starts with <color=#d14e0d>1</color> Divine Punishment Magatama. After casting a skill, if he has <color=#d14e0d>5</color> Magatama, he consumes <color=#d14e0d>5 Magatama</color> to forge <color=#d14e0d>1</color> extra Divine Punishment Magatama. After Enel acts, if he forged a <color=#d14e0d>Divine Punishment Magatama</color> this turn, all allies enter <color=#d14e0d>Overload</color> until Enel's <color=#d14e0d>next action ends</color>. In <color=#d14e0d>Overload</color>, a character's <color=#d14e0d>first skill</color> <color=#d14e0d>always CRITs</color>, <color=#d14e0d>cannot be interrupted</color> and <color=#d14e0d>is immune to control</color>, with a <color=#d14e0d>{buffodds}%</color> chance to refund the <color=#d14e0d>Soul Jade</color> spent; when hit by an enemy skill, there is a <color=#d14e0d>{buffper1,11144}%</color> chance to <color=#d14e0d>Paralyze</color> the attacker. At battle start, all allies enter <color=#d14e0d>Overload</color> until Enel's <color=#d14e0d>next action ends</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302066",
+     "skillName": "Lightning Cage",
+     "skillDesc": "Characters in <color=#d14e0d>Overload</color> can deal <color=#d14e0d>Attribute damage</color> that <color=#d14e0d>CRITs</color>, and their <color=#d14e0d>CRIT Rate</color> and <color=#d14e0d>CRIT DMG</color> +<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "302067",
      "skillName": "DMG Bonus Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Bonus by {attributevalper}%</color>.",
@@ -85558,6 +85852,36 @@
      "skillId": "302073",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302249",
+     "skillName": "Accuracy",
+     "skillDesc": "When attacking, own <color=#d14e0d>Accuracy</color> +<color=#d14e0d>{buffper1,17804}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302250",
+     "skillName": "Fear",
+     "skillDesc": "When <color=#d14e0d>Sables</color> hits a target, the target's Accuracy when casting skills is reduced by <color=#d14e0d>{buffper3,17805}%</color> of its current value for 2 turns; does not stack. Spread by the Ultimate's Erosion state.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302251",
+     "skillName": "Bleed",
+     "skillDesc": "Gives <color=#d14e0d>Desert Spada</color> the <color=#d14e0d>Hemorrhage</color> effect: enemies with <color=#d14e0d>Hemorrhage</color> lose <color=#d14e0d>{buffper1,17877}%</color> of their <color=#d14e0d>HP</color> after acting each turn, <color=#d14e0d>lasting 2 turns</color> (one tenth of the value in PvE); the effect <color=#d14e0d>stacks up to 3 times</color>. Spread by the Ultimate's Erosion state.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302252",
+     "skillName": "Sand Strike",
+     "skillDesc": "When <color=#d14e0d>Desert Greatsword</color> hits a target, the target's ATK when casting skills is reduced by <color=#d14e0d>{buffper3,17807}%</color> of its current value for 2 turns; does not stack. Spread by the Ultimate's Erosion state.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302253",
+     "skillName": "Certain Kill",
+     "skillDesc": "In sand form, <color=#d14e0d>Barjan</color> consumes own <color=#d14e0d>sand form</color> and has a <color=#d14e0d>{buffodds}%</color> chance to remove the enemy on hit (PvP only); each <color=#d14e0d>1</color> stack of <color=#d14e0d>Deadly Poison</color> on the target raises the chance by <color=#d14e0d>10</color>%.",
      "buttonEffect": ""
     },
     {
@@ -86137,6 +86461,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "400009",
+     "skillName": "Fire Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Fire Fist</color> skill damage +<color=#d14e0d>33%</color>, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "400010",
      "skillName": "Burn",
      "skillDesc": "Gives <color=#d14e0d>Fire Fist</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Burn</color>: enemies with <color=#d14e0d>Burn</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
@@ -86146,6 +86476,54 @@
      "skillId": "400011",
      "skillName": "Burn",
      "skillDesc": "Gives <color=#d14e0d>Mirror Fire</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Burn</color>: enemies with <color=#d14e0d>Burn</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "400012",
+     "skillName": "Burn",
+     "skillDesc": "Gives <color=#d14e0d>Hotarubi: Hidaruma</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Burn</color>: enemies with <color=#d14e0d>Burn</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "400013",
+     "skillName": "Fire Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Shinka: Shiranui</color> skill damage +<color=#d14e0d>33%</color>, plus <color=#d14e0d>2</color> hits of <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "400014",
+     "skillName": "Flame Pierce",
+     "skillDesc": "<color=#d14e0d>Cross Fire</color> skill damage +<color=#d14e0d>14%</color>, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK, which ignores the enemy target's base DEF; <color=#d14e0d>all damage</color> +<color=#d14e0d>{buffper2}%</color>, and each enemy target hit increases <color=#d14e0d>all damage</color> to the next target by an extra <color=#d14e0d>{buffper3}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "400015",
+     "skillName": "Spread",
+     "skillDesc": "When casting <color=#d14e0d>Flame Commandment: Pillar of Fire</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to spread <color=#d14e0d>1 stack of Burn</color> on the target to <color=#d14e0d>all enemies</color> in turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "400016",
+     "skillName": "Flame Wave",
+     "skillDesc": "When casting <color=#d14e0d>Great Flame Commandment: Flame Emperor</color>, <color=#d14e0d>all damage</color> +<color=#d14e0d>{buffper1}%</color>; on <color=#d14e0d>odd</color> turns, <color=#d14e0d>the bonus is doubled</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "400017",
+     "skillName": "Fire Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Great Flame Commandment: Flame Emperor</color> skill damage +<color=#d14e0d>17%</color>, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "400020",
+     "skillName": "Flame Shield",
+     "skillDesc": "After attacking, gains a Flame Shield equal to <color=#d14e0d>20%</color> of the damage dealt. Attackers who hit Ace while he has <color=#d14e0d>any Shield</color> take <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of their Max HP (greatly reduced outside PvP) and <color=#d14e0d>1 stack of Burn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "400021",
+     "skillName": "Blaze Fruit",
+     "skillDesc": "After battle starts, <color=#d14e0d>Fire damage</color> +<color=#d14e0d>{buffper1}%</color>; <color=#d14e0d>Burn</color> applied by Ace lasts <color=#d14e0d>1 turn</color> longer, and <color=#d14e0d>Burn</color> damage is greatly increased.",
      "buttonEffect": ""
     },
     {
@@ -92815,7 +93193,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "14132/14789 rows translated so far"
+   "partial": "14195/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
