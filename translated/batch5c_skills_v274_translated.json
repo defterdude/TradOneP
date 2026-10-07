@@ -83791,6 +83791,30 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301124",
+     "skillName": "Sky Walk",
+     "skillDesc": "At battle start, Dodge +<color=#d14e0d>{buffper1}%</color> and gains <color=#d14e0d>3</color> extra Soul Jade each turn. When hit by <color=#d14e0d>an attack that was not Dodged</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to increase Dodge by <color=#d14e0d>{buffper2}%</color>, up to <color=#d14e0d>3 times</color>, for <color=#d14e0d>2 turns</color>.$$At battle start, Dodge +<color=#d14e0d>{buffper1,14405}%</color> and gains <color=#d14e0d>3</color> extra Soul Jade and <color=#d14e0d>20</color> Rage each turn. When hit by <color=#d14e0d>an attack that was not Dodged</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to increase Dodge by <color=#d14e0d>{buffper2}%</color>, up to <color=#d14e0d>3 times</color>, for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301125",
+     "skillName": "Kick Mastery",
+     "skillDesc": "Skill CRITs deal <color=#d14e0d>heavy extra Fire damage</color>, and enemies hit by Sanji have a <color=#d14e0d>{buffodds}%</color> chance to lose all Tenacity for <color=#d14e0d>1 turn</color>.$$Skill CRITs deal <color=#d14e0d>heavy extra Fire damage</color>, and when Sanji attacks, enemies have a <color=#d14e0d>{buffodds}%</color> chance to lose <color=#d14e0d>50%</color> of their <color=#d14e0d>CRIT DMG RES</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301126",
+     "skillName": "Chivalry",
+     "skillDesc": "At battle start, <color=#d14e0d>Max HP</color>, <color=#d14e0d>SPD</color> and <color=#d14e0d>DMG reduction</color> +<color=#d14e0d>{buffper1}%</color>, and for each <color=#d14e0d>female character</color> on our side, Sanji's DEF +<color=#d14e0d>{buffper2}%</color>.$$At battle start, <color=#d14e0d>Max HP</color>, <color=#d14e0d>SPD</color> and <color=#d14e0d>all DMG reduction</color> +<color=#d14e0d>{buffper1,14407}%</color>, and for each <color=#d14e0d>female character</color> on our side, Sanji's DEF +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301127",
+     "skillName": "\"Straw Hat\" Cook",
+     "skillDesc": "At battle start, Fire damage +<color=#d14e0d>{buffper1}%</color>, and <color=#d14e0d>CRIT</color> and <color=#d14e0d>SPD</color> cannot be reduced. While Sanji is on the field, all Straw Hat Crew members' <color=#d14e0d>Dodge</color> and <color=#d14e0d>Accuracy</color> +<color=#d14e0d>{buffper2}%</color>.$$At battle start, Fire damage +<color=#d14e0d>{buffper1}%</color>. While Sanji is on the field, all other Straw Hat Crew members' <color=#d14e0d>Dodge</color> +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301128",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
@@ -83830,6 +83854,84 @@
      "skillId": "301134",
      "skillName": "Fire Elemental Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Fire damage by {buffper1}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301135",
+     "skillName": "Self-Heal",
+     "skillDesc": "Gives <color=#d14e0d>Spinning Attack</color> the <color=#d14e0d>Self-Heal</color> effect, recovering HP equal to <color=#d14e0d>{buffper1}%</color> of own Max HP and gaining <color=#d14e0d>{buffval2}</color> Rage.$Gives <color=#d14e0d>Spinning Attack</color> the <color=#d14e0d>Self-Heal</color> effect, restoring <color=#d14e0d>{buffper1}%</color> HP to the ally with the lowest current HP percentage and granting <color=#d14e0d>{buffper1,14719}</color> Rage to that target and self.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301136",
+     "skillName": "Recovery",
+     "skillDesc": "Gives <color=#d14e0d>Guard Point Boost</color> the <color=#d14e0d>Recovery</color> effect, restoring HP equal to <color=#d14e0d>{buffper1}%</color> of Max HP to all allies (excluding summons) and granting <color=#d14e0d>2</color> extra Soul Jade.$Gives <color=#d14e0d>Guard Point Boost</color> the <color=#d14e0d>Recovery</color> effect, restoring HP equal to <color=#d14e0d>{buffper1}%</color> of Max HP to all allies (excluding summons) and granting self <color=#d14e0d>2</color> Soul Jade.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301137",
+     "skillName": "Weak Point",
+     "skillDesc": "Gives <color=#d14e0d>Diagnosis</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Weak Point</color>, increasing the target's <color=#d14e0d>damage taken</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.$Gives <color=#d14e0d>Diagnosis</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Weak Point</color>, increasing the chance for the target to be CRIT when hit by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301138",
+     "skillName": "Ignore Defense",
+     "skillDesc": "Gives <color=#d14e0d>Horn Cannon</color> the <color=#d14e0d>Ignore DEF</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance for this attack to ignore the enemy target's DEF.$Gives <color=#d14e0d>Horn Cannon</color> the <color=#d14e0d>Guard Break</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance for this attack to ignore <color=#d14e0d>50%</color> of the enemy target's DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301139",
+     "skillName": "Sedative",
+     "skillDesc": "When casting <color=#d14e0d>Cherry Blossom Barrage</color>, all enemies' <color=#d14e0d>ATK, CRIT and Accuracy</color> -<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.$When casting <color=#d14e0d>Cherry Blossom Barrage</color>, all enemies' <color=#d14e0d>ATK, CRIT and Accuracy</color> -<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>, and for the next three turns all allies recover <color=#d14e0d>{buffper1,14708}%</color> of their HP before acting.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301140",
+     "skillName": "Banish",
+     "skillDesc": "When casting <color=#d14e0d>Hoofprint · Coconut</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Banish</color>: if no kill is scored, the target is knocked away and <color=#d14e0d>vanishes for 1 turn</color>, during which it cannot attack or be attacked. When it reappears, it lands in a random empty position. <color=#d14e0d>If the enemy has only one character on the field, it falls immediately</color>.$When casting <color=#d14e0d>Hoofprint · Coconut</color>, if no kill is scored, there is a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Stun</color> until the end of this turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301141",
+     "skillName": "Rampage",
+     "skillDesc": "When casting <color=#d14e0d>Hoofprint · Coconut</color>, own <color=#d14e0d>ATK, DEF, CRIT and Tenacity</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.$When casting <color=#d14e0d>Hoofprint · Coconut</color>, own <color=#d14e0d>ATK, DEF, CRIT and Tenacity</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>, and Finisher cooldown is reduced by 1 turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301142",
+     "skillName": "Elation",
+     "skillDesc": "At turn start, dispels <color=#d14e0d>2</color> dispellable debuffs from <color=#d14e0d>each ally</color>, and their <color=#d14e0d>ATK, Accuracy and all DMG reduction</color> +<color=#d14e0d>{buffper1}%</color> and all damage +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>1 turn</color>.$At turn start, <color=#d14e0d>all allies</color>' <color=#d14e0d>Accuracy, all DMG reduction and Tenacity</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>1 turn</color>. After Chopper acts, if a teammate has fallen, he consumes 2 Medical Potions to revive 1 teammate; can trigger once every 2 turns. Revived teammates cannot enter Ultimate Extension.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301143",
+     "skillName": "Doctor's Orders",
+     "skillDesc": "Starts the battle carrying <color=#d14e0d>3</color> Medical Potions; each potion increases Chopper's <color=#d14e0d>all DMG reduction</color> by <color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>Healing</color> by <color=#d14e0d>{buffper1}%</color>. Casting Spinning Attack or Guard Point Boost consumes <color=#d14e0d>1</color> potion; casting a Finisher grants <color=#d14e0d>1</color>, up to <color=#d14e0d>5</color>.$Starts the battle carrying <color=#d14e0d>3</color> Medical Potions; each potion increases Chopper's <color=#d14e0d>all DMG reduction</color> by <color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>Healing</color> by <color=#d14e0d>{buffper1}%</color>. Casting Spinning Attack or Guard Point Boost consumes <color=#d14e0d>1</color> potion; casting a Finisher or Ultimate grants <color=#d14e0d>1</color>, up to <color=#d14e0d>5</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301144",
+     "skillName": "Wrestling Enhancement",
+     "skillDesc": "After battle starts, Chopper's <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper1}%</color>. Each time a Medical Potion is consumed, there is a <color=#d14e0d>{buffodds}%</color> chance to reduce <color=#d14e0d>CRIT DMG</color> taken by <color=#d14e0d>{buffper2}%</color> (takes effect after unlocking \"Doctor's Orders\"), for <color=#d14e0d>2</color> turns.$After battle starts, Chopper's <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper1}%</color>. Each time a skill consumes a Medical Potion, there is a <color=#d14e0d>{buffodds}%</color> chance to reduce <color=#d14e0d>CRIT DMG</color> taken by <color=#d14e0d>{buffper2}%</color> (takes effect after unlocking \"Doctor's Orders\"), for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301145",
+     "skillName": "Monster Enhancement",
+     "skillDesc": "When taking lethal damage, there is a <color=#d14e0d>{buffodds}%</color> chance not to die and to immediately <color=#d14e0d>interrupt the current target's action</color>. Triggers at most <color=#d14e0d>1 time</color> per battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301146",
+     "skillName": "Kung Fu Enhancement",
+     "skillDesc": "When taking lethal damage, restores HP equal to <color=#d14e0d>{buffper1}%</color> of Max HP to the other allies (excluding summons); if Chopper does not die, he recovers <color=#d14e0d>{buffper1}%</color> of his Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301147",
+     "skillName": "Straw Hat Doctor",
+     "skillDesc": "After battle starts, Chopper's <color=#d14e0d>Max HP and DEF</color> +<color=#d14e0d>{buffper1}%</color>, and his healing on <color=#d14e0d>Straw Hat Crew members</color> increases by <color=#d14e0d>10%</color>.",
      "buttonEffect": ""
     },
     {
@@ -83875,6 +83977,78 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301197",
+     "skillName": "Frozen",
+     "skillDesc": "Gives <color=#d14e0d>Aubade: Sword Thrust</color> the <color=#d14e0d>Freeze effect</color>, with a <color=#d14e0d>{buffodds}%</color> chance to leave the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>. <color=#d14e0d>If the enemy target takes damage exceeding 15% of its Max HP in this state, the Freeze ends early</color>.$Gives <color=#d14e0d>Aubade: Sword Thrust</color> the <color=#d14e0d>Freeze effect</color>, with a <color=#d14e0d>{buffodds}%</color> chance to leave the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>; if the target is <color=#d14e0d>asleep</color>, the Freeze chance increases by <color=#d14e0d>20%</color>. <color=#d14e0d>If the enemy target takes damage exceeding 15% of its Max HP in this state, the Freeze ends early</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301198",
+     "skillName": "Slow",
+     "skillDesc": "Gives <color=#d14e0d>Swallow Song: Swallowtail Flag</color> the <color=#d14e0d>Slow</color> effect, reducing the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301200",
+     "skillName": "Hypnosis",
+     "skillDesc": "Casting <color=#d14e0d>Lullaby Rondo</color> has a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>Hypnosis</color> to <color=#d14e0d>all enemies</color>, putting them to sleep: while it lasts they cannot attack, but wake up when hit by any attack. Lasts <color=#d14e0d>2</color> turns.$Casting <color=#d14e0d>Lullaby Rondo</color> has a <color=#d14e0d>{buffper1,13138}%</color> chance to apply <color=#d14e0d>Hypnosis</color> to <color=#d14e0d>all enemies</color>, putting them to sleep: while it lasts they cannot attack, but wake up when hit by any attack. Lasts <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301201",
+     "skillName": "Scattered",
+     "skillDesc": "Gives <color=#d14e0d>Fantasia</color> the <color=#d14e0d>Scattered effect</color>, reducing the target's <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>CRIT</color> by <color=#d14e0d>{buffper2}%</color> for <color=#d14e0d>2 turns</color>.$Gives <color=#d14e0d>Fantasia</color> the <color=#d14e0d>Scattered effect</color>, reducing the target's <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1,13100}%</color> and <color=#d14e0d>CRIT</color> by <color=#d14e0d>{buffper2,13100}%</color> for <color=#d14e0d>1 action</color>; if the enemy is <color=#d14e0d>asleep</color>, the effect lasts <color=#d14e0d>2 actions</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301202",
+     "skillName": "Frozen",
+     "skillDesc": "Gives <color=#d14e0d>Soul Solid: Frozen Road</color> the <color=#d14e0d>Freeze effect</color>, with a <color=#d14e0d>{buffodds}%</color> chance to leave the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>. <color=#d14e0d>If the enemy target takes damage exceeding 15% of its Max HP in this state, the Freeze ends early</color>.$Gives <color=#d14e0d>Soul Solid: Frozen Road</color> the <color=#d14e0d>all-target Freeze effect</color>, with a <color=#d14e0d>{buffper1,13136}%</color> chance to leave the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>; if the target is <color=#d14e0d>asleep</color>, the Freeze chance increases by <color=#d14e0d>20%</color>. <color=#d14e0d>If the enemy target takes damage exceeding 15% of its Max HP in this state, the Freeze ends early</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301203",
+     "skillName": "Chill Wrap",
+     "skillDesc": "When casting <color=#d14e0d>Blizzard Slash</color>, <color=#d14e0d>Ice damage</color> dealt +<color=#d14e0d>{buffper1}%</color>, and if the target is <color=#d14e0d>Frozen or asleep</color>, it <color=#d14e0d>always CRITs</color>.$When casting <color=#d14e0d>Blizzard Slash</color>, <color=#d14e0d>Ice damage</color> dealt +<color=#d14e0d>{buffper1,13101}%</color>, and if the target is <color=#d14e0d>Frozen or asleep</color>, this skill's CRIT DMG increases by <color=#d14e0d>{buffper1,13102}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301205",
+     "skillName": "Revive-Revive Fruit",
+     "skillDesc": "When Brook takes lethal damage, there is a <color=#d14e0d>{buffodds}%</color> chance not to die and to become <color=#d14e0d>Invincible</color> and <color=#d14e0d>untargetable</color> for <color=#d14e0d>2 turns</color> or until <color=#d14e0d>all his teammates die</color>, but he <color=#d14e0d>can no longer cast his Ultimate</color> in this state. Triggers at most <color=#d14e0d>1 time</color> per battle.$When Brook takes lethal damage, there is a <color=#d14e0d>{buffodds}%</color> chance not to die, to recover <color=#d14e0d>full HP</color> and gain an <color=#d14e0d>HP Lock</color>, and to become <color=#d14e0d>untargetable</color> for <color=#d14e0d>2 turns</color> or until <color=#d14e0d>all his teammates die</color>, but he <color=#d14e0d>can no longer cast his Ultimate</color> in this state, and after it ends Brook <color=#d14e0d>dies immediately when attacked</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301206",
+     "skillName": "Mastery of Cold",
+     "skillDesc": "After battle starts, Brook's <color=#d14e0d>Ice damage</color> +<color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>Accuracy</color> +<color=#d14e0d>{buffper1}%</color>, and all his skills deal <color=#d14e0d>Ice damage</color> based on attack range.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301207",
+     "skillName": "Fencing Master",
+     "skillDesc": "After battle starts, Brook's <color=#d14e0d>Dodge and SPD</color> +<color=#d14e0d>{buffper1}%</color>, and he gains <color=#d14e0d>3</color> extra Soul Jade and <color=#d14e0d>20</color> Rage each turn.$After battle starts, Brook's <color=#d14e0d>Dodge and SPD</color> +<color=#d14e0d>{buffper1}%</color>, and he gains <color=#d14e0d>3</color> extra Soul Jade and <color=#d14e0d>30</color> Rage each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301208",
+     "skillName": "Straw Hat Musician",
+     "skillDesc": "At battle start, all allies' <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper1}%</color> and all enemies' <color=#d14e0d>Accuracy</color> -<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301209",
+     "skillName": "Soul King",
+     "skillDesc": "Targets Frozen by Brook have their <color=#d14e0d>DEF and DMG reduction</color> reduced by <color=#d14e0d>{buffper1}%</color>, and their <color=#d14e0d>Freeze</color> no longer ends early when attacked; Brook's damage <color=#d14e0d>ignores all enemy DMG reduction and DEF</color>.$Targets Frozen by Brook have their <color=#d14e0d>DEF and DMG reduction</color> reduced by <color=#d14e0d>{buffper1}%</color>, and their Freeze ends early only when they <color=#d14e0d>take damage exceeding 60% of Max HP</color>. Brook's damage against Frozen targets increases by <color=#d14e0d>{buffper1,13104}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301210",
+     "skillName": "Binks' Sake",
+     "skillDesc": "Brook is <color=#d14e0d>immune to all debuffs</color>, and his DMG reduction increases by <color=#d14e0d>{buffper1}%</color> when hit by non-single-target attacks, but he <color=#d14e0d>cannot recover HP</color>.$All DMG reduction +<color=#d14e0d>{buffper1,13105}%</color>, plus an extra <color=#d14e0d>{buffper1,13107}%</color> when hit by non-single-target attacks.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301211",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
@@ -83917,6 +84091,84 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301233",
+     "skillName": "Crush",
+     "skillDesc": "Gives <color=#d14e0d>Gravity Blade</color> the <color=#d14e0d>Crush</color> effect, reducing the enemy's <color=#d14e0d>SPD and Dodge</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301234",
+     "skillName": "Burn",
+     "skillDesc": "Gives <color=#d14e0d>Giant Meteor</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Burn</color>: enemies with <color=#d14e0d>Burn</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301235",
+     "skillName": "Slash",
+     "skillDesc": "Gives <color=#d14e0d>Gravity Storm</color> the <color=#d14e0d>Sever</color> effect, making the enemy target instantly lose <color=#d14e0d>{buffper1}%</color> of its <color=#d14e0d>current HP</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301236",
+     "skillName": "Flow State",
+     "skillDesc": "When casting <color=#d14e0d>Gravity Blade: Raging Tiger</color>, all allies' <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301237",
+     "skillName": "Stun",
+     "skillDesc": "Gives <color=#d14e0d>Gravity Hell</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Stun</color>, leaving the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>; if he has <color=#d14e0d>3 stacks of Mastery</color>, the <color=#d14e0d>Stun</color> lasts <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301238",
+     "skillName": "Crush",
+     "skillDesc": "Gives <color=#d14e0d>Gravity Destruction</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Crush</color>: when Fujitora attacks <color=#d14e0d>targets below 35% HP</color>, he can <color=#d14e0d>remove them from battle outright</color> (only in <color=#d14e0d>PvP</color>).$Gives <color=#d14e0d>Gravity Destruction</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Crush</color>: when Fujitora attacks <color=#d14e0d>targets below 50% HP</color><color=#d14e0d>, CRIT</color> +<color=#d14e0d>{buffper1,13157}%</color> and <color=#d14e0d>CRIT DMG</color> +<color=#d14e0d>{buffper2,13157}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301239",
+     "skillName": "Heavy Pressure",
+     "skillDesc": "When <color=#d14e0d>Gravity Destruction</color> scores a kill, there is a <color=#d14e0d>{buffodds}%</color> chance to increase own <color=#d14e0d>Dodge</color> by <color=#d14e0d>{buffper1}%</color> until <color=#d14e0d>the next action</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301240",
+     "skillName": "Iai Mastery",
+     "skillDesc": "Gains <color=#d14e0d>1 stack of Mastery</color> each time a skill is cast; each <color=#d14e0d>Mastery</color> stack increases <color=#d14e0d>DMG Bonus and CRIT</color> by <color=#d14e0d>{buffper1}%</color>. At <color=#d14e0d>3 Mastery stacks</color>, this skill <color=#d14e0d>ignores enemy DEF and DMG reduction</color> and <color=#d14e0d>DMG Bonus</color> +<color=#d14e0d>{buffper2}%</color>; <color=#d14e0d>all Mastery is cleared</color> after casting.$Gains <color=#d14e0d>1 stack of Mastery</color> each time a skill is cast; each <color=#d14e0d>Mastery</color> stack increases <color=#d14e0d>DMG Bonus and CRIT</color> by <color=#d14e0d>{buffper1}%</color>. At <color=#d14e0d>3 Mastery stacks</color>, this skill's <color=#d14e0d>ATK</color> +<color=#d14e0d>{buffper2,13153}%</color> and <color=#d14e0d>DMG Bonus</color> +<color=#d14e0d>{buffper1,13153}%</color>; <color=#d14e0d>all Mastery is cleared</color> after casting.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301241",
+     "skillName": "Gravity Pressure",
+     "skillDesc": "At battle start, alters gravity: all enemies' <color=#d14e0d>SPD and Dodge</color> -<color=#d14e0d>{buffper1}%</color> and all their skills <color=#d14e0d>cost 1 more Soul Jade</color>; all allies' <color=#d14e0d>SPD and Dodge</color> +<color=#d14e0d>{buffper1}%</color> and all their skills <color=#d14e0d>cost 1 less Soul Jade</color>, and allies gain an extra <color=#d14e0d>10 Rage</color> <color=#d14e0d>when casting skills</color> (except Ultimates).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301242",
+     "skillName": "Commanding Presence",
+     "skillDesc": "After battle starts, Fujitora's <color=#d14e0d>Dodge</color> +<color=#d14e0d>{buffper1}%</color>, and his attacks have a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>be uninterruptible</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301243",
+     "skillName": "Press-Press Fruit",
+     "skillDesc": "After battle starts, <color=#d14e0d>all DMG reduction</color> +<color=#d14e0d>{buffper1}%</color>, increasing by a further <color=#d14e0d>{buffper2}%</color> at turn start, <color=#d14e0d>up to 3 times</color>, and gains <color=#d14e0d>5</color> extra Soul Jade each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301244",
+     "skillName": "Life's Gamble",
+     "skillDesc": "After battle starts, <color=#d14e0d>SPD, Accuracy and ATK</color> +<color=#d14e0d>{buffper1}%</color>; when Dodging all damage of a single attack, recovers <color=#d14e0d>{buffper2}%</color><color=#d14e0d> of Max HP</color>, and when attacked, has a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>be immune to this damage</color>.$After battle starts, <color=#d14e0d>SPD, Accuracy and ATK</color> +<color=#d14e0d>{buffper1,13154}%</color>; when Dodging all damage of a single attack, recovers <color=#d14e0d>{buffper2}%</color><color=#d14e0d> of Max HP</color>, and after every 3 attacks taken, he is <color=#d14e0d>immune to the damage</color> of the 4th.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301245",
+     "skillName": "New Admiral",
+     "skillDesc": "After battle starts, <color=#d14e0d>Max HP</color> +<color=#d14e0d>{buffper1}%</color>. While Fujitora is on the field, all allies are <color=#d14e0d>immune to Knock-Up and Knockback</color>, and all Marines' <color=#d14e0d>ATK and Accuracy</color> +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301246",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
@@ -83956,6 +84208,42 @@
      "skillId": "301252",
      "skillName": "Speed Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301270",
+     "skillName": "Strength",
+     "skillDesc": "Gives <color=#d14e0d>Willow Mochi</color> the <color=#d14e0d>Strength</color> effect, increasing own <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.$Gives <color=#d14e0d>Willow Mochi</color> the <color=#d14e0d>Strength</color> effect, increasing own <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>3 turns</color>, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301271",
+     "skillName": "Lethal",
+     "skillDesc": "Gives <color=#d14e0d>Mochi Chain Slash</color> a Lethal effect, reducing the enemy target's <color=#d14e0d>Healing</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.$Gives <color=#d14e0d>Mochi Chain Slash</color> a Lethal effect, reducing the enemy target's <color=#d14e0d>Healing</color> by <color=#d14e0d>{buffper1,14547}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301272",
+     "skillName": "Bleed",
+     "skillDesc": "Gives <color=#d14e0d>Peerless Mochi Blade Bullet</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Bleed</color>: enemies with <color=#d14e0d>Bleed</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301273",
+     "skillName": "Slow",
+     "skillDesc": "Gives <color=#d14e0d>Flowing Mochi</color> the <color=#d14e0d>Slow</color> effect, reducing the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.$Gives <color=#d14e0d>Flowing Mochi</color> the <color=#d14e0d>Slow</color> effect, reducing the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1,14548}%</color> for <color=#d14e0d>3 turns</color>, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301274",
+     "skillName": "Deadly Combat",
+     "skillDesc": "Gives <color=#d14e0d>Mochi Thrust</color> the <color=#d14e0d>Death Match</color> effect, instantly consuming <color=#d14e0d>30%</color> of own Max HP to deal extra <color=#d14e0d>True Damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to the enemy; True Damage ignores the enemy target's base DEF.$Gives <color=#d14e0d>Mochi Thrust</color> the <color=#d14e0d>Death Match</color> effect, instantly consuming <color=#d14e0d>30%</color> of own Max HP to deal extra <color=#d14e0d>True Damage</color> equal to <color=#d14e0d>{buffper1,14549}%</color> of own ATK to the enemy; True Damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301275",
+     "skillName": "Life Steal",
+     "skillDesc": "When casting <color=#d14e0d>Mochi: Chant</color>, converts <color=#d14e0d>{buffper1}%</color> of the damage dealt into own HP.",
      "buttonEffect": ""
     },
     {
@@ -91753,7 +92041,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "13955/14789 rows translated so far"
+   "partial": "14003/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
