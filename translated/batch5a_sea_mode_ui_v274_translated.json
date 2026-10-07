@@ -1,0 +1,1719 @@
+{
+ "header": {
+  "description": "English translation of source/batch5a_sea_mode_ui_v274_source.json",
+  "source": "source/batch5a_sea_mode_ui_v274_source.json"
+ },
+ "ui_texts": [
+  {
+   "bundle": "restobundle/pages/sailfishing.ab",
+   "path_id": -4174895461657329093,
+   "gameobject": "bu",
+   "zh": "捕",
+   "en": "Catch"
+  },
+  {
+   "bundle": "restobundle/pages/sailfishing.ab",
+   "path_id": -2793997105311175371,
+   "gameobject": "zhong",
+   "zh": "中",
+   "en": "ing"
+  },
+  {
+   "bundle": "restobundle/pages/sailfishing.ab",
+   "path_id": -1926369863428943685,
+   "gameobject": "ci",
+   "zh": "次",
+   "en": "Times"
+  },
+  {
+   "bundle": "restobundle/pages/sailfishing.ab",
+   "path_id": 66523320983328063,
+   "gameobject": "yu",
+   "zh": "鱼",
+   "en": "Fish"
+  },
+  {
+   "bundle": "restobundle/pages/saillogpage.ab",
+   "path_id": -8667182652451880144,
+   "gameobject": "Text",
+   "zh": "海域介绍",
+   "en": "Sea Area Info"
+  },
+  {
+   "bundle": "restobundle/pages/saillogpage.ab",
+   "path_id": -736335551000644641,
+   "gameobject": "Text",
+   "zh": "首领介绍",
+   "en": "Boss Info"
+  },
+  {
+   "bundle": "restobundle/pages/saillogpage.ab",
+   "path_id": 3525839362458564312,
+   "gameobject": "Text",
+   "zh": "玩法说明",
+   "en": "How to Play"
+  },
+  {
+   "bundle": "restobundle/pages/saillogpage.ab",
+   "path_id": 7076194622220431492,
+   "gameobject": "Text",
+   "zh": "任务详情",
+   "en": "Quest Details"
+  },
+  {
+   "bundle": "restobundle/pages/saillogpage.ab",
+   "path_id": 8773558719855038396,
+   "gameobject": "Text",
+   "zh": "记录",
+   "en": "Log"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/adventurebattlepage.ab",
+   "path_id": -8224151130004068041,
+   "gameobject": "Name",
+   "zh": "冒险阵容",
+   "en": "Adventure Lineup"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/adventurebattlepage.ab",
+   "path_id": -5929386811214409066,
+   "gameobject": "Text",
+   "zh": "创建房间",
+   "en": "Create Room"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/adventurebattlepage.ab",
+   "path_id": -1818119944327827188,
+   "gameobject": "name",
+   "zh": "【第二阵容】",
+   "en": "[Second Lineup]"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/adventurebattlepage.ab",
+   "path_id": -484772986869327236,
+   "gameobject": "Text",
+   "zh": "快速匹配",
+   "en": "Quick Match"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/adventurebattlepage.ab",
+   "path_id": 211961969533796699,
+   "gameobject": "Text",
+   "zh": "单人挑战",
+   "en": "Solo Challenge"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/adventurebattlepage.ab",
+   "path_id": 1280936177709674597,
+   "gameobject": "name",
+   "zh": "【第一阵容】",
+   "en": "[First Lineup]"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/exploreresult.ab",
+   "path_id": -8293541179408761821,
+   "gameobject": "name",
+   "zh": "探索值",
+   "en": "Exploration Value"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/exploreresult.ab",
+   "path_id": -7504668291690736413,
+   "gameobject": "name",
+   "zh": "您获得的奖励",
+   "en": "Your Rewards"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/exploreresult.ab",
+   "path_id": 4572254127415237832,
+   "gameobject": "name",
+   "zh": "玩家经验",
+   "en": "Player EXP"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/exploreresult.ab",
+   "path_id": 5043162309306892929,
+   "gameobject": "name",
+   "zh": "探险结算",
+   "en": "Exploration Results"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/seapage.ab",
+   "path_id": -8768349552421040804,
+   "gameobject": "name",
+   "zh": "无视是",
+   "en": "Ignore"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/seapage.ab",
+   "path_id": -7810987310691942845,
+   "gameobject": "mapnum",
+   "zh": "藏宝图：<color=#b4131e>{0}/6</color>",
+   "en": "Treasure Map: <color=#b4131e>{0}/6</color>"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/seapage.ab",
+   "path_id": -4634300624024965817,
+   "gameobject": "NameText",
+   "zh": "小鸟游晶彦",
+   "en": "Takanashi Akihiko"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/seapage.ab",
+   "path_id": -1037122677324451251,
+   "gameobject": "Text",
+   "zh": "探 索",
+   "en": "Explore"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/seapage.ab",
+   "path_id": -974096428216837930,
+   "gameobject": "tagtext",
+   "zh": "按<color=#b4131e>箭头提示</color>寻找宝藏",
+   "en": "Follow the <color=#b4131e>arrows</color> to find the treasure"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/seapage.ab",
+   "path_id": 2311662493063016395,
+   "gameobject": "addequip",
+   "zh": "添加道具",
+   "en": "Add Item"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/seapage.ab",
+   "path_id": 7290404929613393896,
+   "gameobject": "name",
+   "zh": "无视是",
+   "en": "Ignore"
+  },
+  {
+   "bundle": "restobundle/pages/seaarea/seapage.ab",
+   "path_id": 9145446747073220934,
+   "gameobject": "Text",
+   "zh": "添加道具可使用道具进行探索",
+   "en": "Add items to use them for exploring"
+  },
+  {
+   "bundle": "restobundle/pages/seaareabigmappage.ab",
+   "path_id": 817362947286663940,
+   "gameobject": "nameLabel",
+   "zh": "说谎布",
+   "en": "Usopp"
+  },
+  {
+   "bundle": "restobundle/pages/seaareabigmappage.ab",
+   "path_id": 1658194413416306867,
+   "gameobject": "posLabel",
+   "zh": "[56.23] <color='#f1a33d'>分线5</color>",
+   "en": "[56.23] <color='#f1a33d'>Line 5</color>"
+  },
+  {
+   "bundle": "restobundle/pages/seaareabigmappage.ab",
+   "path_id": 4381901372975843583,
+   "gameobject": "locationLabel",
+   "zh": "<color='#f2637d'>地点：</color>西罗布村",
+   "en": "<color='#f2637d'>Location: </color>Syrup Village"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaboss.ab",
+   "path_id": -1120525452613286245,
+   "gameobject": "name",
+   "zh": "怪物名称",
+   "en": "Monster Name"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaboss.ab",
+   "path_id": -145937070700391223,
+   "gameobject": "Text",
+   "zh": "捕鱼者海岛",
+   "en": "Fisherman's Island"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaboss.ab",
+   "path_id": 5901724518696763560,
+   "gameobject": "place",
+   "zh": "地点：",
+   "en": "Location:"
+  },
+  {
+   "bundle": "restobundle/pages/seaareadockpage.ab",
+   "path_id": -6312610750547557166,
+   "gameobject": "Text",
+   "zh": "暂未开启\r",
+   "en": "Not Yet Open\r"
+  },
+  {
+   "bundle": "restobundle/pages/seaareadockpage.ab",
+   "path_id": -3298662906682232669,
+   "gameobject": "Text",
+   "zh": "大航海技能",
+   "en": "Great Voyage Skills"
+  },
+  {
+   "bundle": "restobundle/pages/seaareadockpage.ab",
+   "path_id": -920484051367015238,
+   "gameobject": "Text",
+   "zh": "待修理",
+   "en": "Needs Repair"
+  },
+  {
+   "bundle": "restobundle/pages/seaareadockpage.ab",
+   "path_id": 641576831538340579,
+   "gameobject": "shipName",
+   "zh": "路飞路飞路飞",
+   "en": "LuffyLuffyLuffy"
+  },
+  {
+   "bundle": "restobundle/pages/seaareadockpage.ab",
+   "path_id": 3067009598500761747,
+   "gameobject": "Text",
+   "zh": "战船属性",
+   "en": "Warship Stats"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": -7949323044511066023,
+   "gameobject": "Text",
+   "zh": "野外分为安全区域、中立区域、对战区域：域中玩家间不可进行PK；自由区域中战争模式的玩家可以攻击其他玩家，且会触发红名机制；战争区域中所有玩家相遇均进入战斗，但红。战争模式的玩家攻击和平模式的玩家，如果和平玩家获胜，和平玩家不会变为红名。任何模式的玩家，击杀已红名的玩家，均不会变为红名。杀人数达到一定数量时，会被强制遣送至监狱。\n·恢复生命：野外战斗后，生命值被保留。需要使用恢复道具或前往医生NPC处回血。\n·野外阵亡后，可以选择道具原地复活，不选择原地复活默认会在安全区复活。\n·玩家可以手动设置自己的战斗模式：和平模式、战争模式，战争模式会攻击其他玩家，和平模式不会攻击其他玩家。\n·野外分为安全区域、中立区域、对战区域：安全区域中玩家间不可进行PK；自由区域中战争模式的玩家可以攻击其他玩家，且会触发红名机制；战争区域中所有玩家相遇均进入战斗，但不触发红名机制。\n·红名机制:在自由区域中，开启战争模式的玩家，击杀其他玩家后名字会逐渐变红。战争模式的玩家攻击和平模式的玩家，如果和平玩家获胜，和平玩家不会变为红名。任何模式的玩家，击杀已红名的玩家，均不会变为红名。杀人数达到一定数量时，会被强制遣送至监狱。\n·恢复生命：野外战斗后，生命值被保留。需要使用恢复道具或前往医生NPC处回血。\n·野外阵亡后，可以选择道具原地复活，不选择原地复活默认会在安全区复活。",
+   "en": "The field has Safe, Neutral and Combat zones: players can't PK in zone; in Free zones, players in War Mode can attack other players and trigger the red name system; in War zones, all players who meet enter battle, but red. When a War Mode player attacks a Peace Mode player and the Peace Mode player wins, the Peace Mode player doesn't get a red name. Players in any mode who defeat a red-named player don't get a red name. Players who reach a certain number of kills are forcibly sent to prison.\n· HP recovery: HP is kept after field battles. Use recovery items or visit a Doctor NPC to heal.\n· If you fall in the field, you can use an item to revive on the spot; otherwise you revive in the Safe zone by default.\n· Players can set their battle mode manually: Peace Mode or War Mode. War Mode attacks other players; Peace Mode doesn't.\n· The field has Safe, Neutral and Combat zones: players can't PK in Safe zones; in Free zones, players in War Mode can attack other players and trigger the red name system; in War zones, all players who meet enter battle, but the red name system isn't triggered.\n· Red name system: in Free zones, players with War Mode on gradually get a red name after defeating other players. When a War Mode player attacks a Peace Mode player and the Peace Mode player wins, the Peace Mode player doesn't get a red name. Players in any mode who defeat a red-named player don't get a red name. Players who reach a certain number of kills are forcibly sent to prison.\n· HP recovery: HP is kept after field battles. Use recovery items or visit a Doctor NPC to heal.\n· If you fall in the field, you can use an item to revive on the spot; otherwise you revive in the Safe zone by default."
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": -7042675419844504834,
+   "gameobject": "Text",
+   "zh": "队",
+   "en": "Team"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": -6476985291387758091,
+   "gameobject": "Text",
+   "zh": "切换战争模式",
+   "en": "Switch to War Mode"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": -2997153124802259200,
+   "gameobject": "Text",
+   "zh": "暂",
+   "en": "Pause"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": -2568987864937505394,
+   "gameobject": "Text",
+   "zh": "离",
+   "en": "Leave"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": -45068095091637328,
+   "gameobject": "remainingTimeLabel",
+   "zh": "<color='#d4d7c3'>剩余时间00:00:00</color>",
+   "en": "<color='#d4d7c3'>Time Left 00:00:00</color>"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 129556366794137112,
+   "gameobject": "kills",
+   "zh": "杀人数:",
+   "en": "Kills:"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 1169875159442970005,
+   "gameobject": "Text",
+   "zh": "暂",
+   "en": "Pause"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 1471646001673881874,
+   "gameobject": "taskNameLabel",
+   "zh": "<color='orange'>【主】</color><color='yellow'>第8章-撒谎布出海</color>",
+   "en": "<color='orange'>[Main]</color><color='yellow'>Chapter 8 - Usopp Sets Sail</color>"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 2210668118287435261,
+   "gameobject": "Text",
+   "zh": "暂",
+   "en": "Pause"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 2718895530926234101,
+   "gameobject": "Text",
+   "zh": "离",
+   "en": "Leave"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 2935612667207041835,
+   "gameobject": "taskTargetDescLabel",
+   "zh": "<color='#d4d7c3'>前往西罗布村了解情况</color>（0/1）",
+   "en": "<color='#d4d7c3'>Go to Syrup Village to find out what's happening</color> (0/1)"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 4073825082847313516,
+   "gameobject": "Text",
+   "zh": "暂",
+   "en": "Pause"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 5589555307298620036,
+   "gameobject": "HuoliTitleText",
+   "zh": "活力",
+   "en": "Vigor"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 6068036118759858750,
+   "gameobject": "Text",
+   "zh": "世",
+   "en": "World"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 6340102477920691063,
+   "gameobject": "Text",
+   "zh": "离",
+   "en": "Leave"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 6927556746990719184,
+   "gameobject": "Text",
+   "zh": "离",
+   "en": "Leave"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 7628146327683415838,
+   "gameobject": "Text",
+   "zh": "公",
+   "en": "Guild"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 7840016844135342148,
+   "gameobject": "content",
+   "zh": "在中立区域只可攻击战争状态的玩家。",
+   "en": "In Neutral zones, you can only attack players in War Mode."
+  },
+  {
+   "bundle": "restobundle/pages/seaareaislandpage.ab",
+   "path_id": 9185638696418250064,
+   "gameobject": "content",
+   "zh": "在中立区域可攻击所有玩家。",
+   "en": "In Neutral zones, you can attack all players."
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": -8991364682645752577,
+   "gameobject": "Text",
+   "zh": "暂",
+   "en": "Pause"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": -8815517829825091484,
+   "gameobject": "Text",
+   "zh": "暂",
+   "en": "Pause"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": -8063209050060611374,
+   "gameobject": "Text",
+   "zh": "暂",
+   "en": "Pause"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": -7097167887870251824,
+   "gameobject": "Text",
+   "zh": "离",
+   "en": "Leave"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": -6844276077747153929,
+   "gameobject": "taskNameLabel",
+   "zh": "<color='orange'>【主】</color><color='yellow'>第8章-撒谎布出海</color>",
+   "en": "<color='orange'>[Main]</color><color='yellow'>Chapter 8 - Usopp Sets Sail</color>"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": -6496053273588359641,
+   "gameobject": "Text",
+   "zh": "离",
+   "en": "Leave"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": -3916055639331453309,
+   "gameobject": "name",
+   "zh": "路飞大魔王王",
+   "en": "Great Demon King Luffy"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": -3352696723504915641,
+   "gameobject": "Text",
+   "zh": "继续战斗",
+   "en": "Keep Fighting"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": -1221778431875651641,
+   "gameobject": "remainingTimeLabel",
+   "zh": "<color='#d4d7c3'>剩余时间00:00:00</color>",
+   "en": "<color='#d4d7c3'>Time Left 00:00:00</color>"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": -59549141000270045,
+   "gameobject": "Text",
+   "zh": "炮击",
+   "en": "Fire"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": 3265902476468632433,
+   "gameobject": "Text",
+   "zh": "离",
+   "en": "Leave"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": 3362352451645419424,
+   "gameobject": "Title",
+   "zh": "战斗设置",
+   "en": "Battle Settings"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": 3577667084660097852,
+   "gameobject": "taskTargetDescLabel",
+   "zh": "<color='#d4d7c3'>前往西罗布村了解情况</color>（0/1）",
+   "en": "<color='#d4d7c3'>Go to Syrup Village to find out what's happening</color> (0/1)"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": 3788315845822452132,
+   "gameobject": "Text",
+   "zh": "离",
+   "en": "Leave"
+  },
+  {
+   "bundle": "restobundle/pages/seaareapage.ab",
+   "path_id": 8526063249698305813,
+   "gameobject": "Text",
+   "zh": "暂",
+   "en": "Pause"
+  },
+  {
+   "bundle": "restobundle/pages/seaareasailrecord.ab",
+   "path_id": -8848420228151339075,
+   "gameobject": "Text",
+   "zh": "今日记录",
+   "en": "Today's Log"
+  },
+  {
+   "bundle": "restobundle/pages/seaareasailrecord.ab",
+   "path_id": 5836136111700718010,
+   "gameobject": "Name",
+   "zh": "完成任务",
+   "en": "Complete Quest"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaseadesc.ab",
+   "path_id": -8190388325933580693,
+   "gameobject": "taskNum",
+   "zh": "当前声望：",
+   "en": "Current Prestige:"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaseadesc.ab",
+   "path_id": -7127010734056841472,
+   "gameobject": "name",
+   "zh": "所需BUFF",
+   "en": "Required Buff"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaseadesc.ab",
+   "path_id": -2998582336370162808,
+   "gameobject": "name",
+   "zh": "适合战船",
+   "en": "Recommended Warship"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaseadesc.ab",
+   "path_id": -716494187540660234,
+   "gameobject": "name",
+   "zh": "任务需求",
+   "en": "Quest Requirements"
+  },
+  {
+   "bundle": "restobundle/pages/seaareaseadesc.ab",
+   "path_id": 3149024204080571421,
+   "gameobject": "Text",
+   "zh": "平静之海",
+   "en": "Calm Sea"
+  },
+  {
+   "bundle": "restobundle/pages/seaareashopswappage.ab",
+   "path_id": 5689968197122528713,
+   "gameobject": "title",
+   "zh": "条件进行条件",
+   "en": "Condition Progress Condition"
+  },
+  {
+   "bundle": "restobundle/pages/seaareashopswappage.ab",
+   "path_id": 7103592283037541391,
+   "gameobject": "contentLabel",
+   "zh": "进行条件进行条件进行条件进行条件进行条件进行条件进行条件进行条件进行条件进行条件进行条件进行条件进行条件进",
+   "en": "Progress conditionProgress conditionProgress conditionProgress conditionProgress conditionProgress conditionProgress conditionProgress conditionProgress conditionProgress conditionProgress conditionProgress conditionProgress condition"
+  },
+  {
+   "bundle": "restobundle/pages/seaareatask.ab",
+   "path_id": -8061731493689249903,
+   "gameobject": "desTitle",
+   "zh": "岛屿描述",
+   "en": "Island Description"
+  },
+  {
+   "bundle": "restobundle/pages/seaareatask.ab",
+   "path_id": -2982308891207011490,
+   "gameobject": "name",
+   "zh": "岛屿名称",
+   "en": "Island Name"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": -7150968894331871033,
+   "gameobject": "desc",
+   "zh": "敌方全体敌方全体敌方",
+   "en": "All enemiesAll enemiesEnemy"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": -3433777316782406641,
+   "gameobject": "txt",
+   "zh": "查看高分阵容",
+   "en": "View Top Lineups"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": -3365117342216475407,
+   "gameobject": "txtTitle",
+   "zh": "中立挑战项",
+   "en": "Neutral Challenges"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": -2812223125864995946,
+   "gameobject": "Text(no_raycast)",
+   "zh": "实力差距悬殊请谨慎选择",
+   "en": "Huge power gap, choose carefully"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": -513340193786841580,
+   "gameobject": "txtTitle",
+   "zh": "减益挑战项",
+   "en": "Debuff Challenges"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": -361742545572471908,
+   "gameobject": "txt (1)",
+   "zh": "玩家剩余体力：",
+   "en": "Player Stamina Left:"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": 2249287031741367122,
+   "gameobject": "bossDesc",
+   "zh": "曾经到达曾经到达曾经到达曾经到达曾经到达曾经到达曾经到达曾经到达曾经到达曾经到达",
+   "en": "Once reachedOnce reachedOnce reachedOnce reachedOnce reachedOnce reachedOnce reachedOnce reachedOnce reachedOnce reached"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": 2863404792838048947,
+   "gameobject": "chapterDesc",
+   "zh": "技能命中一名技能命中一名技能命中一名技能命中一名技能命中一名",
+   "en": "Skill hits oneSkill hits oneSkill hits oneSkill hits oneSkill hits one"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": 3746667470594341128,
+   "gameobject": "txt",
+   "zh": "最高得分：",
+   "en": "High Score:"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": 4700314671091267407,
+   "gameobject": "txt (2)",
+   "zh": "所用回合数：",
+   "en": "Turns Used:"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": 5461823293551462711,
+   "gameobject": "bossName",
+   "zh": "boss名字",
+   "en": "Boss Name"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": 5654711958201066377,
+   "gameobject": "txt (2)",
+   "zh": "力竭人数：",
+   "en": "Exhausted Units:"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": 5899783203076299568,
+   "gameobject": "Text(no_raycast)",
+   "zh": "历史最佳",
+   "en": "Personal Best"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": 7263356809908241623,
+   "gameobject": "txtTitle",
+   "zh": "增益挑战项",
+   "en": "Buff Challenges"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossdetailpage.ab",
+   "path_id": 7352592898278484893,
+   "gameobject": "Text(no_raycast)",
+   "zh": "敌方站位",
+   "en": "Enemy Positions"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossmainpage.ab",
+   "path_id": -4801950408252131166,
+   "gameobject": "txt",
+   "zh": "每次探索必定发现一个新BOSS位置",
+   "en": "Each exploration always finds a new Boss location"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossmainpage.ab",
+   "path_id": 6069735925481413505,
+   "gameobject": "CostTxt",
+   "zh": "在消耗4个海域补给可进行1次探索",
+   "en": "Spend 4 Sea Supplies to explore 1 time"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossmainpage.ab",
+   "path_id": 8699562695374145840,
+   "gameobject": "TxtTitle",
+   "zh": "首领探索",
+   "en": "Boss Exploration"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossmainpage.ab",
+   "path_id": 9091887999310390792,
+   "gameobject": "exploreNum",
+   "zh": "活动期间还可探索两次",
+   "en": "You can still explore twice during the event"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossmsgpage.ab",
+   "path_id": -4689097427243331049,
+   "gameobject": "Text",
+   "zh": "发出分享",
+   "en": "Shares Sent"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossmsgpage.ab",
+   "path_id": -2014954463942442570,
+   "gameobject": "Text",
+   "zh": "接受分享",
+   "en": "Shares Received"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossmsgpage.ab",
+   "path_id": 1121310690890854765,
+   "gameobject": "NoDataDesc",
+   "zh": "暂无任何消息",
+   "en": "No messages yet"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossmsgpage.ab",
+   "path_id": 2756124913722600993,
+   "gameobject": "Text",
+   "zh": "发出分享",
+   "en": "Shares Sent"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossmsgpage.ab",
+   "path_id": 7350402211036143165,
+   "gameobject": "ShareNumTxt",
+   "zh": "活动期间可接受分享次数：",
+   "en": "Shares receivable during the event:"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebossmsgpage.ab",
+   "path_id": 7741678524325747892,
+   "gameobject": "Text",
+   "zh": "接受分享",
+   "en": "Shares Received"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorebosstaskpage.ab",
+   "path_id": 5778552046530708071,
+   "gameobject": "taskDesc",
+   "zh": "Boss分享后，累计达到100分",
+   "en": "After sharing a Boss, reach 100 points in total"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploreeventpage.ab",
+   "path_id": -6333973495459708602,
+   "gameobject": "EventDesc",
+   "zh": "岛屿上竟然还有未被打开的宝箱打开的宝箱的宝箱打开",
+   "en": "There's still an unopened chest on the islandopened chestchestopen"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploreeventpage.ab",
+   "path_id": -4725726137945792775,
+   "gameobject": "Text",
+   "zh": "打 开",
+   "en": "Open"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploreeventpage.ab",
+   "path_id": 3504743023879868734,
+   "gameobject": "Text(no_raycast)",
+   "zh": "收下宝箱吧！",
+   "en": "Take the Chest!"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploreeventpage.ab",
+   "path_id": 7099251335019908706,
+   "gameobject": "Title",
+   "zh": "海域事件",
+   "en": "Sea Event"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploreformationpage.ab",
+   "path_id": 288179765668937958,
+   "gameobject": "classicDesc",
+   "zh": "阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述阵容描述",
+   "en": "Lineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup descriptionLineup description"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploremainpage.ab",
+   "path_id": -7849822866575204858,
+   "gameobject": "nameText",
+   "zh": "首领探索",
+   "en": "Boss Exploration"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploremainpage.ab",
+   "path_id": -5180889434796013277,
+   "gameobject": "nameText",
+   "zh": "岛屿B",
+   "en": "Island B"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploremainpage.ab",
+   "path_id": -3810833128781839919,
+   "gameobject": "nameText",
+   "zh": "岛屿D",
+   "en": "Island D"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploremainpage.ab",
+   "path_id": -3428847732384568247,
+   "gameobject": "processDesc",
+   "zh": "在消耗4个海域补给可进行1次探索",
+   "en": "Spend 4 Sea Supplies to explore 1 time"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploremainpage.ab",
+   "path_id": 3206434307807334734,
+   "gameobject": "txtTime",
+   "zh": "4天",
+   "en": "4 Days"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploremainpage.ab",
+   "path_id": 4574732424973985803,
+   "gameobject": "nameText",
+   "zh": "岛屿C",
+   "en": "Island C"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploremainpage.ab",
+   "path_id": 4613411306460882587,
+   "gameobject": "CurRewardTxt",
+   "zh": "当前收益",
+   "en": "Current Earnings"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploremainpage.ab",
+   "path_id": 4901142375106203917,
+   "gameobject": "nameText",
+   "zh": "岛屿A",
+   "en": "Island A"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploremainpage.ab",
+   "path_id": 6030370793530523915,
+   "gameobject": "Text(no_raycast)",
+   "zh": "出  海",
+   "en": "Set Sail"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploremainpage.ab",
+   "path_id": 8016369725822727974,
+   "gameobject": "Text(no_raycast)",
+   "zh": "收益随每日出海次数递减",
+   "en": "Earnings drop with each daily voyage"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorerewardpriviewpage.ab",
+   "path_id": -1969815673134497574,
+   "gameobject": "title",
+   "zh": "出海奖励",
+   "en": "Voyage Rewards"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorerewardpriviewpage.ab",
+   "path_id": -797075099215328608,
+   "gameobject": "Desc",
+   "zh": "每次出海有概率获得如下奖励",
+   "en": "Each voyage has a chance to give the following rewards"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorerewardpriviewpage.ab",
+   "path_id": 5316707155807954417,
+   "gameobject": "StageTitle",
+   "zh": "当次奖励收益",
+   "en": "Rewards per Voyage"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexplorerewardpriviewpage.ab",
+   "path_id": 8969965663788631406,
+   "gameobject": "StageTitle",
+   "zh": "每日出海次数",
+   "en": "Daily Voyages"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresharepage.ab",
+   "path_id": -8906430406487400748,
+   "gameobject": "ShareObj",
+   "zh": "今日分享次数：",
+   "en": "Shares Today:"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresharepage.ab",
+   "path_id": -4173504692581660097,
+   "gameobject": "ShareTxt",
+   "zh": "剩余分享次数：",
+   "en": "Shares Left:"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresharepage.ab",
+   "path_id": -2909291611917680122,
+   "gameobject": "title",
+   "zh": "请选择赠送对象",
+   "en": "Choose who to gift to"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresharepage.ab",
+   "path_id": -2647842440144257041,
+   "gameobject": "Name",
+   "zh": "角色名字名字",
+   "en": "Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresharepage.ab",
+   "path_id": 2110263583252695094,
+   "gameobject": "noFriend",
+   "zh": "当前暂无好友可选择",
+   "en": "No friends available"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresharepage.ab",
+   "path_id": 8262199011487161578,
+   "gameobject": "noUnion",
+   "zh": "当前暂无公会成员可选择",
+   "en": "No guild members available"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresupplypage.ab",
+   "path_id": -8290551090971857156,
+   "gameobject": "titleText",
+   "zh": "补给站",
+   "en": "Supply Station"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresupplypage.ab",
+   "path_id": -6914587489664374271,
+   "gameobject": "titleText (1)",
+   "zh": "补给站",
+   "en": "Supply Station"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresupplypage.ab",
+   "path_id": -5483507704270696022,
+   "gameobject": "desc",
+   "zh": "每日可以领取海域补给用于出海，不要忘记来领！",
+   "en": "Claim Sea Supplies daily for your voyages. Don't forget!"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresupplypage.ab",
+   "path_id": -1117473176304813103,
+   "gameobject": "Text",
+   "zh": "出海里程碑",
+   "en": "Voyage Milestones"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresupplypage.ab",
+   "path_id": -211058402698455238,
+   "gameobject": "GetTitle",
+   "zh": "个人补给",
+   "en": "Personal Supplies"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresupplypage.ab",
+   "path_id": 190569692045294520,
+   "gameobject": "Text",
+   "zh": "出海里程碑",
+   "en": "Voyage Milestones"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresupplypage.ab",
+   "path_id": 507843550074883917,
+   "gameobject": "Text",
+   "zh": "每日补给",
+   "en": "Daily Supplies"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresupplypage.ab",
+   "path_id": 4625441727796537804,
+   "gameobject": "Desc",
+   "zh": "补给站，每日刷新可领取奖励",
+   "en": "Supply Station: claim rewards refreshed daily"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresupplypage.ab",
+   "path_id": 6008614157206906946,
+   "gameobject": "desc (1)",
+   "zh": "每日可以赠送一次海域补给给自己的好友（不需要消耗自己的海域补给），一起分享吧！！",
+   "en": "Gift Sea Supplies to a friend once a day (without using your own). Share the fun!!"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresupplypage.ab",
+   "path_id": 8547098292791780772,
+   "gameobject": "GetTitle",
+   "zh": "好友补给",
+   "en": "Friend Supplies"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplore/seaexploresupplypage.ab",
+   "path_id": 8550620689834062392,
+   "gameobject": "Text",
+   "zh": "每日补给",
+   "en": "Daily Supplies"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplorepage.ab",
+   "path_id": -9073981073173031834,
+   "gameobject": "Title",
+   "zh": "概率获得以下道具：",
+   "en": "Chance to get these items:"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplorepage.ab",
+   "path_id": -2936465508926414435,
+   "gameobject": "titleText",
+   "zh": "探索海域",
+   "en": "Explore Sea Area"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplorepage.ab",
+   "path_id": 36898868860318114,
+   "gameobject": "Text",
+   "zh": "同一时间只能派出一个队伍探索海域",
+   "en": "Only one team can explore a sea area at a time"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplorepage.ab",
+   "path_id": 4061569687282738226,
+   "gameobject": "Text",
+   "zh": "立即派遣",
+   "en": "Dispatch Now"
+  },
+  {
+   "bundle": "restobundle/pages/seaexplorepage.ab",
+   "path_id": 6936846138784632554,
+   "gameobject": "Text",
+   "zh": "派遣小队",
+   "en": "Dispatch Squad"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uisarportwashstrategypage.ab",
+   "path_id": -5479522620823570138,
+   "gameobject": "Desc",
+   "zh": "战斗开始前，对敌人群里攻击",
+   "en": "Before battle starts, attacks enemy group"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uisarportwashstrategypage.ab",
+   "path_id": -4915207855571212457,
+   "gameobject": "Text",
+   "zh": "保持原策略",
+   "en": "Keep Strategy"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uisarportwashstrategypage.ab",
+   "path_id": -2789092763925512360,
+   "gameobject": "Name",
+   "zh": "策略选择：岸防炮",
+   "en": "Strategy: Coastal Battery"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uisarportwashstrategypage.ab",
+   "path_id": -2146774885291281088,
+   "gameobject": "Text",
+   "zh": "选择新策略",
+   "en": "Choose New Strategy"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uisarportwashstrategypage.ab",
+   "path_id": -1942964145293207024,
+   "gameobject": "Desc",
+   "zh": "战斗开始前，对敌人群里攻击里攻击\n里攻击",
+   "en": "Before battle starts, attacks enemy group attack\nattack"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uisarportwashstrategypage.ab",
+   "path_id": -1473364883534787657,
+   "gameobject": "Text",
+   "zh": "保持原策略",
+   "en": "Keep Strategy"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uisarportwashstrategypage.ab",
+   "path_id": 3422851558692734482,
+   "gameobject": "Text",
+   "zh": "修改策略",
+   "en": "Change Strategy"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uisarportwashstrategypage.ab",
+   "path_id": 4922752332895981488,
+   "gameobject": "Desc",
+   "zh": "战斗开始前，对敌人群里攻击",
+   "en": "Before battle starts, attacks enemy group"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uisarportwashstrategypage.ab",
+   "path_id": 4923212829820727052,
+   "gameobject": "titleText",
+   "zh": "策略选择",
+   "en": "Choose Strategy"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uisarportwashstrategypage.ab",
+   "path_id": 8808755586542767720,
+   "gameobject": "Text",
+   "zh": "选择新策略",
+   "en": "Choose New Strategy"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -9184272522958656838,
+   "gameobject": "shipName",
+   "zh": "雷德福德号",
+   "en": "Red Force"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -8060331299532320653,
+   "gameobject": "Info",
+   "zh": "未选择出航目标",
+   "en": "No voyage target selected"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -7378400643154879328,
+   "gameobject": "desc",
+   "zh": "战斗开始前\n战斗开始前",
+   "en": "Before battle starts\nBefore battle starts"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -5996209548632495869,
+   "gameobject": "shipState",
+   "zh": "出海采集中",
+   "en": "Out Gathering"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -5645828982840829161,
+   "gameobject": "Dailyoutput",
+   "zh": "每次产出资源",
+   "en": "Resources per Run"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -5487433354189530177,
+   "gameobject": "Text",
+   "zh": "建筑升级",
+   "en": "Upgrade Building"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -5075569427576946509,
+   "gameobject": "Text",
+   "zh": "选择海域",
+   "en": "Choose Sea Area"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -4875755307005354210,
+   "gameobject": "value",
+   "zh": "2小时58分",
+   "en": "2h 58m"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -4851108034772486674,
+   "gameobject": "Info",
+   "zh": "码头空置中",
+   "en": "Dock Empty"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -4509880236049654286,
+   "gameobject": "Text",
+   "zh": "停泊战船",
+   "en": "Docked Warships"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -4057385482054901566,
+   "gameobject": "name",
+   "zh": "雷德福德号",
+   "en": "Red Force"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -3455603521994994731,
+   "gameobject": "strategy",
+   "zh": "可执行策略数量",
+   "en": "Strategies Available"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -3395819522953236337,
+   "gameobject": "shipName",
+   "zh": "雷德福德号",
+   "en": "Red Force"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -3197307556722548138,
+   "gameobject": "ship",
+   "zh": "停泊战船数量",
+   "en": "Docked Warships"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -2190826478417019491,
+   "gameobject": "Text",
+   "zh": "改变策略",
+   "en": "Change Strategy"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -1835563295531538752,
+   "gameobject": "title",
+   "zh": "当前效果",
+   "en": "Current Effect"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": -1236729314898631338,
+   "gameobject": "Text",
+   "zh": "描述\n描述描述描述描述\n描述",
+   "en": "Description\nDescriptionDescriptionDescriptionDescription\nDescription"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": 519719160054169504,
+   "gameobject": "desc",
+   "zh": "海港建筑的核心\n海港建筑的核心",
+   "en": "Core of the port buildings\nCore of the port buildings"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": 998217363047799803,
+   "gameobject": "Info",
+   "zh": "港务局达到5级解锁",
+   "en": "Unlocks at Port Authority Lv5"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": 1578078772155548747,
+   "gameobject": "posName",
+   "zh": "1号码头",
+   "en": "Dock 1"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": 4167752956419496634,
+   "gameobject": "Text",
+   "zh": "中止出航",
+   "en": "Stop Voyage"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": 4873724928625922145,
+   "gameobject": "Text",
+   "zh": "中止出航",
+   "en": "Stop Voyage"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": 7087847336076965819,
+   "gameobject": "Text",
+   "zh": "洗练效果总览",
+   "en": "Refinement Overview"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": 7638954751982575892,
+   "gameobject": "Info",
+   "zh": "港务局达到5级解锁",
+   "en": "Unlocks at Port Authority Lv5"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": 8863723102013579566,
+   "gameobject": "Text(no_raycast)",
+   "zh": "泊船",
+   "en": "Moor"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportmainpage.ab",
+   "path_id": 8994317621945259941,
+   "gameobject": "posName",
+   "zh": "1号码头",
+   "en": "Dock 1"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportscenepage.ab",
+   "path_id": -7887420218932387306,
+   "gameobject": "name",
+   "zh": "大路飞呀",
+   "en": "Big Luffy"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportscenepage.ab",
+   "path_id": -7832854188446870986,
+   "gameobject": "name",
+   "zh": "货运码头",
+   "en": "Cargo Dock"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportscenepage.ab",
+   "path_id": -2216860031106144570,
+   "gameobject": "name",
+   "zh": "灯塔",
+   "en": "Lighthouse"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportscenepage.ab",
+   "path_id": 5073065119207146062,
+   "gameobject": "Text",
+   "zh": "大航海",
+   "en": "Great Voyage"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportscenepage.ab",
+   "path_id": 5700767322430158699,
+   "gameobject": "name",
+   "zh": "岸防炮",
+   "en": "Coastal Battery"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportscenepage.ab",
+   "path_id": 7282244171706316086,
+   "gameobject": "Text",
+   "zh": "船坞",
+   "en": "Shipyard"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportscenepage.ab",
+   "path_id": 8530652826290829948,
+   "gameobject": "name",
+   "zh": "岸防炮",
+   "en": "Coastal Battery"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportselectseaareapage.ab",
+   "path_id": -6724242608781518987,
+   "gameobject": "titleText",
+   "zh": "海域",
+   "en": "Sea Area"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportselectseaareapage.ab",
+   "path_id": 3928627149458135642,
+   "gameobject": "Text",
+   "zh": "选择战船",
+   "en": "Choose Warship"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportselectseaareapage.ab",
+   "path_id": 6584313735150837215,
+   "gameobject": "Name",
+   "zh": "前往平静海域采集",
+   "en": "Go Gathering in the Calm Sea"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportselectseaareapage.ab",
+   "path_id": 8701298009028968210,
+   "gameobject": "txt",
+   "zh": "需求战船等级：",
+   "en": "Required Warship Level:"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportshipskillinfopage.ab",
+   "path_id": -3858101689535126666,
+   "gameobject": "info",
+   "zh": "无战船停靠",
+   "en": "No warship docked"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportshipskillinfopage.ab",
+   "path_id": -689602407558703666,
+   "gameobject": "titleText",
+   "zh": "洗练预览",
+   "en": "Refinement Preview"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportshipskillinfopage.ab",
+   "path_id": -481352917183103011,
+   "gameobject": "name",
+   "zh": "出站战船",
+   "en": "Deployed Warship"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportshipskillinfopage.ab",
+   "path_id": 439948010415009498,
+   "gameobject": "skillDesc",
+   "zh": "开场四度提升10%",
+   "en": "Opening Speed +10%"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportswitchshippage.ab",
+   "path_id": -9155383765442542836,
+   "gameobject": "Text",
+   "zh": "下 阵",
+   "en": "Remove"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportswitchshippage.ab",
+   "path_id": -6071239688455540063,
+   "gameobject": "shipName",
+   "zh": "斯斯斯斯斯",
+   "en": "SsSsSs"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportswitchshippage.ab",
+   "path_id": 8320940810683074764,
+   "gameobject": "titleText",
+   "zh": "换 船",
+   "en": "Switch Ship"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportupgradepage.ab",
+   "path_id": -8751787827725430414,
+   "gameobject": "Dailyoutput",
+   "zh": "每日产出资源",
+   "en": "Daily Resource Output"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportupgradepage.ab",
+   "path_id": -7723362800717374513,
+   "gameobject": "StrategyNum",
+   "zh": "可执行策略数量",
+   "en": "Strategies Available"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportupgradepage.ab",
+   "path_id": -4404488819702661277,
+   "gameobject": "desc",
+   "zh": "海港建筑的核心\n海港建筑的核心\n海港建筑的核心",
+   "en": "Core of the port buildings\nCore of the port buildings\nCore of the port buildings"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportupgradepage.ab",
+   "path_id": 3032811138045145802,
+   "gameobject": "shipNum",
+   "zh": "停泊战船数量",
+   "en": "Docked Warships"
+  },
+  {
+   "bundle": "restobundle/pages/seaport/uiseaportupgradepage.ab",
+   "path_id": 3622174490087873055,
+   "gameobject": "info",
+   "zh": "指挥部5级",
+   "en": "Command Post Lv5"
+  },
+  {
+   "bundle": "restobundle/pages/seasetsailpage.ab",
+   "path_id": 5843098708978672579,
+   "gameobject": "TitleText",
+   "zh": "出航结算",
+   "en": "Voyage Results"
+  },
+  {
+   "bundle": "restobundle/pages/seasetsailpage.ab",
+   "path_id": 6333920772027533294,
+   "gameobject": "Text",
+   "zh": "被海岛船劫掠",
+   "en": "Raided by island ships"
+  },
+  {
+   "bundle": "restobundle/pages/voyageadventurepage.ab",
+   "path_id": -38656331854189195,
+   "gameobject": "Content",
+   "zh": "所有的计划都按照预期在进行，沙之国的两位守护者以及精锐士兵在王城拼上性命的反抗勾起了你戏谑的欲望。但此时草帽一伙的再次出现打乱了之前的一切。\r\n",
+   "en": "Every plan is going as expected. The two guardians of the Kingdom of Sand and its elite soldiers risking their lives to resist in the royal capital only stirs your desire to toy with them. But the Straw Hats show up again and throw everything into disarray.\r\n"
+  },
+  {
+   "bundle": "restobundle/pages/voyageadventurepage.ab",
+   "path_id": 1497968903997756036,
+   "gameobject": "Title",
+   "zh": "阿拉巴斯坦王城决战 .上篇",
+   "en": "Final Battle at Alabasta Palace, Part 1"
+  },
+  {
+   "bundle": "restobundle/pages/voyageadventurepage.ab",
+   "path_id": 3674985952857313504,
+   "gameobject": "Content",
+   "zh": "所有的计划都按照预期在进行，沙之国的两位守护者以及精锐士兵在王城拼上性命的反抗勾起了你戏谑的欲望。但此时草帽一伙的再次出现打乱了之前的一切。\r\n",
+   "en": "Every plan is going as expected. The two guardians of the Kingdom of Sand and its elite soldiers risking their lives to resist in the royal capital only stirs your desire to toy with them. But the Straw Hats show up again and throw everything into disarray.\r\n"
+  },
+  {
+   "bundle": "restobundle/pages/voyageadventurepage.ab",
+   "path_id": 7150327265135210833,
+   "gameobject": "Text",
+   "zh": "前往\n完成",
+   "en": "Go\nDone"
+  },
+  {
+   "bundle": "restobundle/pages/voyageadventurepage.ab",
+   "path_id": 8766545558931611812,
+   "gameobject": "Title",
+   "zh": "阿拉巴斯坦王城决战 .上篇",
+   "en": "Final Battle at Alabasta Palace, Part 1"
+  },
+  {
+   "bundle": "restobundle/pages/voyagesweeprewardpage.ab",
+   "path_id": 6895073606397419485,
+   "gameobject": "HeroName (1)",
+   "zh": "达到积分要求领取<color=#cb4c00>对应奖励</color>",
+   "en": "Reach the point requirement to claim <color=#cb4c00>matching rewards</color>"
+  },
+  {
+   "bundle": "restobundle/pages/voyagesweeprewardpage.ab",
+   "path_id": 8902748138588752165,
+   "gameobject": "Text",
+   "zh": "获得2000000积分",
+   "en": "Get 2000000 points"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -8865431177527212248,
+   "gameobject": "Text",
+   "zh": "挑战详情",
+   "en": "Challenge Details"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -7028650856412641051,
+   "gameobject": "Physical",
+   "zh": "玩家体力加分:",
+   "en": "Player Stamina Bonus:"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -6550659845918553052,
+   "gameobject": "FightNum",
+   "zh": "所用回合:",
+   "en": "Turns Used:"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -6004068575749403534,
+   "gameobject": "High",
+   "zh": "最高得分",
+   "en": "High Score"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -5869166744939230053,
+   "gameobject": "Title",
+   "zh": "启用挑战项",
+   "en": "Active Challenges"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -5466483113991600024,
+   "gameobject": "CaptainText",
+   "zh": "队长",
+   "en": "Captain"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -5290480178589002395,
+   "gameobject": "txtTitle",
+   "zh": "增益挑战项",
+   "en": "Buff Challenges"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -4250619786920130382,
+   "gameobject": "txtTitle",
+   "zh": "中立挑战项",
+   "en": "Neutral Challenges"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -2237161488274972343,
+   "gameobject": "Current",
+   "zh": "此次得分",
+   "en": "This Score"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -2233632636716527085,
+   "gameobject": "txtTitle",
+   "zh": "战斗结束",
+   "en": "Battle Over"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -1404272346422736014,
+   "gameobject": "TakeDamage",
+   "zh": "受到伤害：",
+   "en": "Damage Taken:"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": -279234123911947042,
+   "gameobject": "name",
+   "zh": "米霍克",
+   "en": "Mihawk"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": 969362798434478379,
+   "gameobject": "Challenge",
+   "zh": "挑战项额外加分:",
+   "en": "Challenge Bonus:"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": 1154157911751784302,
+   "gameobject": "Live",
+   "zh": "存活数加分:",
+   "en": "Survivor Bonus:"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": 1200411580400043415,
+   "gameobject": "RemainPhysical",
+   "zh": "玩家剩余体力:",
+   "en": "Player Stamina Left:"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": 1401819304834103019,
+   "gameobject": "Round",
+   "zh": "回合数加分:",
+   "en": "Turn Bonus:"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": 1589498365152397761,
+   "gameobject": "title",
+   "zh": "作战数据",
+   "en": "Battle Data"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": 3849701430129032159,
+   "gameobject": "TitleText",
+   "zh": "分数说明",
+   "en": "Score Info"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": 4780102226024194742,
+   "gameobject": "txtCondition",
+   "zh": "敌方全体全部属性大幅下降",
+   "en": "All enemy stats greatly reduced"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": 5336175793255040540,
+   "gameobject": "DealDamage",
+   "zh": "造成伤害：",
+   "en": "Damage Dealt:"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": 6426020723369575798,
+   "gameobject": "Image",
+   "zh": "点击屏幕继续",
+   "en": "Tap the screen to continue"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": 7041753533210141878,
+   "gameobject": "txtTitle",
+   "zh": "减益挑战项",
+   "en": "Debuff Challenges"
+  },
+  {
+   "bundle": "restobundle/ui/fightresult/seaexploreresultpage.ab",
+   "path_id": 8702629693268772016,
+   "gameobject": "MyPhysical0",
+   "zh": "友方力竭人数:",
+   "en": "Allied Exhausted Units:"
+  }
+ ],
+ "glossary_additions": {
+  "红名": "red name",
+  "战争模式": "War Mode",
+  "和平模式": "Peace Mode",
+  "力竭": "Exhausted",
+  "出海": "Set Sail / Voyage",
+  "首领探索": "Boss Exploration",
+  "补给站": "Supply Station"
+ },
+ "uncertain_notes": [
+  "sailfishing.ab bu/zhong/ci/yu: the four single characters 捕 中 次 鱼 are separate widgets of one label (catching... times... fish); rendered as Catch / ing / Times / Fish. Their order on screen is unknown.",
+  "Several items are developer placeholders (小鸟游晶彦, 路飞路飞路飞, 斯斯斯斯斯, repeated 阵容描述 / 进行条件 / 曾经到达, etc.). They were translated literally as the guide asks.",
+  "seaareaislandpage Text: the long field-rules text starts with a truncated copy in the source (域中玩家间不可进行PK ... 但红。); the truncation was kept in English.",
+  "seaareaislandpage single-character buttons 队 / 暂 / 离 / 世 / 公 rendered Team / Pause / Leave / World / Guild (chat tabs and buttons).",
+  "雷德福德号 rendered Red Force (Shanks's ship).",
+  "seapage name 无视是 rendered 'Ignore'; the meaning of this placeholder is unclear."
+ ]
+}
