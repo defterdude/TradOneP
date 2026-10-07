@@ -2697,6 +2697,1418 @@
      "defaultDialog": "Get him! Take his head!"
     },
     {
+     "id": "3477",
+     "defaultDialog": "Heh heh heh... Should we swallow him whole?"
+    },
+    {
+     "id": "3478",
+     "defaultDialog": "Or should we strangle him?"
+    },
+    {
+     "id": "3480",
+     "defaultDialog": "A terrible past I'd rather not remember..."
+    },
+    {
+     "id": "3481",
+     "defaultDialog": "And you call yourself a pirate. You don't know anything."
+    },
+    {
+     "id": "3482",
+     "defaultDialog": "I heard everything... You saved me. Thank you, Luffy!"
+    },
+    {
+     "id": "3485",
+     "defaultDialog": "That person... is going to be killed..."
+    },
+    {
+     "id": "3691",
+     "defaultDialog": "Sigh... I knew it..."
+    },
+    {
+     "id": "3692",
+     "defaultDialog": "Looks like there's someone in that cage."
+    },
+    {
+     "id": "3693",
+     "defaultDialog": "...I knew it... That voice, and that rare silhouette... Hey, Nami, what do you think?"
+    },
+    {
+     "id": "3700",
+     "defaultDialog": "Catching any one of them would make us rich... except that raccoon dog."
+    },
+    {
+     "id": "3705",
+     "defaultDialog": "Boys! Charge!"
+    },
+    {
+     "id": "3711",
+     "defaultDialog": "Young master! Heeey~~~~~~ yahoo~~~~~~! The name's Handsome! No, wait! I'm Duval!!!"
+    },
+    {
+     "id": "3712",
+     "defaultDialog": "A rose-colored life!"
+    },
+    {
+     "id": "3713",
+     "defaultDialog": "Young master! This way! Hurry!"
+    },
+    {
+     "id": "3714",
+     "defaultDialog": "Never seen you before..."
+    },
+    {
+     "id": "3715",
+     "defaultDialog": "Halt!"
+    },
+    {
+     "id": "3718",
+     "defaultDialog": "We'll catch you before Snake Princess gets back!"
+    },
+    {
+     "id": "3721",
+     "defaultDialog": "The guild's repairs need your help, and of course you'll be rewarded."
+    },
+    {
+     "id": "3722",
+     "defaultDialog": "Hey! What are you looking at! Get lost!"
+    },
+    {
+     "id": "3724",
+     "defaultDialog": "Hmm... the plan! It can't fail!"
+    },
+    {
+     "id": "3727",
+     "defaultDialog": "Ah! You scared me!"
+    },
+    {
+     "id": "3728",
+     "defaultDialog": "This is our home!"
+    },
+    {
+     "id": "3729",
+     "defaultDialog": "My son! My son is missing!"
+    },
+    {
+     "id": "3730",
+     "defaultDialog": "Ha ha ha, made another fortune today."
+    },
+    {
+     "id": "3731",
+     "defaultDialog": "This is our turf!"
+    },
+    {
+     "id": "3732",
+     "defaultDialog": "Do you think I'm handsome?"
+    },
+    {
+     "id": "3733",
+     "defaultDialog": "I never pay for my meals!"
+    },
+    {
+     "id": "3734",
+     "defaultDialog": "Burning up again today! Aaaaah!"
+    },
+    {
+     "id": "3735",
+     "defaultDialog": "Hmm? Are you buying slaves or selling them?"
+    },
+    {
+     "id": "3736",
+     "defaultDialog": "Catch just one and we'll make a killing!"
+    },
+    {
+     "id": "3737",
+     "defaultDialog": "Only I get to make this money!"
+    },
+    {
+     "id": "3738",
+     "defaultDialog": "You're my money! Ha ha ha ha ha!"
+    },
+    {
+     "id": "3739",
+     "defaultDialog": "Finally... free"
+    },
+    {
+     "id": "3740",
+     "defaultDialog": "Home... going home!"
+    },
+    {
+     "id": "3741",
+     "defaultDialog": "Thank you so much!"
+    },
+    {
+     "id": "3742",
+     "defaultDialog": "I wonder how my friends are doing!"
+    },
+    {
+     "id": "3743",
+     "defaultDialog": "I don't want to remember the days I was captive!"
+    },
+    {
+     "id": "3744",
+     "defaultDialog": "Thank you! Thank you so much!"
+    },
+    {
+     "id": "3748",
+     "defaultDialog": "Stop!"
+    },
+    {
+     "id": "3749",
+     "defaultDialog": "Damn! How did this happen!"
+    },
+    {
+     "id": "3750",
+     "defaultDialog": "I'm about to fire!"
+    },
+    {
+     "id": "3751",
+     "defaultDialog": "Wait, you guys!"
+    },
+    {
+     "id": "3755",
+     "defaultDialog": "I should've listened to Pappag and not gone ashore... Sorry, everyone"
+    },
+    {
+     "id": "3816",
+     "defaultDialog": "Welcome to my Impel Down!!! Oops, I said \"my\"... my ambition slipped out."
+    },
+    {
+     "id": "3819",
+     "defaultDialog": "Please be gentle..."
+    },
+    {
+     "id": "3820",
+     "defaultDialog": "That was close! I thought we'd be spotted..."
+    },
+    {
+     "id": "3822",
+     "defaultDialog": "Nothing's happening in there, right! I really want to go in and see!"
+    },
+    {
+     "id": "3824",
+     "defaultDialog": "(Luffy, please be safe...)"
+    },
+    {
+     "id": "3825",
+     "defaultDialog": "(When will I become Chief Warden?)"
+    },
+    {
+     "id": "3828",
+     "defaultDialog": "Hey hey hey hey, bro, bro!!"
+    },
+    {
+     "id": "3829",
+     "defaultDialog": "You're out here!"
+    },
+    {
+     "id": "3839",
+     "defaultDialog": "Damn! I'll show you what the great Buggy can do!"
+    },
+    {
+     "id": "3840",
+     "defaultDialog": "I'm running out of time!"
+    },
+    {
+     "id": "3844",
+     "defaultDialog": "What? You're not breaking out?!"
+    },
+    {
+     "id": "3845",
+     "defaultDialog": "Do you know how to get to Level 5!?"
+    },
+    {
+     "id": "3852",
+     "defaultDialog": "What!!? You want to save Ace!!?"
+    },
+    {
+     "id": "3853",
+     "defaultDialog": "Wait for me, Straw Hat!!!"
+    },
+    {
+     "id": "3854",
+     "defaultDialog": "This is Impel Down's Level 1: Crimson Hell!"
+    },
+    {
+     "id": "3855",
+     "defaultDialog": "A crimson forest..."
+    },
+    {
+     "id": "3856",
+     "defaultDialog": "I need a chance to slip away..."
+    },
+    {
+     "id": "3857",
+     "defaultDialog": "So this is Level 2..."
+    },
+    {
+     "id": "3858",
+     "defaultDialog": "Straw Hat is going to save his brother Ace."
+    },
+    {
+     "id": "3859",
+     "defaultDialog": "Huh!? We're not breaking out!? We're not heading for Level 1!!?"
+    },
+    {
+     "id": "3860",
+     "defaultDialog": "Noodles..."
+    },
+    {
+     "id": "3861",
+     "defaultDialog": "Whoa... something seems to be there..."
+    },
+    {
+     "id": "3864",
+     "defaultDialog": "Level 3... How did we end up in a place like this...!! Straw Hat, you dragged us into it again!!!"
+    },
+    {
+     "id": "3865",
+     "defaultDialog": "...For someone with candle powers like me... this place is unbearable~~~..."
+    },
+    {
+     "id": "3866",
+     "defaultDialog": "Hey... let us in..."
+    },
+    {
+     "id": "3867",
+     "defaultDialog": "Those three... especially Straw Hat, absolutely can't be allowed to escape!!!"
+    },
+    {
+     "id": "3883",
+     "defaultDialog": "We have to get out of here while we can still sweat from the heat!!!"
+    },
+    {
+     "id": "3884",
+     "defaultDialog": "Hm? What's this!? A net!?"
+    },
+    {
+     "id": "3885",
+     "defaultDialog": "Uh-oh!!! It's a trap!!!"
+    },
+    {
+     "id": "3886",
+     "defaultDialog": "Huff... huff...!? Huh!? Where did they go...!?"
+    },
+    {
+     "id": "3887",
+     "defaultDialog": "He's trying to escape!! After him!!!"
+    },
+    {
+     "id": "3895",
+     "defaultDialog": "Long time no see, Straw Hat Boy!!!"
+    },
+    {
+     "id": "3896",
+     "defaultDialog": "Bon-chan!!! You're alive!!!"
+    },
+    {
+     "id": "3898",
+     "defaultDialog": "Look, Straw Hat Boy, look down there."
+    },
+    {
+     "id": "3900",
+     "defaultDialog": "Absolutely not. If I melt any more, there'll be nothing left of me."
+    },
+    {
+     "id": "3901",
+     "defaultDialog": "Forget them, Straw Hat Boy. They're totally spineless."
+    },
+    {
+     "id": "3902",
+     "defaultDialog": "Remember my powerful special Buggy Cannonball that plunged you into the depths of terror!!?"
+    },
+    {
+     "id": "3903",
+     "defaultDialog": "Don't remember."
+    },
+    {
+     "id": "3904",
+     "defaultDialog": "...Huh? It's that way, hurry!!!"
+    },
+    {
+     "id": "3905",
+     "defaultDialog": "Hey! Where are you going!!?"
+    },
+    {
+     "id": "3906",
+     "defaultDialog": "We may have walked into an ambush..."
+    },
+    {
+     "id": "3907",
+     "defaultDialog": "I'm hungry too!! Wait for me, Straw Hat Boy!"
+    },
+    {
+     "id": "3908",
+     "defaultDialog": "This is as far as you go, rats...!!!"
+    },
+    {
+     "id": "3928",
+     "defaultDialog": "Be patient, Luffy..."
+    },
+    {
+     "id": "3929",
+     "defaultDialog": "So this is Impel Down."
+    },
+    {
+     "id": "3938",
+     "defaultDialog": "How do I get out of this damn prison..."
+    },
+    {
+     "id": "3939",
+     "defaultDialog": "The key...!"
+    },
+    {
+     "id": "3940",
+     "defaultDialog": "Help!"
+    },
+    {
+     "id": "3943",
+     "defaultDialog": "Don't cause me trouble!"
+    },
+    {
+     "id": "3944",
+     "defaultDialog": "So... so disgusting..."
+    },
+    {
+     "id": "3945",
+     "defaultDialog": "You monsters sure chase hard!"
+    },
+    {
+     "id": "3946",
+     "defaultDialog": "(Escape... escape...)"
+    },
+    {
+     "id": "3967",
+     "defaultDialog": "A lion?"
+    },
+    {
+     "id": "3968",
+     "defaultDialog": "What's that over there?"
+    },
+    {
+     "id": "4012",
+     "defaultDialog": "Can you help me escape!"
+    },
+    {
+     "id": "4013",
+     "defaultDialog": "Careful!"
+    },
+    {
+     "id": "4017",
+     "defaultDialog": "Hey! This is a great chance to escape!"
+    },
+    {
+     "id": "4018",
+     "defaultDialog": "Did they let my friend out?"
+    },
+    {
+     "id": "4021",
+     "defaultDialog": "There are beasts ahead! Careful!"
+    },
+    {
+     "id": "4022",
+     "defaultDialog": "Give me the key!"
+    },
+    {
+     "id": "4024",
+     "defaultDialog": "I've worked here for years. When can I go home..."
+    },
+    {
+     "id": "4026",
+     "defaultDialog": "Don't even think about escaping!!"
+    },
+    {
+     "id": "4067",
+     "defaultDialog": "Sorry... Straw Hat Boy..."
+    },
+    {
+     "id": "4070",
+     "defaultDialog": "Here it comes, here it comes! Here's our chance!"
+    },
+    {
+     "id": "4071",
+     "defaultDialog": "This..."
+    },
+    {
+     "id": "4085",
+     "defaultDialog": "So... so strong... this strong...!!!"
+    },
+    {
+     "id": "4086",
+     "defaultDialog": "I don't want to be tortured... If I'm going to be tortured, I'd rather bite my tongue off right now!!!"
+    },
+    {
+     "id": "4087",
+     "defaultDialog": "Hey! Wait!!!"
+    },
+    {
+     "id": "4088",
+     "defaultDialog": "What on earth is going on!!!"
+    },
+    {
+     "id": "4089",
+     "defaultDialog": "I-I'm terribly sorry...!! I was careless...!!!"
+    },
+    {
+     "id": "4103",
+     "defaultDialog": "So cold!!"
+    },
+    {
+     "id": "4104",
+     "defaultDialog": "One more thing to make us shiver...!"
+    },
+    {
+     "id": "4105",
+     "defaultDialog": "So cold!! It cuts to the bone!"
+    },
+    {
+     "id": "4112",
+     "defaultDialog": "Aaaaaaah..."
+    },
+    {
+     "id": "4118",
+     "defaultDialog": "Must... find Straw Hat Boy fast..."
+    },
+    {
+     "id": "4129",
+     "defaultDialog": "At a time like this...! I'll protect Straw Hat Boy!"
+    },
+    {
+     "id": "4142",
+     "defaultDialog": "Huh... where is..."
+    },
+    {
+     "id": "4143",
+     "defaultDialog": "Ara... you're awake?"
+    },
+    {
+     "id": "4151",
+     "defaultDialog": "Emporio Ivankov!!! I'm back for revenge!"
+    },
+    {
+     "id": "4152",
+     "defaultDialog": "Stop, stop!! Aaah~~~~!!"
+    },
+    {
+     "id": "4153",
+     "defaultDialog": "Straw Hat Boy's treatment began 10 hours ago!!!"
+    },
+    {
+     "id": "4154",
+     "defaultDialog": "What's going on! Is this treatment!"
+    },
+    {
+     "id": "4155",
+     "defaultDialog": "Straw Hat Boy~~~~!!! He... he's going to die!!! His body is splitting open...!!!"
+    },
+    {
+     "id": "4156",
+     "defaultDialog": "Where on earth is this!?"
+    },
+    {
+     "id": "4157",
+     "defaultDialog": "I ate the Hormone-Hormone Fruit, and I control hormones freely!"
+    },
+    {
+     "id": "4158",
+     "defaultDialog": "S-Straw Hat Boy!!! Hang in there~~~~!!! Hang in there~~~~!!!"
+    },
+    {
+     "id": "4159",
+     "defaultDialog": "This Bon Boy is fighting the pain together with Straw Hat Boy!!"
+    },
+    {
+     "id": "4160",
+     "defaultDialog": "S-Straw Hat Boy..."
+    },
+    {
+     "id": "4171",
+     "defaultDialog": "I'm back!!!!!"
+    },
+    {
+     "id": "4175",
+     "defaultDialog": "They say there are escapees over here..."
+    },
+    {
+     "id": "4176",
+     "defaultDialog": "We'll just have to search. Hopefully they're easy to handle..."
+    },
+    {
+     "id": "4177",
+     "defaultDialog": "Out of the way!!!!"
+    },
+    {
+     "id": "4178",
+     "defaultDialog": "No surveillance here. If we don't sneak around, it's not that far!! Full speed ahead!!!"
+    },
+    {
+     "id": "4179",
+     "defaultDialog": "Hurry, a moment too late and the ending changes!!"
+    },
+    {
+     "id": "4185",
+     "defaultDialog": "So this is Eternal Hell..."
+    },
+    {
+     "id": "4186",
+     "defaultDialog": "Eternal Hell, where the legendary prisoners with bounties over 100 million are held..."
+    },
+    {
+     "id": "4187",
+     "defaultDialog": "We'll finish you off here!!!"
+    },
+    {
+     "id": "4192",
+     "defaultDialog": "Long time no see... Straw Hat...!"
+    },
+    {
+     "id": "4193",
+     "defaultDialog": "I want to save Ace!!! Please!!!"
+    },
+    {
+     "id": "4196",
+     "defaultDialog": "Ace is going to be executed!!! I'm going to save him!!!"
+    },
+    {
+     "id": "4197",
+     "defaultDialog": "...Is it really okay..."
+    },
+    {
+     "id": "4198",
+     "defaultDialog": "All right, we don't have much time left now..."
+    },
+    {
+     "id": "4202",
+     "defaultDialog": "Hmph... even if you try to stop the war between Whitebeard and the Marines, it's a waste of effort."
+    },
+    {
+     "id": "4203",
+     "defaultDialog": "Thank you so much... Maybe now I can do a little something for that person!"
+    },
+    {
+     "id": "4204",
+     "defaultDialog": "Right now we simply need numbers!! We need more allies!!"
+    },
+    {
+     "id": "4216",
+     "defaultDialog": "Move! Out of the way!!!"
+    },
+    {
+     "id": "4217",
+     "defaultDialog": "Haven't moved my body in a while..."
+    },
+    {
+     "id": "4218",
+     "defaultDialog": "If you insist on standing in my way... then I'm sorry!"
+    },
+    {
+     "id": "4219",
+     "defaultDialog": "I can't lose to Straw Hat Boy either!"
+    },
+    {
+     "id": "4220",
+     "defaultDialog": "Anyway!! There's still a chance!!!"
+    },
+    {
+     "id": "4221",
+     "defaultDialog": "Mr. Ace is out at sea, and the war could break out at any moment!!!"
+    },
+    {
+     "id": "4222",
+     "defaultDialog": "Hmph... the gate means nothing."
+    },
+    {
+     "id": "4229",
+     "defaultDialog": "Intruder Monkey D. Luffy!! Former Warlord Crocodile!! Here they are!! Engage!!! Fire!!"
+    },
+    {
+     "id": "4245",
+     "defaultDialog": "I want to get out of here... but I need some manpower. How about it, coming with me? Mr. 1"
+    },
+    {
+     "id": "4246",
+     "defaultDialog": "Go! Blugoris! Slaughter them all!!!"
+    },
+    {
+     "id": "4251",
+     "defaultDialog": "Heh-ha! Finally caught up with you!!"
+    },
+    {
+     "id": "4252",
+     "defaultDialog": "We have to hurry on!"
+    },
+    {
+     "id": "4256",
+     "defaultDialog": "Let's keep going..."
+    },
+    {
+     "id": "4258",
+     "defaultDialog": "These children won't let you take another step! Mmm~~!"
+    },
+    {
+     "id": "4262",
+     "defaultDialog": "This is Hell's great fortress!! No one gets through!!!!"
+    },
+    {
+     "id": "4276",
+     "defaultDialog": "Quite a lot of big shots gathered here! Zehahahaha!!!"
+    },
+    {
+     "id": "4277",
+     "defaultDialog": "The captain has made it into the Seven Warlords and is famous worldwide. Your life is no use anymore!"
+    },
+    {
+     "id": "4278",
+     "defaultDialog": "Wa... ha... ha... ha!"
+    },
+    {
+     "id": "4279",
+     "defaultDialog": "I said you won't get past, not a single step!!!"
+    },
+    {
+     "id": "4290",
+     "defaultDialog": "This must be the last batch. Nobody's standing behind them...!!!"
+    },
+    {
+     "id": "4291",
+     "defaultDialog": "Lady Iva... please be safe!!"
+    },
+    {
+     "id": "4292",
+     "defaultDialog": "Even if you buy time, Straw Hat and the others can't escape from here."
+    },
+    {
+     "id": "4293",
+     "defaultDialog": "Wait for me! Ace!!!"
+    },
+    {
+     "id": "4294",
+     "defaultDialog": "Warships and prison ships have the prison surrounded. If we can seize one of them, we can reach Marineford before Mr. Ace is executed!!!"
+    },
+    {
+     "id": "4295",
+     "defaultDialog": "Hmm..."
+    },
+    {
+     "id": "4297",
+     "defaultDialog": "Little 1! What are you doing here!!"
+    },
+    {
+     "id": "4311",
+     "defaultDialog": "There he is!!!!"
+    },
+    {
+     "id": "4312",
+     "defaultDialog": "We can't win!!! Run!!!"
+    },
+    {
+     "id": "4313",
+     "defaultDialog": "Run!!!"
+    },
+    {
+     "id": "4314",
+     "defaultDialog": "There's no way we can beat him!!!!"
+    },
+    {
+     "id": "4319",
+     "defaultDialog": "Huh? It's you..."
+    },
+    {
+     "id": "4320",
+     "defaultDialog": "Magellan is about to catch up! Go!!!"
+    },
+    {
+     "id": "4321",
+     "defaultDialog": "Great!! You're okay!!"
+    },
+    {
+     "id": "4323",
+     "defaultDialog": "B-b-b-b-boss~~~~~~!!!?"
+    },
+    {
+     "id": "4324",
+     "defaultDialog": "Who are you calling a pervert! You dared to leave me to die back then!!!"
+    },
+    {
+     "id": "4325",
+     "defaultDialog": "Whaaa~~~~~~!!! S-s-s-s-Straw Hat~~~~~~!!!"
+    },
+    {
+     "id": "4326",
+     "defaultDialog": "So many people on this level!"
+    },
+    {
+     "id": "4327",
+     "defaultDialog": "The exit is right ahead!!"
+    },
+    {
+     "id": "4334",
+     "defaultDialog": "Leave the rest to me!"
+    },
+    {
+     "id": "4335",
+     "defaultDialog": "What... what's going on!!? There isn't a single warship!!!"
+    },
+    {
+     "id": "4337",
+     "defaultDialog": "Not even one Marine..."
+    },
+    {
+     "id": "4338",
+     "defaultDialog": "No way... are we out of options!!?"
+    },
+    {
+     "id": "4344",
+     "defaultDialog": "I see... the enemy isn't as foolish as I thought."
+    },
+    {
+     "id": "4353",
+     "defaultDialog": "Luffy-kun, you gave me the chance to save Mr. Ace this time. I owe you big."
+    },
+    {
+     "id": "4354",
+     "defaultDialog": "So you're one of the Seven Warlords~~~~!!? No wonder you're so strong!!!"
+    },
+    {
+     "id": "4355",
+     "defaultDialog": "We broke out of prison because of this war in the first place."
+    },
+    {
+     "id": "4358",
+     "defaultDialog": "What is this guy saying..."
+    },
+    {
+     "id": "4359",
+     "defaultDialog": "I don't get it..."
+    },
+    {
+     "id": "4375",
+     "defaultDialog": "Inazuma can't be sacrificed yet!"
+    },
+    {
+     "id": "4380",
+     "defaultDialog": "You're all so amazing!"
+    },
+    {
+     "id": "4381",
+     "defaultDialog": "There's been a secret base underground all along!"
+    },
+    {
+     "id": "4382",
+     "defaultDialog": "So, are you going to become New Kama? Welcome~"
+    },
+    {
+     "id": "4386",
+     "defaultDialog": "Have we met before?"
+    },
+    {
+     "id": "4387",
+     "defaultDialog": "Yeah, don't you remember us brothers? We were in the same cell!"
+    },
+    {
+     "id": "4388",
+     "defaultDialog": "What... are you doing!!"
+    },
+    {
+     "id": "4390",
+     "defaultDialog": "If only we'd had a cannon like this back then..."
+    },
+    {
+     "id": "4391",
+     "defaultDialog": "We'd never have been caught!"
+    },
+    {
+     "id": "4392",
+     "defaultDialog": "What's inside here?"
+    },
+    {
+     "id": "4393",
+     "defaultDialog": "Could there be some Marine secrets?"
+    },
+    {
+     "id": "4396",
+     "defaultDialog": "What are you doing! I... I'm very strong! Stay back!!"
+    },
+    {
+     "id": "4397",
+     "defaultDialog": "Hey! You said you had treasure!"
+    },
+    {
+     "id": "4398",
+     "defaultDialog": "Didn't you say you'd split it with us once we got out of prison? What? Forgot?"
+    },
+    {
+     "id": "4404",
+     "defaultDialog": "Straw Hat Boy! I'll save you no matter what!!"
+    },
+    {
+     "id": "4406",
+     "defaultDialog": "Yeehaw~"
+    },
+    {
+     "id": "4471",
+     "defaultDialog": "Can I... can I really escape this prison? I... I have no strength left..."
+    },
+    {
+     "id": "4482",
+     "defaultDialog": "We're about to catch them!"
+    },
+    {
+     "id": "4488",
+     "defaultDialog": "Stop them, no matter what!"
+    },
+    {
+     "id": "4490",
+     "defaultDialog": "Hey! Can you help me?"
+    },
+    {
+     "id": "4491",
+     "defaultDialog": "Th... thanks!"
+    },
+    {
+     "id": "4492",
+     "defaultDialog": "With the Army Wolves and Jailers around, I can't move..."
+    },
+    {
+     "id": "4493",
+     "defaultDialog": ".........Huh? ...Pervert...?"
+    },
+    {
+     "id": "4499",
+     "defaultDialog": "Prepare yourself!!!"
+    },
+    {
+     "id": "4503",
+     "defaultDialog": "Why did the Army Wolves come so fast! Damn! We're surrounded!!"
+    },
+    {
+     "id": "4507",
+     "defaultDialog": "Hey! What on earth is going on!!"
+    },
+    {
+     "id": "4508",
+     "defaultDialog": "This is \"Newkama Land\"~"
+    },
+    {
+     "id": "4509",
+     "defaultDialog": "Please! Help me!"
+    },
+    {
+     "id": "4510",
+     "defaultDialog": "Huff... huff... s-saved~...!"
+    },
+    {
+     "id": "4651",
+     "defaultDialog": "D-don't come near me!"
+    },
+    {
+     "id": "4652",
+     "defaultDialog": "Aaaaah... unforgivable!!!"
+    },
+    {
+     "id": "4657",
+     "defaultDialog": "You won't get through here!!"
+    },
+    {
+     "id": "4659",
+     "defaultDialog": "Hmph, you shouldn't underestimate your enemy"
+    },
+    {
+     "id": "4662",
+     "defaultDialog": "Ha ha ha ha! Again, again!!"
+    },
+    {
+     "id": "4663",
+     "defaultDialog": "Huff... huff... more reinforcements?"
+    },
+    {
+     "id": "4664",
+     "defaultDialog": "Ha ha!! I won't lose to anyone!"
+    },
+    {
+     "id": "4665",
+     "defaultDialog": "Damn... too many pirates..."
+    },
+    {
+     "id": "4666",
+     "defaultDialog": "Useless!"
+    },
+    {
+     "id": "4675",
+     "defaultDialog": "Heh heh heh, now I'm going to be rich..."
+    },
+    {
+     "id": "4678",
+     "defaultDialog": "This is a great chance to join the Seven Warlords!"
+    },
+    {
+     "id": "4679",
+     "defaultDialog": "Heh heh heh, a bunch of fools"
+    },
+    {
+     "id": "4689",
+     "defaultDialog": "Hmph! Struggling is useless!"
+    },
+    {
+     "id": "4692",
+     "defaultDialog": "Ha ha ha ha! Die, all of you!"
+    },
+    {
+     "id": "4693",
+     "defaultDialog": "Hold formation! Don't let the pirates break through!"
+    },
+    {
+     "id": "4762",
+     "defaultDialog": "If you want to charge into the battlefield, you'll have to step over my corpse!"
+    },
+    {
+     "id": "4766",
+     "defaultDialog": "Hey! Did you see inside! The fighting has started!"
+    },
+    {
+     "id": "4767",
+     "defaultDialog": "The battle inside is so fierce!"
+    },
+    {
+     "id": "4768",
+     "defaultDialog": "This is a battlefield! Anyone looking around will die!"
+    },
+    {
+     "id": "4776",
+     "defaultDialog": "Their Admiral has made a move! What do we do!"
+    },
+    {
+     "id": "4777",
+     "defaultDialog": "Hmph... the commanders won't just stand by..."
+    },
+    {
+     "id": "4778",
+     "defaultDialog": "Halt! You're staying right here!"
+    },
+    {
+     "id": "4781",
+     "defaultDialog": "Oars Jr.! Charge!"
+    },
+    {
+     "id": "4783",
+     "defaultDialog": "Kid! This is Marine territory!"
+    },
+    {
+     "id": "4795",
+     "defaultDialog": "Damn... cough... wounded by a Vice Admiral... it's up to Oars Jr. now!"
+    },
+    {
+     "id": "4797",
+     "defaultDialog": "Don't think you'll get past me that easily!"
+    },
+    {
+     "id": "4810",
+     "defaultDialog": "Oars Jr...."
+    },
+    {
+     "id": "4811",
+     "defaultDialog": "Damn! These lackeys who sell their lives to the Marines!"
+    },
+    {
+     "id": "4821",
+     "defaultDialog": "Ace..."
+    },
+    {
+     "id": "4822",
+     "defaultDialog": "It's not time to step in yet..."
+    },
+    {
+     "id": "4823",
+     "defaultDialog": "Pops..."
+    },
+    {
+     "id": "4825",
+     "defaultDialog": "Why are you protecting Whitebeard."
+    },
+    {
+     "id": "4827",
+     "defaultDialog": "I'm the one who'll become Pirate King!"
+    },
+    {
+     "id": "4828",
+     "defaultDialog": "Whitebeard's head... heh heh heh~~~"
+    },
+    {
+     "id": "4829",
+     "defaultDialog": "Captain Buggy! Whitebeard's head is easy pickings for you!"
+    },
+    {
+     "id": "4830",
+     "defaultDialog": "Captain Buggy came to kill Whitebeard too, right!"
+    },
+    {
+     "id": "4831",
+     "defaultDialog": "Captain Buggy, I idolize you!"
+    },
+    {
+     "id": "4834",
+     "defaultDialog": "You've all lost your minds in your fantasies!"
+    },
+    {
+     "id": "4836",
+     "defaultDialog": "This is..."
+    },
+    {
+     "id": "4837",
+     "defaultDialog": "Straw Hat Luffy! What are you doing here!"
+    },
+    {
+     "id": "4840",
+     "defaultDialog": "As expected of the full force, extraordinary!!!"
+    },
+    {
+     "id": "4841",
+     "defaultDialog": "World, prepare yourself!!!"
+    },
+    {
+     "id": "4842",
+     "defaultDialog": "Finally here..."
+    },
+    {
+     "id": "4849",
+     "defaultDialog": "Don't get carried away!"
+    },
+    {
+     "id": "4859",
+     "defaultDialog": "Straw Hat Boy! Are you okay!"
+    },
+    {
+     "id": "4860",
+     "defaultDialog": "You're the one from Sabaody!"
+    },
+    {
+     "id": "4862",
+     "defaultDialog": "Ah!! That's the Kuma-like guy who sent us flying everywhere!!"
+    },
+    {
+     "id": "4863",
+     "defaultDialog": "Kuma!!!"
+    },
+    {
+     "id": "4864",
+     "defaultDialog": "You won't escape!!"
+    },
+    {
+     "id": "4873",
+     "defaultDialog": "Straw Hat...!! As fierce as ever... Right, I'll cut off your shadow again!! Get Oars moving!!!"
+    },
+    {
+     "id": "4874",
+     "defaultDialog": "Damn!"
+    },
+    {
+     "id": "4875",
+     "defaultDialog": "Luffy, leave this one to me."
+    },
+    {
+     "id": "4882",
+     "defaultDialog": "We finally meet, Straw Hat."
+    },
+    {
+     "id": "4883",
+     "defaultDialog": "That's... Straw Hat!"
+    },
+    {
+     "id": "4884",
+     "defaultDialog": "Silence! I'm too furious to hear anything!! You dared to knock my beloved down and pin him to the ground!!!"
+    },
+    {
+     "id": "4885",
+     "defaultDialog": "Fufufufu..."
+    },
+    {
+     "id": "4886",
+     "defaultDialog": "Sorry, Red-Hair... I won't hold back..."
+    },
+    {
+     "id": "4887",
+     "defaultDialog": "Go back to where you started..."
+    },
+    {
+     "id": "4889",
+     "defaultDialog": "Don't stop just because you met an Admiral!! Everyone at once!!!"
+    },
+    {
+     "id": "4890",
+     "defaultDialog": "Jinbe!! ...An Admiral's here... damn!!"
+    },
+    {
+     "id": "4891",
+     "defaultDialog": "Nice to meet you, Hawk-Eye Mihawk. Do you know me?"
+    },
+    {
+     "id": "4892",
+     "defaultDialog": "Is your head still attached! Ace!!"
+    },
+    {
+     "id": "4898",
+     "defaultDialog": "Hmph..."
+    },
+    {
+     "id": "4899",
+     "defaultDialog": "This is the end! Straw Hat!!! Die!!!"
+    },
+    {
+     "id": "4905",
+     "defaultDialog": "Your grandfather did me a favor once... but I'm sorry, this is the path of death you chose as a man."
+    },
+    {
+     "id": "4907",
+     "defaultDialog": "You won't get past here!"
+    },
+    {
+     "id": "4908",
+     "defaultDialog": "Straw Hat Luffy... I, Momonga, on my name as a Marine Vice Admiral, won't let you through!!!"
+    },
+    {
+     "id": "4910",
+     "defaultDialog": "Hmm... guts alone are useless... Straw Hat Luffy"
+    },
+    {
+     "id": "4911",
+     "defaultDialog": "Ace...!!!"
+    },
+    {
+     "id": "4912",
+     "defaultDialog": "Sorry, doctor, save his life no matter what!!"
+    },
+    {
+     "id": "4913",
+     "defaultDialog": "This is too serious...!!"
+    },
+    {
+     "id": "4914",
+     "defaultDialog": "...If I let you die, I couldn't face Dragon, you reckless fool!!!"
+    },
+    {
+     "id": "4924",
+     "defaultDialog": "Straw Hat... stay right there!"
+    },
+    {
+     "id": "4928",
+     "defaultDialog": "To live on as a Marine... nothing will change unless I fight!!! This is a battlefield!!!"
+    },
+    {
+     "id": "4934",
+     "defaultDialog": "Get lost, magma brat!!!"
+    },
+    {
+     "id": "4935",
+     "defaultDialog": "Whitebeard!!! Age catches up with everyone...!!!"
+    },
+    {
+     "id": "4936",
+     "defaultDialog": "Seastone!!"
+    },
+    {
+     "id": "4937",
+     "defaultDialog": "Oho... you got careless..."
+    },
+    {
+     "id": "4938",
+     "defaultDialog": "The Whitebeard Pirates are falling apart..."
+    },
+    {
+     "id": "4940",
+     "defaultDialog": "Hey!! What exactly are you trying to do!!!"
+    },
+    {
+     "id": "4943",
+     "defaultDialog": "Let me tell you something... love is always a hurricane!!!"
+    },
+    {
+     "id": "4945",
+     "defaultDialog": "We'll protect Pops's honor!!!"
+    },
+    {
+     "id": "4947",
+     "defaultDialog": "Protect Pops!!!"
+    },
+    {
+     "id": "4948",
+     "defaultDialog": "Aaaah!!!"
+    },
+    {
+     "id": "4997",
+     "defaultDialog": "President's orders: we're enemies of the Marines for now. Go!"
+    },
+    {
+     "id": "4998",
+     "defaultDialog": "The execution platform is right ahead!!! Straw Hat Boy!!! Just charge straight ahead!!!"
+    },
+    {
+     "id": "4999",
+     "defaultDialog": "Luffy, charge!!"
+    },
+    {
+     "id": "5000",
+     "defaultDialog": "Can you still fight, Luffy!!!"
+    },
+    {
+     "id": "5001",
+     "defaultDialog": "Of course!!!"
+    },
+    {
+     "id": "5013",
+     "defaultDialog": "Don't think you've been saved!!! This is your execution ground!!!"
+    },
+    {
+     "id": "5029",
+     "defaultDialog": "You won't even see tomorrow's sun, and you talk about \"someday\"... There's no way you'll escape from here..."
+    },
+    {
+     "id": "5030",
+     "defaultDialog": "Fall back, Luffy!"
+    },
+    {
+     "id": "5031",
+     "defaultDialog": "That guy...!!"
+    },
+    {
+     "id": "5033",
+     "defaultDialog": "Straw Hat Boy!!! What are you standing around for!!!"
+    },
+    {
+     "id": "5034",
+     "defaultDialog": "Ace!!! Let's go!! The old man has made up his mind...!!!"
+    },
+    {
+     "id": "5041",
+     "defaultDialog": "You two!! Just run for the ship!!!"
+    },
+    {
+     "id": "5042",
+     "defaultDialog": "In the end, Whitebeard is just... a loser from the last era...!!!"
+    },
+    {
+     "id": "5044",
+     "defaultDialog": "He's about to die! Let's all attack together!"
+    },
+    {
+     "id": "5050",
+     "defaultDialog": "Loser... take that back...!!!"
+    },
+    {
+     "id": "5052",
+     "defaultDialog": "Ohhhhhhh!!! Ace!!!"
+    },
+    {
+     "id": "5053",
+     "defaultDialog": "You bastards!!! We've been waiting impatiently!!!"
+    },
+    {
+     "id": "5067",
+     "defaultDialog": "A... ce..."
+    },
+    {
+     "id": "5141",
+     "defaultDialog": "It'd be stranger not to know..."
+    },
+    {
+     "id": "5189",
+     "defaultDialog": "You look strong!"
+    },
+    {
+     "id": "5190",
+     "defaultDialog": "Oh? Don't want to join?"
+    },
+    {
+     "id": "5193",
+     "defaultDialog": "Show me a good time!"
+    },
+    {
+     "id": "5194",
+     "defaultDialog": "You dare refuse us? Don't regret it!"
+    },
+    {
+     "id": "5195",
+     "defaultDialog": "Hmph, you're not bad!"
+    },
+    {
+     "id": "5205",
+     "defaultDialog": "Ha ha ha ha! How foolish!!"
+    },
+    {
+     "id": "5207",
+     "defaultDialog": "Next... is you, Straw Hat!!!"
+    },
+    {
+     "id": "5208",
+     "defaultDialog": "...Ace..."
+    },
+    {
+     "id": "5209",
+     "defaultDialog": "Straw Hat Boy!!!"
+    },
+    {
+     "id": "5210",
+     "defaultDialog": "Luffy!"
+    },
+    {
+     "id": "5211",
+     "defaultDialog": "Akainu!!!"
+    },
+    {
+     "id": "5213",
+     "defaultDialog": "His stomach is burned through...!! And he still has this much power...!!!"
+    },
+    {
+     "id": "5244",
+     "defaultDialog": "Zehahahaha!!! Long time no see!!!"
+    },
+    {
+     "id": "5246",
+     "defaultDialog": "Danger! Captain!"
+    },
+    {
+     "id": "5247",
+     "defaultDialog": "Wehahahahaha!"
+    },
+    {
+     "id": "5248",
+     "defaultDialog": "You monster!"
+    },
+    {
+     "id": "5249",
+     "defaultDialog": "Marines! I'll show you my power!"
+    },
+    {
+     "id": "5250",
+     "defaultDialog": "Show us, Captain!"
+    },
+    {
+     "id": "5251",
+     "defaultDialog": "Looks like we're almost ready..."
+    },
+    {
+     "id": "5252",
+     "defaultDialog": "If this fails, do we just split up?"
+    },
+    {
+     "id": "5254",
+     "defaultDialog": "We have to stop them!!"
+    },
+    {
+     "id": "5257",
+     "defaultDialog": "Pirates won't escape from here!!"
+    },
+    {
+     "id": "5263",
+     "defaultDialog": "Hmph! You can't escape!"
+    },
+    {
+     "id": "5268",
+     "defaultDialog": "Heh heh heh, almost got it!"
+    },
+    {
+     "id": "5270",
+     "defaultDialog": "We must defeat all the pirates at once!!"
+    },
+    {
      "id": "5520",
      "defaultDialog": "Hey!!!"
     },
@@ -2718,7 +4130,7 @@
     }
    ],
    "other_bundle_rows": [],
-   "partial": "676/1842 rows translated so far"
+   "partial": "1029/1842 rows translated so far"
   },
   "TableGuideStepExtra": {
    "key_column": "tag",
