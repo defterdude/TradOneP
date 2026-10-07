@@ -84247,6 +84247,54 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301276",
+     "skillName": "Stun",
+     "skillDesc": "Gives <color=#d14e0d>Slash: Cut Mochi</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Stun</color>, leaving the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>2 turns</color>; if the target is already <color=#d14e0d>Stunned</color>, <color=#d14e0d>damage is doubled</color>.$Gives <color=#d14e0d>Slash: Cut Mochi</color> a <color=#d14e0d>{buffper1,11958}%</color> chance to inflict <color=#d14e0d>Stun</color>, leaving the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>; if the target is already <color=#d14e0d>Stunned</color>, <color=#d14e0d>damage is doubled</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301277",
+     "skillName": "Ultimate Extension",
+     "skillDesc": "Enters Ultimate Extension: all skills deal extra <color=#d14e0d>True Damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK (True Damage ignores the enemy target's base DEF), and directly gains the <color=#d14e0d>Spear Mastery</color> skill effect (takes effect after unlocking \"Spear Mastery\"), for <color=#d14e0d>2</color> turns. Casting the Ultimate in this state does not re-enter Extension.$Enters Ultimate Extension: SPD +<color=#d14e0d>{buffper1,14543}%</color>, all skills deal extra <color=#d14e0d>True Damage</color> equal to <color=#d14e0d>{buffper1,14550}%</color> of own ATK (True Damage ignores the enemy target's base DEF), Katakuri's True Damage can CRIT, and he directly gains the <color=#d14e0d>Spear Mastery</color> skill effect (takes effect after unlocking \"Spear Mastery\"), for <color=#d14e0d>2</color> turns. Casting the Ultimate in this state does not re-enter Extension.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301278",
+     "skillName": "Future Sight",
+     "skillDesc": "Katakuri can <color=#d14e0d>see the future</color>, <color=#d14e0d>evading</color> <color=#d14e0d>all damage</color> from a single skill. Each <color=#d14e0d>1</color> skill evaded costs <color=#d14e0d>{buffper1}%</color> of his Max HP, up to <color=#d14e0d>3 times</color> per turn and <color=#d14e0d>5 times</color> on the first turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301279",
+     "skillName": "Spear Mastery",
+     "skillDesc": "When Katakuri's HP is at most <color=#d14e0d>80%</color>, <color=#d14e0d>DMG Bonus and DMG reduction</color> +<color=#d14e0d>{buffper1}%</color>, and all attacks <color=#d14e0d>always CRIT</color>.$When Katakuri's HP is at most <color=#d14e0d>80%</color>, <color=#d14e0d>DMG Bonus and DMG reduction</color> +<color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1,14544}%</color> and <color=#d14e0d>CRIT DMG</color> +<color=#d14e0d>{buffper2,14544}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301280",
+     "skillName": "Sweet Commander · Minister of Flour",
+     "skillDesc": "At action end, he can eat doughnuts to recover <color=#d14e0d>{buffper1}%</color> of Max HP, plus an extra <color=#d14e0d>{buffper2}%</color> when Big Mom is on the field.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301281",
+     "skillName": "Mochi Transformation",
+     "skillDesc": "At battle start, <color=#d14e0d>Accuracy and Dodge</color> +<color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>DMG Bonus and SPD</color> +<color=#d14e0d>{buffper3}%</color>, and gains <color=#d14e0d>3</color> extra Soul Jade and <color=#d14e0d>50</color> Rage each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301282",
+     "skillName": "Greatest Masterpiece",
+     "skillDesc": "At battle start, <color=#d14e0d>Max HP and all DMG reduction</color> +<color=#d14e0d>{buffper1}%</color>; at the start of the first turn, gains a Shield equal to <color=#d14e0d>{buffper1}%</color> of Max HP. Each Big Mom Pirates character fielded increases Katakuri's <color=#d14e0d>DEF and Tenacity</color> by <color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301283",
+     "skillName": "Mochi-Mochi Fruit",
+     "skillDesc": "At battle start, <color=#d14e0d>all Attribute DMG reduction</color> +<color=#d14e0d>{buffper1}%</color>, and he is immune to all <color=#d14e0d>debuffs and Attribute damage</color> on the first turn.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301284",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
@@ -84286,6 +84334,90 @@
      "skillId": "301290",
      "skillName": "Speed Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301291",
+     "skillName": "Force",
+     "skillDesc": "Casting <color=#d14e0d>Dragon Hook Claw</color> grants <color=#d14e0d>Vigor</color>: when <color=#d14e0d>casting single-target skills</color>, own <color=#d14e0d>DMG Bonus</color> increases by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301292",
+     "skillName": "Flame Weakness",
+     "skillDesc": "Gives <color=#d14e0d>Cross Fire</color> the <color=#d14e0d>Fire Weakness</color> effect, reducing the enemy target's <color=#d14e0d>Fire RES</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301293",
+     "skillName": "Crit Damage",
+     "skillDesc": "When casting <color=#d14e0d>Dragon Breath</color>, own <color=#d14e0d>CRIT DMG</color> increases by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301294",
+     "skillName": "Incinerate",
+     "skillDesc": "Gives <color=#d14e0d>Flame Net</color> a <color=#d14e0d>{buffodds}%</color> chance to refresh the duration of <color=#d14e0d>Blaze</color> on the target.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301295",
+     "skillName": "Explosive Flame",
+     "skillDesc": "When casting <color=#d14e0d>Flame Vortex</color>, consumes all own <color=#d14e0d>Flame Shield</color> to increase <color=#d14e0d>DMG Bonus</color> by <color=#d14e0d>{buffper1}%</color>, makes the target lose <color=#d14e0d>{buffper2}%</color> of its <color=#d14e0d>Max HP</color>, and applies <color=#d14e0d>1 stack of Blaze</color> (takes effect after unlocking \"Dragon Claw Fist\").",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301296",
+     "skillName": "Power of the Dragon",
+     "skillDesc": "When casting <color=#d14e0d>Flame Dragon King</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>3x Fire DMG Bonus</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301297",
+     "skillName": "Burning with Rage",
+     "skillDesc": "Gives <color=#d14e0d>Fire Fist</color> the <color=#d14e0d>Seething Rage</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to burn away <color=#d14e0d>2</color> of the target's Soul Jade.$Gives <color=#d14e0d>Fire Fist</color> the <color=#d14e0d>Seething Rage</color> effect, with a <color=#d14e0d>{buffper1,80128}%</color> chance to burn away <color=#d14e0d>2</color> of the target's Soul Jade.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301298",
+     "skillName": "True Damage",
+     "skillDesc": "When casting <color=#d14e0d>Fire Fist</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>ignore all enemy DMG reduction and DEF and always CRIT</color>.$When casting <color=#d14e0d>Fire Fist</color>, deals an extra <color=#d14e0d>{buffper1,80114}%</color> Fire damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301299",
+     "skillName": "Dragon Claw Fist",
+     "skillDesc": "When attacked, there is a chance (single-target 100%, non-single-target 50%) to apply <color=#d14e0d>1 stack of Blaze</color> to the attacker, dealing Fire damage equal to <color=#d14e0d>7% of Max HP</color> when it acts (only in <color=#d14e0d>PvP</color>), stacking up to <color=#d14e0d>3</color>, for <color=#d14e0d>3 turns</color>. After Sabo's Finisher hits, for each <color=#d14e0d>1 stack of Blaze</color> on the target, there is a <color=#d14e0d>{buffodds}%</color> chance to follow up with <color=#d14e0d>a free Ultimate</color> that <color=#d14e0d>cannot be interrupted</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301300",
+     "skillName": "Blazing Flame Body Guard",
+     "skillDesc": "At turn start, converts each point of Rage into a <color=#d14e0d>Flame Shield</color> worth 1% of Max HP (up to <color=#d14e0d>50</color> Rage converted) for <color=#d14e0d>1 turn</color>. While he has a <color=#d14e0d>Flame Shield</color>, <color=#d14e0d>{buffper1}%</color> of damage taken is reflected to the attacker as <color=#d14e0d>Fire damage</color>.$At turn start, converts each point of Rage into a <color=#d14e0d>Flame Shield</color> worth 2% of Max HP (up to <color=#d14e0d>50</color> Rage converted) for <color=#d14e0d>1 turn</color>. While he has a <color=#d14e0d>Flame Shield</color>, <color=#d14e0d>{buffper1}%</color> of damage taken is reflected to the attacker as <color=#d14e0d>Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301301",
+     "skillName": "Flame-Flame Fruit",
+     "skillDesc": "After battle starts, Sabo's <color=#d14e0d>Fire damage</color> +<color=#d14e0d>{buffper1}%</color>, all his skills deal <color=#d14e0d>Fire damage</color> based on attack range, and each time a <color=#d14e0d>Blaze</color> stack is dispelled, the target takes <color=#d14e0d>Fire damage equal to 7% of Max HP</color>.$After battle starts, Sabo's <color=#d14e0d>Fire damage</color> +<color=#d14e0d>{buffper1,80126}%</color>, all his skills deal <color=#d14e0d>Fire damage</color> based on attack range, and each time a <color=#d14e0d>Blaze</color> stack is dispelled, the target takes <color=#d14e0d>Fire damage equal to 7% of Max HP</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301302",
+     "skillName": "Chief of Staff",
+     "skillDesc": "After battle starts, <color=#d14e0d>all DMG Bonus, all DMG reduction and Dodge</color> +<color=#d14e0d>{buffper1}%</color>, and while Sabo has a <color=#d14e0d>Flame Shield</color>, he is immune to <color=#d14e0d>Attribute damage and control effects</color>.$After battle starts, <color=#d14e0d>all DMG Bonus, all DMG reduction and Dodge</color> +<color=#d14e0d>{buffper1,80116}%</color>, and while Sabo has a <color=#d14e0d>Flame Shield</color>, <color=#d14e0d>Fire RES</color> +<color=#d14e0d>{buffper1,80119}%</color> and <color=#d14e0d>all DMG reduction</color> +<color=#d14e0d>{buffper1,80120}%</color> extra.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301303",
+     "skillName": "Forerunner",
+     "skillDesc": "After battle starts, <color=#d14e0d>Max HP, SPD and Accuracy</color> +<color=#d14e0d>{buffper1}%</color>, and gains <color=#d14e0d>5</color> extra Soul Jade and <color=#d14e0d>{buffval2}</color> Rage each turn, with double Rage on the first turn.$After battle starts, <color=#d14e0d>Max HP, SPD and Accuracy</color> +<color=#d14e0d>{buffper1,80127}%</color>, and gains <color=#d14e0d>5</color> extra Soul Jade and <color=#d14e0d>{buffval2}</color> Rage each turn, with double Rage on the first turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301304",
+     "skillName": "Deep Brotherly Bond",
+     "skillDesc": "After battle starts, <color=#d14e0d>ATK and DEF</color> +<color=#d14e0d>{buffper1}%</color>, with <color=#d14e0d>the bonus doubled</color> when fielded with <color=#d14e0d>Luffy or Ace</color>. When <color=#d14e0d>Luffy or Ace</color> is defeated, Sabo's <color=#d14e0d>SPD and CRIT</color> +<color=#d14e0d>{buffper2}%</color> until <color=#d14e0d>his next action</color>.",
      "buttonEffect": ""
     },
     {
@@ -84331,6 +84463,96 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301371",
+     "skillName": "Fire Elemental Damage",
+     "skillDesc": "Adds <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to <color=#d14e0d>Heavenly Fire: Wildfire</color>. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301372",
+     "skillName": "Rousing Roar",
+     "skillDesc": "When casting <color=#d14e0d>Gang Qi: Heaven Shaker</color>, all allies' <color=#d14e0d>ATK, DEF, CRIT and Tenacity</color> +<color=#d14e0d>{buffper1}%</color>, doubled in the <color=#d14e0d>Fury state</color>, plus <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper1}%</color>, for <color=#d14e0d>2</color> turns.$When casting <color=#d14e0d>Gang Qi: Heaven Shaker</color>, all allies' <color=#d14e0d>DEF and Tenacity</color> +<color=#d14e0d>{buffper1}%</color>, doubled in the <color=#d14e0d>Fury state</color>, plus <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper1}%</color>, for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301373",
+     "skillName": "Terrifying Roar",
+     "skillDesc": "Gives <color=#d14e0d>Rebirth: Heaven Thrust</color> the <color=#d14e0d>Terrifying Roar</color> effect, reducing the enemy target's <color=#d14e0d>Block, DEF and all DMG reduction</color> by <color=#d14e0d>{buffper1}%</color>, doubled in the <color=#d14e0d>Fury state</color>, for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301374",
+     "skillName": "Commanding Roar",
+     "skillDesc": "When casting <color=#d14e0d>Rakshasa Stomp</color>, all allies gain <color=#d14e0d>{buffval1}</color> <color=#d14e0d>Rage</color>, doubled in the <color=#d14e0d>Fury state</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301375",
+     "skillName": "Silent Rage",
+     "skillDesc": "When casting <color=#d14e0d>Thunder Bagua</color> with <color=#d14e0d>Wrath at 3 stacks</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to consume <color=#d14e0d>all Wrath</color> and enter the <color=#d14e0d>Fury state</color> until the end of the next action (takes effect after unlocking \"Strongest Power\").",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301376",
+     "skillName": "Regeneration",
+     "skillDesc": "When casting <color=#d14e0d>Heat Breath</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to gain a <color=#d14e0d>Shield</color> equal to lost HP and increase own <color=#d14e0d>DEF and all DMG reduction</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.$When casting <color=#d14e0d>Heat Breath</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to gain a <color=#d14e0d>Shield</color> equal to <color=#d14e0d>{buffper1,14503}%</color> of lost HP and increase own <color=#d14e0d>DEF and all DMG reduction</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301377",
+     "skillName": "Light Elemental Damage",
+     "skillDesc": "Adds <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to <color=#d14e0d>Heat Breath</color>. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301378",
+     "skillName": "Destruction",
+     "skillDesc": "When casting <color=#d14e0d>Dragon Might</color>, it cannot be Dodged or Blocked, and <color=#d14e0d>all DMG Bonus</color> +<color=#d14e0d>{buffper1}%</color>.$When casting <color=#d14e0d>Dragon Might</color>, Accuracy +<color=#d14e0d>{buffper1,14504}%</color> and all damage +<color=#d14e0d>{buffper2,14504}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301379",
+     "skillName": "Light Elemental Damage",
+     "skillDesc": "Adds <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to <color=#d14e0d>Dragon Might</color>. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301380",
+     "skillName": "Strongest Power",
+     "skillDesc": "At battle start, enters the <color=#d14e0d>Fury state</color>: in this state he takes no more damage once HP drops to <color=#d14e0d>{buffper1}%</color>, with <color=#d14e0d>the effect doubled</color> on the first turn, <color=#d14e0d>immune to all control and interrupts</color>, and <color=#d14e0d>ignores DEF and all DMG reduction</color>, for <color=#d14e0d>2</color> turns.$At battle start, enters the <color=#d14e0d>Fury state</color>: in this state <color=#d14e0d>Max HP, damage, all DMG reduction and Tenacity</color> +<color=#d14e0d>{buffper1,14501}%</color>, he gains a Shield worth <color=#d14e0d>{buffper1,14513}%</color>, and gains an extra 40% Shield after being hit, for <color=#d14e0d>3</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301381",
+     "skillName": "Dragon's Fury",
+     "skillDesc": "At the start of each turn, gains <color=#d14e0d>1 stack of Wrath</color>; each <color=#d14e0d>Wrath</color> stack increases <color=#d14e0d>all DMG Bonus, CRIT and SPD</color> by <color=#d14e0d>{buffper1}%</color>, stacking up to <color=#d14e0d>3</color>, and at 3 stacks of <color=#d14e0d>Wrath</color>, <color=#d14e0d>ATK</color> +<color=#d14e0d>{buffper2}%</color> extra.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301382",
+     "skillName": "Dragon's Reverse Scale",
+     "skillDesc": "When hit, there is a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>1 stack of Wrath</color> (takes effect after unlocking \"Dragon Rage\"). On the first turn, while Kaido is on the field, he takes <color=#d14e0d>{buffper1}%</color> of the skill damage dealt to the character one tile behind him.$When hit, there is a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>1 stack of Wrath</color> (takes effect after unlocking \"Dragon Rage\"). In the Fury state, while Kaido is on the field, he takes <color=#d14e0d>{buffper1,14505}%</color> of the skill damage dealt to the character one tile behind him.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301383",
+     "skillName": "Body of Diamond",
+     "skillDesc": "At turn end, recovers HP equal to <color=#d14e0d>{buffper1}%</color> of the damage taken this turn; the amount decreases by <color=#d14e0d>10%</color> each turn, down to <color=#d14e0d>30%</color>, and is unaffected by healing modifiers.$At turn end, recovers HP equal to <color=#d14e0d>{buffper1,14514}%</color> of the damage taken this turn; the amount decreases by <color=#d14e0d>5%</color> each turn, down to <color=#d14e0d>20%</color>, and is unaffected by healing modifiers.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301384",
+     "skillName": "Emperor \"Kaido\"",
+     "skillDesc": "While Kaido is on the field, all <color=#d14e0d>Beasts Pirates</color> members recover <color=#d14e0d>{buffper1}%</color> of Max HP at the end of each turn; each 1 other <color=#d14e0d>Beasts Pirates</color> member fielded <color=#d14e0d>increases this by 5%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301385",
+     "skillName": "Dragon Breath",
+     "skillDesc": "After battle starts, <color=#d14e0d>Max HP, all DMG Bonus, all DMG reduction and Accuracy</color> +<color=#d14e0d>{buffper1}%</color>, and he is immune to Soul Jade reduction; at turn start, Kaido gains <color=#d14e0d>5 extra Soul Jade</color>.$After battle starts, <color=#d14e0d>Max HP, all DMG Bonus, all DMG reduction and Accuracy</color> +<color=#d14e0d>{buffper1,14507}%</color>, and he is immune to Soul Jade reduction; at turn start, Kaido gains <color=#d14e0d>5 extra Soul Jade</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301386",
      "skillName": "DMG Bonus Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Bonus by {attributevalper}%</color>.",
@@ -84373,9 +84595,57 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301414",
+     "skillName": "Void Banishment",
+     "skillDesc": "When casting <color=#d14e0d>Darkness Unleashed</color>, random <color=#d14e0d>1-2</color> enemies have a <color=#d14e0d>{buffodds}%</color> chance to be <color=#d14e0d>Void Banished</color> for a random <color=#d14e0d>2 to 4 turns</color>; <color=#d14e0d>Void Banished</color> targets take damage equal to <color=#d14e0d>15% of Max HP</color> each turn (damage only in PvP).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301415",
+     "skillName": "Darkness Boost",
+     "skillDesc": "When casting <color=#d14e0d>Darkness Unleashed</color>, own <color=#d14e0d>Dark damage</color> increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301416",
+     "skillName": "Darkness Shelter",
+     "skillDesc": "While <color=#d14e0d>Dark Barrier</color> exists, Blackbeard ignores enemy <color=#d14e0d>CRIT Rate</color>, and when attacked has a <color=#d14e0d>{buffodds}%</color> chance to be <color=#d14e0d>immune to all Attribute damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301417",
+     "skillName": "Resonance",
+     "skillDesc": "After battle starts, <color=#d14e0d>all DMG reduction and Block</color> +<color=#d14e0d>{buffper1}%</color>; when hit, there is a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>{buffval2}</color> Rage.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301418",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301419",
+     "skillName": "Annihilating Slash",
+     "skillDesc": "When casting <color=#d14e0d>Ruler's Blade</color>, skill damage +<color=#d14e0d>{buffper1}%</color>, and it <color=#d14e0d>always CRITs and ignores the target's DEF and DMG reduction</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301420",
+     "skillName": "Overlord's Will",
+     "skillDesc": "When casting <color=#d14e0d>Ruler's Blade</color>, if it <color=#d14e0d>defeats the target</color> (excluding summons), gains a Shield equal to <color=#d14e0d>{buffper1}%</color> of Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301421",
+     "skillName": "Aura of a King",
+     "skillDesc": "At turn start, Shanks has a <color=#d14e0d>{buffodds}%</color> chance to remove <color=#d14e0d>HP above 50%</color> and <color=#d14e0d>convert it into a Shield</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301422",
+     "skillName": "Majesty of an Emperor",
+     "skillDesc": "After battle starts, <color=#d14e0d>Max HP and SPD</color> +<color=#d14e0d>{buffper1}%</color>, and gains <color=#d14e0d>5</color> extra Soul Jade each turn.",
      "buttonEffect": ""
     },
     {
@@ -84385,9 +84655,105 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301424",
+     "skillName": "Shadow Burn",
+     "skillDesc": "When casting <color=#d14e0d>Shadow Unleashed</color>, <color=#d14e0d>DMG Bonus</color> +<color=#d14e0d>{buffper1}%</color>, and absorbs the Shadow Mage to apply <color=#d14e0d>Shadow Burn</color> to all enemies, dealing <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>100%</color> of ATK 1 time before the target acts, with <color=#d14e0d>hits +1</color> each turn, for <color=#d14e0d>5 turns</color>. In non-PvP battles, <color=#d14e0d>Shadow Burn's effect and duration gain an extra 2x</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301425",
+     "skillName": "Dark Elemental Damage",
+     "skillDesc": "Adds <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to <color=#d14e0d>Shadow Unleashed</color>. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301426",
+     "skillName": "Shadow Puppet",
+     "skillDesc": "Shadow Mage revive chance +<color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>DMG reduction</color> +<color=#d14e0d>{buffper1}%</color>. When the Shadow Mage dies, Moria recovers <color=#d14e0d>100</color> Rage; when Moria is near death, there is a <color=#d14e0d>{buffodds}%</color> chance to absorb the <color=#d14e0d>Shadow Mage</color> and gain <color=#d14e0d>50% HP</color>. Triggers at most <color=#d14e0d>1 time</color> per battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301427",
+     "skillName": "Shadow Reap",
+     "skillDesc": "After battle starts, gains <color=#d14e0d>5</color> extra Soul Jade each turn; while the Shadow Mage is on the field, Moria's chance to steal shadows increases by <color=#d14e0d>{buffodds}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301428",
      "skillName": "Defense Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DEF by {attributeper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301488",
+     "skillName": "Heavy Strike Enhancement",
+     "skillDesc": "After casting <color=#d14e0d>Rapid Shigan</color>, there is a <color=#d14e0d>{buffodds}%</color> chance for <color=#d14e0d>Finisher skills</color> to inflict <color=#d14e0d>Stun</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301489",
+     "skillName": "Wild Enhancement",
+     "skillDesc": "After casting <color=#d14e0d>Deadly Martial Arts</color>, <color=#d14e0d>{buffper1}%</color> of Finisher skill damage is converted into <color=#d14e0d>own HP</color> for <color=#d14e0d>1</color> turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301490",
+     "skillName": "Prey Detection",
+     "skillDesc": "Makes <color=#d14e0d>Rankyaku: Gaicho</color> target <color=#d14e0d>the enemy with the lowest HP</color> and deal extra <color=#d14e0d>True Damage</color> equal to <color=#d14e0d>{buffper1}%</color> of the target's <color=#d14e0d>lost HP</color> (only in <color=#d14e0d>PvP</color>).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301491",
+     "skillName": "All or Nothing",
+     "skillDesc": "When casting <color=#d14e0d>Max Wheel: Six King Gun</color>, consumes all remaining <color=#d14e0d>Soul Jade</color>; each extra <color=#d14e0d>1</color> consumed increases <color=#d14e0d>all damage</color> by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301492",
+     "skillName": "Paper-Drawn Weapon Body",
+     "skillDesc": "When casting <color=#d14e0d>Air Shigan: Hibachi</color>, exits the <color=#d14e0d>Rokushiki</color> state, with a <color=#d14e0d>{buffodds}%</color> chance to enter the <color=#d14e0d>Kami-e Busshin</color> state.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301493",
+     "skillName": "Agility",
+     "skillDesc": "When casting <color=#d14e0d>Air Shigan: Hibachi</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to reset the cooldown of <color=#d14e0d>Finisher skills</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301494",
+     "skillName": "Faith in Power",
+     "skillDesc": "In the <color=#d14e0d>Rokushiki</color> state, <color=#d14e0d>ATK</color> +<color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>Finisher skills</color> cannot be Dodged or Blocked, <color=#d14e0d>all damage</color> +<color=#d14e0d>{buffper2}%</color>, and the target's <color=#d14e0d>ATK</color> is reduced by <color=#d14e0d>{buffper3}%</color> until after the enemy's <color=#d14e0d>next action</color>.$<color=#d14e0d>Rokushiki</color> state: <color=#d14e0d>ATK</color> +<color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>all damage</color> +<color=#d14e0d>{buffper1,13119}%</color>, and the target's <color=#d14e0d>ATK</color> is reduced by <color=#d14e0d>{buffper3}%</color> until after the enemy's <color=#d14e0d>next action</color>. Each action taken in the Rokushiki state grants a permanent ATK and all DMG Bonus increase of <color=#d14e0d>{buffper1,13120}%</color>, stacking up to <color=#d14e0d>10</color> times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301495",
+     "skillName": "Peak Physique",
+     "skillDesc": "When casting a <color=#d14e0d>Finisher skill</color>, exits the <color=#d14e0d>Kami-e Busshin</color> state (not on the first turn) and enters the <color=#d14e0d>Rokushiki</color> state; all skills have a <color=#d14e0d>{buffodds}%</color> chance to always CRIT. Killing an enemy grants a brief <color=#d14e0d>Kami-e Busshin</color> state until <color=#d14e0d>the end of the next action</color>.$When casting a <color=#d14e0d>Finisher skill</color>, exits the <color=#d14e0d>Kami-e Busshin</color> state (not on the first turn) and enters the <color=#d14e0d>Rokushiki</color> state, with CRIT Rate and CRIT DMG +<color=#d14e0d>{buffper1,13117}%</color>. Killing an enemy grants a brief <color=#d14e0d>Kami-e Busshin</color> state until <color=#d14e0d>before the next action</color>, then returns to the <color=#d14e0d>Rokushiki state</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301496",
+     "skillName": "Wild Instinct",
+     "skillDesc": "At battle start, enters the <color=#d14e0d>Kami-e Busshin</color> state; New World Ruz has a <color=#d14e0d>{buffper1}%</color> chance to be immune to damage and debuffs from enemy <color=#d14e0d>Finishers and Ultimates</color>, with <color=#d14e0d>Dodge and Tenacity</color> +<color=#d14e0d>{buffper2}%</color> and <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper3}%</color>.$At battle start, enters the <color=#d14e0d>Kami-e Busshin</color> state: <color=#d14e0d>all DMG reduction</color> +<color=#d14e0d>{buffper1,13115}%</color>, <color=#d14e0d>Dodge</color> +<color=#d14e0d>{buffper2,13115}%</color>, <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper3,13115}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301497",
+     "skillName": "Hunting Technique",
+     "skillDesc": "After battle starts, gains <color=#d14e0d>5</color> extra <color=#d14e0d>Soul Jade</color> and <color=#d14e0d>{buffper1}</color> <color=#d14e0d>Rage</color> each turn. On <color=#d14e0d>CRIT</color>, <color=#d14e0d>all damage</color> of skills cast by all allies +<color=#d14e0d>{buffper2}%</color> until <color=#d14e0d>the end of the next action</color>, stacking up to <color=#d14e0d>3</color> times.$After battle starts, gains <color=#d14e0d>5</color> extra <color=#d14e0d>Soul Jade</color> and <color=#d14e0d>{buffper1}</color> <color=#d14e0d>Rage</color> each turn. On <color=#d14e0d>CRIT</color>, <color=#d14e0d>all damage</color> of own skills +<color=#d14e0d>{buffper1,13121}%</color> until <color=#d14e0d>the end of the next action</color>, stacking up to <color=#d14e0d>3</color> times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301498",
+     "skillName": "Will of Vengeance",
+     "skillDesc": "At battle start, <color=#d14e0d>SPD, CRIT and ATK</color> +<color=#d14e0d>{buffper1}%</color>, all skills have a <color=#d14e0d>{buffper2}%</color> chance to deal <color=#d14e0d>Wind damage</color> based on range, and <color=#d14e0d>ATK</color> cannot be reduced.$At battle start, <color=#d14e0d>SPD and ATK</color> +<color=#d14e0d>{buffper1,13118}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301499",
+     "skillName": "Strongest Backing",
+     "skillDesc": "At battle start, <color=#d14e0d>Max HP, all damage and all DMG reduction</color> +<color=#d14e0d>{buffper1}%</color>; when an enemy falls and at turn end, recovers <color=#d14e0d>{buffper2}%</color> of <color=#d14e0d>Max HP</color>.$At battle start, <color=#d14e0d>Max HP, all damage and all DMG reduction</color> +<color=#d14e0d>{buffper1,13122}%</color>; when an enemy falls, recovers <color=#d14e0d>{buffper2}%</color> of <color=#d14e0d>Max HP</color>.",
      "buttonEffect": ""
     },
     {
@@ -84430,6 +84796,24 @@
      "skillId": "301506",
      "skillName": "Speed Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301584",
+     "skillName": "Rend",
+     "skillDesc": "When casting <color=#d14e0d>Beautiful Sword: Swan Lake</color>, reduces the target's <color=#d14e0d>Tenacity</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301585",
+     "skillName": "Wind Elemental Weakness",
+     "skillDesc": "When casting <color=#d14e0d>Beautiful Sword: Round Table</color>, if Cavendish is the first to act this turn, reduces the target's <color=#d14e0d>Wind RES</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301586",
+     "skillName": "Blade Intent Body Guard",
+     "skillDesc": "When casting <color=#d14e0d>Beautiful Sword: Stardust Prince</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to be immune to all <color=#d14e0d>debuffs</color> until <color=#d14e0d>the next action</color>.",
      "buttonEffect": ""
     },
     {
@@ -84970,6 +85354,18 @@
      "skillId": "302703",
      "skillName": "Armament",
      "skillDesc": "After　using　<color=#d14e0d>Conqueror　of　Three　Worlds:　Ragnaraku</color>,　restore　<color=#d14e0d>{buffper1,53210}%</color>　of　lost　HP　<color=#d14e0d>when　hit</color>　for　<color=#d14e0d>3　turns</color>.$After　using　<color=#d14e0d>Conqueror　of　Three　Worlds:　Ragnaraku</color>,　restore　<color=#d14e0d>{buffper1,53209}%</color>　of　lost　HP　<color=#d14e0d>when　hit</color>　for　<color=#d14e0d>3　turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302730",
+     "skillName": "Incinerate",
+     "skillDesc": "Gives <color=#d14e0d>Flame Net</color> a <color=#d14e0d>{buffodds}%</color> chance to refresh the duration of <color=#d14e0d>Blaze</color> on the target.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302734",
+     "skillName": "Power of the Dragon",
+     "skillDesc": "When casting <color=#d14e0d>Flame Dragon King</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>3x Fire DMG Bonus</color>.",
      "buttonEffect": ""
     },
     {
@@ -92041,7 +92437,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "14003/14789 rows translated so far"
+   "partial": "14069/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
