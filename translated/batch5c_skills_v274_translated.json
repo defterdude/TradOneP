@@ -54617,6 +54617,48 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "760023",
+     "skillName": "Shura - Passive 1",
+     "skillDesc": "Server-Wide Challenge - Shura starts with 50 stacks of [Rope Trial] and loses 1 stack when attacked; if any Rope Trial remains at the end of turn 5, all targets are killed instantly",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "760024",
+     "skillName": "Shura - Passive 2",
+     "skillDesc": "Server-Wide Challenge - Shura: when an enemy uses a melee attack, it gains 1 stack of [Rope Cloud]; targets with 10 Rope Cloud stacks are [Bound] at turn end",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "760025",
+     "skillName": "Gedatsu - Passive 1",
+     "skillDesc": "Server-Wide Challenge - Gedatsu: when acting, if he acts first, gains 1 stack of [Swamp Trial]; at 5 stacks, all are killed instantly; own SPD increases every turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "760026",
+     "skillName": "Gedatsu - Passive 2",
+     "skillDesc": "Server-Wide Challenge - Gedatsu gives all enemies 1 stack of [Swamp Cloud] at the end of each turn (max 10)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "760027",
+     "skillName": "Ohm - Passive 1",
+     "skillDesc": "Server-Wide Challenge - Ohm: at turn end, if he has a Shield, gains 1 stack of [Iron Trial]; at 5 stacks, all are killed instantly",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "760028",
+     "skillName": "Ohm - Passive 2",
+     "skillDesc": "Server-Wide Challenge - Ohm loses 1 stack of [Iron Cloud] when hit by a Sever attack, and gains effects based on Iron Cloud stacks at turn start",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "760029",
+     "skillName": "Classic Server Permanent Passive",
+     "skillDesc": "Server-Wide Challenge - Toughness Break",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "760030",
      "skillName": "Server-Wide Challenge Boss - Clear Control Before Acting",
      "skillDesc": "Server-Wide Challenge Boss - Clear Control Before Acting",
@@ -54629,15 +54671,183 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "790002",
+     "skillName": "Buddha's Ram",
+     "skillDesc": "Deals extra Light DMG",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "790003",
      "skillName": "Buddha's Punishment",
      "skillDesc": "B",
      "buttonEffect": ""
     },
     {
+     "skillId": "790004",
+     "skillName": "Great Buddha Form",
+     "skillDesc": "Transforms at battle start",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790005",
+     "skillName": "Wise General",
+     "skillDesc": "After being attacked, if not dead, recovers 100% of lost HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790006",
+     "skillName": "Conviction of Justice 1",
+     "skillDesc": "At turn start, if there are no Pacifistas on the field, summons 2 Pacifistas at random positions",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790007",
+     "skillName": "Conviction of Justice 2",
+     "skillDesc": "At turn start, if there are no Pacifistas on the field, summons 2 Pacifistas at random positions",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790008",
+     "skillName": "Conviction of Justice 3",
+     "skillDesc": "At turn start, if there are no Pacifistas on the field, summons 2 Pacifistas at random positions",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790009",
+     "skillName": "Conviction of Justice 4",
+     "skillDesc": "At turn start, if there are no Pacifistas on the field, summons 2 Pacifistas at random positions",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790011",
+     "skillName": "Ice Rain",
+     "skillDesc": "Deals extra Ice DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790012",
+     "skillName": "Ice Block: Partisan",
+     "skillDesc": "60% chance to Freeze the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790013",
+     "skillName": "Ice Age",
+     "skillDesc": "31% chance to Freeze the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790014",
+     "skillName": "Absolute Zero",
+     "skillDesc": "At turn start, Freezes a random enemy for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790015",
+     "skillName": "Three Admirals",
+     "skillDesc": "After death, if Sengoku is on the field, revives with full HP after 3 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790016",
+     "skillName": "Purify",
+     "skillDesc": "At turn start, 50% chance to dispel all own debuffs",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "790018",
      "skillName": "Volcano",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790019",
+     "skillName": "Absolute Justice",
+     "skillDesc": "Deals extra Fire DMG equal to 80% of the target's Max HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790020",
+     "skillName": "Meteor Volcano",
+     "skillDesc": "Deals heavy extra Fire DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790021",
+     "skillName": "Magma Armor",
+     "skillDesc": "At turn start, grants Sengoku armor equal to 60% of own Max HP for 1 turn. When Akainu dies, the armor is removed",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790022",
+     "skillName": "Three Admirals",
+     "skillDesc": "After death, if Sengoku is on the field, revives with full HP after 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790023",
+     "skillName": "",
+     "skillDesc": "Bear Basic Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790024",
+     "skillName": "",
+     "skillDesc": "Bear Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790025",
+     "skillName": "",
+     "skillDesc": "Marine Basic Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790026",
+     "skillName": "",
+     "skillDesc": "Single-Target AOE Hit Check",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790027",
+     "skillName": "",
+     "skillDesc": "Hit Check",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790028",
+     "skillName": "",
+     "skillDesc": "Applies Slippery to everyone",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790029",
+     "skillName": "",
+     "skillDesc": "Turn Check",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790031",
+     "skillName": "Gravity Blade",
+     "skillDesc": "Deals 50% extra True DMG and reduces the target's Dodge by 50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790032",
+     "skillName": "Giant Meteor",
+     "skillDesc": "Applies 5 stacks of Burn to the target for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790033",
+     "skillName": "Gravity Storm",
+     "skillDesc": "Inflicts 30% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790034",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "When the target's HP is below 20%, chance to remove the target",
      "buttonEffect": ""
     },
     {
@@ -54689,9 +54899,117 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "790045",
+     "skillName": "",
+     "skillDesc": "When a Marine dies, triggers Fujitora's timing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790047",
+     "skillName": "Gravity Blade",
+     "skillDesc": "Deals 10% extra True DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790048",
+     "skillName": "Giant Meteor",
+     "skillDesc": "Inflicts 2 stacks of Burn on the target for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790049",
+     "skillName": "Gravity Storm",
+     "skillDesc": "Inflicts 10% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790050",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "ATK +20% when casting this skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790051",
+     "skillName": "Fujitora Passive - Stage 1",
+     "skillDesc": "Final physical DMG taken by Fujitora -50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790052",
+     "skillName": "Fujitora Passive - Stage 1",
+     "skillDesc": "Each turn, Fujitora randomly shows 5 Attribute DMG weaknesses with Attribute DMG RES -400%; other attributes deal normal DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790053",
+     "skillName": "Fujitora Passive - Stage 1",
+     "skillDesc": "Marine side's ATK, all DMG Bonus and all DMG reduction +20%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790054",
+     "skillName": "Marine Passive - Stage 1",
+     "skillDesc": "When a Marine soldier dies, the killer randomly gains the ability to deal one type of Attribute DMG [deals 100% Attribute DMG when attacking]",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "790055",
      "skillName": "Reserved Passive - Stage 1",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790056",
+     "skillName": "Fujitora Passive - Stages 1.2.3.4",
+     "skillDesc": "Attribute DMG dealt by players can CRIT",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790058",
+     "skillName": "Gravity Blade",
+     "skillDesc": "Deals 20% extra True DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790059",
+     "skillName": "Giant Meteor",
+     "skillDesc": "Inflicts 3 stacks of Burn on the target for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790060",
+     "skillName": "Gravity Storm",
+     "skillDesc": "Inflicts 15% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790061",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "ATK +30% when casting this skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790062",
+     "skillName": "Fujitora Passive - Stage 2",
+     "skillDesc": "Final physical DMG taken by Fujitora -70%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790063",
+     "skillName": "Fujitora Passive - Stage 2",
+     "skillDesc": "Each turn, Fujitora randomly shows 4 Attribute DMG weaknesses with Attribute DMG RES -400%; other attributes deal normal DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790064",
+     "skillName": "Fujitora Passive - Stage 2",
+     "skillDesc": "Marine side's ATK, all DMG Bonus and all DMG reduction +40%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790065",
+     "skillName": "Marine Passive - Stage 2",
+     "skillDesc": "When a Marine soldier dies, the killer randomly gains the ability to deal one type of Attribute DMG [deals 80% Attribute DMG when attacking]",
      "buttonEffect": ""
     },
     {
@@ -54701,9 +55019,105 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "790068",
+     "skillName": "Gravity Blade",
+     "skillDesc": "Deals 30% extra True DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790069",
+     "skillName": "Giant Meteor",
+     "skillDesc": "Inflicts 4 stacks of Burn on the target for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790070",
+     "skillName": "Gravity Storm",
+     "skillDesc": "Inflicts 20% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790071",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "ATK +60% when casting this skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790072",
+     "skillName": "Fujitora Passive - Stage 3",
+     "skillDesc": "Final physical DMG taken by Fujitora -80%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790073",
+     "skillName": "Fujitora Passive - Stage 3",
+     "skillDesc": "Each turn, Fujitora randomly shows 3 Attribute DMG weaknesses with Attribute DMG RES -300%; DMG reduction against other attributes +100%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790074",
+     "skillName": "Fujitora Passive - Stage 3",
+     "skillDesc": "Marine side's ATK, all DMG Bonus and all DMG reduction +60%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790075",
+     "skillName": "Marine Passive - Stage 3",
+     "skillDesc": "When a Marine soldier dies, the killer randomly gains the ability to deal one type of Attribute DMG [deals 50% Attribute DMG when attacking]",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "790076",
      "skillName": "Reserved Passive - Stage 3",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790078",
+     "skillName": "Gravity Blade",
+     "skillDesc": "Deals 50% extra True DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790079",
+     "skillName": "Giant Meteor",
+     "skillDesc": "Inflicts 5 stacks of Burn on the target for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790080",
+     "skillName": "Gravity Storm",
+     "skillDesc": "Inflicts 30% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790081",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "When the target's HP is below 35%, 50% chance to remove the target; ATK +60% when casting this skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790082",
+     "skillName": "Fujitora Passive - Stage 4",
+     "skillDesc": "Final physical DMG taken by Fujitora -99%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790083",
+     "skillName": "Fujitora Passive - Stage 4",
+     "skillDesc": "Each turn, Fujitora randomly shows 2 Attribute DMG weaknesses with Attribute DMG RES -250%; DMG reduction against other attributes +150%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790084",
+     "skillName": "Fujitora Passive - Stage 4",
+     "skillDesc": "Marine side's ATK, all DMG Bonus and all DMG reduction +80%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790085",
+     "skillName": "Marine Passive - Stage 4",
+     "skillDesc": "When a Marine soldier dies, the killer randomly gains the ability to deal one type of Attribute DMG [deals 50% Attribute DMG when attacking]",
      "buttonEffect": ""
     },
     {
@@ -54713,9 +55127,177 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "790088",
+     "skillName": "Buddha's Ram",
+     "skillDesc": "Deals 20% extra Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790089",
+     "skillName": "Buddha's Punishment",
+     "skillDesc": "30% chance on hit to randomly change the target's position",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790090",
+     "skillName": "1",
+     "skillDesc": "At turn start, if there are no Pacifistas on the field, summons 2 Pacifistas at random positions",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790091",
+     "skillName": "1",
+     "skillDesc": "Marine side's ATK, all DMG Bonus and all DMG reduction +20% (new: Attribute DMG reduction 40%)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790092",
+     "skillName": "",
+     "skillDesc": "Reserved",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790093",
+     "skillName": "1.2.3.4",
+     "skillDesc": "Transform + after being attacked, if not dead, recovers 100% of lost HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790094",
+     "skillName": "",
+     "skillDesc": "Bear Basic Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790095",
+     "skillName": "",
+     "skillDesc": "Bear Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790097",
+     "skillName": "Buddha's Ram",
+     "skillDesc": "Deals 20% extra Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790098",
+     "skillName": "Buddha's Punishment",
+     "skillDesc": "40% chance on hit to randomly change the target's position",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790099",
+     "skillName": "1",
+     "skillDesc": "Marine side's ATK, all DMG Bonus and all DMG reduction +40% (new: Attribute DMG reduction 60%)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790100",
+     "skillName": "",
+     "skillDesc": "Reserved",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790102",
+     "skillName": "Ice Rain",
+     "skillDesc": "Deals extra Ice DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790103",
+     "skillName": "Ice Block: Partisan",
+     "skillDesc": "50% chance to Freeze the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790104",
+     "skillName": "Ice Age",
+     "skillDesc": "20% chance to Freeze the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790105",
+     "skillName": "1",
+     "skillDesc": "At the start of even turns, Freezes 1 random player character for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790106",
+     "skillName": "1.2.3.4",
+     "skillDesc": "After death, if Sengoku is on the field, revives with full HP after 3 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790107",
+     "skillName": "1",
+     "skillDesc": "At turn start, 50% chance to dispel all own debuffs",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790108",
+     "skillName": "",
+     "skillDesc": "Reserved",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790110",
+     "skillName": "Buddha's Ram",
+     "skillDesc": "Deals 40% extra Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790111",
+     "skillName": "Buddha's Punishment",
+     "skillDesc": "40% chance on hit to randomly change the target's position",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790112",
+     "skillName": "1",
+     "skillDesc": "Marine side's ATK, all DMG Bonus and all DMG reduction +60% (new: Attribute DMG reduction 80%)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790113",
+     "skillName": "",
+     "skillDesc": "Reserved",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "790115",
      "skillName": "Ice Rain",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790116",
+     "skillName": "Ice Block: Partisan",
+     "skillDesc": "50% chance to Freeze the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790117",
+     "skillName": "Ice Age",
+     "skillDesc": "20% chance to Freeze the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790118",
+     "skillName": "1",
+     "skillDesc": "At the start of even turns, Freezes 1 random player character for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790119",
+     "skillName": "1",
+     "skillDesc": "At turn start, 50% chance to dispel all own debuffs",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790120",
+     "skillName": "",
+     "skillDesc": "Reserved",
      "buttonEffect": ""
     },
     {
@@ -54737,9 +55319,63 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "790128",
+     "skillName": "Buddha's Ram",
+     "skillDesc": "Deals 50% extra Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790129",
+     "skillName": "Buddha's Punishment",
+     "skillDesc": "50% chance on hit to randomly change the target's position",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790130",
+     "skillName": "1",
+     "skillDesc": "Marine side's ATK, all DMG Bonus and all DMG reduction +80% (new: Attribute DMG reduction 100%)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790131",
+     "skillName": "",
+     "skillDesc": "Reserved",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "790133",
      "skillName": "Ice Rain",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790134",
+     "skillName": "Ice Block: Partisan",
+     "skillDesc": "60% chance to Freeze the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790135",
+     "skillName": "Ice Age",
+     "skillDesc": "30% chance to Freeze the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790136",
+     "skillName": "1",
+     "skillDesc": "At the start of even turns, Freezes 1 random player character for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790137",
+     "skillName": "1",
+     "skillDesc": "At turn start, 60% chance to dispel all own debuffs",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790138",
+     "skillName": "",
+     "skillDesc": "Reserved",
      "buttonEffect": ""
     },
     {
@@ -54761,9 +55397,273 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "790143",
+     "skillName": "",
+     "skillDesc": "Basic Attack - ATK and DMG Bonus +50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790144",
+     "skillName": "Support Bombardment",
+     "skillDesc": "Deals 10% extra Fire DMG; on hit, applies 0-3 random dispellable debuffs to the target: DEF -20%, DMG reduction -20%, Healing -20%, SPD -20% for 3 turns, Stun, Skill Seal, Seal for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790145",
+     "skillName": "Lone Sky Walk",
+     "skillDesc": "40 chance to knock up the target, random landing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790146",
+     "skillName": "Pacifista",
+     "skillDesc": "Each debuff stack on the target increases DMG taken by 50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790147",
+     "skillName": "",
+     "skillDesc": "The Marine side is Invincible for the first 3 turns; for each 1 character fewer the player fields, or each player character that dies, Invincibility lasts 2 more turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790148",
+     "skillName": "",
+     "skillDesc": "Marine side's ATK and all DMG Bonus +30%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790149",
+     "skillName": "",
+     "skillDesc": "Before acting, removes 2 own debuff stacks",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790150",
+     "skillName": "",
+     "skillDesc": "Before acting, removes 3 own debuff stacks",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790151",
+     "skillName": "",
+     "skillDesc": "Bear Passive - ATK +15% each turn, stackable",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790152",
+     "skillName": "",
+     "skillDesc": "Basic Attack - ATK and DMG Bonus +60%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790153",
+     "skillName": "Support Bombardment",
+     "skillDesc": "Deals 30% extra Fire DMG; on hit, applies 0-3 random dispellable debuffs to the target: DEF -30%, DMG reduction -30%, Healing -30%, SPD -30% for 3 turns, Stun, Skill Seal, Seal for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790154",
+     "skillName": "Lone Sky Walk",
+     "skillDesc": "60 chance to knock up the target, random landing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790155",
+     "skillName": "Pacifista",
+     "skillDesc": "Each debuff stack on the target increases DMG taken by 60%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790156",
+     "skillName": "",
+     "skillDesc": "The Marine side is Invincible for the first 4 turns; for each 1 character fewer the player fields, or each player character that dies, Invincibility lasts 2 more turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790157",
+     "skillName": "",
+     "skillDesc": "Marine side's ATK and all DMG Bonus +50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790158",
+     "skillName": "",
+     "skillDesc": "Basic Attack - ATK and DMG Bonus +80%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790159",
+     "skillName": "Support Bombardment",
+     "skillDesc": "Deals 50% extra Fire DMG; on hit, applies 0-3 random dispellable debuffs to the target: DEF -40%, DMG reduction -40%, Healing -40%, SPD -40% for 3 turns, Stun, Skill Seal, Seal for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790160",
+     "skillName": "Lone Sky Walk",
+     "skillDesc": "60 chance to knock up the target, random landing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790161",
+     "skillName": "Pacifista",
+     "skillDesc": "Each debuff stack on the target increases DMG taken by 70%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790162",
+     "skillName": "",
+     "skillDesc": "The Marine side is Invincible for the first 6 turns; for each 1 character fewer the player fields, or each player character that dies, Invincibility lasts 2 more turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790163",
+     "skillName": "",
+     "skillDesc": "Marine side's ATK and all DMG Bonus +70%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790165",
+     "skillName": "Speed-of-Light Kick",
+     "skillDesc": "120% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790166",
+     "skillName": "Pillar of Light",
+     "skillDesc": "80% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790167",
+     "skillName": "Yasakani no Magatama",
+     "skillDesc": "30% Light DMG, 30% chance to swap positions",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790168",
+     "skillName": "Yata no Kagami",
+     "skillDesc": "ATK +100%; when the target's HP is at most 50%, 40 chance to remove it",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790169",
+     "skillName": "",
+     "skillDesc": "Each turn, a random permanent boost (20% ATK/40% Light DMG/50% Accuracy/40% CRIT/100% CRIT DMG/40% Pierce/50% DMG Up)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790170",
+     "skillName": "",
+     "skillDesc": "All Attribute DMG can CRIT",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790171",
+     "skillName": "",
+     "skillDesc": "At the start of turn 5, forcibly removes all debuffs from all allies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790172",
+     "skillName": "",
+     "skillDesc": "Basic Attack - ATK and DMG Bonus +100%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790173",
+     "skillName": "Support Bombardment",
+     "skillDesc": "Deals 80% extra Fire DMG; on hit, applies 1-4 random dispellable debuffs to the target: DEF -50%, DMG reduction -50%, Healing -50%, SPD -50% for 3 turns, Stun, Skill Seal, Seal for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790174",
+     "skillName": "Lone Sky Walk",
+     "skillDesc": "80% chance to knock up the target, random landing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790175",
+     "skillName": "Pacifista",
+     "skillDesc": "Each debuff stack on the target increases DMG taken by 80%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790176",
+     "skillName": "",
+     "skillDesc": "The Marine side is Invincible for the first 7 turns; for each 1 character fewer the player fields, or each player character that dies, Invincibility lasts 3 more turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790177",
+     "skillName": "",
+     "skillDesc": "Marine side's ATK and all DMG Bonus +100%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790179",
+     "skillName": "Speed-of-Light Kick",
+     "skillDesc": "150% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790180",
+     "skillName": "Pillar of Light",
+     "skillDesc": "100% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790181",
+     "skillName": "Yasakani no Magatama",
+     "skillDesc": "50% Light DMG, 50% chance to swap positions",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790182",
+     "skillName": "Yata no Kagami",
+     "skillDesc": "ATK +100%; when the target's HP is at most 50%, 70% chance to remove it",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790183",
+     "skillName": "",
+     "skillDesc": "Each turn, a random permanent boost (30% ATK/50% Light DMG/50% Accuracy/50% CRIT/150% CRIT DMG/50% Pierce/60% DMG Up)",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "790184",
      "skillName": "Magic Card",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790185",
+     "skillName": "",
+     "skillDesc": "Basic Attack - ATK and DMG Bonus +50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790186",
+     "skillName": "Support Bombardment",
+     "skillDesc": "Deals 10% extra Fire DMG; on hit, applies 0-3 random dispellable debuffs to the target: DEF -20%, DMG reduction -20%, Healing -20%, SPD -20% for 3 turns, Stun, Skill Seal, Seal for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790187",
+     "skillName": "Pacifista",
+     "skillDesc": "Each debuff stack on the target increases DMG taken by 50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790188",
+     "skillName": "",
+     "skillDesc": "Leaves the field if not dead at turn end; Taunt",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790189",
+     "skillName": "",
+     "skillDesc": "When killed, deals DMG equal to 20% of Max HP to Kizaru",
      "buttonEffect": ""
     },
     {
@@ -54773,9 +55673,129 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "790191",
+     "skillName": "Speed-of-Light Kick",
+     "skillDesc": "80% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790192",
+     "skillName": "Pillar of Light",
+     "skillDesc": "60% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790193",
+     "skillName": "Yata no Kagami",
+     "skillDesc": "ATK +100%; summons Kuma on the first turn with a Shield and a skill DMG cap, and summons Sentomaru on odd turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790194",
+     "skillName": "",
+     "skillDesc": "Final DMG reduction 100% while Kuma is present",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790195",
+     "skillName": "",
+     "skillDesc": "From turn 5, all allies gain 2% of current ATK each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790196",
+     "skillName": "",
+     "skillDesc": "Basic Attack - ATK and DMG Bonus +60%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790197",
+     "skillName": "Support Bombardment",
+     "skillDesc": "Deals 30% extra Fire DMG; on hit, applies 0-3 random dispellable debuffs to the target: DEF -30%, DMG reduction -30%, Healing -30%, SPD -30% for 3 turns, Stun, Skill Seal, Seal for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790198",
+     "skillName": "Pacifista",
+     "skillDesc": "Each debuff stack on the target increases DMG taken by 60%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790199",
+     "skillName": "",
+     "skillDesc": "Leaves the field if not dead at turn end; Taunt",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790200",
+     "skillName": "",
+     "skillDesc": "When killed, deals DMG equal to 17% of Max HP to Kizaru",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "790201",
      "skillName": "",
      "skillDesc": "Normal Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790202",
+     "skillName": "Speed-of-Light Kick",
+     "skillDesc": "100% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790203",
+     "skillName": "Pillar of Light",
+     "skillDesc": "80% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790204",
+     "skillName": "Yata no Kagami",
+     "skillDesc": "ATK +100%; summons Kuma on the first turn with a Shield and a skill DMG cap, and summons Sentomaru on odd turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790205",
+     "skillName": "",
+     "skillDesc": "Final DMG reduction 100% while Kuma is present",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790206",
+     "skillName": "",
+     "skillDesc": "From turn 5, all allies gain 5% of current ATK each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790207",
+     "skillName": "",
+     "skillDesc": "Basic Attack - ATK and DMG Bonus +80%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790208",
+     "skillName": "Support Bombardment",
+     "skillDesc": "Deals 50% extra Fire DMG; on hit, applies 0-3 random dispellable debuffs to the target: DEF -40%, DMG reduction -40%, Healing -40%, SPD -40% for 3 turns, Stun, Skill Seal, Seal for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790209",
+     "skillName": "Pacifista",
+     "skillDesc": "Each debuff stack on the target increases DMG taken by 70%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790210",
+     "skillName": "",
+     "skillDesc": "Leaves the field if not dead at turn end; Taunt",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790211",
+     "skillName": "",
+     "skillDesc": "When killed, deals DMG equal to 14% of Max HP to Kizaru",
      "buttonEffect": ""
     },
     {
@@ -54785,15 +55805,141 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "790213",
+     "skillName": "Speed-of-Light Kick",
+     "skillDesc": "120% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790214",
+     "skillName": "Pillar of Light",
+     "skillDesc": "100% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790215",
+     "skillName": "Yata no Kagami",
+     "skillDesc": "ATK +100%; summons Kuma on the first turn with a Shield and a skill DMG cap, and summons Sentomaru on odd turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790216",
+     "skillName": "",
+     "skillDesc": "Final DMG reduction 100% while Kuma is present",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790217",
+     "skillName": "",
+     "skillDesc": "From turn 5, all allies gain 7% of current ATK each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790218",
+     "skillName": "",
+     "skillDesc": "Basic Attack - ATK and DMG Bonus +100%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790219",
+     "skillName": "Support Bombardment",
+     "skillDesc": "Deals 80% extra Fire DMG; on hit, applies 1-4 random dispellable debuffs to the target: DEF -50%, DMG reduction -50%, Healing -50%, SPD -50% for 3 turns, Stun, Skill Seal, Seal for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790220",
+     "skillName": "Pacifista",
+     "skillDesc": "Each debuff stack on the target increases DMG taken by 80%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790221",
+     "skillName": "",
+     "skillDesc": "Leaves the field if not dead at turn end; Taunt",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790222",
+     "skillName": "",
+     "skillDesc": "When killed, deals DMG equal to 10% of Max HP to Kizaru",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "790223",
      "skillName": "",
      "skillDesc": "Normal Attack",
      "buttonEffect": ""
     },
     {
+     "skillId": "790224",
+     "skillName": "Speed-of-Light Kick",
+     "skillDesc": "150% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790225",
+     "skillName": "Pillar of Light",
+     "skillDesc": "120% Light DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790226",
+     "skillName": "Yata no Kagami",
+     "skillDesc": "ATK +100%; summons Kuma on the first turn with a Shield and a skill DMG cap, and summons Sentomaru on odd turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790227",
+     "skillName": "",
+     "skillDesc": "Final DMG reduction 100% while Kuma is present",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790228",
+     "skillName": "",
+     "skillDesc": "From turn 5, all allies gain 10% of current ATK each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "790229",
+     "skillName": "",
+     "skillDesc": "Immune to Attribute DMG while shielded; Sever weakened by 0.9 without a Shield",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791001",
+     "skillName": "",
+     "skillDesc": "Front-Row Mob",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791002",
+     "skillName": "",
+     "skillDesc": "Back-Row Mob",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "791003",
      "skillName": "",
      "skillDesc": "Miss Wednesday",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791004",
+     "skillName": "",
+     "skillDesc": "Mr. 9 - Stages 4/5",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791005",
+     "skillName": "",
+     "skillDesc": "Mr. 9 - Stages 4/5 - Skill 1: Armor Break 20% for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791008",
+     "skillName": "",
+     "skillDesc": "Miss Monday - 7",
      "buttonEffect": ""
     },
     {
@@ -54815,6 +55961,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "791013",
+     "skillName": "",
+     "skillDesc": "Miss Valentine - 8/9",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791014",
+     "skillName": "",
+     "skillDesc": "Miss Valentine",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "791016",
      "skillName": "Candle Hammer",
      "skillDesc": "Mr.3",
@@ -54827,6 +55985,162 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "791018",
+     "skillName": "",
+     "skillDesc": "Miss Goldenweek - 10",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791019",
+     "skillName": "Color Mix: Laughing Yellow",
+     "skillDesc": "Miss Goldenweek",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791020",
+     "skillName": "Color Mix: Leisurely Green",
+     "skillDesc": "Miss Goldenweek",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791021",
+     "skillName": "",
+     "skillDesc": "Mr. 3 (Transformed) - 11",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791022",
+     "skillName": "Champion's Fist",
+     "skillDesc": "Mr. 3 (Transformed) applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791023",
+     "skillName": "Candle Flying Fist",
+     "skillDesc": "Mr. 3 (Transformed) applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791025",
+     "skillName": "Four-Hundred-Bat Super Smash",
+     "skillDesc": "Mr. 4 applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791026",
+     "skillName": "4-Ton Bat",
+     "skillDesc": "Mr. 4 applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791027",
+     "skillName": "",
+     "skillDesc": "Miss Merry Christmas - 12",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791028",
+     "skillName": "",
+     "skillDesc": "Miss Merry Christmas - applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791029",
+     "skillName": "",
+     "skillDesc": "Miss Merry Christmas - applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791031",
+     "skillName": "The Way of the Okama",
+     "skillDesc": "Mr. 2 - applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791032",
+     "skillName": "Tiptoe Kick",
+     "skillDesc": "Mr. 2 - applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791034",
+     "skillName": "Slasher",
+     "skillDesc": "Mr. 1 - applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791035",
+     "skillName": "Dust Slash",
+     "skillDesc": "Mr. 1 - applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791036",
+     "skillName": "",
+     "skillDesc": "Miss Doublefinger",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791037",
+     "skillName": "",
+     "skillDesc": "Miss Doublefinger - applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791038",
+     "skillName": "",
+     "skillDesc": "Miss Doublefinger - applies debuffs such as Pierce and Bind based on skill visuals",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791039",
+     "skillName": "Miss Wednesday (Vivi)",
+     "skillDesc": "ATK +20%, ATK permanently +2% each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791040",
+     "skillName": "Mr. 9 (Prince)",
+     "skillDesc": "Recovers 20% HP at the start of even turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791041",
+     "skillName": "Mr. 8 (Curly-Haired Old Man)",
+     "skillDesc": "On odd turns, the player's Dodge and Block -20%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791042",
+     "skillName": "Miss Monday (Muscle Lady)",
+     "skillDesc": "DMG taken from non-single-target skills +20%, ATK and HP +30%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791043",
+     "skillName": "Mr. 5 (Booger Guy)",
+     "skillDesc": "All attacks deal 50% extra Fire DMG, Fire DMG +20%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791044",
+     "skillName": "Miss Valentine (Umbrella Girl)",
+     "skillDesc": "When the player's HP is below 50%, hits inflict Stun for 1 turn, up to 1 time",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791045",
+     "skillName": "Mr. 3 (Candle)",
+     "skillDesc": "Goes stealthy at the start of turns 3, 6 and 9",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791046",
+     "skillName": "Miss Goldenweek",
+     "skillDesc": "Each turn, randomly restores 1 HP, 1%, 5%, 5% or 20% HP to Mr. 3",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "791047",
      "skillName": "Mr. 3 Armored Version",
      "skillDesc": "One skill DMG reduction +80%, one Attribute DMG reduction +80%; the reduction decreases by 20% every 2 turns",
@@ -54836,6 +56150,42 @@
      "skillId": "791048",
      "skillName": "Mr. 3 Armored Version",
      "skillDesc": "One skill DMG reduction +80%, one Attribute DMG reduction +80%; the reduction decreases by 20% every 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791049",
+     "skillName": "Mr. 4 (Baseball Guy)",
+     "skillDesc": "Block +20%; when Blocking, the Mole gains 15 ATK for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791050",
+     "skillName": "Miss Merry Christmas (Mole)",
+     "skillDesc": "Dodge +20%; on a full Dodge, the baseball guy and the Mole recover 20% HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791051",
+     "skillName": "Mr. 2 (Bon Clay)",
+     "skillDesc": "On odd turns, randomly increases ATK by 1%, 20%, 20% or 100% for 1 turn, and all DMG taken increases by the same amount",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791052",
+     "skillName": "Mr. 1 (Blade Man)",
+     "skillDesc": "Recovers 20% HP when attacking targets with lower DEF than self",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791053",
+     "skillName": "Miss Doublefinger (Thorn Woman)",
+     "skillDesc": "Each hit permanently reduces the target's DEF by 20%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791055",
+     "skillName": "Turn to Sand",
+     "skillDesc": "All own DMG reduction +10% for 1 turn",
      "buttonEffect": ""
     },
     {
@@ -54854,6 +56204,30 @@
      "skillId": "791058",
      "skillName": "Erosion Cycle",
      "skillDesc": "DMG Bonus +200%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791059",
+     "skillName": "Nutrient Absorption",
+     "skillDesc": "At the end of the first 5 turns, Crocodile gains ATK and Accuracy +5% and DMG Bonus +10%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791060",
+     "skillName": "Nutrient Absorption",
+     "skillDesc": "At the end of turns after 5, Crocodile gains ATK and Accuracy +15% and DMG Bonus +30%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "791061",
+     "skillName": "Immunity",
+     "skillDesc": "Immune to control skills",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "792001",
+     "skillName": "Guild BOSS - Shared",
+     "skillDesc": "Each turn, Accuracy, ATK and DMG Bonus +20%; from turn 5, Accuracy and ATK +100% each turn; from turn 10, ATK +1000000 each turn",
      "buttonEffect": ""
     },
     {
@@ -54884,6 +56258,36 @@
      "skillId": "792006",
      "skillName": "Birdcage",
      "skillDesc": "Birdcage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "792007",
+     "skillName": "Guild BOSS",
+     "skillDesc": "Final DMG Up 10",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "792008",
+     "skillName": "Guild BOSS",
+     "skillDesc": "Final DMG Up 20",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "792009",
+     "skillName": "Guild BOSS",
+     "skillDesc": "Final DMG Up 50",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "792010",
+     "skillName": "Guild BOSS",
+     "skillDesc": "Final DMG Up 100",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "792011",
+     "skillName": "Guild BOSS",
+     "skillDesc": "Final DMG Up 180",
      "buttonEffect": ""
     },
     {
@@ -55085,6 +56489,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800045",
+     "skillName": "Hypnosis Boost",
+     "skillDesc": "Jango has a 50% chance to apply <color=#d14e0d>Hypnosis</color> to <color=#d14e0d>a single enemy target</color>, putting it to sleep for <color=#d14e0d>1</color> turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800046",
+     "skillName": "Hypnosis Boost",
+     "skillDesc": "Jango has a 50% chance to apply <color=#d14e0d>Hypnosis</color> to <color=#d14e0d>a single enemy target</color>, putting it to sleep for <color=#d14e0d>1</color> turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800047",
+     "skillName": "Hypnosis Boost",
+     "skillDesc": "Jango has a 50% chance to apply <color=#d14e0d>Hypnosis</color> to <color=#d14e0d>a single enemy target</color>, putting it to sleep for <color=#d14e0d>1</color> turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800049",
+     "skillName": "Hypnosis Master",
+     "skillDesc": "Grants <color=#d14e0d>a random teammate</color> <color=#d14e0d>{buffper1}%</color> more CRIT Rate and ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800050",
+     "skillName": "Hypnosis Master",
+     "skillDesc": "Grants <color=#d14e0d>a random teammate</color> <color=#d14e0d>{buffper1}%</color> more CRIT Rate and ATK.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800052",
      "skillName": "Rapid-Fire Lance",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -55115,6 +56549,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800057",
+     "skillName": "Great Battle Spear",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a cross-shaped area around the target</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack inflicts <color=#d14e0d>Armor Break</color>, reducing the enemy target's <color=#d14e0d>DEF</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800059",
+     "skillName": "Rampage",
+     "skillDesc": "At the start of each turn, Krieg's CRIT Rate increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800062",
      "skillName": "Double-Barreled Shotgun",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -55142,6 +56588,18 @@
      "skillId": "800066",
      "skillName": "Demon Combo",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800067",
+     "skillName": "Demon Combo",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack inflicts <color=#d14e0d>Stun</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800070",
+     "skillName": "HP Enhancement",
+     "skillDesc": "Gin's <color=#d14e0d>Max HP</color> increases by <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -55181,6 +56639,42 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800078",
+     "skillName": "Iron Wall",
+     "skillDesc": "Pearl reduces the ATK of <color=#d14e0d>those who attack Pearl</color> by <color=#d14e0d>{buffper1}%</color>, stacking up to <color=#d14e0d>2 stacks</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800079",
+     "skillName": "Iron Wall",
+     "skillDesc": "Pearl reduces the ATK of <color=#d14e0d>those who attack Pearl</color> by <color=#d14e0d>{buffper1}%</color>, stacking up to <color=#d14e0d>2 stacks</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800080",
+     "skillName": "HP Enhancement",
+     "skillDesc": "Pearl's <color=#d14e0d>Max HP</color> increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800082",
+     "skillName": "SHARK ON TOOTH",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>3 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800083",
+     "skillName": "SHARK ON TOOTH",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>3 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack reduces the enemy target's <color=#d14e0d>Accuracy</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800084",
+     "skillName": "SHARK ON TOOTH",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>3 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack reduces the enemy target's <color=#d14e0d>Accuracy</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800085",
      "skillName": "Saw Blade",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -55193,6 +56687,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800087",
+     "skillName": "Saw Blade",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack reduces the enemy target's <color=#d14e0d>Accuracy</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800088",
      "skillName": "Fishman's Wrath",
      "skillDesc": "",
@@ -55202,6 +56702,12 @@
      "skillId": "800089",
      "skillName": "Fishman's Wrath",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800090",
+     "skillName": "Fishman's Wrath",
+     "skillDesc": "Arlong's <color=#d14e0d>Max HP</color> increases by <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -55244,6 +56750,18 @@
      "skillId": "800098",
      "skillName": "Octopus Show",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800099",
+     "skillName": "Octopus Show",
+     "skillDesc": "On the first turn, Hatchan's <color=#d14e0d>CRIT Rate</color> increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800100",
+     "skillName": "Fortitude",
+     "skillDesc": "When Hatchan uses a skill, his <color=#d14e0d>Rage</color> increases by an extra <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -55316,6 +56834,24 @@
      "skillId": "800114",
      "skillName": "Nose Fancy Double Cannon",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800115",
+     "skillName": "Swallow Gunpowder",
+     "skillDesc": "Applies a <color=#d14e0d>Fire DMG Up</color> effect to self, increasing <color=#d14e0d>Fire damage</color> dealt by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800116",
+     "skillName": "Swallow Gunpowder",
+     "skillDesc": "Applies a <color=#d14e0d>Fire DMG Up</color> effect to self, increasing <color=#d14e0d>Fire damage</color> dealt by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800117",
+     "skillName": "Swallow Gunpowder",
+     "skillDesc": "Applies a <color=#d14e0d>Fire DMG Up</color> effect to self, increasing <color=#d14e0d>Fire damage</color> dealt by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
      "buttonEffect": ""
     },
     {
@@ -55577,6 +57113,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800166",
+     "skillName": "Gum-Gum Bazooka",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage, and inflicts <color=#d14e0d>Knock-Up</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800167",
+     "skillName": "Gum-Gum Bazooka",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage, and inflicts <color=#d14e0d>Knock-Up</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800168",
+     "skillName": "HP Boost",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {buffper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800169",
+     "skillName": "Defense Boost",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>DEF by {buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800170",
+     "skillName": "Gum-Gum Fruit",
+     "skillDesc": "<color=#d14e0d>Damage</color> taken by Luffy is reduced by <color=#d14e0d>{buffper1}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800172",
      "skillName": "108 Pound Phoenix",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -55601,9 +57167,33 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800176",
+     "skillName": "Lion's Song",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Sever</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800177",
+     "skillName": "Lion's Song",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Sever</color>. This skill always CRITs.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800178",
      "skillName": "Three-Sword Style",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800179",
+     "skillName": "Attack Boost",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {buffper1}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800180",
+     "skillName": "Attack Boost",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {buffper1}%</color>",
      "buttonEffect": ""
     },
     {
@@ -55616,6 +57206,48 @@
      "skillId": "800183",
      "skillName": "Thunder Ball",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800184",
+     "skillName": "Thunder Ball",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and <color=#d14e0d>{buffper1}%</color> Electric damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800185",
+     "skillName": "Thunder Lance Tempo",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and <color=#d14e0d>{buffper1}%</color> Electric damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800186",
+     "skillName": "Thunder Lance Tempo",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and <color=#d14e0d>{buffper1}%</color> Electric damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800187",
+     "skillName": "Thunder Lance Tempo",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and <color=#d14e0d>{buffper1}%</color> Electric damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800188",
+     "skillName": "Crit Enhancement",
+     "skillDesc": "Nami's <color=#d14e0d>CRIT Rate</color> increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800189",
+     "skillName": "Crit Enhancement",
+     "skillDesc": "Nami's <color=#d14e0d>CRIT Rate</color> increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800190",
+     "skillName": "Accuracy Boost",
+     "skillDesc": "Nami's <color=#d14e0d>Accuracy</color> increases by <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -55655,6 +57287,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800199",
+     "skillName": "Sogeking",
+     "skillDesc": "Increases own Accuracy by <color=#d14e0d>{buffper1}%</color> and CRIT Rate by <color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800200",
+     "skillName": "Sogeking",
+     "skillDesc": "Increases own Accuracy by <color=#d14e0d>{buffper1}%</color> and CRIT Rate by <color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800202",
      "skillName": "First-Grade Hachis",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -55667,6 +57311,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800204",
+     "skillName": "First-Grade Hachis",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, with a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Seal</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800205",
      "skillName": "Diable Jambe: Finishing Touch Kick",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -55676,6 +57326,24 @@
      "skillId": "800206",
      "skillName": "Diable Jambe: Finishing Touch Kick",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800207",
+     "skillName": "Diable Jambe: Finishing Touch Kick",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and inflicts <color=#d14e0d>Stun</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800209",
+     "skillName": "Attack Boost",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {buffper1}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800210",
+     "skillName": "Attack Boost",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {buffper1}%</color>",
      "buttonEffect": ""
     },
     {
@@ -55694,6 +57362,24 @@
      "skillId": "800214",
      "skillName": "Emergency Injection",
      "skillDesc": "Heals <color=#d14e0d>the ally with the lowest HP</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Chopper's ATK plus <color=#d14e0d>{atkval}</color> HP. If that ally's HP is below <color=#d14e0d>30% of their Max HP</color>, the healing is doubled.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800215",
+     "skillName": "Rumble Ball: Hoof Print Cherry Blizzard",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. After casting, Chopper's <color=#d14e0d>Max HP and ATK</color> increase by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800216",
+     "skillName": "Rumble Ball: Hoof Print Cherry Blizzard",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. After casting, Chopper's <color=#d14e0d>Max HP and ATK</color> increase by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800217",
+     "skillName": "Rumble Ball: Hoof Print Cherry Blizzard",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. After casting, Chopper's <color=#d14e0d>Max HP and ATK</color> increase by <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -55736,6 +57422,24 @@
      "skillId": "800224",
      "skillName": "Arm Point: Hoof Print Cross",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a cross-shaped area around the target</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800225",
+     "skillName": "Human-Human Fruit",
+     "skillDesc": "Chopper's <color=#d14e0d>Max HP and ATK</color> increase by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800226",
+     "skillName": "Human-Human Fruit",
+     "skillDesc": "Chopper's <color=#d14e0d>Max HP and ATK</color> increase by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800227",
+     "skillName": "Healing Enhancement",
+     "skillDesc": "Chopper's <color=#d14e0d>Healing</color> increases by <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -72061,6 +73765,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "790003",
+     "skillName": "Buddha's Punishment",
+     "skillDesc": "40% chance on hit to randomly change the target's position",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "7500088",
      "skillName": "Slasher",
      "skillDesc": "Strengthens the body to become as hard as a blade.",
@@ -72115,7 +73825,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "10682/14789 rows translated so far"
+   "partial": "10967/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
