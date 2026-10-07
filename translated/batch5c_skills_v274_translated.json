@@ -48829,7 +48829,7 @@
     {
      "skillId": "701656",
      "skillName": "Tiger 2",
-     "skillDesc": "At turn start, randomly increases own SPD: 300,700,1000,1300,1600",
+     "skillDesc": "At turn start, randomly increases own SPD: 300,700, 1000,1300,1600",
      "buttonEffect": ""
     },
     {
@@ -49607,6 +49607,168 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701804",
+     "skillName": "",
+     "skillDesc": "Drake Challenge 1 - Aokiji Parry Counter",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701805",
+     "skillName": "",
+     "skillDesc": "Drake Challenge 2 - Akainu",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701806",
+     "skillName": "",
+     "skillDesc": "Drake Challenge 2 - Akainu Soldier",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701807",
+     "skillName": "",
+     "skillDesc": "Drake Challenge 3 - Kizaru Bright Mirror",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701808",
+     "skillName": "",
+     "skillDesc": "Drake Challenge 4 - Akainu",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701809",
+     "skillName": "",
+     "skillDesc": "Drake Challenge 4 - Kizaru",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701810",
+     "skillName": "",
+     "skillDesc": "Drake Challenge 4 - Aokiji",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701811",
+     "skillName": "",
+     "skillDesc": "Drake Challenge 4 - Same-Color Handling for Both Sides",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701812",
+     "skillName": "",
+     "skillDesc": "Drake Challenge - Old Servers Stat Boost 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701813",
+     "skillName": "",
+     "skillDesc": "Drake Challenge - Old Servers Stat Boost 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701814",
+     "skillName": "",
+     "skillDesc": "Drake Challenge - Old Servers Stat Boost 3",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701815",
+     "skillName": "",
+     "skillDesc": "Drake Challenge - Clear Forget Before Acting",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701816",
+     "skillName": "",
+     "skillDesc": "Drake Challenge - Sengoku Banishes Himself After Acting",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701817",
+     "skillName": "",
+     "skillDesc": "Drake Challenge - ATK Cannot Be Reduced Below a Certain Value",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701818",
+     "skillName": "",
+     "skillDesc": "New Server Main Story Tweak - Healing -50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701819",
+     "skillName": "",
+     "skillDesc": "New Server Main Story Tweak - Max HP +40%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701820",
+     "skillName": "",
+     "skillDesc": "New Server Main Story Tweak - Max HP +100%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701821",
+     "skillName": "",
+     "skillDesc": "New Server Main Story Tweak - ATK +100%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701822",
+     "skillName": "",
+     "skillDesc": "New Server Main Story Tweak - Max HP +1000%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701829",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 1 - Taunt Clear Patch",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701830",
+     "skillName": "",
+     "skillDesc": "Old Servers Shiryu Challenge 1 - Taunt the frontmost character at battle start",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701831",
+     "skillName": "",
+     "skillDesc": "Old Servers Shiryu Challenge 1 - Taunt the frontmost character on death",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701832",
+     "skillName": "",
+     "skillDesc": "Old Servers Crocodile Challenge 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701833",
+     "skillName": "",
+     "skillDesc": "Old Servers Mihawk Challenge - Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701834",
+     "skillName": "",
+     "skillDesc": "Old Servers Mihawk Challenge - Mob Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701835",
+     "skillName": "",
+     "skillDesc": "Old Servers Mihawk Challenge - DMG Up on Action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701836",
+     "skillName": "",
+     "skillDesc": "Old Servers Shiryu Challenge 1 - Boss Stage Summon",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701837",
      "skillName": "Summon Passive 1",
      "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
@@ -49649,6 +49811,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701844",
+     "skillName": "Summon Passive 8",
+     "skillDesc": "Displacement Immunity: Knock-Up, Swap",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701845",
      "skillName": "Summon Passive 9",
      "skillDesc": "Immune to: Taunt, Interrupt",
@@ -49661,6 +49829,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701847",
+     "skillName": "Summon Passive 11",
+     "skillDesc": "Displacement Immunity: Knock-Up 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701848",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 2 - New Servers Garp Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701849",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 2 - New Servers Garp Player fightbuff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701850",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 2 - New Servers Lucci",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701851",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 2 - Old Servers Lucci - Revive One Fallen Target",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701852",
      "skillName": "Poison: Cloud",
      "skillDesc": "1",
@@ -49670,6 +49868,906 @@
      "skillId": "701853",
      "skillName": "Poison: Pufferfish",
      "skillDesc": "1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701854",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 3 - New Servers Sengoku Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701855",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 3 - New Servers Sengoku Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701856",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 3 - New Servers Brook Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701857",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 3 - New Servers Brook Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701858",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 3 - Old Servers Sengoku Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701859",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 3 - Old Servers Sengoku Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701860",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 4 - New Servers Big Mom Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701861",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 4 - Old Servers Big Mom Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701862",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 5 - Old Servers Katakuri Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701863",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 5 - New Servers Katakuri Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701864",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 5 - New Servers Katakuri Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701865",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 6 - New Servers Kaido Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701866",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 6 - Old Servers Kaido Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701867",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 7 - New Servers Sabo Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701868",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 7 - Old Servers Sabo Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701869",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 7 - Old Servers Sabo Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701870",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 8 - New Servers Jack Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701871",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 8 - Old Servers Jack Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701872",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 9 - New Servers Hakuba Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701873",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 9 - Old Servers Kizaru Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701874",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 9 - Old Servers Kizaru Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701901",
+     "skillName": "Queen's Last Stand",
+     "skillDesc": "Immune to Attribute DMG and DMG bonuses; CRIT DMG taken cannot exceed 150%; the monster prevents players from ignoring DEF",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701902",
+     "skillName": "Queen's Last Stand - New Servers",
+     "skillDesc": "DEF and all DMG reduction +200%, Healing Bonus +100%, recovers 30% HP each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701903",
+     "skillName": "Queen's Last Stand - Old Servers",
+     "skillDesc": "All DMG reduction +200%, DMG Bonus +20% each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701904",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 11 - Old Servers Kuma",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701905",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 11 - New Servers Pony",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701906",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 11 - Old Servers Kuma (Player Max HP Up)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701907",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 12 - New Servers Yamato Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701908",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 12 - New Servers Yamato Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701909",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 12 - Old Servers Yamato Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701910",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 12 - Old Servers Yamato Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701911",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 13 - New & Old Servers Uta Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701912",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 13 - New & Old Servers Uta Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701913",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 14 - New Servers Ulti",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701914",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 14 - Old Servers Ulti",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701915",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 15 - New Servers King",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701916",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 15 - Old Servers King",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701917",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 16 - New Servers Page One (Player)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701918",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 16 - New Servers Page One (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701919",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 16 - Old Servers Page One (Player)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701920",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 16 - Old Servers Page One (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701921",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 17 - New Servers Killer (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701922",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 17 - Old Servers Killer (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701923",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 17 - New Servers Kid (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701924",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 17 - Old Servers Kid (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701925",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 17 - New Servers Law (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701926",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 17 - Old Servers Law (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701927",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 20 - New Servers Big Mom",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701928",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 20 - Old Servers Big Mom",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701929",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 21 - New Servers Luffy (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701930",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 21 - Old Servers Luffy (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701931",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 21 - New Servers Wano Robin (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701932",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 21 - Old Servers Wano Robin (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701933",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 23 - New Servers Wano Sanji (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701934",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 23 - Old Servers Wano Sanji (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701935",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 24 - New Servers Wano Chopper (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701936",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 24 - Old Servers Wano Chopper (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701937",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 24 - New Servers Wano Usopp (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701938",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 24 - Old Servers Wano Usopp (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701939",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 26 - New Servers Wano Nami (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701940",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 26 - Old Servers Wano Nami (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701941",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 27 - New Servers Wano Franky (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701942",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 27 - Old Servers Wano Franky (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701943",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 28 - New Servers Wano Brook (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701944",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 28 - Old Servers Wano Brook (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701945",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 29 - New Servers Wano Jinbe (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701946",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 29 - Old Servers Wano Jinbe (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701947",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 30 - New Servers Black Maria (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701948",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 30 - Old Servers Black Maria (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701949",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 31 - New Servers Golden Lion Shiki (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701950",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 31 - Old Servers Golden Lion Shiki (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701951",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 32 - New Servers Soba Mask (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701952",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 32 - Old Servers Soba Mask (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701953",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 33 - New Servers Kid & Law (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701954",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 33 - Old Servers Kid & Law (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701955",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 34 - New Servers Bonney (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701956",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 34 - Old Servers Bonney (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701957",
+     "skillName": "",
+     "skillDesc": "Server-Wide Challenge - Phase 2 - DMG taken +75% while Burned, Poisoned or Bleeding",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701958",
+     "skillName": "",
+     "skillDesc": "Server-Wide Challenge - Phase 2 - Fire, Thunder and Ice DMG taken +75%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701959",
+     "skillName": "",
+     "skillDesc": "Server-Wide Challenge - Phase 2 - Light, Water and Dark DMG taken +75%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701960",
+     "skillName": "",
+     "skillDesc": "Server-Wide Challenge - Phase 2 - DMG taken from characters with a Shield +75%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701961",
+     "skillName": "",
+     "skillDesc": "Server-Wide Challenge - Phase 2 - Single-target DMG taken +75%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701962",
+     "skillName": "",
+     "skillDesc": "Server-Wide Challenge - Phase 2 - AoE DMG taken +75%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703001",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-1 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703002",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-1 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703003",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-2 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703004",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-2 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703005",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-3 New Servers Mob",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7030051",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-3 New Servers BOSS",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703006",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-3 Old Servers Mob",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7030061",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-3 Old Servers BOSS",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703007",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-4 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703008",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-4 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703009",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-5 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703010",
+     "skillName": "",
+     "skillDesc": "New Last Stand 1-5 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703011",
+     "skillName": "",
+     "skillDesc": "New Last Stand 2-1 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703012",
+     "skillName": "",
+     "skillDesc": "New Last Stand 2-1 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703013",
+     "skillName": "",
+     "skillDesc": "New Last Stand 2-2 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703014",
+     "skillName": "",
+     "skillDesc": "New Last Stand 2-2 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703015",
+     "skillName": "",
+     "skillDesc": "New Last Stand 2-3 New & Old Servers Mob",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703016",
+     "skillName": "",
+     "skillDesc": "New Last Stand 2-3 New & Old Servers BOSS",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703017",
+     "skillName": "",
+     "skillDesc": "New Last Stand 2-4 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703018",
+     "skillName": "",
+     "skillDesc": "New Last Stand 2-4 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703019",
+     "skillName": "",
+     "skillDesc": "New Last Stand 2-5 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703020",
+     "skillName": "",
+     "skillDesc": "New Last Stand 2-5 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703021",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-1 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703022",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-1 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703023",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-2 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703024",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-2 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703025",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-3 New Servers Mob",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7030251",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-3 New Servers BOSS",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703026",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-3 Old Servers Mob",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7030261",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-3 Old Servers BOSS",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703027",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-4 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703028",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-4 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703029",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-5 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703030",
+     "skillName": "",
+     "skillDesc": "New Last Stand 3-5 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703031",
+     "skillName": "",
+     "skillDesc": "New Last Stand 4-1 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703032",
+     "skillName": "",
+     "skillDesc": "New Last Stand 4-1 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703033",
+     "skillName": "",
+     "skillDesc": "New Last Stand 4-2 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703034",
+     "skillName": "",
+     "skillDesc": "New Last Stand 4-2 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703035",
+     "skillName": "",
+     "skillDesc": "New Last Stand 4-3 New & Old Servers Mob",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703036",
+     "skillName": "",
+     "skillDesc": "New Last Stand 4-3 New & Old Servers BOSS",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703037",
+     "skillName": "",
+     "skillDesc": "New Last Stand 4-4 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703038",
+     "skillName": "",
+     "skillDesc": "New Last Stand 4-4 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703039",
+     "skillName": "",
+     "skillDesc": "New Last Stand 4-5 New Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703040",
+     "skillName": "",
+     "skillDesc": "New Last Stand 4-5 Old Servers",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703041",
+     "skillName": "",
+     "skillDesc": "Last Stand Replacement - New Servers Sengoku Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703042",
+     "skillName": "",
+     "skillDesc": "Last Stand Replacement - New Servers Sengoku Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703043",
+     "skillName": "",
+     "skillDesc": "Last Stand Replacement - Old Servers Sengoku Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703044",
+     "skillName": "",
+     "skillDesc": "Last Stand Replacement - Old Servers Sengoku Boss Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703045",
+     "skillName": "",
+     "skillDesc": "Last Stand Replacement - New Servers Wano Sanji (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703046",
+     "skillName": "",
+     "skillDesc": "Last Stand Replacement - Old Servers Wano Sanji (Monster)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705001",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705002",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705003",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705004",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705005",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705006",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705007",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705008",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705009",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705010",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705011",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705012",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705013",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705014",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705015",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "705016",
+     "skillName": "",
+     "skillDesc": "Fleet Trial Buff",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710000",
+     "skillName": "",
+     "skillDesc": "All Attribute DMG RES +30%",
      "buttonEffect": ""
     },
     {
@@ -49715,6 +50813,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "710008",
+     "skillName": "Boss Passive 8",
+     "skillDesc": "Displacement Immunity: Knock-Up, Swap",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "710009",
      "skillName": "Boss Passive 9",
      "skillDesc": "Immune to: Taunt, Interrupt",
@@ -49727,9 +50831,117 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "710011",
+     "skillName": "Boss Invincible",
+     "skillDesc": "Don't add casually - skills always kill instantly, and Invincible",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710012",
+     "skillName": "General Passive 1 - Healing Weakened",
+     "skillDesc": "Reduces the player's Healing Bonus each turn; after 10 turns, the reduction doubles each time",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710013",
+     "skillName": "General Passive 2 - Battle Ecosystem",
+     "skillDesc": "The lower the HP, the lower the ATK: for every 10% HP lost, ATK -5%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710014",
+     "skillName": "General Passive 3 - Healing Forbidden",
+     "skillDesc": "After battle starts, players cannot recover HP or revive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710015",
+     "skillName": "Boss Passive 11",
+     "skillDesc": "Displacement Immunity: Knock-Up 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710016",
+     "skillName": "",
+     "skillDesc": "DMG dealt by both sides to each other +15%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710017",
+     "skillName": "",
+     "skillDesc": "All enemies' ATK +5% each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710018",
+     "skillName": "",
+     "skillDesc": "All enemies' DMG against characters without a Shield +35%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710019",
+     "skillName": "",
+     "skillDesc": "The enemy boss's first-turn attacks have a 50% chance to Stun the target for 1 turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710020",
+     "skillName": "",
+     "skillDesc": "For each player character that dies, all enemies' ATK, CRIT Rate and CRIT DMG +10%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710021",
+     "skillName": "",
+     "skillDesc": "For each enemy character that dies, the remaining enemies' Max HP and all DMG reduction +15%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710022",
+     "skillName": "",
+     "skillDesc": "After battle starts, non-CRIT DMG is reduced by 50%; lifted after 5 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710023",
+     "skillName": "",
+     "skillDesc": "On odd turns, all enemies' DEF +30% and ATK -20%; on even turns, all enemies' ATK +30% and DEF -20%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710024",
+     "skillName": "Bounty Boss Passive",
+     "skillDesc": "HP Lock at 1%; recovers 10% HP when HP is below 2%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710025",
+     "skillName": "After a set number of turns, the boss instantly kills enemies",
+     "skillDesc": "After turn 7, attacks carry instant kill",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "720001",
      "skillName": "Electro Claw",
      "skillDesc": "Electro Claw",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720002",
+     "skillName": "Friction Electricity",
+     "skillDesc": "Electro balls appear after being hit three times",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720003",
+     "skillName": "Electro Ball",
+     "skillDesc": "Each electro ball deals 10% Electric DMG to all enemies every turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720004",
+     "skillName": "DMG Explosion (Roddy)",
+     "skillDesc": "Displacement Immunity: Knock-Up 2",
      "buttonEffect": ""
     },
     {
@@ -49745,9 +50957,81 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "720007",
+     "skillName": "Charge",
+     "skillDesc": "Attacks the 4 tiles in a straight line where the marked target is, 1-3 random hits",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720008",
+     "skillName": "Ox Horn",
+     "skillDesc": "Each electro ball grants Ox Horn 100% Electric DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720009",
+     "skillName": "",
+     "skillDesc": "Roddy Charge AI charges 1 time",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720010",
+     "skillName": "",
+     "skillDesc": "Roddy 300% DMG Boost",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720011",
+     "skillName": "Friction Electricity",
+     "skillDesc": "Electro balls appear after being hit three times",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720012",
+     "skillName": "",
+     "skillDesc": "Basic Attack Mark (60%)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720013",
+     "skillName": "",
+     "skillDesc": "Basic Attack Mark (100%)",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "720014",
      "skillName": "",
      "skillDesc": "Normal Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720015",
+     "skillName": "Electro Slash",
+     "skillDesc": "Detonates all electro balls on the field; each detonated ball deals 50% Electric DMG to all enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720016",
+     "skillName": "Friction Electricity",
+     "skillDesc": "Electro balls appear after being hit three times",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720017",
+     "skillName": "Electro Ball",
+     "skillDesc": "Each electro ball deals 10% Electric DMG to all enemies every turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720018",
+     "skillName": "",
+     "skillDesc": "Basic attacks have a 50% chance to Paralyze; DMG against Paralyzed characters +300%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720019",
+     "skillName": "",
+     "skillDesc": "Basic attacks have a 50% chance to Paralyze; DMG against Paralyzed characters +300%",
      "buttonEffect": ""
     },
     {
@@ -49793,6 +51077,108 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "720027",
+     "skillName": "Regular Pirate 4",
+     "skillDesc": "ATK +200% when attacking Slowed targets",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720028",
+     "skillName": "Long-Horn Pirate 1",
+     "skillDesc": "Attacks on characters below 60% HP inflict Knock-Up (ignores immunity)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720029",
+     "skillName": "Long-Horn Pirate 2",
+     "skillDesc": "Inflicts 50% Sever on hit",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720030",
+     "skillName": "Regular Pirate 2",
+     "skillDesc": "Attacks inflict Slow",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720031",
+     "skillName": "Capone's Underling 1",
+     "skillDesc": "20% chance to Stun when attacking Bleeding targets",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720032",
+     "skillName": "Capone's Underling 2",
+     "skillDesc": "Attacks inflict Bleed",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720033",
+     "skillName": "",
+     "skillDesc": "Capone Basic Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720034",
+     "skillName": "Mafia Godfather",
+     "skillDesc": "Summons 2 mobs.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720035",
+     "skillName": "Suppressing Fire",
+     "skillDesc": "Guaranteed hit; 20% chance to knock up the slowest hero for two turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720036",
+     "skillName": "Capone Passive 1",
+     "skillDesc": "ATK +100% and deals 10% extra True DMG.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720037",
+     "skillName": "Capone Passive 2",
+     "skillDesc": "DMG reduction +100%, immune to all debuffs; a single hit cannot exceed 20% of own Max HP; Healing Bonus +100%:",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720038",
+     "skillName": "Capone Passive 3",
+     "skillDesc": "On odd turns, Capone's SPD increases fivefold; if Capone is faster than the target, all attacks this turn are guaranteed CRITs",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720039",
+     "skillName": "Capone Passive 4",
+     "skillDesc": "10% chance to directly remove Stunned targets when attacking them",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720040",
+     "skillName": "Capone Passive 5",
+     "skillDesc": "Capone's DEF +100% on turn 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720041",
+     "skillName": "Capone Passive 6",
+     "skillDesc": "Recovers 50% HP the first time lethal DMG is taken and enters a defensive stance",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720042",
+     "skillName": "Capone Passive 7",
+     "skillDesc": "While Capone's gang members are alive on the field, Capone recovers 50% HP when taking lethal DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720043",
+     "skillName": "Capone Passive 8",
+     "skillDesc": "Capone's gang ATK +80% and DMG reduction +80%. With 4 or fewer gang members, 50% chance to summon 1",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "720044",
      "skillName": "",
      "skillDesc": "Normal Attack",
@@ -49811,9 +51197,213 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "720047",
+     "skillName": "",
+     "skillDesc": "100% base DMG; applies Armor Break to the target, reducing its DMG reduction by 20% for 1 turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720048",
+     "skillName": "Sickle Slash",
+     "skillDesc": "150% base DMG; converts 100% of DMG dealt into own HP. Each mob death increases Sickle Slash DMG by 50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720049",
+     "skillName": "",
+     "skillDesc": "100% base DMG; 50% chance to apply 1 stack of Drought to the target for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720050",
+     "skillName": "Elephant Roar",
+     "skillDesc": "150% base DMG; 100% chance to apply 1 stack of Drought to all enemies for 2 turns. When an enemy dies, Elephant Roar is a guaranteed CRIT",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720051",
+     "skillName": "Wind Blade",
+     "skillDesc": "Base DMG 15% Sever; each Drought stack on the enemy adds 15% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720052",
+     "skillName": "Mammoth Charge",
+     "skillDesc": "150% base DMG; Banishes targets below 50% HP for 2 turns, then switches to human form",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720053",
+     "skillName": "",
+     "skillDesc": "Reflects 20% of the total DMG taken each turn, shared among all enemy heroes",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720054",
+     "skillName": "",
+     "skillDesc": "After the skill hits, prioritizes Sealing the skills of heroes in the opposing 4-tile line for three turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720055",
+     "skillName": "",
+     "skillDesc": "When attacking with skills, ATK +200% and DMG Bonus +500% until the end of the turn",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "720056",
      "skillName": "",
      "skillDesc": "Immune to Everything",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720057",
+     "skillName": "",
+     "skillDesc": "At turn start, shields self; when the Shield breaks, recovers 20% Max HP; for the first five turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720058",
+     "skillName": "Secret Weapon",
+     "skillDesc": "Forced Team Wipe",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720059",
+     "skillName": "",
+     "skillDesc": "One-Horned Pirate Basic Attack; 50% chance to apply 1 stack of Drought to the target for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720060",
+     "skillName": "",
+     "skillDesc": "Two-Horned Pirate Basic Attack; 50% chance to apply 1 stack of Drought to the target for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720061",
+     "skillName": "Elephant Form",
+     "skillDesc": "DMG +100%; 50% chance to be immune to the DMG when attacked",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720062",
+     "skillName": "Violent Nature",
+     "skillDesc": "Recovers 20% HP after defeating an enemy hero",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720063",
+     "skillName": "Attack State",
+     "skillDesc": "While HP is above 60%, immune to all debuffs and ATK +100%; recovers 30% HP the first time lethal DMG is taken",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720064",
+     "skillName": "Self-Heal State",
+     "skillDesc": "Gives self a green circle VFX; no longer immune to all debuffs (except Sever and Lethal); while not Stunned, DMG taken is converted into HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720065",
+     "skillName": "Weakened State",
+     "skillDesc": "When HP is below 20%, enters Weakened state with a red circle VFX. In this state Jack is immune to all debuffs, takes 50% more DMG and gains 50% Dodge, and DMG is no longer converted into HP. At turn end, if HP is below 15%, recovers 30% HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720066",
+     "skillName": "",
+     "skillDesc": "Sheep-Head Basic Attack; 50% chance to apply 1 stack of Drought to the target for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720067",
+     "skillName": "",
+     "skillDesc": "Roddy Stage Mink 1 is immune to AoE attacks",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720068",
+     "skillName": "",
+     "skillDesc": "Roddy Stage Mink 2 is immune to AoE attacks",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720069",
+     "skillName": "Gas",
+     "skillDesc": "On turn 1, creates poison gas x5 on the enemy field",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720070",
+     "skillName": "Lone Courage",
+     "skillDesc": "In elephant form, Jack's DMG +50% for each mob that dies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720071",
+     "skillName": "Trembling of the Elephant Lord",
+     "skillDesc": "While Jack is in human form, both sides randomly swap positions at the start of each turn, ignoring immunity",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720072",
+     "skillName": "Switch Form",
+     "skillDesc": "The first time lethal DMG is taken, recovers 30% HP, SPD +9998 and immediately casts Mammoth Charge",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720073",
+     "skillName": "Leadership",
+     "skillDesc": "In human form, before Jack acts each turn, he summons 3 mobs in random positions",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720074",
+     "skillName": "Lord of Lawlessness",
+     "skillDesc": "In human form, at the end of each turn, sacrifices all summons on the field (including electro balls and ghosts); each summon restores 10% HP to Jack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720075",
+     "skillName": "Headliner",
+     "skillDesc": "In human form, when Jack reaches 100% HP, he acts immediately, cutting down one kid per slash",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720076",
+     "skillName": "",
+     "skillDesc": "Summoned One-Horned Pirates are immune to AoE DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720077",
+     "skillName": "",
+     "skillDesc": "Summoned Two-Horned Pirates are immune to AoE DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720078",
+     "skillName": "Self-Heal State - Check",
+     "skillDesc": "Marks self while HP is within [20,60]",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720079",
+     "skillName": "Deprecated",
+     "skillDesc": "One Per Slash",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720080",
+     "skillName": "Charge",
+     "skillDesc": "Attacks the 4 tiles in a straight line where the marked target is, 1-3 random hits",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "720081",
+     "skillName": "Charge",
+     "skillDesc": "Attacks the 4 tiles in a straight line where the marked target is, 1-3 random hits",
      "buttonEffect": ""
     },
     {
@@ -49985,15 +51575,75 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "730011",
+     "skillName": "Big Mom Pirates Mob General Passive",
+     "skillDesc": "When fielded together with Big Mom: basic attacks always hit, reduce the target's ATK by 100%, and deal True DMG equal to 10% of Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730012",
+     "skillName": "Big Mom Pirates Mob General Passive",
+     "skillDesc": "The fewer the enemies, the higher the ATK: ATK +150% for each enemy lost.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730013",
+     "skillName": "Big Mom Pirates Mob General Passive",
+     "skillDesc": "After battle starts, players cannot revive.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730014",
+     "skillName": "Homies General Passive",
+     "skillDesc": "When our side has no Big Mom but the enemy does, summons her real body on the enemy side.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730015",
+     "skillName": "Homies General Passive",
+     "skillDesc": "When the summoned real body attacks, it is instantly killed.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "730016",
      "skillName": "Normal Attack",
      "skillDesc": "",
      "buttonEffect": ""
     },
     {
+     "skillId": "730017",
+     "skillName": "Flying Thrust",
+     "skillDesc": "Marks the enemy after Flying Thrust hits",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "730018",
      "skillName": "Spear Throw",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730019",
+     "skillName": "Randolph Passive",
+     "skillDesc": "After hitting, applies Armor Break to the target, reducing its DEF by 50%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730020",
+     "skillName": "Randolph Passive",
+     "skillDesc": "Dealing a certain amount of DMG to Randolph removes the mark; otherwise marks accumulate.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730021",
+     "skillName": "Randolph Passive",
+     "skillDesc": "At three stacks, the mark can detonate, and Randolph's next Spear Throw directly removes the character.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730022",
+     "skillName": "Randolph Passive",
+     "skillDesc": "When the enemy loses a member, Randolph can act again, using Flying Thrust three times on a random enemy.",
      "buttonEffect": ""
     },
     {
@@ -50009,9 +51659,51 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "730026",
+     "skillName": "Mirror-Mirror Fruit",
+     "skillDesc": "Caramel Pudding has a 20% chance to reflect 100% of DMG taken.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730027",
+     "skillName": "Mirror-Mirror Fruit",
+     "skillDesc": "Caramel Pudding has a 50% chance to reflect 100% of DMG taken.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730028",
+     "skillName": "Targeted Attack",
+     "skillDesc": "If the opponent fields Carrot, Carrot is Banished/excluded",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730029",
+     "skillName": "Hard to Tell Real from Fake",
+     "skillDesc": "On even turns, spawns 1 Caramel Pudding illusion on the field with unlimited duration. The illusion inherits all of the original's stats and skills, and does not disappear when the original dies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730030",
+     "skillName": "Mirror World",
+     "skillDesc": "Each skill hit adds 1 mark; at three marks, immediately casts Mirror World, expelling the character.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "730031",
      "skillName": "Immunity Passive",
      "skillDesc": "Immune to Everything",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730032",
+     "skillName": "Mirror World 2",
+     "skillDesc": "At turn start, if HP is below 40%, Dodge +100%, Accuracy +100% and CRIT +100%; HP is fully restored at turn end",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730033",
+     "skillName": "Careless",
+     "skillDesc": "When Baked Pudding's HP is below 10%, 50% chance to expose her weakness; the next hit makes her leave the field.",
      "buttonEffect": ""
     },
     {
@@ -50057,6 +51749,72 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "730043",
+     "skillName": "Biscuit Split",
+     "skillDesc": "Each time single-target DMG is taken in a turn, a Biscuit Soldier splits from 1 into 2. Split Biscuit Soldiers have 80% of the main biscuit's stats.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730044",
+     "skillName": "Immune to Everything",
+     "skillDesc": "Immune to all debuffs",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730045",
+     "skillName": "Hard Biscuit",
+     "skillDesc": "When there are more than 3 Biscuit Soldiers on the field, one biscuit can be absorbed and the others recover 10% HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730046",
+     "skillName": "Biscuit Transfer",
+     "skillDesc": "When a Biscuit Soldier is killed, the Biscuit Soldier with the highest HP gains 100% of its stats.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730047",
+     "skillName": "Biscuit Soldier",
+     "skillDesc": "At turn end, if there is more than 1 Biscuit Soldier, recalls 1 Biscuit Soldier and gains its full stat bonus, up to ten stacks.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730048",
+     "skillName": "Three Sweet Commanders",
+     "skillDesc": "When fielded with Homies, Cracker's ATK +50% for each additional Homie.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730049",
+     "skillName": "Three Sweet Commanders",
+     "skillDesc": "When fielded with Homies, Cracker's CRIT DMG +50% for each additional Homie.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730050",
+     "skillName": "Home Advantage",
+     "skillDesc": "When taking lethal DMG, does not die; recovers 30% Max HP and immediately interrupts the enemy's action.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730051",
+     "skillName": "Life Biscuit",
+     "skillDesc": "When HP is below 31%, recovers HP equal to the number of Biscuit Soldiers on the field x10% and absorbs the corresponding biscuits.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730052",
+     "skillName": "All-Purpose Biscuit",
+     "skillDesc": "When a Biscuit Soldier disappears, removes all debuffs from self.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730053",
+     "skillName": "Biscuit-Biscuit Fruit",
+     "skillDesc": "With fewer than 3 biscuits on the field, summons two biscuits per turn; with more than 3 but fewer than 5, summons 1 biscuit per turn",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "730057",
      "skillName": "Gum-Gum Condor Bazooka",
      "skillDesc": "",
@@ -50078,6 +51836,24 @@
      "skillId": "730060",
      "skillName": "Gum-Gum Grizzly Magnum",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730061",
+     "skillName": "Immune to Memory Deletion",
+     "skillDesc": "Whole Cake Island single boss is immune to Pudding's memory deletion",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730062",
+     "skillName": "Homies General Passive",
+     "skillDesc": "When our side has no Big Mom but the enemy does, summons her real body on the enemy side.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730063",
+     "skillName": "",
+     "skillDesc": "Butter Biscuit Basic Attack",
      "buttonEffect": ""
     },
     {
@@ -50117,9 +51893,69 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "730070",
+     "skillName": "Power of the Soul",
+     "skillDesc": "Revives when taking lethal DMG in the first three turns, recovering 10% HP and immediately interrupting the enemy's current action.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730071",
+     "skillName": "Soul Pact",
+     "skillDesc": "When an ally on the field is below 15% HP, attacks restore 10% HP to all allies.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730073",
+     "skillName": "Soul Sacrifice",
+     "skillDesc": "Each turn, 10% chance to deal True DMG based on the enemy's Max HP ratio. Effect: reduces the opponent's Max HP by 10% for 99 turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730074",
+     "skillName": "Soul Link",
+     "skillDesc": "After attacking, if the target is below 50% HP, 30% chance to launch an extra attack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730075",
+     "skillName": "Soul Companion",
+     "skillDesc": "When attacked, 20% chance to swap places with the highest-HP character on the team and be immune to this DMG.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730078",
+     "skillName": "Book Stairs",
+     "skillDesc": "Applies a Burn debuff to the enemy target on hit.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "730079",
      "skillName": "Book World",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730080",
+     "skillName": "",
+     "skillDesc": "Attacks the enemy with the lowest HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730081",
+     "skillName": "Butter Bind",
+     "skillDesc": "Attacks the enemy with the lowest HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730082",
+     "skillName": "Super Butter",
+     "skillDesc": "With execute effect",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730083",
+     "skillName": "",
+     "skillDesc": "Attacks the enemy with the lowest HP",
      "buttonEffect": ""
     },
     {
@@ -50132,6 +51968,12 @@
      "skillId": "730085",
      "skillName": "Cream Monster",
      "skillDesc": "Burn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730086",
+     "skillName": "",
+     "skillDesc": "Attacks the enemy with the lowest HP",
      "buttonEffect": ""
     },
     {
@@ -50150,6 +51992,84 @@
      "skillId": "730089",
      "skillName": "High-Speed Spin Kick",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730090",
+     "skillName": "Bond of Blood",
+     "skillDesc": "While Butter Biscuit is on the field, ATK, DEF, HP and SPD +100%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730091",
+     "skillName": "Family Power",
+     "skillDesc": "Targets controlled by Super Butter take 50% less DMG when attacking.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730092",
+     "skillName": "Power of Blood - Cracker",
+     "skillDesc": "After one of them dies, the other starts killing instantly the next turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730093",
+     "skillName": "Bond of Blood",
+     "skillDesc": "While Mont-d'Or is on the field, ATK, DEF, HP and SPD +100%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730094",
+     "skillName": "Family Power",
+     "skillDesc": "When attacking enemy targets Burned by Mont-d'Or, CRIT Rate and CRIT DMG rise to 200%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730095",
+     "skillName": "Power of the Soul",
+     "skillDesc": "For each chess soldier on the field, Opera's ATK +100%, up to 500.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730096",
+     "skillName": "Power of the Soul",
+     "skillDesc": "For each chess soldier on the field, Opera's DEF +100%, up to 500.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730097",
+     "skillName": "Power of the Soul",
+     "skillDesc": "For each chess soldier on the field, Opera's HP +100%, up to 500.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730098",
+     "skillName": "Power of the Soul",
+     "skillDesc": "For each chess soldier on the field, Opera's SPD +100%, up to 500.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730099",
+     "skillName": "Big Mom's Children",
+     "skillDesc": "Summons two chess soldiers on the field each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730100",
+     "skillName": "Viscount Hiyoko",
+     "skillDesc": "After taking lethal DMG, revives with 50% HP and all stats +50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730101",
+     "skillName": "Count Niwatori",
+     "skillDesc": "After taking lethal DMG, revives with full HP and all stats +200%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730102",
+     "skillName": "Egg-Egg Fruit",
+     "skillDesc": "After reviving, all enemy stats -300%",
      "buttonEffect": ""
     },
     {
@@ -50204,6 +52124,36 @@
      "skillId": "730115",
      "skillName": "Rolling Decapitation",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730116",
+     "skillName": "Germa Technology",
+     "skillDesc": "DEF +80%, immune to CRIT DMG and Elemental DMG.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730117",
+     "skillName": "Strategist",
+     "skillDesc": "Once per turn, a random one of the fastest enemy character's SPD, HP, ATK and DEF is reduced to 1.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730118",
+     "skillName": "\"Father\"",
+     "skillDesc": "After battle starts, summons Reiju on turn 1, Ichiji on turn 2, Niji on turn 3, Sanji on turn 4 and Yonji on turn 5. Summoned units cannot be killed. After all are summoned, they instantly kill the opposing units.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730120",
+     "skillName": "Teamwork 1",
+     "skillDesc": "While other Germa 66 members are on the field, does not die when taking lethal DMG, reviving with 80% HP. Stats are doubled after reviving",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730121",
+     "skillName": "Tech Power",
+     "skillDesc": "While Germa 66 members are on the field, all Germa 66 members' ATK, CRIT and CRIT Rate +150%.",
      "buttonEffect": ""
     },
     {
@@ -50291,6 +52241,102 @@
      "buttonEffect": "charlotte001/UI_Charlotte_attack08"
     },
     {
+     "skillId": "730139",
+     "skillName": "The Captain Who Won't Fight Back",
+     "skillDesc": "When fighting New World Luffy, 50% chance to defeat Luffy outright.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730140",
+     "skillName": "Mind Made Up",
+     "skillDesc": "When the enemy loses a member, Sanji casts Bien Cuit Grill Shot again and instantly kills an enemy unit.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730141",
+     "skillName": "Cook of the Wheat Crew",
+     "skillDesc": "If the enemy team includes any two of Nami (New World Nami) and Luffy (New World Luffy), seals own cinematic skill until the end of battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730142",
+     "skillName": "Fighting Alone",
+     "skillDesc": "Casts the cinematic Ultimate once every three AoE attacks taken",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730143",
+     "skillName": "Despairing Prince",
+     "skillDesc": "After each cinematic skill, ATK, CRIT DMG and Lifesteal permanently +50%, up to 500%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730144",
+     "skillName": "Lonely Heart",
+     "skillDesc": "Once every two turns, gains a Shield of 10% HP. When the Shield breaks, recovers 10% HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730145",
+     "skillName": "Whole Cake Island General Passive",
+     "skillDesc": "Elemental DMG Reduction 100%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730146",
+     "skillName": "Queen of Totto Land",
+     "skillDesc": "In the first five turns, Big Mom deals escalating Thunder DMG to enemies each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730147",
+     "skillName": "dead or life",
+     "skillDesc": "At the start of each turn, applies the Intimidation debuff to all enemies for two turns with a 50% success rate; the debuff can be dispelled.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730148",
+     "skillName": "dead or life",
+     "skillDesc": "If the debuff still exists at turn end, characters with it lose 15% Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730150",
+     "skillName": "Craving Disorder",
+     "skillDesc": "On odd turns, summons a Homie to her side. If the Homie is still alive the next turn, absorbs it to recover 10% Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730151",
+     "skillName": "Four Emperors",
+     "skillDesc": "When taking Ultimate skill DMG, 10% chance to lock the opponent's skills for two turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730152",
+     "skillName": "Whole Cake Island Boss Passive-1",
+     "skillDesc": "Immune to all memory deletion.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730153",
+     "skillName": "Teamwork 2",
+     "skillDesc": "While other Germa 66 members are on the field, does not die when taking lethal DMG, reviving with 80% HP. Stats are doubled after reviving",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730154",
+     "skillName": "Teamwork 3",
+     "skillDesc": "While other Germa 66 members are on the field, does not die when taking lethal DMG, reviving with 80% HP. Stats are doubled after reviving",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730155",
+     "skillName": "Power of Blood - Mont-d'Or",
+     "skillDesc": "After one of them dies, the other starts killing instantly the next turn.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "730156",
      "skillName": "Whole Cake Island Boss Passive-2",
      "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
@@ -50324,6 +52370,12 @@
      "skillId": "730161",
      "skillName": "Whole Cake Island Boss Passive-7",
      "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730162",
+     "skillName": "Whole Cake Island Boss Passive-8",
+     "skillDesc": "Immune to Taunt and Interrupt",
      "buttonEffect": ""
     },
     {
@@ -50363,15 +52415,831 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "730169",
+     "skillName": "Summon Homies Passive",
+     "skillDesc": "Does not attack when the enemy is Big Mom",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "730170",
      "skillName": "Summon Germa Passive",
      "skillDesc": "Invincibility",
      "buttonEffect": ""
     },
     {
+     "skillId": "730171",
+     "skillName": "Whole Cake Island Boss Passive-15",
+     "skillDesc": "ATK +150%, up to 450%",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "730195",
      "skillName": "",
      "skillDesc": "Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730196",
+     "skillName": "Imprison",
+     "skillDesc": "Slows by 50% and reduces DEF for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730197",
+     "skillName": "Candy Wall",
+     "skillDesc": "Shields all allies, DMG reduction 40%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730198",
+     "skillName": "",
+     "skillDesc": "CRIT DMG +50%; attacks on characters below 60% HP inflict Knock-Up (ignores immunity)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730199",
+     "skillName": "Big Mom's Children",
+     "skillDesc": "Summons two chess soldiers on the field each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730200",
+     "skillName": "Lick-Lick",
+     "skillDesc": "40% chance on hit to remove three Soul Jade from the target",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730201",
+     "skillName": "Candy Man",
+     "skillDesc": "After the skill ends, prioritizes skipping the turn of the heroes in the opposing 4-tile line. (Stun)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730202",
+     "skillName": "Regeneration",
+     "skillDesc": "Seals the skills of a random enemy hero for one turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740002",
+     "skillName": "Gum-Gum Gatling",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color> and increases own <color=#d14e0d>current Max HP by 20%</color>, up to 5 times; afterwards, reduces own <color=#d14e0d>HP by 20%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740003",
+     "skillName": "Gum-Gum Boomerang",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>150%</color> of ATK to <color=#d14e0d>3 enemy tiles in a straight line</color>, dealing extra <color=#d14e0d>Fire damage equal to 75%</color> of ATK on hit.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740004",
+     "skillName": "Gum-Gum Spear",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color>, plus damage equal to 200% of own lost HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740005",
+     "skillName": "Gum-Gum Bazooka",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>400%</color> of ATK to <color=#d14e0d>a single enemy</color>, and increases <color=#d14e0d>Gum-Gum Balloon</color> damage by <color=#d14e0d>150%</color>; for every <color=#d14e0d>10%</color> HP lost, the effect increases by an extra <color=#d14e0d>20%</color>, for <color=#d14e0d>2 turns</color>, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740006",
+     "skillName": "Gear Second",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>400%</color> of ATK to <color=#d14e0d>a single enemy</color> and enters <color=#d14e0d>Gear Second form</color>. In <color=#d14e0d>Gear Second form</color>, loses <color=#d14e0d>40%</color> of current HP before acting, and <color=#d14e0d>CRIT Rate</color> +30% and <color=#d14e0d>CRIT DMG</color> +<color=#d14e0d>100%</color> until the end of battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740007",
+     "skillName": "Gum-Gum Jet Gatling",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color>, and <color=#d14e0d>ATK +50%</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740008",
+     "skillName": "Gum-Gum Jet Missile",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>300%</color> of ATK to <color=#d14e0d>a single enemy</color> and gains <color=#d14e0d>60%</color> Lifesteal.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740009",
+     "skillName": "Rubber Balloon",
+     "skillDesc": "When hit, reflects <color=#d14e0d>True Damage equal to 60% of own ATK</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740010",
+     "skillName": "Rubber Physique",
+     "skillDesc": "For every <color=#d14e0d>25% of Max HP</color> lost, <color=#d14e0d>DMG reduction</color> +<color=#d14e0d>15%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740011",
+     "skillName": "Insulated Physique",
+     "skillDesc": "Gains <color=#d14e0d>50</color> Rage before battle starts and converts <color=#d14e0d>50% of HP</color> into a <color=#d14e0d>Shield</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740012",
+     "skillName": "Training",
+     "skillDesc": "When not in Gear Second, gains a <color=#d14e0d>Shield of 30% Max HP</color> before acting, lasting until the end of the turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740013",
+     "skillName": "Counterattack",
+     "skillDesc": "The first time <color=#d14e0d>lethal damage</color> is taken, recovers <color=#d14e0d>1% HP</color> and becomes <color=#d14e0d>Invincible until the next action</color>; <color=#d14e0d>triggers at most 1 time</color> per battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740015",
+     "skillName": "108 Pound Phoenix",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>100%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>, dealing extra <color=#d14e0d>Wind damage equal to 75%</color> of ATK on hit.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740016",
+     "skillName": "Rashomon",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>200%</color> of ATK to <color=#d14e0d>2 enemy tiles in a straight line</color>, inflicting <color=#d14e0d>2 stacks of Bleed</color> on hit for <color=#d14e0d>3 turns</color>, stacking up to <color=#d14e0d>5 stacks</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740017",
+     "skillName": "Lion's Song",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>180%</color> of ATK to <color=#d14e0d>all enemies</color>. When attacking characters with <color=#d14e0d>debuffs</color>, each stack increases damage dealt by <color=#d14e0d>10%</color>, up to <color=#d14e0d>20 stacks</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740018",
+     "skillName": "Three Thousand Worlds",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>180}%</color> of ATK to <color=#d14e0d>all enemies</color> with <color=#d14e0d>Sever</color>, dealing damage equal to <color=#d14e0d>10%</color> of the target's current HP; the <color=#d14e0d>effect is doubled</color> on the first cast (not exceeding <color=#d14e0d>500% of own ATK</color>).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740019",
+     "skillName": "Asura: Ichibugin",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>400%</color> of ATK to <color=#d14e0d>a single enemy</color>; after casting, permanently increases <color=#d14e0d>Finisher skill damage by 10%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740020",
+     "skillName": "Finishing Blow",
+     "skillDesc": "<color=#d14e0d>Finisher skill</color> damage <color=#d14e0d>+30%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740021",
+     "skillName": "Momentum",
+     "skillDesc": "At turn start, all enemies gain <color=#d14e0d>Armor Break</color>, <color=#d14e0d>reducing DEF by 300</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740022",
+     "skillName": "Practice",
+     "skillDesc": "Gains <color=#d14e0d>50 Rage</color> at turn start.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740023",
+     "skillName": "Training",
+     "skillDesc": "Finisher skill cooldown reduced by <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740024",
+     "skillName": "Decisive Battle",
+     "skillDesc": "When there are fewer than <color=#d14e0d>5</color> enemies, for each <color=#d14e0d>1</color> fewer, <color=#d14e0d>damage +50%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740026",
+     "skillName": "Third-Grade Hachis",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color> and permanently increases own <color=#d14e0d>basic attack</color> damage by <color=#d14e0d>20%</color>, stacking up to <color=#d14e0d>20 times.</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740027",
+     "skillName": "First-Grade Hachis",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color> and gains <color=#d14e0d>2 Soul Jade</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740028",
+     "skillName": "Party Table Kick Course",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color>, dealing extra <color=#d14e0d>Fire damage equal to 100%</color> of ATK on hit.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740029",
+     "skillName": "Skewer",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color>; <color=#d14e0d>all damage</color> of the next attack +<color=#d14e0d>50%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740030",
+     "skillName": "Diable Jambe: Finishing Touch Kick",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>400%</color> of ATK to <color=#d14e0d>a single enemy</color>, and <color=#d14e0d>ATK +50%</color> (stackable) until the end of this turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740031",
+     "skillName": "Hot-Blooded",
+     "skillDesc": "When <color=#d14e0d>attacking</color>, increases own <color=#d14e0d>ATK by 3%</color> (stackable) until the end of this turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740032",
+     "skillName": "Rage Fire",
+     "skillDesc": "All attacks deal extra <color=#d14e0d>60% Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740033",
+     "skillName": "Kick Master",
+     "skillDesc": "At action end, the next <color=#d14e0d>basic attack is replaced by the last non-Ultimate skill cast this action</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740034",
+     "skillName": "Thorough Study",
+     "skillDesc": "Starting Soul Jade +<color=#d14e0d>5</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740035",
+     "skillName": "Fury",
+     "skillDesc": "When attacking with full Rage, <color=#d14e0d>all damage +100%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740036",
+     "skillName": "Third-Grade Hachis",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color> and permanently increases own <color=#d14e0d>basic attack</color> damage by <color=#d14e0d>20%</color>, stacking up to <color=#d14e0d>20 times.</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740037",
+     "skillName": "First-Grade Hachis",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color> and gains <color=#d14e0d>2 Soul Jade</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740038",
+     "skillName": "Party Table Kick Course",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color>, dealing extra <color=#d14e0d>Fire damage equal to 100%</color> of ATK on hit.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740039",
+     "skillName": "Skewer",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color>; <color=#d14e0d>all damage</color> of the next attack +<color=#d14e0d>50%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740040",
+     "skillName": "Braver with Every Fight-1",
+     "skillDesc": "When HP is below 60%, attacks have a 30% chance to become guaranteed CRITs.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740041",
+     "skillName": "Braver with Every Fight-2",
+     "skillDesc": "CRIT DMG increases by 200% of the percentage of HP lost.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740042",
+     "skillName": "Braver with Every Fight-3",
+     "skillDesc": "DMG Bonus +10% for every 10% HP lost.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740043",
+     "skillName": "Braver with Every Fight-4",
+     "skillDesc": "When HP is not full, DMG Bonus +80%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740044",
+     "skillName": "Shield Enhancement-1",
+     "skillDesc": "At the start of the first turn, gains a Shield of 20% Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740045",
+     "skillName": "Shield Enhancement-2",
+     "skillDesc": "When hit while having a Shield, Block +20%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740046",
+     "skillName": "Shield Enhancement-3",
+     "skillDesc": "When hit while having a Shield, the attacker takes DMG equal to 40% of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740047",
+     "skillName": "Shield Enhancement-4",
+     "skillDesc": "While shielded, DMG reduction +40%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740048",
+     "skillName": "Block Enhancement-1",
+     "skillDesc": "Block +30%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740049",
+     "skillName": "Block Enhancement-2",
+     "skillDesc": "When Blocking, increases own Max HP by 20%, stacking 5 times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740050",
+     "skillName": "Block Enhancement-3",
+     "skillDesc": "When Blocking, deals DMG equal to 80% of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740051",
+     "skillName": "Block Enhancement-4",
+     "skillDesc": "When Blocking, deals DMG equal to 60% of own lost HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740052",
+     "skillName": "Debuff Assault-1",
+     "skillDesc": "When attacked, the attacker is Blinded, reducing Accuracy by 10% for 4 turns, stacking up to 5 times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740053",
+     "skillName": "Debuff Assault-2",
+     "skillDesc": "At turn end, applies Weaken to the target, reducing ATK by 6% for 5 turns, stacking up to 5 times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740054",
+     "skillName": "Debuff Assault-3",
+     "skillDesc": "On hit, applies Bleed to the target for 3 turns, stacking up to 5 times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740055",
+     "skillName": "Debuff Assault-4",
+     "skillDesc": "When attacking characters with debuffs, ATK permanently +15%, up to 20 stacks.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740056",
+     "skillName": "Heavy Suppression-1",
+     "skillDesc": "First-turn DMG +150%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740057",
+     "skillName": "Heavy Suppression-2",
+     "skillDesc": "When attacking targets above 50% HP, all DMG Bonus +40%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740058",
+     "skillName": "Heavy Suppression-3",
+     "skillDesc": "When attacking targets above 70% HP, all DMG Bonus +70%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740059",
+     "skillName": "Heavy Suppression-4",
+     "skillDesc": "ATK +100%; at the end of each turn, ATK -20%, up to 5 times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740060",
+     "skillName": "Counter Enhancement-1",
+     "skillDesc": "When attacked, 30% chance to counter with a basic attack after the enemy acts.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740061",
+     "skillName": "Counter Enhancement-2",
+     "skillDesc": "Counter DMG +20%, does not stack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740062",
+     "skillName": "Counter Enhancement-3",
+     "skillDesc": "Basic attacks gain 10% Lifesteal.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740063",
+     "skillName": "Counter Enhancement-4",
+     "skillDesc": "Counter chance after being hit rises to 60%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740064",
+     "skillName": "Multiple Actions-1",
+     "skillDesc": "At action end, 40% chance to act again, up to 2 times per turn (no extra Soul Jade gained).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740065",
+     "skillName": "Multiple Actions-2",
+     "skillDesc": "Act-again chance rises to 80%, DMG -40%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740066",
+     "skillName": "Multiple Actions-3",
+     "skillDesc": "DMG +40% when acting again, does not stack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740067",
+     "skillName": "Multiple Actions-4",
+     "skillDesc": "Act-again chance rises to 100%, up to 3 times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740068",
+     "skillName": "Attribute DMG Enhancement-1",
+     "skillDesc": "Attribute DMG +40%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740069",
+     "skillName": "Attribute DMG Enhancement-2",
+     "skillDesc": "Attribute DMG dealt can CRIT.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740070",
+     "skillName": "Attribute DMG Enhancement-3",
+     "skillDesc": "On hit, the target's Attribute DMG taken increases by 10%, 30%, then 60% for this turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740071",
+     "skillName": "Attribute DMG Enhancement-4",
+     "skillDesc": "After acting, deals 8 types of Attribute DMG in sequence to random enemies, each equal to 60% of ATK, up to 1 time per turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740072",
+     "skillName": "HP Enhancement-1",
+     "skillDesc": "HP +40%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740073",
+     "skillName": "HP Enhancement-2",
+     "skillDesc": "Healing +100%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740074",
+     "skillName": "HP Enhancement-3",
+     "skillDesc": "All attacks gain 20% Lifesteal.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740075",
+     "skillName": "HP Enhancement-4",
+     "skillDesc": "Recovers 10% Max HP at turn end.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740076",
+     "skillName": "CRIT Enhancement-1",
+     "skillDesc": "CRIT Rate +25%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740077",
+     "skillName": "CRIT Enhancement-2",
+     "skillDesc": "CRIT Rate +15%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740078",
+     "skillName": "CRIT Enhancement-3",
+     "skillDesc": "Gains 3 Soul Jade on CRIT.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740079",
+     "skillName": "CRIT Enhancement-4",
+     "skillDesc": "CRIT DMG +150%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740080",
+     "skillName": "Dodge Enhancement-1",
+     "skillDesc": "Dodge +30%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740081",
+     "skillName": "Dodge Enhancement-2",
+     "skillDesc": "When hit, Dodge permanently +5%, up to 4 times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740082",
+     "skillName": "Dodge Enhancement-3",
+     "skillDesc": "After an enemy unit acts, the enemy has a 20% chance to act again, with ATK -50% when doing so.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740083",
+     "skillName": "Dodge Enhancement-4",
+     "skillDesc": "On a full Dodge, deals DMG equal to 20% of the target's current HP, not exceeding 300% of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740084",
+     "skillName": "Basic Attack Enhancement-1",
+     "skillDesc": "Basic attacks increase own next single-target skill DMG by 60%, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740085",
+     "skillName": "Basic Attack Enhancement-2",
+     "skillDesc": "Gains 25 Rage on basic attacks.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740086",
+     "skillName": "Basic Attack Enhancement-3",
+     "skillDesc": "Basic attack DMG +100%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740087",
+     "skillName": "Basic Attack Enhancement-4",
+     "skillDesc": "When a basic attack kills an enemy, deals DMG equal to 100% of ATK to all enemies once.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740088",
+     "skillName": "Ultimate Enhancement-1",
+     "skillDesc": "Ultimate DMG +30%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740089",
+     "skillName": "Ultimate Enhancement-2",
+     "skillDesc": "Gains an extra 25 Rage each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740090",
+     "skillName": "Ultimate Enhancement-3",
+     "skillDesc": "Ultimates gain 20% Lifesteal.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740091",
+     "skillName": "Ultimate Enhancement-4",
+     "skillDesc": "When casting an Ultimate, own Accuracy and CRIT +20%, ATK and CRIT DMG +60%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740092",
+     "skillName": "Cost Reduction-1",
+     "skillDesc": "Skill Soul Jade cost -2, Rage gained normally.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740093",
+     "skillName": "Cost Reduction-2",
+     "skillDesc": "Skill Soul Jade cost an extra -1, but skill DMG dealt -20%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740094",
+     "skillName": "Cost Reduction-3",
+     "skillDesc": "Soul Jade cost +2, DMG dealt +60%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740095",
+     "skillName": "Cost Reduction-4",
+     "skillDesc": "At action end, ATK +5% per Soul Jade until the end of the next action.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740096",
+     "skillName": "Soul-Rage Conversion-1",
+     "skillDesc": "At action end, recovers 2% Max HP for each 1 remaining Soul Jade.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740097",
+     "skillName": "Soul-Rage Conversion-2",
+     "skillDesc": "When attacking, ATK +3% for each 1 remaining Soul Jade.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740098",
+     "skillName": "Soul-Rage Conversion-3",
+     "skillDesc": "When attacking, ATK +15% for every 2 remaining Soul Jade.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740099",
+     "skillName": "Soul-Rage Conversion-4",
+     "skillDesc": "When attacking with less than 80 Rage, all DMG +30%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740100",
+     "skillName": "HP Suppression-1",
+     "skillDesc": "Skill attacks deal extra DMG equal to 25% of the target's lost HP; does not apply to final bosses.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740101",
+     "skillName": "HP Suppression-2",
+     "skillDesc": "The extra DMG based on the target's lost HP from skill attacks +15%; does not apply to final bosses.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740102",
+     "skillName": "HP Suppression-3",
+     "skillDesc": "Basic attacks deal extra DMG equal to 2% of the target's lost HP, up to 1 time per turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740103",
+     "skillName": "HP Suppression-4",
+     "skillDesc": "DMG against enemies below 70%/50%/30% HP +30%/50%/70%.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740104",
+     "skillName": "Fearless-1",
+     "skillDesc": "If no skill is cast during the action, the first skill next turn is a guaranteed CRIT.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740105",
+     "skillName": "Fearless-2",
+     "skillDesc": "If no skill is cast during the action, DMG reduction +50% for 3 turns, does not stack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740106",
+     "skillName": "Fearless-3",
+     "skillDesc": "If no skill is cast during the action, recovers 80% HP at action end; this effect decreases by 20% each time it triggers.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740107",
+     "skillName": "Fearless-4",
+     "skillDesc": "If no skill is cast during the action, the first skill next turn deals 80% more DMG.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740108",
+     "skillName": "Stun Enhancement-1",
+     "skillDesc": "On hit, 20% chance to Stun the target for 1 action (no effect on bosses).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740109",
+     "skillName": "Stun Enhancement-2",
+     "skillDesc": "When attacked, 20% chance to Stun the attacker for 1 action (no effect on bosses).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740110",
+     "skillName": "Stun Enhancement-3",
+     "skillDesc": "When attacking Stunned units, ATK +50% (ATK +20% when attacking immune characters).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740111",
+     "skillName": "Stun Enhancement-4",
+     "skillDesc": "When attacking Stunned units, deals DMG equal to 100% of ATK to all enemies.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740112",
+     "skillName": "Gum-Gum Jet Gatling",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>250%</color> of ATK to <color=#d14e0d>a single enemy</color>, and <color=#d14e0d>ATK +50%</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740113",
+     "skillName": "Gum-Gum Jet Missile",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>300%</color> of ATK to <color=#d14e0d>a single enemy</color> and gains <color=#d14e0d>60%</color> Lifesteal.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740201",
+     "skillName": "Numbers Suppression-1",
+     "skillDesc": "When attacking, each unit on our field increases own ATK by 5% (including summons)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740202",
+     "skillName": "Numbers Suppression-2",
+     "skillDesc": "When attacking, each unit on the enemy field increases own ATK by 3% (including summons)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740203",
+     "skillName": "Numbers Suppression-3",
+     "skillDesc": "When attacking, each unit on the enemy field increases own ATK by 5% (excluding summons)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740204",
+     "skillName": "Numbers Suppression-4",
+     "skillDesc": "When attacking, each unit on our field increases own CRIT DMG by 15% (including summons)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740205",
+     "skillName": "Summon Enhancement-1",
+     "skillDesc": "At battle start, summons a pirate at a random position (inherits 40% of the character's stats)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740206",
+     "skillName": "Summon Enhancement-2",
+     "skillDesc": "At the end of each pirate action, restores HP equal to its ATK to all units except itself",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740207",
+     "skillName": "Summon Enhancement-3",
+     "skillDesc": "The pirate revives 1 time when taking lethal DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740208",
+     "skillName": "Summon Enhancement-4",
+     "skillDesc": "Summons attack; Max HP +100%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740209",
+     "skillName": "Healing Enhancement-1",
+     "skillDesc": "Recovers 25% Max HP at turn end",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740210",
+     "skillName": "Healing Enhancement-2",
+     "skillDesc": "Healing received +50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740211",
+     "skillName": "Healing Enhancement-3",
+     "skillDesc": "After acting, if HP is below 10%, recovers 50% HP, up to 3 times",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740212",
+     "skillName": "Healing Enhancement-4",
+     "skillDesc": "At battle start, gains an HP Lock at 1 HP, removed 1 action after own HP falls below 1% from a hit",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740213",
+     "skillName": "HP Enhancement-1",
+     "skillDesc": "DEF -400, Max HP +30%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740214",
+     "skillName": "HP Enhancement-2",
+     "skillDesc": "ATK -8%, Max HP +20%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740215",
+     "skillName": "HP Enhancement-3",
+     "skillDesc": "Block -12%, Max HP +20%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740216",
+     "skillName": "HP Enhancement-4",
+     "skillDesc": "Max HP +40%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740217",
+     "skillName": "CRIT Enhancement-1",
+     "skillDesc": "DEF -400, CRIT +20%",
      "buttonEffect": ""
     },
     {
@@ -67489,6 +70357,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "703045",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 12 - New Servers Yamato Monster Skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "703046",
+     "skillName": "",
+     "skillDesc": "Last Stand Season 12 - Old Servers Yamato Monster Skill",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "702003",
      "skillName": "boss",
      "skillDesc": "At the end of each turn, ATK +40% and all DMG Bonus +40%. Immune to control from turn 1, all DMG reduction 60%",
@@ -67969,7 +70849,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "9991/14789 rows translated so far"
+   "partial": "10471/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
