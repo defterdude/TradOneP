@@ -1,97 +1,71 @@
-# Translation guide — Batches 3 and 4
+# Translation guide — Batch 5
 
-Personal fan-translation patch for the Chinese mobile RPG **One Piece Burning Will** (航海王：燃烧意志), private server "Longwang". Most of the game is already in English. These batches cover the remaining Chinese text, except story dialogue, which stays untranslated on purpose and is not included.
+Personal fan-translation patch for the Chinese mobile RPG **One Piece Burning Will** (航海王：燃烧意志), private server "Longwang". Batches 2–4 are done and applied in the game. Batch 5 covers what is still Chinese. Not included, on purpose: main story quests, side quests and main cutscene texts.
 
-Work through the source files **in this order**:
+Work through the source files **in this order**, and commit and push after each file (inside the big ones, every few hundred rows):
 
 | # | Source file | Output file | Content | ≈ Chinese chars |
 |---|---|---|---|---|
-| 1 | `source/batch3_v272_source.json` | `translated/batch3_v272_translated.json` | Captain's Guide, Island Conquest, item descriptions, page texts | 81k |
-| 2 | `source/batch4a_system_texts_v273_source.json` | `translated/batch4a_system_texts_v273_translated.json` | system messages, help/rule pages, mails, codex tasks | 132k |
-| 3 | `source/batch4b_world_codex_v273_source.json` | `translated/batch4b_world_codex_v273_translated.json` | maps, dungeons, scenes, NPC names, codex entries, bosses | 116k |
-| 4 | `source/batch4c_events_guild_misc_v273_source.json` | `translated/batch4c_events_guild_misc_v273_translated.json` | events, guild, tasks, titles, every other table | 65k |
+| 1 | `source/batch5a_sea_mode_ui_v274_source.json` | `translated/batch5a_sea_mode_ui_v274_translated.json` | sea mode screens: sea areas, exploration, seaport, sailing | 2k |
+| 2 | `source/batch5b_screens_ui_v274_source.json` | `translated/batch5b_screens_ui_v274_translated.json` | every other screen still in Chinese, 6,508 texts | 43k |
+| 3 | `source/batch5d_npc_tutorial_v274_source.json` | `translated/batch5d_npc_tutorial_v274_translated.json` | NPC ambient bubble lines in towns, tutorial bubbles | 24k |
+| 4 | `source/batch5c_skills_v274_source.json` | `translated/batch5c_skills_v274_translated.json` | skill names and descriptions, boss skills, buffs, talents, awakening | 269k |
 
-Commit and push after each file. For big tables, commit every few hundred rows.
+## Screen texts (`ui_texts`, files 5a and 5b)
 
-## Batch 3 content (`batch3_v272`)
+Each item is `{bundle, gameobject, path_id, zh}`. Dropdown entries also have `option_index`. Add `en` to every item and keep the other fields verbatim.
 
-1. **`captains_guide`**: the in-game **Captain's Guide** (船长指南), a help menu.
-   - Six categories: Team 战队, Characters 角色, Squad 队伍, Warship 战船, Equipment 装备, Gems 宝石.
-   - Each category has topics ("Team Level Up", "Get Characters"…).
-   - For each topic, a list of game modes where you progress, with a one-line explanation.
-2. **`voyage_guide_old`**: the older **Voyage Guide** page (航海指引), the same kind of text.
-3. **`island_conquest`**: **Island Conquest** (海岛争霸), the game's auto-battler mode, similar to Auto Chess or Teamfight Tactics.
-   - 8 players; each round you buy heroes with gold from a shop.
-   - Three identical heroes merge into a higher star.
-   - You place heroes on a board and level up your warship (more heroes, better shop odds).
-   - Synergy bonds (羁绊) give bonuses.
-   - The tables hold tiers and ranks (初心9段…), bonds and their buffs, weekly tasks, rewards and the mode's system messages.
-4. **`item_descriptions`**: `TableItem` rows whose `name` or `intro` is still Chinese (bag tooltips).
-5. **`ui_texts`**: single Text components of page prefabs.
-   - The Captain's Guide title 船长指南 = "Captain's Guide".
-   - All the Island Conquest pages.
-   - Translate `zh` into a new field `en`.
+- **Context:** `bundle` names the screen (e.g. `restobundle/pages/seaareapage.ab` = the sea map HUD) and `gameobject` names the widget (`Title`, `btnText`, `Desc`…).
+- **Length:** buttons, tabs and titles are small widgets, so keep them 1–3 words, Title Case, as short as the Chinese. Example: 炮击 = "Fire" (the cannon button of the sea HUD).
+- **Line breaks:** keep exactly the same number of real line breaks as `zh`. A text with no line break gets none; a text with one gets exactly one.
+- **Placeholders:** some texts are developer placeholders filled at runtime (e.g. 文本, 名字七个字, 1天23小时). Still translate them literally and keep their numbers.
+- **Consistency:** the same `zh` in several screens should usually get the same `en`.
 
-## Batch 4 content (`batch4a/b/c_v273`)
+## NPC lines and tutorials (file 5d)
 
-- **4a, system texts:**
-  - `TableText`: thousands of keyed UI messages, tips and long help or rules pages. The key often names the feature, e.g. `UnionSLG…` = guild war, `WorldpersonBOSS…` = world boss, `…Explain…` = help page.
-  - `TableTextModule`; mails (`TableMailConfig`: title, content, sender; 系统 = "System").
-  - Codex/handbook tasks and small system tables.
-- **4b, world and codex:** dungeon run-map descriptions, raid chapters and episodes, scene and fight names, NPC names, codex (`TablePokedex` hero intros, `TableOPDex`), boss names and descriptions, hero idle lines, island trials, explorations, fortresses…
-- **4c, events, guild, tasks and everything else:** activity and event tasks, guild buildings, titles, ranks, rewards, small UI tables. Here the table name and key are your best context.
+- `TableSceneNpc.defaultDialog`: the speech bubble a town NPC says when you walk by. It is short flavor text, not quest dialogue. Keep the character's voice.
+- `TableGuideStepExtra.textModuleId`: tutorial bubble texts ("Tap here to…"). Despite the column name, the Chinese cells are display text.
 
-The format is the same as batch 3, with a flat `tables.<Table>` and no category level. Each file's `header.tables` lists its tables.
+## Skills (file 5c)
 
-## Source data (all files)
+- `TableSkill.skillName` (skill names) and `skillDesc` (descriptions); boss skills; buffs; talents; hero awakening; camps…
+- Many rows have one column already in English (often `skillDesc`, written with ideographic spaces `　`). **Copy those cells unchanged**: only Chinese cells are translated.
+- Descriptions are full of markup: `<color=#d14e0d>{atkper}%</color>`. Keep every `{name}` placeholder, every tag pair and every number exactly.
+- Follow the style of the existing English descriptions in the same file, e.g. "Deals `{atkper}%` of ATK as skill damage to four enemies in a straight line, plus `{atkval}` fixed damage."
+- Skill names: short, punchy, in One Piece style. Keep official attack names when they exist (e.g. 橡胶火箭炮 = "Gum-Gum Bazooka").
 
-- `tables[.<category>].<Table>`:
-  - `key_column`: identifies the row. Copy it verbatim, never translate it.
-  - `text_columns`: fields to translate. A cell already in English stays as it is.
-  - `context_columns` (batch 3 only): for context, never changed.
-  - `rows`: the `tabledata.ab` text. Only rows still containing Chinese were exported.
+## Source format (data files 5c and 5d)
 
-## Critical: the two-bundle rule
+Same as the earlier batches:
+- `tables.<Table>` with `key_column` (copy verbatim), `text_columns` and `rows`.
+- When the two bundles differ, also `other_bundle_rows`. These are only the `tabledata_v1.ab` rows that are missing from `rows` or whose text differs: translate them too. Identical v1 rows are not repeated and reuse your translation.
 
-The game ships two data files, `tabledata.ab` and `tabledata_v1.ab`. When a table has `content_diverges_between_bundles: true`, it also has `other_bundle_rows`:
-- These are **only the `tabledata_v1.ab` rows that are missing from `rows` or whose text differs** (see `other_bundle_rows_note`).
-- Translate every one of them independently. Same Chinese text means the same English.
-- `v1` rows identical to `rows` are not repeated: they reuse your translation of `rows`.
-
-## Strict rules
+## Strict rules (all files)
 
 1. **Markup tokens stay exactly as in the source:**
-   - `<size=..>…</size>`, `<color=#RRGGBB>…</color>`, `<b>…</b>`;
-   - placeholders `{0}`, `{1}`, `${0}$`;
-   - the two characters `\n` (literal backslash + n in the cells);
-   - bullets `*`, separators `|` or `;` when the source has them;
+   - `<size=..>`, `<color=#RRGGBB>…</color>`, `<b>`;
+   - placeholders `{0}` `{name}` `${0}$`;
+   - the two characters `\n` (literal backslash + n) in table cells;
+   - bullets `*`;
    - every number and percentage.
-
-   Only the words change. Do not add `\n` where the source has none (line wrapping is handled locally). Keep the line structure of long help texts: same `\n` count, same bullets.
-2. **Spaces:** write normal spaces. The local build converts them to the spacing the game needs.
-3. **Labels** (names, titles, tier names, button texts): 1–3 words, Title Case, as short as possible.
-4. **Descriptions, tips and help pages:** clear short sentences, terse mobile-game style.
-5. **Terminology:**
-   - First use `glossary/game_terms_v271.json`: names exactly as the player already sees them in the game, including heroes, items, modes and currencies.
-   - Then use `glossary/established_glossary.json`.
-   - The same Chinese term always gets the same English, across files and bundles.
+2. **Spaces:** write normal spaces in new translations. The local build converts them when needed.
+3. **Terminology:**
+   - Use `glossary/game_terms_v271.json` first (names exactly as the player already sees them in the game), then `glossary/established_glossary.json`.
+   - The same Chinese term always gets the same English.
    - Fixed by the player: 海岛争霸 = "Island Conquest", 航线模拟战 = "Voyage Tower", 航线通行证 = "Voyage Tower Pass".
-   - Suggested: 战队 = "Team" (account level), 队伍 = "Squad", 战船 = "Warship", 角色 = "Character(s)", 装备 = "Equipment", 宝石 = "Gems", 羁绊 = "Bond", 段位 = "Tier", 公会 = "Guild".
-6. **One Piece names:** official English spellings (Luffy, Zoro, Kaido, Big Mom, Garp, Whitebeard…). Match `game_terms_v271.json` when the name is there.
-7. **Empty strings stay empty.** Developer placeholders or notes (e.g. 提示文字, 勿删) are still translated literally.
-8. **No Chinese characters** may remain in any translated value.
-9. **Uncertainty:** if a term is genuinely ambiguous, pick the best reading and record it in `uncertain_notes`. Never silently drop part of a string.
+4. **One Piece names:** official English spellings.
+5. **Empty strings stay empty.**
+6. **No Chinese characters** may remain in any `en` value or translated cell.
+7. **Uncertainty:** if something is genuinely ambiguous, choose the best reading and record it in `uncertain_notes`. Never drop part of a string.
 
-## Output format (each file)
+## Output format
 
-The output mirrors its source file:
-- same `tables` structure, `key_column`, `text_columns`, `rows`;
-- `other_bundle_rows` when the source has it;
-- key columns copied verbatim, text columns translated;
-- batch 3 also has `ui_texts` with an added `en`.
+The output mirrors the source:
+- UI files keep the same `ui_texts` list, with `en` added to each item.
+- Data files keep the same `tables` structure, with `rows` and `other_bundle_rows` translated.
 
-Add `glossary_additions` (new term choices, Chinese → English) and `uncertain_notes`.
+Add `glossary_additions` and `uncertain_notes`.
 
 ## What this repo is NOT for
 
-Text only. No game binaries or bundles. Nothing to build, patch, install or verify here: that happens locally on the original machine.
+Text only. Nothing to build, patch, install or verify here: that happens locally on the original machine.
