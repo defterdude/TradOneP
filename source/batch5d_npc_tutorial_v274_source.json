@@ -1,0 +1,8619 @@
+{
+ "header": {
+  "description": "NPC ambient bubble lines in towns (TableSceneNpc.defaultDialog: not quest dialogue) and tutorial bubble texts (TableGuideStepExtra.textModuleId).",
+  "generated_by": "work/prepare_cloud_batch5_v274.py",
+  "tables": [
+   "TableGuideStepExtra",
+   "TableSceneNpc"
+  ],
+  "total_primary_rows_extracted": 2105,
+  "total_other_bundle_rows_extracted": 39,
+  "approx_chinese_characters": 23631
+ },
+ "tables": {
+  "TableSceneNpc": {
+   "key_column": "id",
+   "text_columns": [
+    "defaultDialog"
+   ],
+   "text_source_bundle": "tabledata.ab",
+   "rows": [
+    {
+     "id": "151",
+     "defaultDialog": "已经……8年了啊。"
+    },
+    {
+     "id": "154",
+     "defaultDialog": "一切都结束了,贝鲁梅尔。8年真漫长,终于大家获得了自由！！"
+    },
+    {
+     "id": "215",
+     "defaultDialog": "精心打磨,百年老店。"
+    },
+    {
+     "id": "264",
+     "defaultDialog": "这里是铁匠铺,被阿龙禁止出现的武器我这里也有的。"
+    },
+    {
+     "id": "399",
+     "defaultDialog": "刚才我量了奈美的体温,竟然已经高达四十二度了！要赶紧找到医生！"
+    },
+    {
+     "id": "426",
+     "defaultDialog": "Mr.4给我干掉他们！干掉他们！干！掉！他！们！"
+    },
+    {
+     "id": "677",
+     "defaultDialog": "没有钱的人不要再来赌场了。"
+    },
+    {
+     "id": "678",
+     "defaultDialog": "没本事输了钱就不要想要回来了。"
+    },
+    {
+     "id": "679",
+     "defaultDialog": "怎么,输了钱还要来闹事？"
+    },
+    {
+     "id": "680",
+     "defaultDialog": "年纪大了,见的事情也多了。"
+    },
+    {
+     "id": "681",
+     "defaultDialog": "今天没什么事情,一起逛街吧。"
+    },
+    {
+     "id": "682",
+     "defaultDialog": "要买点什么呢？"
+    },
+    {
+     "id": "685",
+     "defaultDialog": "喂,听说了吗？好像最近来的海盗赏金很高。"
+    },
+    {
+     "id": "686",
+     "defaultDialog": "听说了！我们的机会来了！"
+    },
+    {
+     "id": "688",
+     "defaultDialog": "这家饭店的香味已经飘到街上了。"
+    },
+    {
+     "id": "691",
+     "defaultDialog": "这里可是我们的总部。"
+    },
+    {
+     "id": "692",
+     "defaultDialog": "一直听说这里赌场的老板人不错。"
+    },
+    {
+     "id": "695",
+     "defaultDialog": "流离失所的感觉真糟糕。"
+    },
+    {
+     "id": "696",
+     "defaultDialog": "啧,暂时在油菜花避避风头吧。"
+    },
+    {
+     "id": "697",
+     "defaultDialog": "这个国家已经没救了。"
+    },
+    {
+     "id": "698",
+     "defaultDialog": "沙暴是摧毁不了这片顽强的土地的。"
+    },
+    {
+     "id": "702",
+     "defaultDialog": "造一艘大船吧！航海路上需要大船！"
+    },
+    {
+     "id": "713",
+     "defaultDialog": "你的香水是哪里的好像很不错呢。"
+    },
+    {
+     "id": "714",
+     "defaultDialog": "是朋友在油菜花买的,下次我们一起去吧。"
+    },
+    {
+     "id": "715",
+     "defaultDialog": "你不要乱跑啊。"
+    },
+    {
+     "id": "716",
+     "defaultDialog": "来啊,一起玩啊。"
+    },
+    {
+     "id": "717",
+     "defaultDialog": "战争终于结束了啊。"
+    },
+    {
+     "id": "757",
+     "defaultDialog": "嗷呜嗷呜！！！"
+    },
+    {
+     "id": "760",
+     "defaultDialog": "不准你擅闯正门！"
+    },
+    {
+     "id": "761",
+     "defaultDialog": "想来挑战是吗？没问题。"
+    },
+    {
+     "id": "762",
+     "defaultDialog": "嗯……就来进行一次比试吧。"
+    },
+    {
+     "id": "765",
+     "defaultDialog": "好痛……老大不会放过你的！"
+    },
+    {
+     "id": "772",
+     "defaultDialog": "做好觉悟吧！"
+    },
+    {
+     "id": "774",
+     "defaultDialog": "不知道薇薇有没有成功……"
+    },
+    {
+     "id": "775",
+     "defaultDialog": "喂！你看到薇薇了吗？"
+    },
+    {
+     "id": "776",
+     "defaultDialog": "帮帮我……"
+    },
+    {
+     "id": "777",
+     "defaultDialog": "路飞跑哪去了？"
+    },
+    {
+     "id": "778",
+     "defaultDialog": "这里好热啊。"
+    },
+    {
+     "id": "779",
+     "defaultDialog": "我一定可以挖出水的！"
+    },
+    {
+     "id": "780",
+     "defaultDialog": "我所能做的事情…现在只要做好我所能做的事情就行…！"
+    },
+    {
+     "id": "781",
+     "defaultDialog": "鳄鱼的走狗…"
+    },
+    {
+     "id": "788",
+     "defaultDialog": "嘎……嘎嘎！"
+    },
+    {
+     "id": "789",
+     "defaultDialog": "好疼啊！"
+    },
+    {
+     "id": "819",
+     "defaultDialog": "功夫海牛好可怜…"
+    },
+    {
+     "id": "826",
+     "defaultDialog": "给你们添麻烦了,我还以为你们也是妄想要找金块的寻宝笨蛋。"
+    },
+    {
+     "id": "827",
+     "defaultDialog": "人的梦想,是不会结束的！"
+    },
+    {
+     "id": "828",
+     "defaultDialog": "海盗怀抱寻宝梦的时代,已经结束了。"
+    },
+    {
+     "id": "829",
+     "defaultDialog": "哈哈哈,刚才那个人被贝拉密打的真惨。"
+    },
+    {
+     "id": "830",
+     "defaultDialog": "那还用说,毕竟是鬣狗贝拉密啊,是吧！"
+    },
+    {
+     "id": "831",
+     "defaultDialog": "欢迎来到魔谷镇,喝点什么？"
+    },
+    {
+     "id": "832",
+     "defaultDialog": "这个正面的城堡只是一块板啊。"
+    },
+    {
+     "id": "833",
+     "defaultDialog": "大骗子诺兰度的故事我确实听过。"
+    },
+    {
+     "id": "834",
+     "defaultDialog": "喂！路飞！那可是冲天海流啊！再…再想想吧。"
+    },
+    {
+     "id": "835",
+     "defaultDialog": "路飞！错过这一次可就不知道什么时候能上空岛了！"
+    },
+    {
+     "id": "836",
+     "defaultDialog": "空岛好可怕…空岛好可怕…"
+    },
+    {
+     "id": "837",
+     "defaultDialog": "似乎会是一次有趣的旅程呢。"
+    },
+    {
+     "id": "838",
+     "defaultDialog": "我这辈子从来不跟恶心的虫类打交道！"
+    },
+    {
+     "id": "839",
+     "defaultDialog": "干什么大惊小怪,不过是只蜘蛛而已。"
+    },
+    {
+     "id": "840",
+     "defaultDialog": "讨厌！好恶心！"
+    },
+    {
+     "id": "841",
+     "defaultDialog": "真可恶啊,这只鸟。"
+    },
+    {
+     "id": "842",
+     "defaultDialog": "真伤脑筋啊。"
+    },
+    {
+     "id": "843",
+     "defaultDialog": "我不行了,跑不动了。"
+    },
+    {
+     "id": "844",
+     "defaultDialog": "跑得累死了。"
+    },
+    {
+     "id": "845",
+     "defaultDialog": "只要能看到它就好办了。"
+    },
+    {
+     "id": "846",
+     "defaultDialog": "啾啾…啾啾…啾啾"
+    },
+    {
+     "id": "859",
+     "defaultDialog": "欢迎你们来到神之国的天使海滩。"
+    },
+    {
+     "id": "860",
+     "defaultDialog": "这是巴斯,是空之民们永远向往的东西。"
+    },
+    {
+     "id": "861",
+     "defaultDialog": "出口是在2号门,能驶向“神之岛”的巨大运河,就…就只有那个通道了。"
+    },
+    {
+     "id": "863",
+     "defaultDialog": "陌生的面孔……你是海盗吗？在镇子里从没见过你啊。"
+    },
+    {
+     "id": "864",
+     "defaultDialog": "别挡我视线,快走开！"
+    },
+    {
+     "id": "865",
+     "defaultDialog": "老大去哪里了……"
+    },
+    {
+     "id": "866",
+     "defaultDialog": "啊？你算老几？"
+    },
+    {
+     "id": "867",
+     "defaultDialog": "不要在我们喝酒的时候闹事啊,哈哈哈！"
+    },
+    {
+     "id": "868",
+     "defaultDialog": "不要来找麻烦,小心吃苦头。"
+    },
+    {
+     "id": "869",
+     "defaultDialog": "刚才是我们大意了,这次非教训你不可！"
+    },
+    {
+     "id": "870",
+     "defaultDialog": "哈哈,来干架喽！"
+    },
+    {
+     "id": "871",
+     "defaultDialog": "我生气了,来认真打一场吧！"
+    },
+    {
+     "id": "872",
+     "defaultDialog": "路飞,佐罗,你们两个千万不要闹事啊。"
+    },
+    {
+     "id": "873",
+     "defaultDialog": "天使岛的观景台能看到好远好远的景色呢。"
+    },
+    {
+     "id": "875",
+     "defaultDialog": "这下你跑不掉了！"
+    },
+    {
+     "id": "876",
+     "defaultDialog": "这次我们要认真了！"
+    },
+    {
+     "id": "877",
+     "defaultDialog": "你这样是有罪的！"
+    },
+    {
+     "id": "878",
+     "defaultDialog": "前面很危险,建议你赶快回头吧。"
+    },
+    {
+     "id": "879",
+     "defaultDialog": "都说过了……不要再前进了！"
+    },
+    {
+     "id": "880",
+     "defaultDialog": "这里就是玛雅遗迹……"
+    },
+    {
+     "id": "881",
+     "defaultDialog": "这块宝地属于我们！"
+    },
+    {
+     "id": "882",
+     "defaultDialog": "受伤只是意外,我马上就能继续战斗。"
+    },
+    {
+     "id": "883",
+     "defaultDialog": "谁允许你以高高在上的姿态对我说话了,滚回去！"
+    },
+    {
+     "id": "884",
+     "defaultDialog": "水之都很棒的哦。"
+    },
+    {
+     "id": "885",
+     "defaultDialog": "这里人来人往可热闹了。"
+    },
+    {
+     "id": "886",
+     "defaultDialog": "我们也要努力,第二波特训,上了！"
+    },
+    {
+     "id": "887",
+     "defaultDialog": "这里是水之都的商业街,是最繁华的地方。"
+    },
+    {
+     "id": "888",
+     "defaultDialog": "哈哈,水之都的人们都很好客的。"
+    },
+    {
+     "id": "890",
+     "defaultDialog": "这里的空气可舒服了。"
+    },
+    {
+     "id": "891",
+     "defaultDialog": "拜托你了,我们想要变强！"
+    },
+    {
+     "id": "893",
+     "defaultDialog": "那个……你有没有看到有人丢了东西？"
+    },
+    {
+     "id": "894",
+     "defaultDialog": "这次是最后了,让你看看弗兰奇一家的可能性！"
+    },
+    {
+     "id": "895",
+     "defaultDialog": "就是你叫人去袭击我们的吧？"
+    },
+    {
+     "id": "909",
+     "defaultDialog": "那家伙跑到哪里去了……"
+    },
+    {
+     "id": "912",
+     "defaultDialog": "只要你们继续待在这里,那就是我们的敌人。"
+    },
+    {
+     "id": "913",
+     "defaultDialog": "好了,把你的性命献给神·艾尼路吧！"
+    },
+    {
+     "id": "914",
+     "defaultDialog": "我说,那个心网到底是什么东西。"
+    },
+    {
+     "id": "915",
+     "defaultDialog": "我们遇到了一个叫做阿悟的神官。"
+    },
+    {
+     "id": "916",
+     "defaultDialog": "这座岛居然就是黄金乡！"
+    },
+    {
+     "id": "917",
+     "defaultDialog": "看来大家都吃了不少的苦头。"
+    },
+    {
+     "id": "918",
+     "defaultDialog": "我一定会成为更可靠的男人的！"
+    },
+    {
+     "id": "919",
+     "defaultDialog": "好像很有意思呢。"
+    },
+    {
+     "id": "922",
+     "defaultDialog": "我这辈子都不会向神祈祷。"
+    },
+    {
+     "id": "923",
+     "defaultDialog": "这里就是我们寻找的黄金乡。"
+    },
+    {
+     "id": "924",
+     "defaultDialog": "可不是在这里浪费时间的时候。"
+    },
+    {
+     "id": "925",
+     "defaultDialog": "我的责任尚未完成。"
+    },
+    {
+     "id": "929",
+     "defaultDialog": "精心打磨,百年老店。"
+    },
+    {
+     "id": "933",
+     "defaultDialog": "新鲜的水果,来尝尝看啊。"
+    },
+    {
+     "id": "938",
+     "defaultDialog": "咳…咳咳…"
+    },
+    {
+     "id": "939",
+     "defaultDialog": "路飞…"
+    },
+    {
+     "id": "943",
+     "defaultDialog": "路飞！我是来接你下去的！"
+    },
+    {
+     "id": "947",
+     "defaultDialog": "让我躺会儿吧,现在是你比较强……"
+    },
+    {
+     "id": "954",
+     "defaultDialog": "连我都失败了……哈哈哈……"
+    },
+    {
+     "id": "955",
+     "defaultDialog": "我是奉神的命令,要用我手上的斩击贝,来收拾山迪亚人跟你们青海人。"
+    },
+    {
+     "id": "956",
+     "defaultDialog": "战士瓦帕,出阵！"
+    },
+    {
+     "id": "957",
+     "defaultDialog": "谢谢你的帮助。"
+    },
+    {
+     "id": "958",
+     "defaultDialog": "软绵绵的云海……感觉被治愈了……"
+    },
+    {
+     "id": "959",
+     "defaultDialog": "要不要买点空岛特产？"
+    },
+    {
+     "id": "960",
+     "defaultDialog": "在这里观察人类是我的兴趣。你要不要也试试？"
+    },
+    {
+     "id": "961",
+     "defaultDialog": "我家孩子真是让人不省心。"
+    },
+    {
+     "id": "962",
+     "defaultDialog": "那家伙去哪了呢……"
+    },
+    {
+     "id": "967",
+     "defaultDialog": "真是个有趣的镇子呢。"
+    },
+    {
+     "id": "980",
+     "defaultDialog": "突然被父母叫回去帮忙,我的约会又要泡汤了........"
+    },
+    {
+     "id": "982",
+     "defaultDialog": "她怎么还没有来呢..."
+    },
+    {
+     "id": "983",
+     "defaultDialog": "我可是空岛最好的匠人,没有我修不好的东西。"
+    },
+    {
+     "id": "987",
+     "defaultDialog": "怎么找都找不到,到底被我落在哪里了呢？"
+    },
+    {
+     "id": "988",
+     "defaultDialog": "您好,今天的天气也很不错呢。"
+    },
+    {
+     "id": "989",
+     "defaultDialog": "岁数大了不服老不行啊,要是年轻的时候这些事情一下午就弄好了。"
+    },
+    {
+     "id": "990",
+     "defaultDialog": "这个亭子的扩建是我的第一份工作,可不能懈怠了。"
+    },
+    {
+     "id": "991",
+     "defaultDialog": "我们店里的东西物美价廉,快来看看吧。"
+    },
+    {
+     "id": "994",
+     "defaultDialog": "这片丛林非常危险,我劝你们早点离开！"
+    },
+    {
+     "id": "995",
+     "defaultDialog": "最近城内的青海人一下多了不少,不要想在城内做坏事。我盯着你呢！"
+    },
+    {
+     "id": "998",
+     "defaultDialog": "你们迟早会为侵占我们的土地付出代价！"
+    },
+    {
+     "id": "999",
+     "defaultDialog": "可恶,还是被追上了吗！"
+    },
+    {
+     "id": "1000",
+     "defaultDialog": "竟然追到这里了,那就只能开战了！"
+    },
+    {
+     "id": "1001",
+     "defaultDialog": "我才不会告诉你宝物的地点呢,快走开。"
+    },
+    {
+     "id": "1061",
+     "defaultDialog": "这座岛的名字是长链岛,欢迎你们"
+    },
+    {
+     "id": "1062",
+     "defaultDialog": "准备好了么,草帽小子？开战了！"
+    },
+    {
+     "id": "1063",
+     "defaultDialog": "你们是赢不了的"
+    },
+    {
+     "id": "1064",
+     "defaultDialog": "真是愚蠢。"
+    },
+    {
+     "id": "1065",
+     "defaultDialog": "噗噗,我们开始吧"
+    },
+    {
+     "id": "1066",
+     "defaultDialog": "比赛就交给我吧！"
+    },
+    {
+     "id": "1067",
+     "defaultDialog": "单挑战斗想赢我是不可能的！"
+    },
+    {
+     "id": "1068",
+     "defaultDialog": "我生气了,你们这些家伙！"
+    },
+    {
+     "id": "1069",
+     "defaultDialog": "草帽小子,你给我记好了！"
+    },
+    {
+     "id": "1070",
+     "defaultDialog": "噗,噗噗"
+    },
+    {
+     "id": "1071",
+     "defaultDialog": "好奇怪的岛……"
+    },
+    {
+     "id": "1072",
+     "defaultDialog": "这里会有人么"
+    },
+    {
+     "id": "1073",
+     "defaultDialog": "这里是什么地方啊"
+    },
+    {
+     "id": "1074",
+     "defaultDialog": "植物生长的好奇怪"
+    },
+    {
+     "id": "1075",
+     "defaultDialog": "老子名叫福克斯！"
+    },
+    {
+     "id": "1076",
+     "defaultDialog": "噗噗,噗噗噗"
+    },
+    {
+     "id": "1077",
+     "defaultDialog": "那些家伙真没礼貌"
+    },
+    {
+     "id": "1078",
+     "defaultDialog": "不要接受挑战,会失去伙伴的。"
+    },
+    {
+     "id": "1079",
+     "defaultDialog": "输了就会被抢走伙伴……"
+    },
+    {
+     "id": "1080",
+     "defaultDialog": "逃跑的话,会被人耻笑的。"
+    },
+    {
+     "id": "1081",
+     "defaultDialog": "打赢不就好了么。"
+    },
+    {
+     "id": "1082",
+     "defaultDialog": "好可怕的样子。"
+    },
+    {
+     "id": "1083",
+     "defaultDialog": "这就是“戴维争霸战”……"
+    },
+    {
+     "id": "1084",
+     "defaultDialog": "正合我意"
+    },
+    {
+     "id": "1085",
+     "defaultDialog": "要是逃跑的话,会被世人耻笑的"
+    },
+    {
+     "id": "1086",
+     "defaultDialog": "老实说……我得了无法参加比赛的病……"
+    },
+    {
+     "id": "1087",
+     "defaultDialog": "好多人啊！"
+    },
+    {
+     "id": "1088",
+     "defaultDialog": "怎么会这样……"
+    },
+    {
+     "id": "1089",
+     "defaultDialog": "好像蛮有趣的"
+    },
+    {
+     "id": "1091",
+     "defaultDialog": "找到了不错的食材啊"
+    },
+    {
+     "id": "1092",
+     "defaultDialog": "景色不错"
+    },
+    {
+     "id": "1093",
+     "defaultDialog": "这一片好空旷啊"
+    },
+    {
+     "id": "1095",
+     "defaultDialog": "哇！"
+    },
+    {
+     "id": "1096",
+     "defaultDialog": "他朝岩石那边走过去了…那边有什么吗？"
+    },
+    {
+     "id": "1098",
+     "defaultDialog": "你们是谁啊？"
+    },
+    {
+     "id": "1099",
+     "defaultDialog": "我还是觉得你们现在就死在这里好了…"
+    },
+    {
+     "id": "1100",
+     "defaultDialog": "你们离远一点。"
+    },
+    {
+     "id": "1104",
+     "defaultDialog": "不能再让你…！"
+    },
+    {
+     "id": "1105",
+     "defaultDialog": "肆意妄为了…！"
+    },
+    {
+     "id": "1106",
+     "defaultDialog": "想抓我的话动手就好！"
+    },
+    {
+     "id": "1107",
+     "defaultDialog": "虽然我也想这么做,但是我也浑身动弹不得"
+    },
+    {
+     "id": "1108",
+     "defaultDialog": "罗宾！"
+    },
+    {
+     "id": "1109",
+     "defaultDialog": "你在做什么撒谎布,快把他们三个……"
+    },
+    {
+     "id": "1110",
+     "defaultDialog": "我倒无所谓…不过我可没有船压你回去,就杀掉你好了？"
+    },
+    {
+     "id": "1120",
+     "defaultDialog": "不要迷茫……"
+    },
+    {
+     "id": "1121",
+     "defaultDialog": "你想要做什么！？"
+    },
+    {
+     "id": "1122",
+     "defaultDialog": "别走,撒谎布！"
+    },
+    {
+     "id": "1123",
+     "defaultDialog": "一起旅行至今,就这样分别了么"
+    },
+    {
+     "id": "1124",
+     "defaultDialog": "原来如此,坏得挺严重的啊……"
+    },
+    {
+     "id": "1125",
+     "defaultDialog": "我…要离开你们一伙…！"
+    },
+    {
+     "id": "1126",
+     "defaultDialog": "跟我决斗！"
+    },
+    {
+     "id": "1127",
+     "defaultDialog": "小心一点,奈美小姐！"
+    },
+    {
+     "id": "1128",
+     "defaultDialog": "没想到船坏成这样"
+    },
+    {
+     "id": "1129",
+     "defaultDialog": "必须找个能把黄金换成现金的地方"
+    },
+    {
+     "id": "1130",
+     "defaultDialog": "好嘞！那我们走了！"
+    },
+    {
+     "id": "1131",
+     "defaultDialog": "没机会跟他们一起去了……"
+    },
+    {
+     "id": "1132",
+     "defaultDialog": "这一带不错啊"
+    },
+    {
+     "id": "1133",
+     "defaultDialog": "空岛的冒险总算是有了收获！"
+    },
+    {
+     "id": "1134",
+     "defaultDialog": "三…三亿贝里！？这不会实在做梦吧！？"
+    },
+    {
+     "id": "1135",
+     "defaultDialog": "前面就是造船厂了。"
+    },
+    {
+     "id": "1136",
+     "defaultDialog": "我们走吧。"
+    },
+    {
+     "id": "1137",
+     "defaultDialog": "那个,我们想见阿斯巴古先生！"
+    },
+    {
+     "id": "1138",
+     "defaultDialog": "总之我们能先进去吗？"
+    },
+    {
+     "id": "1139",
+     "defaultDialog": "我就是这个城市的老大！阿斯巴古。"
+    },
+    {
+     "id": "1140",
+     "defaultDialog": "你们这些无礼之徒！！"
+    },
+    {
+     "id": "1141",
+     "defaultDialog": "求您了！帮我们修好船！我们会付钱的！"
+    },
+    {
+     "id": "1142",
+     "defaultDialog": "拜托你了。"
+    },
+    {
+     "id": "1143",
+     "defaultDialog": "打算买船的话再来找我。"
+    },
+    {
+     "id": "1144",
+     "defaultDialog": "帮我们看过船了吗？"
+    },
+    {
+     "id": "1145",
+     "defaultDialog": "要是能装上那样的大炮,梅丽号也…"
+    },
+    {
+     "id": "1146",
+     "defaultDialog": "这个城市技术代表一切"
+    },
+    {
+     "id": "1147",
+     "defaultDialog": "相似的船我们可以造,但没人能造出两艘一模一样的船"
+    },
+    {
+     "id": "1148",
+     "defaultDialog": "船厂内托利斯同（弃用）"
+    },
+    {
+     "id": "1149",
+     "defaultDialog": "龙骨都断了么……"
+    },
+    {
+     "id": "1150",
+     "defaultDialog": "你们的船,我们的手艺也修不好了"
+    },
+    {
+     "id": "1152",
+     "defaultDialog": "卡古,你刚才不是和弗兰奇一家在一起吗？"
+    },
+    {
+     "id": "1157",
+     "defaultDialog": "看看我们的人数,就凭你们四人能做什么？"
+    },
+    {
+     "id": "1164",
+     "defaultDialog": "遗憾的是钱已经不在这里了,一家之主的弗兰奇大哥拿着钱去买东西了。"
+    },
+    {
+     "id": "1168",
+     "defaultDialog": "伤脑筋 还真不知道钱的去向了"
+    },
+    {
+     "id": "1169",
+     "defaultDialog": "怎么办,就算在这里等那家伙,估计也没那么快回来"
+    },
+    {
+     "id": "1170",
+     "defaultDialog": "应急处理已经完成了"
+    },
+    {
+     "id": "1181",
+     "defaultDialog": "没事,你赢了"
+    },
+    {
+     "id": "1182",
+     "defaultDialog": "太好了"
+    },
+    {
+     "id": "1183",
+     "defaultDialog": "开幕前乌索普（暂时弃用）"
+    },
+    {
+     "id": "1184",
+     "defaultDialog": "开幕前乔巴（暂时弃用）"
+    },
+    {
+     "id": "1185",
+     "defaultDialog": "接下来我们该怎么办呢……"
+    },
+    {
+     "id": "1187",
+     "defaultDialog": "噗噗,老大走了。"
+    },
+    {
+     "id": "1188",
+     "defaultDialog": "等等我们啊,老大！"
+    },
+    {
+     "id": "1189",
+     "defaultDialog": "离去时的奈美（暂时弃用）"
+    },
+    {
+     "id": "1190",
+     "defaultDialog": "离去时的罗宾（暂时弃用）"
+    },
+    {
+     "id": "1192",
+     "defaultDialog": "撒谎布……"
+    },
+    {
+     "id": "1193",
+     "defaultDialog": "不会是走错了吧"
+    },
+    {
+     "id": "1194",
+     "defaultDialog": "奈美小姐说的应该是这个地方"
+    },
+    {
+     "id": "1211",
+     "defaultDialog": "你要做什么"
+    },
+    {
+     "id": "1212",
+     "defaultDialog": "怎么这样"
+    },
+    {
+     "id": "1213",
+     "defaultDialog": "怎么这样,刚才不是还说只是来凑热闹的吗！"
+    },
+    {
+     "id": "1214",
+     "defaultDialog": "你跟罗宾小姐什么仇什么怨！"
+    },
+    {
+     "id": "1215",
+     "defaultDialog": "罗宾现在是我们重要的伙伴！"
+    },
+    {
+     "id": "1216",
+     "defaultDialog": "你到底想说什么！"
+    },
+    {
+     "id": "1262",
+     "defaultDialog": "我是这个岛上最厉害的男人！！是水之都背后的老大！！！"
+    },
+    {
+     "id": "1266",
+     "defaultDialog": "阿斯巴古先生已经醒了。"
+    },
+    {
+     "id": "1267",
+     "defaultDialog": "啊！！！我生气了！！！"
+    },
+    {
+     "id": "1268",
+     "defaultDialog": "草帽小子。"
+    },
+    {
+     "id": "1269",
+     "defaultDialog": "你的目的到底是什么…！！！草帽小子！！！！"
+    },
+    {
+     "id": "1270",
+     "defaultDialog": "草帽小子可是我们弗兰奇一家的仇敌！找他算账的人应该先是我…"
+    },
+    {
+     "id": "1273",
+     "defaultDialog": "等确认了阿斯巴古先生的房间在哪,看准机会谨慎前进……"
+    },
+    {
+     "id": "1277",
+     "defaultDialog": "找我有事吧…海盗小子…"
+    },
+    {
+     "id": "1278",
+     "defaultDialog": "草帽小子…巴利…"
+    },
+    {
+     "id": "1279",
+     "defaultDialog": "其实我们是政府派来的间谍。"
+    },
+    {
+     "id": "1280",
+     "defaultDialog": "我们不会再见面了……"
+    },
+    {
+     "id": "1281",
+     "defaultDialog": "真是可惜,船的鉴定结果是真的。"
+    },
+    {
+     "id": "1282",
+     "defaultDialog": "我们经过训练的肉体可以媲美铁的硬度。"
+    },
+    {
+     "id": "1283",
+     "defaultDialog": "鲁兹,船工们要上来了。"
+    },
+    {
+     "id": "1284",
+     "defaultDialog": "喂！罗宾,船长没有说过你可以走！"
+    },
+    {
+     "id": "1285",
+     "defaultDialog": "开什么玩笑…"
+    },
+    {
+     "id": "1286",
+     "defaultDialog": "等等,这是怎么回事！？"
+    },
+    {
+     "id": "1287",
+     "defaultDialog": "罗宾！我们不认可你离开！"
+    },
+    {
+     "id": "1288",
+     "defaultDialog": "机会难得,让你们看看实力的差距吧。"
+    },
+    {
+     "id": "1289",
+     "defaultDialog": "真是拿他没办法……我们也快进去吧！"
+    },
+    {
+     "id": "1290",
+     "defaultDialog": "好多护卫啊……"
+    },
+    {
+     "id": "1291",
+     "defaultDialog": "船工们一定去找路飞了吧。"
+    },
+    {
+     "id": "1292",
+     "defaultDialog": "我误会你们了,抱歉。"
+    },
+    {
+     "id": "1301",
+     "defaultDialog": "水之诸神就要来了！"
+    },
+    {
+     "id": "1302",
+     "defaultDialog": "你们疯了吗！这种天气根本不可能出航！"
+    },
+    {
+     "id": "1303",
+     "defaultDialog": "无论怎样我们都要去追罗宾的。"
+    },
+    {
+     "id": "1304",
+     "defaultDialog": "拜托了请借给我们船！"
+    },
+    {
+     "id": "1305",
+     "defaultDialog": "可恶……咳咳……"
+    },
+    {
+     "id": "1306",
+     "defaultDialog": "撒谎布现在怎么样了呢……"
+    },
+    {
+     "id": "1307",
+     "defaultDialog": "这里是哪里啊！"
+    },
+    {
+     "id": "1308",
+     "defaultDialog": "这个仓库已经被废弃8年了 海上列车被放在这12年没用过了"
+    },
+    {
+     "id": "1309",
+     "defaultDialog": "我会在这里,说明我和你们想的事情是一样的,不能放任笨蛋不管！"
+    },
+    {
+     "id": "1310",
+     "defaultDialog": "这个车没问题吗？"
+    },
+    {
+     "id": "1311",
+     "defaultDialog": "喂,我们还要收集些必需品吧。"
+    },
+    {
+     "id": "1312",
+     "defaultDialog": "好帅啊！"
+    },
+    {
+     "id": "1316",
+     "defaultDialog": "昨天晚上,造船厂的阿斯巴古先生被枪击了！！！"
+    },
+    {
+     "id": "1495",
+     "defaultDialog": "罗宾！你去哪里了！"
+    },
+    {
+     "id": "1496",
+     "defaultDialog": "罗宾！！"
+    },
+    {
+     "id": "1497",
+     "defaultDialog": "再见了……"
+    },
+    {
+     "id": "1498",
+     "defaultDialog": "大家应该都做好了准备……"
+    },
+    {
+     "id": "1499",
+     "defaultDialog": "罗宾……"
+    },
+    {
+     "id": "1500",
+     "defaultDialog": "不过要知道真相,只好如此了"
+    },
+    {
+     "id": "1501",
+     "defaultDialog": "可恶！没有来得及！"
+    },
+    {
+     "id": "1502",
+     "defaultDialog": "没赶上吗……"
+    },
+    {
+     "id": "1503",
+     "defaultDialog": "喂,你是叫奈美吗？有人在车站广场留了个小纸条…是你的同伴吧？"
+    },
+    {
+     "id": "1689",
+     "defaultDialog": "这是新的武器吗？狙击王？"
+    },
+    {
+     "id": "1690",
+     "defaultDialog": "我好紧张啊。"
+    },
+    {
+     "id": "1691",
+     "defaultDialog": "哈哈哈哈哈！真是急性子呢！"
+    },
+    {
+     "id": "1693",
+     "defaultDialog": "只差一点就能把罗宾带回来了。"
+    },
+    {
+     "id": "1694",
+     "defaultDialog": "可惜,刚才只差一点……"
+    },
+    {
+     "id": "1695",
+     "defaultDialog": "从正门用这辆“火箭人”一鼓作气冲进岛内！"
+    },
+    {
+     "id": "1696",
+     "defaultDialog": "冲进去！！！"
+    },
+    {
+     "id": "1731",
+     "defaultDialog": "抱歉,之前错怪你们了。"
+    },
+    {
+     "id": "1732",
+     "defaultDialog": "没想到他们竟然……"
+    },
+    {
+     "id": "1733",
+     "defaultDialog": "干啥？！要和我干一架吗？尽管放马过来！"
+    },
+    {
+     "id": "1734",
+     "defaultDialog": "啊？来添乱吗？要打架的话可要提前做好准备哪！"
+    },
+    {
+     "id": "1737",
+     "defaultDialog": "竟敢对我做的事情指指点点？胆子不小哪！"
+    },
+    {
+     "id": "1740",
+     "defaultDialog": "竟敢对我发号施令！我不会放过你的！"
+    },
+    {
+     "id": "1744",
+     "defaultDialog": "我可是正正经经付钱吃饭的客人啊！别妨碍我吃饭！！"
+    },
+    {
+     "id": "1808",
+     "defaultDialog": "司法岛不允许任何海盗放肆！"
+    },
+    {
+     "id": "1810",
+     "defaultDialog": "是那个赏金3000万的草帽小子……我们能拦他住吗？"
+    },
+    {
+     "id": "1865",
+     "defaultDialog": "我们要快点前进了！"
+    },
+    {
+     "id": "1866",
+     "defaultDialog": "不知道这么久司法岛的地形有没有改变。"
+    },
+    {
+     "id": "1867",
+     "defaultDialog": "哈哈哈,你们都很着急啊。"
+    },
+    {
+     "id": "1868",
+     "defaultDialog": "是要先打个招呼比较好吗？"
+    },
+    {
+     "id": "1869",
+     "defaultDialog": "开什么玩笑呢 …不用了。"
+    },
+    {
+     "id": "1870",
+     "defaultDialog": "托路飞的福 海军也被分散了。"
+    },
+    {
+     "id": "1871",
+     "defaultDialog": "我可是狙击之王！"
+    },
+    {
+     "id": "1872",
+     "defaultDialog": "来客人了呢。"
+    },
+    {
+     "id": "1873",
+     "defaultDialog": "我们得快点追上路飞了啊。"
+    },
+    {
+     "id": "1874",
+     "defaultDialog": "你们快走吧,他们交给我来处理。"
+    },
+    {
+     "id": "1877",
+     "defaultDialog": "不好了！他们追上来了！"
+    },
+    {
+     "id": "1878",
+     "defaultDialog": "这就是裁判所了吗？"
+    },
+    {
+     "id": "1879",
+     "defaultDialog": "喂,这么厚的石门怎么打开啊！"
+    },
+    {
+     "id": "1880",
+     "defaultDialog": "我们快去追上路飞吧。"
+    },
+    {
+     "id": "1881",
+     "defaultDialog": "我们要快点打开开关。"
+    },
+    {
+     "id": "1882",
+     "defaultDialog": "让草帽一伙冲进去！"
+    },
+    {
+     "id": "1883",
+     "defaultDialog": "上啊小的们！"
+    },
+    {
+     "id": "1884",
+     "defaultDialog": "我们的任务就是打开开关！"
+    },
+    {
+     "id": "1885",
+     "defaultDialog": "然后守住裁判所！"
+    },
+    {
+     "id": "1886",
+     "defaultDialog": "又是你啊,草帽小子。"
+    },
+    {
+     "id": "1887",
+     "defaultDialog": "你是打不赢我的！铁块！"
+    },
+    {
+     "id": "1888",
+     "defaultDialog": "要是一开始就这么上来就好了"
+    },
+    {
+     "id": "1889",
+     "defaultDialog": "哇,好痛。"
+    },
+    {
+     "id": "1890",
+     "defaultDialog": "罗宾小姐！我来救你了！"
+    },
+    {
+     "id": "1892",
+     "defaultDialog": "喂！佐罗小心一点啊！"
+    },
+    {
+     "id": "1893",
+     "defaultDialog": "喳叭叭,你们要问什么我可不会说哦。"
+    },
+    {
+     "id": "1894",
+     "defaultDialog": "要开始决战了。"
+    },
+    {
+     "id": "1895",
+     "defaultDialog": "罗宾那边很紧急,我们快去找罗宾吧。"
+    },
+    {
+     "id": "1896",
+     "defaultDialog": "罗宾要是穿过那扇门的话就一切都完了！"
+    },
+    {
+     "id": "1897",
+     "defaultDialog": "我们快点去找罗宾吧。"
+    },
+    {
+     "id": "1898",
+     "defaultDialog": "看起来需要先解决掉你们呢。"
+    },
+    {
+     "id": "1899",
+     "defaultDialog": "路飞的对手就是那个养鸽子的男人。"
+    },
+    {
+     "id": "1900",
+     "defaultDialog": "你们要加油啊"
+    },
+    {
+     "id": "1901",
+     "defaultDialog": "喳叭叭！我是最喜欢传闻的音无猫头鹰 你想要钥匙吗"
+    },
+    {
+     "id": "1902",
+     "defaultDialog": "真遗憾…看来你很赶时间 请吧 想要钥匙的话就来拿吧"
+    },
+    {
+     "id": "1903",
+     "defaultDialog": "可恶的海盗！！"
+    },
+    {
+     "id": "1905",
+     "defaultDialog": "你做好觉悟了吗！！！"
+    },
+    {
+     "id": "1906",
+     "defaultDialog": "我可也是使刀的好手呢。"
+    },
+    {
+     "id": "1907",
+     "defaultDialog": "交换选手吗？我无所谓"
+    },
+    {
+     "id": "1908",
+     "defaultDialog": "可恶,可乐就在眼前了！"
+    },
+    {
+     "id": "1909",
+     "defaultDialog": "奈美你没事吧。"
+    },
+    {
+     "id": "1910",
+     "defaultDialog": "没事,我拿到了钥匙。"
+    },
+    {
+     "id": "1911",
+     "defaultDialog": "山智……你怎么了？"
+    },
+    {
+     "id": "1912",
+     "defaultDialog": "山智,你对女人太好了。"
+    },
+    {
+     "id": "1913",
+     "defaultDialog": "你说你以前认识罗宾？"
+    },
+    {
+     "id": "1914",
+     "defaultDialog": "你有罗宾手铐的钥匙对吧？在被干掉之前要交出来吗？"
+    },
+    {
+     "id": "1915",
+     "defaultDialog": "不…这可不行！现在可不是喝茶的时候！"
+    },
+    {
+     "id": "1916",
+     "defaultDialog": "现在选手交换了！"
+    },
+    {
+     "id": "1917",
+     "defaultDialog": "打倒入侵进来的海盗！"
+    },
+    {
+     "id": "1919",
+     "defaultDialog": "你没办法通过这里的。"
+    },
+    {
+     "id": "1921",
+     "defaultDialog": "哈哈哈,卡古你的样子！"
+    },
+    {
+     "id": "1922",
+     "defaultDialog": "长颈鹿哪里可怜了！老夫还觉得挺不错的！"
+    },
+    {
+     "id": "1923",
+     "defaultDialog": "这里是动物园吗？"
+    },
+    {
+     "id": "1924",
+     "defaultDialog": "我…能做到的事情…"
+    },
+    {
+     "id": "1930",
+     "defaultDialog": "给我看清楚了！这一步将是名流千古的英雄的第一！"
+    },
+    {
+     "id": "1935",
+     "defaultDialog": "快！不过是抓住妮古·罗宾押上护送船而已！别磨磨蹭蹭的！军舰就要来了！"
+    },
+    {
+     "id": "1963",
+     "defaultDialog": "我是曾经死过一次的男人！为了能让草帽小子他们或者离开这里 即使豁出这条命也没关系！"
+    },
+    {
+     "id": "1964",
+     "defaultDialog": "路飞……"
+    },
+    {
+     "id": "1965",
+     "defaultDialog": "我们要拖住时间啊。"
+    },
+    {
+     "id": "1966",
+     "defaultDialog": "要不是路飞拦住了鸽子男……"
+    },
+    {
+     "id": "1967",
+     "defaultDialog": "路飞你一定要赢！"
+    },
+    {
+     "id": "1968",
+     "defaultDialog": "接下来就是坚持住了。"
+    },
+    {
+     "id": "1969",
+     "defaultDialog": "能赶上真是太好了！"
+    },
+    {
+     "id": "1971",
+     "defaultDialog": "多亏了大家,谢谢！"
+    },
+    {
+     "id": "1972",
+     "defaultDialog": "你们！都给我醒醒！"
+    },
+    {
+     "id": "1973",
+     "defaultDialog": "看样子上头似乎是下令要活捉妮古·罗宾。"
+    },
+    {
+     "id": "1974",
+     "defaultDialog": "我们留在这里等路飞。"
+    },
+    {
+     "id": "1975",
+     "defaultDialog": "奈美小姐没事吧？"
+    },
+    {
+     "id": "1976",
+     "defaultDialog": "这攻击是怎么回事？"
+    },
+    {
+     "id": "1977",
+     "defaultDialog": "路飞！你一定要赢啊！"
+    },
+    {
+     "id": "1999",
+     "defaultDialog": "这艘大船归我了！"
+    },
+    {
+     "id": "2000",
+     "defaultDialog": "一级戒备,准备战斗！"
+    },
+    {
+     "id": "2002",
+     "defaultDialog": "这边还算比较安全,里面就危险了。"
+    },
+    {
+     "id": "2003",
+     "defaultDialog": "能去帮帮我的弟兄们么？"
+    },
+    {
+     "id": "2004",
+     "defaultDialog": "这边需要支援！"
+    },
+    {
+     "id": "2010",
+     "defaultDialog": "我、我也一定要去战斗...哆嗦地停不下来..."
+    },
+    {
+     "id": "2011",
+     "defaultDialog": "全,全军突击！"
+    },
+    {
+     "id": "2012",
+     "defaultDialog": "胆小的家伙们！这样也配称为海军吗！"
+    },
+    {
+     "id": "2015",
+     "defaultDialog": "我这边没关系,那边的弟兄伤得更重……"
+    },
+    {
+     "id": "2016",
+     "defaultDialog": "呜……无法动弹……"
+    },
+    {
+     "id": "2020",
+     "defaultDialog": "治疗的话我还是能帮上一点忙的。"
+    },
+    {
+     "id": "2021",
+     "defaultDialog": "可恶,如果我能更强的话……"
+    },
+    {
+     "id": "2022",
+     "defaultDialog": "到此为止了么……"
+    },
+    {
+     "id": "2023",
+     "defaultDialog": "发现敌人,准备战斗！"
+    },
+    {
+     "id": "2026",
+     "defaultDialog": "这种数量的敌人就要包围住歼灭！"
+    },
+    {
+     "id": "2029",
+     "defaultDialog": "区区几个人,把我们逼到这种境地……不会让你们过去的！"
+    },
+    {
+     "id": "2032",
+     "defaultDialog": "刚刚买东西的时候,店主说了很奇怪的话..."
+    },
+    {
+     "id": "2035",
+     "defaultDialog": "啊？你是谁啊！没见过啊,喂！"
+    },
+    {
+     "id": "2036",
+     "defaultDialog": "可算追到你了,别跑！"
+    },
+    {
+     "id": "2037",
+     "defaultDialog": "比试力量的话我可很有自信的。"
+    },
+    {
+     "id": "2038",
+     "defaultDialog": "你们在找船大工吗？"
+    },
+    {
+     "id": "2039",
+     "defaultDialog": "船工人手不足啊……"
+    },
+    {
+     "id": "2040",
+     "defaultDialog": "别人的东西就是我的东西！"
+    },
+    {
+     "id": "2041",
+     "defaultDialog": "把裤衩还给我！！！混蛋！！！"
+    },
+    {
+     "id": "2042",
+     "defaultDialog": "你不能再和我们在一起了 我们不想拖你的后腿啊 ！！"
+    },
+    {
+     "id": "2045",
+     "defaultDialog": "盯……"
+    },
+    {
+     "id": "2046",
+     "defaultDialog": "那艘船对我来说 对你们来说 都是最棒的船 可是你却……！！把裤衩还给我！！！"
+    },
+    {
+     "id": "2047",
+     "defaultDialog": "草帽小子！！！"
+    },
+    {
+     "id": "2048",
+     "defaultDialog": "这是我多年的心愿…所以它才是梦想之船！！！"
+    },
+    {
+     "id": "2049",
+     "defaultDialog": "这艘船可厉害了…用这艘船去世界的尽头也不是梦！"
+    },
+    {
+     "id": "2050",
+     "defaultDialog": "见识下一号船坞的手艺吧！"
+    },
+    {
+     "id": "2051",
+     "defaultDialog": "哦哦哦！！"
+    },
+    {
+     "id": "2052",
+     "defaultDialog": "有梅丽的两倍大啊"
+    },
+    {
+     "id": "2053",
+     "defaultDialog": "好大的横帆"
+    },
+    {
+     "id": "2054",
+     "defaultDialog": "哇啊！"
+    },
+    {
+     "id": "2055",
+     "defaultDialog": "船头的那是什么花么？"
+    },
+    {
+     "id": "2056",
+     "defaultDialog": "然我看看厨房！"
+    },
+    {
+     "id": "2057",
+     "defaultDialog": "没办法,总之先逃吧！"
+    },
+    {
+     "id": "2058",
+     "defaultDialog": "这个比大炮的威力还大！"
+    },
+    {
+     "id": "2059",
+     "defaultDialog": "他想干什么……"
+    },
+    {
+     "id": "2060",
+     "defaultDialog": "真的吗？"
+    },
+    {
+     "id": "2061",
+     "defaultDialog": "喂,大家！撒谎布来了！"
+    },
+    {
+     "id": "2062",
+     "defaultDialog": "喂！你们说话啊！"
+    },
+    {
+     "id": "2063",
+     "defaultDialog": "喂,长鼻子小哥,你在干什么啊！"
+    },
+    {
+     "id": "2064",
+     "defaultDialog": "还以为你在船上呢……"
+    },
+    {
+     "id": "2071",
+     "defaultDialog": "戈普中将……"
+    },
+    {
+     "id": "2082",
+     "defaultDialog": "真是怀念啊……"
+    },
+    {
+     "id": "2083",
+     "defaultDialog": "橘子树！！我还以为你再也回不来了呢！！"
+    },
+    {
+     "id": "2084",
+     "defaultDialog": "我哪里都不会去的啦~"
+    },
+    {
+     "id": "2085",
+     "defaultDialog": "弗兰奇,你来做什么……"
+    },
+    {
+     "id": "2086",
+     "defaultDialog": "我去看了一下弗兰奇一家的伤者"
+    },
+    {
+     "id": "2087",
+     "defaultDialog": "喂！你们都精神吗！？"
+    },
+    {
+     "id": "2088",
+     "defaultDialog": "我们进来了！"
+    },
+    {
+     "id": "2089",
+     "defaultDialog": "有重要的事情要对你们说……"
+    },
+    {
+     "id": "2090",
+     "defaultDialog": "记录指针的记录再过两三天就存满了吧"
+    },
+    {
+     "id": "2091",
+     "defaultDialog": "其实我有一个不情之请……"
+    },
+    {
+     "id": "2093",
+     "defaultDialog": "看到通缉令了么？"
+    },
+    {
+     "id": "2094",
+     "defaultDialog": "大哥他……"
+    },
+    {
+     "id": "2095",
+     "defaultDialog": "因为你是我孙子！！！所以我放弃在这座岛上抓你！！！"
+    },
+    {
+     "id": "2096",
+     "defaultDialog": "糟了,海军已经到了！"
+    },
+    {
+     "id": "2430",
+     "defaultDialog": "汪！汪！嗷~"
+    },
+    {
+     "id": "2446",
+     "defaultDialog": "这个天气真让人不爽。"
+    },
+    {
+     "id": "2447",
+     "defaultDialog": "不行啊,记录指针失去作用了。"
+    },
+    {
+     "id": "2448",
+     "defaultDialog": "这就是那个传说中的海域啊,不要大意了。"
+    },
+    {
+     "id": "2449",
+     "defaultDialog": "有意思……"
+    },
+    {
+     "id": "2450",
+     "defaultDialog": "我才不怕呢……！"
+    },
+    {
+     "id": "2451",
+     "defaultDialog": "恶灵退散恶灵退散恶灵退散……"
+    },
+    {
+     "id": "2453",
+     "defaultDialog": "奈美小姐,害怕的话就抱紧我吧！"
+    },
+    {
+     "id": "2457",
+     "defaultDialog": "我是豪格巴克大人的仆人。"
+    },
+    {
+     "id": "2461",
+     "defaultDialog": "呜嗷——！！"
+    },
+    {
+     "id": "2480",
+     "defaultDialog": "我是腐烂的。"
+    },
+    {
+     "id": "2481",
+     "defaultDialog": "我也是。"
+    },
+    {
+     "id": "2482",
+     "defaultDialog": "我其实体力很差的。"
+    },
+    {
+     "id": "2486",
+     "defaultDialog": "我是受伤的老人家。"
+    },
+    {
+     "id": "2488",
+     "defaultDialog": "我就是传说中的天才医生！"
+    },
+    {
+     "id": "2492",
+     "defaultDialog": "研究室是禁止进入的哦！"
+    },
+    {
+     "id": "2493",
+     "defaultDialog": "这个世界上就不该有盘子。"
+    },
+    {
+     "id": "2494",
+     "defaultDialog": "豪格巴克医生的研究室……好想去参观啊。"
+    },
+    {
+     "id": "2495",
+     "defaultDialog": "奈美你是不是太多疑了。"
+    },
+    {
+     "id": "2496",
+     "defaultDialog": "这所有的一切都不对劲……"
+    },
+    {
+     "id": "2497",
+     "defaultDialog": "这边请,我带你们去卧房……"
+    },
+    {
+     "id": "2509",
+     "defaultDialog": "你们别想踏出这房间一步！"
+    },
+    {
+     "id": "2512",
+     "defaultDialog": "我不会让你们逃走的！小崽子们！"
+    },
+    {
+     "id": "2518",
+     "defaultDialog": "财宝没放在这里！"
+    },
+    {
+     "id": "2522",
+     "defaultDialog": "简直就是艺术啊！只有我这个天才才办得到！"
+    },
+    {
+     "id": "2523",
+     "defaultDialog": "搞砸了才好。"
+    },
+    {
+     "id": "2547",
+     "defaultDialog": "嘎咯……"
+    },
+    {
+     "id": "2552",
+     "defaultDialog": "不放过一个海盗！"
+    },
+    {
+     "id": "2553",
+     "defaultDialog": "我是不会辜负生前的恶名的。"
+    },
+    {
+     "id": "2558",
+     "defaultDialog": "背上的伤痕,是剑客的耻辱！"
+    },
+    {
+     "id": "2559",
+     "defaultDialog": "僵尸之夜开始了！"
+    },
+    {
+     "id": "2565",
+     "defaultDialog": "得赶紧想想办法。"
+    },
+    {
+     "id": "2566",
+     "defaultDialog": "好大的蜘蛛！"
+    },
+    {
+     "id": "2567",
+     "defaultDialog": "佩罗娜大人的幽灵网络已经把你们调查得清清楚楚了！"
+    },
+    {
+     "id": "2568",
+     "defaultDialog": "这次我不会再逃了！一定要打败那个男人……"
+    },
+    {
+     "id": "2571",
+     "defaultDialog": "赶快让我成为海盗王啊！"
+    },
+    {
+     "id": "2572",
+     "defaultDialog": "库玛希你别说话！一点都不可爱！"
+    },
+    {
+     "id": "2573",
+     "defaultDialog": "啊,那个……"
+    },
+    {
+     "id": "2574",
+     "defaultDialog": "喂喂,辛德丽,别添乱……"
+    },
+    {
+     "id": "2575",
+     "defaultDialog": "没人会嫁给你的,阿布萨罗姆！"
+    },
+    {
+     "id": "2576",
+     "defaultDialog": "豪格巴克！管管你的手下！"
+    },
+    {
+     "id": "2577",
+     "defaultDialog": "快把我绳子解开！这个大蒜头！"
+    },
+    {
+     "id": "2586",
+     "defaultDialog": "你能理解我这个天才的烦恼吗？"
+    },
+    {
+     "id": "2590",
+     "defaultDialog": "豪格巴克！你不配当医生！"
+    },
+    {
+     "id": "2591",
+     "defaultDialog": "乔巴……"
+    },
+    {
+     "id": "2592",
+     "defaultDialog": "跟海盗的战斗就交给将军僵尸们吧！"
+    },
+    {
+     "id": "2593",
+     "defaultDialog": "嘎哦哦——"
+    },
+    {
+     "id": "2594",
+     "defaultDialog": "我们可是刀枪不入的！"
+    },
+    {
+     "id": "2595",
+     "defaultDialog": "我的老大是……流氓阿布萨罗姆！"
+    },
+    {
+     "id": "2596",
+     "defaultDialog": "老大……兴趣是偷窥！"
+    },
+    {
+     "id": "2597",
+     "defaultDialog": "有本事来赢我啊！"
+    },
+    {
+     "id": "2598",
+     "defaultDialog": "呼……呼……肉……"
+    },
+    {
+     "id": "2599",
+     "defaultDialog": "……嗯……剑客……"
+    },
+    {
+     "id": "2600",
+     "defaultDialog": "……美女……呼噜……"
+    },
+    {
+     "id": "2601",
+     "defaultDialog": "这时候就要靠撒谎布船长救场了！"
+    },
+    {
+     "id": "2602",
+     "defaultDialog": "我们遇到了骷髅小哥,他告诉了我们僵尸的弱点。"
+    },
+    {
+     "id": "2603",
+     "defaultDialog": "奈……奈美……被带走了……"
+    },
+    {
+     "id": "2606",
+     "defaultDialog": "啵咯啵咯~~"
+    },
+    {
+     "id": "2607",
+     "defaultDialog": "消极消极~~"
+    },
+    {
+     "id": "2608",
+     "defaultDialog": "啵咯啵咯~~~"
+    },
+    {
+     "id": "2614",
+     "defaultDialog": "你是我喜欢的类型！和我结婚吧！"
+    },
+    {
+     "id": "2615",
+     "defaultDialog": "你要帮那个骷髅夺回影子吗？"
+    },
+    {
+     "id": "2616",
+     "defaultDialog": "传说中的武士僵尸到底有多厉害,我很感兴趣。"
+    },
+    {
+     "id": "2619",
+     "defaultDialog": "五花大绑起来！"
+    },
+    {
+     "id": "2620",
+     "defaultDialog": "好好修理你们一顿！"
+    },
+    {
+     "id": "2631",
+     "defaultDialog": "把你们献给主人！"
+    },
+    {
+     "id": "2639",
+     "defaultDialog": "不好啦！佩罗娜大人！海盗……"
+    },
+    {
+     "id": "2640",
+     "defaultDialog": "甩掉了吗……？！"
+    },
+    {
+     "id": "2641",
+     "defaultDialog": "大概……"
+    },
+    {
+     "id": "2642",
+     "defaultDialog": "呼……"
+    },
+    {
+     "id": "2643",
+     "defaultDialog": "不要小瞧了我幽灵公主哦！"
+    },
+    {
+     "id": "2644",
+     "defaultDialog": "不许你碰佩罗娜大人！"
+    },
+    {
+     "id": "2648",
+     "defaultDialog": "不许动我的船员一根手指！"
+    },
+    {
+     "id": "2649",
+     "defaultDialog": "阿布萨罗姆是我的！"
+    },
+    {
+     "id": "2650",
+     "defaultDialog": "居然又回来了！"
+    },
+    {
+     "id": "2651",
+     "defaultDialog": "那个新人……僵尸不是该绝对服从命令的吗？"
+    },
+    {
+     "id": "2652",
+     "defaultDialog": "不对女人出手,这就是我的骑士之道！"
+    },
+    {
+     "id": "2653",
+     "defaultDialog": "这个僵尸莫非是山智的……"
+    },
+    {
+     "id": "2656",
+     "defaultDialog": "我更喜欢柔弱的女人……"
+    },
+    {
+     "id": "2657",
+     "defaultDialog": "肉————！！！"
+    },
+    {
+     "id": "2658",
+     "defaultDialog": "呜哇！他暴跳如雷了！"
+    },
+    {
+     "id": "2659",
+     "defaultDialog": "有点棘手啊。"
+    },
+    {
+     "id": "2660",
+     "defaultDialog": "这么大的个子,身手却很敏捷……"
+    },
+    {
+     "id": "2661",
+     "defaultDialog": "咕啊啊啊————！！！"
+    },
+    {
+     "id": "2662",
+     "defaultDialog": "天亮之前,至少能够让路飞一个人恢复正常！"
+    },
+    {
+     "id": "2663",
+     "defaultDialog": "说老实话,我这时刚有了快要被消灭的危机感……"
+    },
+    {
+     "id": "2664",
+     "defaultDialog": "不要被影子迷惑……"
+    },
+    {
+     "id": "2665",
+     "defaultDialog": "无法报恩太痛苦了！即使粉身碎骨我也在所不惜！"
+    },
+    {
+     "id": "2666",
+     "defaultDialog": "500年前奥兹一定是迷路到冰之国冻死的！"
+    },
+    {
+     "id": "2667",
+     "defaultDialog": "我们只有拼了！"
+    },
+    {
+     "id": "2668",
+     "defaultDialog": "那就来吧！用我的特制迫击炮！"
+    },
+    {
+     "id": "2669",
+     "defaultDialog": "马上就要天亮了啊！"
+    },
+    {
+     "id": "2670",
+     "defaultDialog": "看看你干的好事！把我的恐怖之船搞得一团糟！"
+    },
+    {
+     "id": "2671",
+     "defaultDialog": "我被称为和平主义者,是政府还未完成的人形兵器。"
+    },
+    {
+     "id": "2672",
+     "defaultDialog": "你们全都是我喜欢的类型！"
+    },
+    {
+     "id": "2677",
+     "defaultDialog": "太可恶了！"
+    },
+    {
+     "id": "2678",
+     "defaultDialog": "居然被一群垃圾给算计了……太丢人了……"
+    },
+    {
+     "id": "2679",
+     "defaultDialog": "奈美小姐！！！"
+    },
+    {
+     "id": "2681",
+     "defaultDialog": "这个安眠药效果不错啊。"
+    },
+    {
+     "id": "2684",
+     "defaultDialog": "老大能结婚多不容易啊！绝对不让你搅黄！"
+    },
+    {
+     "id": "2687",
+     "defaultDialog": "你和老大到底有什么深仇大恨啊？！"
+    },
+    {
+     "id": "2690",
+     "defaultDialog": "我还没看到誓约之吻就被你打断了呀！"
+    },
+    {
+     "id": "2702",
+     "defaultDialog": "别开玩笑了,奈美小姐怎么可能交给你。"
+    },
+    {
+     "id": "2703",
+     "defaultDialog": "不敢相信！我居然能再一次活在阳光下！"
+    },
+    {
+     "id": "2704",
+     "defaultDialog": "有同伴真好啊……"
+    },
+    {
+     "id": "2707",
+     "defaultDialog": "别打扰佐罗休养,他伤得很重。"
+    },
+    {
+     "id": "2709",
+     "defaultDialog": "呵呵……这样不是很好吗？"
+    },
+    {
+     "id": "2710",
+     "defaultDialog": "晚……宴！晚……宴！Oh！Baby！"
+    },
+    {
+     "id": "2711",
+     "defaultDialog": "嘎哈哈哈……！！"
+    },
+    {
+     "id": "2712",
+     "defaultDialog": "我做了很多菜！可不许给我剩下！！"
+    },
+    {
+     "id": "2735",
+     "defaultDialog": "这里僵尸好多我好怕啊……"
+    },
+    {
+     "id": "2736",
+     "defaultDialog": "不能放弃抵抗！"
+    },
+    {
+     "id": "2743",
+     "defaultDialog": "我要通过这里和伙伴们汇合！"
+    },
+    {
+     "id": "2745",
+     "defaultDialog": "啊…该怎么办啊"
+    },
+    {
+     "id": "2746",
+     "defaultDialog": "汪！汪！嗷！"
+    },
+    {
+     "id": "2747",
+     "defaultDialog": "我们的任务是驱赶幸存者！"
+    },
+    {
+     "id": "2749",
+     "defaultDialog": "喂,看到我你们怎么还不逃跑！"
+    },
+    {
+     "id": "2750",
+     "defaultDialog": "我好像……好像有什么重要的东西丢了……"
+    },
+    {
+     "id": "2751",
+     "defaultDialog": "我的朋友好像有重要的东西丢了,我是出来调查信息的。"
+    },
+    {
+     "id": "2752",
+     "defaultDialog": "这是什么？"
+    },
+    {
+     "id": "2753",
+     "defaultDialog": "我不行了,跑不动了,你快走吧。"
+    },
+    {
+     "id": "2754",
+     "defaultDialog": "我们要死一起死！"
+    },
+    {
+     "id": "2755",
+     "defaultDialog": "你们已经无路可逃了！"
+    },
+    {
+     "id": "2757",
+     "defaultDialog": "竟然浪费了我这么久的时间！"
+    },
+    {
+     "id": "2758",
+     "defaultDialog": "终于……终于能见到太阳了！"
+    },
+    {
+     "id": "2759",
+     "defaultDialog": "我……这是在哪？"
+    },
+    {
+     "id": "2760",
+     "defaultDialog": "你做什么！！"
+    },
+    {
+     "id": "2762",
+     "defaultDialog": "僵尸们已经消失了吗？"
+    },
+    {
+     "id": "2763",
+     "defaultDialog": "现在直接走出去不会有危险吧……"
+    },
+    {
+     "id": "2764",
+     "defaultDialog": "感谢你们！我有生之年竟然……竟然可以再次拥有影子……"
+    },
+    {
+     "id": "2765",
+     "defaultDialog": "辛苦你们了,然我在这里休息一段时间吧。"
+    },
+    {
+     "id": "2788",
+     "defaultDialog": "想听个故事吗？"
+    },
+    {
+     "id": "3254",
+     "defaultDialog": "我现在在小八的章鱼烧店打工,将来想成为服装设计师！"
+    },
+    {
+     "id": "3255",
+     "defaultDialog": "聊得好热闹啊……你们是不是忘了一个重要的人？"
+    },
+    {
+     "id": "3256",
+     "defaultDialog": "不要来啊凯米！"
+    },
+    {
+     "id": "3257",
+     "defaultDialog": "抓住凯米我们就发大财了么哈哈哈！"
+    },
+    {
+     "id": "3258",
+     "defaultDialog": "每次来救你的小八也成那副德性了！"
+    },
+    {
+     "id": "3259",
+     "defaultDialog": "你跑不了了……凯米……"
+    },
+    {
+     "id": "3260",
+     "defaultDialog": "路飞哥！呜呜！"
+    },
+    {
+     "id": "3261",
+     "defaultDialog": "混蛋！放开凯米！"
+    },
+    {
+     "id": "3262",
+     "defaultDialog": "哟嚯嚯嚯！音乐就是力量！"
+    },
+    {
+     "id": "3263",
+     "defaultDialog": "你们别忘了,这儿可是我们的地盘！"
+    },
+    {
+     "id": "3264",
+     "defaultDialog": "让你们见识见识我们的速度与破坏力！"
+    },
+    {
+     "id": "3265",
+     "defaultDialog": "有女人哎！真舍不得下手啊。"
+    },
+    {
+     "id": "3266",
+     "defaultDialog": "就算拆了这旮儿,俺也要削你们！"
+    },
+    {
+     "id": "3267",
+     "defaultDialog": "头儿气得都说话都带口音了！"
+    },
+    {
+     "id": "3268",
+     "defaultDialog": "头儿……"
+    },
+    {
+     "id": "3269",
+     "defaultDialog": "你们也被吓到了吧！"
+    },
+    {
+     "id": "3270",
+     "defaultDialog": "这能怪我吗？！"
+    },
+    {
+     "id": "3271",
+     "defaultDialog": "你就是长那个德性。"
+    },
+    {
+     "id": "3272",
+     "defaultDialog": "哟嚯嚯嚯哟嚯嚯嚯哟嚯嚯嚯！"
+    },
+    {
+     "id": "3273",
+     "defaultDialog": "以后就改名“桃色人生骑士团”吧！"
+    },
+    {
+     "id": "3274",
+     "defaultDialog": "是！帅哥！"
+    },
+    {
+     "id": "3275",
+     "defaultDialog": "头儿！你得听人家说话啊！"
+    },
+    {
+     "id": "3276",
+     "defaultDialog": "吃饱了！这章鱼烧怎么这么好吃呀！？"
+    },
+    {
+     "id": "3277",
+     "defaultDialog": "要出发了吗？知道怎么去鱼人岛了吗？"
+    },
+    {
+     "id": "3278",
+     "defaultDialog": "罗宾酱,下午茶想来点什么？"
+    },
+    {
+     "id": "3279",
+     "defaultDialog": "海怪和鲨鱼什么的……我根本不怕！"
+    },
+    {
+     "id": "3280",
+     "defaultDialog": "很好吃！"
+    },
+    {
+     "id": "3281",
+     "defaultDialog": "但是这艘船可不能潜水呀。"
+    },
+    {
+     "id": "3282",
+     "defaultDialog": "撑死了,我太幸福了！"
+    },
+    {
+     "id": "3283",
+     "defaultDialog": "真是一个美好的下午呀,嗝——"
+    },
+    {
+     "id": "3284",
+     "defaultDialog": "那么,请给我一杯咖啡。"
+    },
+    {
+     "id": "3285",
+     "defaultDialog": "没错吧？小八的章鱼烧是世界第一吧？！"
+    },
+    {
+     "id": "3287",
+     "defaultDialog": "累死了……真能吃啊,不愧是草帽一伙！"
+    },
+    {
+     "id": "3288",
+     "defaultDialog": "我要留下替奈美小姐守卫财宝,谁叫我是爱情的奴隶呢！"
+    },
+    {
+     "id": "3289",
+     "defaultDialog": "你自己都承认了,我也就无话可说了。"
+    },
+    {
+     "id": "3290",
+     "defaultDialog": "怎么办呢？船上堆满了财宝,守卫它的骑士在哪儿呢？"
+    },
+    {
+     "id": "3291",
+     "defaultDialog": "这里是世界上最大的红树林,这79棵树组成了香波迪群岛。"
+    },
+    {
+     "id": "3292",
+     "defaultDialog": "别说傻话,你不能坐的,凯米！"
+    },
+    {
+     "id": "3293",
+     "defaultDialog": "香波迪乐园是我憧憬的地方呀……"
+    },
+    {
+     "id": "3296",
+     "defaultDialog": "哪怕能抓住一个也发财了……"
+    },
+    {
+     "id": "3315",
+     "defaultDialog": "你们就是价值三亿赏金的……"
+    },
+    {
+     "id": "3320",
+     "defaultDialog": "我的情报网可是很厉害的。"
+    },
+    {
+     "id": "3321",
+     "defaultDialog": "啊？这是把我当肥羊宰吗？"
+    },
+    {
+     "id": "3322",
+     "defaultDialog": "本大爷还是第一次见到敲竹杠的。"
+    },
+    {
+     "id": "3323",
+     "defaultDialog": "女人,劝你识相一点！"
+    },
+    {
+     "id": "3324",
+     "defaultDialog": "让小八在我这里好好养伤吧。"
+    },
+    {
+     "id": "3326",
+     "defaultDialog": "真麻烦,本来以为可以手到擒来的。"
+    },
+    {
+     "id": "3327",
+     "defaultDialog": "我不会让你过去的……黄猿兄……"
+    },
+    {
+     "id": "3328",
+     "defaultDialog": "我的防守可是世界第一。"
+    },
+    {
+     "id": "3331",
+     "defaultDialog": "如果去旅行,你打算去哪儿？"
+    },
+    {
+     "id": "3332",
+     "defaultDialog": "你们是谁啊！？"
+    },
+    {
+     "id": "3337",
+     "defaultDialog": "天龙人……可恶！"
+    },
+    {
+     "id": "3338",
+     "defaultDialog": "我们会把你夺回来的！"
+    },
+    {
+     "id": "3340",
+     "defaultDialog": "奈美小姐,可不可以把那个姑娘一起买下？"
+    },
+    {
+     "id": "3341",
+     "defaultDialog": "凯米一定很害怕吧？"
+    },
+    {
+     "id": "3342",
+     "defaultDialog": "呜呜……都是我不好……"
+    },
+    {
+     "id": "3343",
+     "defaultDialog": "比起利欲熏心的权力者,我们使的那点坏简直算是小儿科呢,基拉。"
+    },
+    {
+     "id": "3344",
+     "defaultDialog": "没错……"
+    },
+    {
+     "id": "3345",
+     "defaultDialog": "船长,他们来了。"
+    },
+    {
+     "id": "3346",
+     "defaultDialog": "呵呵,你们让我长见识了。"
+    },
+    {
+     "id": "3349",
+     "defaultDialog": "凯米！终于找到你了！太好了——"
+    },
+    {
+     "id": "3350",
+     "defaultDialog": "唔哼嗯！哼嗯！嗯！章鱼！免费！♪"
+    },
+    {
+     "id": "3352",
+     "defaultDialog": "呼叫海军总部和军舰！给他们点颜色看看！！"
+    },
+    {
+     "id": "3354",
+     "defaultDialog": "卫兵！快过来！"
+    },
+    {
+     "id": "3362",
+     "defaultDialog": "把海盗抓起来！"
+    },
+    {
+     "id": "3368",
+     "defaultDialog": "你们这些愚蠢的家伙竟然想保护鱼人！"
+    },
+    {
+     "id": "3373",
+     "defaultDialog": "好像有点太招摇了。"
+    },
+    {
+     "id": "3374",
+     "defaultDialog": "快去救凯米妹妹！"
+    },
+    {
+     "id": "3375",
+     "defaultDialog": "该怎么做,心里都有数了吧？"
+    },
+    {
+     "id": "3376",
+     "defaultDialog": "都怪你把他揍飞了,害得我没法砍他了。"
+    },
+    {
+     "id": "3377",
+     "defaultDialog": "我来迟了……失礼了！"
+    },
+    {
+     "id": "3378",
+     "defaultDialog": "凯米的项圈钥匙一定被藏在后台！"
+    },
+    {
+     "id": "3379",
+     "defaultDialog": "算了,谁叫他是路飞呢！"
+    },
+    {
+     "id": "3380",
+     "defaultDialog": "起重机！"
+    },
+    {
+     "id": "3381",
+     "defaultDialog": "路飞,凯米呢？！"
+    },
+    {
+     "id": "3403",
+     "defaultDialog": "今天有上等的货色,不卖个高价才怪呢！"
+    },
+    {
+     "id": "3404",
+     "defaultDialog": "不要妨碍我们营业,海军可是驻扎在这附近的！"
+    },
+    {
+     "id": "3405",
+     "defaultDialog": "哎呀哎呀……人数比想象的多嘛……"
+    },
+    {
+     "id": "3406",
+     "defaultDialog": "真是令人不爽,我为什么要和这些家伙合作……"
+    },
+    {
+     "id": "3407",
+     "defaultDialog": "只要打倒海军就好了吧！"
+    },
+    {
+     "id": "3409",
+     "defaultDialog": "大将马上驾到！奉劝你们快点投降！"
+    },
+    {
+     "id": "3443",
+     "defaultDialog": "大家当心！炮弹对他们无效！他们三个都是能力者！"
+    },
+    {
+     "id": "3445",
+     "defaultDialog": "这可是我从小的梦想啊……我一辈子都忘不了！谢谢！"
+    },
+    {
+     "id": "3446",
+     "defaultDialog": "吶哈哈！你高兴地哭了吗？"
+    },
+    {
+     "id": "3447",
+     "defaultDialog": "接下来去玩那个！"
+    },
+    {
+     "id": "3448",
+     "defaultDialog": "人鱼和鱼人小时候肯定都梦想来这里！"
+    },
+    {
+     "id": "3449",
+     "defaultDialog": "哟嚯嚯,看起来没多高嘛。"
+    },
+    {
+     "id": "3450",
+     "defaultDialog": "凯米！你不能进去！"
+    },
+    {
+     "id": "3451",
+     "defaultDialog": "今天爸爸带你来游乐园玩,回去千万不要告诉妈妈！"
+    },
+    {
+     "id": "3452",
+     "defaultDialog": "知道了,爸爸……（脸红）"
+    },
+    {
+     "id": "3453",
+     "defaultDialog": "今天来游乐园开不开心呀？"
+    },
+    {
+     "id": "3454",
+     "defaultDialog": "这三张门票可是我一个月的工资啊……"
+    },
+    {
+     "id": "3455",
+     "defaultDialog": "你们要是继续吵架的话我就回家了……难得来游乐园……"
+    },
+    {
+     "id": "3456",
+     "defaultDialog": "你怎么在这里！明明是我先！"
+    },
+    {
+     "id": "3457",
+     "defaultDialog": "怎么会这样！你怎么这么熟练！"
+    },
+    {
+     "id": "3458",
+     "defaultDialog": "这里也许就是我一直寻找的地方吧……"
+    },
+    {
+     "id": "3459",
+     "defaultDialog": "还记得我们刚刚相遇的时候吗？"
+    },
+    {
+     "id": "3460",
+     "defaultDialog": "哥哥他……唉……"
+    },
+    {
+     "id": "3461",
+     "defaultDialog": "我在谢老天你没把烂口琴带来。"
+    },
+    {
+     "id": "3462",
+     "defaultDialog": "喂！你们！问问收购这里要多少钱？"
+    },
+    {
+     "id": "3463",
+     "defaultDialog": "叔叔……为什么爸爸他偷偷跑到这里来啊？"
+    },
+    {
+     "id": "3464",
+     "defaultDialog": "终于放假啦！"
+    },
+    {
+     "id": "3465",
+     "defaultDialog": "姐姐！这里也可以开咖啡店呀！"
+    },
+    {
+     "id": "3466",
+     "defaultDialog": "妹妹,我们回去问问主人吧。"
+    },
+    {
+     "id": "3469",
+     "defaultDialog": "简直太粗俗无礼了！"
+    },
+    {
+     "id": "3474",
+     "defaultDialog": "这是男、男人？第一次见到……"
+    },
+    {
+     "id": "3475",
+     "defaultDialog": "我……我变得有点奇怪,应该坚定地把男人驱逐出去才对呀……"
+    },
+    {
+     "id": "3476",
+     "defaultDialog": "干掉他！取下他的首级！"
+    },
+    {
+     "id": "3477",
+     "defaultDialog": "呵呵呵……把他生吞了好呢？"
+    },
+    {
+     "id": "3478",
+     "defaultDialog": "还是把他绞死好呢？"
+    },
+    {
+     "id": "3480",
+     "defaultDialog": "真是一段不愿回想的可怕过去……"
+    },
+    {
+     "id": "3481",
+     "defaultDialog": "亏你还是海盗,啥也不知道。"
+    },
+    {
+     "id": "3482",
+     "defaultDialog": "我都听说了……是你救了我啊,谢谢你,路飞！"
+    },
+    {
+     "id": "3485",
+     "defaultDialog": "那个人……会被杀掉吧……"
+    },
+    {
+     "id": "3691",
+     "defaultDialog": "哎……果然……"
+    },
+    {
+     "id": "3692",
+     "defaultDialog": "那个笼子里好像有人。"
+    },
+    {
+     "id": "3693",
+     "defaultDialog": "……果然……听声音,还有那罕见的轮廓……喂奈美,你怎么看？"
+    },
+    {
+     "id": "3700",
+     "defaultDialog": "能抓走一个我们都发财了……那个狸猫除外。"
+    },
+    {
+     "id": "3705",
+     "defaultDialog": "小的们！冲啊！"
+    },
+    {
+     "id": "3711",
+     "defaultDialog": "少爷！嘿~~~~~~呀嚯~~~~~~！我叫帅哥！不,错了！我是迪巴鲁！！！"
+    },
+    {
+     "id": "3712",
+     "defaultDialog": "玫瑰色的人生！"
+    },
+    {
+     "id": "3713",
+     "defaultDialog": "少爷！这边！快走！"
+    },
+    {
+     "id": "3714",
+     "defaultDialog": "没见过呢……"
+    },
+    {
+     "id": "3715",
+     "defaultDialog": "站住！"
+    },
+    {
+     "id": "3718",
+     "defaultDialog": "要在蛇姬回来之前抓住你！"
+    },
+    {
+     "id": "3721",
+     "defaultDialog": "公会的修缮需要你的一份力,当然也会有回报的。"
+    },
+    {
+     "id": "3722",
+     "defaultDialog": "喂！你看什么！快走开！"
+    },
+    {
+     "id": "3724",
+     "defaultDialog": "嗯……计划！不容失败！"
+    },
+    {
+     "id": "3727",
+     "defaultDialog": "啊！你吓了我一跳！"
+    },
+    {
+     "id": "3728",
+     "defaultDialog": "这里是我们的家园！"
+    },
+    {
+     "id": "3729",
+     "defaultDialog": "我的儿子！我的儿子不见了！"
+    },
+    {
+     "id": "3730",
+     "defaultDialog": "哈哈哈,今天又挣了一笔。"
+    },
+    {
+     "id": "3731",
+     "defaultDialog": "这里可是我们的地盘！"
+    },
+    {
+     "id": "3732",
+     "defaultDialog": "你觉得我帅吗？"
+    },
+    {
+     "id": "3733",
+     "defaultDialog": "老子吃饭从来不付钱啊！"
+    },
+    {
+     "id": "3734",
+     "defaultDialog": "今天也要燃烧起来！啊啊啊啊！"
+    },
+    {
+     "id": "3735",
+     "defaultDialog": "嗯？你是要买奴隶还是卖奴隶？"
+    },
+    {
+     "id": "3736",
+     "defaultDialog": "只要抓到一个我们都赚翻了！"
+    },
+    {
+     "id": "3737",
+     "defaultDialog": "这笔钱只有我能赚！"
+    },
+    {
+     "id": "3738",
+     "defaultDialog": "你们就是我的钱！哈哈哈哈哈！"
+    },
+    {
+     "id": "3739",
+     "defaultDialog": "终于……自由了"
+    },
+    {
+     "id": "3740",
+     "defaultDialog": "回家……回家！"
+    },
+    {
+     "id": "3741",
+     "defaultDialog": "真的是太感谢了！"
+    },
+    {
+     "id": "3742",
+     "defaultDialog": "我的同伴们不知道怎么样了！"
+    },
+    {
+     "id": "3743",
+     "defaultDialog": "我不想在回忆起被抓起来的日子了！"
+    },
+    {
+     "id": "3744",
+     "defaultDialog": "感谢！太感谢你了！"
+    },
+    {
+     "id": "3748",
+     "defaultDialog": "住手！"
+    },
+    {
+     "id": "3749",
+     "defaultDialog": "可恶！怎么会这样！"
+    },
+    {
+     "id": "3750",
+     "defaultDialog": "我准备开炮了！"
+    },
+    {
+     "id": "3751",
+     "defaultDialog": "你们等等！"
+    },
+    {
+     "id": "3755",
+     "defaultDialog": "我应该听帕帕格的不该上岸……对不起大家"
+    },
+    {
+     "id": "3816",
+     "defaultDialog": "欢迎来到我的推进城！！！啊,说错了,说是我的,暴露野心了。"
+    },
+    {
+     "id": "3819",
+     "defaultDialog": "麻烦你温柔点……"
+    },
+    {
+     "id": "3820",
+     "defaultDialog": "好危险！还以为要被发现了……"
+    },
+    {
+     "id": "3822",
+     "defaultDialog": "里面不会发生什么吧！好想进去看！"
+    },
+    {
+     "id": "3824",
+     "defaultDialog": "（路飞你一定要平安无事啊……）"
+    },
+    {
+     "id": "3825",
+     "defaultDialog": "（什么时候才能成为狱长呢？）"
+    },
+    {
+     "id": "3828",
+     "defaultDialog": "喂喂喂喂,小哥小哥！！"
+    },
+    {
+     "id": "3829",
+     "defaultDialog": "你竟然在外面！"
+    },
+    {
+     "id": "3839",
+     "defaultDialog": "可恶！让你们看看巴奇大爷的厉害！"
+    },
+    {
+     "id": "3840",
+     "defaultDialog": "我快没时间啦！"
+    },
+    {
+     "id": "3844",
+     "defaultDialog": "啥？你不是要越狱？！"
+    },
+    {
+     "id": "3845",
+     "defaultDialog": "你知道怎么去地下五层吗！？"
+    },
+    {
+     "id": "3852",
+     "defaultDialog": "什么！！？你想救艾斯！！？"
+    },
+    {
+     "id": "3853",
+     "defaultDialog": "给我等等草帽小子！！！"
+    },
+    {
+     "id": "3854",
+     "defaultDialog": "这里就是因佩尔地狱的第一层：红莲地狱！"
+    },
+    {
+     "id": "3855",
+     "defaultDialog": "鲜红的森林……"
+    },
+    {
+     "id": "3856",
+     "defaultDialog": "我得找机会溜走……"
+    },
+    {
+     "id": "3857",
+     "defaultDialog": "这就是地下2层……"
+    },
+    {
+     "id": "3858",
+     "defaultDialog": "草帽小子要去救他的大哥艾斯。"
+    },
+    {
+     "id": "3859",
+     "defaultDialog": "哈！？不是越狱吗！？不是朝着地下1层走吗！！？"
+    },
+    {
+     "id": "3860",
+     "defaultDialog": "面……"
+    },
+    {
+     "id": "3861",
+     "defaultDialog": "哇…好像有什么在哦…"
+    },
+    {
+     "id": "3864",
+     "defaultDialog": "地下3楼…我们竟然来了这种地方……！！草帽小子，你又把我们牵扯进来！！！"
+    },
+    {
+     "id": "3865",
+     "defaultDialog": "…对拥有蜡烛能力的我来说…这里太难受了~~~…"
+    },
+    {
+     "id": "3866",
+     "defaultDialog": "呐…让我们进去吧…"
+    },
+    {
+     "id": "3867",
+     "defaultDialog": "那三人……特别是草帽小子，绝对不能放走！！！"
+    },
+    {
+     "id": "3883",
+     "defaultDialog": "得趁我们因为热还能出汗的时候离开这儿才成！！！"
+    },
+    {
+     "id": "3884",
+     "defaultDialog": "嗯？怎么回事！？网！？"
+    },
+    {
+     "id": "3885",
+     "defaultDialog": "糟了！！！是陷阱！！！"
+    },
+    {
+     "id": "3886",
+     "defaultDialog": "哈…哈…………！？咦！？他们人呢…！？"
+    },
+    {
+     "id": "3887",
+     "defaultDialog": "他想逃！！快追！！！"
+    },
+    {
+     "id": "3895",
+     "defaultDialog": "好久不见了小草帽！！！"
+    },
+    {
+     "id": "3896",
+     "defaultDialog": "小冯！！！你还活着啊！！！"
+    },
+    {
+     "id": "3898",
+     "defaultDialog": "看吧小草帽，看下面。"
+    },
+    {
+     "id": "3900",
+     "defaultDialog": "坚决拒绝，我再融化下去就什么都不剩了。"
+    },
+    {
+     "id": "3901",
+     "defaultDialog": "小草帽别管他们了，这种完全没骨气的家伙。"
+    },
+    {
+     "id": "3902",
+     "defaultDialog": "还记着曾经我让你陷入恐怖深渊的强力的特制巴基炮弹吗！！？"
+    },
+    {
+     "id": "3903",
+     "defaultDialog": "不记得。"
+    },
+    {
+     "id": "3904",
+     "defaultDialog": "…啊？是那边，快走！！！"
+    },
+    {
+     "id": "3905",
+     "defaultDialog": "喂！你要去哪里啊！！？"
+    },
+    {
+     "id": "3906",
+     "defaultDialog": "我们也许已经中了埋伏……"
+    },
+    {
+     "id": "3907",
+     "defaultDialog": "我肚子也饿了！！小草帽等等我啊！"
+    },
+    {
+     "id": "3908",
+     "defaultDialog": "到此为止了，老鼠们…！！！"
+    },
+    {
+     "id": "3928",
+     "defaultDialog": "耐心点路飞……"
+    },
+    {
+     "id": "3929",
+     "defaultDialog": "这里就是因佩尔地狱了。"
+    },
+    {
+     "id": "3938",
+     "defaultDialog": "该怎么离开这该死的监狱呢……"
+    },
+    {
+     "id": "3939",
+     "defaultDialog": "钥匙……！"
+    },
+    {
+     "id": "3940",
+     "defaultDialog": "救命啊！"
+    },
+    {
+     "id": "3943",
+     "defaultDialog": "不要给我惹麻烦！"
+    },
+    {
+     "id": "3944",
+     "defaultDialog": "好……好恶心啊……"
+    },
+    {
+     "id": "3945",
+     "defaultDialog": "你们这群怪物追的好紧啊！"
+    },
+    {
+     "id": "3946",
+     "defaultDialog": "（越狱……越狱……）"
+    },
+    {
+     "id": "3967",
+     "defaultDialog": "狮子？"
+    },
+    {
+     "id": "3968",
+     "defaultDialog": "那边是啥啊？"
+    },
+    {
+     "id": "4012",
+     "defaultDialog": "你能帮我越狱吗！"
+    },
+    {
+     "id": "4013",
+     "defaultDialog": "小心！"
+    },
+    {
+     "id": "4017",
+     "defaultDialog": "喂！这是个越狱的好机会啊！"
+    },
+    {
+     "id": "4018",
+     "defaultDialog": "我的朋友放出来了吗？"
+    },
+    {
+     "id": "4021",
+     "defaultDialog": "前面有猛兽！小心！"
+    },
+    {
+     "id": "4022",
+     "defaultDialog": "给我钥匙！"
+    },
+    {
+     "id": "4024",
+     "defaultDialog": "在这里工作几年了，什么时候能回家啊……"
+    },
+    {
+     "id": "4026",
+     "defaultDialog": "别想越狱！！"
+    },
+    {
+     "id": "4067",
+     "defaultDialog": "对不起……小草帽……"
+    },
+    {
+     "id": "4070",
+     "defaultDialog": "来了来了来了！机会来了！"
+    },
+    {
+     "id": "4071",
+     "defaultDialog": "这……"
+    },
+    {
+     "id": "4085",
+     "defaultDialog": "好、好强……居然这么强……！！！"
+    },
+    {
+     "id": "4086",
+     "defaultDialog": "我不要拷问……如果要接受拷问，还不如现在咬舌自尽！！！"
+    },
+    {
+     "id": "4087",
+     "defaultDialog": "喂！等等！！！"
+    },
+    {
+     "id": "4088",
+     "defaultDialog": "这到底是怎么回事！！！"
+    },
+    {
+     "id": "4089",
+     "defaultDialog": "万、万分抱歉……！！我太大意了……！！！"
+    },
+    {
+     "id": "4103",
+     "defaultDialog": "好冷！！"
+    },
+    {
+     "id": "4104",
+     "defaultDialog": "又多了让人颤抖的因素呢…！"
+    },
+    {
+     "id": "4105",
+     "defaultDialog": "好冷！！刺骨的痛！"
+    },
+    {
+     "id": "4112",
+     "defaultDialog": "啊啊啊啊啊啊……"
+    },
+    {
+     "id": "4118",
+     "defaultDialog": "必须……尽快找到小草帽……"
+    },
+    {
+     "id": "4129",
+     "defaultDialog": "这种时候…！就由我来保护小草帽！"
+    },
+    {
+     "id": "4142",
+     "defaultDialog": "咦…这里是……"
+    },
+    {
+     "id": "4143",
+     "defaultDialog": "阿拉…你醒了啊？"
+    },
+    {
+     "id": "4151",
+     "defaultDialog": "安布里奥·伊娃科夫！！！我回来报仇了！"
+    },
+    {
+     "id": "4152",
+     "defaultDialog": "住手，住手！！啊~~~~！！"
+    },
+    {
+     "id": "4153",
+     "defaultDialog": "对草帽boy的治疗已经在10小时前开始了！！！"
+    },
+    {
+     "id": "4154",
+     "defaultDialog": "怎么回事啊！这是治疗吗！"
+    },
+    {
+     "id": "4155",
+     "defaultDialog": "小草帽~~~~！！！会…会死的啊！！！身体都裂开了…！！！"
+    },
+    {
+     "id": "4156",
+     "defaultDialog": "这里到底是哪儿！？"
+    },
+    {
+     "id": "4157",
+     "defaultDialog": "我是吃了荷尔蒙之果的自由操控荷尔蒙之人！"
+    },
+    {
+     "id": "4158",
+     "defaultDialog": "小…小草帽！！！加油啊~~~~！！！加油啊~~~~！！！"
+    },
+    {
+     "id": "4159",
+     "defaultDialog": "这个冯boy也和草帽boy一起，与痛苦战斗着！！"
+    },
+    {
+     "id": "4160",
+     "defaultDialog": "小…小草帽……"
+    },
+    {
+     "id": "4171",
+     "defaultDialog": "复活啦！！！！！"
+    },
+    {
+     "id": "4175",
+     "defaultDialog": "说是有越狱的人在这边……"
+    },
+    {
+     "id": "4176",
+     "defaultDialog": "只能搜查了，希望会很好对付……"
+    },
+    {
+     "id": "4177",
+     "defaultDialog": "别挡路！！！！"
+    },
+    {
+     "id": "4178",
+     "defaultDialog": "这里没有监视，不用偷偷摸摸隐蔽前进的话也不是很远！！全速前进！！！"
+    },
+    {
+     "id": "4179",
+     "defaultDialog": "快点吧，晚一点点结局就会不一样了！！"
+    },
+    {
+     "id": "4185",
+     "defaultDialog": "这里就是无限地狱……"
+    },
+    {
+     "id": "4186",
+     "defaultDialog": "关押着传说中赏金过亿的囚犯的无限地狱……"
+    },
+    {
+     "id": "4187",
+     "defaultDialog": "在这里解决掉你们！！！"
+    },
+    {
+     "id": "4192",
+     "defaultDialog": "好久不见啊…草帽…！"
+    },
+    {
+     "id": "4193",
+     "defaultDialog": "我想救艾斯！！！拜托了！！！"
+    },
+    {
+     "id": "4196",
+     "defaultDialog": "艾斯要被处刑了啊！！！我要去救他！！！"
+    },
+    {
+     "id": "4197",
+     "defaultDialog": "……真的没问题吗……"
+    },
+    {
+     "id": "4198",
+     "defaultDialog": "好了，事到如今时间所剩不多……"
+    },
+    {
+     "id": "4202",
+     "defaultDialog": "哼……就算你去阻止白胡子跟海军的战争，也只会白费功夫。"
+    },
+    {
+     "id": "4203",
+     "defaultDialog": "非常感谢……这样也许能为那个人尽一份绵薄之力了！"
+    },
+    {
+     "id": "4204",
+     "defaultDialog": "我们现在单纯地需要人数！！我们需要增加同伴！！"
+    },
+    {
+     "id": "4216",
+     "defaultDialog": "让开！别挡路！！！"
+    },
+    {
+     "id": "4217",
+     "defaultDialog": "好久没有活动身体了啊……"
+    },
+    {
+     "id": "4218",
+     "defaultDialog": "如果一定要挡在老夫身前……那就抱歉了！"
+    },
+    {
+     "id": "4219",
+     "defaultDialog": "我也不能输给小草帽啊！"
+    },
+    {
+     "id": "4220",
+     "defaultDialog": "总而言之！！还有机会！！！"
+    },
+    {
+     "id": "4221",
+     "defaultDialog": "艾斯先生在大海上，战争何时爆发都不奇怪！！！"
+    },
+    {
+     "id": "4222",
+     "defaultDialog": "哼……门根本没意义。"
+    },
+    {
+     "id": "4229",
+     "defaultDialog": "入侵者蒙奇·D·路飞！！原七武海沙·鳄鱼！！出现了！！！迎战！！！开枪！！"
+    },
+    {
+     "id": "4245",
+     "defaultDialog": "我想离开这儿……但需要些兵力，如何，要跟我来吗？Mr.1"
+    },
+    {
+     "id": "4246",
+     "defaultDialog": "上！蓝猩猩！尽情厮杀吧！！！"
+    },
+    {
+     "id": "4251",
+     "defaultDialog": "嘿哈！终于追上你们了！！"
+    },
+    {
+     "id": "4252",
+     "defaultDialog": "我们得快点前进了！"
+    },
+    {
+     "id": "4256",
+     "defaultDialog": "继续前进吧…"
+    },
+    {
+     "id": "4258",
+     "defaultDialog": "这些孩子不会让你们再前进一步的！嗯~~！"
+    },
+    {
+     "id": "4262",
+     "defaultDialog": "这里是地狱的大要塞！！任何人都休想过去！！！！"
+    },
+    {
+     "id": "4276",
+     "defaultDialog": "聚集了不少大人物啊！啧哈哈哈哈！！！"
+    },
+    {
+     "id": "4277",
+     "defaultDialog": "船长如今已经顺利荣升七武海，名震天下，你的小命没有用了！"
+    },
+    {
+     "id": "4278",
+     "defaultDialog": "哇……哈……哈……哈！"
+    },
+    {
+     "id": "4279",
+     "defaultDialog": "说了不让你们过去，一步都休想通过！！！"
+    },
+    {
+     "id": "4290",
+     "defaultDialog": "这就是最后一批了吧，这后面没人站着了……！！！"
+    },
+    {
+     "id": "4291",
+     "defaultDialog": "伊娃大人……请您一定要平安无事！！"
+    },
+    {
+     "id": "4292",
+     "defaultDialog": "就算你争取时间，草帽他们也不可能逃离这里。"
+    },
+    {
+     "id": "4293",
+     "defaultDialog": "等着我！艾斯！！！"
+    },
+    {
+     "id": "4294",
+     "defaultDialog": "军舰跟监狱船把监狱围的水泄不通，只要能抢到其中一艘，就能在艾斯先生被处决前赶到玛丽弗德！！！"
+    },
+    {
+     "id": "4295",
+     "defaultDialog": "嗯……"
+    },
+    {
+     "id": "4297",
+     "defaultDialog": "小1！你怎么会在这里！！"
+    },
+    {
+     "id": "4311",
+     "defaultDialog": "出现了！！！！"
+    },
+    {
+     "id": "4312",
+     "defaultDialog": "赢不了的！！！快跑啊！！！"
+    },
+    {
+     "id": "4313",
+     "defaultDialog": "快跑啊！！！"
+    },
+    {
+     "id": "4314",
+     "defaultDialog": "不可能打得过的！！！！"
+    },
+    {
+     "id": "4319",
+     "defaultDialog": "哎？是你啊…"
+    },
+    {
+     "id": "4320",
+     "defaultDialog": "麦哲伦快追上来了！快走！！！"
+    },
+    {
+     "id": "4321",
+     "defaultDialog": "太好了！！你们没事啊！！"
+    },
+    {
+     "id": "4323",
+     "defaultDialog": "老老老老老板~~~~~~！！！？"
+    },
+    {
+     "id": "4324",
+     "defaultDialog": "谁是变态啊！你们那时居然敢见死不救！！！"
+    },
+    {
+     "id": "4325",
+     "defaultDialog": "诶~~~~~~！！！草草草草帽~~~~~~！！！"
+    },
+    {
+     "id": "4326",
+     "defaultDialog": "这一层人好多啊！"
+    },
+    {
+     "id": "4327",
+     "defaultDialog": "马上就到出口了！！"
+    },
+    {
+     "id": "4334",
+     "defaultDialog": "到这里就看老夫的了！"
+    },
+    {
+     "id": "4335",
+     "defaultDialog": "到底是……怎么回事！！？一艘军舰都没有啊！！！"
+    },
+    {
+     "id": "4337",
+     "defaultDialog": "连一个海军都没有……"
+    },
+    {
+     "id": "4338",
+     "defaultDialog": "怎么这样…这不是束手无策了吗！！？"
+    },
+    {
+     "id": "4344",
+     "defaultDialog": "原来如此…敌人也没想象得那么蠢啊。"
+    },
+    {
+     "id": "4353",
+     "defaultDialog": "路飞君，这次你给了我救艾斯先生的机会，真是欠你一大人情啊。"
+    },
+    {
+     "id": "4354",
+     "defaultDialog": "原来你是七武海啊~~~~！！？难怪那么厉害啊！！！"
+    },
+    {
+     "id": "4355",
+     "defaultDialog": "我们原本就是因为这场战争才越狱的。"
+    },
+    {
+     "id": "4358",
+     "defaultDialog": "这个人在说什么啊……"
+    },
+    {
+     "id": "4359",
+     "defaultDialog": "无法理解……"
+    },
+    {
+     "id": "4375",
+     "defaultDialog": "闪电现在还不能牺牲！"
+    },
+    {
+     "id": "4380",
+     "defaultDialog": "你们都好厉害啊！"
+    },
+    {
+     "id": "4381",
+     "defaultDialog": "竟然在地下一直存在一个秘密的基地！"
+    },
+    {
+     "id": "4382",
+     "defaultDialog": "所以，你们要成为新人类吗？欢迎你们哦~"
+    },
+    {
+     "id": "4386",
+     "defaultDialog": "我们之前是不是见过？"
+    },
+    {
+     "id": "4387",
+     "defaultDialog": "是啊，你不记得我们兄弟了吗？以前和你在一个囚室啊！"
+    },
+    {
+     "id": "4388",
+     "defaultDialog": "你们……要做什么！！"
+    },
+    {
+     "id": "4390",
+     "defaultDialog": "要是当初我们有这样一个火炮的话……"
+    },
+    {
+     "id": "4391",
+     "defaultDialog": "我们也不会被抓进来了！"
+    },
+    {
+     "id": "4392",
+     "defaultDialog": "这里面有些什么呢？"
+    },
+    {
+     "id": "4393",
+     "defaultDialog": "会不会有些海军的秘密？"
+    },
+    {
+     "id": "4396",
+     "defaultDialog": "你们要干什么！我…我可是很强的！别过来！！"
+    },
+    {
+     "id": "4397",
+     "defaultDialog": "喂！你说过你有财宝的吧！"
+    },
+    {
+     "id": "4398",
+     "defaultDialog": "不是说出了监狱就跟我们平分吗？怎么？不记得了？"
+    },
+    {
+     "id": "4404",
+     "defaultDialog": "小草帽！我一定要救你！！"
+    },
+    {
+     "id": "4406",
+     "defaultDialog": "咿哈~"
+    },
+    {
+     "id": "4471",
+     "defaultDialog": "我……我真的还能逃出这座监狱吗？已经……已经没有力气了……"
+    },
+    {
+     "id": "4482",
+     "defaultDialog": "马上就能抓到他们了！"
+    },
+    {
+     "id": "4488",
+     "defaultDialog": "不论怎样都要制止他们！"
+    },
+    {
+     "id": "4490",
+     "defaultDialog": "喂！能帮帮忙吗？"
+    },
+    {
+     "id": "4491",
+     "defaultDialog": "谢…谢谢！"
+    },
+    {
+     "id": "4492",
+     "defaultDialog": "有军狼和狱卒在我想动也动不了……"
+    },
+    {
+     "id": "4493",
+     "defaultDialog": "………唉？…变态…？"
+    },
+    {
+     "id": "4499",
+     "defaultDialog": "觉悟吧！！！"
+    },
+    {
+     "id": "4503",
+     "defaultDialog": "为何军狼来这么快！该死！被围住了！！"
+    },
+    {
+     "id": "4507",
+     "defaultDialog": "喂！这到底是怎么回事啊！！"
+    },
+    {
+     "id": "4508",
+     "defaultDialog": "这里是\"新人类乐园\"噢~"
+    },
+    {
+     "id": "4509",
+     "defaultDialog": "拜托了！帮帮我！"
+    },
+    {
+     "id": "4510",
+     "defaultDialog": "哈…哈…得…得救了～…！"
+    },
+    {
+     "id": "4651",
+     "defaultDialog": "别…别过来！"
+    },
+    {
+     "id": "4652",
+     "defaultDialog": "啊啊啊啊…不可饶恕！！！"
+    },
+    {
+     "id": "4657",
+     "defaultDialog": "休想从这里通过！！"
+    },
+    {
+     "id": "4659",
+     "defaultDialog": "哼，大意轻敌可不行啊"
+    },
+    {
+     "id": "4662",
+     "defaultDialog": "哈哈哈哈！再来再来！！"
+    },
+    {
+     "id": "4663",
+     "defaultDialog": "哈…哈……还有增援吗？"
+    },
+    {
+     "id": "4664",
+     "defaultDialog": "哈哈！！无论是谁我都不会输的！"
+    },
+    {
+     "id": "4665",
+     "defaultDialog": "可恶…海盗的人数太多了…"
+    },
+    {
+     "id": "4666",
+     "defaultDialog": "真是没用！"
+    },
+    {
+     "id": "4675",
+     "defaultDialog": "嘿嘿嘿，这下要发财了…"
+    },
+    {
+     "id": "4678",
+     "defaultDialog": "这可是成为七武海的好机会啊！"
+    },
+    {
+     "id": "4679",
+     "defaultDialog": "嘿嘿嘿，一群愚蠢的家伙"
+    },
+    {
+     "id": "4689",
+     "defaultDialog": "哼！再怎么挣扎也是没用的！"
+    },
+    {
+     "id": "4692",
+     "defaultDialog": "哈哈哈哈！你们这些家伙都去死吧！"
+    },
+    {
+     "id": "4693",
+     "defaultDialog": "保持队形！绝对不能让海盗们突破！"
+    },
+    {
+     "id": "4762",
+     "defaultDialog": "想要冲入战场就要踏过我的尸体！"
+    },
+    {
+     "id": "4766",
+     "defaultDialog": "喂！你看到里面了吗！已经打起来了！"
+    },
+    {
+     "id": "4767",
+     "defaultDialog": "里面的战况好激烈啊！"
+    },
+    {
+     "id": "4768",
+     "defaultDialog": "这里是战场！东张西望的人可是会死的！"
+    },
+    {
+     "id": "4776",
+     "defaultDialog": "对面的大将出手了！怎么办！"
+    },
+    {
+     "id": "4777",
+     "defaultDialog": "哼…队长们不会坐视不管的……"
+    },
+    {
+     "id": "4778",
+     "defaultDialog": "给我站住！你们就留在这里吧！"
+    },
+    {
+     "id": "4781",
+     "defaultDialog": "奥兹Jr.！冲啊！"
+    },
+    {
+     "id": "4783",
+     "defaultDialog": "小子！这里可是海军的地盘！"
+    },
+    {
+     "id": "4795",
+     "defaultDialog": "可恶…咳…被中将打伤了……只能看奥兹Jr.的了！"
+    },
+    {
+     "id": "4797",
+     "defaultDialog": "你可别想着简单的就能从我这里过去！"
+    },
+    {
+     "id": "4810",
+     "defaultDialog": "奥兹Jr.……"
+    },
+    {
+     "id": "4811",
+     "defaultDialog": "可恶！这群为海军卖命的走狗！"
+    },
+    {
+     "id": "4821",
+     "defaultDialog": "艾斯……"
+    },
+    {
+     "id": "4822",
+     "defaultDialog": "还没到出手的时候啊……"
+    },
+    {
+     "id": "4823",
+     "defaultDialog": "老爹……"
+    },
+    {
+     "id": "4825",
+     "defaultDialog": "为什么你要保护白胡子。"
+    },
+    {
+     "id": "4827",
+     "defaultDialog": "要成为海盗王的人是我！"
+    },
+    {
+     "id": "4828",
+     "defaultDialog": "白胡子的项上人头……嘿嘿嘿~~~"
+    },
+    {
+     "id": "4829",
+     "defaultDialog": "巴奇船长！白胡子的首级对你来说还不是手到擒来！"
+    },
+    {
+     "id": "4830",
+     "defaultDialog": "巴奇船长也是来杀掉白胡子的吧！"
+    },
+    {
+     "id": "4831",
+     "defaultDialog": "巴奇船长我好崇拜你！"
+    },
+    {
+     "id": "4834",
+     "defaultDialog": "你们沉浸在想象中都已经失去理智了吧！"
+    },
+    {
+     "id": "4836",
+     "defaultDialog": "这里是……"
+    },
+    {
+     "id": "4837",
+     "defaultDialog": "草帽路飞！你怎么会在这里！"
+    },
+    {
+     "id": "4840",
+     "defaultDialog": "真不愧是总战力，不同凡响！！！"
+    },
+    {
+     "id": "4841",
+     "defaultDialog": "世界啊，觉悟吧！！！"
+    },
+    {
+     "id": "4842",
+     "defaultDialog": "终于到了……"
+    },
+    {
+     "id": "4849",
+     "defaultDialog": "少给我得意忘形！"
+    },
+    {
+     "id": "4859",
+     "defaultDialog": "草帽男孩！没事吧！"
+    },
+    {
+     "id": "4860",
+     "defaultDialog": "你是香波迪的！"
+    },
+    {
+     "id": "4862",
+     "defaultDialog": "啊！！那家伙就是把我们弹到各个地方，像大熊一样的家伙！！"
+    },
+    {
+     "id": "4863",
+     "defaultDialog": "大熊！！！"
+    },
+    {
+     "id": "4864",
+     "defaultDialog": "休想逃！！"
+    },
+    {
+     "id": "4873",
+     "defaultDialog": "草帽小子……！！你还是和以前一样很有气势啊…对了，我得再次剪下你的影子！！让奥兹行动起来！！！"
+    },
+    {
+     "id": "4874",
+     "defaultDialog": "可恶！"
+    },
+    {
+     "id": "4875",
+     "defaultDialog": "路飞，就交给我来对付吧。"
+    },
+    {
+     "id": "4882",
+     "defaultDialog": "终于见到你了，草帽小子。"
+    },
+    {
+     "id": "4883",
+     "defaultDialog": "那是…草帽小子！"
+    },
+    {
+     "id": "4884",
+     "defaultDialog": "闭嘴！太过愤怒，本王什么都听不进！！你竟敢把本王心爱之人打飞并按在地上！！！"
+    },
+    {
+     "id": "4885",
+     "defaultDialog": "呋呋呋呋……"
+    },
+    {
+     "id": "4886",
+     "defaultDialog": "对不起了红发…我绝不会手下留情的…"
+    },
+    {
+     "id": "4887",
+     "defaultDialog": "给我回到起点吧……"
+    },
+    {
+     "id": "4889",
+     "defaultDialog": "别碰到一个大将就停下脚步！！一起上吧！！！"
+    },
+    {
+     "id": "4890",
+     "defaultDialog": "甚平！！…大将出现了…可恶！！"
+    },
+    {
+     "id": "4891",
+     "defaultDialog": "初次见面，鹰眼米霍克，你知道我吗？"
+    },
+    {
+     "id": "4892",
+     "defaultDialog": "你的脑袋还在吧！艾斯！！"
+    },
+    {
+     "id": "4898",
+     "defaultDialog": "哼……"
+    },
+    {
+     "id": "4899",
+     "defaultDialog": "到此为止了！草帽小子！！！去死吧！！！"
+    },
+    {
+     "id": "4905",
+     "defaultDialog": "虽说你爷爷对我有恩…但是对不住了，这是你作为一个男人选择的死路。"
+    },
+    {
+     "id": "4907",
+     "defaultDialog": "别想通过这里！"
+    },
+    {
+     "id": "4908",
+     "defaultDialog": "草帽小子路飞…我鼯鼠，赌上海军中将之名，不会让你通过这里的！！！"
+    },
+    {
+     "id": "4910",
+     "defaultDialog": "嗯……光有胆量是没用的…草帽小子路飞"
+    },
+    {
+     "id": "4911",
+     "defaultDialog": "艾斯……！！！"
+    },
+    {
+     "id": "4912",
+     "defaultDialog": "抱歉，船医，无论如何都要保住他的性命！！"
+    },
+    {
+     "id": "4913",
+     "defaultDialog": "这太严重了…！！"
+    },
+    {
+     "id": "4914",
+     "defaultDialog": "……要是让你死掉我可就没脸见龙了，你这不懂事的笨蛋！！！"
+    },
+    {
+     "id": "4924",
+     "defaultDialog": "草帽小子……给我留下！"
+    },
+    {
+     "id": "4928",
+     "defaultDialog": "为了作为海军活下去……不战斗的话就不会有任何改变！！！这里是战场！！！"
+    },
+    {
+     "id": "4934",
+     "defaultDialog": "滚开，岩浆小鬼！！！"
+    },
+    {
+     "id": "4935",
+     "defaultDialog": "白胡子！！！岁月不饶人啊……！！！"
+    },
+    {
+     "id": "4936",
+     "defaultDialog": "海楼石！！"
+    },
+    {
+     "id": "4937",
+     "defaultDialog": "噢嚯…你大意了呢…"
+    },
+    {
+     "id": "4938",
+     "defaultDialog": "白胡子海盗团，溃不成军啊…"
+    },
+    {
+     "id": "4940",
+     "defaultDialog": "喂！！你究竟想干什么！！！"
+    },
+    {
+     "id": "4943",
+     "defaultDialog": "告诉你一件事吧……爱情总是如疾风骤雨！！！"
+    },
+    {
+     "id": "4945",
+     "defaultDialog": "我们要保护老爹的荣耀！！！"
+    },
+    {
+     "id": "4947",
+     "defaultDialog": "守护老爹！！！"
+    },
+    {
+     "id": "4948",
+     "defaultDialog": "啊啊啊！！！"
+    },
+    {
+     "id": "4997",
+     "defaultDialog": "这是社长命令，暂时先和海军为敌，快走！"
+    },
+    {
+     "id": "4998",
+     "defaultDialog": "马上就到处刑台了！！！草帽男孩！！！你只要笔直向前冲就好了！！！"
+    },
+    {
+     "id": "4999",
+     "defaultDialog": "路飞，冲吧！！"
+    },
+    {
+     "id": "5000",
+     "defaultDialog": "还能战斗吗，路飞！！！"
+    },
+    {
+     "id": "5001",
+     "defaultDialog": "那是当然！！！"
+    },
+    {
+     "id": "5013",
+     "defaultDialog": "别以为已经得救了！！！这里就是你们的刑场！！！"
+    },
+    {
+     "id": "5029",
+     "defaultDialog": "连明天的太阳都见不到了，还说什么总有一天…你们根本就不可能从这里逃出去…"
+    },
+    {
+     "id": "5030",
+     "defaultDialog": "往后退，路飞！"
+    },
+    {
+     "id": "5031",
+     "defaultDialog": "那家伙…！！"
+    },
+    {
+     "id": "5033",
+     "defaultDialog": "草帽男孩！！！你傻站着干嘛啊！！！"
+    },
+    {
+     "id": "5034",
+     "defaultDialog": "艾斯！！！走吧！！大叔已经做好心理准备了……！！！"
+    },
+    {
+     "id": "5041",
+     "defaultDialog": "你们两个！！只管朝着船跑过去！！！"
+    },
+    {
+     "id": "5042",
+     "defaultDialog": "白胡子说到底不过是…上个时代的失败者…！！！"
+    },
+    {
+     "id": "5044",
+     "defaultDialog": "他已经快死了！我们一起上！"
+    },
+    {
+     "id": "5050",
+     "defaultDialog": "失败者……给我收回刚才的话……！！！"
+    },
+    {
+     "id": "5052",
+     "defaultDialog": "噢噢噢噢噢噢噢！！！艾斯！！！"
+    },
+    {
+     "id": "5053",
+     "defaultDialog": "你们这些混蛋！！！我们可都等得不耐烦了！！！"
+    },
+    {
+     "id": "5067",
+     "defaultDialog": "艾…斯……"
+    },
+    {
+     "id": "5141",
+     "defaultDialog": "不知道才奇怪吧……"
+    },
+    {
+     "id": "5189",
+     "defaultDialog": "你看起来很强啊！"
+    },
+    {
+     "id": "5190",
+     "defaultDialog": "哦？不想加入吗？"
+    },
+    {
+     "id": "5193",
+     "defaultDialog": "给我点乐子吧！"
+    },
+    {
+     "id": "5194",
+     "defaultDialog": "敢拒绝我们，可不要后悔！"
+    },
+    {
+     "id": "5195",
+     "defaultDialog": "哼哼，还算有两下子嘛！"
+    },
+    {
+     "id": "5205",
+     "defaultDialog": "哈哈哈哈！真是愚蠢啊！！"
+    },
+    {
+     "id": "5207",
+     "defaultDialog": "下一个……就是你了，草帽小子！！！"
+    },
+    {
+     "id": "5208",
+     "defaultDialog": "……艾斯……"
+    },
+    {
+     "id": "5209",
+     "defaultDialog": "草帽男孩！！！"
+    },
+    {
+     "id": "5210",
+     "defaultDialog": "路飞！"
+    },
+    {
+     "id": "5211",
+     "defaultDialog": "赤犬！！！"
+    },
+    {
+     "id": "5213",
+     "defaultDialog": "肚子都被烧穿了…！！居然还有这么强的力量…！！！"
+    },
+    {
+     "id": "5244",
+     "defaultDialog": "啧哈哈哈哈！！！好久不见啊！！！"
+    },
+    {
+     "id": "5246",
+     "defaultDialog": "危险！船长！"
+    },
+    {
+     "id": "5247",
+     "defaultDialog": "喂哈哈哈哈哈！"
+    },
+    {
+     "id": "5248",
+     "defaultDialog": "你这个怪物！"
+    },
+    {
+     "id": "5249",
+     "defaultDialog": "海军！就让你们见识一下我的力量吧！"
+    },
+    {
+     "id": "5250",
+     "defaultDialog": "快让我们见识一下吧！船长！"
+    },
+    {
+     "id": "5251",
+     "defaultDialog": "看来准备得差不多了呢…"
+    },
+    {
+     "id": "5252",
+     "defaultDialog": "一旦失败我们几个就此解散吗？"
+    },
+    {
+     "id": "5254",
+     "defaultDialog": "要阻止他们才行！！"
+    },
+    {
+     "id": "5257",
+     "defaultDialog": "海盗休想逃离这里！！"
+    },
+    {
+     "id": "5263",
+     "defaultDialog": "哼！你们逃不掉的！"
+    },
+    {
+     "id": "5268",
+     "defaultDialog": "嘿嘿嘿，就要得手了！"
+    },
+    {
+     "id": "5270",
+     "defaultDialog": "必须立刻将海盗全部打败！！"
+    },
+    {
+     "id": "5274",
+     "defaultDialog": "啊啊啊啊不可饶恕！！"
+    },
+    {
+     "id": "5275",
+     "defaultDialog": "哼！还是要我亲自动手吗…"
+    },
+    {
+     "id": "5282",
+     "defaultDialog": "别想逃！！！！"
+    },
+    {
+     "id": "5283",
+     "defaultDialog": "让我来击败海盗们吧！"
+    },
+    {
+     "id": "5286",
+     "defaultDialog": "不能让海盗突破！继续攻击！！"
+    },
+    {
+     "id": "5290",
+     "defaultDialog": "有我在你们休想逃走！！"
+    },
+    {
+     "id": "5294",
+     "defaultDialog": "结束了！海盗们！！"
+    },
+    {
+     "id": "5297",
+     "defaultDialog": "戈普……！！！"
+    },
+    {
+     "id": "5298",
+     "defaultDialog": "老夫也是海军……！！我也有义务保护这玛丽弗德！！！"
+    },
+    {
+     "id": "5299",
+     "defaultDialog": "我要和你们几个分道扬镳了！混蛋！"
+    },
+    {
+     "id": "5300",
+     "defaultDialog": "巴奇船长他哭了……"
+    },
+    {
+     "id": "5301",
+     "defaultDialog": "您不知不觉在对手白胡子身上建立起了男人间的情谊啊！"
+    },
+    {
+     "id": "5307",
+     "defaultDialog": "路飞……！！！振作点啊…！！！千万不能死啊！！！"
+    },
+    {
+     "id": "5312",
+     "defaultDialog": "火拳艾斯已经不在了，白胡子也已经死了！本王最讨厌纠缠不清的男人！"
+    },
+    {
+     "id": "5322",
+     "defaultDialog": "海盗们要逃了！！"
+    },
+    {
+     "id": "5329",
+     "defaultDialog": "就让你们见识下海军的正义吧！"
+    },
+    {
+     "id": "5338",
+     "defaultDialog": "我说过不会让你们逃跑的……"
+    },
+    {
+     "id": "5339",
+     "defaultDialog": "海军的胜利必须是绝对的！"
+    },
+    {
+     "id": "5349",
+     "defaultDialog": "用我们正义的力量！剿灭他们！"
+    },
+    {
+     "id": "5354",
+     "defaultDialog": "正义必胜！！"
+    },
+    {
+     "id": "5358",
+     "defaultDialog": "海盗们别想活着逃出这里！"
+    },
+    {
+     "id": "5361",
+     "defaultDialog": "伊娃，让我也来助你一臂之力！！"
+    },
+    {
+     "id": "5362",
+     "defaultDialog": "让开，甚平！！！"
+    },
+    {
+     "id": "5363",
+     "defaultDialog": "到了海上就是老夫的领地了！！！"
+    },
+    {
+     "id": "5365",
+     "defaultDialog": "你好像已经无处可逃了！！！草帽小子路飞！！！"
+    },
+    {
+     "id": "5387",
+     "defaultDialog": "我是来……结束这场战争的。"
+    },
+    {
+     "id": "5389",
+     "defaultDialog": "艾斯！！！！"
+    },
+    {
+     "id": "5390",
+     "defaultDialog": "——很简单…伤口要是再裂开的话，就真的会没命的。"
+    },
+    {
+     "id": "5393",
+     "defaultDialog": "如果放任他这样不管，后果会怎么样…"
+    },
+    {
+     "id": "5394",
+     "defaultDialog": "不知道有没有母熊呢……"
+    },
+    {
+     "id": "5395",
+     "defaultDialog": "……路飞。"
+    },
+    {
+     "id": "5397",
+     "defaultDialog": "诶~~~~~~！！？雷利大叔！！？"
+    },
+    {
+     "id": "5398",
+     "defaultDialog": "冥王雷利……是本人吗……！！"
+    },
+    {
+     "id": "5399",
+     "defaultDialog": "路飞…你刚刚说你接下来要准备前往香波迪是吧。"
+    },
+    {
+     "id": "5400",
+     "defaultDialog": "连眼睛都不敢直视……"
+    },
+    {
+     "id": "5401",
+     "defaultDialog": "路飞~你醒了啊~~~妾身担心得一晚上都没睡着！"
+    },
+    {
+     "id": "5405",
+     "defaultDialog": "喂！！奈美，现在聚集多少人了？"
+    },
+    {
+     "id": "5406",
+     "defaultDialog": "大约100人吧…有3个海盗团已经整团纳入我们的麾下，悬赏犯共10人。"
+    },
+    {
+     "id": "5407",
+     "defaultDialog": "我们老大可是革命军龙的儿子！"
+    },
+    {
+     "id": "5408",
+     "defaultDialog": "这里就交给我…你，真是个有趣的女人。"
+    },
+    {
+     "id": "5409",
+     "defaultDialog": "这位小姐，愿意赏脸和我喝一杯吗？"
+    },
+    {
+     "id": "5420",
+     "defaultDialog": "撒谎布！好久不见！什么嘛~变得这么强壮了！"
+    },
+    {
+     "id": "5421",
+     "defaultDialog": "倒是你…比以前还波涛汹涌啊……"
+    },
+    {
+     "id": "5422",
+     "defaultDialog": "也就是说加上你，已经有7个人来岛上了。"
+    },
+    {
+     "id": "5423",
+     "defaultDialog": "真是了不起的一群人。"
+    },
+    {
+     "id": "5424",
+     "defaultDialog": "奈美小姐这两年不知道又汹涌了多少呀！❤"
+    },
+    {
+     "id": "5425",
+     "defaultDialog": "那是山智吗？"
+    },
+    {
+     "id": "5426",
+     "defaultDialog": "那个绿头发的小哥……"
+    },
+    {
+     "id": "5427",
+     "defaultDialog": "怎么了？"
+    },
+    {
+     "id": "5428",
+     "defaultDialog": "我……上错船了…"
+    },
+    {
+     "id": "5435",
+     "defaultDialog": "什么嘛，个头变大了呀！想必坐着也更舒服了吧！"
+    },
+    {
+     "id": "5436",
+     "defaultDialog": "罗宾有危险！"
+    },
+    {
+     "id": "5437",
+     "defaultDialog": "真的呢，摸起来比以前更软和了~"
+    },
+    {
+     "id": "5438",
+     "defaultDialog": "打扰你们重逢叙旧了，不过岛上出了点状况。"
+    },
+    {
+     "id": "5439",
+     "defaultDialog": "得快点了，海军已经近在眼前了。"
+    },
+    {
+     "id": "5440",
+     "defaultDialog": "这副身体真是酷毙了！"
+    },
+    {
+     "id": "5441",
+     "defaultDialog": "喀嚓…喀嚓…喀嚓……"
+    },
+    {
+     "id": "5442",
+     "defaultDialog": "雷利先生！芍奇！"
+    },
+    {
+     "id": "5443",
+     "defaultDialog": "你是机器人吧！能发射光波吗！"
+    },
+    {
+     "id": "5444",
+     "defaultDialog": "看起来很精神啊。"
+    },
+    {
+     "id": "5445",
+     "defaultDialog": "呦嚯嚯嚯嚯嚯~~~~~~~！！！"
+    },
+    {
+     "id": "5446",
+     "defaultDialog": "啊！？——好，一会儿，我就，砍了，你"
+    },
+    {
+     "id": "5447",
+     "defaultDialog": "你没听见吗！？就是说“海军”…“要来”“我们”“回船”…“开溜”，懂了吗？"
+    },
+    {
+     "id": "5448",
+     "defaultDialog": "侮辱了老子的犯人中的一个，这么快就已经找到了！就是这家伙！！"
+    },
+    {
+     "id": "5449",
+     "defaultDialog": "不妙啊船长！"
+    },
+    {
+     "id": "5451",
+     "defaultDialog": "这家伙搞什么呀…"
+    },
+    {
+     "id": "5452",
+     "defaultDialog": "好险！！干什么啊！！！"
+    },
+    {
+     "id": "5470",
+     "defaultDialog": "这可不行呀老大！！"
+    },
+    {
+     "id": "5471",
+     "defaultDialog": "草帽小子可不是像你这样的废物！！！"
+    },
+    {
+     "id": "5478",
+     "defaultDialog": "这次错不了！！好久不见啊两位！！"
+    },
+    {
+     "id": "5492",
+     "defaultDialog": "雷利，这两年真是多谢你了。"
+    },
+    {
+     "id": "5493",
+     "defaultDialog": "路飞抓紧时间，大家都在船上等着呢。"
+    },
+    {
+     "id": "5494",
+     "defaultDialog": "雷利，多谢你的关照！！"
+    },
+    {
+     "id": "5496",
+     "defaultDialog": "我徒弟要出航了，希望大家不要妨碍他…"
+    },
+    {
+     "id": "5507",
+     "defaultDialog": "找到了！他们在这儿！"
+    },
+    {
+     "id": "5515",
+     "defaultDialog": "真是的，还在这儿磨蹭呢！？"
+    },
+    {
+     "id": "5516",
+     "defaultDialog": "没见过的人？"
+    },
+    {
+     "id": "5517",
+     "defaultDialog": "我还想问你呢，怎么还在这儿！！"
+    },
+    {
+     "id": "5518",
+     "defaultDialog": "喂…！那好像是…！♡"
+    },
+    {
+     "id": "5520",
+     "defaultDialog": "喂！！！"
+    },
+    {
+     "id": "5521",
+     "defaultDialog": "我可是第一名。"
+    },
+    {
+     "id": "5522",
+     "defaultDialog": "奈美~~~罗宾~~~~"
+    },
+    {
+     "id": "5523",
+     "defaultDialog": "路飞！！！佐罗！！山智~~"
+    },
+    {
+     "id": "5524",
+     "defaultDialog": "终于来了。"
+    },
+    {
+     "id": "5525",
+     "defaultDialog": "喂！！"
+    },
+    {
+     "id": "5526",
+     "defaultDialog": "终于来了啊！"
+    },
+    {
+     "id": "5528",
+     "defaultDialog": "路飞先生！！我想死你了~~~~~~~！！"
+    },
+    {
+     "id": "5539",
+     "defaultDialog": "居然胆敢违抗路飞船长！"
+    },
+    {
+     "id": "5540",
+     "defaultDialog": "好想变成螨虫……"
+    },
+    {
+     "id": "5541",
+     "defaultDialog": "我不该出生……"
+    },
+    {
+     "id": "5542",
+     "defaultDialog": "好想变成海葵……"
+    },
+    {
+     "id": "5543",
+     "defaultDialog": "让我自生自灭吧……"
+    },
+    {
+     "id": "5544",
+     "defaultDialog": "呃……"
+    },
+    {
+     "id": "5545",
+     "defaultDialog": "我不配做人……"
+    },
+    {
+     "id": "5546",
+     "defaultDialog": "我还不如小强有用……"
+    },
+    {
+     "id": "5547",
+     "defaultDialog": "让我趴在这里做一个苔藓吧……"
+    },
+    {
+     "id": "5688",
+     "defaultDialog": "终于到了，鱼人岛！"
+    },
+    {
+     "id": "5689",
+     "defaultDialog": "是凯米救了我们啊。"
+    },
+    {
+     "id": "5690",
+     "defaultDialog": "不知道其他人怎么样了。"
+    },
+    {
+     "id": "5691",
+     "defaultDialog": "人鱼啊，我来了！"
+    },
+    {
+     "id": "5692",
+     "defaultDialog": "好久不见！"
+    },
+    {
+     "id": "5693",
+     "defaultDialog": "欢迎！"
+    },
+    {
+     "id": "5694",
+     "defaultDialog": "我们很欢迎海贼喔！"
+    },
+    {
+     "id": "5695",
+     "defaultDialog": "来一起玩耍吧！"
+    },
+    {
+     "id": "5696",
+     "defaultDialog": "你会游泳吗？"
+    },
+    {
+     "id": "5697",
+     "defaultDialog": "欢迎你们！"
+    },
+    {
+     "id": "5698",
+     "defaultDialog": "真是梦幻的岛屿……"
+    },
+    {
+     "id": "5699",
+     "defaultDialog": "真开心啊~"
+    },
+    {
+     "id": "5700",
+     "defaultDialog": "这里就是我的all blue！"
+    },
+    {
+     "id": "5701",
+     "defaultDialog": "山智的状况真是让人担心啊……"
+    },
+    {
+     "id": "5702",
+     "defaultDialog": "我有非见不可的人！"
+    },
+    {
+     "id": "5703",
+     "defaultDialog": "我……已经没有遗憾了。"
+    },
+    {
+     "id": "5704",
+     "defaultDialog": "不愧是……"
+    },
+    {
+     "id": "5718",
+     "defaultDialog": "别惺惺作态了！"
+    },
+    {
+     "id": "5719",
+     "defaultDialog": "人鱼是我的财产！"
+    },
+    {
+     "id": "5723",
+     "defaultDialog": "多管闲事是需要付出代价的！"
+    },
+    {
+     "id": "5724",
+     "defaultDialog": "谁也别想阻挡我们出海！"
+    },
+    {
+     "id": "5725",
+     "defaultDialog": "就让我试试你的实力吧。"
+    },
+    {
+     "id": "5726",
+     "defaultDialog": "我可不会放水喔？"
+    },
+    {
+     "id": "5729",
+     "defaultDialog": "我终于自由啦！"
+    },
+    {
+     "id": "5730",
+     "defaultDialog": "那就先解决你！"
+    },
+    {
+     "id": "5731",
+     "defaultDialog": "别以为我和那些笨蛋一样……"
+    },
+    {
+     "id": "5732",
+     "defaultDialog": "今天就是你的死期！"
+    },
+    {
+     "id": "5733",
+     "defaultDialog": "如果能击败我的话，听你的劝告也未尝不可。"
+    },
+    {
+     "id": "5736",
+     "defaultDialog": "我才不知道什么霸王餐！"
+    },
+    {
+     "id": "5738",
+     "defaultDialog": "你会后悔多管闲事的。"
+    },
+    {
+     "id": "5739",
+     "defaultDialog": "我就代替首领教训教训你！"
+    },
+    {
+     "id": "5740",
+     "defaultDialog": "混蛋，别想阻止我们的霸王餐人生！"
+    },
+    {
+     "id": "5745",
+     "defaultDialog": "你是不是真的有那个实力，让我看看吧！"
+    },
+    {
+     "id": "5755",
+     "defaultDialog": "我说了，不会加入你们的吧！"
+    },
+    {
+     "id": "5756",
+     "defaultDialog": "占卜…未来什么的，不知道更好…"
+    },
+    {
+     "id": "5757",
+     "defaultDialog": "幸好遇到了献血的好心人……"
+    },
+    {
+     "id": "5758",
+     "defaultDialog": "柔软的触感……"
+    },
+    {
+     "id": "5759",
+     "defaultDialog": "这家伙真是没救了……"
+    },
+    {
+     "id": "5760",
+     "defaultDialog": "山智没事吧？"
+    },
+    {
+     "id": "5761",
+     "defaultDialog": "希望能找到献血的人！"
+    },
+    {
+     "id": "5762",
+     "defaultDialog": "要快点去给帕帕格送蛤蜊！"
+    },
+    {
+     "id": "5763",
+     "defaultDialog": "巨型人鱼！"
+    },
+    {
+     "id": "5764",
+     "defaultDialog": "山智那家伙真是让人担心。"
+    },
+    {
+     "id": "5766",
+     "defaultDialog": "要再来噢！"
+    },
+    {
+     "id": "5767",
+     "defaultDialog": "不要忘记我啊~~~"
+    },
+    {
+     "id": "5768",
+     "defaultDialog": "我好想你们啊！"
+    },
+    {
+     "id": "5769",
+     "defaultDialog": "太好了——"
+    },
+    {
+     "id": "5770",
+     "defaultDialog": "蛤蜊不就是贝类吗！？"
+    },
+    {
+     "id": "5771",
+     "defaultDialog": "我要吃肉！"
+    },
+    {
+     "id": "5772",
+     "defaultDialog": "好大的房子！"
+    },
+    {
+     "id": "5773",
+     "defaultDialog": "明明只是海星！！"
+    },
+    {
+     "id": "5774",
+     "defaultDialog": "哟嚯嚯嚯~~"
+    },
+    {
+     "id": "5775",
+     "defaultDialog": "这里就是帕帕格的家！"
+    },
+    {
+     "id": "5776",
+     "defaultDialog": "嚯嚯嚯，吓一跳吧！"
+    },
+    {
+     "id": "5777",
+     "defaultDialog": "今天的客人真难缠啊。"
+    },
+    {
+     "id": "5778",
+     "defaultDialog": "这家店是不是太贵了啊！"
+    },
+    {
+     "id": "5779",
+     "defaultDialog": "尼~~~普~~~~~顿！！！"
+    },
+    {
+     "id": "5782",
+     "defaultDialog": "嘿嘿嘿，这里真是我的宝岛。"
+    },
+    {
+     "id": "5783",
+     "defaultDialog": "快逃！"
+    },
+    {
+     "id": "5784",
+     "defaultDialog": "救救我！！"
+    },
+    {
+     "id": "5785",
+     "defaultDialog": "海之森的话……是这个方向吧……"
+    },
+    {
+     "id": "5786",
+     "defaultDialog": "草帽小子……快离开鱼人岛！"
+    },
+    {
+     "id": "5787",
+     "defaultDialog": "小八，你的伤！"
+    },
+    {
+     "id": "5788",
+     "defaultDialog": "到底是怎么回事。"
+    },
+    {
+     "id": "5789",
+     "defaultDialog": "路飞大人……"
+    },
+    {
+     "id": "5791",
+     "defaultDialog": "不要逃，胆小鬼！！"
+    },
+    {
+     "id": "5792",
+     "defaultDialog": "白星，你是我的！！"
+    },
+    {
+     "id": "5802",
+     "defaultDialog": "话说为什么会突然要抓我们啊。"
+    },
+    {
+     "id": "5803",
+     "defaultDialog": "结果还是把全员都打倒了……"
+    },
+    {
+     "id": "5808",
+     "defaultDialog": "这里是我的城堡！"
+    },
+    {
+     "id": "5809",
+     "defaultDialog": "真厉害啊！！"
+    },
+    {
+     "id": "5810",
+     "defaultDialog": "好壮观！"
+    },
+    {
+     "id": "5811",
+     "defaultDialog": "一定有很多宝藏吧！"
+    },
+    {
+     "id": "5812",
+     "defaultDialog": "哟嚯嚯嚯，要开宴会了吗？"
+    },
+    {
+     "id": "5813",
+     "defaultDialog": "这里就是龙宫城……"
+    },
+    {
+     "id": "5814",
+     "defaultDialog": "神的领域……！"
+    },
+    {
+     "id": "5840",
+     "defaultDialog": "白星公主呢？"
+    },
+    {
+     "id": "5841",
+     "defaultDialog": "陛下，鲛星王子有联络说……"
+    },
+    {
+     "id": "5842",
+     "defaultDialog": "是去硬壳塔巡逻的时间了。"
+    },
+    {
+     "id": "5848",
+     "defaultDialog": "记录指针的状态很奇怪啊！"
+    },
+    {
+     "id": "5849",
+     "defaultDialog": "又卷进了什么糟糕的事情里吗？"
+    },
+    {
+     "id": "5850",
+     "defaultDialog": "肚子饿了。"
+    },
+    {
+     "id": "5851",
+     "defaultDialog": "现在该怎么办……"
+    },
+    {
+     "id": "5852",
+     "defaultDialog": "你们都做了什么啊……"
+    },
+    {
+     "id": "5853",
+     "defaultDialog": "海水里混着料理的味道。"
+    },
+    {
+     "id": "5865",
+     "defaultDialog": "就是他们绑架了人鱼们！"
+    },
+    {
+     "id": "5866",
+     "defaultDialog": "我就知道肯定是他们"
+    },
+    {
+     "id": "5868",
+     "defaultDialog": "他们的老大不见了！"
+    },
+    {
+     "id": "5869",
+     "defaultDialog": "他们的老大肯定是偷偷溜走了！"
+    },
+    {
+     "id": "5871",
+     "defaultDialog": "等查明真相，我一定会释放你们。但现在……"
+    },
+    {
+     "id": "5872",
+     "defaultDialog": "我听到祭典的号子了。"
+    },
+    {
+     "id": "5873",
+     "defaultDialog": "年纪大了……我的腰……"
+    },
+    {
+     "id": "5881",
+     "defaultDialog": "尼普顿陛下……"
+    },
+    {
+     "id": "5882",
+     "defaultDialog": "你们这些危险分子！"
+    },
+    {
+     "id": "5885",
+     "defaultDialog": "只能奉陪到底了。"
+    },
+    {
+     "id": "5886",
+     "defaultDialog": "这群家伙怎么回事！"
+    },
+    {
+     "id": "5887",
+     "defaultDialog": "接连不断的……"
+    },
+    {
+     "id": "5888",
+     "defaultDialog": "为什么我们总是被卷入这种是非中心啊…"
+    },
+    {
+     "id": "5889",
+     "defaultDialog": "超糟糕啊这种状况！"
+    },
+    {
+     "id": "5890",
+     "defaultDialog": "你们把我也绑起来吧……"
+    },
+    {
+     "id": "5893",
+     "defaultDialog": "反正回去也是死！"
+    },
+    {
+     "id": "5894",
+     "defaultDialog": "这些该死的鱼人！"
+    },
+    {
+     "id": "5895",
+     "defaultDialog": "我受够了啊！"
+    },
+    {
+     "id": "5896",
+     "defaultDialog": "你们快让开！！"
+    },
+    {
+     "id": "5897",
+     "defaultDialog": "大门……大门的控制器到底在哪……"
+    },
+    {
+     "id": "5898",
+     "defaultDialog": "他们是……"
+    },
+    {
+     "id": "5899",
+     "defaultDialog": "好痛……"
+    },
+    {
+     "id": "5915",
+     "defaultDialog": "真是一份大礼啊。"
+    },
+    {
+     "id": "5916",
+     "defaultDialog": "白星公主呢！"
+    },
+    {
+     "id": "5917",
+     "defaultDialog": "杀了他们！"
+    },
+    {
+     "id": "5922",
+     "defaultDialog": "竟然都已经被捆住了"
+    },
+    {
+     "id": "5931",
+     "defaultDialog": "老夫罪孽深重……"
+    },
+    {
+     "id": "5934",
+     "defaultDialog": "甚平，你要是有什么想辩解的，我们洗耳恭听。"
+    },
+    {
+     "id": "5935",
+     "defaultDialog": "奈美亲……"
+    },
+    {
+     "id": "5936",
+     "defaultDialog": "甚平老大……"
+    },
+    {
+     "id": "5937",
+     "defaultDialog": "伤已经没事了吧。"
+    },
+    {
+     "id": "5938",
+     "defaultDialog": "母后……"
+    },
+    {
+     "id": "5940",
+     "defaultDialog": "真是催人泪下！"
+    },
+    {
+     "id": "5941",
+     "defaultDialog": "太美了……"
+    },
+    {
+     "id": "5942",
+     "defaultDialog": "真是怀念啊！"
+    },
+    {
+     "id": "5944",
+     "defaultDialog": "别碍事！"
+    },
+    {
+     "id": "5945",
+     "defaultDialog": "你这不讲道理的小子！"
+    },
+    {
+     "id": "5946",
+     "defaultDialog": "禁止打架——"
+    },
+    {
+     "id": "5968",
+     "defaultDialog": "啊…啊…不能这样下去…啊…哈…"
+    },
+    {
+     "id": "6116",
+     "defaultDialog": "这里有数不清的敌人等着你来挑战。"
+    },
+    {
+     "id": "6123",
+     "defaultDialog": "炮击部队！瞄准白星！"
+    },
+    {
+     "id": "6124",
+     "defaultDialog": "老板，要一碟芥末章鱼，嗝……"
+    },
+    {
+     "id": "6125",
+     "defaultDialog": "不知道草帽小子他们躲在哪里。"
+    },
+    {
+     "id": "6126",
+     "defaultDialog": "哼哼，鱼人岛马上就要重生了。"
+    },
+    {
+     "id": "6127",
+     "defaultDialog": "一定要把父王救出来。"
+    },
+    {
+     "id": "6139",
+     "defaultDialog": "可恶的霍迪……"
+    },
+    {
+     "id": "6140",
+     "defaultDialog": "清点士兵，马上出发。"
+    },
+    {
+     "id": "6155",
+     "defaultDialog": "我愿意为了路飞成为真正的怪物。"
+    },
+    {
+     "id": "6156",
+     "defaultDialog": "比挖地的话，我也不会输。"
+    },
+    {
+     "id": "6157",
+     "defaultDialog": "父王……"
+    },
+    {
+     "id": "6158",
+     "defaultDialog": "白星公主，这一定是陷阱。"
+    },
+    {
+     "id": "6163",
+     "defaultDialog": "霍迪，你到底想做什么！"
+    },
+    {
+     "id": "6174",
+     "defaultDialog": "路飞大人！请救救我的父王！！！"
+    },
+    {
+     "id": "6178",
+     "defaultDialog": "路飞大人，好厉害……"
+    },
+    {
+     "id": "6190",
+     "defaultDialog": "如果不能把妈妈最爱的点心带回去……"
+    },
+    {
+     "id": "6191",
+     "defaultDialog": "原本应该有十吨点心……"
+    },
+    {
+     "id": "6213",
+     "defaultDialog": "混蛋，你想做什么！！"
+    },
+    {
+     "id": "6232",
+     "defaultDialog": "可恶，他们果然来了。"
+    },
+    {
+     "id": "6233",
+     "defaultDialog": "把鱼人岛最强的剑士给我叫来！"
+    },
+    {
+     "id": "6234",
+     "defaultDialog": "我绝不会让你们伤害白星！"
+    },
+    {
+     "id": "6235",
+     "defaultDialog": "不能放过白星公主！"
+    },
+    {
+     "id": "6236",
+     "defaultDialog": "哟嚯嚯嚯~可不能让你们伤害人鱼公主。"
+    },
+    {
+     "id": "6237",
+     "defaultDialog": "真是过分啊。"
+    },
+    {
+     "id": "6238",
+     "defaultDialog": "super！弗兰奇将军！！"
+    },
+    {
+     "id": "6239",
+     "defaultDialog": "好帅啊弗兰奇将军！我也不能输！！"
+    },
+    {
+     "id": "6240",
+     "defaultDialog": "说人家弱什么的，我只是讨厌战斗。"
+    },
+    {
+     "id": "6241",
+     "defaultDialog": "勇敢的海上战士，绝不逃跑！"
+    },
+    {
+     "id": "6257",
+     "defaultDialog": "挖好陷阱，就是我的胜利！"
+    },
+    {
+     "id": "6258",
+     "defaultDialog": "霍迪，我一定要将你打飞！！"
+    },
+    {
+     "id": "6261",
+     "defaultDialog": "……太、太厉害了！"
+    },
+    {
+     "id": "6264",
+     "defaultDialog": "别想靠近！"
+    },
+    {
+     "id": "6265",
+     "defaultDialog": "草帽小子……！"
+    },
+    {
+     "id": "6286",
+     "defaultDialog": "我们拥有上天赐予的力量。受死吧，草帽小子！"
+    },
+    {
+     "id": "6287",
+     "defaultDialog": "我会保护好所有人！！"
+    },
+    {
+     "id": "6288",
+     "defaultDialog": "霍迪，你为什么就是不明白！！"
+    },
+    {
+     "id": "6294",
+     "defaultDialog": "想伤害公主，先问过老朽。"
+    },
+    {
+     "id": "6295",
+     "defaultDialog": "突然变得好巨大……！但我的力量，不会输的。"
+    },
+    {
+     "id": "6296",
+     "defaultDialog": "想砍更多东西……！"
+    },
+    {
+     "id": "6297",
+     "defaultDialog": "你太弱了！"
+    },
+    {
+     "id": "6298",
+     "defaultDialog": "黄泉之路风起！"
+    },
+    {
+     "id": "6299",
+     "defaultDialog": "不要来碍事……！"
+    },
+    {
+     "id": "6300",
+     "defaultDialog": "蠢货！吃我这招！"
+    },
+    {
+     "id": "6303",
+     "defaultDialog": "不要小看科学的力量喔♡"
+    },
+    {
+     "id": "6304",
+     "defaultDialog": "弗兰奇将军——！"
+    },
+    {
+     "id": "6306",
+     "defaultDialog": "只能上了！"
+    },
+    {
+     "id": "6307",
+     "defaultDialog": "在地下我不会输给任何人！"
+    },
+    {
+     "id": "6308",
+     "defaultDialog": "现在不是顾及那些的时候。"
+    },
+    {
+     "id": "6309",
+     "defaultDialog": "我无法拒绝帅哥的请求。"
+    },
+    {
+     "id": "6311",
+     "defaultDialog": "草帽一伙是被冤枉的啊……"
+    },
+    {
+     "id": "6312",
+     "defaultDialog": "虽然事已至此，但我们要还他们清白。"
+    },
+    {
+     "id": "6320",
+     "defaultDialog": "真是让人担心啊。"
+    },
+    {
+     "id": "6321",
+     "defaultDialog": "我来帮忙吧。"
+    },
+    {
+     "id": "6322",
+     "defaultDialog": "我们中除了路飞没有人是F型血吧。"
+    },
+    {
+     "id": "6323",
+     "defaultDialog": "甚平~！"
+    },
+    {
+     "id": "6324",
+     "defaultDialog": "什么时候才能让人省心啊。"
+    },
+    {
+     "id": "6325",
+     "defaultDialog": "广场中一定有人是吧？"
+    },
+    {
+     "id": "6326",
+     "defaultDialog": "一个都没有吗？"
+    },
+    {
+     "id": "6334",
+     "defaultDialog": "太好了！"
+    },
+    {
+     "id": "6335",
+     "defaultDialog": "甚平，做我的伙伴吧！"
+    },
+    {
+     "id": "6336",
+     "defaultDialog": "路飞，你能邀请我我很高兴……"
+    },
+    {
+     "id": "6337",
+     "defaultDialog": "前七武海做我们的伙伴，太让人安心了。"
+    },
+    {
+     "id": "6339",
+     "defaultDialog": "我的心里真的只有我过世的妻子……"
+    },
+    {
+     "id": "6340",
+     "defaultDialog": "终于找到单独见面的机会了。"
+    },
+    {
+     "id": "6363",
+     "defaultDialog": "什么，现在要交出十吨点心……"
+    },
+    {
+     "id": "6364",
+     "defaultDialog": "大妈的使者已经到工厂了吗？"
+    },
+    {
+     "id": "6365",
+     "defaultDialog": "财宝都能给我们的话……！"
+    },
+    {
+     "id": "6366",
+     "defaultDialog": "两年间居然发生了这样的事……"
+    },
+    {
+     "id": "6367",
+     "defaultDialog": "好像有什么呢……"
+    },
+    {
+     "id": "6368",
+     "defaultDialog": "确实有猛兽的气息呢。"
+    },
+    {
+     "id": "6369",
+     "defaultDialog": "这还真是令人担忧啊。"
+    },
+    {
+     "id": "6370",
+     "defaultDialog": "他们察觉到什么了呢。"
+    },
+    {
+     "id": "6371",
+     "defaultDialog": "大将可是被海军最高战力的存在啊……"
+    },
+    {
+     "id": "6372",
+     "defaultDialog": "这下我危险了！"
+    },
+    {
+     "id": "6373",
+     "defaultDialog": "不管来什么都打飞出去~~"
+    },
+    {
+     "id": "6378",
+     "defaultDialog": "能否宽限些时日……"
+    },
+    {
+     "id": "6379",
+     "defaultDialog": "我要把鱼人岛变成我的地盘！"
+    },
+    {
+     "id": "6380",
+     "defaultDialog": "喂喂，大妈，是怎样的女性呢？"
+    },
+    {
+     "id": "6381",
+     "defaultDialog": "金蛋也太小了！"
+    },
+    {
+     "id": "6397",
+     "defaultDialog": "我们约好了啊，路飞大人，大家——"
+    },
+    {
+     "id": "6401",
+     "defaultDialog": "嗯，此番真的多谢你们。"
+    },
+    {
+     "id": "6402",
+     "defaultDialog": "真受不了你们啊，这是在新世界使用的指针。"
+    },
+    {
+     "id": "6403",
+     "defaultDialog": "新的指针……"
+    },
+    {
+     "id": "6404",
+     "defaultDialog": "胆小星，你还真是爱哭啊。"
+    },
+    {
+     "id": "6423",
+     "defaultDialog": "真的不能多留一段时间吗，大家，呜呜呜呜~"
+    },
+    {
+     "id": "6437",
+     "defaultDialog": "胆小星那家伙在哪里啊？？"
+    },
+    {
+     "id": "6444",
+     "defaultDialog": "下次见面我会变得更勇敢！"
+    },
+    {
+     "id": "6465",
+     "defaultDialog": "炮击部队，攻击！"
+    },
+    {
+     "id": "6601",
+     "defaultDialog": "火山喷发啦~~！！好厉害~~~！！！"
+    },
+    {
+     "id": "6603",
+     "defaultDialog": "好厉害！出现了一条云道！！"
+    },
+    {
+     "id": "6604",
+     "defaultDialog": "新世界好恐怖"
+    },
+    {
+     "id": "6606",
+     "defaultDialog": "武士……"
+    },
+    {
+     "id": "6607",
+     "defaultDialog": "天气真的太恶劣了吧！！"
+    },
+    {
+     "id": "6608",
+     "defaultDialog": "不知道能不能用火海烤点什么……"
+    },
+    {
+     "id": "6610",
+     "defaultDialog": "没错！这里就是班克禁区！！"
+    },
+    {
+     "id": "6612",
+     "defaultDialog": "紧急信号是从这里发出来的吗……"
+    },
+    {
+     "id": "6613",
+     "defaultDialog": "肚子好痛啊……等等我啊！！"
+    },
+    {
+     "id": "6614",
+     "defaultDialog": "你是什么人。"
+    },
+    {
+     "id": "6621",
+     "defaultDialog": "我在做梦吗……"
+    },
+    {
+     "id": "6622",
+     "defaultDialog": "虽然难以置信，但真的是巨龙吗？"
+    },
+    {
+     "id": "6623",
+     "defaultDialog": "帅呆了！！！"
+    },
+    {
+     "id": "6624",
+     "defaultDialog": "这种生物不可能存在呀！！！"
+    },
+    {
+     "id": "6625",
+     "defaultDialog": "这家伙居然如此完美地扎在龙身上。"
+    },
+    {
+     "id": "6627",
+     "defaultDialog": "果然那座岛的天空被分为两种。"
+    },
+    {
+     "id": "6628",
+     "defaultDialog": "希望路飞他们没有被融化。"
+    },
+    {
+     "id": "6630",
+     "defaultDialog": "好热……想象成蒸桑拿就舒坦了……"
+    },
+    {
+     "id": "6632",
+     "defaultDialog": "好热……好想吃刨冰啊！"
+    },
+    {
+     "id": "6634",
+     "defaultDialog": "对面的山还在下雪吧。"
+    },
+    {
+     "id": "6636",
+     "defaultDialog": "去死吧！！入侵者！！"
+    },
+    {
+     "id": "6637",
+     "defaultDialog": "真是的……难得成为朋友。"
+    },
+    {
+     "id": "6638",
+     "defaultDialog": "干脆游过去吧！"
+    },
+    {
+     "id": "6639",
+     "defaultDialog": "不知道雪山有没有卖冬天的衣服……"
+    },
+    {
+     "id": "6640",
+     "defaultDialog": "不开玩笑……这样去对岸真的会冻死……"
+    },
+    {
+     "id": "6641",
+     "defaultDialog": "好可怕！！！这到底是怎么一回事啊！！"
+    },
+    {
+     "id": "6642",
+     "defaultDialog": "这家伙果然还是要成为我的同伴吗？"
+    },
+    {
+     "id": "6644",
+     "defaultDialog": "他们的衣服看起来很保暖啊……"
+    },
+    {
+     "id": "6646",
+     "defaultDialog": "总之还是要消除误会啊……"
+    },
+    {
+     "id": "6647",
+     "defaultDialog": "哼！入侵者！！"
+    },
+    {
+     "id": "6648",
+     "defaultDialog": "不能对我的同伴出手！！"
+    },
+    {
+     "id": "6652",
+     "defaultDialog": "那家伙是和之国的武士……"
+    },
+    {
+     "id": "6653",
+     "defaultDialog": "快点！追兵要来了！"
+    },
+    {
+     "id": "6654",
+     "defaultDialog": "快走吧！"
+    },
+    {
+     "id": "6655",
+     "defaultDialog": "只有头也能生存吗……"
+    },
+    {
+     "id": "6657",
+     "defaultDialog": "他们是怎么逃出来的！！"
+    },
+    {
+     "id": "6659",
+     "defaultDialog": "那不是抓来的海贼吗！"
+    },
+    {
+     "id": "6660",
+     "defaultDialog": "由我来阻挡！"
+    },
+    {
+     "id": "6661",
+     "defaultDialog": "弗兰奇那奇怪身体不是盖的啊！"
+    },
+    {
+     "id": "6662",
+     "defaultDialog": "好可怕……"
+    },
+    {
+     "id": "6664",
+     "defaultDialog": "就是刚才的海贼！！"
+    },
+    {
+     "id": "6666",
+     "defaultDialog": "不能让他们跑了！！！"
+    },
+    {
+     "id": "6667",
+     "defaultDialog": "不会让你们逃走的！！"
+    },
+    {
+     "id": "6668",
+     "defaultDialog": "机器人真有趣！！"
+    },
+    {
+     "id": "6669",
+     "defaultDialog": "狸猫布娃娃好可爱！！"
+    },
+    {
+     "id": "6670",
+     "defaultDialog": "这座岛真是越来越神秘了。"
+    },
+    {
+     "id": "6671",
+     "defaultDialog": "是小狸猫！！"
+    },
+    {
+     "id": "6672",
+     "defaultDialog": "是机器人！！"
+    },
+    {
+     "id": "6673",
+     "defaultDialog": "冰冻的人是怎么回事……"
+    },
+    {
+     "id": "6674",
+     "defaultDialog": "都说了我是驯鹿！！"
+    },
+    {
+     "id": "6675",
+     "defaultDialog": "有种不好的预感是怎么回事……"
+    },
+    {
+     "id": "6676",
+     "defaultDialog": "小鬼太碍事了！！！"
+    },
+    {
+     "id": "6678",
+     "defaultDialog": "可恶的海贼！"
+    },
+    {
+     "id": "6679",
+     "defaultDialog": "打到孩子的话……主人会生气的……"
+    },
+    {
+     "id": "6681",
+     "defaultDialog": "真是只对…只对孩子温柔的奈美小姐好棒！"
+    },
+    {
+     "id": "6682",
+     "defaultDialog": "我怎么能丢下我装甲弗兰奇的粉丝不管！！"
+    },
+    {
+     "id": "6684",
+     "defaultDialog": "姐姐……"
+    },
+    {
+     "id": "6685",
+     "defaultDialog": "好想见爸爸妈妈啊……"
+    },
+    {
+     "id": "6686",
+     "defaultDialog": "骨碌骨碌眉毛哥哥。"
+    },
+    {
+     "id": "6688",
+     "defaultDialog": "我是一个男人！！我要加油！！！"
+    },
+    {
+     "id": "6689",
+     "defaultDialog": "话说孩子们得了什么病啊……"
+    },
+    {
+     "id": "6690",
+     "defaultDialog": "爸爸妈妈……"
+    },
+    {
+     "id": "6694",
+     "defaultDialog": "被冻住的人……好可怕……"
+    },
+    {
+     "id": "6695",
+     "defaultDialog": "好可怕……不要进去！"
+    },
+    {
+     "id": "6696",
+     "defaultDialog": "可怕……"
+    },
+    {
+     "id": "6697",
+     "defaultDialog": "不想进去……"
+    },
+    {
+     "id": "6702",
+     "defaultDialog": "居然是……王下七武海。"
+    },
+    {
+     "id": "6705",
+     "defaultDialog": "可以见到爸爸妈妈了！！"
+    },
+    {
+     "id": "6708",
+     "defaultDialog": "终于逃出去了！！"
+    },
+    {
+     "id": "6709",
+     "defaultDialog": "就要出去了！！"
+    },
+    {
+     "id": "6731",
+     "defaultDialog": "怎么会遇到海军！"
+    },
+    {
+     "id": "6736",
+     "defaultDialog": "谁也别想逃走"
+    },
+    {
+     "id": "6738",
+     "defaultDialog": "可…可恶……"
+    },
+    {
+     "id": "6760",
+     "defaultDialog": "主人~~~~~~！！！"
+    },
+    {
+     "id": "6761",
+     "defaultDialog": "咻喽喽喽喽！！乖孩子们！！！"
+    },
+    {
+     "id": "6775",
+     "defaultDialog": "入侵者！在这边！！"
+    },
+    {
+     "id": "6776",
+     "defaultDialog": "怎么有种不好的预感……"
+    },
+    {
+     "id": "6777",
+     "defaultDialog": "你们这些家伙是强盗吗！！！"
+    },
+    {
+     "id": "6813",
+     "defaultDialog": "到底是什么家伙！！"
+    },
+    {
+     "id": "6832",
+     "defaultDialog": "路飞绝对不会放过你们的！！"
+    },
+    {
+     "id": "6836",
+     "defaultDialog": "哇啊啊啊啊他们是怎么跑出来的！！"
+    },
+    {
+     "id": "6838",
+     "defaultDialog": "和老大失去联系了，去前面的山洞看看吧。"
+    },
+    {
+     "id": "6839",
+     "defaultDialog": "你们怎么到这里的？！"
+    },
+    {
+     "id": "6840",
+     "defaultDialog": "伙伴走失了，得快去找他。"
+    },
+    {
+     "id": "6841",
+     "defaultDialog": "海贼们！你们逃不掉了！！"
+    },
+    {
+     "id": "6842",
+     "defaultDialog": "可恶！上一个人被打败了吗"
+    },
+    {
+     "id": "6843",
+     "defaultDialog": "可恶,伙伴们被一个接一个的打败了……"
+    },
+    {
+     "id": "6858",
+     "defaultDialog": "啊啊啊啊不要过来！"
+    },
+    {
+     "id": "6859",
+     "defaultDialog": "谁都好，快来救救我们吧！！"
+    },
+    {
+     "id": "6861",
+     "defaultDialog": "最强右手！！！！"
+    },
+    {
+     "id": "6864",
+     "defaultDialog": "草帽小子！不会让你放肆的！！"
+    },
+    {
+     "id": "6875",
+     "defaultDialog": "咻喽喽喽喽……"
+    },
+    {
+     "id": "6876",
+     "defaultDialog": "我是不会丢下同伴的！"
+    },
+    {
+     "id": "6877",
+     "defaultDialog": "谢谢你！！"
+    },
+    {
+     "id": "6879",
+     "defaultDialog": "不要跑！站住不要动！！"
+    },
+    {
+     "id": "6880",
+     "defaultDialog": "我好想爸爸妈妈啊！"
+    },
+    {
+     "id": "6881",
+     "defaultDialog": "为了回家我一定要鼓起勇气！"
+    },
+    {
+     "id": "6882",
+     "defaultDialog": "我们以后，究竟会怎样呢……"
+    },
+    {
+     "id": "6883",
+     "defaultDialog": "希望以后会好起来……"
+    },
+    {
+     "id": "6884",
+     "defaultDialog": "感觉自己的好运都用光了"
+    },
+    {
+     "id": "6885",
+     "defaultDialog": "为了孩子们！"
+    },
+    {
+     "id": "6890",
+     "defaultDialog": "在下故乡乃和之国的九里……"
+    },
+    {
+     "id": "6892",
+     "defaultDialog": "可恶……这么残忍的事情！！"
+    },
+    {
+     "id": "6893",
+     "defaultDialog": "给我糖果！！！！"
+    },
+    {
+     "id": "6935",
+     "defaultDialog": "现在这个样子真是武士的耻辱！！！"
+    },
+    {
+     "id": "6938",
+     "defaultDialog": "这些小鬼是怎么回事……"
+    },
+    {
+     "id": "6939",
+     "defaultDialog": "这些家伙身手真是厉害。"
+    },
+    {
+     "id": "7060",
+     "defaultDialog": "我该不会要死在这里了吧……"
+    },
+    {
+     "id": "7061",
+     "defaultDialog": "大佐妹妹……快来救我……"
+    },
+    {
+     "id": "7141",
+     "defaultDialog": "现在不是和他们战斗的时候！"
+    },
+    {
+     "id": "7160",
+     "defaultDialog": "快从维尔高身边离开！"
+    },
+    {
+     "id": "7167",
+     "defaultDialog": "呜……"
+    },
+    {
+     "id": "7188",
+     "defaultDialog": "可恶的龙！！！"
+    },
+    {
+     "id": "7189",
+     "defaultDialog": "讨厌啊这个家伙！"
+    },
+    {
+     "id": "7190",
+     "defaultDialog": "啊啊啊怎么办，快阻止它！"
+    },
+    {
+     "id": "7191",
+     "defaultDialog": "让它到处破坏的话毒气马上就会充满了。"
+    },
+    {
+     "id": "7194",
+     "defaultDialog": "终于上来了！"
+    },
+    {
+     "id": "7195",
+     "defaultDialog": "跟紧我，桃子！"
+    },
+    {
+     "id": "7201",
+     "defaultDialog": "哥哥姐姐，救救我！"
+    },
+    {
+     "id": "7212",
+     "defaultDialog": "快停下，你们不能吃那些糖果！"
+    },
+    {
+     "id": "7237",
+     "defaultDialog": "独占糖果可不是好孩子喔。"
+    },
+    {
+     "id": "7250",
+     "defaultDialog": "我留在这里是有原因的。"
+    },
+    {
+     "id": "7251",
+     "defaultDialog": "无法原谅。"
+    },
+    {
+     "id": "7252",
+     "defaultDialog": "满口大话的家伙。"
+    },
+    {
+     "id": "7253",
+     "defaultDialog": "不过如此。"
+    },
+    {
+     "id": "7255",
+     "defaultDialog": "被属下看到我和海贼在一起的话……"
+    },
+    {
+     "id": "7256",
+     "defaultDialog": "走了。"
+    },
+    {
+     "id": "7257",
+     "defaultDialog": "求求你们了……"
+    },
+    {
+     "id": "7264",
+     "defaultDialog": "莫扎，坚持住！！"
+    },
+    {
+     "id": "7265",
+     "defaultDialog": "喂，小鬼们怎么样了？"
+    },
+    {
+     "id": "7268",
+     "defaultDialog": "乔巴，冷静下来。"
+    },
+    {
+     "id": "7270",
+     "defaultDialog": "我会好好教训你的，罗。"
+    },
+    {
+     "id": "7272",
+     "defaultDialog": "认清现实吧，罗。"
+    },
+    {
+     "id": "7276",
+     "defaultDialog": "你不是我的对手！"
+    },
+    {
+     "id": "7286",
+     "defaultDialog": "草帽小子！为什么要针对我！！"
+    },
+    {
+     "id": "7288",
+     "defaultDialog": "凯撒，我绝对不会放过你。"
+    },
+    {
+     "id": "7289",
+     "defaultDialog": "我可能不能让你过去喔。"
+    },
+    {
+     "id": "7292",
+     "defaultDialog": "小白鼠而已~"
+    },
+    {
+     "id": "7314",
+     "defaultDialog": "凯撒，我绝不原谅你！"
+    },
+    {
+     "id": "7315",
+     "defaultDialog": "看啊，这就是死亡国度的力量！"
+    },
+    {
+     "id": "7409",
+     "defaultDialog": "陪我去看大海吧"
+    },
+    {
+     "id": "7559",
+     "defaultDialog": "那是什么鸟啊？？"
+    },
+    {
+     "id": "7560",
+     "defaultDialog": "哈啊…哈啊……我们不能在这里倒下。"
+    },
+    {
+     "id": "7565",
+     "defaultDialog": "谁都别想活着离开这座岛。"
+    },
+    {
+     "id": "7587",
+     "defaultDialog": "好可怕啊，我会不会死在这里啊！？！"
+    },
+    {
+     "id": "7588",
+     "defaultDialog": "船长又开始了……"
+    },
+    {
+     "id": "7589",
+     "defaultDialog": "他们都去哪里了？"
+    },
+    {
+     "id": "7590",
+     "defaultDialog": "我一定会成为海军大将的！"
+    },
+    {
+     "id": "7607",
+     "defaultDialog": "怎么办，好害怕。"
+    },
+    {
+     "id": "7608",
+     "defaultDialog": "还是离他们远点吧。"
+    },
+    {
+     "id": "7609",
+     "defaultDialog": "哼哼，我可不是好惹的。"
+    },
+    {
+     "id": "7610",
+     "defaultDialog": "让我看看是哪个家伙不要命了！"
+    },
+    {
+     "id": "7663",
+     "defaultDialog": "嘿嘿，这些钱都是我的啦！"
+    },
+    {
+     "id": "7731",
+     "defaultDialog": "在你旁边观战可以吗？路西。"
+    },
+    {
+     "id": "7732",
+     "defaultDialog": "我已经把戈普的孙子辈都恨透了！"
+    },
+    {
+     "id": "7739",
+     "defaultDialog": "要大干一场喽！"
+    },
+    {
+     "id": "7753",
+     "defaultDialog": "被称作掠夺者贾恩的我，怎么可能把拿走的东西还给你呢。"
+    },
+    {
+     "id": "7754",
+     "defaultDialog": "戈普，你等着瞧吧！"
+    },
+    {
+     "id": "7757",
+     "defaultDialog": "我一定要杀了你，草帽！"
+    },
+    {
+     "id": "7771",
+     "defaultDialog": "啊——！"
+    },
+    {
+     "id": "7787",
+     "defaultDialog": "它们过来咯。"
+    },
+    {
+     "id": "7835",
+     "defaultDialog": "老夫将要逮捕您与草帽一伙！"
+    },
+    {
+     "id": "7840",
+     "defaultDialog": "呋呋呋呋呋呋！！"
+    },
+    {
+     "id": "7853",
+     "defaultDialog": "老夫的目的并非杀戮，而是逮捕……"
+    },
+    {
+     "id": "7867",
+     "defaultDialog": "罗！！！"
+    },
+    {
+     "id": "7878",
+     "defaultDialog": "那个人的样子……有些奇怪？！"
+    },
+    {
+     "id": "7891",
+     "defaultDialog": "哇啊啊啊！！"
+    },
+    {
+     "id": "7892",
+     "defaultDialog": "哼哼，看我怎么打败这个女人！"
+    },
+    {
+     "id": "7896",
+     "defaultDialog": "打败你，我就会成为D区冠军！"
+    },
+    {
+     "id": "7900",
+     "defaultDialog": "你的人头，归我了！"
+    },
+    {
+     "id": "7914",
+     "defaultDialog": "这里不是你该来的地方！"
+    },
+    {
+     "id": "7948",
+     "defaultDialog": "我应该先打断你哪根骨头呢！！万人仇妹妹！！！"
+    },
+    {
+     "id": "7953",
+     "defaultDialog": "我不会让你动小紫罗兰一根手指！！"
+    },
+    {
+     "id": "7964",
+     "defaultDialog": "山智……我有一个请求……"
+    },
+    {
+     "id": "7965",
+     "defaultDialog": "看我怎么把你打趴下！"
+    },
+    {
+     "id": "7972",
+     "defaultDialog": "呦没用男！帮在下干掉他们。"
+    },
+    {
+     "id": "7990",
+     "defaultDialog": "又失败了啊，你这没用的废物。"
+    },
+    {
+     "id": "8011",
+     "defaultDialog": "好好看清楚你的盟友们是如何在我手上惨死的！！！"
+    },
+    {
+     "id": "8012",
+     "defaultDialog": "大姐头，您是要背叛我们吗？？"
+    },
+    {
+     "id": "8013",
+     "defaultDialog": "区区海盗，也想与海军对抗吗？"
+    },
+    {
+     "id": "8014",
+     "defaultDialog": "……稍安勿躁，先由老夫做你的对手。"
+    },
+    {
+     "id": "8062",
+     "defaultDialog": "它们过来喽。"
+    },
+    {
+     "id": "8072",
+     "defaultDialog": "我一定要取得胜利！"
+    },
+    {
+     "id": "8076",
+     "defaultDialog": "我一定要获胜……然后把“烧烧之果”拿到手……！！"
+    },
+    {
+     "id": "8094",
+     "defaultDialog": "哇！这里看的挺清楚的！"
+    },
+    {
+     "id": "8147",
+     "defaultDialog": "就先拿你开刀！"
+    },
+    {
+     "id": "8148",
+     "defaultDialog": "竟敢对我弟弟下手！"
+    },
+    {
+     "id": "8149",
+     "defaultDialog": "让我替弟弟们报仇吧！"
+    },
+    {
+     "id": "8152",
+     "defaultDialog": "住手啊！！"
+    },
+    {
+     "id": "8153",
+     "defaultDialog": "抓住你就有一大笔赏金了。"
+    },
+    {
+     "id": "8154",
+     "defaultDialog": "是你害的人们变成了这样吗！"
+    },
+    {
+     "id": "8155",
+     "defaultDialog": "我的手不听使唤了！"
+    },
+    {
+     "id": "8158",
+     "defaultDialog": "少主不在你们就放肆起来了啊！"
+    },
+    {
+     "id": "8159",
+     "defaultDialog": "多弗拉门戈家族怎会被你们打败！"
+    },
+    {
+     "id": "8160",
+     "defaultDialog": "可恶啊……交易泡汤了……"
+    },
+    {
+     "id": "8161",
+     "defaultDialog": "少主他会回来的！"
+    },
+    {
+     "id": "8170",
+     "defaultDialog": "是时候大发一笔横财了！"
+    },
+    {
+     "id": "8174",
+     "defaultDialog": "快阻止我！！"
+    },
+    {
+     "id": "8261",
+     "defaultDialog": "不要妨碍我！"
+    },
+    {
+     "id": "8273",
+     "defaultDialog": "好！找到01号斗鱼了！"
+    },
+    {
+     "id": "8297",
+     "defaultDialog": "这是什么怪东西！！？"
+    },
+    {
+     "id": "8334",
+     "defaultDialog": "你们这些人可真碍事啊。"
+    },
+    {
+     "id": "8350",
+     "defaultDialog": "真是造孽啊……"
+    },
+    {
+     "id": "8352",
+     "defaultDialog": "别来碍我的事！"
+    },
+    {
+     "id": "8364",
+     "defaultDialog": "不许你再碰莉贝卡！！"
+    },
+    {
+     "id": "8370",
+     "defaultDialog": "你们不要拦路！！"
+    },
+    {
+     "id": "8373",
+     "defaultDialog": "海军大叔你给我让开！"
+    },
+    {
+     "id": "8378",
+     "defaultDialog": "入侵者~~！一个不留~~~！！"
+    },
+    {
+     "id": "8384",
+     "defaultDialog": "该我们上场了。"
+    },
+    {
+     "id": "8386",
+     "defaultDialog": "必须赶快……完成“SOP作战”……"
+    },
+    {
+     "id": "8387",
+     "defaultDialog": "呗嘿嘿……"
+    },
+    {
+     "id": "8394",
+     "defaultDialog": "我来夺回真正的德莱斯罗兹了！多弗拉门戈！！"
+    },
+    {
+     "id": "8395",
+     "defaultDialog": "大家上啊！一定要让糖糖昏厥！！"
+    },
+    {
+     "id": "8396",
+     "defaultDialog": "就让我来成为你们的英雄！"
+    },
+    {
+     "id": "8397",
+     "defaultDialog": "……你看着吧！艾斯！！"
+    },
+    {
+     "id": "8398",
+     "defaultDialog": "士兵！危险 ！！"
+    },
+    {
+     "id": "8407",
+     "defaultDialog": "接招吧变态小子！"
+    },
+    {
+     "id": "8408",
+     "defaultDialog": "就让我来大闹一场吧！"
+    },
+    {
+     "id": "8410",
+     "defaultDialog": "铁人弗兰奇！快点投降吧。"
+    },
+    {
+     "id": "8423",
+     "defaultDialog": "区区一个敌人，你们怎么这么没用！！"
+    },
+    {
+     "id": "8424",
+     "defaultDialog": "这可是我的猎物！"
+    },
+    {
+     "id": "8426",
+     "defaultDialog": "你们这些忘恩负义的家伙。"
+    },
+    {
+     "id": "8430",
+     "defaultDialog": "这就是“工厂”吗……"
+    },
+    {
+     "id": "8450",
+     "defaultDialog": "虽说是救命恩人但你们的赏金我们还是收下啦！"
+    },
+    {
+     "id": "8456",
+     "defaultDialog": "看来已经多说无益了…"
+    },
+    {
+     "id": "8471",
+     "defaultDialog": "不会放你们过去。"
+    },
+    {
+     "id": "8472",
+     "defaultDialog": "让开！！你们不是他的对手！！"
+    },
+    {
+     "id": "8479",
+     "defaultDialog": "这么尖的声音……好好笑啊！！"
+    },
+    {
+     "id": "8491",
+     "defaultDialog": "喂！！不要挡道！！！"
+    },
+    {
+     "id": "8507",
+     "defaultDialog": "冲啊！！牛牛！"
+    },
+    {
+     "id": "8523",
+     "defaultDialog": "我上了！！"
+    },
+    {
+     "id": "8526",
+     "defaultDialog": "终于现出原形了吗……"
+    },
+    {
+     "id": "8530",
+     "defaultDialog": "（要尽量将他们拖住……）"
+    },
+    {
+     "id": "8542",
+     "defaultDialog": "一定不能让草帽过去！"
+    },
+    {
+     "id": "8551",
+     "defaultDialog": "这条路看着不太对劲……"
+    },
+    {
+     "id": "8560",
+     "defaultDialog": "门戈！我一定要把你打飞！"
+    },
+    {
+     "id": "8579",
+     "defaultDialog": "我是绝对不会同意你们的婚事的！！"
+    },
+    {
+     "id": "8588",
+     "defaultDialog": "都说了我的爱马法鲁鲁只有在两人以下骑乘时才能跑得优美矫健啊！"
+    },
+    {
+     "id": "8605",
+     "defaultDialog": "这些巨大的玩具……是从哪儿来的？"
+    },
+    {
+     "id": "8606",
+     "defaultDialog": "路飞前辈，这就交给我吧！"
+    },
+    {
+     "id": "8611",
+     "defaultDialog": "希望路西他们都平安无事……"
+    },
+    {
+     "id": "8613",
+     "defaultDialog": "可恶……你这头野兽！"
+    },
+    {
+     "id": "8620",
+     "defaultDialog": "混蛋！别来碍事！"
+    },
+    {
+     "id": "8653",
+     "defaultDialog": "门戈！你给我等着！！"
+    },
+    {
+     "id": "8655",
+     "defaultDialog": "我要揍飞你！！门戈！"
+    },
+    {
+     "id": "8656",
+     "defaultDialog": "这样下去情况不太妙啊……"
+    },
+    {
+     "id": "8663",
+     "defaultDialog": "草帽当家的……当心！"
+    },
+    {
+     "id": "8666",
+     "defaultDialog": "草帽当家的……在搞什么……"
+    },
+    {
+     "id": "8667",
+     "defaultDialog": "呋呋呋呋呋……挣扎吧……"
+    },
+    {
+     "id": "8670",
+     "defaultDialog": "多弗拉门戈！我来了！"
+    },
+    {
+     "id": "8672",
+     "defaultDialog": "我有点玩腻了呢……"
+    },
+    {
+     "id": "8674",
+     "defaultDialog": "怎……怎么会这样？"
+    },
+    {
+     "id": "8678",
+     "defaultDialog": "草帽小子，凭你是打不赢多弗的！"
+    },
+    {
+     "id": "8679",
+     "defaultDialog": "草……草帽小子……"
+    },
+    {
+     "id": "8689",
+     "defaultDialog": "路飞，把特拉男送到这里来！"
+    },
+    {
+     "id": "8698",
+     "defaultDialog": "门戈！我要将你打飞！！！"
+    },
+    {
+     "id": "8700",
+     "defaultDialog": "呜……再有十分钟的话……"
+    },
+    {
+     "id": "8730",
+     "defaultDialog": "——谁也不许通过！！"
+    },
+    {
+     "id": "8747",
+     "defaultDialog": "我也要做些什么才行……"
+    },
+    {
+     "id": "8750",
+     "defaultDialog": "维奥拉阿姨——不要！！"
+    },
+    {
+     "id": "8754",
+     "defaultDialog": "这是最后了门戈！！我要一击击飞你！！"
+    },
+    {
+     "id": "8816",
+     "defaultDialog": "大伙儿！该撤了！"
+    },
+    {
+     "id": "8817",
+     "defaultDialog": "路飞前辈——你要去哪儿？1"
+    },
+    {
+     "id": "8831",
+     "defaultDialog": "莉贝卡，要逃了！"
+    },
+    {
+     "id": "8840",
+     "defaultDialog": "路飞前辈，快点！"
+    },
+    {
+     "id": "8852",
+     "defaultDialog": "我要使出全力上啦！大叔！！"
+    },
+    {
+     "id": "9157",
+     "defaultDialog": "怎么会……"
+    },
+    {
+     "id": "9238",
+     "defaultDialog": "真让人着急啊，这家伙……"
+    },
+    {
+     "id": "9239",
+     "defaultDialog": "完了完了，我的初次执勤开场不顺！"
+    },
+    {
+     "id": "9240",
+     "defaultDialog": "这附近都没有人嘛，呜……我完全没在怕的！"
+    },
+    {
+     "id": "9241",
+     "defaultDialog": "哦，是恩人啊，卡鲁秋。"
+    },
+    {
+     "id": "9242",
+     "defaultDialog": "毛皮族都是天生的战士。"
+    },
+    {
+     "id": "9243",
+     "defaultDialog": "我要变得更强！"
+    },
+    {
+     "id": "9244",
+     "defaultDialog": "卡鲁秋！今天骨头男爵没跟着你来吗？"
+    },
+    {
+     "id": "9245",
+     "defaultDialog": "不不，我没有恶意，请别用武器指着我。"
+    },
+    {
+     "id": "9246",
+     "defaultDialog": "好想离开这座岛啊……"
+    },
+    {
+     "id": "9247",
+     "defaultDialog": "百兽海盗团不会允许叛徒活着离开！"
+    },
+    {
+     "id": "9248",
+     "defaultDialog": "杰克大人什么时候来接我们啊？"
+    },
+    {
+     "id": "9249",
+     "defaultDialog": "那些该死的动物……"
+    },
+    {
+     "id": "9250",
+     "defaultDialog": "勇者无畏，强者无敌。"
+    },
+    {
+     "id": "9251",
+     "defaultDialog": "多亏了乔巴医生的治疗，我才能这么快返回工作岗位啊。"
+    },
+    {
+     "id": "9252",
+     "defaultDialog": "可恶，难道我白来一趟？"
+    },
+    {
+     "id": "9253",
+     "defaultDialog": "呼……呼……要命了……"
+    },
+    {
+     "id": "9254",
+     "defaultDialog": "其实，我对动物毛发过敏。"
+    },
+    {
+     "id": "9475",
+     "defaultDialog": "……你们还想对这个国家怎么样！"
+    },
+    {
+     "id": "9481",
+     "defaultDialog": "我也想泡温泉……可猫蝮蛇老大不让……"
+    },
+    {
+     "id": "9484",
+     "defaultDialog": "卡鲁秋！恩人要泡澡的话请来这边。"
+    },
+    {
+     "id": "9485",
+     "defaultDialog": "恩人！一切正常！"
+    },
+    {
+     "id": "9486",
+     "defaultDialog": "恩人！我这边也正常！"
+    },
+    {
+     "id": "9487",
+     "defaultDialog": "哦，是恩人啊，卡鲁秋！"
+    },
+    {
+     "id": "9488",
+     "defaultDialog": "上面到底是什么呢，爸爸一直不让我上去……"
+    },
+    {
+     "id": "9491",
+     "defaultDialog": "听说在这棵树下许的愿望一定会实现……"
+    },
+    {
+     "id": "9510",
+     "defaultDialog": "你这家伙想干什么……"
+    },
+    {
+     "id": "9512",
+     "defaultDialog": "哦？ 你这小子，有点面生啊。"
+    },
+    {
+     "id": "9515",
+     "defaultDialog": "……嗯！？ 你们这群可疑的家伙！！"
+    },
+    {
+     "id": "9516",
+     "defaultDialog": "糟了，他们要逃走了！"
+    },
+    {
+     "id": "9517",
+     "defaultDialog": "从今天开始这儿就是老子的地盘啦！！"
+    },
+    {
+     "id": "9518",
+     "defaultDialog": "出口……出口在哪里呀！"
+    },
+    {
+     "id": "9519",
+     "defaultDialog": "你们在这里做什么！？"
+    },
+    {
+     "id": "9522",
+     "defaultDialog": "你就是扮演盗贼的么？"
+    },
+    {
+     "id": "9523",
+     "defaultDialog": "你对我来讲太弱了。"
+    },
+    {
+     "id": "9524",
+     "defaultDialog": "即便是临时扮演的盗贼也不能大意啊。"
+    },
+    {
+     "id": "9525",
+     "defaultDialog": "你是谁？！！"
+    },
+    {
+     "id": "9526",
+     "defaultDialog": "啧，被发现了，没办法只能开干了。"
+    },
+    {
+     "id": "9528",
+     "defaultDialog": "这面粉真不错啊。"
+    },
+    {
+     "id": "9530",
+     "defaultDialog": "可以吃烤面包喽。"
+    },
+    {
+     "id": "9531",
+     "defaultDialog": "可以吃意面喽。"
+    },
+    {
+     "id": "9532",
+     "defaultDialog": "呸呸呸，好难吃。"
+    },
+    {
+     "id": "9538",
+     "defaultDialog": "我是不会放弃的！"
+    },
+    {
+     "id": "9559",
+     "defaultDialog": "太好吃了，我要继续吃！"
+    },
+    {
+     "id": "9561",
+     "defaultDialog": "别妨碍我！"
+    },
+    {
+     "id": "9563",
+     "defaultDialog": "那家伙真是多管闲事！"
+    },
+    {
+     "id": "9565",
+     "defaultDialog": "打扰我练习的家伙统统不可原谅！"
+    },
+    {
+     "id": "9567",
+     "defaultDialog": "……这到底是哪里啊喂！来得刚好、给我带路！"
+    },
+    {
+     "id": "9569",
+     "defaultDialog": "再吃那种食物会死的……你明明什么都不知道！"
+    },
+    {
+     "id": "9571",
+     "defaultDialog": "这已经是我的东西了！"
+    },
+    {
+     "id": "9573",
+     "defaultDialog": "可恶……！一切都是无用功吗？"
+    },
+    {
+     "id": "9575",
+     "defaultDialog": "又不是我一个人的错！"
+    },
+    {
+     "id": "9577",
+     "defaultDialog": "能阻止我的话就试试看吧。"
+    },
+    {
+     "id": "9703",
+     "defaultDialog": "你这家伙是谁啊！"
+    },
+    {
+     "id": "9724",
+     "defaultDialog": "哇~~~~！"
+    },
+    {
+     "id": "9750",
+     "defaultDialog": "哇~~~~~！！"
+    },
+    {
+     "id": "9766",
+     "defaultDialog": "娜美！小心！！"
+    },
+    {
+     "id": "9772",
+     "defaultDialog": "我是来干掉你的——草帽小子！"
+    },
+    {
+     "id": "9776",
+     "defaultDialog": "我要使出全力上了！！"
+    },
+    {
+     "id": "9784",
+     "defaultDialog": "不要啊！！"
+    },
+    {
+     "id": "9791",
+     "defaultDialog": "不许你——侮辱我的朋友！！"
+    },
+    {
+     "id": "9792",
+     "defaultDialog": "我要击败你！！"
+    },
+    {
+     "id": "9793",
+     "defaultDialog": "这么多饼干士兵你应付的过来么？草帽小子——！"
+    },
+    {
+     "id": "9800",
+     "defaultDialog": "给我飞到世界的尽头吧——！！"
+    },
+    {
+     "id": "9909",
+     "defaultDialog": "——还在抱怨吗！？"
+    },
+    {
+     "id": "9918",
+     "defaultDialog": "你们这群没人性的混账！！"
+    },
+    {
+     "id": "9925",
+     "defaultDialog": "山智~~~~~！！！好久不见~~~！！！"
+    },
+    {
+     "id": "9928",
+     "defaultDialog": "路飞，你真的要等吗？"
+    },
+    {
+     "id": "9972",
+     "defaultDialog": "喂喂！你现在应该是被禁止出入城堡的啊。"
+    },
+    {
+     "id": "10027",
+     "defaultDialog": "好久不见啊！！诺克斯海盗团船长佩德罗！！"
+    },
+    {
+     "id": "10036",
+     "defaultDialog": "（我得当好好发挥诱饵的作用——）"
+    },
+    {
+     "id": "10046",
+     "defaultDialog": "我就是“灵魂之王”！！！"
+    },
+    {
+     "id": "10061",
+     "defaultDialog": "不会吧…！！！BIG MOM~！！？诶~~~~~~！！！"
+    },
+    {
+     "id": "10064",
+     "defaultDialog": "终于老实了吗？灵魂之王。"
+    },
+    {
+     "id": "10071",
+     "defaultDialog": "捉迷藏到此为止了！！"
+    },
+    {
+     "id": "10095",
+     "defaultDialog": "…也太慢了吧……怎么了…？山智…？"
+    },
+    {
+     "id": "10100",
+     "defaultDialog": "呜呜~~~！！乔哥~！！救我~~好烫啊~！！！"
+    },
+    {
+     "id": "10132",
+     "defaultDialog": "这下你可逃不掉了！草帽小子！！"
+    },
+    {
+     "id": "10133",
+     "defaultDialog": "真难缠啊——草帽小子！！"
+    },
+    {
+     "id": "10135",
+     "defaultDialog": "象棋士兵们……！！"
+    },
+    {
+     "id": "10161",
+     "defaultDialog": "欢迎来到BIG・MOM的茶会！请让我搜身检查。"
+    },
+    {
+     "id": "10169",
+     "defaultDialog": "你们的出场已经结束了！"
+    },
+    {
+     "id": "10190",
+     "defaultDialog": "婚礼要开始了……"
+    },
+    {
+     "id": "10200",
+     "defaultDialog": "布玲！！"
+    },
+    {
+     "id": "10241",
+     "defaultDialog": "我不管了！！啊哦~~~~！！！"
+    },
+    {
+     "id": "10242",
+     "defaultDialog": "你居然要逃走吗！？胆小鬼！！！"
+    },
+    {
+     "id": "10248",
+     "defaultDialog": "跨过去！！"
+    },
+    {
+     "id": "10249",
+     "defaultDialog": "橡胶~~！！"
+    },
+    {
+     "id": "10253",
+     "defaultDialog": "父亲！！！"
+    },
+    {
+     "id": "10256",
+     "defaultDialog": "别让他们逃了！！"
+    },
+    {
+     "id": "10262",
+     "defaultDialog": "你的对手是我！"
+    },
+    {
+     "id": "10401",
+     "defaultDialog": "哇啊~~~！！"
+    },
+    {
+     "id": "10403",
+     "defaultDialog": "哇啊啊！！"
+    },
+    {
+     "id": "10404",
+     "defaultDialog": "发生了什么！？"
+    },
+    {
+     "id": "10406",
+     "defaultDialog": "上吧！"
+    },
+    {
+     "id": "10457",
+     "defaultDialog": "快跑！"
+    },
+    {
+     "id": "10492",
+     "defaultDialog": "又变成麻烦的森林了！"
+    },
+    {
+     "id": "10494",
+     "defaultDialog": "不能继续在这里耽误时间…！"
+    },
+    {
+     "id": "10505",
+     "defaultDialog": "橡皮橡皮！！"
+    },
+    {
+     "id": "10508",
+     "defaultDialog": "天候棒！"
+    },
+    {
+     "id": "10523",
+     "defaultDialog": "大家，海上见！"
+    },
+    {
+     "id": "10531",
+     "defaultDialog": "请从阳光号上离开吧！"
+    },
+    {
+     "id": "10555",
+     "defaultDialog": "舔舔，死在这里吧！！"
+    },
+    {
+     "id": "10558",
+     "defaultDialog": "要被夹击了！！"
+    },
+    {
+     "id": "10566",
+     "defaultDialog": "哇啊——！！！"
+    },
+    {
+     "id": "10569",
+     "defaultDialog": "每个人都有自己的出场机会。"
+    },
+    {
+     "id": "10584",
+     "defaultDialog": "怎么办，要被追上了……！"
+    },
+    {
+     "id": "10585",
+     "defaultDialog": "BIG·MOM从海上走过来了！"
+    },
+    {
+     "id": "10652",
+     "defaultDialog": "我一定会回来的！！"
+    },
+    {
+     "id": "10664",
+     "defaultDialog": "我就是不打算死在这里啊！！！"
+    },
+    {
+     "id": "10665",
+     "defaultDialog": "遗言就只说这一句吗？"
+    },
+    {
+     "id": "10675",
+     "defaultDialog": "甜甜圈~~~"
+    },
+    {
+     "id": "10678",
+     "defaultDialog": "我明白你的能力了！"
+    },
+    {
+     "id": "10680",
+     "defaultDialog": "猿王群鸦炮！！！！"
+    },
+    {
+     "id": "10681",
+     "defaultDialog": "强力麻糬！！！"
+    },
+    {
+     "id": "10684",
+     "defaultDialog": "树枝~~"
+    },
+    {
+     "id": "10692",
+     "defaultDialog": "糟了，追上来了！！"
+    },
+    {
+     "id": "10702",
+     "defaultDialog": "你还要站起来多少次。"
+    },
+    {
+     "id": "10703",
+     "defaultDialog": "猎鹰印章！！！"
+    },
+    {
+     "id": "10710",
+     "defaultDialog": "哈啊……哈啊……这下就……"
+    },
+    {
+     "id": "10715",
+     "defaultDialog": "烤箱，放开戚风！！"
+    },
+    {
+     "id": "10716",
+     "defaultDialog": "老公！！！"
+    },
+    {
+     "id": "10717",
+     "defaultDialog": "……我也能看见吗……“短暂的未来”"
+    },
+    {
+     "id": "10720",
+     "defaultDialog": "不能放过草帽小子……"
+    },
+    {
+     "id": "10723",
+     "defaultDialog": "我要帮助大家……"
+    },
+    {
+     "id": "10724",
+     "defaultDialog": "还有，多少……"
+    },
+    {
+     "id": "10726",
+     "defaultDialog": "草帽小子，绝对不能让你活着离开！"
+    },
+    {
+     "id": "10741",
+     "defaultDialog": "嗷~"
+    },
+    {
+     "id": "10743",
+     "defaultDialog": "草帽小子，唯独不能原谅你！"
+    },
+    {
+     "id": "10749",
+     "defaultDialog": "拦住他们！"
+    },
+    {
+     "id": "10754",
+     "defaultDialog": "嗷~"
+    },
+    {
+     "id": "10757",
+     "defaultDialog": "真是麻烦的家伙。"
+    },
+    {
+     "id": "10767",
+     "defaultDialog": "一群蠢货。"
+    },
+    {
+     "id": "10772",
+     "defaultDialog": "哼……！"
+    },
+    {
+     "id": "10776",
+     "defaultDialog": "碍眼的家伙！"
+    },
+    {
+     "id": "10780",
+     "defaultDialog": "不要妨碍我可爱的弟弟啊——"
+    },
+    {
+     "id": "10785",
+     "defaultDialog": "路飞！山智！"
+    },
+    {
+     "id": "10790",
+     "defaultDialog": "麻烦了啊……"
+    },
+    {
+     "id": "10792",
+     "defaultDialog": "喂，草帽小子，为什么要为那个失败品……"
+    },
+    {
+     "id": "10797",
+     "defaultDialog": "追上你们了！"
+    },
+    {
+     "id": "10805",
+     "defaultDialog": "路飞，我有一个请求……"
+    },
+    {
+     "id": "10812",
+     "defaultDialog": "婚礼蛋糕……"
+    },
+    {
+     "id": "10814",
+     "defaultDialog": "简直是怪物……"
+    },
+    {
+     "id": "10815",
+     "defaultDialog": "不能再被她继续破坏了……"
+    },
+    {
+     "id": "10816",
+     "defaultDialog": "来吧，宙斯❤"
+    },
+    {
+     "id": "10817",
+     "defaultDialog": "跟上来吧，BIGMOM！"
+    },
+    {
+     "id": "10826",
+     "defaultDialog": "给我闭嘴，我们在执行任务！！"
+    },
+    {
+     "id": "10827",
+     "defaultDialog": "给我闭嘴，我们在执行任务！！"
+    },
+    {
+     "id": "10830",
+     "defaultDialog": "不要啊！！原谅我把！！"
+    },
+    {
+     "id": "10832",
+     "defaultDialog": "呼…呼…呼"
+    },
+    {
+     "id": "10833",
+     "defaultDialog": "吼吼吼吼~！！！"
+    },
+    {
+     "id": "10835",
+     "defaultDialog": "！？诶！！！喂，你别弄坏我们的船啊！！！"
+    },
+    {
+     "id": "10851",
+     "defaultDialog": "谁来救救我啊！！"
+    },
+    {
+     "id": "10852",
+     "defaultDialog": "那家伙好像是凯多的部下…！！"
+    },
+    {
+     "id": "10855",
+     "defaultDialog": "噢噢噢…！！！"
+    },
+    {
+     "id": "10856",
+     "defaultDialog": "噢噢噢…！！！"
+    },
+    {
+     "id": "10870",
+     "defaultDialog": "喂，路飞！保护好小鬼！我来解决那家伙！"
+    },
+    {
+     "id": "10882",
+     "defaultDialog": "我的听觉是人类的6倍！！！可不会漏听你说将军的坏话！！！"
+    },
+    {
+     "id": "10904",
+     "defaultDialog": "来吧，让我来看看你们面对相扑手庞大的身躯时毫不畏惧的身姿吧！！"
+    },
+    {
+     "id": "10905",
+     "defaultDialog": "来吧，无需客气，全力上吧！！"
+    },
+    {
+     "id": "10908",
+     "defaultDialog": "把钱交出来！！"
+    },
+    {
+     "id": "10909",
+     "defaultDialog": "把钱交出来！！"
+    },
+    {
+     "id": "10910",
+     "defaultDialog": "不可饶恕……把蛋给我！！"
+    },
+    {
+     "id": "10911",
+     "defaultDialog": "嘿嘿嘿嘿嘿！！这片沙滩是我们猛牛三兄弟的地盘！！"
+    },
+    {
+     "id": "10912",
+     "defaultDialog": "欸嘿嘿嘿嘿嘿！！这片竹林是我们猛牛三兄弟的地盘！！"
+    },
+    {
+     "id": "10913",
+     "defaultDialog": "哈哈哈哈！！这片街道是我们猛牛三兄弟的地盘！！"
+    },
+    {
+     "id": "10942",
+     "defaultDialog": "博罗镇可是大人物住的地方，不许在里面闹事！"
+    },
+    {
+     "id": "10943",
+     "defaultDialog": "博罗镇可是大人物住的地方，不许在里面闹事！"
+    },
+    {
+     "id": "10958",
+     "defaultDialog": "这里是捡漏镇！"
+    },
+    {
+     "id": "10960",
+     "defaultDialog": "穿过前面的荒地就是捡漏镇了，路上小心！"
+    },
+    {
+     "id": "11002",
+     "defaultDialog": "这个洞穴已经是我们的根据地了！！"
+    },
+    {
+     "id": "11003",
+     "defaultDialog": "你要是敢碍我好事，我可不会放过你的！！"
+    },
+    {
+     "id": "11004",
+     "defaultDialog": "这里已经是我的房子了！！"
+    },
+    {
+     "id": "11005",
+     "defaultDialog": "你这家伙，荒野里有相扑手不是当然的吗！"
+    },
+    {
+     "id": "11006",
+     "defaultDialog": "别说的那么难听嘛，我到哪儿都是随便吃的。"
+    },
+    {
+     "id": "11007",
+     "defaultDialog": "我不当相扑手了，当个小偷，潇洒生活！！"
+    },
+    {
+     "id": "11008",
+     "defaultDialog": "你要是敢找茬，我就把你揍飞！！"
+    },
+    {
+     "id": "11009",
+     "defaultDialog": "呀！妖怪！？"
+    },
+    {
+     "id": "11010",
+     "defaultDialog": "老子就是未来的大横纲！！"
+    },
+    {
+     "id": "11011",
+     "defaultDialog": "侍卫什么的，根本不足为惧！！"
+    },
+    {
+     "id": "11028",
+     "defaultDialog": "你们是什么人！！？让开！！"
+    },
+    {
+     "id": "11031",
+     "defaultDialog": "我很擅长相扑的~~~~！！！\\n就用相扑来决胜负吧！！！"
+    },
+    {
+     "id": "11039",
+     "defaultDialog": "区区下等人……等着被收拾吧！！！"
+    },
+    {
+     "id": "11070",
+     "defaultDialog": "绝对要守住这艘宝船！！！"
+    },
+    {
+     "id": "11081",
+     "defaultDialog": "看我用炎之刃砍了你们！！\\n没有人能逃过我的机关刀！！"
+    },
+    {
+     "id": "11224",
+     "defaultDialog": "嗝~~……嗝！唔~~"
+    },
+    {
+     "id": "11232",
+     "defaultDialog": "“变档3”！！！"
+    },
+    {
+     "id": "11236",
+     "defaultDialog": "你来和之国了啊……！！"
+    },
+    {
+     "id": "11295",
+     "defaultDialog": "这里是捡漏镇！晚上也需要巡逻啊……"
+    },
+    {
+     "id": "11299",
+     "defaultDialog": "晚上值守真累啊......"
+    },
+    {
+     "id": "11306",
+     "defaultDialog": "找我有什么事吗……呕……"
+    },
+    {
+     "id": "11309",
+     "defaultDialog": "博罗镇的酒馆相当多呢！"
+    },
+    {
+     "id": "11315",
+     "defaultDialog": "明明已经出去好几天了......"
+    },
+    {
+     "id": "11316",
+     "defaultDialog": "你好，需要我的帮助吗？"
+    },
+    {
+     "id": "11330",
+     "defaultDialog": "这是我们“狂死郎”一家的地盘，该给的东西没给，可不能让你开店啊！！"
+    },
+    {
+     "id": "11364",
+     "defaultDialog": "看来不只是个面店老板这么简单啊，报上名来！！！"
+    },
+    {
+     "id": "11416",
+     "defaultDialog": "“忍法，雷霆”！！！"
+    },
+    {
+     "id": "11441",
+     "defaultDialog": "你以为我会让你们逃走吗！！"
+    },
+    {
+     "id": "11463",
+     "defaultDialog": "秋水是和之国的宝物，龙马的所有物！！！"
+    },
+    {
+     "id": "11466",
+     "defaultDialog": "无所谓，反正吩咐过我有人碍事统统杀掉就好！！！"
+    },
+    {
+     "id": "11484",
+     "defaultDialog": "不许擅自进城！！"
+    },
+    {
+     "id": "11544",
+     "defaultDialog": "户子？......户子！！？"
+    },
+    {
+     "id": "11546",
+     "defaultDialog": "不许再叫我温思默克！！！听见了吗！！！"
+    },
+    {
+     "id": "11551",
+     "defaultDialog": "唯独你，我要亲手斩杀！！"
+    },
+    {
+     "id": "11557",
+     "defaultDialog": "“七百二十烦恼风”！！！"
+    },
+    {
+     "id": "11562",
+     "defaultDialog": "在下，可是将军的狗啊"
+    },
+    {
+     "id": "11563",
+     "defaultDialog": "嘎嗷嗷嗷"
+    },
+    {
+     "id": "11564",
+     "defaultDialog": "多谢，帮大忙了！！"
+    },
+    {
+     "id": "11565",
+     "defaultDialog": "开火！！"
+    },
+    {
+     "id": "11571",
+     "defaultDialog": "阿奈美！"
+    },
+    {
+     "id": "11592",
+     "defaultDialog": "欢迎来到花之都"
+    },
+    {
+     "id": "11593",
+     "defaultDialog": "得照着画像好好检查才行..."
+    },
+    {
+     "id": "11594",
+     "defaultDialog": "得照着画像好好检查才行..."
+    },
+    {
+     "id": "11595",
+     "defaultDialog": "这里是大蛇大人的府邸！"
+    },
+    {
+     "id": "11596",
+     "defaultDialog": "这里是大蛇大人的府邸！"
+    },
+    {
+     "id": "11610",
+     "defaultDialog": "那边的两人似乎在争吵些什么..."
+    },
+    {
+     "id": "11613",
+     "defaultDialog": "最近抓了不少人..."
+    },
+    {
+     "id": "11614",
+     "defaultDialog": "戒备越来越严了。"
+    },
+    {
+     "id": "11615",
+     "defaultDialog": "大蛇大人是听到了什么风声吗..."
+    },
+    {
+     "id": "11620",
+     "defaultDialog": "听说花之都最近有个荞麦面摊很有名，不过到底在哪呢..."
+    },
+    {
+     "id": "11621",
+     "defaultDialog": "花之都东侧的澡堂可以很有名的地方。"
+    },
+    {
+     "id": "11622",
+     "defaultDialog": "荞麦面摊在那边吗..."
+    },
+    {
+     "id": "11624",
+     "defaultDialog": "这里卖的可都是上等货！"
+    },
+    {
+     "id": "11626",
+     "defaultDialog": "那家店似乎不错。"
+    },
+    {
+     "id": "11628",
+     "defaultDialog": "不要在这里闲逛！"
+    },
+    {
+     "id": "11631",
+     "defaultDialog": "这里是惠比寿镇！"
+    },
+    {
+     "id": "11633",
+     "defaultDialog": "呜哇哇..."
+    },
+    {
+     "id": "11635",
+     "defaultDialog": "这孩子又在到处乱跑了..."
+    },
+    {
+     "id": "11638",
+     "defaultDialog": "多亏了阿康，我们还算能填饱肚子"
+    },
+    {
+     "id": "11639",
+     "defaultDialog": "阿康真是这镇子的大善人！"
+    },
+    {
+     "id": "11641",
+     "defaultDialog": "今天还有不少工作要做..."
+    },
+    {
+     "id": "11642",
+     "defaultDialog": "你们找阿康的话，他的房子在那边的街道上！"
+    },
+    {
+     "id": "11643",
+     "defaultDialog": "有点辛苦啊。"
+    },
+    {
+     "id": "11652",
+     "defaultDialog": "被发现了吗..."
+    },
+    {
+     "id": "11653",
+     "defaultDialog": "有个家伙不见了..."
+    },
+    {
+     "id": "11654",
+     "defaultDialog": "不知道他躲到哪去了"
+    },
+    {
+     "id": "11691",
+     "defaultDialog": "这是惩罚！！！哈哈哈哈哈！！！"
+    },
+    {
+     "id": "11711",
+     "defaultDialog": "钥匙，到手了——！！！"
+    },
+    {
+     "id": "11713",
+     "defaultDialog": "给我仔仔细细地搜，天花板也别放过！！！"
+    },
+    {
+     "id": "11714",
+     "defaultDialog": "没用的！！放弃抵抗吧！！"
+    },
+    {
+     "id": "11742",
+     "defaultDialog": "麻烦叫下一批来！！这帮人都不够我练习的"
+    },
+    {
+     "id": "11752",
+     "defaultDialog": "反抗看守就是这种下场~~！！！"
+    },
+    {
+     "id": "11757",
+     "defaultDialog": "为了儆惩犯人们，就让我好好地折磨你们吧！！"
+    }
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle": "tabledata_v1.ab",
+   "other_bundle_rows": [
+    {
+     "id": "264",
+     "defaultDialog": "武器被阿龙禁止出现，我只能做些别的活儿养家糊口了。"
+    }
+   ],
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row reuses the rows translation"
+  },
+  "TableGuideStepExtra": {
+   "key_column": "tag",
+   "text_columns": [
+    "textModuleId"
+   ],
+   "text_source_bundle": "tabledata.ab",
+   "rows": [
+    {
+     "tag": "2002",
+     "textModuleId": "恭喜您获得了新装备，装备可以大幅提升角色战斗力，现在就去穿上吧！"
+    },
+    {
+     "tag": "2003",
+     "textModuleId": "点击阵容"
+    },
+    {
+     "tag": "2004",
+     "textModuleId": "点击角色"
+    },
+    {
+     "tag": "2005",
+     "textModuleId": "点击装备"
+    },
+    {
+     "tag": "2006",
+     "textModuleId": "点击打开装备列表"
+    },
+    {
+     "tag": "2007",
+     "textModuleId": "点击装备图标"
+    },
+    {
+     "tag": "2008",
+     "textModuleId": "新获得的装备需要鉴定后才能使用，点击进行鉴定"
+    },
+    {
+     "tag": "2009",
+     "textModuleId": "鉴定成功！现在就穿上这件装备吧。"
+    },
+    {
+     "tag": "3012",
+     "textModuleId": "点击招募"
+    },
+    {
+     "tag": "3013",
+     "textModuleId": "点击普通招募"
+    },
+    {
+     "tag": "3014",
+     "textModuleId": "点击招募"
+    },
+    {
+     "tag": "3015",
+     "textModuleId": "恭喜船长获得了新伙伴！现在让新伙伴参加战斗吧！"
+    },
+    {
+     "tag": "3016",
+     "textModuleId": "点击关闭"
+    },
+    {
+     "tag": "4017",
+     "textModuleId": "点击阵容"
+    },
+    {
+     "tag": "4018",
+     "textModuleId": "点击上阵按钮，添加出战的伙伴"
+    },
+    {
+     "tag": "4019",
+     "textModuleId": "出战新加入的伙伴"
+    },
+    {
+     "tag": "5020",
+     "textModuleId": "佐罗加入了队伍，现在去激活佐罗的技能！"
+    },
+    {
+     "tag": "5021",
+     "textModuleId": "点击角色"
+    },
+    {
+     "tag": "5022",
+     "textModuleId": "点击技能，切换至技能标签页"
+    },
+    {
+     "tag": "5023",
+     "textModuleId": "技能“鬼斩”现在可以激活，请点击技能图标"
+    },
+    {
+     "tag": "5024",
+     "textModuleId": "点击按钮，激活技能"
+    },
+    {
+     "tag": "5027",
+     "textModuleId": "技能激活成功！现在拖动技能至右侧区域，把“鬼斩”设为战斗技能！"
+    },
+    {
+     "tag": "5028",
+     "textModuleId": "技能设置完成！去战斗中试试新技能吧！"
+    },
+    {
+     "tag": "5030",
+     "textModuleId": "主动技能分为普通技能和终结技能。两者均消耗魂玉，但发动终结技后，该角色在本回合不可继续行动。"
+    },
+    {
+     "tag": "6031",
+     "textModuleId": "新伙伴需要提升实力，点击升级"
+    },
+    {
+     "tag": "6032",
+     "textModuleId": "点击开启自动添加，自动添加升级材料"
+    },
+    {
+     "tag": "6033",
+     "textModuleId": "点击升级，提升伙伴等级"
+    },
+    {
+     "tag": "6034",
+     "textModuleId": "继续冒险吧！"
+    },
+    {
+     "tag": "7036",
+     "textModuleId": "日常任务可以获取大量经验和奖励，是升级的重要途径。点击活动按钮打开日常任务。"
+    },
+    {
+     "tag": "7037",
+     "textModuleId": "点击日常任务标签"
+    },
+    {
+     "tag": "7038",
+     "textModuleId": "点击前往"
+    },
+    {
+     "tag": "8039",
+     "textModuleId": "打开武器店"
+    },
+    {
+     "tag": "8040",
+     "textModuleId": "通过武器商人可以买到各种武器和装备，能够快速提升队伍的战斗力。船长现在就购买一件吧！"
+    },
+    {
+     "tag": "8041",
+     "textModuleId": "点击购买"
+    },
+    {
+     "tag": "9042",
+     "textModuleId": "点击“活动”"
+    },
+    {
+     "tag": "9043",
+     "textModuleId": "点击“剧情回顾”"
+    },
+    {
+     "tag": "9044",
+     "textModuleId": "通关副本后，达成指定条件，可以获得额外的星数奖励"
+    },
+    {
+     "tag": "9045",
+     "textModuleId": "累计星数达到指定数量，可以领取丰厚奖励！"
+    },
+    {
+     "tag": "9046",
+     "textModuleId": "现在请船长尝试挑战一下副本吧！"
+    },
+    {
+     "tag": "10047",
+     "textModuleId": "点击“活动”"
+    },
+    {
+     "tag": "10048",
+     "textModuleId": "点击“角色传记”"
+    },
+    {
+     "tag": "10049",
+     "textModuleId": "获得新角色后，自动开启该角色的角色传记。挑战角色传记可以获得招募道具和战魂等稀有物品！"
+    },
+    {
+     "tag": "10050",
+     "textModuleId": "现在请船长尝试挑战一下角色传记吧！"
+    },
+    {
+     "tag": "11051",
+     "textModuleId": "欢迎来到橘子镇野外，在野外可以打怪、采集、挂机，能够获得经验，还有可能获得各种各样的奖励！"
+    },
+    {
+     "tag": "11052",
+     "textModuleId": "备用文本"
+    },
+    {
+     "tag": "11053",
+     "textModuleId": "队伍里有受伤角色的时候,点击该按钮可以治疗！"
+    },
+    {
+     "tag": "11054",
+     "textModuleId": "现在由船长亲自去探索一下野外吧！"
+    },
+    {
+     "tag": "11055",
+     "textModuleId": "野外战斗后，血量会保留，在医师处可以治疗受伤的角色。"
+    },
+    {
+     "tag": "12056",
+     "textModuleId": "点击阵容"
+    },
+    {
+     "tag": "12057",
+     "textModuleId": "点击角色"
+    },
+    {
+     "tag": "12058",
+     "textModuleId": "点击替换"
+    },
+    {
+     "tag": "12059",
+     "textModuleId": "船长可以在这里替换想要出战的角色,接下来由船长自行操作吧!"
+    },
+    {
+     "tag": "13060",
+     "textModuleId": "活动副本分为秘传之日、突破之日、训练之日、黄金试炼、勇者试炼，分别可以获得秘传书、突破材料、训练道具、金块、经验卷轴。"
+    },
+    {
+     "tag": "13061",
+     "textModuleId": "秘传之日、突破之日、训练之日3个副本，开启后有次数限制，次数用完时可以使用道具增加次数"
+    },
+    {
+     "tag": "13062",
+     "textModuleId": "请点击黄金试炼"
+    },
+    {
+     "tag": "13063",
+     "textModuleId": "秘传之日、突破之日、训练之日3个副本，难度分为不同等级，等级越高奖励越丰厚。"
+    },
+    {
+     "tag": "13064",
+     "textModuleId": "黄金试练和勇者试练，只要拥有对应的钥匙即可挑战。钥匙除系统掉落外，也可以从商城购买。"
+    },
+    {
+     "tag": "13065",
+     "textModuleId": "黄金试炼和勇者试炼开启后，挑战持续20分钟，在持续期间内，玩家可以不断挑战更高层级的试炼，获取更多的奖励"
+    },
+    {
+     "tag": "13066",
+     "textModuleId": "现在请船长尝试挑战一下活动副本吧！"
+    },
+    {
+     "tag": "14067",
+     "textModuleId": "点击铁匠铺"
+    },
+    {
+     "tag": "14068",
+     "textModuleId": "在铁匠铺中可以对装备进行精炼，精炼可大幅提升装备的属性，接下来就请船长亲自尝试一下吧!"
+    },
+    {
+     "tag": "15069",
+     "textModuleId": "点击主线,开始冒险吧!"
+    },
+    {
+     "tag": "16070",
+     "textModuleId": "欢迎来到竞技场！竞技场是展示玩家实力的场所，战胜更多的对手，可以让船长扬名海上！"
+    },
+    {
+     "tag": "16071",
+     "textModuleId": "右侧是与您排名相近的玩家，点击挑战可与之战斗，胜利则互换名次，失败排名不变"
+    },
+    {
+     "tag": "16072",
+     "textModuleId": "点击刷新按钮，可以更换对手"
+    },
+    {
+     "tag": "16073",
+     "textModuleId": "竞技胜利获得的声望，可以在声望商店兑换道具。"
+    },
+    {
+     "tag": "16074",
+     "textModuleId": "战斗记录中记载了船长在竞技场的历史战斗，如果船长的排名发生了变化，可以在记录中查看战斗录像。"
+    },
+    {
+     "tag": "16075",
+     "textModuleId": "接下来请船长自行挑选一个对手进行挑战吧！"
+    },
+    {
+     "tag": "17076",
+     "textModuleId": "点击打开小地图"
+    },
+    {
+     "tag": "17077",
+     "textModuleId": "小地图展示出了船长位置和各个NPC的位置"
+    },
+    {
+     "tag": "17078",
+     "textModuleId": "点击右侧列表中的NPC，可以自动寻路过去。"
+    },
+    {
+     "tag": "17079",
+     "textModuleId": "合理使用小地图，可以大大减少操作，接下来的冒险中，请船长多加利用哦！"
+    },
+    {
+     "tag": "18080",
+     "textModuleId": "请点击活动"
+    },
+    {
+     "tag": "18081",
+     "textModuleId": "请点击角色传记"
+    },
+    {
+     "tag": "19082",
+     "textModuleId": "获得新角色后即开启该角色的角色传记，挑战角色传记可以亲历角色的成长历程。"
+    },
+    {
+     "tag": "19083",
+     "textModuleId": "现在请点击打开角色传记。"
+    },
+    {
+     "tag": "19084",
+     "textModuleId": "此处展示的是该角色的亲密度等级，携带角色出战可提升亲密度。"
+    },
+    {
+     "tag": "19085",
+     "textModuleId": "提升与角色的亲密度，可以解锁后续的传记章节。"
+    },
+    {
+     "tag": "19086",
+     "textModuleId": "现在请船长挑战一次角色传记吧！"
+    },
+    {
+     "tag": "20087",
+     "textModuleId": "恭喜船长通关角色传记，首次通关获得了抽卡券和蓝钻奖励。抽卡券可前往酒馆招募新伙伴！"
+    },
+    {
+     "tag": "21089",
+     "textModuleId": "请点击活动"
+    },
+    {
+     "tag": "21090",
+     "textModuleId": "请点击剧情回顾"
+    },
+    {
+     "tag": "22091",
+     "textModuleId": "完成主线任务后即可开启对应的剧情回顾副本，可以再次挑战剧情BOSS。"
+    },
+    {
+     "tag": "22092",
+     "textModuleId": "现在船长就来挑战一次副本吧！"
+    },
+    {
+     "tag": "23093",
+     "textModuleId": "恭喜船长获得了胜利！由于首次达成星级条件，获得了蓝钻奖励。"
+    },
+    {
+     "tag": "23094",
+     "textModuleId": "挑战剧情回顾副本可掉落装备奖励，还有概率获得英雄装备"
+    },
+    {
+     "tag": "24096",
+     "textModuleId": "挑战胜利后会消耗挑战次数，挑战次数每日0点刷新。"
+    },
+    {
+     "tag": "24097",
+     "textModuleId": "副本分为简单和困难两个难度，困难副本的敌人更为强大，但奖励也更加丰富，推荐组队挑战。"
+    },
+    {
+     "tag": "24098",
+     "textModuleId": "接下来请船长自行挑战剧情回顾副本吧！"
+    },
+    {
+     "tag": "25099",
+     "textModuleId": "角色可以通过训练提升属性，点击角色头像，进入对应角色的训练"
+    },
+    {
+     "tag": "25100",
+     "textModuleId": "点击返回按钮"
+    },
+    {
+     "tag": "25101",
+     "textModuleId": "点击按钮可以查看角色的训练情况"
+    },
+    {
+     "tag": "25102",
+     "textModuleId": "可以选择不同的训练模式和属性"
+    },
+    {
+     "tag": "25103",
+     "textModuleId": "可以点击说明按钮，查看详细规则说明"
+    },
+    {
+     "tag": "25104",
+     "textModuleId": "点击未上阵按钮，可以对未上阵的角色进行训练"
+    },
+    {
+     "tag": "25105",
+     "textModuleId": "通过开关筛选按钮，可以对未上阵角色进行筛选"
+    },
+    {
+     "tag": "26106",
+     "textModuleId": "点击公会"
+    },
+    {
+     "tag": "26107",
+     "textModuleId": "公会列表中展示了游戏中成立的公会，船长可以选择自己喜欢的公会加入。"
+    },
+    {
+     "tag": "26108",
+     "textModuleId": "通过创建公会按钮，船长可以创建属于自己的公会。"
+    },
+    {
+     "tag": "26109",
+     "textModuleId": "通过一键申请按钮，可以快速批量申请加入公会。现在请点击一键申请按钮。"
+    },
+    {
+     "tag": "27110",
+     "textModuleId": "恭喜船长买到了新装备，现在就立刻穿戴上吧！请点击阵容。"
+    },
+    {
+     "tag": "27111",
+     "textModuleId": "点击加号，打开装备背包。"
+    },
+    {
+     "tag": "27112",
+     "textModuleId": "选择装备进行查看"
+    },
+    {
+     "tag": "27113",
+     "textModuleId": "点击装备按钮，穿上这件装备吧！"
+    },
+    {
+     "tag": "27114",
+     "textModuleId": "点击装备标签，切换到角色装备界面。"
+    },
+    {
+     "tag": "28116",
+     "textModuleId": "装备可以通过精炼来强化属性，点击装备进行一次精炼。"
+    },
+    {
+     "tag": "28117",
+     "textModuleId": "点击精炼按钮"
+    },
+    {
+     "tag": "28118",
+     "textModuleId": "精炼可大幅提升装备的基础属性。不同部位的装备，提升的属性不同。"
+    },
+    {
+     "tag": "28119",
+     "textModuleId": "装备精炼有成功概率，失败多次可以获得翻牌的机会，翻牌可以获得对精炼大有帮助的增益效果。"
+    },
+    {
+     "tag": "28120",
+     "textModuleId": "现在就进行一次精炼吧！"
+    },
+    {
+     "tag": "29122",
+     "textModuleId": "本场战斗的限制条件如 [提示] 所述"
+    },
+    {
+     "tag": "29123",
+     "textModuleId": "已有的角色 [路飞] \\n为必须上阵角色"
+    },
+    {
+     "tag": "29124",
+     "textModuleId": "左侧为已有角色列表，\\n点击角色头像上阵"
+    },
+    {
+     "tag": "29125",
+     "textModuleId": "配置完毕后，\\n点击 [出战] 按钮进入战斗"
+    },
+    {
+     "tag": "30126",
+     "textModuleId": "可以查看已制作战船的展现"
+    },
+    {
+     "tag": "30127",
+     "textModuleId": "可以在库存处查看已制作的相同的其他战船"
+    },
+    {
+     "tag": "30128",
+     "textModuleId": "您已获得黄金梅丽号，请点击前往码头查看吧"
+    },
+    {
+     "tag": "30129",
+     "textModuleId": "点击材料合成可进入材料制作界面"
+    },
+    {
+     "tag": "30130",
+     "textModuleId": "野外采集到的物料箱可以再次提炼获得造船的原材料"
+    },
+    {
+     "tag": "30131",
+     "textModuleId": "点击零件制作"
+    },
+    {
+     "tag": "30132",
+     "textModuleId": "提炼获得的原材料和商店购买的原材料可以制作获得战船的零件"
+    },
+    {
+     "tag": "30133",
+     "textModuleId": "点击关闭材料库"
+    },
+    {
+     "tag": "30134",
+     "textModuleId": "可以在材料商店购买制作零件的部分原材料"
+    },
+    {
+     "tag": "30135",
+     "textModuleId": "请船长点击造船厂，进入造船厂界面"
+    },
+    {
+     "tag": "30136",
+     "textModuleId": "请船长点击出战，让梅丽号陪我们一起冒险吧"
+    },
+    {
+     "tag": "30137",
+     "textModuleId": "建造战船需要的材料，材料充足点击建造可建造战船"
+    },
+    {
+     "tag": "30138",
+     "textModuleId": "请点击详情，可查看战船的基础信息"
+    },
+    {
+     "tag": "30139",
+     "textModuleId": "可以查看战船的属性加成、海战技能等信息"
+    },
+    {
+     "tag": "30140",
+     "textModuleId": "造船等级信息，通过制造零件和建造战船可以获得经验，进阶后可以建造更高级的战船"
+    },
+    {
+     "tag": "30141",
+     "textModuleId": "点击此处可查看战船的详细信息"
+    },
+    {
+     "tag": "31142",
+     "textModuleId": "您的公会已经解锁指挥中心，在这里可以报名参与激烈的海战玩法"
+    },
+    {
+     "tag": "31143",
+     "textModuleId": "首先让我们了解一下如何报名，请点击海战报名按键"
+    },
+    {
+     "tag": "31144",
+     "textModuleId": "会长与副会长可以代表公会进行报名，报名后该界面会显示“已报名”"
+    },
+    {
+     "tag": "31145",
+     "textModuleId": "然后我们再了解一下如何个人报名，请点击个人报名按键"
+    },
+    {
+     "tag": "31146",
+     "textModuleId": "公会海战中使用的阵容需要单独设置，个人报名前一定要设置一下出战阵容，请点击出战设置"
+    },
+    {
+     "tag": "31147",
+     "textModuleId": "海战中会优先出战第一舰队，在第一舰队战败后就要出战第二舰队了，所以一定要设置两个舰队哦！"
+    },
+    {
+     "tag": "31148",
+     "textModuleId": "此处可以选择出战角色，并且可以设置阵型"
+    },
+    {
+     "tag": "31149",
+     "textModuleId": "此处可以设置战船，需要注意第一舰队和第二舰队不可以设置同一战船或角色"
+    },
+    {
+     "tag": "31150",
+     "textModuleId": "下面让我们了解一下其他功能，请点击关闭"
+    },
+    {
+     "tag": "31151",
+     "textModuleId": "下面让我们了解一下其他功能，请点击关闭按键"
+    },
+    {
+     "tag": "31152",
+     "textModuleId": "在海战部署中可以查看对战时间安排"
+    },
+    {
+     "tag": "31153",
+     "textModuleId": "当战场开放时，通过指挥中心或是主界面提示图标即可进入海战。"
+    },
+    {
+     "tag": "31154",
+     "textModuleId": "最后，详细的海战规则您随时可以查看帮助！"
+    },
+    {
+     "tag": "32155",
+     "textModuleId": "每日零时随机刷新8个订单，可以通过接取订单派遣船只来进行贸易，完成贸易后可以获得情报值和道具奖励。"
+    },
+    {
+     "tag": "32156",
+     "textModuleId": "距离下次刷新全部订单的时间"
+    },
+    {
+     "tag": "32157",
+     "textModuleId": "累计足够的情报值后，可以领取情报奖励，随即开启下一阶段情报奖励"
+    },
+    {
+     "tag": "32158",
+     "textModuleId": "点击后系统自动选择船只进行出航"
+    },
+    {
+     "tag": "32159",
+     "textModuleId": "正在进行中的订单可以在我的订单中进行查看"
+    },
+    {
+     "tag": "32160",
+     "textModuleId": "点击城镇可以查看所属贸易订单"
+    },
+    {
+     "tag": "32161",
+     "textModuleId": "根据战船收益不同，最终获得奖励也会不同。船长大人准备出航冒险吧！"
+    },
+    {
+     "tag": "32162",
+     "textModuleId": "请点击查看"
+    },
+    {
+     "tag": "33164",
+     "textModuleId": "点击助战按钮，可以切换至助战列表"
+    },
+    {
+     "tag": "33165",
+     "textModuleId": "可以查看角色的助战属性及解锁条件"
+    },
+    {
+     "tag": "33166",
+     "textModuleId": "请点击查看阵型，进行助阵角色设置"
+    },
+    {
+     "tag": "33167",
+     "textModuleId": "点击助战按钮进入助阵界面"
+    },
+    {
+     "tag": "33169",
+     "textModuleId": "阵型升级时会解锁助阵位，上阵角色后可以提高阵容上角色的属性"
+    },
+    {
+     "tag": "33170",
+     "textModuleId": "请点击阵型升级按钮可对阵型进行升级操作"
+    },
+    {
+     "tag": "33171",
+     "textModuleId": "阵型达到1级时可以首个助战位"
+    },
+    {
+     "tag": "33172",
+     "textModuleId": "添加经验卷轴、技能书、突破材料、亲密度材料等可对阵型进行升级"
+    },
+    {
+     "tag": "34173",
+     "textModuleId": "附魂是一种用魂卡提升指定英雄能力的玩法，首先我们需要选择需要附魂的角色"
+    },
+    {
+     "tag": "34174",
+     "textModuleId": "点击按键，将花费1黄金战魂来获取一张魂卡"
+    },
+    {
+     "tag": "34175",
+     "textModuleId": "获取魂卡后，选择魂卡将其放置在下方的魂槽，该英雄就会获得该魂卡的增益"
+    },
+    {
+     "tag": "34176",
+     "textModuleId": "附魂继承可以将一位英雄的所有魂卡转移到另一位英雄身上"
+    },
+    {
+     "tag": "34177",
+     "textModuleId": "详细规则可以查看玩法说明"
+    },
+    {
+     "tag": "35179",
+     "textModuleId": "海岛争霸是一个全新玩法，你可以使用提供的英雄与其他玩家进行对战，直至角逐出最后的胜利者!"
+    },
+    {
+     "tag": "35180",
+     "textModuleId": "这是你在海岛争霸中的段位,每局游戏结束后会获得积分来提升段位"
+    },
+    {
+     "tag": "35181",
+     "textModuleId": "每局游戏后会获得海岛金币,可在海岛商店中兑换道具,金币每周有获取上限哟~"
+    },
+    {
+     "tag": "35182",
+     "textModuleId": "这里可以查看赛季奖励及排行情况,每个赛季结束后,玩家将会获得丰厚的奖励"
+    },
+    {
+     "tag": "35183",
+     "textModuleId": "更多玩法信息,可以查看游戏说明来获得更多的了解"
+    },
+    {
+     "tag": "35184",
+     "textModuleId": "快点来进行一局对战吧!"
+    },
+    {
+     "tag": "36185",
+     "textModuleId": "点击查看图鉴"
+    },
+    {
+     "tag": "36186",
+     "textModuleId": "历险的参战角色为玩家所拥有的SSR和SR角色"
+    },
+    {
+     "tag": "36187",
+     "textModuleId": "角色养成的星级保留,等级需要在玩法中重新培养"
+    },
+    {
+     "tag": "36188",
+     "textModuleId": "点击关闭图鉴"
+    },
+    {
+     "tag": "36189",
+     "textModuleId": "点击进入主线关卡"
+    },
+    {
+     "tag": "36190",
+     "textModuleId": "此处显示本关的胜利和失败条件"
+    },
+    {
+     "tag": "36191",
+     "textModuleId": "此处显示本关的预览地图红色为敌人蓝色为我方"
+    },
+    {
+     "tag": "36192",
+     "textModuleId": "此处为根据敌方配置,推荐你使用的角色,使用推荐的角色能使战斗更为轻松哦"
+    },
+    {
+     "tag": "36193",
+     "textModuleId": "此处为完成关卡后可获得的奖励"
+    },
+    {
+     "tag": "36194",
+     "textModuleId": "点击出战按钮进入战斗"
+    },
+    {
+     "tag": "37197",
+     "textModuleId": "请点击按键，进入海图界面"
+    },
+    {
+     "tag": "37198",
+     "textModuleId": "海图中有多个海域，提高战船改造等级，可以前往其他海域"
+    },
+    {
+     "tag": "37199",
+     "textModuleId": "在海上冒险/完成任务可以获得特殊货币,可以用来在商店购买稀有材料"
+    },
+    {
+     "tag": "37200",
+     "textModuleId": "请点击按键，在广袤的大海上扬帆起航吧!"
+    },
+    {
+     "tag": "37201",
+     "textModuleId": "现在我们需要前往港口"
+    },
+    {
+     "tag": "37202",
+     "textModuleId": "这里会显示您可用的战船"
+    },
+    {
+     "tag": "37203",
+     "textModuleId": "如果您的战船在战斗中受损，可以在这里进行修理"
+    },
+    {
+     "tag": "37204",
+     "textModuleId": "您可以改造您的战船，增加战船的战斗力和采集能力"
+    },
+    {
+     "tag": "37205",
+     "textModuleId": "右方会显示您的战船信息，包括战船能量，属性，以及技能"
+    },
+    {
+     "tag": "37206",
+     "textModuleId": "点击出航，开始航海探险吧！"
+    },
+    {
+     "tag": "37207",
+     "textModuleId": "右上方小地图显示您在海域中的位置，点击后可以查看整个海域的状态"
+    },
+    {
+     "tag": "37208",
+     "textModuleId": "通过航海手册可以了解海域情况，岛屿情况，任务情况等诸多海域信息，请点击航海手册"
+    },
+    {
+     "tag": "37209",
+     "textModuleId": "通过玩法说明,了解大航海玩法的具体信息"
+    },
+    {
+     "tag": "37210",
+     "textModuleId": "现在请点击岛屿信息的“前往”按键，开启精彩的航海旅程吧!"
+    },
+    {
+     "tag": "38213",
+     "textModuleId": "秘境玩法是一个单人挑战玩法，点击查看玩法说明"
+    },
+    {
+     "tag": "38214",
+     "textModuleId": "每天开放3个玩法，不同玩法获得积分，累计总积分获得奖励"
+    },
+    {
+     "tag": "38215",
+     "textModuleId": "点击关闭说明面板"
+    },
+    {
+     "tag": "38216",
+     "textModuleId": "这里是你将要进行的秘境试炼"
+    },
+    {
+     "tag": "38217",
+     "textModuleId": "此处为该秘境的名称和积分规则"
+    },
+    {
+     "tag": "38218",
+     "textModuleId": "此处是本服挑战该秘境获得最高分的玩家信息，可查看战斗回放"
+    },
+    {
+     "tag": "38219",
+     "textModuleId": "这里显示你挑战该秘境的阵容，当你挑战后，可在这里进行重置"
+    },
+    {
+     "tag": "38220",
+     "textModuleId": "每个秘境包含三种难度，选择更高难度可获得更高积分"
+    },
+    {
+     "tag": "38221",
+     "textModuleId": "点击这里，上阵角色开始挑战秘境"
+    },
+    {
+     "tag": "38222",
+     "textModuleId": "秘境上阵角色有人数限制"
+    },
+    {
+     "tag": "38223",
+     "textModuleId": "点击空位置上阵角色"
+    },
+    {
+     "tag": "38224",
+     "textModuleId": "点击选择按钮上阵角色"
+    },
+    {
+     "tag": "38225",
+     "textModuleId": "选好上阵角色后，点击进入战斗，即可开始秘境试炼啦！"
+    },
+    {
+     "tag": "39226",
+     "textModuleId": "恭喜您开启天梯赛，天梯赛是一个跨服同步PVP玩法，您可以在玩法中证明自己的实力，获取荣耀与奖励"
+    },
+    {
+     "tag": "39227",
+     "textModuleId": "天梯赛有两种赛制，分别为荣耀赛和巅峰赛。"
+    },
+    {
+     "tag": "39228",
+     "textModuleId": "荣耀赛和巅峰赛都需要配置单独的阵容，我们需要布阵后才能开始战斗"
+    },
+    {
+     "tag": "39229",
+     "textModuleId": "玩家参与任意赛制，都可以获得该赛制奖励。奖励会根据玩家的活跃程度和积分以邮件的形式发放。"
+    },
+    {
+     "tag": "39230",
+     "textModuleId": "请点击商店"
+    },
+    {
+     "tag": "39231",
+     "textModuleId": "新天梯商店增加了更多的商品。 努力获得代币，就可以在商店中购买心仪的物品和装备啦！"
+    },
+    {
+     "tag": "39232",
+     "textModuleId": "请点击关闭按键，关闭商店"
+    },
+    {
+     "tag": "39233",
+     "textModuleId": "荣耀赛中，玩家的上阵角色属性只会受到角色等级，技能，超越，突破，阵法以及时装的影响。  巅峰赛没有任何属性限制，您可以最强姿态参与战斗"
+    },
+    {
+     "tag": "39234",
+     "textModuleId": "荣耀赛达到1300分段后，就可获得巅峰赛参与资格。"
+    },
+    {
+     "tag": "39235",
+     "textModuleId": "巅峰赛有单独的积分和排名，参与赛事玩家会获得代币和更好的奖励"
+    },
+    {
+     "tag": "39236",
+     "textModuleId": "赛季结束时，巅峰赛排行榜前32名将获得争霸赛资格，可以在最高赛事中获得最高荣耀和最宝贵奖励"
+    },
+    {
+     "tag": "39237",
+     "textModuleId": "想了解天梯的更多规则，请在说明中查看。"
+    },
+    {
+     "tag": "40238",
+     "textModuleId": "欢迎来到家园，这里是你的专属私人空间。你可以任意发展你自己的家园让它与众不同！"
+    },
+    {
+     "tag": "40239",
+     "textModuleId": "再来让我们看看家园的全貌吧！"
+    },
+    {
+     "tag": "40240",
+     "textModuleId": "在家园中有很多土地可以供你使用"
+    },
+    {
+     "tag": "40241",
+     "textModuleId": "首先点击土地进行开垦"
+    },
+    {
+     "tag": "40242",
+     "textModuleId": "请点击开垦"
+    },
+    {
+     "tag": "40243",
+     "textModuleId": "请确认开垦"
+    },
+    {
+     "tag": "40245",
+     "textModuleId": "开垦成功后我们就可以来建造建筑了"
+    },
+    {
+     "tag": "40246",
+     "textModuleId": "让我们查看一下都有哪些建筑物吧"
+    },
+    {
+     "tag": "40247",
+     "textModuleId": "精华收集器是家园重要的原料建筑，首先建造这个吧！"
+    },
+    {
+     "tag": "40249",
+     "textModuleId": "接下来就可以进行生产精华了"
+    },
+    {
+     "tag": "40250",
+     "textModuleId": "首先我们要添加工作角色"
+    },
+    {
+     "tag": "40251",
+     "textModuleId": "请选中一个角色"
+    },
+    {
+     "tag": "40252",
+     "textModuleId": "点击确定，即可选择该角色进行生产"
+    },
+    {
+     "tag": "40253",
+     "textModuleId": "精华收集器每日可工作10小时，每日早8点进行重置"
+    },
+    {
+     "tag": "40254",
+     "textModuleId": "此处可查看精华收集器的具体生产信息"
+    },
+    {
+     "tag": "40255",
+     "textModuleId": "角色生产需要体力，当角色体力不足时，精华收集器也无法继续工作"
+    },
+    {
+     "tag": "40256",
+     "textModuleId": "请点击退出"
+    },
+    {
+     "tag": "40257",
+     "textModuleId": "请点击退出"
+    },
+    {
+     "tag": "40258",
+     "textModuleId": "接下来可以尝试去建造图书馆。能够生产多种道具哦！"
+    },
+    {
+     "tag": "40259",
+     "textModuleId": "首先来看一下家园任务"
+    },
+    {
+     "tag": "40260",
+     "textModuleId": "完成家园任务可以获得建造家园的必要材料"
+    },
+    {
+     "tag": "40261",
+     "textModuleId": "领取任务后，便可以开始进行任务"
+    },
+    {
+     "tag": "40262",
+     "textModuleId": "家园等级越高，每日可接取任务越多。任务每日0点刷新"
+    },
+    {
+     "tag": "40263",
+     "textModuleId": "请点击关闭"
+    },
+    {
+     "tag": "41264",
+     "textModuleId": "现在我们可以生产道具了！"
+    },
+    {
+     "tag": "41265",
+     "textModuleId": "首先请选择我们将要生产的道具"
+    },
+    {
+     "tag": "41266",
+     "textModuleId": "请点击添加3名生产角色"
+    },
+    {
+     "tag": "41267",
+     "textModuleId": "请选择第1名生产角色"
+    },
+    {
+     "tag": "41268",
+     "textModuleId": "请选择第2名生产角色"
+    },
+    {
+     "tag": "41269",
+     "textModuleId": "请选择第3名生产角色"
+    },
+    {
+     "tag": "41270",
+     "textModuleId": "请点击确定"
+    },
+    {
+     "tag": "41271",
+     "textModuleId": "此处可以预览本次生产的进度，当生产进度每次达到100%时，就可以获得1个道具"
+    },
+    {
+     "tag": "41272",
+     "textModuleId": "每次生产将会消耗一定数量的精华。每次生产结束后可以获得工作进度"
+    },
+    {
+     "tag": "41273",
+     "textModuleId": "点击开始工作"
+    },
+    {
+     "tag": "41274",
+     "textModuleId": "等待时间结束后就可以领取相应奖励了"
+    },
+    {
+     "tag": "42275",
+     "textModuleId": "开启<color=red>晋升功能</color>的角色会在强化至<color=red>8星</color>时，将【超越】替换为【晋升】，你可以通过【晋升】系统继续强化自己的角色"
+    },
+    {
+     "tag": "43278",
+     "textModuleId": "完成通行证的每日任务，领取每日活跃奖励，可以获得大量角色经验值！"
+    },
+    {
+     "tag": "44279",
+     "textModuleId": "请点击限时好礼"
+    },
+    {
+     "tag": "44280",
+     "textModuleId": "请点击上方游戏福利分页"
+    },
+    {
+     "tag": "44281",
+     "textModuleId": "请点击等级礼包分页"
+    },
+    {
+     "tag": "44282",
+     "textModuleId": "领取10级奖励，可以获得10张新手招募券，进行新手招募有概率获取到SSR角色！"
+    },
+    {
+     "tag": "44283",
+     "textModuleId": "点击关闭限时好礼界面"
+    },
+    {
+     "tag": "44284",
+     "textModuleId": "点击招募按键"
+    },
+    {
+     "tag": "44285",
+     "textModuleId": "点击新手招募"
+    },
+    {
+     "tag": "44286",
+     "textModuleId": "请船长进行新手招募吧！\\n点击任意区域退出引导。"
+    }
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle": "tabledata_v1.ab",
+   "other_bundle_rows": [
+    {
+     "tag": "13060",
+     "textModuleId": "活动副本分为训练之日、突破之日、黄金试炼、勇者试炼，分别可以获得训练道具、突破材料、金块、经验卷轴。"
+    },
+    {
+     "tag": "13061",
+     "textModuleId": "突破之日、训练之日副本，开启后有次数限制，次数用完时可以使用道具增加次数"
+    },
+    {
+     "tag": "13063",
+     "textModuleId": "突破之日、训练之日副本，难度分为不同等级，等级越高奖励越丰厚。"
+    },
+    {
+     "tag": "28118",
+     "textModuleId": "精炼可大幅提升装备的属性。不同部位的装备，提升的属性不同。"
+    },
+    {
+     "tag": "28119",
+     "textModuleId": "装备精炼有成功概率。"
+    },
+    {
+     "tag": "45281",
+     "textModuleId": "自动战斗已开启，点击可开启倍速自动战斗"
+    },
+    {
+     "tag": "46281",
+     "textModuleId": "请点击可突破英雄"
+    },
+    {
+     "tag": "47286",
+     "textModuleId": "训练功能已解锁，我们快来看看吧"
+    },
+    {
+     "tag": "47288",
+     "textModuleId": "训练角色可使角色获得大量属性提升"
+    },
+    {
+     "tag": "47289",
+     "textModuleId": "选择英雄头像"
+    },
+    {
+     "tag": "47290",
+     "textModuleId": "点击训练按钮进行训练吧"
+    },
+    {
+     "tag": "49291",
+     "textModuleId": "有集星奖励可以领取，快去看看吧"
+    },
+    {
+     "tag": "49292",
+     "textModuleId": "有集星奖励可以领取，点击看看吧"
+    },
+    {
+     "tag": "49293",
+     "textModuleId": "点击领取奖励"
+    },
+    {
+     "tag": "50291",
+     "textModuleId": "参与航海模拟战可获得大量队伍经验、招募券、黄金战魂等奖励"
+    },
+    {
+     "tag": "50292",
+     "textModuleId": "进行一次航海模拟战试试吧"
+    },
+    {
+     "tag": "51291",
+     "textModuleId": "参与实战演练可获得四系角色技能书、招募券等奖励"
+    },
+    {
+     "tag": "51293",
+     "textModuleId": "可在此处选择关卡"
+    },
+    {
+     "tag": "51294",
+     "textModuleId": "每关有三个星级条件，集星可获得大量奖励"
+    },
+    {
+     "tag": "51295",
+     "textModuleId": "每次战斗会消耗行动力"
+    },
+    {
+     "tag": "51296",
+     "textModuleId": "进行一次实战演练试试吧"
+    },
+    {
+     "tag": "52299",
+     "textModuleId": "血战可获得蓝钻、宝石、快速挑战券等奖励"
+    },
+    {
+     "tag": "52300",
+     "textModuleId": "请点击进入关卡"
+    },
+    {
+     "tag": "52301",
+     "textModuleId": "点击挑战进行挑战吧！"
+    },
+    {
+     "tag": "52302",
+     "textModuleId": "点击可以快速进行战斗"
+    },
+    {
+     "tag": "54303",
+     "textModuleId": "参与强者挑战可以获得大量荣誉币，在商店中兑换角色碎片等丰厚道具！"
+    },
+    {
+     "tag": "52304",
+     "textModuleId": "点击可以快速进行战斗"
+    },
+    {
+     "tag": "52305",
+     "textModuleId": "点击可以快速进行战斗"
+    },
+    {
+     "tag": "52306",
+     "textModuleId": "点击可以快速进行战斗"
+    },
+    {
+     "tag": "52307",
+     "textModuleId": "点击可以快速进行战斗"
+    },
+    {
+     "tag": "52308",
+     "textModuleId": "点击可以快速进行战斗"
+    },
+    {
+     "tag": "52309",
+     "textModuleId": "可以在此查看选中船只当前所提供的属性与技能"
+    },
+    {
+     "tag": "52310",
+     "textModuleId": "点击这里进行船只改造"
+    },
+    {
+     "tag": "52311",
+     "textModuleId": "满足此处的材料条件后可以进行改造来强化战船所提供的属性以及提升改造等级"
+    },
+    {
+     "tag": "52312",
+     "textModuleId": "在这里可以查看您当前的改造等级，提升至特定等级可以解锁战船洗练。"
+    },
+    {
+     "tag": "52313",
+     "textModuleId": "箭头左侧为船只当前属性，右侧显示此次提升改造等级将提供哪些增益。"
+    },
+    {
+     "tag": "52314",
+     "textModuleId": "请关闭改造界面"
+    },
+    {
+     "tag": "52315",
+     "textModuleId": "高级船只可以在这里进行船只洗练，获得属性加成"
+    }
+   ],
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row reuses the rows translation"
+  }
+ }
+}
