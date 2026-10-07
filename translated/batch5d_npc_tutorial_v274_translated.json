@@ -1,0 +1,2590 @@
+{
+ "header": {
+  "description": "English translation of source/batch5d_npc_tutorial_v274_source.json",
+  "source": "source/batch5d_npc_tutorial_v274_source.json"
+ },
+ "tables": {
+  "TableSceneNpc": {
+   "key_column": "id",
+   "text_columns": [
+    "defaultDialog"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row reuses the rows translation",
+   "rows": [
+    {
+     "id": "151",
+     "defaultDialog": "It's been... 8 years already."
+    },
+    {
+     "id": "154",
+     "defaultDialog": "It's all over, Bell-mère. 8 long years, and at last everyone is free!!"
+    },
+    {
+     "id": "215",
+     "defaultDialog": "Carefully crafted, a shop a hundred years old."
+    },
+    {
+     "id": "264",
+     "defaultDialog": "This is the blacksmith. I even have the weapons Arlong banned."
+    },
+    {
+     "id": "399",
+     "defaultDialog": "I just took Nami's temperature and it's already 42 degrees! We have to find a doctor fast!"
+    },
+    {
+     "id": "426",
+     "defaultDialog": "Mr. 4, take them out! Take them out! Take! Them! Out!"
+    },
+    {
+     "id": "677",
+     "defaultDialog": "People without money shouldn't come to the casino anymore."
+    },
+    {
+     "id": "678",
+     "defaultDialog": "If you can't handle losing money, don't try to win it back."
+    },
+    {
+     "id": "679",
+     "defaultDialog": "What, you lost money and now you're here to make trouble?"
+    },
+    {
+     "id": "680",
+     "defaultDialog": "I'm getting old, and I've seen a lot."
+    },
+    {
+     "id": "681",
+     "defaultDialog": "Nothing to do today. Let's go shopping together."
+    },
+    {
+     "id": "682",
+     "defaultDialog": "What should I buy?"
+    },
+    {
+     "id": "685",
+     "defaultDialog": "Hey, have you heard? Some pirates with big bounties showed up lately."
+    },
+    {
+     "id": "686",
+     "defaultDialog": "I heard! This is our chance!"
+    },
+    {
+     "id": "688",
+     "defaultDialog": "You can smell this restaurant all the way out in the street."
+    },
+    {
+     "id": "691",
+     "defaultDialog": "This is our headquarters."
+    },
+    {
+     "id": "692",
+     "defaultDialog": "I've always heard the casino owner here is a good guy."
+    },
+    {
+     "id": "695",
+     "defaultDialog": "Being driven from your home is awful."
+    },
+    {
+     "id": "696",
+     "defaultDialog": "Tch, let's lie low in Nanohana for a while."
+    },
+    {
+     "id": "697",
+     "defaultDialog": "This country is beyond saving."
+    },
+    {
+     "id": "698",
+     "defaultDialog": "Sandstorms can't destroy this resilient land."
+    },
+    {
+     "id": "702",
+     "defaultDialog": "Build a big ship! You need a big ship for the voyage!"
+    },
+    {
+     "id": "713",
+     "defaultDialog": "Where did you get your perfume? It smells great."
+    },
+    {
+     "id": "714",
+     "defaultDialog": "A friend bought it in Nanohana. Let's go together next time."
+    },
+    {
+     "id": "715",
+     "defaultDialog": "Don't run off."
+    },
+    {
+     "id": "716",
+     "defaultDialog": "Come on, let's play together."
+    },
+    {
+     "id": "717",
+     "defaultDialog": "The war is finally over."
+    },
+    {
+     "id": "757",
+     "defaultDialog": "Awoo awoo!!!"
+    },
+    {
+     "id": "760",
+     "defaultDialog": "You won't barge through the main gate!"
+    },
+    {
+     "id": "761",
+     "defaultDialog": "Want to challenge me? No problem."
+    },
+    {
+     "id": "762",
+     "defaultDialog": "Hmm... let's have a match."
+    },
+    {
+     "id": "765",
+     "defaultDialog": "Ow... the boss won't let you get away with this!"
+    },
+    {
+     "id": "772",
+     "defaultDialog": "Prepare Yourself!"
+    },
+    {
+     "id": "774",
+     "defaultDialog": "I wonder if Vivi made it..."
+    },
+    {
+     "id": "775",
+     "defaultDialog": "Hey! Have you seen Vivi?"
+    },
+    {
+     "id": "776",
+     "defaultDialog": "Help me..."
+    },
+    {
+     "id": "777",
+     "defaultDialog": "Where did Luffy run off to?"
+    },
+    {
+     "id": "778",
+     "defaultDialog": "It's so hot here."
+    },
+    {
+     "id": "779",
+     "defaultDialog": "I know I can dig up water!"
+    },
+    {
+     "id": "780",
+     "defaultDialog": "What I can do... right now, I just have to do what I can...!"
+    },
+    {
+     "id": "781",
+     "defaultDialog": "Crocodile's lackeys..."
+    },
+    {
+     "id": "788",
+     "defaultDialog": "Caw... caw caw!"
+    },
+    {
+     "id": "789",
+     "defaultDialog": "That hurts!"
+    },
+    {
+     "id": "819",
+     "defaultDialog": "Poor Kung-Fu Dugongs..."
+    },
+    {
+     "id": "826",
+     "defaultDialog": "Sorry for the trouble. I thought you were treasure-hunting fools dreaming of finding gold too."
+    },
+    {
+     "id": "827",
+     "defaultDialog": "People's dreams never end!"
+    },
+    {
+     "id": "828",
+     "defaultDialog": "The era of pirates dreaming of treasure is over."
+    },
+    {
+     "id": "829",
+     "defaultDialog": "Ha ha ha, that guy just got beaten badly by Bellamy."
+    },
+    {
+     "id": "830",
+     "defaultDialog": "Of course! He's Bellamy the Hyena, right!"
+    },
+    {
+     "id": "831",
+     "defaultDialog": "Welcome to Mock Town. What'll you drink?"
+    },
+    {
+     "id": "832",
+     "defaultDialog": "The front of this castle is just a board."
+    },
+    {
+     "id": "833",
+     "defaultDialog": "I've definitely heard the story of Noland the Liar."
+    },
+    {
+     "id": "834",
+     "defaultDialog": "Hey! Luffy! That's the Knock Up Stream! Th-think it over!"
+    },
+    {
+     "id": "835",
+     "defaultDialog": "Luffy! If we miss this chance, who knows when we'll get to the Sky Island!"
+    },
+    {
+     "id": "836",
+     "defaultDialog": "The Sky Island is scary... The Sky Island is scary..."
+    },
+    {
+     "id": "837",
+     "defaultDialog": "Sounds like it'll be a fun journey."
+    },
+    {
+     "id": "838",
+     "defaultDialog": "I've never dealt with disgusting bugs in my whole life!"
+    },
+    {
+     "id": "839",
+     "defaultDialog": "What's all the fuss? It's just a spider."
+    },
+    {
+     "id": "840",
+     "defaultDialog": "Gross! So disgusting!"
+    },
+    {
+     "id": "841",
+     "defaultDialog": "This bird is so annoying."
+    },
+    {
+     "id": "842",
+     "defaultDialog": "What a headache."
+    },
+    {
+     "id": "843",
+     "defaultDialog": "I can't go on, I can't run anymore."
+    },
+    {
+     "id": "844",
+     "defaultDialog": "I'm worn out from running."
+    },
+    {
+     "id": "845",
+     "defaultDialog": "As long as we can see it, we're fine."
+    },
+    {
+     "id": "846",
+     "defaultDialog": "Chirp chirp... chirp chirp... chirp chirp"
+    },
+    {
+     "id": "859",
+     "defaultDialog": "Welcome to Angel Beach in the land of God."
+    },
+    {
+     "id": "860",
+     "defaultDialog": "This is a Vearth, something the sky people have always longed for."
+    },
+    {
+     "id": "861",
+     "defaultDialog": "The exit is Gate 2. The huge canal that leads to \"God's Island\" is... is the only way through."
+    },
+    {
+     "id": "863",
+     "defaultDialog": "An unfamiliar face... Are you a pirate? I've never seen you in town."
+    },
+    {
+     "id": "864",
+     "defaultDialog": "Out of my sight, go away!"
+    },
+    {
+     "id": "865",
+     "defaultDialog": "Where did the boss go..."
+    },
+    {
+     "id": "866",
+     "defaultDialog": "Huh? Who do you think you are?"
+    },
+    {
+     "id": "867",
+     "defaultDialog": "Don't make trouble while we're drinking, ha ha ha!"
+    },
+    {
+     "id": "868",
+     "defaultDialog": "Don't look for trouble, or you'll regret it."
+    },
+    {
+     "id": "869",
+     "defaultDialog": "We were careless earlier. This time you're getting a lesson!"
+    },
+    {
+     "id": "870",
+     "defaultDialog": "Ha ha, time for a brawl!"
+    },
+    {
+     "id": "871",
+     "defaultDialog": "Now I'm mad. Let's fight for real!"
+    },
+    {
+     "id": "872",
+     "defaultDialog": "Luffy, Zoro, don't you two cause any trouble."
+    },
+    {
+     "id": "873",
+     "defaultDialog": "You can see really far from Angel Island's lookout."
+    },
+    {
+     "id": "875",
+     "defaultDialog": "You can't escape now!"
+    },
+    {
+     "id": "876",
+     "defaultDialog": "This time we're serious!"
+    },
+    {
+     "id": "877",
+     "defaultDialog": "You're guilty of a crime!"
+    },
+    {
+     "id": "878",
+     "defaultDialog": "It's dangerous ahead. I suggest you turn back now."
+    },
+    {
+     "id": "879",
+     "defaultDialog": "I told you... stop going forward!"
+    },
+    {
+     "id": "880",
+     "defaultDialog": "These are the ruins of Jaya..."
+    },
+    {
+     "id": "881",
+     "defaultDialog": "This sacred land belongs to us!"
+    },
+    {
+     "id": "882",
+     "defaultDialog": "The injury was just an accident. I can keep fighting right away."
+    },
+    {
+     "id": "883",
+     "defaultDialog": "Who said you could talk down to me? Get lost!"
+    },
+    {
+     "id": "884",
+     "defaultDialog": "Water Seven is great."
+    },
+    {
+     "id": "885",
+     "defaultDialog": "It's so busy here with people coming and going."
+    },
+    {
+     "id": "886",
+     "defaultDialog": "We'll work hard too. Second round of special training, let's go!"
+    },
+    {
+     "id": "887",
+     "defaultDialog": "This is Water Seven's shopping street, the busiest place in town."
+    },
+    {
+     "id": "888",
+     "defaultDialog": "Ha ha, the people of Water Seven are very hospitable."
+    },
+    {
+     "id": "890",
+     "defaultDialog": "The air here is so nice."
+    },
+    {
+     "id": "891",
+     "defaultDialog": "Please, we want to get stronger!"
+    },
+    {
+     "id": "893",
+     "defaultDialog": "Um... have you seen anyone drop something?"
+    },
+    {
+     "id": "894",
+     "defaultDialog": "This is the last one. We'll show you what the Franky Family can do!"
+    },
+    {
+     "id": "895",
+     "defaultDialog": "You're the one who sent people to attack us, aren't you?"
+    },
+    {
+     "id": "909",
+     "defaultDialog": "Where did that guy run off to..."
+    },
+    {
+     "id": "912",
+     "defaultDialog": "As long as you stay here, you're our enemies."
+    },
+    {
+     "id": "913",
+     "defaultDialog": "All right, offer your life to God Enel!"
+    },
+    {
+     "id": "914",
+     "defaultDialog": "Say, what exactly is this Mantra?"
+    },
+    {
+     "id": "915",
+     "defaultDialog": "We met a priest called Satori."
+    },
+    {
+     "id": "916",
+     "defaultDialog": "This island is actually the City of Gold!"
+    },
+    {
+     "id": "917",
+     "defaultDialog": "Looks like everyone's been through a lot."
+    },
+    {
+     "id": "918",
+     "defaultDialog": "I'll definitely become a more reliable man!"
+    },
+    {
+     "id": "919",
+     "defaultDialog": "Sounds like fun."
+    },
+    {
+     "id": "922",
+     "defaultDialog": "I'll never pray to God in my whole life."
+    },
+    {
+     "id": "923",
+     "defaultDialog": "This is the City of Gold we've been looking for."
+    },
+    {
+     "id": "924",
+     "defaultDialog": "This is no time to waste here."
+    },
+    {
+     "id": "925",
+     "defaultDialog": "My duty isn't done yet."
+    },
+    {
+     "id": "929",
+     "defaultDialog": "Carefully crafted, a shop a hundred years old."
+    },
+    {
+     "id": "933",
+     "defaultDialog": "Fresh fruit, come have a taste."
+    },
+    {
+     "id": "938",
+     "defaultDialog": "Cough... cough cough..."
+    },
+    {
+     "id": "939",
+     "defaultDialog": "Luffy..."
+    },
+    {
+     "id": "943",
+     "defaultDialog": "Luffy! I've come to take you down!"
+    },
+    {
+     "id": "947",
+     "defaultDialog": "Let me lie down a bit. You're the stronger one now..."
+    },
+    {
+     "id": "954",
+     "defaultDialog": "Even I failed... ha ha ha..."
+    },
+    {
+     "id": "955",
+     "defaultDialog": "By God's order, I'll use the Impact Dial in my hand to deal with the Shandians and you Blue Sea dwellers."
+    },
+    {
+     "id": "956",
+     "defaultDialog": "Warrior Wyper, moving out!"
+    },
+    {
+     "id": "957",
+     "defaultDialog": "Thanks for your help."
+    },
+    {
+     "id": "958",
+     "defaultDialog": "The soft, fluffy sea of clouds... I feel healed..."
+    },
+    {
+     "id": "959",
+     "defaultDialog": "Want to buy some Sky Island specialties?"
+    },
+    {
+     "id": "960",
+     "defaultDialog": "Watching humans here is my hobby. Want to try it too?"
+    },
+    {
+     "id": "961",
+     "defaultDialog": "My kid is such a handful."
+    },
+    {
+     "id": "962",
+     "defaultDialog": "Where did that guy go..."
+    },
+    {
+     "id": "967",
+     "defaultDialog": "What an interesting town."
+    },
+    {
+     "id": "980",
+     "defaultDialog": "My parents suddenly called me back to help. My date is ruined again........"
+    },
+    {
+     "id": "982",
+     "defaultDialog": "Why isn't she here yet..."
+    },
+    {
+     "id": "983",
+     "defaultDialog": "I'm the best craftsman on the Sky Island. There's nothing I can't fix."
+    },
+    {
+     "id": "987",
+     "defaultDialog": "I've looked everywhere and can't find it. Where did I leave it?"
+    },
+    {
+     "id": "988",
+     "defaultDialog": "Hello, the weather is lovely again today."
+    },
+    {
+     "id": "989",
+     "defaultDialog": "I'm getting old and have to admit it. When I was young, I'd have finished all this in one afternoon."
+    },
+    {
+     "id": "990",
+     "defaultDialog": "Expanding this pavilion is my first job. I can't slack off."
+    },
+    {
+     "id": "991",
+     "defaultDialog": "Our shop's goods are cheap and good quality. Come take a look."
+    },
+    {
+     "id": "994",
+     "defaultDialog": "This jungle is very dangerous. I suggest you leave soon!"
+    },
+    {
+     "id": "995",
+     "defaultDialog": "Lots of Blue Sea dwellers have shown up in the city lately. Don't even think about causing trouble here. I'm watching you!"
+    },
+    {
+     "id": "998",
+     "defaultDialog": "Sooner or later you'll pay for taking our land!"
+    },
+    {
+     "id": "999",
+     "defaultDialog": "Damn, they caught up after all!"
+    },
+    {
+     "id": "1000",
+     "defaultDialog": "You followed us all the way here? Then we'll have to fight!"
+    },
+    {
+     "id": "1001",
+     "defaultDialog": "I'm not telling you where the treasure is. Go away."
+    },
+    {
+     "id": "1061",
+     "defaultDialog": "This island is called Long Ring Long Land. Welcome"
+    },
+    {
+     "id": "1062",
+     "defaultDialog": "Ready, Straw Hat? Let's fight!"
+    },
+    {
+     "id": "1063",
+     "defaultDialog": "You can't win"
+    },
+    {
+     "id": "1064",
+     "defaultDialog": "How foolish."
+    },
+    {
+     "id": "1065",
+     "defaultDialog": "Pupu, let's begin"
+    },
+    {
+     "id": "1066",
+     "defaultDialog": "Leave the match to me!"
+    },
+    {
+     "id": "1067",
+     "defaultDialog": "There's no way you can beat me one-on-one!"
+    },
+    {
+     "id": "1068",
+     "defaultDialog": "Now I'm mad, you guys!"
+    },
+    {
+     "id": "1069",
+     "defaultDialog": "Straw Hat, you'd better remember this!"
+    },
+    {
+     "id": "1070",
+     "defaultDialog": "Pu, pupu"
+    },
+    {
+     "id": "1071",
+     "defaultDialog": "What a strange island..."
+    },
+    {
+     "id": "1072",
+     "defaultDialog": "Is there anyone here"
+    },
+    {
+     "id": "1073",
+     "defaultDialog": "Where is this place"
+    },
+    {
+     "id": "1074",
+     "defaultDialog": "The plants grow so strangely"
+    },
+    {
+     "id": "1075",
+     "defaultDialog": "The name's Foxy!"
+    },
+    {
+     "id": "1076",
+     "defaultDialog": "Pupu, pupupu"
+    },
+    {
+     "id": "1077",
+     "defaultDialog": "Those guys are so rude"
+    },
+    {
+     "id": "1078",
+     "defaultDialog": "Don't accept the challenge, you'll lose your crewmates."
+    },
+    {
+     "id": "1079",
+     "defaultDialog": "If you lose, they take your crewmates..."
+    },
+    {
+     "id": "1080",
+     "defaultDialog": "If you run away, people will laugh at you."
+    },
+    {
+     "id": "1081",
+     "defaultDialog": "Just win, then."
+    },
+    {
+     "id": "1082",
+     "defaultDialog": "Looks scary."
+    },
+    {
+     "id": "1083",
+     "defaultDialog": "So this is the \"Davy Back Fight\"..."
+    },
+    {
+     "id": "1084",
+     "defaultDialog": "Just what I wanted"
+    },
+    {
+     "id": "1085",
+     "defaultDialog": "If you run away, the world will laugh at you"
+    },
+    {
+     "id": "1086",
+     "defaultDialog": "Honestly... I have a disease that keeps me from taking part in matches..."
+    },
+    {
+     "id": "1087",
+     "defaultDialog": "So many people!"
+    },
+    {
+     "id": "1088",
+     "defaultDialog": "How could this happen..."
+    },
+    {
+     "id": "1089",
+     "defaultDialog": "Sounds like fun"
+    },
+    {
+     "id": "1091",
+     "defaultDialog": "Found some good ingredients"
+    },
+    {
+     "id": "1092",
+     "defaultDialog": "Nice view"
+    },
+    {
+     "id": "1093",
+     "defaultDialog": "This area is so empty"
+    },
+    {
+     "id": "1095",
+     "defaultDialog": "Whoa!"
+    },
+    {
+     "id": "1096",
+     "defaultDialog": "He went over toward the rocks... Is there something over there?"
+    },
+    {
+     "id": "1098",
+     "defaultDialog": "Who are you?"
+    },
+    {
+     "id": "1099",
+     "defaultDialog": "I still think you should just die here right now..."
+    },
+    {
+     "id": "1100",
+     "defaultDialog": "Stay back."
+    },
+    {
+     "id": "1104",
+     "defaultDialog": "I won't let you...!"
+    },
+    {
+     "id": "1105",
+     "defaultDialog": "...do as you please any longer...!"
+    },
+    {
+     "id": "1106",
+     "defaultDialog": "If you want to catch me, go ahead!"
+    },
+    {
+     "id": "1107",
+     "defaultDialog": "I'd like to do that too, but I can't move a muscle either"
+    },
+    {
+     "id": "1108",
+     "defaultDialog": "Robin!"
+    },
+    {
+     "id": "1109",
+     "defaultDialog": "What are you doing, Usopp? Hurry and get those three..."
+    },
+    {
+     "id": "1110",
+     "defaultDialog": "I don't mind... but I don't have a ship to take you back, so should I just kill you?"
+    },
+    {
+     "id": "1120",
+     "defaultDialog": "Don't hesitate..."
+    },
+    {
+     "id": "1121",
+     "defaultDialog": "What are you trying to do!?"
+    },
+    {
+     "id": "1122",
+     "defaultDialog": "Don't go, Usopp!"
+    },
+    {
+     "id": "1123",
+     "defaultDialog": "After traveling together all this time, is this how we part"
+    },
+    {
+     "id": "1124",
+     "defaultDialog": "I see, it's badly damaged..."
+    },
+    {
+     "id": "1125",
+     "defaultDialog": "I'm... leaving your crew...!"
+    },
+    {
+     "id": "1126",
+     "defaultDialog": "Duel me!"
+    },
+    {
+     "id": "1127",
+     "defaultDialog": "Be careful, Miss Nami!"
+    },
+    {
+     "id": "1128",
+     "defaultDialog": "I never thought the ship was this badly damaged"
+    },
+    {
+     "id": "1129",
+     "defaultDialog": "We need to find a place to exchange the gold for cash"
+    },
+    {
+     "id": "1130",
+     "defaultDialog": "All right! We're off!"
+    },
+    {
+     "id": "1131",
+     "defaultDialog": "I missed my chance to go with them..."
+    },
+    {
+     "id": "1132",
+     "defaultDialog": "This area's nice"
+    },
+    {
+     "id": "1133",
+     "defaultDialog": "The Sky Island adventure finally paid off!"
+    },
+    {
+     "id": "1134",
+     "defaultDialog": "Th... three hundred million Berries!? This isn't a dream, is it!?"
+    },
+    {
+     "id": "1135",
+     "defaultDialog": "The shipyard is just ahead."
+    },
+    {
+     "id": "1136",
+     "defaultDialog": "Let's go."
+    },
+    {
+     "id": "1137",
+     "defaultDialog": "Um, we'd like to see Mr. Iceburg!"
+    },
+    {
+     "id": "1138",
+     "defaultDialog": "Anyway, can we go in first?"
+    },
+    {
+     "id": "1139",
+     "defaultDialog": "I'm the boss of this city! Iceburg."
+    },
+    {
+     "id": "1140",
+     "defaultDialog": "You rude bunch!!"
+    },
+    {
+     "id": "1141",
+     "defaultDialog": "Please! Fix our ship! We'll pay!"
+    },
+    {
+     "id": "1142",
+     "defaultDialog": "Please."
+    },
+    {
+     "id": "1143",
+     "defaultDialog": "Come see me again if you want to buy a ship."
+    },
+    {
+     "id": "1144",
+     "defaultDialog": "Did you look at our ship for us?"
+    },
+    {
+     "id": "1145",
+     "defaultDialog": "If we could fit a cannon like that, the Merry could..."
+    },
+    {
+     "id": "1146",
+     "defaultDialog": "In this city, skill is everything"
+    },
+    {
+     "id": "1147",
+     "defaultDialog": "We can build similar ships, but no one can build two exactly identical ships"
+    },
+    {
+     "id": "1148",
+     "defaultDialog": "Tilestone in the shipyard (unused)"
+    },
+    {
+     "id": "1149",
+     "defaultDialog": "Even the keel is broken..."
+    },
+    {
+     "id": "1150",
+     "defaultDialog": "Even our skills can't fix your ship"
+    },
+    {
+     "id": "1152",
+     "defaultDialog": "Kaku, weren't you with the Franky Family just now?"
+    },
+    {
+     "id": "1157",
+     "defaultDialog": "Look at our numbers. What can just the four of you do?"
+    },
+    {
+     "id": "1164",
+     "defaultDialog": "Unfortunately, the money's not here anymore. Our boss, Big Bro Franky, took it to go shopping."
+    },
+    {
+     "id": "1168",
+     "defaultDialog": "What a headache, we really don't know where the money went"
+    },
+    {
+     "id": "1169",
+     "defaultDialog": "What now? Even if we wait here for that guy, he probably won't be back soon"
+    },
+    {
+     "id": "1170",
+     "defaultDialog": "First aid is done"
+    },
+    {
+     "id": "1181",
+     "defaultDialog": "It's fine, you win"
+    },
+    {
+     "id": "1182",
+     "defaultDialog": "Great"
+    },
+    {
+     "id": "1183",
+     "defaultDialog": "Usopp before the opening (temporarily unused)"
+    },
+    {
+     "id": "1184",
+     "defaultDialog": "Chopper before the opening (temporarily unused)"
+    },
+    {
+     "id": "1185",
+     "defaultDialog": "What should we do next..."
+    },
+    {
+     "id": "1187",
+     "defaultDialog": "Pupu, the boss is gone."
+    },
+    {
+     "id": "1188",
+     "defaultDialog": "Wait for us, boss!"
+    },
+    {
+     "id": "1189",
+     "defaultDialog": "Nami leaving (temporarily unused)"
+    },
+    {
+     "id": "1190",
+     "defaultDialog": "Robin leaving (temporarily unused)"
+    },
+    {
+     "id": "1192",
+     "defaultDialog": "Usopp..."
+    },
+    {
+     "id": "1193",
+     "defaultDialog": "Did we take a wrong turn"
+    },
+    {
+     "id": "1194",
+     "defaultDialog": "This should be the place Miss Nami was talking about"
+    },
+    {
+     "id": "1211",
+     "defaultDialog": "What are you doing"
+    },
+    {
+     "id": "1212",
+     "defaultDialog": "How could this be"
+    },
+    {
+     "id": "1213",
+     "defaultDialog": "How could you? You just said you were only here to watch!"
+    },
+    {
+     "id": "1214",
+     "defaultDialog": "What's your grudge against Miss Robin!"
+    },
+    {
+     "id": "1215",
+     "defaultDialog": "Robin is our precious crewmate now!"
+    },
+    {
+     "id": "1216",
+     "defaultDialog": "What exactly are you trying to say!"
+    },
+    {
+     "id": "1262",
+     "defaultDialog": "I'm the strongest man on this island!! The boss behind Water Seven!!!"
+    },
+    {
+     "id": "1266",
+     "defaultDialog": "Mr. Iceburg is awake."
+    },
+    {
+     "id": "1267",
+     "defaultDialog": "Argh!!! Now I'm mad!!!"
+    },
+    {
+     "id": "1268",
+     "defaultDialog": "Straw Hat."
+    },
+    {
+     "id": "1269",
+     "defaultDialog": "What's your goal anyway...!!! Straw Hat!!!!"
+    },
+    {
+     "id": "1270",
+     "defaultDialog": "Straw Hat is the Franky Family's enemy! I should be the first to settle the score with him..."
+    },
+    {
+     "id": "1273",
+     "defaultDialog": "Once we confirm where Mr. Iceburg's room is, we'll watch for a chance and move carefully..."
+    },
+    {
+     "id": "1277",
+     "defaultDialog": "You want something from me... pirate brat..."
+    },
+    {
+     "id": "1278",
+     "defaultDialog": "Straw Hat... Paulie..."
+    },
+    {
+     "id": "1279",
+     "defaultDialog": "Actually, we're spies sent by the government."
+    },
+    {
+     "id": "1280",
+     "defaultDialog": "We won't meet again..."
+    },
+    {
+     "id": "1281",
+     "defaultDialog": "Too bad, the ship inspection result was real."
+    },
+    {
+     "id": "1282",
+     "defaultDialog": "Our trained bodies can rival the hardness of steel."
+    },
+    {
+     "id": "1283",
+     "defaultDialog": "Lucci, the shipwrights are coming up."
+    },
+    {
+     "id": "1284",
+     "defaultDialog": "Hey! Robin, the captain never said you could leave!"
+    },
+    {
+     "id": "1285",
+     "defaultDialog": "Are you kidding me..."
+    },
+    {
+     "id": "1286",
+     "defaultDialog": "Wait, what's going on!?"
+    },
+    {
+     "id": "1287",
+     "defaultDialog": "Robin! We won't accept you leaving!"
+    },
+    {
+     "id": "1288",
+     "defaultDialog": "A rare chance. Let us show you the gap in strength."
+    },
+    {
+     "id": "1289",
+     "defaultDialog": "There's no helping him... let's hurry in too!"
+    },
+    {
+     "id": "1290",
+     "defaultDialog": "So many guards..."
+    },
+    {
+     "id": "1291",
+     "defaultDialog": "The shipwrights must have gone looking for Luffy."
+    },
+    {
+     "id": "1292",
+     "defaultDialog": "We misunderstood you. Sorry."
+    },
+    {
+     "id": "1301",
+     "defaultDialog": "Aqua Laguna is coming!"
+    },
+    {
+     "id": "1302",
+     "defaultDialog": "Are you crazy! There's no way to set sail in this weather!"
+    },
+    {
+     "id": "1303",
+     "defaultDialog": "No matter what, we're going after Robin."
+    },
+    {
+     "id": "1304",
+     "defaultDialog": "Please lend us a ship!"
+    },
+    {
+     "id": "1305",
+     "defaultDialog": "Damn... cough cough..."
+    },
+    {
+     "id": "1306",
+     "defaultDialog": "I wonder how Usopp is doing now..."
+    },
+    {
+     "id": "1307",
+     "defaultDialog": "Where is this!"
+    },
+    {
+     "id": "1308",
+     "defaultDialog": "This warehouse has been abandoned for 8 years. The Sea Train has sat here unused for 12 years"
+    },
+    {
+     "id": "1309",
+     "defaultDialog": "If I'm here, it means I'm thinking the same as you: we can't leave those idiots alone!"
+    },
+    {
+     "id": "1310",
+     "defaultDialog": "Is this train okay?"
+    },
+    {
+     "id": "1311",
+     "defaultDialog": "Hey, we still need to gather some essentials."
+    },
+    {
+     "id": "1312",
+     "defaultDialog": "So cool!"
+    },
+    {
+     "id": "1316",
+     "defaultDialog": "Last night, Mr. Iceburg of the shipyard was shot!!!"
+    },
+    {
+     "id": "1495",
+     "defaultDialog": "Robin! Where did you go!"
+    },
+    {
+     "id": "1496",
+     "defaultDialog": "Robin!!"
+    },
+    {
+     "id": "1497",
+     "defaultDialog": "Goodbye..."
+    },
+    {
+     "id": "1498",
+     "defaultDialog": "Everyone should be ready..."
+    },
+    {
+     "id": "1499",
+     "defaultDialog": "Robin..."
+    },
+    {
+     "id": "1500",
+     "defaultDialog": "But to learn the truth, this is the only way"
+    },
+    {
+     "id": "1501",
+     "defaultDialog": "Damn! We didn't make it in time!"
+    },
+    {
+     "id": "1502",
+     "defaultDialog": "We missed it..."
+    },
+    {
+     "id": "1503",
+     "defaultDialog": "Hey, are you Nami? Someone left a little note at the station plaza... Your crewmate, right?"
+    },
+    {
+     "id": "1689",
+     "defaultDialog": "Is this a new weapon? Sogeking?"
+    },
+    {
+     "id": "1690",
+     "defaultDialog": "I'm so nervous."
+    },
+    {
+     "id": "1691",
+     "defaultDialog": "Ha ha ha ha ha! So impatient!"
+    },
+    {
+     "id": "1693",
+     "defaultDialog": "We were so close to bringing Robin back."
+    },
+    {
+     "id": "1694",
+     "defaultDialog": "Too bad, we were so close just now..."
+    },
+    {
+     "id": "1695",
+     "defaultDialog": "Charge into the island through the main gate in one go with this \"Rocket Man\"!"
+    },
+    {
+     "id": "1696",
+     "defaultDialog": "Charge in!!!"
+    },
+    {
+     "id": "1731",
+     "defaultDialog": "Sorry for blaming you earlier."
+    },
+    {
+     "id": "1732",
+     "defaultDialog": "I never thought they would..."
+    },
+    {
+     "id": "1733",
+     "defaultDialog": "What?! Want to fight me? Bring it on!"
+    },
+    {
+     "id": "1734",
+     "defaultDialog": "Huh? Here to make trouble? If you want a fight, you'd better be ready!"
+    },
+    {
+     "id": "1737",
+     "defaultDialog": "You dare criticize what I do? You've got some nerve!"
+    },
+    {
+     "id": "1740",
+     "defaultDialog": "You dare order me around! I won't let you off!"
+    },
+    {
+     "id": "1744",
+     "defaultDialog": "I'm a proper paying customer! Don't interrupt my meal!!"
+    },
+    {
+     "id": "1808",
+     "defaultDialog": "No pirate is allowed to run wild on Enies Lobby!"
+    },
+    {
+     "id": "1810",
+     "defaultDialog": "That's Straw Hat with the 30,000,000 bounty... Can we stop him?"
+    },
+    {
+     "id": "1865",
+     "defaultDialog": "We have to hurry on!"
+    },
+    {
+     "id": "1866",
+     "defaultDialog": "I wonder if Enies Lobby's layout has changed after all this time."
+    },
+    {
+     "id": "1867",
+     "defaultDialog": "Ha ha ha, you're all in a hurry."
+    },
+    {
+     "id": "1868",
+     "defaultDialog": "Should we say hello first?"
+    },
+    {
+     "id": "1869",
+     "defaultDialog": "Are you kidding... no need."
+    },
+    {
+     "id": "1870",
+     "defaultDialog": "Thanks to Luffy, the Marines are spread out too."
+    },
+    {
+     "id": "1871",
+     "defaultDialog": "I'm the King of Snipers!"
+    },
+    {
+     "id": "1872",
+     "defaultDialog": "We have guests."
+    },
+    {
+     "id": "1873",
+     "defaultDialog": "We have to catch up with Luffy fast."
+    },
+    {
+     "id": "1874",
+     "defaultDialog": "You go on ahead. Leave them to me."
+    },
+    {
+     "id": "1877",
+     "defaultDialog": "Oh no! They've caught up!"
+    },
+    {
+     "id": "1878",
+     "defaultDialog": "So this is the courthouse?"
+    },
+    {
+     "id": "1879",
+     "defaultDialog": "Hey, how do we open such a thick stone door!"
+    },
+    {
+     "id": "1880",
+     "defaultDialog": "Let's hurry and catch up with Luffy."
+    },
+    {
+     "id": "1881",
+     "defaultDialog": "We have to flip the switch fast."
+    },
+    {
+     "id": "1882",
+     "defaultDialog": "Let the Straw Hats charge in!"
+    },
+    {
+     "id": "1883",
+     "defaultDialog": "Go get 'em, boys!"
+    },
+    {
+     "id": "1884",
+     "defaultDialog": "Our job is to flip the switch!"
+    },
+    {
+     "id": "1885",
+     "defaultDialog": "And then hold the courthouse!"
+    },
+    {
+     "id": "1886",
+     "defaultDialog": "You again, Straw Hat."
+    },
+    {
+     "id": "1887",
+     "defaultDialog": "You can't beat me! Tekkai!"
+    },
+    {
+     "id": "1888",
+     "defaultDialog": "If only you'd come at me like this from the start"
+    },
+    {
+     "id": "1889",
+     "defaultDialog": "Ow, that hurts."
+    },
+    {
+     "id": "1890",
+     "defaultDialog": "Miss Robin! I've come to save you!"
+    },
+    {
+     "id": "1892",
+     "defaultDialog": "Hey! Zoro, be careful!"
+    },
+    {
+     "id": "1893",
+     "defaultDialog": "Gyababa, I won't tell you anything you ask."
+    },
+    {
+     "id": "1894",
+     "defaultDialog": "The final battle is starting."
+    },
+    {
+     "id": "1895",
+     "defaultDialog": "Robin's in trouble. Let's hurry and find her."
+    },
+    {
+     "id": "1896",
+     "defaultDialog": "If Robin passes through that door, it's all over!"
+    },
+    {
+     "id": "1897",
+     "defaultDialog": "Let's hurry and find Robin."
+    },
+    {
+     "id": "1999",
+     "defaultDialog": "This big ship is mine now!"
+    },
+    {
+     "id": "5520",
+     "defaultDialog": "Hey!!!"
+    },
+    {
+     "id": "6875",
+     "defaultDialog": "Shurororororo..."
+    },
+    {
+     "id": "9561",
+     "defaultDialog": "Don't get in my way!"
+    },
+    {
+     "id": "10406",
+     "defaultDialog": "Let's go!"
+    },
+    {
+     "id": "10772",
+     "defaultDialog": "Hmph...!"
+    }
+   ],
+   "other_bundle_rows": [],
+   "partial": "337/1842 rows translated so far"
+  },
+  "TableGuideStepExtra": {
+   "key_column": "tag",
+   "text_columns": [
+    "textModuleId"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row reuses the rows translation",
+   "rows": [
+    {
+     "tag": "2002",
+     "textModuleId": "Congrats on getting new equipment! Equipment greatly boosts your characters' Power. Put it on now!"
+    },
+    {
+     "tag": "2003",
+     "textModuleId": "Tap Lineup"
+    },
+    {
+     "tag": "2004",
+     "textModuleId": "Tap Characters"
+    },
+    {
+     "tag": "2005",
+     "textModuleId": "Tap Equipment"
+    },
+    {
+     "tag": "2006",
+     "textModuleId": "Tap to open the equipment list"
+    },
+    {
+     "tag": "2007",
+     "textModuleId": "Tap the equipment icon"
+    },
+    {
+     "tag": "2008",
+     "textModuleId": "New equipment must be appraised before use. Tap to appraise"
+    },
+    {
+     "tag": "2009",
+     "textModuleId": "Appraised! Now put this equipment on."
+    },
+    {
+     "tag": "3012",
+     "textModuleId": "Tap Recruit"
+    },
+    {
+     "tag": "3013",
+     "textModuleId": "Tap Normal Recruit"
+    },
+    {
+     "tag": "3014",
+     "textModuleId": "Tap Recruit"
+    },
+    {
+     "tag": "3015",
+     "textModuleId": "Congrats on your new companion, Captain! Now send them into battle!"
+    },
+    {
+     "tag": "3016",
+     "textModuleId": "Tap Close"
+    },
+    {
+     "tag": "4017",
+     "textModuleId": "Tap Lineup"
+    },
+    {
+     "tag": "4018",
+     "textModuleId": "Tap the deploy button to add a companion to battle"
+    },
+    {
+     "tag": "4019",
+     "textModuleId": "Deploy your new companion"
+    },
+    {
+     "tag": "5020",
+     "textModuleId": "Zoro has joined the team. Now go activate Zoro's skill!"
+    },
+    {
+     "tag": "5021",
+     "textModuleId": "Tap Characters"
+    },
+    {
+     "tag": "5022",
+     "textModuleId": "Tap Skills to switch to the skills tab"
+    },
+    {
+     "tag": "5023",
+     "textModuleId": "The skill \"Oni Giri\" can now be activated. Tap the skill icon"
+    },
+    {
+     "tag": "5024",
+     "textModuleId": "Tap the button to activate the skill"
+    },
+    {
+     "tag": "5027",
+     "textModuleId": "Skill activated! Now drag it to the area on the right to set \"Oni Giri\" as a battle skill!"
+    },
+    {
+     "tag": "5028",
+     "textModuleId": "Skill set! Go try the new skill in battle!"
+    },
+    {
+     "tag": "5030",
+     "textModuleId": "Active skills are normal skills or Finishers. Both cost Soul Jade, but after using a Finisher the character can't act again that turn."
+    },
+    {
+     "tag": "6031",
+     "textModuleId": "Your new companion needs to get stronger. Tap Level Up"
+    },
+    {
+     "tag": "6032",
+     "textModuleId": "Tap to turn on Auto-Add and add upgrade materials automatically"
+    },
+    {
+     "tag": "6033",
+     "textModuleId": "Tap Level Up to raise your companion's level"
+    },
+    {
+     "tag": "6034",
+     "textModuleId": "Let's continue the adventure!"
+    },
+    {
+     "tag": "7036",
+     "textModuleId": "Daily Quests give lots of EXP and rewards and are key to leveling up. Tap the Events button to open Daily Quests."
+    },
+    {
+     "tag": "7037",
+     "textModuleId": "Tap the Daily Quests tab"
+    },
+    {
+     "tag": "7038",
+     "textModuleId": "Tap Go"
+    },
+    {
+     "tag": "8039",
+     "textModuleId": "Open the Weapon Shop"
+    },
+    {
+     "tag": "8040",
+     "textModuleId": "The Weapon Merchant sells all kinds of weapons and equipment that quickly boost your team's Power. Buy one now, Captain!"
+    },
+    {
+     "tag": "8041",
+     "textModuleId": "Tap Buy"
+    },
+    {
+     "tag": "9042",
+     "textModuleId": "Tap \"Events\""
+    },
+    {
+     "tag": "9043",
+     "textModuleId": "Tap \"Story Replay\""
+    },
+    {
+     "tag": "9044",
+     "textModuleId": "Meet set conditions when clearing a dungeon for extra star rewards"
+    },
+    {
+     "tag": "9045",
+     "textModuleId": "Reach the required total stars to claim generous rewards!"
+    },
+    {
+     "tag": "9046",
+     "textModuleId": "Now try challenging a dungeon, Captain!"
+    },
+    {
+     "tag": "10047",
+     "textModuleId": "Tap \"Events\""
+    },
+    {
+     "tag": "10048",
+     "textModuleId": "Tap \"Character Stories\""
+    },
+    {
+     "tag": "10049",
+     "textModuleId": "Getting a new character automatically unlocks their Character Story. Challenge it for recruit items, Battle Souls and other rare items!"
+    },
+    {
+     "tag": "10050",
+     "textModuleId": "Now try challenging a Character Story, Captain!"
+    },
+    {
+     "tag": "11051",
+     "textModuleId": "Welcome to the Orange Town outskirts! In the field you can fight monsters, gather and idle for EXP and all sorts of rewards!"
+    },
+    {
+     "tag": "11052",
+     "textModuleId": "Placeholder text"
+    },
+    {
+     "tag": "11053",
+     "textModuleId": "Tap this button to heal injured characters in your team!"
+    },
+    {
+     "tag": "11054",
+     "textModuleId": "Now go explore the field yourself, Captain!"
+    },
+    {
+     "tag": "11055",
+     "textModuleId": "HP carries over after field battles; the doctor can heal injured characters."
+    },
+    {
+     "tag": "12056",
+     "textModuleId": "Tap Lineup"
+    },
+    {
+     "tag": "12057",
+     "textModuleId": "Tap Characters"
+    },
+    {
+     "tag": "12058",
+     "textModuleId": "Tap Replace"
+    },
+    {
+     "tag": "12059",
+     "textModuleId": "Captains can swap the characters they want to deploy here. Now try it yourself!"
+    },
+    {
+     "tag": "13060",
+     "textModuleId": "Event dungeons include Secret Book Day, Breakthrough Day, Training Day, Golden Trial and Brave Trial, which give Secret Books, Breakthrough materials, Training items, Gold Bars and EXP Scrolls respectively."
+    },
+    {
+     "tag": "13061",
+     "textModuleId": "The 3 dungeons Secret Book Day, Breakthrough Day and Training Day have limited attempts once open; when they run out, you can use items to add more"
+    },
+    {
+     "tag": "13062",
+     "textModuleId": "Tap Golden Trial"
+    },
+    {
+     "tag": "13063",
+     "textModuleId": "The 3 dungeons Secret Book Day, Breakthrough Day and Training Day have several difficulty levels; the higher the level, the richer the rewards."
+    },
+    {
+     "tag": "13064",
+     "textModuleId": "Golden Trial and Hero Trial can be challenged with the matching key. Keys drop from the system and can also be bought in the Shop."
+    },
+    {
+     "tag": "13065",
+     "textModuleId": "Once Golden Trial or Hero Trial starts, the challenge lasts 20 minutes, during which you can keep taking on higher floors for more rewards"
+    },
+    {
+     "tag": "13066",
+     "textModuleId": "Now try challenging an Event Dungeon, Captain!"
+    },
+    {
+     "tag": "14067",
+     "textModuleId": "Tap the Blacksmith"
+    },
+    {
+     "tag": "14068",
+     "textModuleId": "The Blacksmith refines equipment, which greatly boosts its stats. Now try it yourself, Captain!"
+    },
+    {
+     "tag": "15069",
+     "textModuleId": "Tap Main Quest to start your adventure!"
+    },
+    {
+     "tag": "16070",
+     "textModuleId": "Welcome to the Arena! It's where players show their strength. Defeat more opponents to make your name across the seas!"
+    },
+    {
+     "tag": "16071",
+     "textModuleId": "On the right are players ranked near you. Tap Challenge to fight them; win to swap ranks, lose and your rank stays the same"
+    },
+    {
+     "tag": "16072",
+     "textModuleId": "Tap the refresh button to change opponents"
+    },
+    {
+     "tag": "16073",
+     "textModuleId": "Prestige earned from Arena wins can be exchanged for items at the Prestige Shop."
+    },
+    {
+     "tag": "16074",
+     "textModuleId": "The battle log records your Arena history. If your rank changed, you can watch the replay in the log."
+    },
+    {
+     "tag": "16075",
+     "textModuleId": "Now pick an opponent and challenge them yourself, Captain!"
+    },
+    {
+     "tag": "17076",
+     "textModuleId": "Tap to open the minimap"
+    },
+    {
+     "tag": "17077",
+     "textModuleId": "The minimap shows your location and every NPC's location"
+    },
+    {
+     "tag": "17078",
+     "textModuleId": "Tap an NPC in the list on the right to auto-path to them."
+    },
+    {
+     "tag": "17079",
+     "textModuleId": "Using the minimap well saves a lot of effort. Make good use of it on your adventures, Captain!"
+    },
+    {
+     "tag": "18080",
+     "textModuleId": "Tap Events"
+    },
+    {
+     "tag": "18081",
+     "textModuleId": "Tap Character Stories"
+    },
+    {
+     "tag": "19082",
+     "textModuleId": "Getting a new character unlocks their Character Story, where you relive their journey."
+    },
+    {
+     "tag": "19083",
+     "textModuleId": "Now tap to open a Character Story."
+    },
+    {
+     "tag": "19084",
+     "textModuleId": "This shows the character's Affinity level. Deploying the character raises Affinity."
+    },
+    {
+     "tag": "19085",
+     "textModuleId": "Raising Affinity unlocks later chapters of their story."
+    },
+    {
+     "tag": "19086",
+     "textModuleId": "Now challenge a Character Story, Captain!"
+    },
+    {
+     "tag": "20087",
+     "textModuleId": "Congrats on clearing a Character Story! Your first clear earned draw tickets and Blue Diamonds. Use the tickets at the Tavern to recruit new companions!"
+    },
+    {
+     "tag": "21089",
+     "textModuleId": "Tap Events"
+    },
+    {
+     "tag": "21090",
+     "textModuleId": "Tap Story Replay"
+    },
+    {
+     "tag": "22091",
+     "textModuleId": "Completing main quests unlocks the matching Story Replay dungeons, where you can fight story bosses again."
+    },
+    {
+     "tag": "22092",
+     "textModuleId": "Now challenge a dungeon, Captain!"
+    },
+    {
+     "tag": "23093",
+     "textModuleId": "Congrats on your victory, Captain! You met a star condition for the first time and earned Blue Diamonds."
+    },
+    {
+     "tag": "23094",
+     "textModuleId": "Story Replay dungeons drop equipment rewards, with a chance of Hero Gear"
+    },
+    {
+     "tag": "24096",
+     "textModuleId": "Victories use challenge attempts, which refresh daily at 0:00."
+    },
+    {
+     "tag": "24097",
+     "textModuleId": "Dungeons come in Easy and Hard. Hard dungeons have stronger enemies but better rewards; team play recommended."
+    },
+    {
+     "tag": "24098",
+     "textModuleId": "Now take on Story Replay dungeons yourself, Captain!"
+    },
+    {
+     "tag": "25099",
+     "textModuleId": "Characters can raise their stats through Training. Tap a character portrait to open that character's Training"
+    },
+    {
+     "tag": "25100",
+     "textModuleId": "Tap the Back button"
+    },
+    {
+     "tag": "25101",
+     "textModuleId": "Tap this button to view the character's Training status"
+    },
+    {
+     "tag": "25102",
+     "textModuleId": "You can choose different training modes and stats"
+    },
+    {
+     "tag": "25103",
+     "textModuleId": "Tap the Info button to view the detailed rules"
+    },
+    {
+     "tag": "25104",
+     "textModuleId": "Tap the Not Deployed button to train characters who aren't deployed"
+    },
+    {
+     "tag": "25105",
+     "textModuleId": "Use the filter toggle to filter characters who aren't deployed"
+    },
+    {
+     "tag": "26106",
+     "textModuleId": "Tap Guild"
+    },
+    {
+     "tag": "26107",
+     "textModuleId": "The guild list shows guilds in the game; join any guild you like."
+    },
+    {
+     "tag": "26108",
+     "textModuleId": "Tap Create Guild to make your own guild."
+    },
+    {
+     "tag": "26109",
+     "textModuleId": "Tap Apply to All to quickly apply to several guilds at once. Tap Apply to All now."
+    },
+    {
+     "tag": "27110",
+     "textModuleId": "Congrats on buying new equipment, Captain! Put it on right away! Tap Lineup."
+    },
+    {
+     "tag": "27111",
+     "textModuleId": "Tap the plus sign to open the gear bag."
+    },
+    {
+     "tag": "27112",
+     "textModuleId": "Choose equipment to view"
+    },
+    {
+     "tag": "27113",
+     "textModuleId": "Tap Equip to put on this equipment!"
+    },
+    {
+     "tag": "27114",
+     "textModuleId": "Tap the Equipment tab to switch to the character equipment screen."
+    },
+    {
+     "tag": "28116",
+     "textModuleId": "Refining strengthens equipment stats. Tap equipment to refine it once."
+    },
+    {
+     "tag": "28117",
+     "textModuleId": "Tap Refine"
+    },
+    {
+     "tag": "28118",
+     "textModuleId": "Refining greatly boosts equipment base stats. Different slots boost different stats."
+    },
+    {
+     "tag": "28119",
+     "textModuleId": "Refining can fail. After several failures you get a card flip, which can give buffs that help refining a lot."
+    },
+    {
+     "tag": "28120",
+     "textModuleId": "Now refine once!"
+    },
+    {
+     "tag": "29122",
+     "textModuleId": "This battle's restrictions are described in [Tips]"
+    },
+    {
+     "tag": "29123",
+     "textModuleId": "Your character [Luffy] \\nmust be deployed"
+    },
+    {
+     "tag": "29124",
+     "textModuleId": "The list on the left shows your characters.\\nTap a portrait to deploy"
+    },
+    {
+     "tag": "29125",
+     "textModuleId": "When you're set,\\ntap [Deploy] to enter battle"
+    },
+    {
+     "tag": "30126",
+     "textModuleId": "View the warships you've built"
+    },
+    {
+     "tag": "30127",
+     "textModuleId": "View other identical warships you've built in Stock"
+    },
+    {
+     "tag": "30128",
+     "textModuleId": "You've got the Going Merry! Tap to go to the Dock and see it"
+    },
+    {
+     "tag": "30129",
+     "textModuleId": "Tap Material Crafting to open the crafting screen"
+    },
+    {
+     "tag": "30130",
+     "textModuleId": "Material crates gathered in the field can be refined into shipbuilding raw materials"
+    },
+    {
+     "tag": "30131",
+     "textModuleId": "Tap Make Parts"
+    },
+    {
+     "tag": "30132",
+     "textModuleId": "Refined raw materials and raw materials bought in shops can be made into warship parts"
+    },
+    {
+     "tag": "30133",
+     "textModuleId": "Tap to close Material Storage"
+    },
+    {
+     "tag": "30134",
+     "textModuleId": "Some raw materials for parts can be bought in the Material Shop"
+    },
+    {
+     "tag": "30135",
+     "textModuleId": "Captain, tap the Shipyard to open the Shipyard screen"
+    },
+    {
+     "tag": "30136",
+     "textModuleId": "Captain, tap Deploy and let the Merry join our adventure"
+    },
+    {
+     "tag": "30137",
+     "textModuleId": "Materials needed to build the warship. With enough materials, tap Build to build it"
+    },
+    {
+     "tag": "30138",
+     "textModuleId": "Tap Details to see the warship's basic info"
+    },
+    {
+     "tag": "30139",
+     "textModuleId": "View the warship's stat bonuses, Sea Battle skills and more"
+    },
+    {
+     "tag": "30140",
+     "textModuleId": "Shipbuilding level info. Making parts and building warships gives EXP; tier up to build better warships"
+    },
+    {
+     "tag": "30141",
+     "textModuleId": "Tap here to see the warship's details"
+    },
+    {
+     "tag": "31142",
+     "textModuleId": "Your guild has unlocked the Command Center, where you can register for fierce Sea Battles"
+    },
+    {
+     "tag": "31143",
+     "textModuleId": "First, let's see how to register. Tap the Sea Battle registration button"
+    },
+    {
+     "tag": "31144",
+     "textModuleId": "The leader and vice leaders can register on behalf of the guild; once registered, this screen shows \"Registered\""
+    },
+    {
+     "tag": "31145",
+     "textModuleId": "Next, let's see how to register personally. Tap the personal registration button"
+    },
+    {
+     "tag": "31146",
+     "textModuleId": "Guild Sea Battle lineups are set separately. Be sure to set your battle lineup before registering personally. Tap Battle Setup"
+    },
+    {
+     "tag": "31147",
+     "textModuleId": "Your 1st Fleet fights first in a Sea Battle, and your 2nd Fleet goes in once it's defeated, so be sure to set up two fleets!"
+    },
+    {
+     "tag": "31148",
+     "textModuleId": "Choose battle characters and set the formation here"
+    },
+    {
+     "tag": "31149",
+     "textModuleId": "Set warships here. Note that the 1st and 2nd Fleets can't share a warship or character"
+    },
+    {
+     "tag": "31150",
+     "textModuleId": "Now let's look at other features. Tap Close"
+    },
+    {
+     "tag": "31151",
+     "textModuleId": "Now let's look at other features. Tap the close button"
+    },
+    {
+     "tag": "31152",
+     "textModuleId": "Sea Battle Deployment shows the battle schedule"
+    },
+    {
+     "tag": "31153",
+     "textModuleId": "When the battlefield opens, enter the Sea Battle from the Command Center or the main screen notice icon."
+    },
+    {
+     "tag": "31154",
+     "textModuleId": "Finally, you can check Help for detailed Sea Battle rules anytime!"
+    },
+    {
+     "tag": "32155",
+     "textModuleId": "8 random orders refresh daily at 0:00. Accept orders and dispatch ships to trade; completed trades give Intel and item rewards."
+    },
+    {
+     "tag": "32156",
+     "textModuleId": "Time until all orders refresh"
+    },
+    {
+     "tag": "32157",
+     "textModuleId": "With enough Intel you can claim an Intel reward, which opens the next stage of Intel rewards"
+    },
+    {
+     "tag": "32158",
+     "textModuleId": "Tap to have the system pick ships and set sail"
+    },
+    {
+     "tag": "32159",
+     "textModuleId": "Orders in progress can be viewed in My Orders"
+    },
+    {
+     "tag": "32160",
+     "textModuleId": "Tap a town to see its trade orders"
+    },
+    {
+     "tag": "32161",
+     "textModuleId": "Rewards vary with each warship's income. Get ready to set sail, Captain!"
+    },
+    {
+     "tag": "32162",
+     "textModuleId": "Tap to view"
+    },
+    {
+     "tag": "33164",
+     "textModuleId": "Tap the Support button to switch to the support list"
+    },
+    {
+     "tag": "33165",
+     "textModuleId": "You can view the character's support stats and unlock conditions"
+    },
+    {
+     "tag": "33166",
+     "textModuleId": "Please tap View Formation to set up support characters"
+    },
+    {
+     "tag": "33167",
+     "textModuleId": "Tap the Support button to open the support screen"
+    },
+    {
+     "tag": "33169",
+     "textModuleId": "Upgrading a formation unlocks support slots; deploying characters there raises the stats of characters in the lineup"
+    },
+    {
+     "tag": "33170",
+     "textModuleId": "Please tap the Formation Upgrade button to upgrade the formation"
+    },
+    {
+     "tag": "33171",
+     "textModuleId": "At formation Lv1, the first support slot unlocks"
+    },
+    {
+     "tag": "33172",
+     "textModuleId": "Add EXP Scrolls, skill books, Breakthrough materials, Affinity materials and more to upgrade the formation"
+    },
+    {
+     "tag": "34173",
+     "textModuleId": "Soul Infusion uses Soul Cards to boost a chosen hero's abilities. First, we need to choose the character to infuse"
+    },
+    {
+     "tag": "34174",
+     "textModuleId": "Tap the button to spend 1 Golden Battle Soul for a Soul Card"
+    },
+    {
+     "tag": "34175",
+     "textModuleId": "After getting a Soul Card, choose it and place it in a soul slot below; the hero then gains that Soul Card's buff"
+    },
+    {
+     "tag": "34176",
+     "textModuleId": "Soul Infusion Inheritance transfers all of one hero's Soul Cards to another hero"
+    },
+    {
+     "tag": "34177",
+     "textModuleId": "See the mode info for detailed rules"
+    },
+    {
+     "tag": "35179",
+     "textModuleId": "Island Conquest is a brand-new mode! Use the heroes provided to battle other players until the final winner emerges!"
+    },
+    {
+     "tag": "35180",
+     "textModuleId": "This is your tier in Island Conquest. Each match gives points that raise your tier"
+    },
+    {
+     "tag": "35181",
+     "textModuleId": "Each match gives Island Coins, which can be exchanged for items at the Island Shop. Coins have a weekly cap~"
+    },
+    {
+     "tag": "35182",
+     "textModuleId": "Here you can view season rewards and rankings. At the end of each season, players get generous rewards"
+    },
+    {
+     "tag": "35183",
+     "textModuleId": "For more mode info, check the game info to learn more"
+    },
+    {
+     "tag": "35184",
+     "textModuleId": "Hurry and play a match!"
+    },
+    {
+     "tag": "36185",
+     "textModuleId": "Tap to view the Gallery"
+    },
+    {
+     "tag": "36186",
+     "textModuleId": "Adventure uses the SSR and SR characters you own"
+    },
+    {
+     "tag": "36187",
+     "textModuleId": "Character stars are kept, but levels have to be raised again in the mode"
+    },
+    {
+     "tag": "36188",
+     "textModuleId": "Tap to close the Gallery"
+    },
+    {
+     "tag": "36189",
+     "textModuleId": "Tap to enter the main stage"
+    },
+    {
+     "tag": "36190",
+     "textModuleId": "This shows the stage's victory and defeat conditions"
+    },
+    {
+     "tag": "36191",
+     "textModuleId": "This shows the stage's preview map: red is the enemy, blue is your side"
+    },
+    {
+     "tag": "36192",
+     "textModuleId": "These are characters recommended for you based on the enemy setup. Using them makes the battle easier"
+    },
+    {
+     "tag": "36193",
+     "textModuleId": "These are the rewards for clearing the stage"
+    },
+    {
+     "tag": "36194",
+     "textModuleId": "Tap the Deploy button to enter battle"
+    },
+    {
+     "tag": "37197",
+     "textModuleId": "Please tap the button to open the sea chart"
+    },
+    {
+     "tag": "37198",
+     "textModuleId": "The sea chart has several sea areas. Raise your warship modification level to reach other sea areas"
+    },
+    {
+     "tag": "37199",
+     "textModuleId": "Adventuring at sea and completing quests gives special currency for buying rare materials in the shop"
+    },
+    {
+     "tag": "37200",
+     "textModuleId": "Please tap the button and set sail on the vast sea!"
+    },
+    {
+     "tag": "37201",
+     "textModuleId": "Now we need to head to port"
+    },
+    {
+     "tag": "37202",
+     "textModuleId": "Your available warships are shown here"
+    },
+    {
+     "tag": "37203",
+     "textModuleId": "If your warship is damaged in battle, you can repair it here"
+    },
+    {
+     "tag": "37204",
+     "textModuleId": "You can modify your warship to raise its battle power and gathering ability"
+    },
+    {
+     "tag": "37205",
+     "textModuleId": "Your warship info is shown on the right, including energy, stats and skills"
+    },
+    {
+     "tag": "37206",
+     "textModuleId": "Tap Set Sail to begin your voyage!"
+    },
+    {
+     "tag": "37207",
+     "textModuleId": "The minimap at the top right shows your position in the sea area; tap it to view the whole sea area"
+    },
+    {
+     "tag": "37208",
+     "textModuleId": "The Sailing Handbook gives lots of sea area info, such as sea conditions, islands and quests. Please tap the Sailing Handbook"
+    },
+    {
+     "tag": "37209",
+     "textModuleId": "Check the mode info to learn the details of the Grand Voyage mode"
+    },
+    {
+     "tag": "37210",
+     "textModuleId": "Now please tap \"Go\" in the island info to begin a wonderful voyage!"
+    },
+    {
+     "tag": "38213",
+     "textModuleId": "Secret Realm is a solo challenge mode. Tap to view the mode info"
+    },
+    {
+     "tag": "38214",
+     "textModuleId": "3 modes open each day; earn points in each and get rewards for your total points"
+    },
+    {
+     "tag": "38215",
+     "textModuleId": "Tap to close the info panel"
+    },
+    {
+     "tag": "38216",
+     "textModuleId": "This is the Secret Realm trial you're about to take on"
+    },
+    {
+     "tag": "38217",
+     "textModuleId": "This shows the realm's name and scoring rules"
+    },
+    {
+     "tag": "38218",
+     "textModuleId": "This shows the player with the server's top score in this realm; you can watch the battle replay"
+    },
+    {
+     "tag": "38219",
+     "textModuleId": "This shows your lineup for this realm; after challenging, you can reset it here"
+    },
+    {
+     "tag": "38220",
+     "textModuleId": "Each realm has three difficulties; higher difficulty gives more points"
+    },
+    {
+     "tag": "38221",
+     "textModuleId": "Tap here to deploy characters and challenge the realm"
+    },
+    {
+     "tag": "38222",
+     "textModuleId": "Secret Realm has a limit on deployed characters"
+    },
+    {
+     "tag": "38223",
+     "textModuleId": "Tap an empty slot to deploy a character"
+    },
+    {
+     "tag": "38224",
+     "textModuleId": "Tap Select to deploy a character"
+    },
+    {
+     "tag": "38225",
+     "textModuleId": "Once you've chosen your characters, tap Enter Battle to start the Secret Realm trial!"
+    },
+    {
+     "tag": "39226",
+     "textModuleId": "Congratulations on unlocking Ladder! Ladder is a cross-server real-time PvP mode where you can prove your strength and earn glory and rewards"
+    },
+    {
+     "tag": "39227",
+     "textModuleId": "Ladder has two formats: Glory Match and Peak Arena."
+    },
+    {
+     "tag": "39228",
+     "textModuleId": "Glory Match and Peak Arena each need their own lineup, so set up your formation before battling"
+    },
+    {
+     "tag": "39229",
+     "textModuleId": "Joining either format earns that format's rewards. Rewards are sent by mail based on your activity and points."
+    },
+    {
+     "tag": "39230",
+     "textModuleId": "Please tap Shop"
+    },
+    {
+     "tag": "39231",
+     "textModuleId": "The new Ladder Shop has more goods. Earn tokens to buy the items and gear you want!"
+    },
+    {
+     "tag": "39232",
+     "textModuleId": "Please tap the Close button to close the shop"
+    },
+    {
+     "tag": "39233",
+     "textModuleId": "In Glory Match, deployed characters' stats are only affected by level, skills, Transcend, Breakthrough, formations and outfits.  Peak Arena has no stat limits, so you can fight at full strength"
+    },
+    {
+     "tag": "39234",
+     "textModuleId": "Reach 1300 points in Glory Match to qualify for Peak Arena."
+    },
+    {
+     "tag": "39235",
+     "textModuleId": "Peak Arena has its own points and rankings; participants get tokens and better rewards"
+    },
+    {
+     "tag": "39236",
+     "textModuleId": "At season end, the top 32 on the Peak Arena ranking qualify for the Championship, where they can win the highest honor and the most precious rewards"
+    },
+    {
+     "tag": "39237",
+     "textModuleId": "To learn more Ladder rules, check the info."
+    },
+    {
+     "tag": "40238",
+     "textModuleId": "Welcome to your Home, your own private space. Develop it however you like and make it unique!"
+    },
+    {
+     "tag": "40239",
+     "textModuleId": "Now let's look at the whole Home!"
+    },
+    {
+     "tag": "40240",
+     "textModuleId": "Your Home has lots of land for you to use"
+    },
+    {
+     "tag": "40241",
+     "textModuleId": "First, tap a plot of land to cultivate it"
+    },
+    {
+     "tag": "40242",
+     "textModuleId": "Please tap Cultivate"
+    },
+    {
+     "tag": "40243",
+     "textModuleId": "Please confirm cultivation"
+    },
+    {
+     "tag": "40245",
+     "textModuleId": "Once cultivated, we can construct buildings"
+    },
+    {
+     "tag": "40246",
+     "textModuleId": "Let's see what buildings there are"
+    },
+    {
+     "tag": "40247",
+     "textModuleId": "The Essence Collector is a key resource building of the Home. Build it first!"
+    },
+    {
+     "tag": "40249",
+     "textModuleId": "Next, we can produce Essence"
+    },
+    {
+     "tag": "40250",
+     "textModuleId": "First, we need to add a working character"
+    },
+    {
+     "tag": "40251",
+     "textModuleId": "Please select a character"
+    },
+    {
+     "tag": "40252",
+     "textModuleId": "Tap Confirm to choose this character for production"
+    },
+    {
+     "tag": "40253",
+     "textModuleId": "The Essence Collector can work 10 hours a day and resets daily at 8 AM"
+    },
+    {
+     "tag": "40254",
+     "textModuleId": "You can view the Essence Collector's production details here"
+    },
+    {
+     "tag": "40255",
+     "textModuleId": "Production needs Stamina; when characters run low, the Essence Collector can't keep working"
+    },
+    {
+     "tag": "40256",
+     "textModuleId": "Please tap Exit"
+    },
+    {
+     "tag": "40257",
+     "textModuleId": "Please tap Exit"
+    },
+    {
+     "tag": "40258",
+     "textModuleId": "Next, try building a Library. It can produce many kinds of items!"
+    },
+    {
+     "tag": "40259",
+     "textModuleId": "First, let's look at Home Quests"
+    },
+    {
+     "tag": "40260",
+     "textModuleId": "Completing Home Quests gives the materials needed to build your Home"
+    },
+    {
+     "tag": "40261",
+     "textModuleId": "Once you accept a quest, you can start working on it"
+    },
+    {
+     "tag": "40262",
+     "textModuleId": "The higher your Home level, the more quests you can take each day. Quests refresh daily at 0:00"
+    },
+    {
+     "tag": "40263",
+     "textModuleId": "Please tap Close"
+    },
+    {
+     "tag": "41264",
+     "textModuleId": "Now we can produce items!"
+    },
+    {
+     "tag": "41265",
+     "textModuleId": "First, choose the item to produce"
+    },
+    {
+     "tag": "41266",
+     "textModuleId": "Please tap to add 3 production characters"
+    },
+    {
+     "tag": "41267",
+     "textModuleId": "Please choose the 1st production character"
+    },
+    {
+     "tag": "41268",
+     "textModuleId": "Please choose the 2nd production character"
+    },
+    {
+     "tag": "41269",
+     "textModuleId": "Please choose the 3rd production character"
+    },
+    {
+     "tag": "41270",
+     "textModuleId": "Please tap Confirm"
+    },
+    {
+     "tag": "41271",
+     "textModuleId": "You can preview this production's progress here; each time it reaches 100%, you get 1 item"
+    },
+    {
+     "tag": "41272",
+     "textModuleId": "Each production consumes some Essence and gives work progress when it ends"
+    },
+    {
+     "tag": "41273",
+     "textModuleId": "Tap Start Work"
+    },
+    {
+     "tag": "41274",
+     "textModuleId": "Once the wait is over, you can claim the rewards"
+    },
+    {
+     "tag": "42275",
+     "textModuleId": "Characters with <color=red>Promotion</color> unlocked replace [Transcend] with [Promotion] once enhanced to <color=red>8 Stars</color>; you can keep strengthening them through the [Promotion] system"
+    },
+    {
+     "tag": "43278",
+     "textModuleId": "Complete the pass's daily quests and claim daily activity rewards to earn lots of character EXP!"
+    },
+    {
+     "tag": "44279",
+     "textModuleId": "Please tap Limited Gifts"
+    },
+    {
+     "tag": "44280",
+     "textModuleId": "Please tap the Game Perks tab at the top"
+    },
+    {
+     "tag": "44281",
+     "textModuleId": "Please tap the Level Packs tab"
+    },
+    {
+     "tag": "44282",
+     "textModuleId": "Claim the Lv10 reward for 10 Newbie Recruit Tickets. Newbie Recruits have a chance to give SSR characters!"
+    },
+    {
+     "tag": "44283",
+     "textModuleId": "Tap to close the Limited Gifts screen"
+    },
+    {
+     "tag": "44284",
+     "textModuleId": "Tap the Recruit button"
+    },
+    {
+     "tag": "44285",
+     "textModuleId": "Tap Newbie Recruit"
+    },
+    {
+     "tag": "44286",
+     "textModuleId": "Captain, go ahead and do a Newbie Recruit!\\nTap anywhere to exit the guide."
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "tag": "13060",
+     "textModuleId": "Event Dungeons include Training Day, Breakthrough Day, Golden Trial and Hero Trial, giving training items, Breakthrough Materials, Gold Bars and EXP Scrolls respectively."
+    },
+    {
+     "tag": "13061",
+     "textModuleId": "Breakthrough Day and Training Day have limited attempts once opened; use items to add attempts when they run out"
+    },
+    {
+     "tag": "13063",
+     "textModuleId": "Breakthrough Day and Training Day have several difficulty levels; higher levels give better rewards."
+    },
+    {
+     "tag": "28118",
+     "textModuleId": "Refining greatly raises gear stats. Gear in different slots raises different stats."
+    },
+    {
+     "tag": "28119",
+     "textModuleId": "Gear refining has a success rate."
+    },
+    {
+     "tag": "45281",
+     "textModuleId": "Auto Battle is on. Tap to turn on speed-up auto battle"
+    },
+    {
+     "tag": "46281",
+     "textModuleId": "Please tap a hero who can Break Through"
+    },
+    {
+     "tag": "47286",
+     "textModuleId": "Training is unlocked. Let's take a look"
+    },
+    {
+     "tag": "47288",
+     "textModuleId": "Training characters gives them big stat boosts"
+    },
+    {
+     "tag": "47289",
+     "textModuleId": "Choose a hero portrait"
+    },
+    {
+     "tag": "47290",
+     "textModuleId": "Tap the Train button to train"
+    },
+    {
+     "tag": "49291",
+     "textModuleId": "Star rewards are ready to claim. Go take a look"
+    },
+    {
+     "tag": "49292",
+     "textModuleId": "Star rewards are ready to claim. Tap to take a look"
+    },
+    {
+     "tag": "49293",
+     "textModuleId": "Tap to claim rewards"
+    },
+    {
+     "tag": "50291",
+     "textModuleId": "Join Voyage Tower for lots of team EXP, recruit tickets, Golden Battle Souls and more"
+    },
+    {
+     "tag": "50292",
+     "textModuleId": "Try a round of Voyage Tower"
+    },
+    {
+     "tag": "51291",
+     "textModuleId": "Join Combat Training for skill books of all four classes, recruit tickets and more"
+    },
+    {
+     "tag": "51293",
+     "textModuleId": "You can choose a stage here"
+    },
+    {
+     "tag": "51294",
+     "textModuleId": "Each stage has three star conditions; collecting stars gives lots of rewards"
+    },
+    {
+     "tag": "51295",
+     "textModuleId": "Each battle costs Action Points"
+    },
+    {
+     "tag": "51296",
+     "textModuleId": "Try a round of Combat Training"
+    },
+    {
+     "tag": "52299",
+     "textModuleId": "Blood Battle gives Blue Diamonds, gems, Quick Challenge Tickets and more"
+    },
+    {
+     "tag": "52300",
+     "textModuleId": "Please tap to enter the stage"
+    },
+    {
+     "tag": "52301",
+     "textModuleId": "Tap Challenge to take it on!"
+    },
+    {
+     "tag": "52302",
+     "textModuleId": "Tap to battle quickly"
+    },
+    {
+     "tag": "54303",
+     "textModuleId": "Join Elite Challenge for lots of Honor Coins to exchange for character shards and other great items in the shop!"
+    },
+    {
+     "tag": "52304",
+     "textModuleId": "Tap to battle quickly"
+    },
+    {
+     "tag": "52305",
+     "textModuleId": "Tap to battle quickly"
+    },
+    {
+     "tag": "52306",
+     "textModuleId": "Tap to battle quickly"
+    },
+    {
+     "tag": "52307",
+     "textModuleId": "Tap to battle quickly"
+    },
+    {
+     "tag": "52308",
+     "textModuleId": "Tap to battle quickly"
+    },
+    {
+     "tag": "52309",
+     "textModuleId": "Here you can view the stats and skills the selected ship currently provides"
+    },
+    {
+     "tag": "52310",
+     "textModuleId": "Tap here to modify the ship"
+    },
+    {
+     "tag": "52311",
+     "textModuleId": "Once the material requirements here are met, you can modify the warship to strengthen its stats and raise its modification level"
+    },
+    {
+     "tag": "52312",
+     "textModuleId": "Here you can view your current modification level; reaching certain levels unlocks warship Refinement."
+    },
+    {
+     "tag": "52313",
+     "textModuleId": "Left of the arrow are the ship's current stats; the right shows the bonuses from raising the modification level this time."
+    },
+    {
+     "tag": "52314",
+     "textModuleId": "Please close the modification screen"
+    },
+    {
+     "tag": "52315",
+     "textModuleId": "Advanced ships can be refined here for stat bonuses"
+    }
+   ]
+  }
+ },
+ "glossary_additions": {},
+ "uncertain_notes": []
+}
