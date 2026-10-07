@@ -57449,9 +57449,33 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800230",
+     "skillName": "Treinta Fleur: Glide",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>2 horizontal enemy rows</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack reduces the enemy target's <color=#d14e0d>Healing</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800231",
+     "skillName": "Treinta Fleur: Glide",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>2 horizontal enemy rows</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack reduces the enemy target's <color=#d14e0d>Healing</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800232",
      "skillName": "Cien Fleur: Delphinium",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800233",
+     "skillName": "Cien Fleur: Delphinium",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack inflicts <color=#d14e0d>Seal</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800234",
+     "skillName": "Cien Fleur: Delphinium",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack inflicts <color=#d14e0d>Seal</color>.",
      "buttonEffect": ""
     },
     {
@@ -57470,6 +57494,24 @@
      "skillId": "800237",
      "skillName": "Flower-Flower Fruit",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800239",
+     "skillName": "Star Shield",
+     "skillDesc": "Applies a <color=#d14e0d>Shield</color> to <color=#d14e0d>self</color> with HP equal to <color=#d14e0d>{buffper1}%</color> of own HP. The Shield disappears when its HP reaches 0 and lasts <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800240",
+     "skillName": "Star Shield",
+     "skillDesc": "Applies a <color=#d14e0d>Shield</color> to <color=#d14e0d>self</color> with HP equal to <color=#d14e0d>{buffper1}%</color> of own HP. The Shield disappears when its HP reaches 0 and lasts <color=#d14e0d>2 turns</color>. The Star Shield carries <color=#d14e0d>Taunt</color>, forcing enemies to target self.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800241",
+     "skillName": "Star Shield",
+     "skillDesc": "Applies a <color=#d14e0d>Shield</color> to <color=#d14e0d>self</color> with HP equal to <color=#d14e0d>{buffper1}%</color> of own HP. The Shield disappears when its HP reaches 0 and lasts <color=#d14e0d>2 turns</color>. The Star Shield carries <color=#d14e0d>Taunt</color>, forcing enemies to target self.",
      "buttonEffect": ""
     },
     {
@@ -57503,9 +57545,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800247",
+     "skillName": "Coup de Vent",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack inflicts <color=#d14e0d>Weaken</color>, reducing the enemy target's <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800248",
      "skillName": "Great Inventor",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800249",
+     "skillName": "Defense Boost",
+     "skillDesc": "Franky's <color=#d14e0d>DEF</color> increases by <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -57539,6 +57593,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800256",
+     "skillName": "Humming Three Steps: Arrow Notch Slash",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack reduces the enemy target's <color=#d14e0d>Rage</color> by <color=#d14e0d>{buffval1}</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800257",
+     "skillName": "Humming Three Steps: Arrow Notch Slash",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. The attack reduces the enemy target's <color=#d14e0d>Rage</color> by <color=#d14e0d>{buffval1}</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800258",
      "skillName": "Musician",
      "skillDesc": "",
@@ -57548,6 +57614,12 @@
      "skillId": "800259",
      "skillName": "Musician",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800260",
+     "skillName": "Speed Enhancement",
+     "skillDesc": "Brook's <color=#d14e0d>SPD</color> increases by <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -57593,6 +57665,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800269",
+     "skillName": "Captain Buggy",
+     "skillDesc": "Buggy grants a command bonus to teammates in the 3x3 area around him: their <color=#d14e0d>ATK</color> +<color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>DEF</color> +<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800270",
+     "skillName": "Captain Buggy",
+     "skillDesc": "Buggy grants a command bonus to teammates in the 3x3 area around him: their <color=#d14e0d>ATK</color> +<color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>DEF</color> +<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800272",
      "skillName": "White Snake",
      "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
@@ -57605,9 +57689,93 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800274",
+     "skillName": "White Snake",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage, and reduces the enemy target's <color=#d14e0d>Dodge Rate</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800275",
+     "skillName": "Smoke Jet",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage, with <color=#d14e0d>{buffper1}% Wind damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800276",
+     "skillName": "Smoke Jet",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage, with <color=#d14e0d>{buffper1}% Wind damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800277",
+     "skillName": "Smoke Jet",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage, with <color=#d14e0d>{buffper1}% Wind damage</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800278",
      "skillName": "Smoke-Smoke Fruit",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800279",
+     "skillName": "Smoke-Smoke Fruit",
+     "skillDesc": "<color=#d14e0d>Damage</color> taken by self is reduced by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800280",
+     "skillName": "Smoke-Smoke Fruit",
+     "skillDesc": "<color=#d14e0d>Damage</color> taken by self is reduced by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800282",
+     "skillName": "Haze: Flash",
+     "skillDesc": "<color=#d14e0d>Usugasumi skill</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>3 enemy tiles in a horizontal row</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800283",
+     "skillName": "Haze: Flash",
+     "skillDesc": "<color=#d14e0d>Usugasumi skill</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>3 enemy tiles in a horizontal row</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800284",
+     "skillName": "Haze: Flash",
+     "skillDesc": "<color=#d14e0d>Usugasumi skill; the skill costs 2</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>3 enemy tiles in a horizontal row</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800285",
+     "skillName": "Haze: Thousand Cherry Blossoms",
+     "skillDesc": "<color=#d14e0d>Usugasumi skill</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800286",
+     "skillName": "Haze: Thousand Cherry Blossoms",
+     "skillDesc": "<color=#d14e0d>Usugasumi skill</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800287",
+     "skillName": "Haze: Thousand Cherry Blossoms",
+     "skillDesc": "<color=#d14e0d>Usugasumi skill</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800288",
+     "skillName": "Haze: Dusk",
+     "skillDesc": "<color=#d14e0d>Usugasumi skill</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800289",
+     "skillName": "Swordsmanship Master",
+     "skillDesc": "When Tashigi uses a skill or Ultimate, <color=#d14e0d>ATK</color> +<color=#d14e0d>10%</color>, stacking up to 5 times.",
      "buttonEffect": ""
     },
     {
@@ -57740,6 +57908,24 @@
      "skillId": "800314",
      "skillName": "Candle Cone",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800315",
+     "skillName": "Candle Wall",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. When using this skill, there is a <color=#d14e0d>{buffodds}%</color> chance to seal the enemy target in wax, leaving it <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800316",
+     "skillName": "Candle Wall",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. When using this skill, there is a <color=#d14e0d>{buffodds}%</color> chance to seal the enemy target in wax, leaving it <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800317",
+     "skillName": "Candle Wall",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. When using this skill, there is a <color=#d14e0d>{buffodds}%</color> chance to seal the enemy target in wax, leaving it <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>.",
      "buttonEffect": ""
     },
     {
@@ -57887,6 +58073,24 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800345",
+     "skillName": "Rokuogan: Wolf Hunt Network Zone",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Jabra stays in <color=#d14e0d>Wolf Form</color>, and own <color=#d14e0d>ATK</color> and <color=#d14e0d>DEF</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800346",
+     "skillName": "Rokuogan: Wolf Hunt Network Zone",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Jabra stays in <color=#d14e0d>Wolf Form</color>, and own <color=#d14e0d>ATK</color> and <color=#d14e0d>DEF</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800347",
+     "skillName": "Rokuogan: Wolf Hunt Network Zone",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Jabra stays in <color=#d14e0d>Wolf Form</color>, and own <color=#d14e0d>ATK</color> and <color=#d14e0d>DEF</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800349",
      "skillName": "Juugan",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -57917,9 +58121,63 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800354",
+     "skillName": "Tekkai Kenpo: Heavy Wolf",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Knock-Up</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800355",
      "skillName": "Dog-Dog Fruit",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800356",
+     "skillName": "Life Drain",
+     "skillDesc": "All attacks carry <color=#d14e0d>Lifesteal</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800357",
+     "skillName": "Life Drain",
+     "skillDesc": "All attacks carry <color=#d14e0d>Lifesteal</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800359",
+     "skillName": "Cleanse",
+     "skillDesc": "Cleanses <color=#d14e0d>all allies</color>, with a <color=#d14e0d>{buffodds}%</color> chance to remove <color=#d14e0d>debuffs</color> from them, and instantly restores <color=#d14e0d>15%</color> of each character's <color=#d14e0d>Max HP</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800360",
+     "skillName": "Cleanse",
+     "skillDesc": "Cleanses <color=#d14e0d>all allies</color>, with a <color=#d14e0d>{buffodds}%</color> chance to remove <color=#d14e0d>debuffs</color> from them, and instantly restores <color=#d14e0d>15%</color> of each character's <color=#d14e0d>Max HP</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800361",
+     "skillName": "Cleanse",
+     "skillDesc": "Cleanses <color=#d14e0d>all allies</color>, with a <color=#d14e0d>{buffodds}%</color> chance to remove <color=#d14e0d>debuffs</color> from them, and instantly restores <color=#d14e0d>15%</color> of each character's <color=#d14e0d>Max HP</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800362",
+     "skillName": "Sheep Cloud Tsunami",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, and reduces the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800363",
+     "skillName": "Sheep Cloud Tsunami",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Dispel</color>, and reduces the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800364",
+     "skillName": "Sheep Cloud Tsunami",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Dispel</color>, and reduces the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
      "buttonEffect": ""
     },
     {
@@ -57935,9 +58193,63 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800367",
+     "skillName": "Bubble-Bubble Fruit",
+     "skillDesc": "When Kalifa is attacked, there is a <color=#d14e0d>{buffodds}%</color> chance to be <color=#d14e0d>immune</color> to the damage of the current skill.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800369",
+     "skillName": "Four-Sword Style",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>the enemy target and 1 character behind it</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800370",
+     "skillName": "Four-Sword Style",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>the enemy target and 1 character behind it</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800371",
+     "skillName": "Four-Sword Style",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>the enemy target and 1 character behind it</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800372",
+     "skillName": "Rankyaku: Amane",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Kaku stays in <color=#d14e0d>Giraffe Form</color>, and own <color=#d14e0d>ATK</color> and <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800373",
+     "skillName": "Rankyaku: Amane",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Kaku stays in <color=#d14e0d>Giraffe Form</color>, and own <color=#d14e0d>ATK</color> and <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800374",
+     "skillName": "Rankyaku: Amane",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Kaku stays in <color=#d14e0d>Giraffe Form</color>, and own <color=#d14e0d>ATK</color> and <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800376",
      "skillName": "Rankyaku",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800377",
+     "skillName": "Rankyaku",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Armor Break</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800378",
+     "skillName": "Rankyaku",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Armor Break</color> for <color=#d14e0d>2</color> turns.",
      "buttonEffect": ""
     },
     {
@@ -57950,6 +58262,12 @@
      "skillId": "800380",
      "skillName": "Nose Gun",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800381",
+     "skillName": "Nose Gun",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and inflicts <color=#d14e0d>Stun</color>.",
      "buttonEffect": ""
     },
     {
@@ -57977,6 +58295,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800387",
+     "skillName": "Hand of the Dead",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage, and the enemy target's <color=#d14e0d>DEF is reduced by {buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800388",
+     "skillName": "Hand of the Dead",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage, and the enemy target's <color=#d14e0d>DEF is reduced by {buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800389",
      "skillName": "Stealth Raid",
      "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
@@ -57986,6 +58316,12 @@
      "skillId": "800390",
      "skillName": "Stealth Raid",
      "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800391",
+     "skillName": "Stealth Raid",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage, and the enemy target's <color=#d14e0d>SPD is reduced by {buffper1}%</color> for <color=#d14e0d>2</color> turns.",
      "buttonEffect": ""
     },
     {
@@ -58007,9 +58343,57 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800396",
+     "skillName": "Genius Surgery",
+     "skillDesc": "Heals <color=#d14e0d>all allies</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Hogback's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800397",
+     "skillName": "Genius Surgery",
+     "skillDesc": "Heals <color=#d14e0d>all allies</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Hogback's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800398",
+     "skillName": "Genius Surgery",
+     "skillDesc": "Heals <color=#d14e0d>all allies</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Hogback's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800399",
+     "skillName": "Body Enhancement: Strength Up",
+     "skillDesc": "Modifies the body of a random ally: ATK +<color=#d14e0d>{buffper1}%</color>, CRIT Rate +<color=#d14e0d>{buffper1}%</color>, SPD +<color=#d14e0d>{buffper2}%</color>, Dodge Rate +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800400",
+     "skillName": "Body Enhancement: Strength Up",
+     "skillDesc": "Modifies the body of a random ally: ATK +<color=#d14e0d>{buffper1}%</color>, CRIT Rate +<color=#d14e0d>{buffper1}%</color>, SPD +<color=#d14e0d>{buffper2}%</color>, Dodge Rate +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800401",
+     "skillName": "Body Enhancement: Strength Up",
+     "skillDesc": "Modifies the body of a random ally: ATK +<color=#d14e0d>{buffper1}%</color>, CRIT Rate +<color=#d14e0d>{buffper1}%</color>, SPD +<color=#d14e0d>{buffper2}%</color>, Dodge Rate +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800402",
      "skillName": "Genius Doctor",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800403",
+     "skillName": "Attack Boost",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800404",
+     "skillName": "Speed Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -58025,6 +58409,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800407",
+     "skillName": "Negative Hollow Swarm",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, and reduces enemy Rage by <color=#d14e0d>{buffval1}</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800408",
+     "skillName": "Negative Hollow Swarm",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, and reduces enemy Rage by <color=#d14e0d>{buffval1}</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800409",
      "skillName": "Kamikaze Snap",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -58034,6 +58430,12 @@
      "skillId": "800410",
      "skillName": "Kamikaze Snap",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800411",
+     "skillName": "Kamikaze Snap",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, with a <color=#d14e0d>{buffodds}%</color> chance to reduce enemy Rage by <color=#d14e0d>{buffval1}</color>.",
      "buttonEffect": ""
     },
     {
@@ -58055,9 +58457,57 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800416",
+     "skillName": "Aubade: Coup Droit",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800417",
+     "skillName": "Aubade: Coup Droit",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800418",
+     "skillName": "Aubade: Coup Droit",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800419",
+     "skillName": "Dragon Slayer",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800420",
+     "skillName": "Dragon Slayer",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800421",
+     "skillName": "Dragon Slayer",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK, and inflicts <color=#d14e0d>Seal</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800422",
      "skillName": "Black Blade Shusui",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800423",
+     "skillName": "Speed Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800424",
+     "skillName": "Speed Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -58103,6 +58553,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800433",
+     "skillName": "Attack Boost",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800434",
+     "skillName": "Attack Boost",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800436",
+     "skillName": "Support Bombardment",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800437",
+     "skillName": "Support Bombardment",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800438",
+     "skillName": "Support Bombardment",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800439",
      "skillName": "Pacifista",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -58115,9 +58595,27 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800441",
+     "skillName": "Pacifista",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800442",
      "skillName": "Tough Body",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800443",
+     "skillName": "HP Boost",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800444",
+     "skillName": "Defensive Support",
+     "skillDesc": "When Sentomaru's HP falls below <color=#d14e0d>{buffper1}%</color> while alive, the attacking enemy unit immediately ends its action, and a Pacifista with HP equal to <color=#d14e0d>{buffper2}%</color> of Sentomaru's Max HP is summoned in the empty tile in front of him; if there is no empty tile, it cannot be summoned. Can only trigger once per battle.",
      "buttonEffect": ""
     },
     {
@@ -58145,9 +58643,69 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800450",
+     "skillName": "Erosion Cycle",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Wind damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800451",
+     "skillName": "Erosion Cycle",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Wind damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800452",
      "skillName": "Venomous Hook",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800453",
+     "skillName": "Venomous Hook",
+     "skillDesc": "All of Crocodile's attacks reduce the target's <color=#d14e0d>healing received</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800454",
+     "skillName": "Sandstorm Weather",
+     "skillDesc": "All enemies' <color=#d14e0d>Accuracy</color> -<color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>Dodge Rate</color> -<color=#d14e0d>{buffper2}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800456",
+     "skillName": "Thunderbird",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Thunder damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800457",
+     "skillName": "Thunderbird",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Thunder damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800458",
+     "skillName": "Thunderbird",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Thunder damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800459",
+     "skillName": "Raigo",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Thunder damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800460",
+     "skillName": "Raigo",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Thunder damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800461",
+     "skillName": "Raigo",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Thunder damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
      "buttonEffect": ""
     },
     {
@@ -58160,6 +58718,54 @@
      "skillId": "800464",
      "skillName": "Electric Shock Heart",
      "skillDesc": "When <color=#d14e0d>HP reaches 0</color>, Enel does not die immediately; he revives himself by shocking his own heart and recovers <color=#d14e0d>{buffper1}%</color> of his Max HP. <color=#d14e0d>This effect can only trigger once per battle</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800466",
+     "skillName": "Ice Rain",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Ice damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800467",
+     "skillName": "Ice Rain",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Ice damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800468",
+     "skillName": "Ice Rain",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Ice damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800469",
+     "skillName": "Ice Age",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Slow</color>, which has a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800470",
+     "skillName": "Ice Age",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Slow</color>, which has a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800471",
+     "skillName": "Ice Age",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Slow</color>, which has a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800473",
+     "skillName": "Freeze",
+     "skillDesc": "After battle starts, 2 random enemies have their SPD reduced by <color=#d14e0d>{buffper1}%</color> on the first turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800474",
+     "skillName": "Freeze",
+     "skillDesc": "After battle starts, 2 random enemies have their SPD reduced by <color=#d14e0d>{buffper1}%</color> on the first turn.",
      "buttonEffect": ""
     },
     {
@@ -58181,9 +58787,93 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800479",
+     "skillName": "Drowsiness",
+     "skillDesc": "Instantly recovers HP equal to <color=#d14e0d>{buffper1}%</color> of own Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800480",
+     "skillName": "Drowsiness",
+     "skillDesc": "Instantly recovers HP equal to <color=#d14e0d>{buffper1}%</color> of own Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800481",
+     "skillName": "Drowsiness",
+     "skillDesc": "Instantly recovers HP equal to <color=#d14e0d>{buffper1}%</color> of own Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800482",
+     "skillName": "Fist of Love",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and inflicts <color=#d14e0d>Stun</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800483",
+     "skillName": "Fist of Love",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and inflicts <color=#d14e0d>Stun</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800484",
+     "skillName": "Fist of Love",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and inflicts <color=#d14e0d>Stun</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800485",
      "skillName": "Guardian of Justice",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800486",
+     "skillName": "Guardian of Justice",
+     "skillDesc": "When Garp's <color=#d14e0d>HP</color> falls below <color=#d14e0d>35% of his Max HP</color>, damage taken is reduced by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800487",
+     "skillName": "Guardian of Justice",
+     "skillDesc": "When Garp's <color=#d14e0d>HP</color> falls below <color=#d14e0d>35% of his Max HP</color>, damage taken is reduced by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800489",
+     "skillName": "Tsuno-Tokage",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800490",
+     "skillName": "Tsuno-Tokage",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800491",
+     "skillName": "Tsuno-Tokage",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800492",
+     "skillName": "Shadow Gathering",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800493",
+     "skillName": "Shadow Gathering",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800494",
+     "skillName": "Shadow Gathering",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
      "buttonEffect": ""
     },
     {
@@ -58223,9 +58913,111 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800502",
+     "skillName": "Swat Away",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Hit enemies are <color=#d14e0d>Banished</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800503",
+     "skillName": "Swat Away",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Hit enemies are <color=#d14e0d>Banished</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800504",
+     "skillName": "Swat Away",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Hit enemies are <color=#d14e0d>Banished</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800505",
      "skillName": "Bear's Guardianship",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800506",
+     "skillName": "Bear's Guardianship",
+     "skillDesc": "At the start of each turn, Kuma applies a <color=#d14e0d>Bear Shield</color> to the teammate with the lowest HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800507",
+     "skillName": "Bear's Guardianship",
+     "skillDesc": "At the start of each turn, Kuma applies a <color=#d14e0d>Bear Shield</color> to the teammate with the lowest HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800509",
+     "skillName": "Pillar of Light",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a cross-shaped area around the target</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800510",
+     "skillName": "Pillar of Light",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a cross-shaped area around the target</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800511",
+     "skillName": "Pillar of Light",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a cross-shaped area around the target</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800512",
+     "skillName": "Yata no Kagami",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800513",
+     "skillName": "Yata no Kagami",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800514",
+     "skillName": "Yata no Kagami",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800515",
+     "skillName": "Glint-Glint Fruit",
+     "skillDesc": "Kizaru's <color=#d14e0d>Light damage</color> increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800516",
+     "skillName": "Glint-Glint Fruit",
+     "skillDesc": "Kizaru's <color=#d14e0d>Light damage</color> increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800517",
+     "skillName": "Glint-Glint Fruit",
+     "skillDesc": "Kizaru's <color=#d14e0d>Light damage</color> increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800529",
+     "skillName": "Volcano",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800530",
+     "skillName": "Volcano",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800531",
+     "skillName": "Volcano",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
      "buttonEffect": ""
     },
     {
@@ -58247,6 +59039,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800535",
+     "skillName": "Magma Armor",
+     "skillDesc": "At the start of each turn, Akainu applies 1 stack of <color=#d14e0d>Magma Shield</color> to himself with HP equal to <color=#d14e0d>{buffper1}%</color> of his <color=#d14e0d>Max HP</color>, stacking up to three times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800536",
+     "skillName": "Magma-Magma Fruit",
+     "skillDesc": "Attribute damage taken by Akainu is reduced by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800537",
      "skillName": "Magma Armor",
      "skillDesc": "",
@@ -58256,6 +59060,54 @@
      "skillId": "800539",
      "skillName": "Black Blade: Rend",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800540",
+     "skillName": "Black Blade: Rend",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Sever</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800541",
+     "skillName": "Black Blade: Rend",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Sever</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800542",
+     "skillName": "Black Blade: Flash",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Sever</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800543",
+     "skillName": "Black Blade: Flash",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Sever</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800544",
+     "skillName": "Black Blade: Flash",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Sever</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800545",
+     "skillName": "Merciless Killing Intent",
+     "skillDesc": "Gives <color=#d14e0d>Black Blade: Rend</color> the <color=#d14e0d>Sever effect</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800546",
+     "skillName": "Merciless Killing Intent",
+     "skillDesc": "Gives <color=#d14e0d>Black Blade: Rend</color> the <color=#d14e0d>Sever effect</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800547",
+     "skillName": "Merciless Killing Intent",
+     "skillDesc": "Gives <color=#d14e0d>Black Blade: Rend</color> the <color=#d14e0d>Sever effect</color>.",
      "buttonEffect": ""
     },
     {
@@ -58280,6 +59132,18 @@
      "skillId": "800552",
      "skillName": "Shigan: Madara",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800553",
+     "skillName": "Shigan: Madara",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Lucci stays in <color=#d14e0d>Leopard Form</color>, and own <color=#d14e0d>ATK</color>, <color=#d14e0d>DEF</color> and <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800554",
+     "skillName": "Shigan: Madara",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Lucci stays in <color=#d14e0d>Leopard Form</color>, and own <color=#d14e0d>ATK</color>, <color=#d14e0d>DEF</color> and <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
      "buttonEffect": ""
     },
     {
@@ -58325,6 +59189,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800564",
+     "skillName": "Paper-Drawn Weapon Body",
+     "skillDesc": "In Leopard Form, when <color=#d14e0d>HP</color> is below <color=#d14e0d>30% of Max HP</color>, <color=#d14e0d>Dodge Rate</color> +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800566",
      "skillName": "Shark School",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -58343,9 +59213,111 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800569",
+     "skillName": "Buraikan",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and inflicts <color=#d14e0d>Stun</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800570",
+     "skillName": "Buraikan",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and inflicts <color=#d14e0d>Stun</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800571",
+     "skillName": "Buraikan",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and inflicts <color=#d14e0d>Stun</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800572",
+     "skillName": "Fish-Man Karate",
+     "skillDesc": "Jinbe's <color=#d14e0d>CRIT Rate</color> increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800573",
+     "skillName": "Fish-Man Karate",
+     "skillDesc": "Jinbe's <color=#d14e0d>CRIT Rate</color> increases by <color=#d14e0d>{buffper1}%</color>, and he gains <color=#d14e0d>50</color> Rage when a skill CRITs.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800574",
+     "skillName": "Fish-Man Karate",
+     "skillDesc": "Jinbe's <color=#d14e0d>CRIT Rate</color> increases by <color=#d14e0d>{buffper1}%</color>, and he gains <color=#d14e0d>50</color> Rage when a skill CRITs.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800576",
+     "skillName": "Sweet Sweet Breeze",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, with a <color=#d14e0d>{buffodds}%</color> chance to inflict Petrification.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800577",
+     "skillName": "Sweet Sweet Breeze",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, with a <color=#d14e0d>{buffodds}%</color> chance to inflict Petrification.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800578",
+     "skillName": "Sweet Sweet Breeze",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, with a <color=#d14e0d>{buffodds}%</color> chance to inflict Petrification.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800579",
+     "skillName": "Perfume Femur",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and inflicts Petrification.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800580",
+     "skillName": "Perfume Femur",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and inflicts Petrification.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800581",
+     "skillName": "Perfume Femur",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage and inflicts Petrification.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800582",
      "skillName": "Martial Arts Expert",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800583",
+     "skillName": "Martial Arts Expert",
+     "skillDesc": "Damage of all of Hancock's <color=#d14e0d>Kick</color> skills +<color=#d14e0d>{buffper1}%</color>, and their CRIT Rate and CRIT DMG +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800584",
+     "skillName": "Martial Arts Expert",
+     "skillDesc": "Damage of all of Hancock's <color=#d14e0d>Kick</color> skills +<color=#d14e0d>{buffper1}%</color>, and their CRIT Rate and CRIT DMG +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800586",
+     "skillName": "Takt",
+     "skillDesc": "A random ally's ATK and SPD +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800587",
+     "skillName": "Takt",
+     "skillDesc": "A random ally's ATK and SPD +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800588",
+     "skillName": "Takt",
+     "skillDesc": "A random ally's ATK and SPD +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
      "buttonEffect": ""
     },
     {
@@ -58367,6 +59339,60 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800592",
+     "skillName": "Scalpel",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, and takes the target's heart, making the enemy instantly lose <color=#d14e0d>20%</color> of Max HP, while inflicting Debilitation that temporarily throws its body out of control, reducing all damage it deals by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800593",
+     "skillName": "Scalpel",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, and takes the target's heart, making the enemy instantly lose <color=#d14e0d>20%</color> of Max HP, while inflicting Debilitation that temporarily throws its body out of control, reducing all damage it deals by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800594",
+     "skillName": "Scalpel",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, and takes the target's heart, making the enemy instantly lose <color=#d14e0d>20%</color> of Max HP, while inflicting Debilitation that temporarily throws its body out of control, reducing all damage it deals by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800595",
+     "skillName": "ROOM",
+     "skillDesc": "After battle starts, Law opens ROOM for <color=#d14e0d>2</color> turns. Law can sense attacks within its range, increasing his Dodge Rate by <color=#d14e0d>{buffper1}%</color>, and can negate <color=#d14e0d>1</color> lethal attack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800596",
+     "skillName": "ROOM",
+     "skillDesc": "After battle starts, Law opens ROOM for <color=#d14e0d>2</color> turns. Law can sense attacks within its range, increasing his Dodge Rate by <color=#d14e0d>{buffper1}%</color>, and can negate <color=#d14e0d>1</color> lethal attack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800597",
+     "skillName": "ROOM",
+     "skillDesc": "After battle starts, Law opens ROOM for <color=#d14e0d>2</color> turns. Law can sense attacks within its range, increasing his Dodge Rate by <color=#d14e0d>{buffper1}%</color>, and can negate <color=#d14e0d>1</color> lethal attack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800599",
+     "skillName": "Attraction · Guard",
+     "skillDesc": "Places a Steel Shield at a random empty tile in our front row. The Steel Shield has <color=#d14e0d>{buffper1}%</color> of Kid's HP and, when placed, applies 1 stack of <color=#d14e0d>Steel Shield</color>, which blocks line-type damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800600",
+     "skillName": "Attraction · Guard",
+     "skillDesc": "Places a Steel Shield at a random empty tile in our front row. The Steel Shield has <color=#d14e0d>{buffper1}%</color> of Kid's HP and, when placed, applies 1 stack of <color=#d14e0d>Steel Shield</color>, which blocks line-type damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800601",
+     "skillName": "Attraction · Guard",
+     "skillDesc": "Places a Steel Shield at a random empty tile in our front row. The Steel Shield has <color=#d14e0d>{buffper1}%</color> of Kid's HP and, when placed, applies 1 stack of <color=#d14e0d>Steel Shield</color>, which blocks line-type damage.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800602",
      "skillName": "Heavy Strike",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -58382,6 +59408,24 @@
      "skillId": "800604",
      "skillName": "Heavy Strike",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800605",
+     "skillName": "Ferocity",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. This skill always CRITs.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800606",
+     "skillName": "Ferocity",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. This skill always CRITs.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800607",
+     "skillName": "Ferocity",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. This skill always CRITs.",
      "buttonEffect": ""
     },
     {
@@ -58439,6 +59483,42 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800618",
+     "skillName": "Sword Storm",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Wind damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800619",
+     "skillName": "Sword Storm",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Wind damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800620",
+     "skillName": "Sword Storm",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Wind damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800621",
+     "skillName": "Heavy Drinker",
+     "skillDesc": "After drinking, there is a <color=#d14e0d>{buffodds}%</color> chance to trigger one random extra effect:\\n1. <color=#d14e0d>-Rage-</color>:\\nGain <color=#d14e0d>50</color> Rage;\\n2. <color=#d14e0d>-ATK-</color>:\\nGain <color=#d14e0d>20%</color> ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800622",
+     "skillName": "Heavy Drinker",
+     "skillDesc": "After drinking, there is a <color=#d14e0d>{buffodds}%</color> chance to trigger one random extra effect:\\n1. <color=#d14e0d>-Rage-</color>:\\nGain <color=#d14e0d>50</color> Rage;\\n2. <color=#d14e0d>-ATK-</color>:\\nGain <color=#d14e0d>20%</color> ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800623",
+     "skillName": "Heavy Drinker",
+     "skillDesc": "After drinking, there is a <color=#d14e0d>{buffodds}%</color> chance to trigger one random extra effect:\\n1. <color=#d14e0d>-Rage-</color>:\\nGain <color=#d14e0d>50</color> Rage;\\n2. <color=#d14e0d>-ATK-</color>:\\nGain <color=#d14e0d>20%</color> ATK.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800625",
      "skillName": "Gale Punch",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -58454,6 +59534,24 @@
      "skillId": "800627",
      "skillName": "Gale Punch",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800628",
+     "skillName": "Buddha's Impact",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800629",
+     "skillName": "Buddha's Impact",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK, recovers <color=#d14e0d>30%</color> HP, and enters Great Buddha Form, reducing skill damage and Attribute damage taken by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800630",
+     "skillName": "Buddha's Impact",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK, recovers <color=#d14e0d>30%</color> HP, and enters Great Buddha Form, reducing skill damage and Attribute damage taken by <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -58475,6 +59573,96 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800635",
+     "skillName": "Buddha's Punishment",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800636",
+     "skillName": "Buddha's Punishment",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800637",
+     "skillName": "Buddha's Punishment",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800638",
+     "skillName": "Gigantification",
+     "skillDesc": "In Great Buddha Form, skill damage and Attribute damage taken by Sengoku are reduced by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800639",
+     "skillName": "Wise General",
+     "skillDesc": "At the start of each turn, Sengoku and the ally with the lowest HP other than himself recover <color=#d14e0d>{buffper1}%</color> of Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800640",
+     "skillName": "Wise General",
+     "skillDesc": "At the start of each turn, Sengoku and the ally with the lowest HP other than himself recover <color=#d14e0d>{buffper1}%</color> of Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800642",
+     "skillName": "Poison Spray",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Corrosion</color>. <color=#d14e0d>Corrosion</color> reduces damage dealt by enemies by <color=#d14e0d>{buffper1}%</color> <color=#d14e0d>for 2 turns</color>, and <color=#d14e0d>stacks up to 2 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800643",
+     "skillName": "Poison Spray",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Corrosion</color>. <color=#d14e0d>Corrosion</color> reduces damage dealt by enemies by <color=#d14e0d>{buffper1}%</color> <color=#d14e0d>for 2 turns</color>, and <color=#d14e0d>stacks up to 2 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800644",
+     "skillName": "Poison Spray",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage with <color=#d14e0d>Corrosion</color>. <color=#d14e0d>Corrosion</color> reduces damage dealt by enemies by <color=#d14e0d>{buffper1}%</color> <color=#d14e0d>for 2 turns</color>, and <color=#d14e0d>stacks up to 2 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800645",
+     "skillName": "Venom Giant Soldier",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Poison damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800646",
+     "skillName": "Venom Giant Soldier",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Poison damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800647",
+     "skillName": "Venom Giant Soldier",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus <color=#d14e0d>Poison damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800648",
+     "skillName": "Hold Fast",
+     "skillDesc": "When Magellan is the only one alive on our side, his <color=#d14e0d>ATK, DEF and HP</color> increase by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800649",
+     "skillName": "Hold Fast",
+     "skillDesc": "When Magellan is the only one alive on our side, his <color=#d14e0d>ATK, DEF and HP</color> increase by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800650",
+     "skillName": "Hold Fast",
+     "skillDesc": "When Magellan is the only one alive on our side, his <color=#d14e0d>ATK, DEF and HP</color> increase by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800671",
      "skillName": "Forward Roll Kick",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -58487,9 +59675,51 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800704",
+     "skillName": "Hotarubi: Hidaruma",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus an extra <color=#d14e0d>25%</color> Fire damage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800705",
+     "skillName": "Hotarubi: Hidaruma",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus an extra <color=#d14e0d>30%</color> Fire damage",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800706",
      "skillName": "Fire Fist",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800707",
+     "skillName": "Fire Fist",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus an extra <color=#d14e0d>25%</color> Fire damage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800708",
+     "skillName": "Fire Fist",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage, plus an extra <color=#d14e0d>30%</color> Fire damage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800712",
+     "skillName": "Reignite",
+     "skillDesc": "After Ace dies, there is a <color=#d14e0d>{buffodds}%</color> chance to apply 1 stack of Burn to all enemies and deal Fire damage equal to <color=#d14e0d>{buffper1}%</color> of his ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800713",
+     "skillName": "Reignite",
+     "skillDesc": "After Ace dies, there is a <color=#d14e0d>{buffodds}%</color> chance to apply 1 stack of Burn to all enemies and deal Fire damage equal to <color=#d14e0d>{buffper1}%</color> of his ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800714",
+     "skillName": "Reignite",
+     "skillDesc": "After Ace dies, there is a <color=#d14e0d>{buffodds}%</color> chance to apply 1 stack of Burn to all enemies and deal Fire damage equal to <color=#d14e0d>{buffper1}%</color> of his ATK.",
      "buttonEffect": ""
     },
     {
@@ -58529,15 +59759,123 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800722",
+     "skillName": "Remnant of an Era",
+     "skillDesc": "For each Whitebeard Pirates member fielded, Whitebeard's damage, DMG reduction and Attribute DMG reduction increase by <color=#d14e0d>6%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800723",
+     "skillName": "Remnant of an Era",
+     "skillDesc": "For each Whitebeard Pirates member fielded, Whitebeard's damage, DMG reduction and Attribute DMG reduction increase by <color=#d14e0d>2%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800724",
+     "skillName": "Remnant of an Era",
+     "skillDesc": "For each Whitebeard Pirates member fielded, Whitebeard's damage, DMG reduction and Attribute DMG reduction increase by <color=#d14e0d>4%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800725",
+     "skillName": "Ruler of the Era",
+     "skillDesc": "Each turn, there is a <color=#d14e0d>{buffodds}%</color> chance to dispel <color=#d14e0d>2</color> debuffs from self. Enemies attacking Whitebeard have a chance to have their action interrupted.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800726",
+     "skillName": "Ruler of the Era",
+     "skillDesc": "Each turn, there is a <color=#d14e0d>{buffodds}%</color> chance to dispel <color=#d14e0d>2</color> debuffs from self. Enemies attacking Whitebeard have a chance to have their action interrupted.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800727",
+     "skillName": "Ruler of the Era",
+     "skillDesc": "Each turn, there is a <color=#d14e0d>{buffodds}%</color> chance to dispel <color=#d14e0d>2</color> debuffs from self. Enemies attacking Whitebeard have a chance to have their action interrupted.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800728",
      "skillName": "",
      "skillDesc": "Normal Attack",
      "buttonEffect": ""
     },
     {
+     "skillId": "800729",
+     "skillName": "Heavy Kick",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,0,2,0,9}%</color> of ATK and <color=#d14e0d>{atkval,0,2,0,9}</color> fixed damage to <color=#d14e0d>a single enemy</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800730",
+     "skillName": "Heavy Kick",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,0,2,0,9}%</color> of ATK and <color=#d14e0d>{atkval,0,2,0,9}</color> fixed damage to <color=#d14e0d>a single enemy</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800731",
+     "skillName": "Heavy Kick",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,0,2,0,9}%</color> of ATK and <color=#d14e0d>{atkval,0,2,0,9}</color> fixed damage to <color=#d14e0d>a single enemy</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800732",
+     "skillName": "Flame Wing Sky Drive",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,6,4,0,10}%</color> of ATK and <color=#d14e0d>{atkval,6,4,0,10}</color> fixed damage to <color=#d14e0d>all enemies</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800733",
+     "skillName": "Flame Wing Sky Drive",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,6,4,0,10}%</color> of ATK and <color=#d14e0d>{atkval,6,4,0,10}</color> fixed damage to <color=#d14e0d>all enemies</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800734",
+     "skillName": "Flame Wing Sky Drive",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,6,4,0,10}%</color> of ATK and <color=#d14e0d>{atkval,6,4,0,10}</color> fixed damage to <color=#d14e0d>all enemies</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800741",
      "skillName": "",
      "skillDesc": "Normal Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800742",
+     "skillName": "Heavy Kick",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,0,2,0,9}%</color> of ATK and <color=#d14e0d>{atkval,0,2,0,9}</color> fixed damage to <color=#d14e0d>a single enemy</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800743",
+     "skillName": "Heavy Kick",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,0,2,0,9}%</color> of ATK and <color=#d14e0d>{atkval,0,2,0,9}</color> fixed damage to <color=#d14e0d>a single enemy</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800744",
+     "skillName": "Heavy Kick",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,0,2,0,9}%</color> of ATK and <color=#d14e0d>{atkval,0,2,0,9}</color> fixed damage to <color=#d14e0d>a single enemy</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800745",
+     "skillName": "Flame Wing Sky Drive",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,6,4,0,10}%</color> of ATK and <color=#d14e0d>{atkval,6,4,0,10}</color> fixed damage to <color=#d14e0d>all enemies</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800746",
+     "skillName": "Flame Wing Sky Drive",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,6,4,0,10}%</color> of ATK and <color=#d14e0d>{atkval,6,4,0,10}</color> fixed damage to <color=#d14e0d>all enemies</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800747",
+     "skillName": "Flame Wing Sky Drive",
+     "skillDesc": "<color=#634731>-Normal Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.\\n\\n<color=#634731>-Second Form-</color>\\nDeals skill damage equal to <color=#d14e0d>{atkper,6,4,0,10}%</color> of ATK and <color=#d14e0d>{atkval,6,4,0,10}</color> fixed damage to <color=#d14e0d>all enemies</color>, <color=#d14e0d>plus heavy extra Fire damage</color>.",
      "buttonEffect": ""
     },
     {
@@ -60943,6 +62281,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "351",
+     "skillName": "Genius Surgery",
+     "skillDesc": "Heals <color=#d14e0d>all allies</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Hogback's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "356",
      "skillName": "Bear's Shield",
      "skillDesc": "Applies a <color=#d14e0d>Shield</color> to self that absorbs damage equal to <color=#d14e0d>{buffper1}%</color> of own Max HP and provides <color=#d14e0d>Reflect</color>, returning <color=#d14e0d>{buffper1}%</color> of the damage Kuma takes to the enemy. The Shield lasts <color=#d14e0d>2 turns</color> and <color=#d14e0d>expires immediately when broken</color>.",
@@ -61018,6 +62362,12 @@
      "skillId": "402",
      "skillName": "Shambles",
      "skillDesc": "When cast, <color=#d14e0d>{buffodds}%</color> chance to dispel all of the target's buffs. While <color=#d14e0d>ROOM</color> is active, <color=#d14e0d>Shambles</color> becomes a Finisher with the <color=#d14e0d>Swap</color> effect, swapping the target's position with another enemy and ending Law's action.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "418",
+     "skillName": "Attraction · Guard",
+     "skillDesc": "Places a Steel Shield at a random empty tile in our front row. The Steel Shield has <color=#d14e0d>{buffper1}%</color> of Kid's HP and, when placed, applies 1 stack of <color=#d14e0d>Steel Shield</color>, which blocks line-type damage.",
      "buttonEffect": ""
     },
     {
@@ -71845,6 +73195,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300443",
+     "skillName": "Bubble-Bubble Fruit",
+     "skillDesc": "When Kalifa is attacked, there is a <color=#d14e0d>{buffodds}%</color> chance to be <color=#d14e0d>immune</color> to the damage of the current skill.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300471",
      "skillName": "Dark Attribute Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Dark damage by {buffper1}%</color>",
@@ -71887,6 +73243,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300547",
+     "skillName": "Reignite",
+     "skillDesc": "After Ace dies, there is a <color=#d14e0d>{buffodds}%</color> chance to apply 1 stack of Burn to all enemies and deal Fire damage equal to <color=#d14e0d>{buffper1}%</color> of his ATK.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300618",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
@@ -71896,6 +73258,12 @@
      "skillId": "300621",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300630",
+     "skillName": "ROOM",
+     "skillDesc": "After battle starts, Law opens ROOM for <color=#d14e0d>2</color> turns. Law can sense attacks within its range, increasing his Dodge Rate by <color=#d14e0d>{buffper1}%</color>, and can negate <color=#d14e0d>1</color> lethal attack.",
      "buttonEffect": ""
     },
     {
@@ -71938,6 +73306,12 @@
      "skillId": "300665",
      "skillName": "Captivating Charm",
      "skillDesc": "At battle start, puts a random enemy into <color=#d14e0d>Languor</color> and strengthens <color=#d14e0d>Languor</color>: enemies in this state have their Accuracy reduced by <color=#d14e0d>{buffper1}%</color> when attacking Hancock.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300666",
+     "skillName": "Martial Arts Expert",
+     "skillDesc": "Damage of all of Hancock's <color=#d14e0d>Kick</color> skills +<color=#d14e0d>{buffper1}%</color>, and their CRIT Rate and CRIT DMG +<color=#d14e0d>{buffper2}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -71992,6 +73366,12 @@
      "skillId": "300716",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300725",
+     "skillName": "Wise General",
+     "skillDesc": "At the start of each turn, Sengoku and the ally with the lowest HP other than himself recover <color=#d14e0d>{buffper1}%</color> of Max HP.",
      "buttonEffect": ""
     },
     {
@@ -72082,6 +73462,12 @@
      "skillId": "300811",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300819",
+     "skillName": "Ruler of the Era",
+     "skillDesc": "Each turn, there is a <color=#d14e0d>{buffodds}%</color> chance to dispel <color=#d14e0d>2</color> debuffs from self. Enemies attacking Whitebeard have a chance to have their action interrupted.",
      "buttonEffect": ""
     },
     {
@@ -73825,7 +75211,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "10967/14789 rows translated so far"
+   "partial": "11198/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
