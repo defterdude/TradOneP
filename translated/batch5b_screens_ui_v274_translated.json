@@ -22324,10 +22324,59 @@
   },
   {
    "bundle": "restobundle/pages/playerinfosubpage/subpage/secondpasswordmodifypage.ab",
+   "path_id": -2825803237237450447,
+   "gameobject": "txt1",
+   "zh": "确认新密码",
+   "en": "Confirm New Password"
+  },
+  {
+   "bundle": "restobundle/pages/playerinfosubpage/subpage/secondpasswordmodifypage.ab",
+   "path_id": -1678918072677209398,
+   "gameobject": "txt1",
+   "zh": "设置新密码",
+   "en": "Set New Password"
+  },
+  {
+   "bundle": "restobundle/pages/playerinfosubpage/subpage/secondpasswordmodifypage.ab",
+   "path_id": 2406235960060298912,
+   "gameobject": "txt",
+   "zh": "请输入正在使用得二级密码",
+   "en": "Please enter your current secondary password"
+  },
+  {
+   "bundle": "restobundle/pages/playerinfosubpage/subpage/secondpasswordmodifypage.ab",
+   "path_id": 4740884733004064083,
+   "gameobject": "title",
+   "zh": "二级密码修改",
+   "en": "Change Secondary Password"
+  },
+  {
+   "bundle": "restobundle/pages/playerinfosubpage/subpage/secondpasswordmodifypage.ab",
    "path_id": 7125085146604417436,
    "gameobject": "Text",
    "zh": "忘记密码",
    "en": "Forgot Password"
+  },
+  {
+   "bundle": "restobundle/pages/playerinfosubpage/subpage/secondpasswordmodifypage.ab",
+   "path_id": 7932122006293343623,
+   "gameobject": "txt",
+   "zh": "密码由6-12位英文和数字组成，注意区分大小写",
+   "en": "The password is 6-12 letters and digits, case-sensitive"
+  },
+  {
+   "bundle": "restobundle/pages/playerinfosubpage/subpage/secondpasswordtogglepage.ab",
+   "path_id": -7551282351137175586,
+   "gameobject": "Text",
+   "zh": "知道了",
+   "en": "Got It"
+  },
+  {
+   "bundle": "restobundle/pages/playerinfosubpage/subpage/secondpasswordtogglepage.ab",
+   "path_id": 801143911694235195,
+   "gameobject": "Text",
+   "zh": "知道了",
+   "en": "Got It"
   },
   {
    "bundle": "restobundle/pages/playerinfosubpage/subpage/secondpasswordtogglepage.ab",
@@ -22344,11 +22393,32 @@
    "en": "Forgot Password"
   },
   {
+   "bundle": "restobundle/pages/playerinfosubpage/subpage/secondpasswordverifypage.ab",
+   "path_id": 2870772202280566470,
+   "gameobject": "title",
+   "zh": "二级密码验证",
+   "en": "Secondary Password Check"
+  },
+  {
+   "bundle": "restobundle/pages/playerinfosubpage/subpage/secondpasswordverifypage.ab",
+   "path_id": 3289190386979185892,
+   "gameobject": "Text",
+   "zh": "请输入",
+   "en": "Please enter"
+  },
+  {
    "bundle": "restobundle/pages/playermailpage.ab",
    "path_id": -7379871343790779045,
    "gameobject": "title",
    "zh": "致玩家的一封信",
    "en": "A Letter to Players"
+  },
+  {
+   "bundle": "restobundle/pages/playermailpage.ab",
+   "path_id": -1701108690965798942,
+   "gameobject": "ContentText",
+   "zh": "亲爱的船长们：\n<color=#00000000>____</color>首先，恭喜您已经体验过了本次测试中全部主线剧情，尽管寻找“ONE<color=#00000000>_</color>PIECE”的道路才刚刚开始，但是你已经迈出了最艰难的第一步。\n<color=#00000000>____</color>全体研发人员在过去一年里，满怀着对《航海王》的热爱，不停的追求更还原，更有趣的航海王世界。\n<color=#00000000>____</color>在下一次测试中，将会有更好玩、更刺激的内容等着大家；此时此刻，我们依然在努力的优化游戏品质，我们将带给大家更丰富的内容和更好的体验，我们也会像草帽一伙一样不断磨练不断成长，与您一同前行。\n\n<color=#00000000>____</color><color=#00000000>____</color><color=#00000000>____</color><color=#00000000>____</color><color=#00000000>__</color>《航海王：燃烧意志》研发团队",
+   "en": "Dear Captains:\n<color=#00000000>____</color>First, congratulations on experiencing the whole main story in this test. The road to the \"ONE<color=#00000000>_</color>PIECE\" has only just begun, but you've already taken the hardest first step.\n<color=#00000000>____</color>Over the past year, the whole development team, full of love for \"One Piece\", has kept striving for a more faithful and more fun One Piece world.\n<color=#00000000>____</color>In the next test, even more fun and exciting content awaits you. Right now, we're still working hard to polish the game. We'll bring you richer content and a better experience, and like the Straw Hats, we'll keep training and growing as we sail on with you.\n\n<color=#00000000>____</color><color=#00000000>____</color><color=#00000000>____</color><color=#00000000>____</color><color=#00000000>__</color>The \"One Piece Burning Will\" Development Team"
   },
   {
    "bundle": "restobundle/pages/playerreturnsignintemppage.ab",
@@ -22359,10 +22429,24 @@
   },
   {
    "bundle": "restobundle/pages/playershopbuypage.ab",
+   "path_id": -6920462631754512015,
+   "gameobject": "Text (2)",
+   "zh": "激活贸易通行证可享受无限制购买特权",
+   "en": "Activate the Trade Pass for unlimited purchases"
+  },
+  {
+   "bundle": "restobundle/pages/playershopbuypage.ab",
    "path_id": -5988238723681843429,
    "gameobject": "Text (1)",
    "zh": "激活贸易通行证享受更多特权",
    "en": "Activate the Trade Pass for more perks"
+  },
+  {
+   "bundle": "restobundle/pages/playershopbuypage.ab",
+   "path_id": -4473732677545465760,
+   "gameobject": "Text",
+   "zh": "本月剩余交易次数：3",
+   "en": "Trades left this month: 3"
   },
   {
    "bundle": "restobundle/pages/playershopbuypage.ab",
@@ -22373,10 +22457,24 @@
   },
   {
    "bundle": "restobundle/pages/playershopbuypage.ab",
+   "path_id": -1360608069640258516,
+   "gameobject": "Text",
+   "zh": "搜   索",
+   "en": "Search"
+  },
+  {
+   "bundle": "restobundle/pages/playershopbuypage.ab",
    "path_id": 864501657625218821,
    "gameobject": "title",
    "zh": "买东西",
    "en": "Buy"
+  },
+  {
+   "bundle": "restobundle/pages/playershopbuypage.ab",
+   "path_id": 3370390617478985143,
+   "gameobject": "Text (1)",
+   "zh": "玩家每月可在玩家商店购买10次物品，交易次数将在每月1日重置",
+   "en": "Players can buy items 10 times a month at the Player Shop; the count resets on the 1st of each month"
   },
   {
    "bundle": "restobundle/pages/playershopbuypage.ab",
@@ -22400,11 +22498,25 @@
    "en": "Sell"
   },
   {
+   "bundle": "restobundle/pages/playershopsellpage.ab",
+   "path_id": -2465160798279223869,
+   "gameobject": "Text",
+   "zh": "本月剩余交易次数：3",
+   "en": "Trades left this month: 3"
+  },
+  {
    "bundle": "restobundle/pages/playerstoreprefabs/buynumber.ab",
    "path_id": -3723595768653056233,
    "gameobject": "num",
    "zh": "购买数量",
    "en": "Quantity"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/commoditypublicitypanel.ab",
+   "path_id": -6047829273429894441,
+   "gameobject": "nameLabel",
+   "zh": "道具名字八个字是",
+   "en": "Item Name Eight Chars"
   },
   {
    "bundle": "restobundle/pages/playerstoreprefabs/commoditypublicitypanel.ab",
@@ -22435,6 +22547,13 @@
    "en": "Nothing available to trade right now~"
   },
   {
+   "bundle": "restobundle/pages/playerstoreprefabs/commodiynormalpanel.ab",
+   "path_id": 3320486440827479034,
+   "gameobject": "nameLabel",
+   "zh": "道具名字八个字是",
+   "en": "Item Name Eight Chars"
+  },
+  {
    "bundle": "restobundle/pages/playerstoreprefabs/equipsearchpage.ab",
    "path_id": 4789379664507303479,
    "gameobject": "genre",
@@ -22461,6 +22580,20 @@
    "gameobject": "label",
    "zh": "在售：",
    "en": "On Sale:"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/playershopbuynormalsearchui.ab",
+   "path_id": 2331967530504305834,
+   "gameobject": "nameLabel",
+   "zh": "道具名字八个字是",
+   "en": "Item Name Eight Chars"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/storeinformation.ab",
+   "path_id": -7636017977998792907,
+   "gameobject": "Text",
+   "zh": "投入",
+   "en": "Put In"
   },
   {
    "bundle": "restobundle/pages/playerstoreprefabs/storeinformation.ab",
@@ -22499,6 +22632,20 @@
   },
   {
    "bundle": "restobundle/pages/playerstoreprefabs/storeinformation.ab",
+   "path_id": -895230281901789375,
+   "gameobject": "putTips",
+   "zh": "可卖物品可卖物品",
+   "en": "Sellable itemsSellable items"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/storeinformation.ab",
+   "path_id": 384578932686004560,
+   "gameobject": "importability",
+   "zh": "最大可输入：",
+   "en": "Max input:"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/storeinformation.ab",
    "path_id": 3063335490466041853,
    "gameobject": "Text",
    "zh": "审核资金",
@@ -22520,10 +22667,24 @@
   },
   {
    "bundle": "restobundle/pages/playerstoreprefabs/storeinformation.ab",
+   "path_id": 5008103604193798134,
+   "gameobject": "putTitle",
+   "zh": "阿道夫",
+   "en": "Adolf"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/storeinformation.ab",
    "path_id": 5383564649382331012,
    "gameobject": "title",
    "zh": "请输入新的商店名字，不超过10个字符",
    "en": "Enter a new shop name, up to 10 characters"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/storeinformation.ab",
+   "path_id": 6684442654498490286,
+   "gameobject": "titlename",
+   "zh": "可卖物品可卖物品",
+   "en": "Sellable itemsSellable items"
   },
   {
    "bundle": "restobundle/pages/playerstoreprefabs/storeinformation.ab",
@@ -22541,10 +22702,38 @@
   },
   {
    "bundle": "restobundle/pages/playerstoreprefabs/uicreateshop.ab",
+   "path_id": -6812920900240287536,
+   "gameobject": "Text",
+   "zh": "开开开开",
+   "en": "OpenOpen"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/uicreateshop.ab",
+   "path_id": -5396010643176203024,
+   "gameobject": "name",
+   "zh": "【消耗】",
+   "en": "[Cost]"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/uicreateshop.ab",
+   "path_id": -3302489247091386954,
+   "gameobject": "totalname",
+   "zh": "【消耗】",
+   "en": "[Cost]"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/uicreateshop.ab",
    "path_id": 2940375819856503120,
    "gameobject": "desText",
    "zh": "名字最多10个字符（5个汉字）",
    "en": "Name up to 10 characters (5 Chinese characters)"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/uicreateshop.ab",
+   "path_id": 3106694832609767177,
+   "gameobject": "titleText",
+   "zh": "商店名字",
+   "en": "Shop Name"
   },
   {
    "bundle": "restobundle/pages/playerstoreprefabs/uiplayershopbuypage.ab",
@@ -22597,6 +22786,13 @@
   },
   {
    "bundle": "restobundle/pages/playerstoreprefabs/uishopsellpage.ab",
+   "path_id": -8095506157353487406,
+   "gameobject": "explain",
+   "zh": "道具名字八个字是道具名字八个字是",
+   "en": "Item Name Eight Chars Item Name Eight Chars"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/uishopsellpage.ab",
    "path_id": -7894423615724986619,
    "gameobject": "Text (1)",
    "zh": "可卖物品",
@@ -22608,6 +22804,20 @@
    "gameobject": "Text",
    "zh": "上 架",
    "en": "List"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/uishopsellpage.ab",
+   "path_id": -6174043524664066917,
+   "gameobject": "Text",
+   "zh": "卖卖卖卖卖",
+   "en": "SellSellSell"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/uishopsellpage.ab",
+   "path_id": -5004134507115386613,
+   "gameobject": "surplus",
+   "zh": "（剩余  格）",
+   "en": "(  slots left)"
   },
   {
    "bundle": "restobundle/pages/playerstoreprefabs/uishopsellpage.ab",
@@ -22625,10 +22835,31 @@
   },
   {
    "bundle": "restobundle/pages/playerstoreprefabs/uishopsellpage.ab",
+   "path_id": -3819260117588422420,
+   "gameobject": "lefttop",
+   "zh": "卖卖",
+   "en": "Sell"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/uishopsellpage.ab",
    "path_id": -309994002685643997,
    "gameobject": "Text",
    "zh": "已上架",
    "en": "Listed"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/uishopsellpage.ab",
+   "path_id": 222335376111265317,
+   "gameobject": "name",
+   "zh": "手续费",
+   "en": "Fee"
+  },
+  {
+   "bundle": "restobundle/pages/playerstoreprefabs/uishopsellpage.ab",
+   "path_id": 5484236635514102189,
+   "gameobject": "levelText",
+   "zh": "暂未：",
+   "en": "Not yet:"
   },
   {
    "bundle": "restobundle/pages/playerstoreprefabs/uishopsellpage.ab",
@@ -22650,6 +22881,13 @@
    "gameobject": "Text(no_raycast)",
    "zh": "100级",
    "en": "Lv100"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexactivatepage.ab",
+   "path_id": -4689270490545212886,
+   "gameobject": "prizeNum",
+   "zh": "图鉴值 +200",
+   "en": "Gallery Value +200"
   },
   {
    "bundle": "restobundle/pages/pokedexactivatepage.ab",
@@ -22681,10 +22919,24 @@
   },
   {
    "bundle": "restobundle/pages/pokedexactivatepage.ab",
+   "path_id": 1772840886211012229,
+   "gameobject": "Text(no_raycast)",
+   "zh": "突破1",
+   "en": "Breakthrough 1"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexactivatepage.ab",
    "path_id": 3080758560467998118,
    "gameobject": "Text(no_raycast)",
    "zh": "6星",
    "en": "6 Stars"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexactivatepage.ab",
+   "path_id": 5818009512500666120,
+   "gameobject": "roleNameNum",
+   "zh": "路飞等级达到80级",
+   "en": "Luffy reaches Lv80"
   },
   {
    "bundle": "restobundle/pages/pokedexactivatepage.ab",
@@ -22695,6 +22947,13 @@
   },
   {
    "bundle": "restobundle/pages/pokedexactivatepage.ab",
+   "path_id": 6327426195452345583,
+   "gameobject": "Text(no_raycast)",
+   "zh": "突破3",
+   "en": "Breakthrough 3"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexactivatepage.ab",
    "path_id": 6547453615126541649,
    "gameobject": "num",
    "zh": "80级",
@@ -22702,10 +22961,24 @@
   },
   {
    "bundle": "restobundle/pages/pokedexactivatepage.ab",
+   "path_id": 7072470935113449331,
+   "gameobject": "Text(no_raycast)",
+   "zh": "突破2",
+   "en": "Breakthrough 2"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexactivatepage.ab",
    "path_id": 7943288508720961979,
    "gameobject": "Text(no_raycast)",
    "zh": "40级",
    "en": "Lv40"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexactivateprizepage.ab",
+   "path_id": -1348228473118985105,
+   "gameobject": "Text(no_raycast)",
+   "zh": "以下奖励效果仅对该章节角色生效",
+   "en": "The following reward effects only apply to characters in this chapter"
   },
   {
    "bundle": "restobundle/pages/pokedexactivateprizepage.ab",
@@ -22720,6 +22993,13 @@
    "gameobject": "Text(no_raycast)",
    "zh": "名字角色",
    "en": "Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexactivateshippage.ab",
+   "path_id": -6850930563128027194,
+   "gameobject": "Text",
+   "zh": "激活",
+   "en": "Activate"
   },
   {
    "bundle": "restobundle/pages/pokedexactivateshippage.ab",
@@ -22751,10 +23031,24 @@
   },
   {
    "bundle": "restobundle/pages/pokedexactivateshippage.ab",
+   "path_id": -1500872793301028370,
+   "gameobject": "role",
+   "zh": "路飞达到80级",
+   "en": "Luffy reaches Lv80"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexactivateshippage.ab",
    "path_id": 230420909086850172,
    "gameobject": "Text(no_raycast)",
    "zh": "4级",
    "en": "Lv4"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexactivateshippage.ab",
+   "path_id": 1284663328873992602,
+   "gameobject": "prizeNum",
+   "zh": "图鉴值 +200",
+   "en": "Gallery Value +200"
   },
   {
    "bundle": "restobundle/pages/pokedexactivateshippage.ab",
@@ -22806,6 +23100,90 @@
    "en": "The rewards below only apply to this character"
   },
   {
+   "bundle": "restobundle/pages/pokedexmessagebox.ab",
+   "path_id": -8076720182580947308,
+   "gameobject": "Text(no_raycast)",
+   "zh": "以上奖励效果仅对上阵角色生效",
+   "en": "The above reward effects only apply to deployed characters"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexmessagebox.ab",
+   "path_id": 8714744120680665667,
+   "gameobject": "Text",
+   "zh": "回顾值累计奖励",
+   "en": "Recap Value Cumulative Rewards"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexpage.ab",
+   "path_id": -8244147127828758589,
+   "gameobject": "Squad",
+   "zh": "拥有路飞",
+   "en": "Own Luffy"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexpage.ab",
+   "path_id": -7775829367895183266,
+   "gameobject": "Text",
+   "zh": "收集大师",
+   "en": "Collection Master"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexpage.ab",
+   "path_id": -5839766781780720742,
+   "gameobject": "Text",
+   "zh": "对应角色攻击",
+   "en": "Attack of matching characters"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexpage.ab",
+   "path_id": -656083148059788082,
+   "gameobject": "TitleText",
+   "zh": "收集大师",
+   "en": "Collection Master"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexpage/cellitemteam.ab",
+   "path_id": -5351751469452603085,
+   "gameobject": "qualityText",
+   "zh": "SSR 英雄",
+   "en": "SSR Hero"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexpage/cellitemteam.ab",
+   "path_id": 8290042933212312328,
+   "gameobject": "name",
+   "zh": "【草帽一伙】",
+   "en": "[Straw Hat Pirates]"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexprizepage.ab",
+   "path_id": -7527604021006928918,
+   "gameobject": "desPrefabLarge (1)",
+   "zh": "已激活效果已激活效果已激活效果已激活效果已激活效果已激活效果已激活效果已激活效果已激活效果",
+   "en": "Active effectsActive effectsActive effectsActive effectsActive effectsActive effects"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexprizepage.ab",
+   "path_id": -5542193638763192518,
+   "gameobject": "Text",
+   "zh": "条属性奖励，累计增加属性",
+   "en": "stat rewards, total stat bonus"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexprizepage.ab",
+   "path_id": -5284037442501378242,
+   "gameobject": "DesItem",
+   "zh": "生命+7340",
+   "en": "HP +7340"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexprizepage.ab",
+   "path_id": -1878733697459705418,
+   "gameobject": "title",
+   "zh": "需要激活值累计达到",
+   "en": "Required total activation value"
+  },
+  {
    "bundle": "restobundle/pages/pokedexprizepage.ab",
    "path_id": -1474343254587290209,
    "gameobject": "notGet",
@@ -22814,10 +23192,66 @@
   },
   {
    "bundle": "restobundle/pages/pokedexprizepage.ab",
+   "path_id": -985746947340149616,
+   "gameobject": "Text",
+   "zh": "共激活",
+   "en": "Activated in total"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexprizepage.ab",
    "path_id": 2325494922913883375,
    "gameobject": "Text(no_raycast)",
    "zh": "激活统览",
    "en": "Activate Overview"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexprizepage.ab",
+   "path_id": 7826929102040866627,
+   "gameobject": "value",
+   "zh": "500点",
+   "en": "500 pts"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexprogetpage.ab",
+   "path_id": -3366160822902097295,
+   "gameobject": "Text(no_raycast)",
+   "zh": "以上奖励效果对该章节内所有角色生效",
+   "en": "The above reward effects apply to all characters in this chapter"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexprogetpage.ab",
+   "path_id": 6143666948358548127,
+   "gameobject": "pro",
+   "zh": "攻击攻击",
+   "en": "AttackAttack"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewnostalgiarewardpage.ab",
+   "path_id": -6478349617254700658,
+   "gameobject": "Text",
+   "zh": "已装备",
+   "en": "Equipped"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewnostalgiarewardpage.ab",
+   "path_id": 5805519096126051550,
+   "gameobject": "Text",
+   "zh": "不可领取",
+   "en": "Can't Claim"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewnostalgiarewardpage.ab",
+   "path_id": 8746540703056647150,
+   "gameobject": "Text",
+   "zh": " 激 活",
+   "en": " Activate"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -7728464729650297186,
+   "gameobject": "Text",
+   "zh": "剧 情",
+   "en": "Story"
   },
   {
    "bundle": "restobundle/pages/pokedexreviewpage.ab",
@@ -22828,6 +23262,111 @@
   },
   {
    "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -6370736357903632508,
+   "gameobject": "Text",
+   "zh": "总 览",
+   "en": "Overview"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -4729729030740243259,
+   "gameobject": "Text",
+   "zh": "羁 绊",
+   "en": "Bonds"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -4238166768302371960,
+   "gameobject": "EntryText_1",
+   "zh": "所有角色攻击+5，",
+   "en": "All characters' Attack +5,"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -4208844114339111715,
+   "gameobject": "Prop",
+   "zh": "所有角色攻击+5，",
+   "en": "All characters' Attack +5,"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -3386756576924233664,
+   "gameobject": "Description",
+   "zh": "获得{0}时装",
+   "en": "Get the {0} outfit"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -2970956291754226413,
+   "gameobject": "Prop",
+   "zh": "所有角色攻击+5，",
+   "en": "All characters' Attack +5,"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -1106278727945724349,
+   "gameobject": "Description",
+   "zh": "和之国布鲁克特殊奥义图1",
+   "en": "Wano Brook Special Ultimate Art 1"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -989733429347200982,
+   "gameobject": "EntryText",
+   "zh": "羁绊角色全部达到20级",
+   "en": "All bond characters reach Lv20"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -794548969255942533,
+   "gameobject": "EntryText",
+   "zh": "角色达到20级",
+   "en": "Character reaches Lv20"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -281502133979943756,
+   "gameobject": "EntryText",
+   "zh": "羁绊角色全部达到20级",
+   "en": "All bond characters reach Lv20"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": -265793355287630085,
+   "gameobject": "EntryText",
+   "zh": "角色达到20级",
+   "en": "Character reaches Lv20"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 1597553794685205592,
+   "gameobject": "Text",
+   "zh": "回忆影像",
+   "en": "Memory Footage"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 1845294766011341202,
+   "gameobject": "Text",
+   "zh": "勋 章",
+   "en": "Medals"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 1886184287280957376,
+   "gameobject": "Text",
+   "zh": "总 览",
+   "en": "Overview"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 3123333201077404220,
+   "gameobject": "Text",
+   "zh": "勋 章",
+   "en": "Medals"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
    "path_id": 3519696059614923523,
    "gameobject": "HeroNameItem",
    "zh": "新世界罗宾",
@@ -22835,10 +23374,129 @@
   },
   {
    "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 3688826033043582274,
+   "gameobject": "Text",
+   "zh": "回忆影像",
+   "en": "Memory Footage"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 3830142012861100478,
+   "gameobject": "EntryText",
+   "zh": "角色达到20级",
+   "en": "Character reaches Lv20"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 5710283010527527687,
+   "gameobject": "Text",
+   "zh": "剧 情",
+   "en": "Story"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 6716397459499734706,
+   "gameobject": "Text",
+   "zh": "激活并领取",
+   "en": "Activate and Claim"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 6854598361638308486,
+   "gameobject": "Text",
+   "zh": "激活值11111111111111111111111111111111111111111111111111111",
+   "en": "Activation value 11111111111111111111111111111111111111111111111111111"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 7946119903897502886,
+   "gameobject": "RewardText",
+   "zh": "羁绊角色攻击+50，",
+   "en": "Bond characters' Attack +50,"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
    "path_id": 8281423114517232811,
    "gameobject": "HeroNameItem",
    "zh": "新世界罗宾",
    "en": "New World Robin"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 8312114368517484770,
+   "gameobject": "Description",
+   "zh": "和之国布鲁克特殊奥义图1",
+   "en": "Wano Brook Special Ultimate Art 1"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 8458225963872142438,
+   "gameobject": "Prop",
+   "zh": "所有角色攻击+5，",
+   "en": "All characters' Attack +5,"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 8702997418553248165,
+   "gameobject": "Text",
+   "zh": "羁 绊",
+   "en": "Bonds"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 8830760784520199650,
+   "gameobject": "RewardText",
+   "zh": "羁绊角色攻击+50，",
+   "en": "Bond characters' Attack +50,"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewpage.ab",
+   "path_id": 9126906626281931898,
+   "gameobject": "EntryText",
+   "zh": "角色达到20级",
+   "en": "Character reaches Lv20"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewtab.ab",
+   "path_id": -2474157856043197576,
+   "gameobject": "Text",
+   "zh": "集结，小伙伴们",
+   "en": "Assemble, Everyone"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewtips/uipokedexreviewtips.ab",
+   "path_id": -6784553061607953386,
+   "gameobject": "ItemValueText",
+   "zh": "获得100激活值",
+   "en": "Get 100 activation value"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewtips/uipokedexreviewtips.ab",
+   "path_id": -6244192141192844220,
+   "gameobject": "ItemValueText",
+   "zh": "获得100激活值",
+   "en": "Get 100 activation value"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewtips/uipokedexreviewtips.ab",
+   "path_id": -5987215793898877634,
+   "gameobject": "NoActivationTxt",
+   "zh": "暂无已激活的属性",
+   "en": "No stats activated yet"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewtips/uipokedexreviewtips.ab",
+   "path_id": -4370223752053187886,
+   "gameobject": "Text",
+   "zh": "以下奖励效果仅对羁绊内角色生效",
+   "en": "The following reward effects only apply to characters in this bond"
+  },
+  {
+   "bundle": "restobundle/pages/pokedexreviewtips/uipokedexreviewtips.ab",
+   "path_id": -244091125804234885,
+   "gameobject": "Value",
+   "zh": "获得100激活值",
+   "en": "Get 100 activation value"
   },
   {
    "bundle": "restobundle/pages/presetformationpage/presetviewpage.ab",
@@ -22849,10 +23507,73 @@
   },
   {
    "bundle": "restobundle/pages/prisonpage/friendguarantee.ab",
+   "path_id": -7551225804389789857,
+   "gameobject": "Text",
+   "zh": "暂无好友可以为你担保",
+   "en": "No friends can vouch for you"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/friendguarantee.ab",
+   "path_id": -6737814484985370163,
+   "gameobject": "num",
+   "zh": "好友为你缴纳保证金可以缩短关押时间",
+   "en": "Friends can pay bail for you to shorten your jail time"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/friendguarantee.ab",
+   "path_id": -2834850321539948283,
+   "gameobject": "RequesText",
+   "zh": "请 求",
+   "en": "Request"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/friendguarantee.ab",
+   "path_id": 418934463873554604,
+   "gameobject": "Name",
+   "zh": "工会名字六个字",
+   "en": "Guild Name Six"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/friendguarantee.ab",
+   "path_id": 4702450704682304569,
+   "gameobject": "Text",
+   "zh": "全部请求",
+   "en": "Request All"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/friendguarantee.ab",
    "path_id": 4765962106233616548,
    "gameobject": "Title",
    "zh": "请求好友担保",
    "en": "Ask Friends for Bail"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/friendguarantee.ab",
+   "path_id": 8186346138182053026,
+   "gameobject": "UnionName",
+   "zh": "公会:",
+   "en": "Guild:"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/listofdetainees.ab",
+   "path_id": -5434163175381143840,
+   "gameobject": "name",
+   "zh": "杀人数",
+   "en": "Kills"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/listofdetainees.ab",
+   "path_id": -4706722394186360007,
+   "gameobject": "RescueText",
+   "zh": "解 救",
+   "en": "Rescue"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/listofdetainees.ab",
+   "path_id": -4029167645928084087,
+   "gameobject": "GuaranteeText",
+   "zh": "担 保",
+   "en": "Vouch"
   },
   {
    "bundle": "restobundle/pages/prisonpage/listofdetainees.ab",
@@ -22897,11 +23618,25 @@
    "en": "Vouches left today:"
   },
   {
+   "bundle": "restobundle/pages/prisonpage/listofdetainees.ab",
+   "path_id": 5997557328390321535,
+   "gameobject": "Name",
+   "zh": "【公会名字六字】玩家名字六字",
+   "en": "[Guild Name Six] Player Name Six"
+  },
+  {
    "bundle": "restobundle/pages/prisonpage/seekhelp.ab",
    "path_id": -6809374711635070318,
    "gameobject": "Title",
    "zh": "求 救",
    "en": "Call for Help"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/seekhelp.ab",
+   "path_id": -5241895970275085087,
+   "gameobject": "Text",
+   "zh": "全部请求",
+   "en": "Request All"
   },
   {
    "bundle": "restobundle/pages/prisonpage/seekhelp.ab",
@@ -22911,11 +23646,53 @@
    "en": "You're being escorted to prison. You can call online friends for help"
   },
   {
+   "bundle": "restobundle/pages/prisonpage/seekhelp.ab",
+   "path_id": 2267728548649852368,
+   "gameobject": "Text",
+   "zh": "暂无好友可以帮助你",
+   "en": "No friends can help you"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/seekhelp.ab",
+   "path_id": 4412012991307637930,
+   "gameobject": "UnionName",
+   "zh": "公会:",
+   "en": "Guild:"
+  },
+  {
+   "bundle": "restobundle/pages/prisonpage/seekhelp.ab",
+   "path_id": 6369550901384704767,
+   "gameobject": "RequesText",
+   "zh": "请 求",
+   "en": "Request"
+  },
+  {
+   "bundle": "restobundle/pages/puzzexchangepage.ab",
+   "path_id": 8354572520253733934,
+   "gameobject": "Text(no_raycast) (2)",
+   "zh": "选择兑换碎片",
+   "en": "Choose shards to exchange"
+  },
+  {
    "bundle": "restobundle/pages/puzzlechippage.ab",
    "path_id": 3926451802670565332,
    "gameobject": "title",
    "zh": "碎片背包",
    "en": "Shard Bag"
+  },
+  {
+   "bundle": "restobundle/pages/puzzlepage.ab",
+   "path_id": -5213742967133908837,
+   "gameobject": "Text(no_raycast) (1)",
+   "zh": "领取<size=28>终极宝箱</size>",
+   "en": "Claim the <size=28>Ultimate Chest</size>"
+  },
+  {
+   "bundle": "restobundle/pages/puzzlepage.ab",
+   "path_id": -2501578598756846945,
+   "gameobject": "title",
+   "zh": "选择兑换碎片",
+   "en": "Choose shards to exchange"
   },
   {
    "bundle": "restobundle/pages/puzzlepage.ab",
@@ -22933,10 +23710,38 @@
   },
   {
    "bundle": "restobundle/pages/puzzlepage.ab",
+   "path_id": -396363387079470928,
+   "gameobject": "num",
+   "zh": "10天4时42分",
+   "en": "10d 4h 42m"
+  },
+  {
+   "bundle": "restobundle/pages/puzzlepage.ab",
    "path_id": 1380293989152338866,
    "gameobject": "Text(no_raycast)",
    "zh": "<size=28>点亮</size>完整拼图",
    "en": "<size=28>Light up</size> the full puzzle"
+  },
+  {
+   "bundle": "restobundle/pages/puzzlepage.ab",
+   "path_id": 3049593218322909980,
+   "gameobject": "Text",
+   "zh": "下一张",
+   "en": "Next"
+  },
+  {
+   "bundle": "restobundle/pages/puzzletaskpage.ab",
+   "path_id": -4480667134351031717,
+   "gameobject": "des",
+   "zh": "击杀1次悬赏首领",
+   "en": "Defeat a Wanted Boss 1 time"
+  },
+  {
+   "bundle": "restobundle/pages/qqgame/qqgamebluevip/qqgamebluevipdailygiftcontent.ab",
+   "path_id": -6930221120360789461,
+   "gameobject": "TitleText",
+   "zh": "升级可获得<color=#ba5714>丰厚奖励</color>",
+   "en": "Level up to get <color=#ba5714>great rewards</color>"
   },
   {
    "bundle": "restobundle/pages/qqgame/qqgamebluevip/qqgameblueviplevelgiftcontent.ab",
@@ -22946,11 +23751,109 @@
    "en": "Log in for <color=#ba5714>7</color> days for great rewards"
   },
   {
+   "bundle": "restobundle/pages/qqgame/qqgamebluevip/qqgameblueviprookiegiftcontent.ab",
+   "path_id": 4420178540114430987,
+   "gameobject": "Text",
+   "zh": "开通年费蓝钻\n",
+   "en": "Get Annual Blue Diamond\n"
+  },
+  {
+   "bundle": "restobundle/pages/qqgame/qqgamebluevip/qqgameblueviprookiegiftcontent.ab",
+   "path_id": 6988085086448651872,
+   "gameobject": "Text",
+   "zh": "开通蓝钻\n",
+   "en": "Get Blue Diamond\n"
+  },
+  {
+   "bundle": "restobundle/pages/qqgame/qqgameprivilege/qqgameprivilegedailygiftcontent.ab",
+   "path_id": -7114084447568428504,
+   "gameobject": "TitleText",
+   "zh": "升级可获得<color=#ba5714>丰厚奖励</color>",
+   "en": "Level up to get <color=#ba5714>great rewards</color>"
+  },
+  {
    "bundle": "restobundle/pages/qqgame/qqgameprivilege/qqgameprivilegelevelgiftcontent.ab",
    "path_id": 8290060767368147998,
    "gameobject": "TitleText",
    "zh": "登录<color=#ba5714>7</color>天可获得丰厚奖励",
    "en": "Log in for <color=#ba5714>7</color> days for great rewards"
+  },
+  {
+   "bundle": "restobundle/pages/qqgame/qqgameprivilege/qqgameprivilegerookiegiftcontent.ab",
+   "path_id": 188121647044637190,
+   "gameobject": "Text",
+   "zh": "开通蓝钻\n",
+   "en": "Get Blue Diamond\n"
+  },
+  {
+   "bundle": "restobundle/pages/qqgame/qqgameprivilege/qqgameprivilegerookiegiftcontent.ab",
+   "path_id": 1363439639963019811,
+   "gameobject": "Text",
+   "zh": "开通年费蓝钻\n",
+   "en": "Get Annual Blue Diamond\n"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingmatchpage.ab",
+   "path_id": -8783860272443123002,
+   "gameobject": "DrawCardText",
+   "zh": "抽取命运",
+   "en": "Draw Fate"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingmatchpage.ab",
+   "path_id": -8301822810838295338,
+   "gameobject": "MatchLeftTime",
+   "zh": "赛事时间：",
+   "en": "Match Time:"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingmatchpage.ab",
+   "path_id": -4044911725201578312,
+   "gameobject": "name",
+   "zh": "【第12届】",
+   "en": "[12th]"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingmatchpage.ab",
+   "path_id": -2343767948565108000,
+   "gameobject": "RewardLeftTimes",
+   "zh": "参与赛事 5/10",
+   "en": "Matches joined 5/10"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingmatchpage.ab",
+   "path_id": -2158075138498994001,
+   "gameobject": "Text",
+   "zh": "排位商店",
+   "en": "Ranked Shop"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingmatchpage.ab",
+   "path_id": 2080705694765557603,
+   "gameobject": "BuffEffectDescText",
+   "zh": "全队增加15%物理攻击",
+   "en": "Whole team physical Attack +15%"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingmatchpage.ab",
+   "path_id": 6318965297422394010,
+   "gameobject": "Text",
+   "zh": "详细",
+   "en": "Details"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingmatchpage.ab",
+   "path_id": 6335767741915677350,
+   "gameobject": "RewardTimes",
+   "zh": "还可以获得荣誉场次：",
+   "en": "Honor matches still available:"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingmatchpage.ab",
+   "path_id": 7044453725055321699,
+   "gameobject": "BuffEffectText",
+   "zh": "增益效果：",
+   "en": "Buff:"
   },
   {
    "bundle": "restobundle/pages/qualifyingrewardpage.ab",
@@ -22961,10 +23864,24 @@
   },
   {
    "bundle": "restobundle/pages/qualifyingrewardpage.ab",
+   "path_id": -2883747698805253327,
+   "gameobject": "Text",
+   "zh": "排位赛奖励",
+   "en": "Ranked Match Rewards"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingrewardpage.ab",
    "path_id": 1052623017751428297,
    "gameobject": "Label",
    "zh": "赛季排名奖励",
    "en": "Season Rank Rewards"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingrewardpage.ab",
+   "path_id": 1878896693542522244,
+   "gameobject": "TimeText",
+   "zh": "12月31日 00:00",
+   "en": "12/31 00:00"
   },
   {
    "bundle": "restobundle/pages/qualifyingrewardpage.ab",
@@ -22975,10 +23892,31 @@
   },
   {
    "bundle": "restobundle/pages/qualifyingrewardpage.ab",
+   "path_id": 4921706254177492616,
+   "gameobject": "Label",
+   "zh": "获胜奖励",
+   "en": "Win Rewards"
+  },
+  {
+   "bundle": "restobundle/pages/qualifyingrewardpage.ab",
    "path_id": 8928883197358144308,
    "gameobject": "Text",
    "zh": "周场次：",
    "en": "Weekly Matches:"
+  },
+  {
+   "bundle": "restobundle/pages/quest.ab",
+   "path_id": -9095936927784309756,
+   "gameobject": "time (1)",
+   "zh": "-30分钟",
+   "en": "-30 min"
+  },
+  {
+   "bundle": "restobundle/pages/quest.ab",
+   "path_id": -9067908897361895670,
+   "gameobject": "executingtitle",
+   "zh": "今日执行远征:",
+   "en": "Expeditions today:"
   },
   {
    "bundle": "restobundle/pages/quest.ab",
@@ -22996,6 +23934,13 @@
   },
   {
    "bundle": "restobundle/pages/quest.ab",
+   "path_id": 1153435809472266195,
+   "gameobject": "Text (1)",
+   "zh": "12小时",
+   "en": "12 Hours"
+  },
+  {
+   "bundle": "restobundle/pages/quest.ab",
    "path_id": 2719014785401607394,
    "gameobject": "Text",
    "zh": "任务描述：",
@@ -23007,6 +23952,27 @@
    "gameobject": "Text",
    "zh": "餐厅打杂",
    "en": "Restaurant Odd Jobs"
+  },
+  {
+   "bundle": "restobundle/pages/quest.ab",
+   "path_id": 8802546830424898947,
+   "gameobject": "content",
+   "zh": "任务描述任务描述任务描述任务描述任务描述任务描述任务描述任务描述任务描述任务描述任务描述任务描述任务描述",
+   "en": "Quest descriptionQuest descriptionQuest descriptionQuest descriptionQuest descriptionQuest descriptionQuest description"
+  },
+  {
+   "bundle": "restobundle/pages/quickcombinepage.ab",
+   "path_id": -8701768141706102743,
+   "gameobject": "Text",
+   "zh": "训练道具等级",
+   "en": "Training Item Level"
+  },
+  {
+   "bundle": "restobundle/pages/quickcombinepage.ab",
+   "path_id": -3699638960041907108,
+   "gameobject": "Title",
+   "zh": "一键合成",
+   "en": "Quick Combine"
   },
   {
    "bundle": "restobundle/pages/quickcombinepage.ab",
@@ -23023,11 +23989,95 @@
    "en": "Lv10"
   },
   {
+   "bundle": "restobundle/pages/quickcombinepage.ab",
+   "path_id": 2014639076486470840,
+   "gameobject": "Label",
+   "zh": "自动转换绑定宝石",
+   "en": "Auto-convert bound gems"
+  },
+  {
+   "bundle": "restobundle/pages/quickcombinepage.ab",
+   "path_id": 5231059531176802239,
+   "gameobject": "Text(no_raycast)",
+   "zh": "所有符合条件的宝石均自动向上合成\r",
+   "en": "All eligible gems are combined upward automatically\r"
+  },
+  {
+   "bundle": "restobundle/pages/quickcombinepage.ab",
+   "path_id": 5832800201985333131,
+   "gameobject": "Item Label",
+   "zh": "所有宝石",
+   "en": "All Gems"
+  },
+  {
+   "bundle": "restobundle/pages/quickcombinepage.ab",
+   "path_id": 8901778114965906921,
+   "gameobject": "Label",
+   "zh": "所有宝石",
+   "en": "All Gems"
+  },
+  {
+   "bundle": "restobundle/pages/quickcombinepage.ab",
+   "path_id": 8913352721917189275,
+   "gameobject": "Text",
+   "zh": "训练道具类型",
+   "en": "Training Item Type"
+  },
+  {
    "bundle": "restobundle/pages/quickexpandholepage.ab",
    "path_id": -6915284068477606873,
    "gameobject": "Title",
    "zh": "一键精淬",
    "en": "One-Tap Temper"
+  },
+  {
+   "bundle": "restobundle/pages/quickexpandholepage.ab",
+   "path_id": -4702245819223041844,
+   "gameobject": "Txt",
+   "zh": "最大精淬次数",
+   "en": "Max Tempering Times"
+  },
+  {
+   "bundle": "restobundle/pages/quickexpandholepage.ab",
+   "path_id": -550577657835726092,
+   "gameobject": "Name",
+   "zh": "精淬目标",
+   "en": "Tempering Target"
+  },
+  {
+   "bundle": "restobundle/pages/quickexpandholepage.ab",
+   "path_id": 8817607722939893520,
+   "gameobject": "TxtPosition",
+   "zh": "【5号位】",
+   "en": "[Slot 5]"
+  },
+  {
+   "bundle": "restobundle/pages/quickexpandholeresultpage.ab",
+   "path_id": -5545114553308532149,
+   "gameobject": "TxtXiaoHao",
+   "zh": "精淬消耗（本轮次数：20）",
+   "en": "Tempering cost (this round: 20)"
+  },
+  {
+   "bundle": "restobundle/pages/quickexpandholeresultpage.ab",
+   "path_id": -4359579061456877337,
+   "gameobject": "Name",
+   "zh": "精粹成功",
+   "en": "Tempering Successful"
+  },
+  {
+   "bundle": "restobundle/pages/quickexpandholeresultpage.ab",
+   "path_id": 1159321756307886525,
+   "gameobject": "Title",
+   "zh": "精淬结果",
+   "en": "Tempering Result"
+  },
+  {
+   "bundle": "restobundle/pages/quickexpandholeresultpage.ab",
+   "path_id": 4930477951510847488,
+   "gameobject": "TxtPositionSucc",
+   "zh": "【5号位】-【6号位】",
+   "en": "[Slot 5] - [Slot 6]"
   },
   {
    "bundle": "restobundle/pages/quickresolvepage.ab",
@@ -23049,6 +24099,13 @@
    "gameobject": "Text",
    "zh": "请选择快速分解的装备品质",
    "en": "Choose the equipment quality to quick-dismantle"
+  },
+  {
+   "bundle": "restobundle/pages/quickresolvepage.ab",
+   "path_id": -2590242984750445907,
+   "gameobject": "Text",
+   "zh": "（针对于未精炼且未穿戴的装备进行分解）",
+   "en": "(Dismantles gear that is unrefined and not equipped)"
   },
   {
    "bundle": "restobundle/pages/quickresolvepage.ab",
@@ -23084,6 +24141,27 @@
    "gameobject": "picturetitle",
    "zh": "游戏截图",
    "en": "Screenshots"
+  },
+  {
+   "bundle": "restobundle/pages/raidersdetailpage.ab",
+   "path_id": -2284418394678614803,
+   "gameobject": "Onclick",
+   "zh": "<点击评论>",
+   "en": "<Tap to comment>"
+  },
+  {
+   "bundle": "restobundle/pages/raidersdetailpage.ab",
+   "path_id": -741461872820877204,
+   "gameobject": "content",
+   "zh": "评论内评论评论内评论评论内评论评论内评论",
+   "en": "CommentCommentCommentCommentCommentComment"
+  },
+  {
+   "bundle": "restobundle/pages/raidersdetailpage.ab",
+   "path_id": 1622333340145676901,
+   "gameobject": "content",
+   "zh": "评论内评论评论内评论评论内评论评论内评论",
+   "en": "CommentCommentCommentCommentCommentComment"
   },
   {
    "bundle": "restobundle/pages/raidersdetailpage.ab",
@@ -23136,10 +24214,178 @@
   },
   {
    "bundle": "restobundle/pages/recharge/chargeshop.ab",
+   "path_id": -8154398974257505536,
+   "gameobject": "discountText",
+   "zh": "8.8折",
+   "en": "8.8/10 Price"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshop.ab",
+   "path_id": -2086940907645664955,
+   "gameobject": "tipsText",
+   "zh": "可赠送60彩钻",
+   "en": "Gives 60 Rainbow Diamonds"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshop.ab",
+   "path_id": 3879566849033834939,
+   "gameobject": "discountText",
+   "zh": "8折",
+   "en": "8/10 Price"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshop.ab",
+   "path_id": 3915495603693033169,
+   "gameobject": "timeLimitText",
+   "zh": "限时7天",
+   "en": "7 days only"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshop.ab",
+   "path_id": 6551475752709457742,
+   "gameobject": "Text",
+   "zh": "临时，开启宝库",
+   "en": "Temporary, open vault"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshop.ab",
    "path_id": 7999756682257784329,
    "gameobject": "infoText",
    "zh": "当前有折扣券可使用",
    "en": "You have a discount voucher available"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshop.ab",
+   "path_id": 8049420290866430591,
+   "gameobject": "timeLimitText",
+   "zh": "限时7天",
+   "en": "7 days only"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshop.ab",
+   "path_id": 8896388593660776194,
+   "gameobject": "tipsText",
+   "zh": "每日限购:0/1",
+   "en": "Daily limit: 0/1"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshopold.ab",
+   "path_id": -6140246316542755284,
+   "gameobject": "Num",
+   "zh": "88折",
+   "en": "88% Price"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshopold.ab",
+   "path_id": -5087948212506285900,
+   "gameobject": "time",
+   "zh": "12天15时后失效",
+   "en": "Expires in 12d 15h"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshopold.ab",
+   "path_id": -5084518471455108987,
+   "gameobject": "monthCard",
+   "zh": "月卡",
+   "en": "Monthly Card"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshopold.ab",
+   "path_id": -3285812679380229701,
+   "gameobject": "Num",
+   "zh": "88折",
+   "en": "88% Price"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshopold.ab",
+   "path_id": -2492594683731233222,
+   "gameobject": "Text",
+   "zh": "12天15时后失效",
+   "en": "Expires in 12d 15h"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/chargeshopold.ab",
+   "path_id": 8153917341099031223,
+   "gameobject": "Text (1)",
+   "zh": "礼包名称六字",
+   "en": "Pack Name Six"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/choosengiftpage.ab",
+   "path_id": -9082272040355469193,
+   "gameobject": "NameText",
+   "zh": "特惠自选礼包",
+   "en": "Special Choice Pack"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/choosengiftpage.ab",
+   "path_id": -4576766312107516727,
+   "gameobject": "TimeBGText",
+   "zh": "当前礼包时限：",
+   "en": "Current pack time limit:"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/choosengiftpage.ab",
+   "path_id": -1109480532961517396,
+   "gameobject": "DisableText",
+   "zh": "已售空",
+   "en": "Sold Out"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/choosengiftpage.ab",
+   "path_id": 1495151267314103351,
+   "gameobject": "LimitText",
+   "zh": "本期限购：0/2",
+   "en": "Limit this period: 0/2"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/choosengiftpage.ab",
+   "path_id": 2956437133809750101,
+   "gameobject": "TitleText",
+   "zh": "多种道具自由选择",
+   "en": "Choose freely from many items"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/choosengiftpage.ab",
+   "path_id": 4317557625468414238,
+   "gameobject": "TipText",
+   "zh": "购买礼包可获得会员点数",
+   "en": "Buying packs earns member points"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/cyclevippage.ab",
+   "path_id": -8444604244137546514,
+   "gameobject": "Text(no_raycast)",
+   "zh": "需要vip达到X级",
+   "en": "Requires VIP level X"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/cyclevippage.ab",
+   "path_id": -8097543165900969525,
+   "gameobject": "Text",
+   "zh": "距离体验结束倒计时：",
+   "en": "Trial ends in:"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/cyclevippage.ab",
+   "path_id": -6988104691409623047,
+   "gameobject": "txtTip",
+   "zh": "(明日即将失效5分)",
+   "en": "(5 pts expire tomorrow)"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/cyclevippage.ab",
+   "path_id": -2075238789326613928,
+   "gameobject": "Titletxt",
+   "zh": "当前会员",
+   "en": "Current Membership"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/cyclevippage.ab",
+   "path_id": -1489896927440556352,
+   "gameobject": "titleText (1)",
+   "zh": "无双会员",
+   "en": "Peerless Member"
   },
   {
    "bundle": "restobundle/pages/recharge/cyclevippage.ab",
@@ -23149,11 +24395,39 @@
    "en": "Stonehenge"
   },
   {
+   "bundle": "restobundle/pages/recharge/cyclevippage.ab",
+   "path_id": 2575151793818662025,
+   "gameobject": "Text",
+   "zh": "当前有效无双积分累计",
+   "en": "Current valid Peerless points"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/cyclevippage.ab",
+   "path_id": 7524058099129178394,
+   "gameobject": "Desc",
+   "zh": "Vip等级为s级别以上时Vip等级为s级别以上时Vip等级为s级别以上时Vip等级为s级别以上时",
+   "en": "When VIP level is S or aboveWhen VIP level is S or aboveWhen VIP level is S or above"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/discountticket.ab",
+   "path_id": -3167361472300977093,
+   "gameobject": "descText",
+   "zh": "顺丰到付顺丰是大是的发达范德萨发士大夫",
+   "en": "Asdf cash on delivery asdf asdfasdf"
+  },
+  {
    "bundle": "restobundle/pages/recharge/discountticket.ab",
    "path_id": 4432873737123981261,
    "gameobject": "TitleText",
    "zh": "折扣券",
    "en": "Discount Voucher"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/discountticket.ab",
+   "path_id": 7495582764982305224,
+   "gameobject": "timeText",
+   "zh": "30天8小时",
+   "en": "30d 8h"
   },
   {
    "bundle": "restobundle/pages/recharge/discountticketselect.ab",
@@ -23170,11 +24444,74 @@
    "en": "30 Days"
   },
   {
+   "bundle": "restobundle/pages/recharge/discountticketselect.ab",
+   "path_id": -6379697574990373212,
+   "gameobject": "descText",
+   "zh": "顺丰到付顺丰是大是的发达范德萨发士大夫",
+   "en": "Asdf cash on delivery asdf asdfasdf"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": -7234669891684188117,
+   "gameobject": "txt",
+   "zh": "额外加赠",
+   "en": "Extra Bonus"
+  },
+  {
    "bundle": "restobundle/pages/recharge/monthcard.ab",
    "path_id": -6854893658998007537,
    "gameobject": "Label",
    "zh": "海岛通行证",
    "en": "Island Pass"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": -6752355424199663792,
+   "gameobject": "Text",
+   "zh": "1.每日可领取\n【彩钻*100】\n2.激活后永不过期",
+   "en": "1. Claim daily:\n[Rainbow Diamonds*100]\n2. Never expires once activated"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": -6368231072004881018,
+   "gameobject": "Txt",
+   "zh": "超值",
+   "en": "Great Value"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": -6053745931041793503,
+   "gameobject": "Text",
+   "zh": "1.可以使用以下岛屿皮肤：\n【荒野沙岛】\n【水晶矿洞】\n【冰雪原地】\n2.增加5个海岛争霸每周任务。\n3.每局战斗获得的争霸币翻倍。",
+   "en": "1. Unlocks these island skins:\n[Wild Sand Island]\n[Crystal Mine]\n[Snowfield]\n2. Adds 5 weekly Island Conquest quests.\n3. Doubles the Conquest Coins earned per battle."
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": -4544667821769735162,
+   "gameobject": "Text",
+   "zh": "1.可以使用以下岛屿皮肤：\n【荒野沙岛】\n【水晶矿洞】\n【冰雪原地】\n2.增加5个海岛争霸每周任务。\n3.每局战斗获得的争霸币翻倍。",
+   "en": "1. Unlocks these island skins:\n[Wild Sand Island]\n[Crystal Mine]\n[Snowfield]\n2. Adds 5 weekly Island Conquest quests.\n3. Doubles the Conquest Coins earned per battle."
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": -3621118092222500090,
+   "gameobject": "Text",
+   "zh": "1.激活【高级精华收集器】建筑。\n2.额外增加2个家园建筑工人。\n3.生产建筑额外增加20%生产进度\n4.宿舍体力回复速度提高50%\n5.家园每日任务奖励翻倍。",
+   "en": "1. Activates the [Advanced Essence Collector] building.\n2. Adds 2 extra Home builders.\n3. Production buildings gain +20% production progress\n4. Dormitory Stamina recovery speed +50%\n5. Home daily quest rewards doubled."
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": -2468682356411938127,
+   "gameobject": "Label",
+   "zh": "贸易季度通行证",
+   "en": "Trade Season Pass"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": -2118635027889388131,
+   "gameobject": "TextTitle",
+   "zh": "权限说明:",
+   "en": "Perks:"
   },
   {
    "bundle": "restobundle/pages/recharge/monthcard.ab",
@@ -23185,6 +24522,41 @@
   },
   {
    "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": 581615127386907049,
+   "gameobject": "Text",
+   "zh": "1.每日可领取：",
+   "en": "1. Claim daily:"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": 1926472613713039921,
+   "gameobject": "UpTitle",
+   "zh": "永久通行征",
+   "en": "Permanent Pass"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": 2263636691032089996,
+   "gameobject": "TimeDay",
+   "zh": "有效期:30天",
+   "en": "Valid for: 30 days"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": 2527865810708507762,
+   "gameobject": "Text",
+   "zh": "1.每日可领取：彩钻*120\n2.每日快速战斗次数提升至40次！\n3.每日任务次数额外提升5次！",
+   "en": "1. Claim daily: Rainbow Diamonds*120\n2. Daily Quick Battles raised to 40!\n3. 5 extra daily quest attempts!"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
+   "path_id": 7875684636840062449,
+   "gameobject": "TitleText",
+   "zh": "建设证",
+   "en": "Builder Pass"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/monthcard.ab",
    "path_id": 8666758345920864175,
    "gameobject": "Label",
    "zh": "永久通行证",
@@ -23192,10 +24564,115 @@
   },
   {
    "bundle": "restobundle/pages/recharge/rechargerebate.ab",
+   "path_id": -7810715290588049035,
+   "gameobject": "txt1",
+   "zh": "充值金额",
+   "en": "Top-Up Amount"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/rechargerebate.ab",
+   "path_id": -4987847419188872252,
+   "gameobject": "txt2",
+   "zh": "返利比例",
+   "en": "Rebate Rate"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/rechargerebate.ab",
+   "path_id": -664188483335625749,
+   "gameobject": "txt3",
+   "zh": "可返还",
+   "en": "Refundable"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/rechargerebate.ab",
+   "path_id": 1435983208278334829,
+   "gameobject": "txt2",
+   "zh": "元",
+   "en": "yuan"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/rechargerebate.ab",
    "path_id": 7024434691829407543,
    "gameobject": "txt1",
    "zh": "当前充值金额",
    "en": "Current recharge amount"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/viprewardshop.ab",
+   "path_id": -7254650032960592590,
+   "gameobject": "DayText",
+   "zh": "第二十一天",
+   "en": "Day 21"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/welfare.ab",
+   "path_id": -5530488788950195045,
+   "gameobject": "Text",
+   "zh": "累计购买",
+   "en": "Total Purchased"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/welfare.ab",
+   "path_id": -2243937946038195013,
+   "gameobject": "Text",
+   "zh": "再购买",
+   "en": "Buy"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/welfare.ab",
+   "path_id": 269096962520596096,
+   "gameobject": "congratulation",
+   "zh": "恭喜您已达到最高等级!!",
+   "en": "Congratulations, you've reached the max level!!"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/welfare.ab",
+   "path_id": 2563909249281501574,
+   "gameobject": "Text",
+   "zh": "无双VIP",
+   "en": "Peerless VIP"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/welfare.ab",
+   "path_id": 3633975621497146846,
+   "gameobject": "Text (1)",
+   "zh": "，可达到",
+   "en": ", to reach"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/welfareold.ab",
+   "path_id": -3691941881526750185,
+   "gameobject": "congratulation",
+   "zh": "恭喜您已达到最高等级!!",
+   "en": "Congratulations, you've reached the max level!!"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/welfareold.ab",
+   "path_id": -722764269953076957,
+   "gameobject": "Text",
+   "zh": "再购买",
+   "en": "Buy"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/welfareold.ab",
+   "path_id": 5369032805978864929,
+   "gameobject": "Text",
+   "zh": "累计购买",
+   "en": "Total Purchased"
+  },
+  {
+   "bundle": "restobundle/pages/recharge/welfareold.ab",
+   "path_id": 6764710251029359777,
+   "gameobject": "Text (1)",
+   "zh": "，可达到",
+   "en": ", to reach"
+  },
+  {
+   "bundle": "restobundle/pages/rechargegiftbuypage.ab",
+   "path_id": -8904652965988392157,
+   "gameobject": "Text",
+   "zh": "直接获得",
+   "en": "Get Instantly"
   },
   {
    "bundle": "restobundle/pages/rechargegiftbuypage.ab",
@@ -23213,10 +24690,24 @@
   },
   {
    "bundle": "restobundle/pages/rechargegiftbuypage.ab",
+   "path_id": -1410877325877488997,
+   "gameobject": "timeLimit",
+   "zh": "剩余不足<color=#BA3901FF>5</color>天可再次购买",
+   "en": "Can buy again when under <color=#BA3901FF>5</color> days remain"
+  },
+  {
+   "bundle": "restobundle/pages/rechargegiftbuypage.ab",
    "path_id": -704160289780784027,
    "gameobject": "buyLimit",
    "zh": "每日限购：",
    "en": "Daily Limit:"
+  },
+  {
+   "bundle": "restobundle/pages/rechargegiftbuypage.ab",
+   "path_id": 3789135124246951427,
+   "gameobject": "giftName (1)",
+   "zh": "月卡",
+   "en": "Monthly Card"
   },
   {
    "bundle": "restobundle/pages/rechargegiftbuypage.ab",
@@ -23233,6 +24724,13 @@
    "en": "Luffy Shard"
   },
   {
+   "bundle": "restobundle/pages/rechargegiftbuypage.ab",
+   "path_id": 7795745721804252451,
+   "gameobject": "Text (1)",
+   "zh": "连续30日，每日00:00开始发送",
+   "en": "For 30 days in a row, sent daily from 00:00"
+  },
+  {
    "bundle": "restobundle/pages/rechargemonthpaypage.ab",
    "path_id": -5538672683774219813,
    "gameobject": "txttime",
@@ -23245,6 +24743,13 @@
    "gameobject": "txt",
    "zh": "当前：",
    "en": "Current:"
+  },
+  {
+   "bundle": "restobundle/pages/rechargepage.ab",
+   "path_id": -8927008291103347772,
+   "gameobject": "text",
+   "zh": "福 利",
+   "en": "Perks"
   },
   {
    "bundle": "restobundle/pages/rechargepage.ab",
@@ -23282,6 +24787,34 @@
    "en": "Member Perks"
   },
   {
+   "bundle": "restobundle/pages/rechargepage.ab",
+   "path_id": 4932952392668714546,
+   "gameobject": "Text(no_raycast)",
+   "zh": "敬请期待！",
+   "en": "Stay tuned!"
+  },
+  {
+   "bundle": "restobundle/pages/rechargepage.ab",
+   "path_id": 6720433778400102165,
+   "gameobject": "text",
+   "zh": "订 阅\r",
+   "en": "Subscribe\r"
+  },
+  {
+   "bundle": "restobundle/pages/rechargepage.ab",
+   "path_id": 7443751325471452801,
+   "gameobject": "text",
+   "zh": "福 利",
+   "en": "Perks"
+  },
+  {
+   "bundle": "restobundle/pages/recruiteexchangepage.ab",
+   "path_id": 6674930625596531762,
+   "gameobject": "Text",
+   "zh": "请选择   个进行兑换",
+   "en": "Please choose    to exchange"
+  },
+  {
    "bundle": "restobundle/pages/recruiteexchangepage.ab",
    "path_id": 7763657045344715819,
    "gameobject": "Text",
@@ -23294,6 +24827,111 @@
    "gameobject": "NumberLabel",
    "zh": "9999万",
    "en": "99.99M"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": -7295412192605538343,
+   "gameobject": "txtRecruitNum (2)",
+   "zh": "次后必得SSR",
+   "en": "more for a guaranteed SSR"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": -6313848986821582398,
+   "gameobject": "Text",
+   "zh": "恭喜您！",
+   "en": "Congratulations!"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": -5983210434158963128,
+   "gameobject": "Date",
+   "zh": "99天99时99分",
+   "en": "99d 99h 99m"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": -5431332021939749670,
+   "gameobject": "text",
+   "zh": "怀旧服-自选",
+   "en": "Classic Server - Choice"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": -5406593890432341628,
+   "gameobject": "Text",
+   "zh": "5折",
+   "en": "5/10 Price"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": -4977984607130109494,
+   "gameobject": "Text",
+   "zh": "5折",
+   "en": "5/10 Price"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": -4407640877424988518,
+   "gameobject": "Text",
+   "zh": "活动结束倒计时",
+   "en": "Event ends in"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": -3973367741516670030,
+   "gameobject": "SSR",
+   "zh": "任选SSR!",
+   "en": "Choose any SSR!"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": -3841937806954097368,
+   "gameobject": "text",
+   "zh": "（招募获得经验，满值后直接获取角色）",
+   "en": "(Recruiting gives EXP; get the character directly when full)"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": -3472776654209009069,
+   "gameobject": "Text",
+   "zh": "新人前2次十连可享受优惠！",
+   "en": "Newbies get a discount on their first 2 10-pulls!"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": -719589495793468391,
+   "gameobject": "SSR",
+   "zh": "任选SSR!",
+   "en": "Choose any SSR!"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 526755195121936040,
+   "gameobject": "text",
+   "zh": "怀旧服-自选",
+   "en": "Classic Server - Choice"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 959722797981658856,
+   "gameobject": "Text (1)",
+   "zh": "第3次十连送任意",
+   "en": "3rd 10-pull gives any"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 1789096579448915043,
+   "gameobject": "text",
+   "zh": "怀旧服-限定",
+   "en": "Classic Server - Limited"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 3487398014599975938,
+   "gameobject": "text",
+   "zh": "（招募获得经验，满值后直接获取角色）",
+   "en": "(Recruiting gives EXP; get the character directly when full)"
   },
   {
    "bundle": "restobundle/pages/recruitpage.ab",
@@ -23311,10 +24949,101 @@
   },
   {
    "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 4972879337315443120,
+   "gameobject": "Date",
+   "zh": "7天8小时",
+   "en": "7d 8h"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 5078961673602185282,
+   "gameobject": "Date",
+   "zh": "99天99时99分",
+   "en": "99d 99h 99m"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 5583686533694758788,
+   "gameobject": "Text2",
+   "zh": "金色战魂！",
+   "en": "Golden Battle Soul!"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
    "path_id": 5706897609292827699,
    "gameobject": "Text",
    "zh": "任意选择2个SSR角色！",
    "en": "Choose any 2 SSR characters!"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 5900748794864526400,
+   "gameobject": "Content",
+   "zh": "尊敬的船长们：\r\n根据国家相关法规，《航海王：燃烧意志》随机抽取类玩法概率公示如下:\r\n1.招募相关：\r\n普通招募，各类角色卡牌抽取概率：R卡96%，SR卡3.5%，SSR卡0.5%，十连抽中最多出现2个SSR；\r\n强者招募，各类角色卡牌抽取概率：R卡82%，SR卡15%，SSR卡3%，十连抽中最多出现2个SSR；\r\n限时强者招募，各角色卡牌抽取概率：R卡82%，SR卡15%，SSR卡3%，但是几率up的角色出现权重，为其它SSR角色的7倍，十连抽中最多出现2个SSR；\r\n\r\n2.装备相关：\r\n装备鉴定：\r\n玩家获取的装备，需要鉴定之后，才能确定获取的装备品质，鉴定概率公示如下：\r\n普通装备鉴定：\r\n装备等级20级鉴定出现普通装备概率：50.25%， \r\n装备等级20级鉴定出现英雄装备概率：24.75%，\r\n装备等级20级鉴定出现普通套装概率15.00%，\r\n装备等级20级鉴定出现英雄套装概率10.00%\r\n英雄装备鉴定：\r\n装备等级40级鉴定出现英雄装备概率：80.00%， \r\n装备等级40级鉴定出现英雄套装概率：20.00%，\r\n装备等级60级鉴定出现英雄装备概率：80.00%， \r\n装备等级60级鉴定出现英雄套装概率：20.00%，\r\n装备词条：\r\n装备的词条为装备上除基础属性之外的数值加成，词条的属性种类包含：生命、攻击、防御、速度、命中、闪避、暴击、暴击伤害、韧性、破击、格挡；\r\n1) 20级装备：1个固定词条，1个随机词条\r\n2) 30级和40级装备：1个固定词条，1~2个随机词条\r\n3) 50级和60级装备：2个固定词条，1~4个随机词条\r\n词条的出现几率如下：\r\n出现随机词条1条概率：10.00%\r\n出现随机词条2条概率：50.00%\r\n出现随机词条3条概率：20.00%\r\n出现随机词条4条概率：20.00%\r\n稀有词条是随机词条的一种，但拥有更高的属性上限，稀有词条的出现概率为：\r\n出现稀有词条0条概率：75.00%\r\n出现稀有词条1条概率：20.00%\r\n出现稀有词条2条概率：5.00%\r\n装备精炼成功率：\r\n精炼等级1级成功概率：100.00%\r\n精炼等级2级成功概率：80.00%\r\n精炼等级3级成功概率：70.00%\r\n精炼等级4级成功概率：60.00%\r\n精炼等级5级成功概率：55.00%\r\n精炼等级6级成功概率：50.00%\r\n精炼等级7级成功概率：45.00%\r\n精炼等级8级成功概率：40.00%\r\n精炼等级9级成功概率：35.00%\r\n精炼等级10级成功概率：30.00%\r\n精炼等级11级成功概率：25.00%\r\n精炼等级12级成功概率：20.00%\r\n精炼等级13级成功概率：17.00%\r\n精炼等级14级成功概率：15.00%\r\n精炼等级15级成功概率：13.00%\r\n精炼等级16级成功概率：10.00%\r\n精炼等级17级成功概率：8.00%\r\n精炼等级18级成功概率：7.00%\r\n精炼等级19级成功概率：7.00%\r\n精炼等级20级成功概率：7.00%\r\n装备分解概率：\r\n装备可以在铁匠铺中进行熔炼，被熔炼的装备将会消失，但是有较小几率获得精炼石或英雄之石，熔炼几率如下：\r\n普通装备熔炼概率\r\n30级普通装备熔炼获得初级精炼石概率5%\r\n40级普通装备熔炼获得初级精炼石概率10%\r\n50级普通装备熔炼获得初级精炼石概率15%\r\n60级普通装备熔炼获得初级精炼石概率25%\r\n英雄装备熔炼概率\r\n20级英雄装备熔炼获得初级精炼石概率10%\r\n30级英雄装备熔炼获得初级精炼石概率15%\r\n40级英雄装备熔炼获得初级精炼石概率20%\r\n50级英雄装备熔炼获得初级精炼石概率25%\r\n60级英雄装备熔炼获得初级精炼石概率30%，获得英雄之石概率10%\r\n装备掉落：\r\n在每日活动的剧情回顾中，完成关卡有机会获得各种类型的装备，在普通难度与困难难度中，装备的掉落稍有不同，掉落概率公示如下：\r\n困难难度普通装备掉率100%\r\n困难难度英雄装备掉率63%\r\n困难难度普通套装掉率30%\r\n困难难度英雄套装掉率10%\r\n普通难度普通装备掉率100%\r\n普通难度英雄装备掉率63%\r\n普通难度普通套装掉率30%\r\n普通难度英雄套装掉率0%\r\n\r\n3.商城购买：\r\n精致宝石袋：每次可获得随机2颗宝石；\r\n属性类宝石包括：生命宝石、攻击宝石、防御宝石、速度宝石、精准宝石、闪避宝石、暴击宝石、韧性宝石、格挡宝石、破击宝石；\r\n辅助类宝石包括：怒气宝石、吸血宝石、穿透宝石、回复宝石、治愈宝石、回血宝石、回怒宝石、正义宝石、骷髅宝石、胜利宝石；\r\n以下是各宝石的获取概率：\r\n开启精致宝石袋获取2级属性类宝石概率5.60%,2级辅助类宝石概率1.40%\r\n开启精致宝石袋获取3级属性类宝石概率28.00%,3级辅助类宝石概率7.00%\r\n开启精致宝石袋获取4级属性类宝石概率28.00%,4级辅助类宝石概率7.00%\r\n开启精致宝石袋获取5级属性类宝石概率13.60%,5级辅助类宝石概率3.40%\r\n开启精致宝石袋获取6级属性类宝石概率3.20%,6级辅助类宝石概率0.80%\r\n开启精致宝石袋获取7级属性类宝石概率1.60%,7级辅助类宝石概率0.40%\r\n精炼石袋：每次可获得随机3个精炼石，但同一品质的精炼石最多2个，各精炼石获取概率为：\r\n开启精炼石宝箱获取初级精炼石概率65.00%\r\n开启精炼石宝箱获取中级精炼石概率20.00%\r\n开启精炼石宝箱获取高级精炼石概率10.00%\r\n开启精炼石宝箱获取超级精炼石概率3.00%\r\n开启精炼石宝箱获取英雄之石概率2.00%\r\n秘传书宝箱：每次可获得随机3本技能秘传书，但同一秘传书最多2本，各秘传书获取概率为：\r\n开启秘传书宝箱获取初级秘传书概率5.00%\r\n开启秘传书宝箱获取中级秘传书概率22.00%\r\n开启秘传书宝箱获取高级秘传书概率43.00%\r\n开启秘传书宝箱获取奥义秘传书概率30.00%\r\n",
+   "en": "Dear Captains:\r\nIn accordance with national regulations, the probabilities of the random draw features in \"One Piece Burning Will\" are disclosed as follows:\r\n1. Recruitment:\r\nNormal Recruit, card draw rates: R 96%, SR 3.5%, SSR 0.5%; at most 2 SSRs in a 10-pull;\r\nElite Recruit, card draw rates: R 82%, SR 15%, SSR 3%; at most 2 SSRs in a 10-pull;\r\nLimited Elite Recruit, card draw rates: R 82%, SR 15%, SSR 3%, but rate-up characters have 7 times the weight of other SSR characters; at most 2 SSRs in a 10-pull;\r\n\r\n2. Gear:\r\nGear Identification:\r\nGear you obtain must be identified to determine its quality. Identification rates:\r\nNormal Gear Identification:\r\nLv20 gear identified as Normal Gear: 50.25%, \r\nLv20 gear identified as Hero Gear: 24.75%,\r\nLv20 gear identified as Normal Set: 15.00%,\r\nLv20 gear identified as Hero Set: 10.00%\r\nHero Gear Identification:\r\nLv40 gear identified as Hero Gear: 80.00%, \r\nLv40 gear identified as Hero Set: 20.00%,\r\nLv60 gear identified as Hero Gear: 80.00%, \r\nLv60 gear identified as Hero Set: 20.00%,\r\nGear Traits:\r\nGear traits are stat bonuses on gear beyond its base stats. Trait stat types include: HP, Attack, Defense, Speed, Accuracy, Evasion, Crit, Crit Damage, Tenacity, Pierce and Block;\r\n1) Lv20 gear: 1 fixed trait, 1 random trait\r\n2) Lv30 and Lv40 gear: 1 fixed trait, 1~2 random traits\r\n3) Lv50 and Lv60 gear: 2 fixed traits, 1~4 random traits\r\nTrait rates:\r\nChance of 1 random trait(s): 10.00%\r\nChance of 2 random trait(s): 50.00%\r\nChance of 3 random trait(s): 20.00%\r\nChance of 4 random trait(s): 20.00%\r\nRare traits are a kind of random trait with higher stat caps. Rare trait rates:\r\nChance of 0 rare trait(s): 75.00%\r\nChance of 1 rare trait(s): 20.00%\r\nChance of 2 rare trait(s): 5.00%\r\nGear Refining Success Rates:\r\nRefine Lv1 success rate: 100.00%\r\nRefine Lv2 success rate: 80.00%\r\nRefine Lv3 success rate: 70.00%\r\nRefine Lv4 success rate: 60.00%\r\nRefine Lv5 success rate: 55.00%\r\nRefine Lv6 success rate: 50.00%\r\nRefine Lv7 success rate: 45.00%\r\nRefine Lv8 success rate: 40.00%\r\nRefine Lv9 success rate: 35.00%\r\nRefine Lv10 success rate: 30.00%\r\nRefine Lv11 success rate: 25.00%\r\nRefine Lv12 success rate: 20.00%\r\nRefine Lv13 success rate: 17.00%\r\nRefine Lv14 success rate: 15.00%\r\nRefine Lv15 success rate: 13.00%\r\nRefine Lv16 success rate: 10.00%\r\nRefine Lv17 success rate: 8.00%\r\nRefine Lv18 success rate: 7.00%\r\nRefine Lv19 success rate: 7.00%\r\nRefine Lv20 success rate: 7.00%\r\nGear Smelting Rates:\r\nGear can be smelted at the Blacksmith. Smelted gear disappears, but there is a small chance to get Refining Stones or Hero Stones. Smelting rates:\r\nNormal Gear Smelting Rates\r\nLv30 Normal Gear smelting: Basic Refining Stone chance 5%\r\nLv40 Normal Gear smelting: Basic Refining Stone chance 10%\r\nLv50 Normal Gear smelting: Basic Refining Stone chance 15%\r\nLv60 Normal Gear smelting: Basic Refining Stone chance 25%\r\nHero Gear Smelting Rates\r\nLv20 Hero Gear smelting: Basic Refining Stone chance 10%\r\nLv30 Hero Gear smelting: Basic Refining Stone chance 15%\r\nLv40 Hero Gear smelting: Basic Refining Stone chance 20%\r\nLv50 Hero Gear smelting: Basic Refining Stone chance 25%\r\nLv60 Hero Gear smelting: Basic Refining Stone chance 30%, Hero Stone chance 10%\r\nGear Drops:\r\nIn Story Replay among the daily events, clearing stages can drop all kinds of gear. Drops differ slightly between Normal and Hard difficulty. Drop rates:\r\nHard difficulty Normal Gear drop rate 100%\r\nHard difficulty Hero Gear drop rate 63%\r\nHard difficulty Normal Set drop rate 30%\r\nHard difficulty Hero Set drop rate 10%\r\nNormal difficulty Normal Gear drop rate 100%\r\nNormal difficulty Hero Gear drop rate 63%\r\nNormal difficulty Normal Set drop rate 30%\r\nNormal difficulty Hero Set drop rate 0%\r\n\r\n3. Shop Purchases:\r\nExquisite Gem Bag: gives 2 random gems each time;\r\nStat gems include: HP, Attack, Defense, Speed, Precision, Evasion, Crit, Tenacity, Block and Pierce Gems;\r\nSupport gems include: Rage, Lifesteal, Penetration, Recovery, Healing, HP Regen, Rage Regen, Justice, Skull and Victory Gems;\r\nGem rates:\r\nExquisite Gem Bag: Lv2 stat gem 5.60%, Lv2 support gem 1.40%\r\nExquisite Gem Bag: Lv3 stat gem 28.00%, Lv3 support gem 7.00%\r\nExquisite Gem Bag: Lv4 stat gem 28.00%, Lv4 support gem 7.00%\r\nExquisite Gem Bag: Lv5 stat gem 13.60%, Lv5 support gem 3.40%\r\nExquisite Gem Bag: Lv6 stat gem 3.20%, Lv6 support gem 0.80%\r\nExquisite Gem Bag: Lv7 stat gem 1.60%, Lv7 support gem 0.40%\r\nRefining Stone Bag: gives 3 random Refining Stones each time, with at most 2 of the same quality. Rates:\r\nRefining Stone Chest: Basic Refining Stone 65.00%\r\nRefining Stone Chest: Mid Refining Stone 20.00%\r\nRefining Stone Chest: Advanced Refining Stone 10.00%\r\nRefining Stone Chest: Super Refining Stone 3.00%\r\nRefining Stone Chest: Hero Stone 2.00%\r\nSecret Book Chest: gives 3 random skill Secret Books each time, with at most 2 of the same book. Rates:\r\nSecret Book Chest: Basic Secret Book 5.00%\r\nSecret Book Chest: Mid Secret Book 22.00%\r\nSecret Book Chest: Advanced Secret Book 43.00%\r\nSecret Book Chest: Ultimate Skill Manual 30.00%\r\n"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 6127997376807697340,
+   "gameobject": "text",
+   "zh": "（招募获得经验，满值后直接获取角色）",
+   "en": "(Recruiting gives EXP; get the character directly when full)"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 6283929672670735894,
+   "gameobject": "text",
+   "zh": "怀旧服-限定",
+   "en": "Classic Server - Limited"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 6797509649676651738,
+   "gameobject": "Text",
+   "zh": "5折",
+   "en": "5/10 Price"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 7500564170706057746,
+   "gameobject": "txtRecruitNum",
+   "zh": "再招募",
+   "en": "Recruit"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 8650677288904585234,
+   "gameobject": "text",
+   "zh": "（招募获得经验，满值后直接获取角色）",
+   "en": "(Recruiting gives EXP; get the character directly when full)"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 8790275906308381703,
+   "gameobject": "Text (1)",
+   "zh": "第3次十连送任意",
+   "en": "3rd 10-pull gives any"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 9034625123198032800,
+   "gameobject": "Text1",
+   "zh": "招募即",
+   "en": "Recruit for"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpage.ab",
+   "path_id": 9197136339328408542,
+   "gameobject": "Text",
+   "zh": "5折",
+   "en": "5/10 Price"
+  },
+  {
+   "bundle": "restobundle/pages/recruitpreviewpage.ab",
+   "path_id": 2793195936105010171,
+   "gameobject": "titleText",
+   "zh": "招募预览",
+   "en": "Recruit Preview"
   },
   {
    "bundle": "restobundle/pages/recruitresultpage.ab",
@@ -23324,11 +25053,39 @@
    "en": "Recruit Again"
   },
   {
+   "bundle": "restobundle/pages/recruitresultpage.ab",
+   "path_id": -1466086260274473852,
+   "gameobject": "Text",
+   "zh": "成功购买<color=#ffe703>20000金块</color>，额外获得<color=#ffe703>航海伙伴</color>，及<color=#ffe703>黄金战魂</color>",
+   "en": "Bought <color=#ffe703>20000 Gold Bars</color> and also got a <color=#ffe703>Sailing Partner</color> and <color=#ffe703>Golden Battle Souls</color>"
+  },
+  {
+   "bundle": "restobundle/pages/recruitresultpage.ab",
+   "path_id": 1200236395465110935,
+   "gameobject": "name",
+   "zh": "大大大大大",
+   "en": "BigBigBig"
+  },
+  {
    "bundle": "restobundle/pages/recruitresultpageold.ab",
    "path_id": -3249342921607416839,
    "gameobject": "Text",
    "zh": "再次招募",
    "en": "Recruit Again"
+  },
+  {
+   "bundle": "restobundle/pages/recruitresultpageold.ab",
+   "path_id": 4502720429727898785,
+   "gameobject": "Text",
+   "zh": "角色名字八个字长",
+   "en": "Character Name Eight Chars"
+  },
+  {
+   "bundle": "restobundle/pages/recruitresultpageold.ab",
+   "path_id": 6456484605757460163,
+   "gameobject": "Text",
+   "zh": "成功购买<color=#ffe703>20000金块</color>，额外获得<color=#ffe703>航海伙伴</color>，及<color=#ffe703>黄金战魂</color>",
+   "en": "Bought <color=#ffe703>20000 Gold Bars</color> and also got a <color=#ffe703>Sailing Partner</color> and <color=#ffe703>Golden Battle Souls</color>"
   },
   {
    "bundle": "restobundle/pages/recyclepage.ab",
@@ -23359,11 +25116,95 @@
    "en": "Tap to select items to recycle; long-press to view details"
   },
   {
+   "bundle": "restobundle/pages/redpacketdetialpage.ab",
+   "path_id": -2113096304138728702,
+   "gameobject": "fromePlayer",
+   "zh": "魔法少女小鸟得红包",
+   "en": "Magical Girl Xiaoniao's Red Envelope"
+  },
+  {
+   "bundle": "restobundle/pages/redpacketdetialpage.ab",
+   "path_id": 5463703937155740456,
+   "gameobject": "getText (3)",
+   "zh": "个",
+   "en": "pcs"
+  },
+  {
+   "bundle": "restobundle/pages/redpacketdetialpage.ab",
+   "path_id": 7529636708877648085,
+   "gameobject": "name",
+   "zh": "雷雷雷",
+   "en": "LeiLeiLei"
+  },
+  {
+   "bundle": "restobundle/pages/redpacketsendpage.ab",
+   "path_id": -3564340253749861044,
+   "gameobject": "fromePlayer",
+   "zh": "魔法少女小鸟得红包",
+   "en": "Magical Girl Xiaoniao's Red Envelope"
+  },
+  {
+   "bundle": "restobundle/pages/redpacketsendpage.ab",
+   "path_id": 4151944497857018435,
+   "gameobject": "leaveMsg",
+   "zh": "大吉大利，今晚上岛！",
+   "en": "Good luck, land on the island tonight!"
+  },
+  {
+   "bundle": "restobundle/pages/redpacketsendpage.ab",
+   "path_id": 4650647226466856038,
+   "gameobject": "getText (3)",
+   "zh": "个",
+   "en": "pcs"
+  },
+  {
+   "bundle": "restobundle/pages/redpacketsendpage.ab",
+   "path_id": 5904040247153820964,
+   "gameobject": "name",
+   "zh": "雷雷雷",
+   "en": "LeiLeiLei"
+  },
+  {
+   "bundle": "restobundle/pages/redpacketsendpage.ab",
+   "path_id": 6144524104622068470,
+   "gameobject": "fromePlayer",
+   "zh": "魔法少女小鸟得红包",
+   "en": "Magical Girl Xiaoniao's Red Envelope"
+  },
+  {
+   "bundle": "restobundle/pages/refinedrawpage.ab",
+   "path_id": -441192986605329841,
+   "gameobject": "name",
+   "zh": "强化卡的使用顺序与获得顺序相同，不可更改",
+   "en": "Enhancement cards are used in the order they were obtained, which can't be changed"
+  },
+  {
+   "bundle": "restobundle/pages/refinedrawpage.ab",
+   "path_id": 1695869712969977908,
+   "gameobject": "Name",
+   "zh": "赞助卡",
+   "en": "Sponsor Card"
+  },
+  {
+   "bundle": "restobundle/pages/refinedrawpage.ab",
+   "path_id": 8984906372513828422,
+   "gameobject": "name",
+   "zh": "翻牌倒计时:",
+   "en": "Flip countdown:"
+  },
+  {
    "bundle": "restobundle/pages/refinemasterpage.ab",
    "path_id": -1430901956257314081,
    "gameobject": "Text",
    "zh": "精炼大师",
    "en": "Refine Master"
+  },
+  {
+   "bundle": "restobundle/pages/refinemasterpage.ab",
+   "path_id": 3689089175345040918,
+   "gameobject": "Label",
+   "zh": "英雄精炼大师",
+   "en": "Hero Refining Master"
   },
   {
    "bundle": "restobundle/pages/refinemasterpage.ab",
@@ -23388,6 +25229,20 @@
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": -8488443687015917649,
+   "gameobject": "Text(no_raycast)",
+   "zh": "粉碎宝石预计可获得",
+   "en": "Crushing gems is expected to give"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": -8258706614005202575,
+   "gameobject": "heroName",
+   "zh": "【路飞<color=#9d4a2d>装备中</color>】",
+   "en": "[Luffy <color=#9d4a2d>Equipped</color>]"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
    "path_id": -8088209406995767417,
    "gameobject": "Text",
    "zh": "炼 化",
@@ -23399,6 +25254,20 @@
    "gameobject": "Text",
    "zh": "重 铸",
    "en": "Reforge"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": -7508994691005527249,
+   "gameobject": "Text",
+   "zh": "炼化",
+   "en": "Smelt"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": -7488339072586168304,
+   "gameobject": "TipsText_Times",
+   "zh": "本装备超载重铸次数：",
+   "en": "Overload Reforges on this gear:"
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
@@ -23416,10 +25285,31 @@
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": -5322143506496597676,
+   "gameobject": "OverHaulTips",
+   "zh": "超载洗练值：",
+   "en": "Overload Refinement Value:"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": -5295223760833706476,
+   "gameobject": "name",
+   "zh": "宝石粉尘*50",
+   "en": "Gem Dust*50"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
    "path_id": -5178607406580143405,
    "gameobject": "Text (1)",
    "zh": "宝石合成",
    "en": "Gem Synthesis"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": -4738482399758003554,
+   "gameobject": "Text",
+   "zh": "英雄·木质长剑",
+   "en": "Hero · Wooden Longsword"
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
@@ -23430,10 +25320,38 @@
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": -3254063381237631051,
+   "gameobject": "Text",
+   "zh": "未 筛 选",
+   "en": "Unfiltered"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": -2174200789012683215,
+   "gameobject": "Text",
+   "zh": "精 粹",
+   "en": "Refine"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": -1510817871972669115,
+   "gameobject": "Text",
+   "zh": "研 磨",
+   "en": "Grind"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
    "path_id": -1183735395133912465,
    "gameobject": "name",
    "zh": "选择要精炼的装备",
    "en": "Choose equipment to refine"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": -65432058793935253,
+   "gameobject": "Text",
+   "zh": "精 粹",
+   "en": "Refine"
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
@@ -23444,6 +25362,13 @@
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": 1591926520841432794,
+   "gameobject": "TxtGet",
+   "zh": "3级宝石",
+   "en": "Lv3 Gem"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
    "path_id": 1639580290184561226,
    "gameobject": "Txt",
    "zh": "请放入宝石",
@@ -23451,10 +25376,45 @@
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": 1650771802569384336,
+   "gameobject": "Text",
+   "zh": "粉 碎",
+   "en": "Crush"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": 1946253301964003779,
+   "gameobject": "Text",
+   "zh": "粉碎",
+   "en": "Crush"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": 2154571712479835892,
+   "gameobject": "Text",
+   "zh": "粉 碎",
+   "en": "Crush"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": 2474822394790010408,
+   "gameobject": "Text",
+   "zh": "筛 选",
+   "en": "Filter"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
    "path_id": 2872493483097805665,
    "gameobject": "Text",
    "zh": "放入",
    "en": "Add"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": 3061181753757251298,
+   "gameobject": "tips",
+   "zh": "炼化产生宝石均为绑定",
+   "en": "Gems from smelting are all bound"
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
@@ -23479,10 +25439,24 @@
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": 4894509563034734277,
+   "gameobject": "empty1 (1)",
+   "zh": "未找到符合条件的装备",
+   "en": "No matching gear found"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
    "path_id": 5256419086469511571,
    "gameobject": "Name",
    "zh": "宝石名字八个字长",
    "en": "Gem Name Eight Chars"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": 5356851753694298362,
+   "gameobject": "empty1",
+   "zh": "UR品质装备可进行增强",
+   "en": "UR-quality gear can be enhanced"
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
@@ -23493,10 +25467,59 @@
   },
   {
    "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": 7213584425531248689,
+   "gameobject": "OverHaulOpening",
+   "zh": "激活中！",
+   "en": "Active!"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": 7731692488665028009,
+   "gameobject": "Text",
+   "zh": "研 磨",
+   "en": "Grind"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
+   "path_id": 7897069503384712055,
+   "gameobject": "NoEquipTip",
+   "zh": "背包中暂无可重铸装备",
+   "en": "No reforgeable gear in your bag"
+  },
+  {
+   "bundle": "restobundle/pages/refinepage.ab",
    "path_id": 8132741112558638829,
    "gameobject": "Text",
    "zh": "炼 化",
    "en": "Refine"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/enhancetab.ab",
+   "path_id": -1057448739109130367,
+   "gameobject": "EnhanceText",
+   "zh": "[1级增强]技能名称第几击造成的伤害提高",
+   "en": "[Lv1 Enhance] Damage of the Nth hit of skill name increased"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/enhancetab.ab",
+   "path_id": 1138445946481601467,
+   "gameobject": "EnhanceText",
+   "zh": "[1级增强]技能名称第几击造成的伤害提高",
+   "en": "[Lv1 Enhance] Damage of the Nth hit of skill name increased"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/enhancetab.ab",
+   "path_id": 1207440093264365648,
+   "gameobject": "EnhanceText",
+   "zh": "[1级增强]技能名称第几击造成的伤害提高",
+   "en": "[Lv1 Enhance] Damage of the Nth hit of skill name increased"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/enhancetab.ab",
+   "path_id": 5135913597092081030,
+   "gameobject": "detielTitle",
+   "zh": "已增强至满级",
+   "en": "Enhanced to max level"
   },
   {
    "bundle": "restobundle/pages/refinetab/expandholetab.ab",
@@ -23511,6 +25534,13 @@
    "gameobject": "Name",
    "zh": "打孔颜色",
    "en": "Socket Color"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/expandholetab.ab",
+   "path_id": -6011607418162137614,
+   "gameobject": "Text",
+   "zh": "精 淬",
+   "en": "Temper"
   },
   {
    "bundle": "restobundle/pages/refinetab/expandholetab.ab",
@@ -23546,6 +25576,27 @@
    "gameobject": "title",
    "zh": "+5获得",
    "en": "+5 Reward"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/gemcrushtab.ab",
+   "path_id": -1459496175618886221,
+   "gameobject": "Text(no_raycast)",
+   "zh": "一键选中所有",
+   "en": "Select All"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/gemcrushtab.ab",
+   "path_id": -241324831021905927,
+   "gameobject": "Text(no_raycast)",
+   "zh": "仅8级以上且未研磨宝石可粉碎，获得宝石粉尘可用于研磨10级宝石",
+   "en": "Only unground gems of Lv8 and above can be crushed. Gem Dust can be used to grind Lv10 gems"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/gemcrushtab.ab",
+   "path_id": 1877542329263556277,
+   "gameobject": "Text",
+   "zh": "宝石粉碎",
+   "en": "Gem Crushing"
   },
   {
    "bundle": "restobundle/pages/refinetab/gemcrushtab.ab",
@@ -23610,6 +25661,34 @@
    "option_index": 7,
    "zh": "8级",
    "en": "Lv8"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/gemcrushtab.ab",
+   "path_id": 5292029702065041167,
+   "gameobject": "Text(no_raycast) (1)",
+   "zh": "及以下宝石",
+   "en": "and lower gems"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/gemgrindtab.ab",
+   "path_id": -4917158647631493765,
+   "gameobject": "Text",
+   "zh": "宝石研磨",
+   "en": "Gem Grinding"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/gemgrindtab.ab",
+   "path_id": -2233379137717143563,
+   "gameobject": "Text(no_raycast)",
+   "zh": "成功率：",
+   "en": "Success Rate:"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/gemgrindtab.ab",
+   "path_id": 7881210871910874325,
+   "gameobject": "Text",
+   "zh": "研磨",
+   "en": "Grind"
   },
   {
    "bundle": "restobundle/pages/refinetab/gemlianhuatab.ab",
@@ -23684,6 +25763,13 @@
   },
   {
    "bundle": "restobundle/pages/refinetab/gemtab.ab",
+   "path_id": 301957412447348837,
+   "gameobject": "Text",
+   "zh": "默认套装套装套装",
+   "en": "Default SetSetSet"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/gemtab.ab",
    "path_id": 2881291946167329652,
    "gameobject": "Text",
    "zh": "一键卸下",
@@ -23702,6 +25788,41 @@
    "gameobject": "Name",
    "zh": "宝石名字八个字长",
    "en": "Gem Name Eight Chars"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/gemtab.ab",
+   "path_id": 7776062253134924210,
+   "gameobject": "Label (1)",
+   "zh": "以上宝石",
+   "en": "and higher gems"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/gemtab.ab",
+   "path_id": 8570986243861726746,
+   "gameobject": "Label",
+   "zh": "仅镶嵌",
+   "en": "Socketed only"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/promotetab.ab",
+   "path_id": -1795076197276138161,
+   "gameobject": "Title",
+   "zh": "装备晋升",
+   "en": "Gear Promotion"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/promotetab.ab",
+   "path_id": 436055030019562461,
+   "gameobject": "Name",
+   "zh": "解锁精炼等级25",
+   "en": "Unlock Refine Lv25"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/promotetab.ab",
+   "path_id": 934916084500528804,
+   "gameobject": "text",
+   "zh": "装备已增强至满级",
+   "en": "Gear enhanced to max level"
   },
   {
    "bundle": "restobundle/pages/refinetab/punchtab.ab",
@@ -23810,6 +25931,20 @@
   },
   {
    "bundle": "restobundle/pages/refinetab/refinetab.ab",
+   "path_id": -5923960977187713905,
+   "gameobject": "Text",
+   "zh": "跳过",
+   "en": "Skip"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/refinetab.ab",
+   "path_id": 1792699384463641811,
+   "gameobject": "Text",
+   "zh": "快速精炼",
+   "en": "Quick Refine"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/refinetab.ab",
    "path_id": 2076523585350391597,
    "gameobject": "text",
    "zh": "装备已精炼至满级",
@@ -23817,10 +25952,24 @@
   },
   {
    "bundle": "restobundle/pages/refinetab/refinetab.ab",
+   "path_id": 2630442167605367162,
+   "gameobject": "Text(no_raycast)",
+   "zh": "20/50次",
+   "en": "20/50 times"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/refinetab.ab",
    "path_id": 4167236046119644758,
    "gameobject": "Label",
    "zh": "自动选择强化道具",
    "en": "Auto-select enhancement items"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/refinetabclassic.ab",
+   "path_id": -5309879810359371299,
+   "gameobject": "Text",
+   "zh": "快速精炼",
+   "en": "Quick Refine"
   },
   {
    "bundle": "restobundle/pages/refinetab/refinetabclassic.ab",
@@ -23838,10 +25987,31 @@
   },
   {
    "bundle": "restobundle/pages/refinetab/refinetabclassic.ab",
+   "path_id": 346582226743408317,
+   "gameobject": "NewAttrText",
+   "zh": "强化至多少等级可进行",
+   "en": "Can be done after enhancing to what level"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/refinetabclassic.ab",
+   "path_id": 2405569051703083715,
+   "gameobject": "title",
+   "zh": "精炼属性幸运值:",
+   "en": "Refine stat luck:"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/refinetabclassic.ab",
    "path_id": 3014682242621822733,
    "gameobject": "Text",
    "zh": "精炼1次",
    "en": "Refine 1 Time"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/refinetabclassic.ab",
+   "path_id": 3672127314943518762,
+   "gameobject": "Text",
+   "zh": "跳过",
+   "en": "Skip"
   },
   {
    "bundle": "restobundle/pages/refinetab/refinetabclassic.ab",
@@ -23851,11 +26021,53 @@
    "en": "Auto-select enhancement items"
   },
   {
+   "bundle": "restobundle/pages/refinetab/refinetabclassic.ab",
+   "path_id": 6738381080660632971,
+   "gameobject": "Text(no_raycast)",
+   "zh": "20/50次",
+   "en": "20/50 times"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/resonancetab.ab",
+   "path_id": -8916538097822048937,
+   "gameobject": "Title",
+   "zh": "二级共鸣",
+   "en": "Lv2 Resonance"
+  },
+  {
    "bundle": "restobundle/pages/refinetab/resonancetab.ab",
    "path_id": -7280189096601052687,
    "gameobject": "Text",
    "zh": "共 鸣",
    "en": "Resonate"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/resonancetab.ab",
+   "path_id": -2922793325638514023,
+   "gameobject": "text",
+   "zh": "装备已增强至满级",
+   "en": "Gear enhanced to max level"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/resonancetab.ab",
+   "path_id": -1134811818667749306,
+   "gameobject": "Title",
+   "zh": "装备共鸣",
+   "en": "Gear Resonance"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/resonancetab.ab",
+   "path_id": -14019458690673028,
+   "gameobject": "successRemainTimes",
+   "zh": "5次剩余次必定成功",
+   "en": "Guaranteed success in 5 more tries"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/resonancetab.ab",
+   "path_id": 832095483838085167,
+   "gameobject": "content",
+   "zh": "精炼至",
+   "en": "Refine to"
   },
   {
    "bundle": "restobundle/pages/refinetab/upgradetab.ab",
@@ -23872,11 +26084,67 @@
    "en": "Equipment Upgrade"
   },
   {
+   "bundle": "restobundle/pages/refinetab/upgradetab.ab",
+   "path_id": -2382449762488776022,
+   "gameobject": "RightNum ",
+   "zh": "120级",
+   "en": "Lv120"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/upgradetab.ab",
+   "path_id": 5119939653490508710,
+   "gameobject": "text",
+   "zh": "装备已升级至满级",
+   "en": "Gear upgraded to max level"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/upgradetab.ab",
+   "path_id": 7090211030321030802,
+   "gameobject": "Text",
+   "zh": "提升等级",
+   "en": "Level Up"
+  },
+  {
+   "bundle": "restobundle/pages/refinetab/upgradetab.ab",
+   "path_id": 7101927607160650048,
+   "gameobject": "Text",
+   "zh": "一键升级",
+   "en": "Upgrade All"
+  },
+  {
+   "bundle": "restobundle/pages/refineupratepage.ab",
+   "path_id": -3359467581312278664,
+   "gameobject": "Text",
+   "zh": "15级解锁",
+   "en": "Unlocks at Lv15"
+  },
+  {
+   "bundle": "restobundle/pages/refineupratepage.ab",
+   "path_id": 1654170522665919976,
+   "gameobject": "Text",
+   "zh": "本等级使用上限：",
+   "en": "Use limit at this level:"
+  },
+  {
    "bundle": "restobundle/pages/refineupratepage.ab",
    "path_id": 4983489744145504295,
    "gameobject": "level",
    "zh": "精炼等级：",
    "en": "Refine Level:"
+  },
+  {
+   "bundle": "restobundle/pages/refineupratepage.ab",
+   "path_id": 5917254617402661901,
+   "gameobject": "Text",
+   "zh": "最终成功率",
+   "en": "Final Success Rate"
+  },
+  {
+   "bundle": "restobundle/pages/refineupratepage.ab",
+   "path_id": 7375799004701010269,
+   "gameobject": "SuccessRate",
+   "zh": "基础成功率：",
+   "en": "Base Success Rate:"
   },
   {
    "bundle": "restobundle/pages/refineupratepage.ab",
@@ -23893,11 +26161,67 @@
    "en": "Report Target"
   },
   {
+   "bundle": "restobundle/pages/reportpage.ab",
+   "path_id": 3570656513467687457,
+   "gameobject": "Titlename",
+   "zh": "举报",
+   "en": "Report"
+  },
+  {
+   "bundle": "restobundle/pages/reportpage/reportreasonitem.ab",
+   "path_id": -512926377134616626,
+   "gameobject": "Text",
+   "zh": "言行不雅",
+   "en": "Offensive Behavior"
+  },
+  {
    "bundle": "restobundle/pages/reputationprizepage.ab",
    "path_id": -2420798947071996754,
    "gameobject": "title",
    "zh": "声望奖励",
    "en": "Prestige Rewards"
+  },
+  {
+   "bundle": "restobundle/pages/reputationprizepage.ab",
+   "path_id": -1357604374216760947,
+   "gameobject": "text",
+   "zh": "友善",
+   "en": "Friendly"
+  },
+  {
+   "bundle": "restobundle/pages/reputationprizepage.ab",
+   "path_id": 5469960526417976342,
+   "gameobject": "Text",
+   "zh": "海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后",
+   "en": "After sea Prestige reaches Friendly, after sea Prestige reaches Friendly, after sea Prestige reaches Friendly, after sea Prestige reaches Friendly"
+  },
+  {
+   "bundle": "restobundle/pages/reputationtaskspage.ab",
+   "path_id": -9048939720955903838,
+   "gameobject": "text",
+   "zh": "友善",
+   "en": "Friendly"
+  },
+  {
+   "bundle": "restobundle/pages/reputationtaskspage.ab",
+   "path_id": -7543240691975801568,
+   "gameobject": "Text",
+   "zh": "海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后",
+   "en": "After sea Prestige reaches Friendly, after sea Prestige reaches Friendly, after sea Prestige reaches Friendly, after sea Prestige reaches Friendly"
+  },
+  {
+   "bundle": "restobundle/pages/reputationtaskspage.ab",
+   "path_id": -7326803048620279559,
+   "gameobject": "text",
+   "zh": "尊敬",
+   "en": "Respected"
+  },
+  {
+   "bundle": "restobundle/pages/reputationtaskspage.ab",
+   "path_id": -6905007764893600037,
+   "gameobject": "Text",
+   "zh": "海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域后海域后海域后海域",
+   "en": "After sea Prestige reaches Friendly, after sea Prestige reaches Friendly, after sea after sea after sea"
   },
   {
    "bundle": "restobundle/pages/reputationtaskspage.ab",
@@ -23908,10 +26232,45 @@
   },
   {
    "bundle": "restobundle/pages/reputationtaskspage.ab",
+   "path_id": 10288417342503687,
+   "gameobject": "text",
+   "zh": "崇拜",
+   "en": "Exalted"
+  },
+  {
+   "bundle": "restobundle/pages/reputationtaskspage.ab",
+   "path_id": 931017014886509228,
+   "gameobject": "text",
+   "zh": "崇敬",
+   "en": "Revered"
+  },
+  {
+   "bundle": "restobundle/pages/reputationtaskspage.ab",
+   "path_id": 2890902011182761987,
+   "gameobject": "Text",
+   "zh": "海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后",
+   "en": "After sea Prestige reaches Friendly, after sea Prestige reaches Friendly, after sea Prestige reaches Friendly, after sea Prestige reaches Friendly"
+  },
+  {
+   "bundle": "restobundle/pages/reputationtaskspage.ab",
+   "path_id": 4184547822489512281,
+   "gameobject": "des",
+   "zh": "岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿",
+   "en": "IslandIslandIslandIslandIslandIslandIslandIslandIslandIsland"
+  },
+  {
+   "bundle": "restobundle/pages/reputationtaskspage.ab",
    "path_id": 5157469650768501098,
    "gameobject": "Text",
    "zh": "当前声望任务刷新概率",
    "en": "Current Prestige quest refresh rates"
+  },
+  {
+   "bundle": "restobundle/pages/reputationtaskspage.ab",
+   "path_id": 6014947326141761726,
+   "gameobject": "Text",
+   "zh": "海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后海域声望达到有善后",
+   "en": "After sea Prestige reaches Friendly, after sea Prestige reaches Friendly, after sea Prestige reaches Friendly, after sea Prestige reaches Friendly"
   },
   {
    "bundle": "restobundle/pages/reputationtaskspage.ab",
@@ -23935,11 +26294,25 @@
    "en": "Resource Download"
   },
   {
+   "bundle": "restobundle/pages/resdownloadpage.ab",
+   "path_id": 8177414570081429206,
+   "gameobject": "Text",
+   "zh": "暂 停",
+   "en": "Pause"
+  },
+  {
    "bundle": "restobundle/pages/resetskillspanel.ab",
    "path_id": 333483941801158822,
    "gameobject": "TitleText",
    "zh": "重置技能",
    "en": "Reset Skills"
+  },
+  {
+   "bundle": "restobundle/pages/resetskillspanel.ab",
+   "path_id": 3023860239759825371,
+   "gameobject": "ConsumeNum",
+   "zh": "解锁技能需要消耗{0}个",
+   "en": "Unlocking the skill costs {0}"
   },
   {
    "bundle": "restobundle/pages/resexpaddpage.ab",
@@ -23982,6 +26355,13 @@
    "gameobject": "Text",
    "zh": "资源找回",
    "en": "Resource Recovery"
+  },
+  {
+   "bundle": "restobundle/pages/resfindbackpage.ab",
+   "path_id": 2605581158948755734,
+   "gameobject": "Text",
+   "zh": "50%找回",
+   "en": "Recover 50%"
   },
   {
    "bundle": "restobundle/pages/resfindbackpage.ab",
@@ -24069,10 +26449,45 @@
   },
   {
    "bundle": "restobundle/pages/resurrectiontipspage.ab",
+   "path_id": -7143777051594401357,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
+  },
+  {
+   "bundle": "restobundle/pages/resurrectiontipspage.ab",
+   "path_id": 6828375720452913604,
+   "gameobject": "content",
+   "zh": "您已阵亡，复活后会在野外的安全点复活，花费100绑钻可原地满血复活，是否原地复活？",
+   "en": "You've fallen. You'll revive at a safe point in the field, or spend 100 bound diamonds to revive on the spot at full HP. Revive on the spot?"
+  },
+  {
+   "bundle": "restobundle/pages/resurrectiontipspage.ab",
    "path_id": 8508020392684570393,
    "gameobject": "Text",
    "zh": "复活提示",
    "en": "Respawn Notice"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseagotonewserversubpage.ab",
+   "path_id": -857672286813047137,
+   "gameobject": "TxtDesc",
+   "zh": "前往新服可获得\nXXXXXXX",
+   "en": "Go to the new server to get\nXXXXXXX"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseagotonewserversubpage.ab",
+   "path_id": 679663419964756580,
+   "gameobject": "Text",
+   "zh": "重燃服务器",
+   "en": "Rekindle Server"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnsealoginsubpage.ab",
+   "path_id": -728600572600067253,
+   "gameobject": "Text",
+   "zh": "活动时间:",
+   "en": "Event Time:"
   },
   {
    "bundle": "restobundle/pages/returnsea/returnsealoginsubpage.ab",
@@ -24082,11 +26497,144 @@
    "en": "Buy to claim 7 days of deluxe rewards"
   },
   {
+   "bundle": "restobundle/pages/returnsea/returnsealoginsubpage.ab",
+   "path_id": 7029193713602933674,
+   "gameobject": "Text",
+   "zh": "您已登录",
+   "en": "You've logged in"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseaperiodicalsubpage.ab",
+   "path_id": -8990630227999742750,
+   "gameobject": "Text",
+   "zh": "当季新玩法",
+   "en": "New Modes This Season"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseaperiodicalsubpage.ab",
+   "path_id": -1651866157565983325,
+   "gameobject": "Text",
+   "zh": "当季新礼包",
+   "en": "New Packs This Season"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseaperiodicalsubpage.ab",
+   "path_id": 490100293304567463,
+   "gameobject": "Text",
+   "zh": "当季新限定",
+   "en": "New Limited This Season"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnsearunaftersubpage.ab",
+   "path_id": -8779005353655555386,
+   "gameobject": "TxtTime",
+   "zh": "活动时间:5月9日20：34-5月15日23：59",
+   "en": "Event Time: 5/9 20:34-5/15 23:59"
+  },
+  {
    "bundle": "restobundle/pages/returnsea/returnseashopsubpage.ab",
    "path_id": -899075399148168271,
    "gameobject": "ItemName",
    "zh": "道具名字七个字",
    "en": "Item Name Seven Chars"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": -8272872735994669674,
+   "gameobject": "Text",
+   "zh": "回流活跃",
+   "en": "Return Activity"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": -7795729662925946551,
+   "gameobject": "Text",
+   "zh": "回流活跃",
+   "en": "Return Activity"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": -4782402183508573575,
+   "gameobject": "Text",
+   "zh": "活动时间:",
+   "en": "Event Time:"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": -3914174572615863290,
+   "gameobject": "Text",
+   "zh": "战力达标",
+   "en": "Power Goal"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": -3131472652929374574,
+   "gameobject": "Text",
+   "zh": "道具使用",
+   "en": "Item Use"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": -1075444972782407945,
+   "gameobject": "Text",
+   "zh": "已收集",
+   "en": "Collected"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": 113603478935993420,
+   "gameobject": "Text(no_raycast)",
+   "zh": "当前选定返航伙伴",
+   "en": "Current return partner"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": 3026729280948008152,
+   "gameobject": "Text",
+   "zh": "累计签到",
+   "en": "Total Check-Ins"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": 3156853914865480244,
+   "gameobject": "TaskText",
+   "zh": "累计登录1/1天",
+   "en": "Log in 1/1 days in total"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": 5157541856124768094,
+   "gameobject": "Text",
+   "zh": "道具使用",
+   "en": "Item Use"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": 5806304814998958292,
+   "gameobject": "Text",
+   "zh": "累计签到",
+   "en": "Total Check-Ins"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseatrainsubpage.ab",
+   "path_id": 6461755768953001276,
+   "gameobject": "Text",
+   "zh": "战力达标",
+   "en": "Power Goal"
+  },
+  {
+   "bundle": "restobundle/pages/returnsea/returnseawishsubpage.ab",
+   "path_id": 1837951129037876301,
+   "gameobject": "title",
+   "zh": "任务描述任务描述每日登录1/1次。",
+   "en": "Quest descriptionQuest description Log in 1/1 times daily."
+  },
+  {
+   "bundle": "restobundle/pages/returnseagotonewserver_newservertaskpage.ab",
+   "path_id": -2126011481353125319,
+   "gameobject": "Text(no_raycast)",
+   "zh": "重燃奖励待激活\r\n\r\n尊敬的玩家您好。您在内网测试服会员等级为：<color=#d84200>LV4</color>，满足激活重燃条件，激活后可领取与会员等级对应的奖励！快来激活并领取吧！",
+   "en": "Rekindle reward pending activation\n\nDear player, your member level on the intranet test server is <color=#d84200>LV4</color>, which meets the Rekindle requirement. Once activated, you can claim rewards matching your member level! Come activate and claim them!"
   },
   {
    "bundle": "restobundle/pages/returnseagotonewserver_newservertaskpage.ab",
@@ -24096,6 +26644,55 @@
    "en": "Small Bag of Gold Coins"
   },
   {
+   "bundle": "restobundle/pages/returnseagotonewserver_newservertaskpage.ab",
+   "path_id": 5033982061333997833,
+   "gameobject": "Text(no_raycast)",
+   "zh": "检测到您的账号在西海大区157区会员等级",
+   "en": "Detected your account's member level in West Blue Region Zone 157"
+  },
+  {
+   "bundle": "restobundle/pages/returnseagotonewserver_seerewardpage.ab",
+   "path_id": -6155363001648896178,
+   "gameobject": "level",
+   "zh": "会员1级",
+   "en": "Member Lv1"
+  },
+  {
+   "bundle": "restobundle/pages/returnseagotonewserver_seerewardpage.ab",
+   "path_id": 1228005375538937775,
+   "gameobject": "Title",
+   "zh": "重燃会员奖励",
+   "en": "Rekindle Member Rewards"
+  },
+  {
+   "bundle": "restobundle/pages/returnseagotonewserver_serverlistpage.ab",
+   "path_id": -9066793183945344655,
+   "gameobject": "OpenTime",
+   "zh": "2022 年 11 月 29 日开启",
+   "en": "Opens 11/29/2022"
+  },
+  {
+   "bundle": "restobundle/pages/returnseagotonewserver_serverlistpage.ab",
+   "path_id": 2187112014657735617,
+   "gameobject": "Title",
+   "zh": "重燃服务器",
+   "en": "Rekindle Server"
+  },
+  {
+   "bundle": "restobundle/pages/returnseagotonewserver_serverlistpage.ab",
+   "path_id": 5930132820811211392,
+   "gameobject": "ServerName",
+   "zh": "大区名字",
+   "en": "Region Name"
+  },
+  {
+   "bundle": "restobundle/pages/returnseainvitetaskprefab.ab",
+   "path_id": -6897389524068483102,
+   "gameobject": "Text",
+   "zh": "本次活动已邀请好友：",
+   "en": "Friends invited this event:"
+  },
+  {
    "bundle": "restobundle/pages/returnseainvitetaskprefab.ab",
    "path_id": -2064763674583432899,
    "gameobject": "Placeholder",
@@ -24103,11 +26700,151 @@
    "en": "Players under Lv20 can enter an invite code"
   },
   {
+   "bundle": "restobundle/pages/returnseamonthrewardpage.ab",
+   "path_id": -7643271309258903543,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseamonthrewardpage.ab",
+   "path_id": -3434460286175221018,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseamonthrewardpage.ab",
+   "path_id": -3059233560443528305,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseamonthrewardpage.ab",
+   "path_id": -425437204668940627,
+   "gameobject": "TxtTips",
+   "zh": "您确定选择该奖励吗？选择后可可以在奖励自选时更改。",
+   "en": "Are you sure you want this reward? You can change it when choosing rewards."
+  },
+  {
+   "bundle": "restobundle/pages/returnseamonthrewardpage.ab",
+   "path_id": 3496773767329199206,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseamonthrewardpage.ab",
+   "path_id": 7818389464388837545,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
    "bundle": "restobundle/pages/returnseapage.ab",
    "path_id": -7467612519560470024,
    "gameobject": "Text",
    "zh": "重返航线",
    "en": "Return Voyage"
+  },
+  {
+   "bundle": "restobundle/pages/returnseapage.ab",
+   "path_id": -4624476649948927837,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseapage.ab",
+   "path_id": -817898111596443489,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseapage.ab",
+   "path_id": 1798979979858515071,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseapage.ab",
+   "path_id": 5543993093998662114,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseapage.ab",
+   "path_id": 5840864668702097290,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseapage.ab",
+   "path_id": 6011527904371502841,
+   "gameobject": "Text",
+   "zh": "返航商店",
+   "en": "Return Shop"
+  },
+  {
+   "bundle": "restobundle/pages/returnseapage.ab",
+   "path_id": 6879008867946429527,
+   "gameobject": "TxtTips",
+   "zh": "您确定选择该奖励吗？选择后可以在奖励自选时更改。",
+   "en": "Are you sure you want this reward? You can change it when choosing rewards."
+  },
+  {
+   "bundle": "restobundle/pages/returnseaplayerreturnpage.ab",
+   "path_id": 5062762095377913908,
+   "gameobject": "Lable",
+   "zh": "亲爱的船长：\n       欢迎您重返伟大航线，180天前我们与您失去",
+   "en": "Dear Captain:\n       Welcome back to the Grand Line. 180 days ago we lost touch with you"
+  },
+  {
+   "bundle": "restobundle/pages/returnseaselectheropage.ab",
+   "path_id": -4529792313602842742,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseaselectheropage.ab",
+   "path_id": -2494952688435918865,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseaselectheropage.ab",
+   "path_id": -1401904126485179100,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseaselectheropage.ab",
+   "path_id": 193936777796524437,
+   "gameobject": "TxtTips",
+   "zh": "您确定选择该奖励吗？选择后可可以在奖励自选时更改。",
+   "en": "Are you sure you want this reward? You can change it when choosing rewards."
+  },
+  {
+   "bundle": "restobundle/pages/returnseaselectheropage.ab",
+   "path_id": 623780785388079248,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
+  },
+  {
+   "bundle": "restobundle/pages/returnseaselectheropage.ab",
+   "path_id": 3426955611417760589,
+   "gameobject": "TxtDesc",
+   "zh": "奖励详细描述，属于奖励名\n字下面的小子描述，策划可配置",
+   "en": "Detailed reward description, the small text under the reward\nname, configurable by design"
   },
   {
    "bundle": "restobundle/pages/revivecue.ab",
@@ -24122,6 +26859,13 @@
    "gameobject": "Use",
    "zh": "消耗： ",
    "en": "Cost: "
+  },
+  {
+   "bundle": "restobundle/pages/revivecue.ab",
+   "path_id": 457677819755570384,
+   "gameobject": "Text",
+   "zh": "复 活",
+   "en": "Revive"
   },
   {
    "bundle": "restobundle/pages/revivecue.ab",
@@ -24160,6 +26904,20 @@
   },
   {
    "bundle": "restobundle/pages/roadtothestrongpage.ab",
+   "path_id": -7801297609091734896,
+   "gameobject": "Text (1)",
+   "zh": "总倒计时：",
+   "en": "Total countdown:"
+  },
+  {
+   "bundle": "restobundle/pages/roadtothestrongpage.ab",
+   "path_id": -6018748152174063640,
+   "gameobject": "Text",
+   "zh": "3天08:56:00",
+   "en": "3d 08:56:00"
+  },
+  {
+   "bundle": "restobundle/pages/roadtothestrongpage.ab",
    "path_id": 7250381680610336018,
    "gameobject": "Text",
    "zh": "极限挑战",
@@ -24171,6 +26929,20 @@
    "gameobject": "Text",
    "zh": "剧情挑战",
    "en": "Story Challenge"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/eventsubitem/battleeventitem.ab",
+   "path_id": -8767931467261439480,
+   "gameobject": "TxtFightName",
+   "zh": "麦哲伦之战",
+   "en": "Battle with Magellan"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/eventsubitem/battleeventitem.ab",
+   "path_id": -8475690398576554056,
+   "gameobject": "detielTitle",
+   "zh": "详  情",
+   "en": "Details"
   },
   {
    "bundle": "restobundle/pages/rogue/eventsubitem/battleeventitem.ab",
@@ -24188,10 +26960,129 @@
   },
   {
    "bundle": "restobundle/pages/rogue/eventsubitem/battleeventitem.ab",
+   "path_id": 5142408355959137450,
+   "gameobject": "DescText",
+   "zh": "随机获得一个流浪记英雄的技能。",
+   "en": "Randomly gain a skill from a Wanderer hero."
+  },
+  {
+   "bundle": "restobundle/pages/rogue/eventsubitem/battleeventitem.ab",
+   "path_id": 5844021660709636269,
+   "gameobject": "TxtStage",
+   "zh": "第2阶段第3关",
+   "en": "Phase 2 Stage 3"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/eventsubitem/battleeventitem.ab",
    "path_id": 8083567774426093320,
    "gameobject": "key",
    "zh": "基础属",
    "en": "Base Stat"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/eventsubitem/battleeventitem.ab",
+   "path_id": 9085480729523172323,
+   "gameobject": "title",
+   "zh": "随机技能",
+   "en": "Random Skill"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": -8850340739203474838,
+   "gameobject": "Text",
+   "zh": "战",
+   "en": "Bat"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": -7824758391743953463,
+   "gameobject": "Text (1)",
+   "zh": "轮",
+   "en": "Round"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": -7220078109577876632,
+   "gameobject": "Text(no_raycast)",
+   "zh": "（重置可挑战更高难度）",
+   "en": "(Reset to challenge a higher difficulty)"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": -1932658066920106209,
+   "gameobject": "Text (3)",
+   "zh": "算",
+   "en": "ment"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": -788222744304462948,
+   "gameobject": "Txt1",
+   "zh": "小怪得分",
+   "en": "Minion Score"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": -526087921998424654,
+   "gameobject": "TxtNew",
+   "zh": "新纪录",
+   "en": "New Record"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": 2884563473300469553,
+   "gameobject": "Text (2)",
+   "zh": "积",
+   "en": "Settle"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": 4925452471269109084,
+   "gameobject": "Text",
+   "zh": "本",
+   "en": "This"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": 5958838435000204004,
+   "gameobject": "Text (2)",
+   "zh": "结",
+   "en": "Battle"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": 6602848434395199738,
+   "gameobject": "Txt2",
+   "zh": "首领得分",
+   "en": "Boss Score"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": 8737550758480317759,
+   "gameobject": "Text (1)",
+   "zh": "斗",
+   "en": "tle"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguebattleresultpage.ab",
+   "path_id": 9055089887260759867,
+   "gameobject": "Txt3",
+   "zh": "过关得分",
+   "en": "Clear Score"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguedifficultydetailpage.ab",
+   "path_id": -7715503720772030071,
+   "gameobject": "TxtDesc",
+   "zh": "敌方无增益\n敌方无增益\n敌方无增益",
+   "en": "No enemy buffs\nNo enemy buffs\nNo enemy buffs"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguedifficultydetailpage.ab",
+   "path_id": 5552074248533695824,
+   "gameobject": "titleText",
+   "zh": "难度说明",
+   "en": "Difficulty Info"
   },
   {
    "bundle": "restobundle/pages/rogue/roguedifficultyselectpage.ab",
@@ -24199,6 +27090,13 @@
    "gameobject": "selectText",
    "zh": "本轮难度",
    "en": "Current Difficulty"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguedifficultyselectpage.ab",
+   "path_id": -5274642202710169210,
+   "gameobject": "titleText",
+   "zh": "难度与角色选择",
+   "en": "Difficulty & Characters"
   },
   {
    "bundle": "restobundle/pages/rogue/roguedifficultyselectpage.ab",
@@ -24216,6 +27114,13 @@
   },
   {
    "bundle": "restobundle/pages/rogue/roguehandbookpage.ab",
+   "path_id": -6107780323931948648,
+   "gameobject": "TxtSkillDesc",
+   "zh": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述",
+   "en": "DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguehandbookpage.ab",
    "path_id": -4997873438742262664,
    "gameobject": "TxtSoul",
    "zh": "消耗魂玉：",
@@ -24227,6 +27132,34 @@
    "gameobject": "titleText",
    "zh": "图鉴",
    "en": "Gallery"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguehandbookpage.ab",
+   "path_id": -1261758761752546289,
+   "gameobject": "TxtSkillName",
+   "zh": "技能名字",
+   "en": "Skill Name"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguehandbookpage.ab",
+   "path_id": 8192506096663696066,
+   "gameobject": "Info",
+   "zh": "通关之后再之后解锁通关之后再之后解锁通关之后再之后解锁",
+   "en": "Unlocks after clearingUnlocks after clearingUnlocks after clearing"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguemainpage.ab",
+   "path_id": -7886496304751287937,
+   "gameobject": "Text",
+   "zh": "出航",
+   "en": "Set Sail"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguemainpage.ab",
+   "path_id": -4484771598374776733,
+   "gameobject": "TxtNow",
+   "zh": "当前进度：1阶段第2关",
+   "en": "Current progress: Phase 1 Stage 2"
   },
   {
    "bundle": "restobundle/pages/rogue/roguemainpage.ab",
@@ -24250,6 +27183,20 @@
    "en": "Daily Limit"
   },
   {
+   "bundle": "restobundle/pages/rogue/roguemessagetipspage.ab",
+   "path_id": -7782330912374546302,
+   "gameobject": "TxtContent",
+   "zh": "已通过当前难度全部关卡，重置后将计算本轮分数并开启新的难度，是都重置？",
+   "en": "You've cleared every stage of this difficulty. Resetting will tally this round's score and open a new difficulty. Reset?"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguemessagetipspage.ab",
+   "path_id": -4564136927320947171,
+   "gameobject": "TxtNum",
+   "zh": "剩余免费重置次数：",
+   "en": "Free resets left:"
+  },
+  {
    "bundle": "restobundle/pages/rogue/roguepveresult.ab",
    "path_id": -117018856369200974,
    "gameobject": "prestige",
@@ -24262,6 +27209,13 @@
    "gameobject": "gold",
    "zh": "金块：",
    "en": "Gold Bars:"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguerankpage.ab",
+   "path_id": -6224117368002540475,
+   "gameobject": "text",
+   "zh": "得分排名",
+   "en": "Score Ranking"
   },
   {
    "bundle": "restobundle/pages/rogue/roguerankpage.ab",
@@ -24279,10 +27233,31 @@
   },
   {
    "bundle": "restobundle/pages/rogue/roguerankpage.ab",
+   "path_id": -2174377383407850294,
+   "gameobject": "playerText",
+   "zh": "角色名",
+   "en": "Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguerankpage.ab",
    "path_id": 180198617478298115,
    "gameobject": "Text",
    "zh": "第5名",
    "en": "5th Place"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguerankpage.ab",
+   "path_id": 1547533956371550508,
+   "gameobject": "playerText",
+   "zh": "角色名",
+   "en": "Character Name"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguerankpage.ab",
+   "path_id": 2872355833627489599,
+   "gameobject": "text",
+   "zh": "得分排名",
+   "en": "Score Ranking"
   },
   {
    "bundle": "restobundle/pages/rogue/roguerankpage.ab",
@@ -24299,11 +27274,32 @@
    "en": "Guild twelve chars long guild"
   },
   {
+   "bundle": "restobundle/pages/rogue/roguerankpage.ab",
+   "path_id": 5378086593536044888,
+   "gameobject": "Text",
+   "zh": "第51-100名",
+   "en": "Rank 51-100"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/rogueskilbag.ab",
+   "path_id": -8545764975564836329,
+   "gameobject": "Text(no_raycast)",
+   "zh": "被动技能",
+   "en": "Passive Skills"
+  },
+  {
    "bundle": "restobundle/pages/rogue/rogueskilbag.ab",
    "path_id": -5172442594129676366,
    "gameobject": "Text(no_raycast)",
    "zh": "主动技能",
    "en": "Active Skills"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/rogueskilldetailpage.ab",
+   "path_id": -5346236591375086633,
+   "gameobject": "TitleLabel",
+   "zh": "橡皮·长枪",
+   "en": "Gum-Gum Spear"
   },
   {
    "bundle": "restobundle/pages/rogue/rogueskilldetailpage.ab",
@@ -24321,10 +27317,24 @@
   },
   {
    "bundle": "restobundle/pages/rogue/rogueskillselectpage.ab",
+   "path_id": -6110847743932748461,
+   "gameobject": "TxtDropTitle",
+   "zh": "技能掉落顺序",
+   "en": "Skill Drop Order"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/rogueskillselectpage.ab",
    "path_id": 139586294500596409,
    "gameobject": "TxtCD",
    "zh": "冷却回合：",
    "en": "Cooldown Turns:"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/rogueskillselectpage.ab",
+   "path_id": 3678484900763942758,
+   "gameobject": "titleText",
+   "zh": "选择一项奖励技能",
+   "en": "Choose a reward skill"
   },
   {
    "bundle": "restobundle/pages/rogue/rogueskillselectpage.ab",
@@ -24341,11 +27351,74 @@
    "en": "Skill descriptionSkill descriptionSkill descriptionSkill descriptionSkill descriptionSkill description"
   },
   {
+   "bundle": "restobundle/pages/rogue/rogueskillselectpage.ab",
+   "path_id": 7025310122085734040,
+   "gameobject": "TxtSkillName",
+   "zh": "技能名字",
+   "en": "Skill Name"
+  },
+  {
    "bundle": "restobundle/pages/rogue/roguestagepage.ab",
    "path_id": -2867732771702692743,
    "gameobject": "Txt",
    "zh": "今日获取上限",
    "en": "Daily Limit"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguestagepage.ab",
+   "path_id": 3796761071595505293,
+   "gameobject": "TxtTitle",
+   "zh": "出航",
+   "en": "Set Sail"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguetalentinfopage.ab",
+   "path_id": -5338187301053764039,
+   "gameobject": "Info",
+   "zh": "提升路飞的基础属性",
+   "en": "Raises Luffy's base stats"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguetalentinfopage.ab",
+   "path_id": -4085722818266450502,
+   "gameobject": "TxtName",
+   "zh": "路飞·属性增强",
+   "en": "Luffy · Stat Boost"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguetalentinfopage.ab",
+   "path_id": 3878426275404074675,
+   "gameobject": "Info",
+   "zh": "<color=#66ffcc>提升路飞的基础属性提升路飞的基础属性提提升路飞的基础属性</color>提升路飞的基础属性提",
+   "en": "<color=#66ffcc>Raises Luffy's base stats Raises Luffy's base stats Raises Luffy's base stats</color> Raises Luffy's base stats"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguetalentpage.ab",
+   "path_id": -7374069804869894783,
+   "gameobject": "TxtName",
+   "zh": "路飞·属性增强",
+   "en": "Luffy · Stat Boost"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguetalentpage.ab",
+   "path_id": -5948489258420560329,
+   "gameobject": "titleText",
+   "zh": "点击头像可查看属性详情",
+   "en": "Tap a portrait to view stat details"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguetalentpage.ab",
+   "path_id": -2394261008927128246,
+   "gameobject": "Text(no_raycast)",
+   "zh": "活动开放第5天解锁",
+   "en": "Unlocks on event day 5"
+  },
+  {
+   "bundle": "restobundle/pages/rogue/roguetalentpage.ab",
+   "path_id": -1518998369060259093,
+   "gameobject": "TxtMax",
+   "zh": "已满级",
+   "en": "Max Level"
   },
   {
    "bundle": "restobundle/pages/roguelikeformationpage.ab",
@@ -24362,6 +27435,13 @@
    "en": "Character Check"
   },
   {
+   "bundle": "restobundle/pages/rolecheckpage.ab",
+   "path_id": -1498614804548007739,
+   "gameobject": "desc",
+   "zh": "活动描述活动描述活动描述活动描述活动描述活动描述",
+   "en": "Event descriptionEvent descriptionEvent descriptionEvent description"
+  },
+  {
    "bundle": "restobundle/pages/rolepropertypage.ab",
    "path_id": -4636029250650524520,
    "gameobject": "Go",
@@ -24376,11 +27456,67 @@
    "en": "Bounty Quest"
   },
   {
+   "bundle": "restobundle/pages/rolepropertypage.ab",
+   "path_id": 6645129549302012340,
+   "gameobject": "Text(no_raycast)",
+   "zh": "我方海军阵营我方海军",
+   "en": "Our Marine faction, our Marines"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": -8455171116566064384,
+   "gameobject": "Title",
+   "zh": "请选择参与训练的角色",
+   "en": "Choose characters to train"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": -6387671691165373299,
+   "gameobject": "title",
+   "zh": "选择要训练的次数",
+   "en": "Choose how many times to train"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": -5474498829730026904,
+   "gameobject": "notChosen",
+   "zh": "休息中...",
+   "en": "Resting..."
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": -5282351347076161285,
+   "gameobject": "Text",
+   "zh": "开始训练",
+   "en": "Start Training"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": -3516885083724825557,
+   "gameobject": "TrainName",
+   "zh": "1级 攻击训练",
+   "en": "Lv1 Attack Training"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": -3485410027847720697,
+   "gameobject": "LimitText",
+   "zh": "需要角色达到120级",
+   "en": "Requires character Lv120"
+  },
+  {
    "bundle": "restobundle/pages/roletrainingpage.ab",
    "path_id": -3390811717715070763,
    "gameobject": "TotalPower",
    "zh": "力量总进度",
    "en": "Total Strength Progress"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": -3350942682833408891,
+   "gameobject": "name",
+   "zh": "选择训练角色",
+   "en": "Choose Training Character"
   },
   {
    "bundle": "restobundle/pages/roletrainingpage.ab",
@@ -24391,10 +27527,66 @@
   },
   {
    "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": -2695623071676059003,
+   "gameobject": "AllPower",
+   "zh": "全体力量总进度",
+   "en": "Overall Strength Progress"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": -1961363579458312547,
+   "gameobject": "Text(no_raycast)",
+   "zh": "上\n阵",
+   "en": "De\nploy"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": -580839005881957626,
+   "gameobject": "name",
+   "zh": "娜美",
+   "en": "Nami"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": 127538550661897847,
+   "gameobject": "ExplainText",
+   "zh": "传承可转移角色的所有训练等级",
+   "en": "Inheritance transfers all of a character's training levels"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": 1147220682044377493,
+   "gameobject": "Text(no_raycast)",
+   "zh": "上\n阵",
+   "en": "De\nploy"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
    "path_id": 1675131222379000233,
    "gameobject": "Add",
    "zh": "加成",
    "en": "Bonus"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": 1769969058674231699,
+   "gameobject": "chosen",
+   "zh": "训练队列中...",
+   "en": "In training queue..."
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": 2138108727394886997,
+   "gameobject": "promote",
+   "zh": "生命:+10%",
+   "en": "HP: +10%"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": 2385792800424447350,
+   "gameobject": "Text(no_raycast)",
+   "zh": "未\n上\n阵",
+   "en": "Not\nDe\nployed"
   },
   {
    "bundle": "restobundle/pages/roletrainingpage.ab",
@@ -24405,6 +27597,13 @@
   },
   {
    "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": 4875663085830654861,
+   "gameobject": "promote",
+   "zh": "生命:+10%",
+   "en": "HP: +10%"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
    "path_id": 5246969934746032691,
    "gameobject": "name",
    "zh": "角色名字七个字",
@@ -24412,10 +27611,31 @@
   },
   {
    "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": 6336026373539513773,
+   "gameobject": "des",
+   "zh": "快速训练会持续消耗资源，直到训练满级，请选择消耗的资源类型",
+   "en": "Quick training keeps consuming resources until training is maxed. Choose the resource type to spend"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
+   "path_id": 6891699478990978168,
+   "gameobject": "Text(no_raycast)",
+   "zh": "未\n上\n阵",
+   "en": "Not\nDe\nployed"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingpage.ab",
    "path_id": 8482814928036989976,
    "gameobject": "Text",
    "zh": "一键训练",
    "en": "One-Tap Training"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingresultpage.ab",
+   "path_id": -1738179532838136783,
+   "gameobject": "TitleText",
+   "zh": "训练成果",
+   "en": "Training Results"
   },
   {
    "bundle": "restobundle/pages/roletrainingresultpage.ab",
@@ -24433,10 +27653,31 @@
   },
   {
    "bundle": "restobundle/pages/roletrainingresultpage.ab",
+   "path_id": 4495166936835444013,
+   "gameobject": "Text",
+   "zh": "生命强化训练",
+   "en": "HP Training"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingresultpage.ab",
+   "path_id": 5921451386281628280,
+   "gameobject": "Text",
+   "zh": "攻击强化训练",
+   "en": "Attack Training"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingresultpage.ab",
    "path_id": 6717112888591907067,
    "gameobject": "RightLevel",
    "zh": "3级",
    "en": "Lv3"
+  },
+  {
+   "bundle": "restobundle/pages/roletrainingresultpage.ab",
+   "path_id": 7918497130680905261,
+   "gameobject": "Text",
+   "zh": "防御强化训练",
+   "en": "Defense Training"
   },
   {
    "bundle": "restobundle/pages/seaautogetpage.ab",
@@ -24458,6 +27699,13 @@
    "gameobject": "title",
    "zh": "探索海域",
    "en": "Explore Sea Area"
+  },
+  {
+   "bundle": "restobundle/pages/seaformationpage.ab",
+   "path_id": -5713992401348506399,
+   "gameobject": "name",
+   "zh": "英雄·开拓者指环 +1",
+   "en": "Hero · Pioneer Ring +1"
   },
   {
    "bundle": "restobundle/pages/seaformationpage.ab",
@@ -25658,6 +28906,13 @@
   },
   {
    "bundle": "restobundle/pages/supersoulboundpage.ab",
+   "path_id": 6567507312852330905,
+   "gameobject": "Title",
+   "zh": "攻击攻击",
+   "en": "AttackAttack"
+  },
+  {
+   "bundle": "restobundle/pages/supersoulboundpage.ab",
    "path_id": 7645222145080658432,
    "gameobject": "Text",
    "zh": "超载概率",
@@ -25767,6 +29022,13 @@
    "gameobject": "Title",
    "zh": "10级",
    "en": "Lv10"
+  },
+  {
+   "bundle": "restobundle/pages/sweepmessageboxwindow.ab",
+   "path_id": 7022204380075393569,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
   },
   {
    "bundle": "restobundle/pages/sweeprewardpage.ab",
@@ -26390,6 +29652,13 @@
    "gameobject": "Title",
    "zh": "贸易分红",
    "en": "Trade Dividend"
+  },
+  {
+   "bundle": "restobundle/pages/traderapiddonepage.ab",
+   "path_id": -7613022115420890198,
+   "gameobject": "time (1)",
+   "zh": "-30分钟",
+   "en": "-30 min"
   },
   {
    "bundle": "restobundle/pages/traderapiddonepage.ab",
@@ -27073,6 +30342,13 @@
   },
   {
    "bundle": "restobundle/pages/uiformationpage/equiptpagetab.ab",
+   "path_id": 4874407790546284167,
+   "gameobject": "name",
+   "zh": "英雄·开拓者指环 +1",
+   "en": "Hero · Pioneer Ring +1"
+  },
+  {
+   "bundle": "restobundle/pages/uiformationpage/equiptpagetab.ab",
    "path_id": 5583820982469264908,
    "gameobject": "Text (2)",
    "zh": "精炼大师",
@@ -27087,10 +30363,52 @@
   },
   {
    "bundle": "restobundle/pages/uiformationpage/helppowertab.ab",
+   "path_id": -8047031402482778544,
+   "gameobject": "BreakTxt",
+   "zh": "突破2",
+   "en": "Breakthrough 2"
+  },
+  {
+   "bundle": "restobundle/pages/uiformationpage/helppowertab.ab",
+   "path_id": -2976186112793744187,
+   "gameobject": "BreakTxt",
+   "zh": "突破2",
+   "en": "Breakthrough 2"
+  },
+  {
+   "bundle": "restobundle/pages/uiformationpage/helppowertab.ab",
+   "path_id": -2098356059718189522,
+   "gameobject": "BreakTxt",
+   "zh": "突破2",
+   "en": "Breakthrough 2"
+  },
+  {
+   "bundle": "restobundle/pages/uiformationpage/helppowertab.ab",
+   "path_id": 1059296912784684512,
+   "gameobject": "BreakTxt",
+   "zh": "突破2",
+   "en": "Breakthrough 2"
+  },
+  {
+   "bundle": "restobundle/pages/uiformationpage/helppowertab.ab",
    "path_id": 2615770883902245880,
    "gameobject": "UpText",
    "zh": "已助阵",
    "en": "Assisting"
+  },
+  {
+   "bundle": "restobundle/pages/uiformationpage/helppowertab.ab",
+   "path_id": 6819886830274361589,
+   "gameobject": "BreakTxt",
+   "zh": "突破2",
+   "en": "Breakthrough 2"
+  },
+  {
+   "bundle": "restobundle/pages/uiformationpage/heroawaketabclassic.ab",
+   "path_id": -8202981881262292309,
+   "gameobject": "Text",
+   "zh": "激活",
+   "en": "Activate"
   },
   {
    "bundle": "restobundle/pages/uiformationpage/heroawaketabclassic.ab",
@@ -27427,6 +30745,13 @@
    "gameobject": "Text (1)",
    "zh": "<等级>",
    "en": "<Lv.>"
+  },
+  {
+   "bundle": "restobundle/pages/uiformationpage/uiequippresetpage.ab",
+   "path_id": 6120068654879710808,
+   "gameobject": "name",
+   "zh": "英雄·开拓者指环 +1",
+   "en": "Hero · Pioneer Ring +1"
   },
   {
    "bundle": "restobundle/pages/uiformationpage/uiequippresetpage.ab",
@@ -28425,6 +31750,13 @@
    "gameobject": "Text",
    "zh": "11月15日",
    "en": "11/15"
+  },
+  {
+   "bundle": "restobundle/pages/uitaskdetailspage.ab",
+   "path_id": -8944946076222977882,
+   "gameobject": "des",
+   "zh": "岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿岛屿",
+   "en": "IslandIslandIslandIslandIslandIslandIslandIslandIslandIsland"
   },
   {
    "bundle": "restobundle/pages/uitaskdetailspage.ab",
@@ -29646,6 +32978,13 @@
   },
   {
    "bundle": "restobundle/pages/unionslg/unionslgseaeventpage.ab",
+   "path_id": 6605750370066628792,
+   "gameobject": "Text",
+   "zh": "激活",
+   "en": "Activate"
+  },
+  {
+   "bundle": "restobundle/pages/unionslg/unionslgseaeventpage.ab",
    "path_id": 8813003690333671737,
    "gameobject": "Tips",
    "zh": "当前加成总览",
@@ -29998,6 +33337,13 @@
    "en": "Normal Recruit Ticket"
   },
   {
+   "bundle": "restobundle/pages/urrecruit/previewpanel.ab",
+   "path_id": 3573727520977066265,
+   "gameobject": "TitleText",
+   "zh": "招募预览",
+   "en": "Recruit Preview"
+  },
+  {
    "bundle": "restobundle/pages/urrecruit/rewardpanel.ab",
    "path_id": 128470631378783457,
    "gameobject": "Title",
@@ -30066,6 +33412,34 @@
    "gameobject": "choose",
    "zh": "选择本次使用的数量",
    "en": "Choose quantity to use"
+  },
+  {
+   "bundle": "restobundle/pages/videorecruitbuypage.ab",
+   "path_id": -9188076200269390940,
+   "gameobject": "timeLimitText",
+   "zh": "限时7天",
+   "en": "7 days only"
+  },
+  {
+   "bundle": "restobundle/pages/videorecruitbuypage.ab",
+   "path_id": -814781918603307935,
+   "gameobject": "Text(no_raycast)",
+   "zh": "敬请期待！",
+   "en": "Stay tuned!"
+  },
+  {
+   "bundle": "restobundle/pages/videorecruitbuypage.ab",
+   "path_id": 2446336365186832782,
+   "gameobject": "discountText",
+   "zh": "8折",
+   "en": "8/10 Price"
+  },
+  {
+   "bundle": "restobundle/pages/videorecruitbuypage.ab",
+   "path_id": 6509782463167162376,
+   "gameobject": "tipsText",
+   "zh": "每日限购:0/1",
+   "en": "Daily limit: 0/1"
   },
   {
    "bundle": "restobundle/pages/videorecruitpage.ab",
@@ -30318,6 +33692,13 @@
    "gameobject": "Text",
    "zh": "解锁阵法需要消耗道具",
    "en": "Unlocking a formation costs items"
+  },
+  {
+   "bundle": "restobundle/prefab/pokedexreviewtab.ab",
+   "path_id": -530355908238974914,
+   "gameobject": "Text",
+   "zh": "集结，小伙伴们",
+   "en": "Assemble, Everyone"
   },
   {
    "bundle": "restobundle/prefab/shiptrademessagebox.ab",
@@ -31062,11 +34443,46 @@
    "en": "Don't remind me again this session"
   },
   {
+   "bundle": "restobundle/ui/messagebox/messageboxwindow.ab",
+   "path_id": -4887172822303396347,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/messageboxwindowbig.ab",
+   "path_id": -416815083511134726,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/messageboxwindowcelebration.ab",
+   "path_id": 2822323375658279700,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
+  },
+  {
    "bundle": "restobundle/ui/messagebox/messageboxwindowitem.ab",
    "path_id": -2914632750583777126,
    "gameobject": "CaptainText",
    "zh": "队长",
    "en": "Captain"
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/messageboxwindowitem.ab",
+   "path_id": 960860091927616871,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/messageboxwindowmultiopts.ab",
+   "path_id": 8320188790490800191,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
   },
   {
    "bundle": "restobundle/ui/messagebox/messageboxwindownewmodule.ab",
@@ -31090,6 +34506,55 @@
    "en": "Dear Player:"
   },
   {
+   "bundle": "restobundle/ui/messagebox/messageboxwindowunionwar.ab",
+   "path_id": 1074323668099910458,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/messageboxwindowwithicon.ab",
+   "path_id": 6717718396624693063,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/messagetogglepromptrightwindow.ab",
+   "path_id": 7685795710440818047,
+   "gameobject": "Text",
+   "zh": "知道了",
+   "en": "Got It"
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/messagetogglepromptwindow.ab",
+   "path_id": 756863551712970922,
+   "gameobject": "Text",
+   "zh": "知道了",
+   "en": "Got It"
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/netfatalerrorwindow.ab",
+   "path_id": -5093169792260542286,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/nettimeoutwindow.ab",
+   "path_id": -1488061080175932092,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/prisonoutmessage.ab",
+   "path_id": -8586947743418383348,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
+  },
+  {
    "bundle": "restobundle/ui/messagebox/readyfightwindow.ab",
    "path_id": 7268267114137447909,
    "gameobject": "Text",
@@ -31105,6 +34570,13 @@
   },
   {
    "bundle": "restobundle/ui/messagebox/revivecuebox.ab",
+   "path_id": -2296774244132304405,
+   "gameobject": "Text",
+   "zh": "复 活",
+   "en": "Revive"
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/revivecuebox.ab",
    "path_id": 7309516771875684282,
    "gameobject": "Title",
    "zh": "复活提示",
@@ -31116,6 +34588,13 @@
    "gameobject": "Use",
    "zh": "消耗： ",
    "en": "Cost: "
+  },
+  {
+   "bundle": "restobundle/ui/messagebox/wechatshare.ab",
+   "path_id": 4512280940894108689,
+   "gameobject": "Text",
+   "zh": "复活倒计时：",
+   "en": "Revive countdown:"
   },
   {
    "bundle": "restobundle/ui/messagebox/wechatshare.ab",
