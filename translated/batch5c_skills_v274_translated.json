@@ -40541,6 +40541,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "510020",
+     "skillName": "",
+     "skillDesc": "Sea Trial - Blackbeard - Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "510021",
+     "skillName": "",
+     "skillDesc": "Sea Trial - Blackbeard - Underling Passive",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "600003",
      "skillName": "A Marine's Dream",
      "skillDesc": "Applies healing to <color=#d14e0d>self</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
@@ -40883,6 +40895,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "600096",
+     "skillName": "Bear's Shield",
+     "skillDesc": "Applies a <color=#d14e0d>Shield</color> to self that absorbs damage equal to <color=#d14e0d>{buffper1}%</color> of own Max HP and provides <color=#d14e0d>Reflect</color>, returning <color=#d14e0d>{buffper1}%</color> of the damage Kuma takes to the enemy. The Shield lasts <color=#d14e0d>2 turns</color> and <color=#d14e0d>expires immediately when broken</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "600097",
      "skillName": "Bear Paw Impact",
      "skillDesc": "",
@@ -41081,10 +41099,40 @@
      "buttonEffect": "Bloodthirst"
     },
     {
+     "skillId": "600501",
+     "skillName": "",
+     "skillDesc": "",
+     "buttonEffect": "AoE Bleed"
+    },
+    {
+     "skillId": "600502",
+     "skillName": "",
+     "skillDesc": "",
+     "buttonEffect": "Summon Blue Gorilla"
+    },
+    {
+     "skillId": "600505",
+     "skillName": "",
+     "skillDesc": "",
+     "buttonEffect": "AoE Stun + Armor Break"
+    },
+    {
+     "skillId": "600509",
+     "skillName": "",
+     "skillDesc": "",
+     "buttonEffect": "Armor Break + Stun + Healing Reduction"
+    },
+    {
      "skillId": "600516",
      "skillName": "",
      "skillDesc": "",
      "buttonEffect": "Rampage"
+    },
+    {
+     "skillId": "600518",
+     "skillName": "",
+     "skillDesc": "",
+     "buttonEffect": "Bleed + Healing Reduction + Armor Break"
     },
     {
      "skillId": "600519",
@@ -41153,6 +41201,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "600580",
+     "skillName": "Attraction · Iron Arm",
+     "skillDesc": "After use, gains <color=#d14e0d>Steel</color>, increasing Kid's <color=#d14e0d>basic attack</color> damage by <color=#d14e0d>{buffper1}%</color> and the damage of <color=#d14e0d>Heavy Strike</color> or <color=#d14e0d>Attract: Cannon</color> by <color=#d14e0d>{buffper2}%</color> for <color=#d14e0d>2</color> turns. Does not stack.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "600582",
      "skillName": "Shadow Asgard",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -41165,15 +41219,33 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "600584",
+     "skillName": "Shadow-Shadow Fruit",
+     "skillDesc": "Moria's Dark damage +<color=#d14e0d>{buffper1,700112}%</color> and Attribute damage taken -<color=#d14e0d>{buffper1,11200}%</color>. His <color=#d14e0d>attacks have a {buffodds}%</color> chance to steal the enemy's shadow; those who lose their shadow cannot be revived, and their ATK and DEF are reduced by <color=#d14e0d>{buffper1,700110}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "600585",
      "skillName": "Shadow Gathering",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
      "buttonEffect": ""
     },
     {
+     "skillId": "600586",
+     "skillName": "Heavy Support Bombardment",
+     "skillDesc": "At the start of each turn, Sentomaru's ATK increases by <color=#d14e0d>{buffper1}%</color>, stacking up to <color=#d14e0d>3</color> times. At the end of each turn, Sentomaru calls in an extra bombardment, dealing Fire damage equal to <color=#d14e0d>{buffper2}%</color> of his ATK to all enemies.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "600587",
      "skillName": "Lone Sky Walk",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "600589",
+     "skillName": "Captivating Charm",
+     "skillDesc": "At battle start, puts a random enemy into <color=#d14e0d>Languor</color> and strengthens <color=#d14e0d>Languor</color>: enemies in this state have their Accuracy reduced by <color=#d14e0d>{buffper1}%</color> when attacking Hancock.",
      "buttonEffect": ""
     },
     {
@@ -41261,15 +41333,57 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "600604",
+     "skillName": "Healing Hormones",
+     "skillDesc": "Heals <color=#d14e0d>all allies</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Ivankov's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "600605",
+     "skillName": "Tension Hormones",
+     "skillDesc": "Heals <color=#d14e0d>a random ally</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Ivankov's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "600606",
      "skillName": "",
      "skillDesc": "Female Basic Attack",
      "buttonEffect": ""
     },
     {
+     "skillId": "600607",
+     "skillName": "Hormone Resistance",
+     "skillDesc": "In male form, when <color=#d14e0d>HP reaches 0</color>, does not die immediately but revives with <color=#d14e0d>{buffper1}%</color> Max HP, once per battle (<color=#d14e0d>1</color> time); in female form, recovers <color=#d14e0d>{buffper2}%</color> HP before acting each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "600619",
+     "skillName": "Takt",
+     "skillDesc": "A random ally's ATK and SPD +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns. If used while <color=#d14e0d>ROOM</color> is active, grants an extra <color=#d14e0d>3</color> Soul Jade.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "600620",
+     "skillName": "Shambles",
+     "skillDesc": "When cast, <color=#d14e0d>{buffodds}%</color> chance to dispel all of the target's buffs. While <color=#d14e0d>ROOM</color> is active, <color=#d14e0d>Shambles</color> becomes a Finisher with the <color=#d14e0d>Swap</color> effect, swapping the target's position with another enemy and ending Law's action.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "600621",
+     "skillName": "Ultimate Surgery",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. This skill targets the enemy with the lowest HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "600622",
      "skillName": "Injection Shot",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "600623",
+     "skillName": "Counter Shock",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a cross-shaped enemy area</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Damage to targets who have lost their heart is increased by <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -41297,9 +41411,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "600629",
+     "skillName": "Surrounding Current",
+     "skillDesc": "Surrounds self with flowing water, reducing physical and Attribute damage taken by Jinbe by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns, and instantly recovers <color=#d14e0d>{buffper1,11193}%</color> HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "600630",
      "skillName": "Shark School",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "600631",
+     "skillName": "Arabesque Tile Fist",
+     "skillDesc": "Attacks <color=#d14e0d>3 enemy tiles in a horizontal row</color>, instantly reducing the Rage of enemies in range by <color=#d14e0d>{buffval1,11194}</color>, with a <color=#d14e0d>{buffodds}%</color> chance to reduce <color=#d14e0d>1 Soul Jade</color>.",
      "buttonEffect": ""
     },
     {
@@ -41327,9 +41453,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "600637",
+     "skillName": "Surrounding Current",
+     "skillDesc": "Surrounds self with flowing water, reducing physical and Attribute damage taken by Jinbe by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns, and instantly recovers <color=#d14e0d>{buffper1,11193}%</color> HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "600638",
      "skillName": "Shark School",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "600639",
+     "skillName": "Arabesque Tile Fist",
+     "skillDesc": "Attacks <color=#d14e0d>3 enemy tiles in a horizontal row</color>, instantly reducing the Rage of enemies in range by <color=#d14e0d>{buffval1,11194}</color>, with a <color=#d14e0d>{buffodds}%</color> chance to reduce <color=#d14e0d>1 Soul Jade</color>.",
      "buttonEffect": ""
     },
     {
@@ -41393,6 +41531,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700002",
+     "skillName": "Zombie Body",
+     "skillDesc": "After use, instantly loses <color=#d14e0d>15%</color> of current HP and gains <color=#d14e0d>{buffval1} Rage</color>, while DMG reduction <color=#d14e0d>increases by {buffper2}%</color> for <color=#d14e0d>1</color> turn.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700003",
      "skillName": "Humming Three Steps: Arrow Notch Slash",
      "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>4 enemy tiles in a straight line</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
@@ -41444,6 +41588,12 @@
      "skillId": "700013",
      "skillName": "Special Ghost: Kamikaze Rap",
      "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>all enemies</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700019",
+     "skillName": "Poisoned",
+     "skillDesc": "Gives <color=#d14e0d>Scalpel Throw</color> a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>Poison</color>, making the enemy lose some HP before acting each turn. Stacks up to <color=#d14e0d>5</color> times and lasts <color=#d14e0d>2</color> turns.",
      "buttonEffect": ""
     },
     {
@@ -41519,6 +41669,30 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700082",
+     "skillName": "Emergency Injection",
+     "skillDesc": "Heals <color=#d14e0d>the ally with the lowest HP</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Chopper's ATK plus <color=#d14e0d>{atkval}</color> HP. If that ally's HP is below <color=#d14e0d>30% of their Max HP</color>, the healing is doubled.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700083",
+     "skillName": "Bandage",
+     "skillDesc": "<color=#d14e0d>{buffodds}%</color> chance to instantly remove <color=#d14e0d>Bleed</color> from <color=#d14e0d>allies</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700084",
+     "skillName": "Heal",
+     "skillDesc": "Heals <color=#d14e0d>all allies</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Chopper's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700085",
+     "skillName": "Heal",
+     "skillDesc": "Heals <color=#d14e0d>all allies</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Chopper's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700086",
      "skillName": "Shadow Gathering",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -41553,6 +41727,12 @@
      "skillName": "Black Blade: Cross",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
      "buttonEffect": "5"
+    },
+    {
+     "skillId": "700205",
+     "skillName": "Blade Intent",
+     "skillDesc": "When this skill is used, <color=#d14e0d>ATK</color> and <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>1 turn</color>. If the character has <color=#d14e0d>Killing Intent</color>, all <color=#d14e0d>Killing Intent</color> stacks are consumed, each recovering <color=#d14e0d>5%</color> of Max HP as <color=#d14e0d>HP</color> and <color=#d14e0d>10</color> <color=#d14e0d>Rage</color>.",
+     "buttonEffect": "6"
     },
     {
      "skillId": "700206",
@@ -41711,6 +41891,18 @@
      "buttonEffect": "1"
     },
     {
+     "skillId": "700234",
+     "skillName": "Shadow Healing",
+     "skillDesc": "Heals <color=#d14e0d>the ally with the least HP</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Kuma's ATK plus an extra <color=#d14e0d>{atkval}</color> HP, and removes all debuffs from that ally. <color=#d14e0d>Kuma cannot cast this skill on himself</color>.",
+     "buttonEffect": "2"
+    },
+    {
+     "skillId": "700235",
+     "skillName": "Swat Away",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage. Hit enemies are <color=#d14e0d>Banished</color>, making a single enemy <color=#d14e0d>vanish from the formation for 1 turn</color>; while gone, it cannot attack or be attacked. When it reappears, it lands in a random empty position. <color=#d14e0d>If the enemy has only one character on the field, it falls immediately</color>.",
+     "buttonEffect": "3"
+    },
+    {
      "skillId": "700236",
      "skillName": "Ursus Shock Bullet",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -41819,6 +42011,12 @@
      "buttonEffect": "7"
     },
     {
+     "skillId": "700259",
+     "skillName": "",
+     "skillDesc": "",
+     "buttonEffect": "Chance to Seal plus chance to Skill Seal (30%)"
+    },
+    {
      "skillId": "700262",
      "skillName": "",
      "skillDesc": "",
@@ -41835,6 +42033,12 @@
      "skillName": "",
      "skillDesc": "",
      "buttonEffect": "Slash"
+    },
+    {
+     "skillId": "700265",
+     "skillName": "",
+     "skillDesc": "",
+     "buttonEffect": "HP Recovery Taunt && Shield && DMG Reduction"
     },
     {
      "skillId": "700266",
@@ -41873,6 +42077,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700277",
+     "skillName": "White Snake",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
+     "buttonEffect": "Stun Terror"
+    },
+    {
      "skillId": "700278",
      "skillName": "Jitte Frenzy",
      "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
@@ -41883,6 +42093,30 @@
      "skillName": "White Gale",
      "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>4 enemy tiles in a straight line</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
      "buttonEffect": ""
+    },
+    {
+     "skillId": "700280",
+     "skillName": "Emergency Injection",
+     "skillDesc": "Heals <color=#d14e0d>the ally with the lowest HP</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Chopper's ATK plus <color=#d14e0d>{atkval}</color> HP. If that ally's HP is below <color=#d14e0d>30% of their Max HP</color>, the healing is doubled.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700281",
+     "skillName": "Smoke Jet",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
+     "buttonEffect": "Disarm + Armor Break + Knockback"
+    },
+    {
+     "skillId": "700282",
+     "skillName": "White Impact",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>all enemies</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
+     "buttonEffect": "Armor Break + Confusion"
+    },
+    {
+     "skillId": "700283",
+     "skillName": "White Vine",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
+     "buttonEffect": "Armor Break + Stun + Healing Reduction"
     },
     {
      "skillId": "700285",
@@ -41999,6 +42233,24 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700308",
+     "skillName": "Magma Devour",
+     "skillDesc": "Gives <color=#d14e0d>Meigo</color> the <color=#d14e0d>Magma Devour</color> effect, instantly clearing all <color=#d14e0d>Magma Burn</color> on the enemy; each stack of <color=#d14e0d>Magma Burn</color> cleared recovers <color=#d14e0d>{buffper1}%</color> of own Max HP as <color=#d14e0d>HP</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700309",
+     "skillName": "Magma Burst",
+     "skillDesc": "Gives <color=#d14e0d>Absolute Justice</color> the <color=#d14e0d>Magma Burst</color> effect, instantly clearing all <color=#d14e0d>Magma Burn</color> on the enemy; each stack of <color=#d14e0d>Magma Burn</color> cleared reduces the enemy's current HP by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700310",
+     "skillName": "Magma Corrosion",
+     "skillDesc": "When Akainu attacks enemies with <color=#d14e0d>Magma Burn</color>, the <color=#d14e0d>damage</color> dealt to them increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700311",
      "skillName": "Immune to Whitebeard Stun",
      "skillDesc": "",
@@ -42095,9 +42347,33 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700330",
+     "skillName": "Blade Intent",
+     "skillDesc": "When this skill is used, <color=#d14e0d>ATK</color> and <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>1 turn</color>. If the character has <color=#d14e0d>Killing Intent</color>, all <color=#d14e0d>Killing Intent</color> stacks are consumed, each recovering <color=#d14e0d>5%</color> of Max HP as <color=#d14e0d>HP</color> and <color=#d14e0d>10</color> <color=#d14e0d>Rage</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700331",
      "skillName": "Black Blade: Flash",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700332",
+     "skillName": "Sword Aura Enhancement",
+     "skillDesc": "Ignores the <color=#d14e0d>DMG reduction</color> from enemies' active skills, and damage dealt by Mihawk increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700333",
+     "skillName": "Black Blade · Night",
+     "skillDesc": "When using attack skills, <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>Killing Intent</color>, increasing own ATK by <color=#d14e0d>5%</color>, stacking up to <color=#d14e0d>7</color> times. If no attack skill is used in a turn, <color=#d14e0d>Killing Intent</color> is removed.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700334",
+     "skillName": "Ignore Defense",
+     "skillDesc": "Gives <color=#d14e0d>Black Blade: Flash</color> the <color=#d14e0d>Ignore DEF</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance for this attack to ignore the enemy target's DEF.",
      "buttonEffect": ""
     },
     {
@@ -42123,6 +42399,12 @@
      "skillName": "Haze: Butterfly",
      "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>all enemies</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
      "buttonEffect": ""
+    },
+    {
+     "skillId": "700342",
+     "skillName": "Shigure: Blunt Edge",
+     "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
+     "buttonEffect": "Armor Break + Disarm"
     },
     {
      "skillId": "700343",
@@ -42479,15 +42761,141 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700459",
+     "skillName": "",
+     "skillDesc": "Caribou - Basic Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700460",
+     "skillName": "",
+     "skillDesc": "Caribou - Skill 1 - Prayer",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700461",
+     "skillName": "",
+     "skillDesc": "Caribou - Skill 2 - Machine Gun",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700462",
+     "skillName": "",
+     "skillDesc": "Caribou - Skill 3 - Sludge Bind",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700463",
+     "skillName": "",
+     "skillDesc": "Caribou - Skill 4 - Sludge Domain",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700464",
+     "skillName": "",
+     "skillDesc": "Caribou - Passive 1 - Swamp-Swamp Fruit",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700465",
+     "skillName": "",
+     "skillDesc": "Caribou - Passive 2 - Bloodthirst",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700466",
+     "skillName": "",
+     "skillDesc": "Caribou - Passive 3 - Devour",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700467",
+     "skillName": "",
+     "skillDesc": "Caribou - Passive 4 - Mud Domain",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700468",
+     "skillName": "",
+     "skillDesc": "Caribou - Passive 5 - Swamp",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700469",
      "skillName": "",
      "skillDesc": "Armor Break",
      "buttonEffect": ""
     },
     {
+     "skillId": "700470",
+     "skillName": "",
+     "skillDesc": "Slow 30% & Confusion (30% chance)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700471",
+     "skillName": "",
+     "skillDesc": "Stun (50% chance) & Armor Break",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700472",
+     "skillName": "",
+     "skillDesc": "Guaranteed CRIT & Sharp",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700473",
+     "skillName": "",
+     "skillDesc": "Sharp & Ignite",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700474",
+     "skillName": "",
+     "skillDesc": "Armor Break & Guaranteed CRIT & Flame Burst",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700475",
+     "skillName": "",
+     "skillDesc": "Bleed & Accuracy Down/-30 & 1 turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700476",
+     "skillName": "",
+     "skillDesc": "Accuracy Up (50% & lasts 1 turn) & CRIT Rate +10% (lasts 20 turns & stacks up to 10 times)",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700477",
      "skillName": "",
      "skillDesc": "Bleed",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700478",
+     "skillName": "",
+     "skillDesc": "Bleed & Sharp",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700479",
+     "skillName": "",
+     "skillDesc": "Sharp & Lifesteal & Bloodthirst",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700480",
+     "skillName": "",
+     "skillDesc": "AoE ATK Up (lasts 1 turn & 20%)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700481",
+     "skillName": "",
+     "skillDesc": "For each Bleed stack on the target, own ATK +20% (lasts 1 turn && stacks up to 5 times)",
      "buttonEffect": ""
     },
     {
@@ -42509,6 +42917,30 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700485",
+     "skillName": "",
+     "skillDesc": "Fake Nami Stage - Shotgun Elite - Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700486",
+     "skillName": "",
+     "skillDesc": "Fire DMG (50% of ATK) && 1 stack of Burn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700487",
+     "skillName": "",
+     "skillDesc": "Fire DMG (50% of ATK) && AoE Armor Break (50% chance)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700488",
+     "skillName": "",
+     "skillDesc": "Fire DMG (50% of ATK) && Accuracy -50%",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700489",
      "skillName": "",
      "skillDesc": "Fake Usopp 1",
@@ -42527,15 +42959,75 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700492",
+     "skillName": "",
+     "skillDesc": "Fake Usopp Passive 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700493",
+     "skillName": "",
+     "skillDesc": "Fake Usopp Passive 2",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700494",
      "skillName": "",
      "skillDesc": "Armor Break",
      "buttonEffect": ""
     },
     {
+     "skillId": "700495",
+     "skillName": "",
+     "skillDesc": "Fear & Stun 30%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700496",
+     "skillName": "",
+     "skillDesc": "DEF Collapse && Dodge & Accuracy -30% for two turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700497",
+     "skillName": "",
+     "skillDesc": "Armor cannot be shattered; starts with 50% DMG reduction",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700498",
+     "skillName": "",
+     "skillDesc": "Sharp & 1 stack of Bleed",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700499",
+     "skillName": "",
+     "skillDesc": "1 stack of Bleed & Sharp",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700500",
+     "skillName": "",
+     "skillDesc": "Sharp & Lifesteal & Bloodthirst",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700501",
+     "skillName": "",
+     "skillDesc": "AoE ATK +30% for two turns & recover 10% HP",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700502",
      "skillName": "",
      "skillDesc": "Sharpness",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700503",
+     "skillName": "",
+     "skillDesc": "Accuracy Down/-30 & 1 turn",
      "buttonEffect": ""
     },
     {
@@ -42557,6 +43049,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700507",
+     "skillName": "",
+     "skillDesc": "Fake Luffy Passive 1",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700508",
      "skillName": "",
      "skillDesc": "Fake Nami 1",
@@ -42575,9 +43073,45 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700511",
+     "skillName": "",
+     "skillDesc": "Fake Nami Passive 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700512",
+     "skillName": "",
+     "skillDesc": "Fake Usopp Passive 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700514",
+     "skillName": "",
+     "skillDesc": "Armor Break & Slow 50% for two turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700515",
+     "skillName": "",
+     "skillDesc": "DEF Collapse && Dodge & Accuracy -30% for two turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700516",
+     "skillName": "",
+     "skillDesc": "Fire DMG (50% of ATK) && 1 stack of Burn",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700517",
      "skillName": "",
      "skillDesc": "Normal Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700518",
+     "skillName": "",
+     "skillDesc": "Passive",
      "buttonEffect": ""
     },
     {
@@ -42620,6 +43154,12 @@
      "skillId": "700525",
      "skillName": "",
      "skillDesc": "Cinematic 3: Take Medicine",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700526",
+     "skillName": "",
+     "skillDesc": "Passive",
      "buttonEffect": ""
     },
     {
@@ -42713,9 +43253,81 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700546",
+     "skillName": "Drunken Sword",
+     "skillDesc": "Regular Single Target",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700547",
+     "skillName": "Drunken Sword",
+     "skillDesc": "Lowest HP + Guaranteed CRIT",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700548",
+     "skillName": "Evil Drug E.S.",
+     "skillDesc": "Recover 50% HP, +50 ATK and CRIT; each Poison stack on enemies converts into 10% own ATK and CRIT",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700549",
+     "skillName": "Chiliad Bird Impact",
+     "skillDesc": "50% Lethal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700550",
+     "skillName": "Deadly Poison Sword",
+     "skillDesc": "DMG +50% if the target has Deadly Poison",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700551",
+     "skillName": "",
+     "skillDesc": "On hit, apply 1 stack of Poison to the target / on hit, apply Deadly Poison to enemies: loses 15% HP before acting; unlocked in the second state",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700552",
+     "skillName": "",
+     "skillDesc": "When hit, Poison DMG reduction against the target +50% / enters the second state below 50% HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700553",
+     "skillName": "",
+     "skillDesc": "Healing +50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700554",
+     "skillName": "",
+     "skillDesc": "If no kill is scored, Evil Drug is guaranteed next turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700555",
+     "skillName": "",
+     "skillDesc": "At action start, if in the second form, switches own AI logic and adds a mark to count turns; at 3 stacks, summons 2 mobs and clears the mark",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700556",
      "skillName": "",
      "skillDesc": "Normal Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700557",
+     "skillName": "Chiliad Bird Impact",
+     "skillDesc": "50% Lethal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700558",
+     "skillName": "Deadly Poison Sword",
+     "skillDesc": "DMG +50% if the target has Deadly Poison",
      "buttonEffect": ""
     },
     {
@@ -42743,6 +43355,84 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700564",
+     "skillName": "",
+     "skillDesc": "Basic Attack (Confusion + Accuracy -50%)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700565",
+     "skillName": "",
+     "skillDesc": "Water Bead 2 (+100% CRIT + 50% Armor Break) (Water DMG)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700566",
+     "skillName": "",
+     "skillDesc": "Hand Swing (Stun) (Water DMG)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700567",
+     "skillName": "",
+     "skillDesc": "Thrust Punch (Stun) (Water DMG)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700568",
+     "skillName": "",
+     "skillDesc": "(Knock-Up + AoE Water Bubble) (Water DMG)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700569",
+     "skillName": "",
+     "skillDesc": "(On Hold)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700570",
+     "skillName": "Evil Drug E.S.",
+     "skillDesc": "(Reserved)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700571",
+     "skillName": "",
+     "skillDesc": "Water DMG +50, +20 Water DMG each turn, up to 10 stacks",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700572",
+     "skillName": "",
+     "skillDesc": "At turn start, 10 stacks of Water Shield; loses 1 stack when CRIT; at turn end, recovers HP based on stacks",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700573",
+     "skillName": "",
+     "skillDesc": "When an enemy dies, ATK and Accuracy +20%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700574",
+     "skillName": "",
+     "skillDesc": "On CRIT, reduces the target's CRIT",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700575",
+     "skillName": "",
+     "skillDesc": "When a teammate dies, casts Evil Drug next turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700576",
+     "skillName": "",
+     "skillDesc": "Enters the second phase when a teammate dies",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700577",
      "skillName": "",
      "skillDesc": "Normal Attack",
@@ -42755,9 +43445,81 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700579",
+     "skillName": "",
+     "skillDesc": "Permanently immune to Parasite",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700580",
+     "skillName": "",
+     "skillDesc": "Small Throw (Basic Attack)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700581",
+     "skillName": "",
+     "skillDesc": "Small Throw (Skill 1)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700582",
+     "skillName": "",
+     "skillDesc": "Big Throw (Skill 2)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700583",
+     "skillName": "",
+     "skillDesc": "Big Axe (Skill 3)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700584",
+     "skillName": "",
+     "skillDesc": "Ship Rises (Skill 4)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700585",
+     "skillName": "",
+     "skillDesc": "Ship Descends (Skill 5)",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700586",
      "skillName": "",
      "skillDesc": "Small Throw",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700587",
+     "skillName": "",
+     "skillDesc": "Attacks always hit + after casting a skill, grants all allies ATK, DEF and SPD",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700588",
+     "skillName": "",
+     "skillDesc": "Recovers 1% HP each time skill DMG is taken; if not hit by a skill this turn, recovers 20% HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700589",
+     "skillName": "",
+     "skillDesc": "DMG dealt inflicts Bleed; all DMG taken from targets without Bleed is reduced by 100%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700590",
+     "skillName": "",
+     "skillDesc": "SPD 9999 on the turn the ship is thrown",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700591",
+     "skillName": "",
+     "skillDesc": "Changes skills on turn 4 and enters the second phase",
      "buttonEffect": ""
     },
     {
@@ -42857,6 +43619,24 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700617",
+     "skillName": "Shark Tile Fist",
+     "skillDesc": "Single Target",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700618",
+     "skillName": "Ocean Current Shoulder Throw",
+     "skillDesc": "Summon 3 Monsters",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700619",
+     "skillName": "Buraikan",
+     "skillDesc": "Single Target",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700620",
      "skillName": "Surrounding Current",
      "skillDesc": "",
@@ -42869,6 +43649,30 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700622",
+     "skillName": "Ocean Current Shoulder Throw",
+     "skillDesc": "Summon 6 Monsters",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700623",
+     "skillName": "",
+     "skillDesc": "Ignore DMG Reduction - Healing Bonus increases when Blocking",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700624",
+     "skillName": "",
+     "skillDesc": "Water DMG +100 - at action start, checks the Banish mark and switches own AI logic",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700625",
+     "skillName": "",
+     "skillDesc": "HP Lock",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700626",
      "skillName": "Electric Shock Heart",
      "skillDesc": "When <color=#d14e0d>HP reaches 0</color>, Enel does not die immediately; he revives himself by shocking his own heart and recovers <color=#d14e0d>{buffper1}%</color> of his Max HP. <color=#d14e0d>This effect can only trigger once per battle</color>.",
@@ -42878,6 +43682,12 @@
      "skillId": "700628",
      "skillName": "Thunderbird",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700629",
+     "skillName": "Thunder Dragon",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>2 horizontal enemy rows</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
      "buttonEffect": ""
     },
     {
@@ -42935,6 +43745,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700639",
+     "skillName": "Doctor 20",
+     "skillDesc": "When Wapol is about to die, he is immune to that damage and recovers <color=#d14e0d>{buffper1}%</color> of his Max HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700640",
      "skillName": "",
      "skillDesc": "Armor Break",
@@ -42944,6 +43760,60 @@
      "skillId": "700641",
      "skillName": "Drowsiness",
      "skillDesc": "Instantly recovers HP equal to <color=#d14e0d>{buffper1}%</color> of own Max HP and gains <color=#d14e0d>{buffval2}</color> Rage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700646",
+     "skillName": "",
+     "skillDesc": "Lapahn Basic Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700647",
+     "skillName": "One Punch Man Passive 1",
+     "skillDesc": "Attacks kill the opponent outright",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700648",
+     "skillName": "One Punch Man Passive 2",
+     "skillDesc": "Consumes 20% of own HP after each attack / after attacking, if own HP is below 0.1%, removes own Invincibility",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700649",
+     "skillName": "One Punch Man Passive 3",
+     "skillDesc": "Ignores all control and debuffs; Invincible when attacked and knocks back enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700651",
+     "skillName": "Core Passive 1",
+     "skillDesc": "When acting, restores 30% HP to all \"Shields\" and permanently grants them 10% DMG reduction, 10% Block and 10% CRIT RES (stackable).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700652",
+     "skillName": "Core Passive 2",
+     "skillDesc": "After charging for three turns, activates Overload Mode, permanently granting self and all Shields 500% ATK and 50% DEF, and removing the \"Guard\" effect from all Shields.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700653",
+     "skillName": "Core Passive 3",
+     "skillDesc": "While the Core is on the field, all Shields can block line-type DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700654",
+     "skillName": "Core Passive 4",
+     "skillDesc": "While four Shields are on the field (Banished ones don't count), the Core is Invincible",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700655",
+     "skillName": "Core Passive 5",
+     "skillDesc": "After charging for four turns, self-destructs and kills all players",
      "buttonEffect": ""
     },
     {
@@ -42968,6 +43838,54 @@
      "skillId": "700660",
      "skillName": "",
      "skillDesc": "Divine Soldier B",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700661",
+     "skillName": "Twin - Dark Passive 1",
+     "skillDesc": "Ignores physical DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700662",
+     "skillName": "Twin - Dark Passive 2",
+     "skillDesc": "At 50% HP, marks self and teammates; with two marks, kills all enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700663",
+     "skillName": "Twin - Dark Passive 3",
+     "skillDesc": "Removes the mark when controlled",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700664",
+     "skillName": "Twin - Shadow Passive 1",
+     "skillDesc": "Ignores Attribute DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700665",
+     "skillName": "Twin - Shadow Passive 2",
+     "skillDesc": "At 50% HP, marks self and teammates; with two marks, kills all enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700666",
+     "skillName": "Twin - Shadow Passive 3",
+     "skillDesc": "Removes the mark when controlled",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700667",
+     "skillName": "Twin Shared Passive 1",
+     "skillDesc": "Ignores all control and debuffs / removes this state when HP is below 50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700668",
+     "skillName": "Zombie Passive",
+     "skillDesc": "Recovers 20% of own Max HP at action start",
      "buttonEffect": ""
     },
     {
@@ -43011,6 +43929,60 @@
      "skillName": "Spring Hopper",
      "skillDesc": "Deals <color=#d14e0d>{atkper}%</color> attack damage to <color=#d14e0d>a single enemy</color>, plus <color=#d14e0d>{atkval}</color> skill damage.",
      "buttonEffect": ""
+    },
+    {
+     "skillId": "700677",
+     "skillName": "Bellamy Passive",
+     "skillDesc": "Own Dodge decreases when Slowed",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700678",
+     "skillName": "Bellamy Passive",
+     "skillDesc": "Removes own debuffs at action start",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700680",
+     "skillName": "Slasher",
+     "skillDesc": "Strengthens the body to become as hard as a \"blade\", reducing <color=#d14e0d>damage</color> taken by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": "Immune to physical DMG for 2 turns"
+    },
+    {
+     "skillId": "700681",
+     "skillName": "Dust Slash",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": "1 stack of Bleed & Healing -60% for 1 turn"
+    },
+    {
+     "skillId": "700682",
+     "skillName": "Ripping Slash",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>3 enemy tiles in a horizontal row</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": "3 stacks of Bleed"
+    },
+    {
+     "skillId": "700683",
+     "skillName": "Dust-Slash Speed Blade",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": "2 stacks of Bleed & Lifesteal"
+    },
+    {
+     "skillId": "700684",
+     "skillName": "Foaming Daisy Slash",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>2 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": "Sharp & 1 stack of Bleed"
+    },
+    {
+     "skillId": "700685",
+     "skillName": "Spiral Hollow Slash",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": "Bloodthirst & Blood Rage & Healing -100% for 1 turn"
+    },
+    {
+     "skillId": "700686",
+     "skillName": "Blade Whirlwind",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>4 enemy tiles in a straight line</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": "Disarm & Armor Break 50% for 2 turns"
     },
     {
      "skillId": "700696",
@@ -43145,6 +44117,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700719",
+     "skillName": "Magma Armor",
+     "skillDesc": "At the start of each turn, Akainu applies 1 stack of <color=#d14e0d>Magma Shield</color> to himself with HP equal to <color=#d14e0d>{buffper1}%</color> of his <color=#d14e0d>Max HP</color>, stacking up to three times. <color=#d14e0d>The Shield disappears immediately when its HP drops to 0</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700721",
      "skillName": "Darkness Descends",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
@@ -43241,6 +44219,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700740",
+     "skillName": "",
+     "skillDesc": "Single-Target Chain",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700741",
      "skillName": "",
      "skillDesc": "Cinematic Head Lock",
@@ -43253,9 +44237,33 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700743",
+     "skillName": "",
+     "skillDesc": "Passive 1 - Switch between Stealth and non-Stealth",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700744",
+     "skillName": "",
+     "skillDesc": "DMG Reduction When Hit",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700745",
      "skillName": "",
      "skillDesc": "Stage 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700746",
+     "skillName": "",
+     "skillDesc": "Checks Stealth when acting",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700747",
+     "skillName": "",
+     "skillDesc": "Changes SPD at turn start in phase 2",
      "buttonEffect": ""
     },
     {
@@ -43283,6 +44291,174 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700753",
+     "skillName": "",
+     "skillDesc": "Enters Berserk when hit",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700754",
+     "skillName": "",
+     "skillDesc": "Stun removes Berserk",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700755",
+     "skillName": "",
+     "skillDesc": "Buff immunity at battle start - unique to self",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700756",
+     "skillName": "",
+     "skillDesc": "Pursuit on Kill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700757",
+     "skillName": "",
+     "skillDesc": "Immune to [Healing Reduction] [Confusion and Negativity] [Sever RES] [immune to Blackbeard and Doffy control] [immune to interrupts]",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700758",
+     "skillName": "",
+     "skillDesc": "Immune to [Poison, Burn, Bleed, Arc] [Magma Burn] [immune to Reflect] [Taunt] [removes Charm and Mihawk states at start] [Franky Taunt]",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700759",
+     "skillName": "",
+     "skillDesc": "[Cannot be Silhouetted, Charmed, Stunned, Knocked Away, Weakened, Corroded, Deadly Poisoned or Shattered - for major checkpoint BOSSES (immunity group)] [immune to Law's heart theft] [monster Sever RES BUFF (percentage reduction)] [control immunity (immunity factor)] [control immunity (immunity factor)] [immune to Ace and Aokiji Lv. 100 talents]",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700760",
+     "skillName": "",
+     "skillDesc": "A dispellable Shield every 5 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700761",
+     "skillName": "",
+     "skillDesc": "Heals teammates on death",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700762",
+     "skillName": "",
+     "skillDesc": "Sequential Death Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700763",
+     "skillName": "",
+     "skillDesc": "First-to-Die Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700764",
+     "skillName": "",
+     "skillDesc": "Mob Passive 1 - Attacks inflict 1-2 stacks of Bleed",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700765",
+     "skillName": "",
+     "skillDesc": "Mob Passive 2 - Attacks inflict Imprison - Dodge -50",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700766",
+     "skillName": "",
+     "skillDesc": "Mob Passive 3 - Attacks inflict Armor Break - 80%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700767",
+     "skillName": "",
+     "skillDesc": "Mob Passive 4 - Attacks inflict Weaken - ATK -50",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700768",
+     "skillName": "",
+     "skillDesc": "Mob Passive 5 - Attacks inflict 40% Slow",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700769",
+     "skillName": "",
+     "skillDesc": "Mob Passive 6 - Attacks inflict Disarm - reduces DMG dealt",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700770",
+     "skillName": "",
+     "skillDesc": "Mob Passive 7 - Attacks inflict 75% Lethal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700771",
+     "skillName": "",
+     "skillDesc": "Mob Passive 8 - Attacks inflict Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700772",
+     "skillName": "",
+     "skillDesc": "Mob Passive 9 - Attacks inflict Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700773",
+     "skillName": "",
+     "skillDesc": "Mob Passive 10 - Attacks inflict Confusion",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700774",
+     "skillName": "",
+     "skillDesc": "Fish-Man Island Hyouzou Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700775",
+     "skillName": "",
+     "skillDesc": "Mystery House",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700776",
+     "skillName": "",
+     "skillDesc": "When a teammate dies, casts Evil Drug next turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700777",
+     "skillName": "",
+     "skillDesc": "Hody Passive - Knock-Up immunity / switches AI logic for one turn / heals for 1 turn / summons mobs / mobs immune to Knock-Up",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700778",
+     "skillName": "",
+     "skillDesc": "Hody Stage Mob Passive 1 - on death, gives Hody a mark and SPD",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700779",
+     "skillName": "",
+     "skillDesc": "Hody Stage Mob Passive 2 - on death, gives all teammates a mark; at 4 stacks, summoning is forbidden",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700780",
+     "skillName": "",
+     "skillDesc": "Special-Timing Mob Summon Passive",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700781",
      "skillName": "",
      "skillDesc": "Normal Attack",
@@ -43298,6 +44474,36 @@
      "skillId": "700784",
      "skillName": "",
      "skillDesc": "Cinematic Burrow",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700785",
+     "skillName": "",
+     "skillDesc": "Enter Phase 2 Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700786",
+     "skillName": "",
+     "skillDesc": "Banished target loses HP at turn start",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700787",
+     "skillName": "",
+     "skillDesc": "When a monster dies, removes enemy Banish and own marks",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700788",
+     "skillName": "",
+     "skillDesc": "Group A Monster Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700789",
+     "skillName": "",
+     "skillDesc": "Group B Monster Passive",
      "buttonEffect": ""
     },
     {
@@ -43331,6 +44537,24 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700796",
+     "skillName": "",
+     "skillDesc": "Removes Invincibility when a teammate dies / counts hits taken / at turn start, checks hit count to enter Berserk, then clears the mark",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700797",
+     "skillName": "",
+     "skillDesc": "Enters phase 2 after more than 3 teammates die",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700798",
+     "skillName": "",
+     "skillDesc": "Ikaros - Mob Passive",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700800",
      "skillName": "",
      "skillDesc": "Normal Attack",
@@ -43346,6 +44570,30 @@
      "skillId": "700803",
      "skillName": "",
      "skillDesc": "Cinematic Dried Squid",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700804",
+     "skillName": "",
+     "skillDesc": "Ikaros Passive 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700805",
+     "skillName": "",
+     "skillDesc": "Ikaros Passive 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700806",
+     "skillName": "",
+     "skillDesc": "Ikaros Passive 3",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700807",
+     "skillName": "",
+     "skillDesc": "Ikaros Passive 4",
      "buttonEffect": ""
     },
     {
@@ -43391,9 +44639,213 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700816",
+     "skillName": "",
+     "skillDesc": "Daruma Passive 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700817",
+     "skillName": "",
+     "skillDesc": "Daruma Passive 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700818",
+     "skillName": "",
+     "skillDesc": "Daruma Passive 3",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700819",
+     "skillName": "",
+     "skillDesc": "Daruma Passive 4",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700820",
+     "skillName": "",
+     "skillDesc": "Daruma Passive 5",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700821",
+     "skillName": "",
+     "skillDesc": "Daruma Passive 6",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700823",
+     "skillName": "",
+     "skillDesc": "Secret Realm Stage - Reduce Player Healing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700824",
+     "skillName": "",
+     "skillDesc": "Secret Realm Stage - Reduce Player Healing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700825",
+     "skillName": "",
+     "skillDesc": "Secret Realm Stage - Reduce Player Healing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700826",
+     "skillName": "",
+     "skillDesc": "Basic Attack - inflicts Bleed",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700827",
+     "skillName": "",
+     "skillDesc": "Fire Breath - Fire DMG - burns 5 field tiles",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700828",
+     "skillName": "",
+     "skillDesc": "Slap - extinguishes 4 fires",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700829",
+     "skillName": "",
+     "skillDesc": "Takes at most 18% DMG per turn + HP Lock at 18%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700830",
+     "skillName": "",
+     "skillDesc": "No enemy can recover HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700831",
+     "skillName": "",
+     "skillDesc": "At turn start, Check 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700832",
+     "skillName": "",
+     "skillDesc": "At turn start, Check 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700833",
+     "skillName": "",
+     "skillDesc": "At turn start, Check 3",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700834",
+     "skillName": "",
+     "skillDesc": "Applies a position-swap fight to the player",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700835",
+     "skillName": "",
+     "skillDesc": "Inflicts Fear on enemies on hit, initially 10%, changing to 40% from turn 6",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700836",
+     "skillName": "",
+     "skillDesc": "[Immune to New World Law's external injuries]",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700837",
+     "skillName": "",
+     "skillDesc": "30% chance to inflict Parasite on hit",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700838",
+     "skillName": "",
+     "skillDesc": "After acting, removes all enemy Taunts and applies Taunt to a random enemy",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700839",
+     "skillName": "",
+     "skillDesc": "After acting, removes all enemy Taunts and applies Taunt to the enemy with the lowest HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700840",
+     "skillName": "",
+     "skillDesc": "Centaur Revive 20%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700841",
+     "skillName": "",
+     "skillDesc": "Centaur Revive 40%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700842",
+     "skillName": "",
+     "skillDesc": "Brownbeard Passive - teammates can no longer be revived after death - grants self stats at 100",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700843",
      "skillName": "",
      "skillDesc": "Normal Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700844",
+     "skillName": "",
+     "skillDesc": "Heavy Strike - 2 stacks of Bleed",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700845",
+     "skillName": "",
+     "skillDesc": "Shock Strike - chance to Stun the target and a random enemy",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700846",
+     "skillName": "",
+     "skillDesc": "PH Sword-Wielding Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700847",
+     "skillName": "",
+     "skillDesc": "PH Gun-Wielding Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700848",
+     "skillName": "",
+     "skillDesc": "G5 Sword-Wielding Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700849",
+     "skillName": "",
+     "skillDesc": "G5 Gun-Wielding Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700850",
+     "skillName": "",
+     "skillDesc": "Summon Children Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700851",
+     "skillName": "",
+     "skillDesc": "Children Passive",
      "buttonEffect": ""
     },
     {
@@ -43427,6 +44879,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700857",
+     "skillName": "",
+     "skillDesc": "Snowman 1 Passive 1 - Heals on odd turns - Dodge up on even turns - ATK up every turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700858",
+     "skillName": "",
+     "skillDesc": "Snowman 2 Passive 1 - Heals on even turns - Block up on odd turns - ATK up every turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700859",
+     "skillName": "",
+     "skillDesc": "Snowman Shared Passive - Parasite chance increases after a teammate dies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700860",
+     "skillName": "",
+     "skillDesc": "Snowman 1 Passive 2 - Chance to swap places with a teammate when casting a skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700861",
+     "skillName": "",
+     "skillDesc": "Snowman 2 Passive 2 - Chance to knock up self and teammates when casting a skill",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700864",
      "skillName": "Jitte Strike Frenzy",
      "skillDesc": "Seal",
@@ -43436,6 +44918,12 @@
      "skillId": "700865",
      "skillName": "Armament Heavy Fist",
      "skillDesc": "Armor Break",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700866",
+     "skillName": "Jet Flying Fist",
+     "skillDesc": "Deals extra 0.8 Wind DMG",
      "buttonEffect": ""
     },
     {
@@ -43457,6 +44945,312 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700870",
+     "skillName": "White Domain",
+     "skillDesc": "Guaranteed CRIT + Attribute DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700872",
+     "skillName": "Swallow Return",
+     "skillDesc": "All allies' SPD permanently +50+50, stackable, dispellable",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700873",
+     "skillName": "Fang Thrust",
+     "skillDesc": "Inflicts 0.3 Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700874",
+     "skillName": "Falling Blossoms",
+     "skillDesc": "Deals extra 0.8 Wind DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700875",
+     "skillName": "Scattered Cherry Blossoms",
+     "skillDesc": "Inflicts 0.3 Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700876",
+     "skillName": "Hazy Moon",
+     "skillDesc": "Deals extra 0.8 Wind DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700877",
+     "skillName": "Shigure Slash",
+     "skillDesc": "Inflicts 0.4 Lifesteal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700878",
+     "skillName": "Reverse Shigure Slash",
+     "skillDesc": "Guaranteed CRIT + Skill Seal + Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700879",
+     "skillName": "",
+     "skillDesc": "HP to Dodge",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700880",
+     "skillName": "",
+     "skillDesc": "Interrupts when attacked",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700881",
+     "skillName": "Tashigi 1, Smoker 2",
+     "skillDesc": "ATK up when no kill is scored",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700882",
+     "skillName": "Tashigi 1, Smoker 2",
+     "skillDesc": "Immune to the factor that prevents HP recovery from Law's Ultimate. When taking lethal DMG, recovers 1 HP and gains Last Light (Invincible, DMG taken is converted into healing) for 2 turns. Cooldown: 3 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700883",
+     "skillName": "",
+     "skillDesc": "At battle start, each gets a 100k Shield",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700884",
+     "skillName": "",
+     "skillDesc": "At turn start (except turn 1), shields self and a random teammate",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700885",
+     "skillName": "",
+     "skillDesc": "At turn end, grants ATK, DMG reduction and Shield to shielded allies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700886",
+     "skillName": "Smoker 2",
+     "skillDesc": "HP to Block",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700887",
+     "skillName": "Smoker 2",
+     "skillDesc": "Interrupts when attacked",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700888",
+     "skillName": "Tashigi 2",
+     "skillDesc": "At battle start, each gets a 100k Shield",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700889",
+     "skillName": "Tashigi 2",
+     "skillDesc": "At turn start (except turn 1), shields self and a random teammate",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700890",
+     "skillName": "Tashigi 2",
+     "skillDesc": "At turn end, grants ATK, DMG reduction and Shield to shielded allies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700891",
+     "skillName": "Caesar Standalone Passive",
+     "skillDesc": "Immune to basic attacks + immune to the first 2 skill attacks each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700892",
+     "skillName": "",
+     "skillDesc": "At battle start, at timing 100, summons 4 PH squads (gives all allies immunity to recovery prevention)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700893",
+     "skillName": "",
+     "skillDesc": "Marks a random underling each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700894",
+     "skillName": "",
+     "skillDesc": "At turn start, applies fight to the player and stacks skill marks based on the number of allied PH on the field",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700895",
+     "skillName": "",
+     "skillDesc": "When an underling dies, increases the player's skill count",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700896",
+     "skillName": "Caesar 2 Passive",
+     "skillDesc": "At turn start, applies a fightbuff linked to 1-2 mark stacks to all enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700897",
+     "skillName": "PH Passive",
+     "skillDesc": "On death, checks own marks: revive and heal - if not revived, marks Caesar - if not revived, triggers Caesar timing 100 - if not revived, triggers Caesar timing 101",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700898",
+     "skillName": "Child 1 Passive",
+     "skillDesc": "At timing 105, buffs self; at timing 104, leaves the field; at turn end, heals Caesar",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700899",
+     "skillName": "Child 2 Passive",
+     "skillDesc": "At timing 105, buffs self; at timing 104, leaves the field; at turn end, heals Caesar",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700900",
+     "skillName": "Child 3 Passive",
+     "skillDesc": "At timing 105, buffs self; at timing 104, leaves the field; at turn end, heals Caesar",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700901",
+     "skillName": "Child 4 Passive",
+     "skillDesc": "At timing 105, buffs self; at timing 104, leaves the field; at turn end, heals Caesar",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700902",
+     "skillName": "Caesar 3 Passive 1",
+     "skillDesc": "Summons 4 children every 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700903",
+     "skillName": "Caesar 3 Passive 2",
+     "skillDesc": "Immune to recovery prevention; limits the number of skills each player character can cast per turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700904",
+     "skillName": "Caesar Clown",
+     "skillDesc": "At the end of odd turns, deals 30% DMG to characters below 50% HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700905",
+     "skillName": "",
+     "skillDesc": "When attacked, gives the attacker 1 Poison mark; when attacked by an enemy above 50% HP, its ATK is reduced by 60%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700906",
+     "skillName": "",
+     "skillDesc": "At turn start, enemies lose 10% HP, plus 10% more per Poison mark",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700907",
+     "skillName": "",
+     "skillDesc": "Summons 5 PH with passives every 3 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700908",
+     "skillName": "PH Passive",
+     "skillDesc": "On death, all enemies recover 10% HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700909",
+     "skillName": "Smiley (Large)",
+     "skillDesc": "Invincible; removes Invincibility when HP is below 10%, reapplies it when above 10%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700910",
+     "skillName": "",
+     "skillDesc": "Summon timing (100): removes Invincibility, loses 30 HP, summons (triggers the monster's summon timing), reapplies Invincibility",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700911",
+     "skillName": "",
+     "skillDesc": "Immunity group - not immune to Stun",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700912",
+     "skillName": "",
+     "skillDesc": "When Stunned, enters stealth timing (104): removes Stun and goes stealthy for 1 turn - VFX",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700913",
+     "skillName": "",
+     "skillDesc": "When taking Fire DMG, fire timing (105): recovers 40% HP, immune to recovery prevention",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700914",
+     "skillName": "",
+     "skillDesc": "Check timing (101): when the mark is even, removes one small Smiley from the player's side; at 6 marks, triggers the summon timing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700915",
+     "skillName": "Smiley (Small) Player",
+     "skillDesc": "Summon timing (102): Stealth, Invincible",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700916",
+     "skillName": "",
+     "skillDesc": "Heals all enemies when attacking",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700917",
+     "skillName": "Smiley (Small) Monster",
+     "skillDesc": "Summon timing (102): immune to recovery prevention; triggers fire timing when hit by fire",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700918",
+     "skillName": "",
+     "skillDesc": "Fire timing: enemies lose HP, self loses HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700919",
+     "skillName": "",
+     "skillDesc": "On death, marks the big slime and triggers the check timing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700920",
+     "skillName": "",
+     "skillDesc": "Attacks inflict Poison and stack-based Poison DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700921",
+     "skillName": "",
+     "skillDesc": "When hit by non-single-target attacks, immune to debuffs, HP Lock at 10%",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700923",
      "skillName": "Gastanet",
      "skillDesc": "",
@@ -43466,6 +45260,12 @@
      "skillId": "700924",
      "skillName": "Blue Flame Slash",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700925",
+     "skillName": "Tashigi 1, Smoker 2",
+     "skillDesc": "Immune to the factor that prevents HP recovery from Law's Ultimate. When taking lethal DMG, recovers 1 HP and gains Last Light (Invincible, DMG taken is converted into healing) for 2 turns. Cooldown: 3 turns",
      "buttonEffect": ""
     },
     {
@@ -43484,6 +45284,12 @@
      "skillId": "700928",
      "skillName": "",
      "skillDesc": "Split",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700929",
+     "skillName": "",
+     "skillDesc": "Summon Children Passive",
      "buttonEffect": ""
     },
     {
@@ -43535,6 +45341,30 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700940",
+     "skillName": "",
+     "skillDesc": "Baby 5 Odd-Turn Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700941",
+     "skillName": "",
+     "skillDesc": "Buffalo Even-Turn Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700942",
+     "skillName": "",
+     "skillDesc": "Baby 5 Berserk",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700943",
+     "skillName": "",
+     "skillDesc": "Baby 5 - Interrupt after 3 attacks",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700944",
      "skillName": "",
      "skillDesc": "Passive 7",
@@ -43577,6 +45407,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700951",
+     "skillName": "Finger Pistol",
+     "skillDesc": "Lowest HP",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700952",
      "skillName": "Oni Bamboo",
      "skillDesc": "Heavy Strike",
@@ -43607,15 +45443,117 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700957",
+     "skillName": "Round 1",
+     "skillDesc": "Revives on first death / random AI at turn start",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700958",
+     "skillName": "Round 2",
+     "skillDesc": "Randomly enters a state at turn start",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700959",
+     "skillName": "3 Matches",
+     "skillDesc": "Each time HP drops from above 40% to below 40%, enters Defense Stance for 2 turns; whenever not in Defense Stance, it is in Attack Stance / Healing Bonus +40%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700960",
+     "skillName": "Round 4",
+     "skillDesc": "Healing Bonus +80",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700961",
      "skillName": "Round 4",
      "skillDesc": "Passive 7",
      "buttonEffect": ""
     },
     {
+     "skillId": "700962",
+     "skillName": "Match 1",
+     "skillDesc": "Invincibility, remove Invincibility",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700963",
+     "skillName": "Match 1",
+     "skillDesc": "HP Loss Timing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700964",
+     "skillName": "Match 1",
+     "skillDesc": "Trigger Timing 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700965",
+     "skillName": "Match 1",
+     "skillDesc": "Trigger Timing 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700966",
+     "skillName": "Match 1",
+     "skillDesc": "Trigger Timing 3",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700967",
+     "skillName": "Match 1",
+     "skillDesc": "Poison Gas Refresh",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700968",
+     "skillName": "Match 1",
+     "skillDesc": "Swaps position on even turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700969",
+     "skillName": "Second Match",
+     "skillDesc": "HP Lock",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700970",
+     "skillName": "Blizzard (Instant Kill)",
+     "skillDesc": "(Cinematic) Blizzard / instant kill skill",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700971",
+     "skillName": "Second Match",
+     "skillDesc": "Freeze at turn end",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700972",
+     "skillName": "Round 4",
+     "skillDesc": "Heals when hit",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700973",
      "skillName": "Blizzard (Freeze)",
      "skillDesc": "(Cinematic) Blizzard",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700974",
+     "skillName": "Round 4",
+     "skillDesc": "Casts a skill to summon mobs on turns 1 and 5",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700975",
+     "skillName": "Round 4",
+     "skillDesc": "Mob - grants ATK to the attacker on death",
      "buttonEffect": ""
     },
     {
@@ -43640,6 +45578,60 @@
      "skillId": "700979",
      "skillName": "Fire Dragon Passive 1",
      "skillDesc": "Invincibility",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700980",
+     "skillName": "Fire Dragon Passive 2",
+     "skillDesc": "HP Loss Timing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700981",
+     "skillName": "Fire Dragon Passive 3",
+     "skillDesc": "Poison Gas Refresh Rules",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700982",
+     "skillName": "Fire Dragon Passive 4",
+     "skillDesc": "Taking Fire DMG triggers a check",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700983",
+     "skillName": "Fire Dragon Passive 5",
+     "skillDesc": "Trigger Timing 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700984",
+     "skillName": "Fire Dragon Passive 6",
+     "skillDesc": "Trigger Timing 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700985",
+     "skillName": "Fire Dragon Passive 7",
+     "skillDesc": "Trigger Timing 3",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700986",
+     "skillName": "Fire Dragon Passive 8",
+     "skillDesc": "At turn start, Check 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700987",
+     "skillName": "Fire Dragon Passive 9",
+     "skillDesc": "At turn start, Check 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700988",
+     "skillName": "Fire Dragon Passive 10",
+     "skillDesc": "At turn start, Check 3",
      "buttonEffect": ""
     },
     {
@@ -43676,6 +45668,24 @@
      "skillId": "700996",
      "skillName": "Gas Jet",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700997",
+     "skillName": "Flames",
+     "skillDesc": "Apply Fire Timing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700998",
+     "skillName": "",
+     "skillDesc": "When taking Fire DMG, loses 5% own HP and all enemies lose 20% HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "700999",
+     "skillName": "",
+     "skillDesc": "All enemies' Healing Reduction decreases by 10% each turn, cumulative; after [7] turns, all enemies cannot recover HP (including revives)",
      "buttonEffect": ""
     },
     {
@@ -43757,6 +45767,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701034",
+     "skillName": "Match 3",
+     "skillDesc": "DMG reduction -20 each turn",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701035",
      "skillName": "Gas Lasso",
      "skillDesc": "",
@@ -43772,6 +45788,48 @@
      "skillId": "701037",
      "skillName": "Excitement Gas",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701038",
+     "skillName": "Boss Passive 1",
+     "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701039",
+     "skillName": "Boss Passive 2",
+     "skillDesc": "All Sever percentages decay",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701040",
+     "skillName": "Boss Passive 4",
+     "skillDesc": "Immune to Reflect, Silhouette",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701041",
+     "skillName": "Boss Passive 5",
+     "skillDesc": "Immune to Seal, Skill Seal, Charm, Parasite, Single Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701042",
+     "skillName": "Boss Passive 6",
+     "skillDesc": "Immune to hard control: Stun, Freeze, Sleep, Paralysis",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701043",
+     "skillName": "Boss Passive 7",
+     "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701044",
+     "skillName": "Boss Passive 9",
+     "skillDesc": "Immune to: Taunt, Interrupt",
      "buttonEffect": ""
     },
     {
@@ -43871,6 +45929,48 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701061",
+     "skillName": "Boss Passive 1",
+     "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701062",
+     "skillName": "Boss Passive 2",
+     "skillDesc": "All Sever percentages decay",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701063",
+     "skillName": "Boss Passive 4",
+     "skillDesc": "Immune to Reflect, Silhouette",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701064",
+     "skillName": "Boss Passive 5",
+     "skillDesc": "Immune to Seal, Skill Seal, Charm, Parasite, Single Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701065",
+     "skillName": "Boss Passive 6",
+     "skillDesc": "Immune to hard control: Stun, Freeze, Sleep, Paralysis",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701066",
+     "skillName": "Boss Passive 7",
+     "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701067",
+     "skillName": "Boss Passive 9",
+     "skillDesc": "Immune to: Taunt, Interrupt",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701068",
      "skillName": "Normal Attack",
      "skillDesc": "",
@@ -43916,6 +46016,48 @@
      "skillId": "701075",
      "skillName": "Weak Element",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701076",
+     "skillName": "Boss Passive 1",
+     "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701077",
+     "skillName": "Boss Passive 2",
+     "skillDesc": "All Sever percentages decay",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701078",
+     "skillName": "Boss Passive 4",
+     "skillDesc": "Immune to Reflect, Silhouette",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701079",
+     "skillName": "Boss Passive 5",
+     "skillDesc": "Immune to Seal, Skill Seal, Charm, Parasite, Single Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701080",
+     "skillName": "Boss Passive 6",
+     "skillDesc": "Immune to hard control: Stun, Freeze, Sleep, Paralysis",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701081",
+     "skillName": "Boss Passive 7",
+     "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701082",
+     "skillName": "Boss Passive 9",
+     "skillDesc": "Immune to: Taunt, Interrupt",
      "buttonEffect": ""
     },
     {
@@ -43967,6 +46109,42 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701091",
+     "skillName": "Boss Passive 1",
+     "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701092",
+     "skillName": "Boss Passive 2",
+     "skillDesc": "All Sever percentages decay",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701093",
+     "skillName": "Boss Passive 4",
+     "skillDesc": "Immune to Reflect, Silhouette",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701094",
+     "skillName": "Boss Passive 5",
+     "skillDesc": "Immune to Seal, Skill Seal, Charm, Parasite, Single Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701095",
+     "skillName": "Boss Passive 7",
+     "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701096",
+     "skillName": "Boss Passive 9",
+     "skillDesc": "Immune to: Taunt, Interrupt",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701098",
      "skillName": "Basic Attack",
      "skillDesc": "",
@@ -43988,6 +46166,54 @@
      "skillId": "701101",
      "skillName": "Ultimate Vulnerability",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701102",
+     "skillName": "Boss Passive 1",
+     "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701103",
+     "skillName": "Boss Passive 2",
+     "skillDesc": "All Sever percentages decay",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701104",
+     "skillName": "Boss Passive 4",
+     "skillDesc": "Immune to Reflect, Silhouette",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701105",
+     "skillName": "Boss Passive 5",
+     "skillDesc": "Immune to Seal, Skill Seal, Charm, Parasite, Single Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701106",
+     "skillName": "Boss Passive 6",
+     "skillDesc": "Immune to hard control: Stun, Freeze, Sleep, Paralysis",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701107",
+     "skillName": "Boss Passive 7",
+     "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701108",
+     "skillName": "Boss Passive 9",
+     "skillDesc": "Immune to: Taunt, Interrupt",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701109",
+     "skillName": "Normal Attack",
+     "skillDesc": "(Basic attack of the first stage!!!!!!)",
      "buttonEffect": ""
     },
     {
@@ -44045,6 +46271,54 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701123",
+     "skillName": "Boss Passive 1",
+     "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701124",
+     "skillName": "Boss Passive 2",
+     "skillDesc": "All Sever percentages decay",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701125",
+     "skillName": "Boss Passive 4",
+     "skillDesc": "Immune to Reflect, Silhouette",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701126",
+     "skillName": "Boss Passive 5",
+     "skillDesc": "Immune to Seal, Skill Seal, Charm, Parasite, Single Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701127",
+     "skillName": "Boss Passive 6",
+     "skillDesc": "Immune to hard control: Stun, Freeze, Sleep, Paralysis",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701128",
+     "skillName": "Boss Passive 7",
+     "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701129",
+     "skillName": "Boss Passive 9",
+     "skillDesc": "Immune to: Taunt, Interrupt",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701130",
+     "skillName": "Boss Passive 10",
+     "skillDesc": "Immune to recovery prevention and Healing Reduction",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701131",
      "skillName": "Basic Claw Attack",
      "skillDesc": "",
@@ -44075,9 +46349,93 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701136",
+     "skillName": "Boss Passive 1",
+     "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701137",
+     "skillName": "Boss Passive 2",
+     "skillDesc": "All Sever percentages decay",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701138",
+     "skillName": "Boss Passive 4",
+     "skillDesc": "Immune to Reflect, Silhouette",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701139",
+     "skillName": "Boss Passive 5",
+     "skillDesc": "Immune to Seal, Skill Seal, Charm, Parasite, Single Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701140",
+     "skillName": "Boss Passive 6",
+     "skillDesc": "Immune to hard control: Stun, Freeze, Sleep, Paralysis",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701141",
+     "skillName": "Boss Passive 7",
+     "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701142",
+     "skillName": "Boss Passive 9",
+     "skillDesc": "Immune to: Taunt, Interrupt",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701143",
      "skillName": "Basic Attack (Armed)",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701145",
+     "skillName": "Boss Passive 1",
+     "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701146",
+     "skillName": "Boss Passive 2",
+     "skillDesc": "All Sever percentages decay",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701147",
+     "skillName": "Boss Passive 4",
+     "skillDesc": "Immune to Reflect, Silhouette",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701148",
+     "skillName": "Boss Passive 5",
+     "skillDesc": "Immune to Seal, Skill Seal, Charm, Parasite, Single Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701149",
+     "skillName": "Boss Passive 6",
+     "skillDesc": "Immune to hard control: Stun, Freeze, Sleep, Paralysis",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701150",
+     "skillName": "Boss Passive 7",
+     "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701151",
+     "skillName": "Boss Passive 9",
+     "skillDesc": "Immune to: Taunt, Interrupt",
      "buttonEffect": ""
     },
     {
@@ -44135,6 +46493,96 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701162",
+     "skillName": "",
+     "skillDesc": "Regular Contestant (Sword)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701163",
+     "skillName": "",
+     "skillDesc": "Regular Contestant (Chain)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701164",
+     "skillName": "",
+     "skillDesc": "Regular Contestant (Axe)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701165",
+     "skillName": "",
+     "skillDesc": "Basic Attack + 2 stacks of Bleed, 60% chance to knock up self, and again if in the first row",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701166",
+     "skillName": "",
+     "skillDesc": "Skill 1 + 2 stacks of Bleed",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701167",
+     "skillName": "",
+     "skillDesc": "Skill 2 + own ATK +200%, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701168",
+     "skillName": "",
+     "skillDesc": "Skill 3 + 2 stacks of Bleed; 5 stacks of Bleed when HP is below 50%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701169",
+     "skillName": "Summon",
+     "skillDesc": "At turn end, randomly summons 2 of three mob types",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701170",
+     "skillName": "Arena Ecosystem",
+     "skillDesc": "For every [10%] HP the player loses, Dodge -[10%]",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701171",
+     "skillName": "Dodge Suppression",
+     "skillDesc": "Attacks on targets with lower Dodge than self inflict [15%] Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701172",
+     "skillName": "AI Change",
+     "skillDesc": "When allied deaths this turn are 5 or more (each player death counts as 3), changes own AI logic to: 2,3",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701173",
+     "skillName": "Mob - Survival Mechanic",
+     "skillDesc": "When hit, each ally grants self 30% all RES",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701174",
+     "skillName": "Mob - Attack Stacking",
+     "skillDesc": "Own ATK +10% for each allied character that dies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701175",
+     "skillName": "Mob - AI Change",
+     "skillDesc": "Changes own AI logic to: 2,3",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701176",
+     "skillName": "Mob - Battle Environment",
+     "skillDesc": "At turn end, randomly loses 0%-20% HP",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701177",
      "skillName": "",
      "skillDesc": "Normal Attack",
@@ -44159,15 +46607,99 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701183",
+     "skillName": "",
+     "skillDesc": "HP Lock at 1% for the first 5 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701184",
+     "skillName": "",
+     "skillDesc": "From the sixth hit each turn, each hit grants +200% ATK for this turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701185",
+     "skillName": "",
+     "skillDesc": "When enemies number 3 or fewer (excluding summons), Bull gains +1000% all DMG reduction and DEF, and basic attacks gain the elimination mechanic",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701186",
+     "skillName": "",
+     "skillDesc": "From turn 6, all players can no longer recover HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701188",
+     "skillName": "Gravity Control",
+     "skillDesc": "Accuracy -60% when casting this skill; 30% chance on hit to Stun the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701189",
+     "skillName": "Gravity Blade",
+     "skillDesc": "On hit, reduces the target's SPD by [200] (stackable), then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701190",
+     "skillName": "Gravity Blade",
+     "skillDesc": "On hit, reduces the target's SPD by [300] (stackable), then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701191",
+     "skillName": "Gravity Blade: Raging Tiger",
+     "skillDesc": "Guaranteed hit; each Slow stack on the target deals 10% Max HP DMG to it, up to 5 stacks, clears all Slows, then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701192",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "Removes characters with SPD below 100, clears all Slows and own mark C",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701193",
      "skillName": "Core Elimination Mechanic",
      "skillDesc": "Hit Mechanic",
      "buttonEffect": ""
     },
     {
+     "skillId": "701194",
+     "skillName": "Core Elimination Mechanic",
+     "skillDesc": "AI Logic Smart Switch 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701195",
+     "skillName": "(1.2) Benchmark of Speed",
+     "skillDesc": "At turn start, own SPD +100 for this turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701196",
+     "skillName": "Survival Mechanic",
+     "skillDesc": "All DMG reduction +100%",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701197",
      "skillName": "(1) Survival Mechanic",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701198",
+     "skillName": "(2.3) Yours Is a Fake Fujitora",
+     "skillDesc": "At the start of the first turn, removes Soul Jade cost reduction buffs from player characters and applies a +1 Soul Jade cost buff to the player; it is not a debuff and cannot be dispelled",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701199",
+     "skillName": "(3) Lively Fujitora",
+     "skillDesc": "At action end, SPD fluctuates randomly (-500, -300, -100, 100, 300, 500)",
      "buttonEffect": ""
     },
     {
@@ -44195,6 +46727,42 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701205",
+     "skillName": "",
+     "skillDesc": "Clone 1.2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701206",
+     "skillName": "Overheat Thread",
+     "skillDesc": "Clone 1.2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701207",
+     "skillName": "Cutting Thread",
+     "skillDesc": "Clone 1.2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701208",
+     "skillName": "Bullet String",
+     "skillDesc": "Clone 3",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701209",
+     "skillName": "Real Body (1st/2nd)",
+     "skillDesc": "Summons Clones No. 1 and 2, and buffs No. 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701210",
+     "skillName": "Real Body",
+     "skillDesc": "DMG to Healing",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701211",
      "skillName": "Doffy Clone Passive Immunity 1",
      "skillDesc": "",
@@ -44204,6 +46772,42 @@
      "skillId": "701212",
      "skillName": "Doffy Clone Passive Immunity 2",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701213",
+     "skillName": "Clone No. 1",
+     "skillDesc": "Removes 5 debuff stacks; on death, Knock-Up plus revive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701214",
+     "skillName": "Clone No. 2",
+     "skillDesc": "Makes the real body apply DMG-to-HP to itself",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701215",
+     "skillName": "Real Body - White String Shield",
+     "skillDesc": "String White Shield",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701216",
+     "skillName": "Real Body",
+     "skillDesc": "DMG Reduction Fluctuation",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701217",
+     "skillName": "Real Body",
+     "skillDesc": "Not immune to Stun",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701218",
+     "skillName": "Real Body",
+     "skillDesc": "Pulls whoever Stuns me to the first row",
      "buttonEffect": ""
     },
     {
@@ -44225,9 +46829,27 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701222",
+     "skillName": "Doffy Real Body (3rd)",
+     "skillDesc": "Summon Fighting Fish",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701225",
      "skillName": "Fighting Fish Passive",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701226",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "One slash for 99999999",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701227",
+     "skillName": "Mob Passive",
+     "skillDesc": "Summon Fujitora",
      "buttonEffect": ""
     },
     {
@@ -44279,6 +46901,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701236",
+     "skillName": "Survival Mechanic",
+     "skillDesc": "Odd/Even Turn DMG Reduction",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701237",
      "skillName": "",
      "skillDesc": "Normal Attack",
@@ -44288,6 +46916,12 @@
      "skillId": "701238",
      "skillName": "",
      "skillDesc": "Skill 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701239",
+     "skillName": "",
+     "skillDesc": "Healing Bonus, decreasing DMG reduction, HP recovery",
      "buttonEffect": ""
     },
     {
@@ -44327,9 +46961,33 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701247",
+     "skillName": "Is That a Scratch?/4 Soul Jade per Turn",
+     "skillDesc": "After Blocking [8] skills, next AI changes to: 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701248",
+     "skillName": "Now's Your Chance to Hit Me",
+     "skillDesc": "Randomly once every 3-4 turns, reduces own Block Rate by 200%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701249",
+     "skillName": "",
+     "skillDesc": "I'll Save You / 60% chance on hit to remove 1 Soul Jade from the target",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701250",
      "skillName": "Dodge Mechanic",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701251",
+     "skillName": "",
+     "skillDesc": "Monster Group 9029 Basic Attack",
      "buttonEffect": ""
     },
     {
@@ -44405,6 +47063,90 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701285",
+     "skillName": "Gravity Control",
+     "skillDesc": "75% Lethal for 2 turns, dispellable",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701286",
+     "skillName": "Giant Meteor",
+     "skillDesc": "2 stacks of Burn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701287",
+     "skillName": "Gravity Storm",
+     "skillDesc": "10% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701288",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "Removes characters below 20% HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701289",
+     "skillName": "Can't Keep Moving Forever (1.2)",
+     "skillDesc": "The player gains 15 Soul Jade at the start of each turn. If a player character cast a skill this turn, its skill Soul Jade cost +1 next turn (stackable); if no skill was cast, the cost resets next turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701290",
+     "skillName": "Roadblock Mode",
+     "skillDesc": "Removes Roadblock Mode below 65% HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701291",
+     "skillName": "Clear Mode",
+     "skillDesc": "Switches AI and gains ATK, DMG Bonus, CRIT and CRIT DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701292",
+     "skillName": "Go Easy Mode",
+     "skillDesc": "DMG taken and CRIT DMG taken increase; Shield value increases next time",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701293",
+     "skillName": "Gravity Control",
+     "skillDesc": "100% Lethal for 2 turns, cannot be dispelled",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701294",
+     "skillName": "Giant Meteor",
+     "skillDesc": "2 stacks of Burn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701295",
+     "skillName": "Gravity Storm",
+     "skillDesc": "15% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701296",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "Removes characters below 35% HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701297",
+     "skillName": "Clear Mode",
+     "skillDesc": "Switches AI and gains ATK, DMG Bonus, CRIT and CRIT DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701298",
+     "skillName": "Go Easy Mode",
+     "skillDesc": "CRIT DMG taken increases; Shield value increases next time",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701299",
      "skillName": "Normal Attack",
      "skillDesc": "Normal Attack",
@@ -44435,9 +47177,39 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701304",
+     "skillName": "Summon Dolls",
+     "skillDesc": "Summon 2 Toys",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701305",
+     "skillName": "Add Attributes to Sugar",
+     "skillDesc": "Fire DMG 0.5",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701306",
+     "skillName": "Beloved Doll",
+     "skillDesc": "Switches AI logic when there are no toys",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701307",
+     "skillName": "Banished Target Reflects DMG When Hit",
+     "skillDesc": "When a toy is hit, the Banished one loses HP",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701308",
      "skillName": "Stun Immunity",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701309",
+     "skillName": "Remove Banishment",
+     "skillDesc": "When self is Stunned, removes the target's Banish",
      "buttonEffect": ""
     },
     {
@@ -44450,6 +47222,36 @@
      "skillId": "701311",
      "skillName": "Sticky Meteor",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701312",
+     "skillName": "Sticky Chain",
+     "skillDesc": "Buffs 3 random characters",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701313",
+     "skillName": "Sticky Cannon",
+     "skillDesc": "Adds buffs, adds Fire DMG, clears buffs",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701314",
+     "skillName": "",
+     "skillDesc": "Applies fightbuff to all enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701315",
+     "skillName": "Sticky Protection",
+     "skillDesc": "Invincible below 50% HP; applies 1 stack of Snot to all enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701316",
+     "skillName": "",
+     "skillDesc": "Attacks on characters with Snot deal extra Fire DMG",
      "buttonEffect": ""
     },
     {
@@ -44477,9 +47279,33 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701321",
+     "skillName": "Summon Dolls",
+     "skillDesc": "Summons 2 toys; all skills deal an extra 50% True DMG",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701322",
      "skillName": "Stun Immunity",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701323",
+     "skillName": "Remove Banishment",
+     "skillDesc": "When self is Stunned, removes the target's Banish",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701324",
+     "skillName": "It's Over This Time",
+     "skillDesc": "On Trebol's death: HP loss, SPD up, AI change",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701325",
+     "skillName": "Reflect DMG When Hit",
+     "skillDesc": "When a toy is hit, the Banished one loses HP",
      "buttonEffect": ""
     },
     {
@@ -44492,6 +47318,36 @@
      "skillId": "701327",
      "skillName": "Sticky Meteor",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701328",
+     "skillName": "Sticky Chain",
+     "skillDesc": "Buffs 3 random characters",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701329",
+     "skillName": "Sticky Cannon",
+     "skillDesc": "Adds buffs, adds Fire DMG, clears buffs",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701330",
+     "skillName": "",
+     "skillDesc": "Applies fightbuff to all enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701331",
+     "skillName": "Sticky Protection",
+     "skillDesc": "Invincible below 50% HP; applies 1 stack of Snot to all enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701332",
+     "skillName": "Don't Touch Her",
+     "skillDesc": "Blocks DMG for the teammate one tile behind",
      "buttonEffect": ""
     },
     {
@@ -44519,9 +47375,33 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701337",
+     "skillName": "Summon Dolls",
+     "skillDesc": "Summons 2 toys; all skills deal an extra 50% True DMG",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701338",
      "skillName": "Stun Immunity",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701339",
+     "skillName": "Remove Banishment",
+     "skillDesc": "When self is Stunned, removes the target's Banish",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701340",
+     "skillName": "It's Over This Time",
+     "skillDesc": "On Trebol's death: HP loss, SPD up, AI change",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701341",
+     "skillName": "Reflect DMG When Hit",
+     "skillDesc": "When a toy is hit, the Banished one loses HP",
      "buttonEffect": ""
     },
     {
@@ -44537,6 +47417,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701344",
+     "skillName": "Sticky Chain",
+     "skillDesc": "Buffs 3 random characters",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701345",
+     "skillName": "Sticky Cannon",
+     "skillDesc": "Adds buffs, adds Fire DMG, clears buffs",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701346",
+     "skillName": "",
+     "skillDesc": "Applies fightbuff to all enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701347",
+     "skillName": "Sticky Protection",
+     "skillDesc": "Invincible below 50% HP; applies 1 stack of Snot to all enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701348",
+     "skillName": "Don't Touch Her",
+     "skillDesc": "Blocks DMG for the teammate one tile behind",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701349",
      "skillName": "Normal Attack",
      "skillDesc": "Normal Attack",
@@ -44549,6 +47459,30 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701351",
+     "skillName": "Half-Moon Funeral",
+     "skillDesc": "Cannot Dodge, Block or reduce DMG; guaranteed CRIT, ATK +50%, 40% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701352",
+     "skillName": "Lock On",
+     "skillDesc": "30% chance to block this DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701353",
+     "skillName": "Adaptation Flag",
+     "skillDesc": "AI Change",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701354",
+     "skillName": "Lethal Counter",
+     "skillDesc": "Invincibility, AI Change",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701355",
      "skillName": "Normal Attack",
      "skillDesc": "Normal Attack",
@@ -44558,6 +47492,30 @@
      "skillId": "701356",
      "skillName": "Snake Sword",
      "skillDesc": "Snake Sword",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701357",
+     "skillName": "Half-Moon Funeral",
+     "skillDesc": "Cannot Dodge, Block or reduce DMG; guaranteed CRIT, ATK +50%, 40% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701358",
+     "skillName": "Lock On",
+     "skillDesc": "30% chance to block this DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701359",
+     "skillName": "Adaptation Flag",
+     "skillDesc": "AI Change",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701360",
+     "skillName": "Lethal Counter",
+     "skillDesc": "Invincibility, AI Change",
      "buttonEffect": ""
     },
     {
@@ -44588,6 +47546,12 @@
      "skillId": "701405",
      "skillName": "",
      "skillDesc": "Skill 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701407",
+     "skillName": "Tough Guy",
+     "skillDesc": "Immune to basic attacks / only takes skill DMG from the first attacker",
      "buttonEffect": ""
     },
     {
@@ -44651,6 +47615,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701422",
+     "skillName": "Cross Slash",
+     "skillDesc": "Single Target",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701423",
+     "skillName": "",
+     "skillDesc": "HP Recovery Taunt && Shield && DMG Reduction",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701424",
      "skillName": "Wild Blade Slash",
      "skillDesc": "",
@@ -44669,6 +47645,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701427",
+     "skillName": "Shield Break Passive",
+     "skillDesc": "Applies fightbuff to Marines",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701430",
      "skillName": "",
      "skillDesc": "Normal Attack",
@@ -44678,6 +47660,24 @@
      "skillId": "701431",
      "skillName": "",
      "skillDesc": "Skill 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701433",
+     "skillName": "Tough Guy",
+     "skillDesc": "Immune to basic attacks / only takes skill DMG from the first attacker",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701434",
+     "skillName": "",
+     "skillDesc": "Revive and heal, ATK-up mark, self Paralysis, interrupt",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701435",
+     "skillName": "",
+     "skillDesc": "Spread, Lethal Strike, Heal",
      "buttonEffect": ""
     },
     {
@@ -44693,9 +47693,39 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701439",
+     "skillName": "Tough Guy",
+     "skillDesc": "Immune to basic attacks / only takes skill DMG from the first attacker",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701440",
+     "skillName": "",
+     "skillDesc": "Revive and heal, ATK-up mark, self Paralysis, interrupt",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701441",
+     "skillName": "",
+     "skillDesc": "Spread, Lethal Strike, Heal, Debuff Immunity",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701443",
      "skillName": "Cross Slash",
      "skillDesc": "All Targets",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701444",
+     "skillName": "Cross Slash",
+     "skillDesc": "Single Target",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701445",
+     "skillName": "",
+     "skillDesc": "HP Recovery Taunt && Shield && DMG Reduction",
      "buttonEffect": ""
     },
     {
@@ -44708,6 +47738,12 @@
      "skillId": "701447",
      "skillName": "Rising Slash",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701448",
+     "skillName": "Shield Break Passive",
+     "skillDesc": "Applies fightbuff to Marines",
      "buttonEffect": ""
     },
     {
@@ -44732,6 +47768,12 @@
      "skillId": "701452",
      "skillName": "",
      "skillDesc": "Skill 3",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701455",
+     "skillName": "",
+     "skillDesc": "Doffy Underling Passive",
      "buttonEffect": ""
     },
     {
@@ -44795,9 +47837,93 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701466",
+     "skillName": "",
+     "skillDesc": "Horizontal Slash, Knock-Up",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701467",
+     "skillName": "",
+     "skillDesc": "Vertical Cleave, Sever",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701468",
      "skillName": "",
      "skillDesc": "Normal Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701469",
+     "skillName": "",
+     "skillDesc": "Heavy Punch, Banish",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701470",
+     "skillName": "",
+     "skillDesc": "Ground Smash",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701471",
+     "skillName": "",
+     "skillDesc": "Summons stones at the start",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701472",
+     "skillName": "",
+     "skillDesc": "Immune to everything; heals, interrupts, marks, switches model skills, deals extra True DMG, gains Tenacity, takes more CRIT DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701473",
+     "skillName": "",
+     "skillDesc": "Block Stone Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701474",
+     "skillName": "",
+     "skillDesc": "Dodge Stone Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701475",
+     "skillName": "",
+     "skillDesc": "AI change, ATK up - Pica",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701476",
+     "skillName": "",
+     "skillDesc": "Summons stones at the start",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701477",
+     "skillName": "",
+     "skillDesc": "Immune to everything; heals, interrupts, marks, switches model skills, deals extra True DMG, gains Tenacity, takes more CRIT DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701478",
+     "skillName": "",
+     "skillDesc": "Block Stone Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701479",
+     "skillName": "",
+     "skillDesc": "Dodge Stone Passive",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701480",
+     "skillName": "",
+     "skillDesc": "Law Cannot Move",
      "buttonEffect": ""
     },
     {
@@ -44813,6 +47939,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701485",
+     "skillName": "",
+     "skillDesc": "+300 Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701486",
+     "skillName": "",
+     "skillDesc": "+50% Shield",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701488",
+     "skillName": "Bullet String",
+     "skillDesc": "ATK +100% when attacking",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701489",
+     "skillName": "Overheat Thread",
+     "skillDesc": "Target ATK -80%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701490",
+     "skillName": "Cutting Thread",
+     "skillDesc": "40% Sever",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701491",
      "skillName": "Parasite String",
      "skillDesc": "",
@@ -44822,6 +47978,24 @@
      "skillId": "701492",
      "skillName": "Shadow Knight Thread",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701493",
+     "skillName": "Invincible-When-Hit Mechanic",
+     "skillDesc": "Invincible when hit if more than 1 ally remains",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701494",
+     "skillName": "Red Circle",
+     "skillDesc": "When hit, the red circle summons a clone",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701495",
+     "skillName": "Doffy 1 - Turns 1-6 Red Circle",
+     "skillDesc": "Red Circle - random AI when summoned plus 1 turn without moving",
      "buttonEffect": ""
     },
     {
@@ -44840,6 +48014,42 @@
      "skillId": "701498",
      "skillName": "Doffy 3 - Red/Yellow Circle Cycle",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701499",
+     "skillName": "Doffy 4.5",
+     "skillDesc": "Applies headcount marks based on the number of characters",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701500",
+     "skillName": "Doffy 4.5",
+     "skillDesc": "Act Again",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701501",
+     "skillName": "Cutting Thread",
+     "skillDesc": "100% Lethal for 3 turns, stackable, dispellable",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701502",
+     "skillName": "Parasite String",
+     "skillDesc": "Applies Parasite to a random target when attacking",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701503",
+     "skillName": "",
+     "skillDesc": "Timing 118, death timing",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701504",
+     "skillName": "Trebol Alone",
+     "skillDesc": "At battle start, the enemy's middle column catches fire; at turn end, targets standing on the fire take heavy Fire DMG",
      "buttonEffect": ""
     },
     {
@@ -44885,15 +48095,171 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701514",
+     "skillName": "Shield",
+     "skillDesc": "When casting <color=#d14e0d>Barrier: Bull Charge</color>, gains a <color=#d14e0d>Shield</color> of <color=#d14e0d>{buffper1}%</color> Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701515",
+     "skillName": "Imprisonment",
+     "skillDesc": "When casting <color=#d14e0d>Barrier Ball</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>Imprison</color> the target, making the first skill it casts on its next action <color=#d14e0d>deal no damage and apply no debuffs</color>, for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701516",
+     "skillName": "Enhanced Barrier: Solid",
+     "skillDesc": "After casting <color=#d14e0d>Barrier: Dead End</color>, there is a <color=#d14e0d>{buffodds}%</color> chance that characters protected by the <color=#d14e0d>Barrier</color> have their chance to <color=#d14e0d>be immune to and reflect</color> enemy debuffs <color=#d14e0d>raised to 50%</color>, and their chance to just <color=#d14e0d>be immune to</color> debuffs <color=#d14e0d>raised to 100%</color>, until <color=#d14e0d>Bartolomeo's next action</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701517",
+     "skillName": "Enhanced Barrier: Impact",
+     "skillDesc": "When casting <color=#d14e0d>Shield Impact</color>, <color=#d14e0d>DMG Bonus</color> +<color=#d14e0d>{buffper1}%</color>, and deals <color=#d14e0d>damage equal to own Shield value</color> to all enemies, not exceeding <color=#d14e0d>50% of Bartolomeo's Max HP</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701518",
+     "skillName": "Shield Protection",
+     "skillDesc": "When casting <color=#d14e0d>Barri-Barri Pistol</color>, allied <color=#d14e0d>characters protected by the Barrier</color> gain a <color=#d14e0d>Shield</color> of <color=#d14e0d>{buffper1}%</color> Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701519",
+     "skillName": "Enhanced Barrier: Reflect",
+     "skillDesc": "When casting <color=#d14e0d>Barri-Barri Pistol</color>, the Barrier's <color=#d14e0d>damage reflection</color> increases by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701520",
+     "skillName": "Shield Rebound",
+     "skillDesc": "At battle start, characters protected by the <color=#d14e0d>Barrier</color> gain an extra <color=#d14e0d>{buffper1}%</color> HP <color=#d14e0d>Shield</color>, reflect <color=#d14e0d>{buffper2}%</color> of skill damage when hit, and are <color=#d14e0d>immune to CRIT Rate and debuffs from enemy skills</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701521",
+     "skillName": "Absolute Defense",
+     "skillDesc": "While on the field, there is a <color=#d14e0d>{buffodds}%</color> chance to create a <color=#d14e0d>Barrier</color> for <color=#d14e0d>self and the 2 allied front-row characters</color>, increasing <color=#d14e0d>all DMG reduction, DEF and Block</color> by <color=#d14e0d>{buffper1}%</color>. The <color=#d14e0d>Barrier</color> disappears when Bartolomeo dies.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701522",
+     "skillName": "Solid Barrier",
+     "skillDesc": "When characters protected by the <color=#d14e0d>Barrier</color> are hit, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>be immune to and reflect</color> enemy debuffs. Bartolomeo and Straw Hat Crew members gain an extra <color=#d14e0d>{buffper1}%</color> from the Barrier's <color=#d14e0d>stat bonuses and damage reflection</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701523",
+     "skillName": "Deterrence Zone",
+     "skillDesc": "After battle starts, <color=#d14e0d>ATK, DEF and SPD</color> +<color=#d14e0d>{buffper2}%</color>, <color=#d14e0d>Max HP, DMG Bonus and all DMG reduction</color> +<color=#d14e0d>{buffper3}%</color>, and skill attacks have a <color=#d14e0d>{buffodds}%</color> chance to deal extra <color=#d14e0d>True Damage</color> based on the skill's range.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701524",
+     "skillName": "Barrier Guard",
+     "skillDesc": "At turn start, there is a <color=#d14e0d>{buffodds}%</color> chance to apply a <color=#d14e0d>Barrier Ball</color> to <color=#d14e0d>the 2 allied back-row characters</color>, making them immune to the next <color=#d14e0d>damage from an enemy skill</color>; when the Barrier Ball takes effect, it <color=#d14e0d>removes and grants immunity to control effects</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701525",
+     "skillName": "Step Forward",
+     "skillDesc": "At turn start, gains an extra <color=#d14e0d>3 Soul Jade</color> and <color=#d14e0d>20 Rage</color>. When a <color=#d14e0d>Shield applied</color> by Bartolomeo disappears, deals True Damage equal to <color=#d14e0d>{buffper1}%</color> of ATK to all enemies.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701529",
+     "skillName": "Powerful Compression",
+     "skillDesc": "Reduces the target's Max HP by 60% / 50000 HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701530",
+     "skillName": "Powerful Compression",
+     "skillDesc": "Reduces the target's Max HP by 60% / 50000 HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701531",
+     "skillName": "Powerful Compression",
+     "skillDesc": "Reduces the target's Max HP by 60% / 50000 HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701532",
+     "skillName": "",
+     "skillDesc": "Summon Doffy",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701533",
+     "skillName": "",
+     "skillDesc": "Summon Doffy",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701534",
+     "skillName": "",
+     "skillDesc": "Enter Fury",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701535",
+     "skillName": "Powerful Compression",
+     "skillDesc": "Reduces the target's Max HP by 60% / 50000 HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701536",
+     "skillName": "",
+     "skillDesc": "Lifesteal and Pierce Up",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701537",
+     "skillName": "",
+     "skillDesc": "After every 3 skill attacks taken, forcibly interrupts the target's action and gains one extra action",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701538",
      "skillName": "",
      "skillDesc": "Normal Attack",
      "buttonEffect": ""
     },
     {
+     "skillId": "701539",
+     "skillName": "Sticky Wave",
+     "skillDesc": "3 Targets - Stick",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701540",
+     "skillName": "Sticky Meteor",
+     "skillDesc": "Single Target - Displace",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701541",
      "skillName": "Sticky Cannon",
      "skillDesc": "Sticky Cannon",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701543",
+     "skillName": "Bullet String",
+     "skillDesc": "ATK +2 million",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701544",
+     "skillName": "Bullet String",
+     "skillDesc": "DMG dealt is converted into Snot's HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701545",
+     "skillName": "Bullet String",
+     "skillDesc": "Target ATK +200% until the end of battle, up to 5 stacks",
      "buttonEffect": ""
     },
     {
@@ -44921,6 +48287,42 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701551",
+     "skillName": "Sickle Girl",
+     "skillDesc": "Player 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701552",
+     "skillName": "Pistol Girl",
+     "skillDesc": "Player 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701553",
+     "skillName": "Missile Girl",
+     "skillDesc": "Monster 1",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701554",
+     "skillName": "Missile Girl",
+     "skillDesc": "Monster 2",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701555",
+     "skillName": "2 Actions on First Turn",
+     "skillDesc": "2 Actions + Summon",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701556",
+     "skillName": "Summon Passive",
+     "skillDesc": "ATK Up + Attack Mark",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701557",
      "skillName": "Minion Passive",
      "skillDesc": "",
@@ -44939,6 +48341,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701572",
+     "skillName": "Half-Moon Funeral",
+     "skillDesc": "Cannot Dodge, Block or reduce DMG; guaranteed CRIT, ATK +50%, 45% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701573",
+     "skillName": "Death Stardust",
+     "skillDesc": "Marks self, applies fightbuff to enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701574",
+     "skillName": "Lock On",
+     "skillDesc": "50% Block chance during Stardust",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701575",
+     "skillName": "Crack Mode",
+     "skillDesc": "Clear Stardust, clear fight",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701576",
+     "skillName": "Execute Mode",
+     "skillDesc": "AI Change",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701577",
      "skillName": "Normal Attack",
      "skillDesc": "Normal Attack",
@@ -44951,6 +48383,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701579",
+     "skillName": "Half-Moon Funeral",
+     "skillDesc": "Cannot Dodge, Block or reduce DMG; guaranteed CRIT, ATK +50%, 45% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701580",
+     "skillName": "Death Stardust",
+     "skillDesc": "Marks self, applies fightbuff to enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701581",
+     "skillName": "Lock On",
+     "skillDesc": "50% Block chance during Stardust",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701582",
+     "skillName": "Crack Mode",
+     "skillDesc": "Clear Stardust, clear fight",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701583",
+     "skillName": "Execute Mode",
+     "skillDesc": "AI Change",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701584",
      "skillName": "Normal Attack",
      "skillDesc": "Normal Attack",
@@ -44960,6 +48422,42 @@
      "skillId": "701585",
      "skillName": "Snake Sword",
      "skillDesc": "Snake Sword",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701586",
+     "skillName": "Half-Moon Funeral",
+     "skillDesc": "Cannot Dodge, Block or reduce DMG; guaranteed CRIT, ATK +50%, 45% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701587",
+     "skillName": "Death Stardust",
+     "skillDesc": "Marks self, applies fightbuff to enemies",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701588",
+     "skillName": "Lock On",
+     "skillDesc": "50% Block chance during Stardust",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701589",
+     "skillName": "Crack Mode",
+     "skillDesc": "Clear Stardust, clear fight",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701590",
+     "skillName": "Execute Mode",
+     "skillDesc": "AI Change",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701591",
+     "skillName": "Lethal Counter",
+     "skillDesc": "Invincibility, AI Change",
      "buttonEffect": ""
     },
     {
@@ -44987,6 +48485,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701596",
+     "skillName": "Explosion",
+     "skillDesc": "Big Explosion, Small Explosion",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701597",
      "skillName": "1234 Check",
      "skillDesc": "",
@@ -45008,6 +48512,18 @@
      "skillId": "701600",
      "skillName": "Change AI",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701601",
+     "skillName": "",
+     "skillDesc": "Head Clamp Basic Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701602",
+     "skillName": "",
+     "skillDesc": "Shared DMG, Reflect, Heal on Death",
      "buttonEffect": ""
     },
     {
@@ -45035,6 +48551,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701607",
+     "skillName": "Explosion",
+     "skillDesc": "Big Explosion, Small Explosion",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701608",
      "skillName": "1234 Check",
      "skillDesc": "",
@@ -45050,6 +48572,12 @@
      "skillId": "701610",
      "skillName": "9101112 Check",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701611",
+     "skillName": "Unstable Bomb",
+     "skillDesc": "Apply VFX, trigger self-destruct",
      "buttonEffect": ""
     },
     {
@@ -45098,6 +48626,12 @@
      "skillId": "701619",
      "skillName": "Hit Mechanic",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701620",
+     "skillName": "Survival Mechanic",
+     "skillDesc": "Odd/Even Turn DMG Reduction",
      "buttonEffect": ""
     },
     {
@@ -45191,6 +48725,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701638",
+     "skillName": "",
+     "skillDesc": "When clones are hit by all-target skills, final DMG reduction +40%",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701639",
      "skillName": "Bullet String Passive",
      "skillDesc": "",
@@ -45218,6 +48758,174 @@
      "skillId": "701643",
      "skillName": "Shadow Rider String Passive",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701644",
+     "skillName": "Doffy Passive",
+     "skillDesc": "All of Doffy's Passives",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701645",
+     "skillName": "Doffy Passive",
+     "skillDesc": "Bullet and Cutting",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701646",
+     "skillName": "Doffy Passive",
+     "skillDesc": "Bullet, Overheat String, Birdcage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701647",
+     "skillName": "Doffy Passive",
+     "skillDesc": "Cutting, Parasite, Shadow Rider String",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701648",
+     "skillName": "Doffy Passive",
+     "skillDesc": "Overheat String, Parasite, Shadow Rider String, Birdcage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701649",
+     "skillName": "Doffy Passive",
+     "skillDesc": "All, with random positions",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701651",
+     "skillName": "Gravity Storm",
+     "skillDesc": "30% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701652",
+     "skillName": "Gravity Control",
+     "skillDesc": "Target's skill Soul Jade cost +1 for one action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701653",
+     "skillName": "Giant Meteor",
+     "skillDesc": "Burn for 2 turns",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701654",
+     "skillName": "Tiger 12",
+     "skillDesc": "When the player casts skills, skill DMG gradually increases, cycling every 8 skills",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701655",
+     "skillName": "Tiger 12",
+     "skillDesc": "Fujitora only takes DMG from the enemy directly opposite him",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701656",
+     "skillName": "Tiger 2",
+     "skillDesc": "At turn start, randomly increases own SPD: 300,700,1000,1300,1600",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701657",
+     "skillName": "Tiger 3",
+     "skillDesc": "Gives the player 15 Soul Jade each turn; can be controlled; immune to Sever.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701658",
+     "skillName": "3rd Anniversary",
+     "skillDesc": "General Passive - +30 ATK, +30 all RES, +30 all DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701659",
+     "skillName": "3rd Anniversary",
+     "skillDesc": "+80 Physical RES",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701660",
+     "skillName": "3rd Anniversary",
+     "skillDesc": "+80 Attribute RES",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701661",
+     "skillName": "3rd Anniversary",
+     "skillDesc": "+80 Physical ATK",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701662",
+     "skillName": "3rd Anniversary",
+     "skillDesc": "+80 Attribute ATK",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701663",
+     "skillName": "3rd Anniversary",
+     "skillDesc": "4 Weak to True DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701664",
+     "skillName": "3rd Anniversary",
+     "skillDesc": "1 Weak to Wind/Water",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701665",
+     "skillName": "3rd Anniversary",
+     "skillDesc": "2 Weak to Wind/Water",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701666",
+     "skillName": "3rd Anniversary",
+     "skillDesc": "3 Weak to Wind/Water",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701667",
+     "skillName": "3rd Anniversary",
+     "skillDesc": "4 Weak to Wind/Water",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701668",
+     "skillName": "",
+     "skillDesc": "Doffy",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701669",
+     "skillName": "Bullet String",
+     "skillDesc": "Doffy",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701670",
+     "skillName": "Overheat Thread",
+     "skillDesc": "Doffy",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701671",
+     "skillName": "Cutting Thread",
+     "skillDesc": "Doffy",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701672",
+     "skillName": "Parasite String",
+     "skillDesc": "Doffy",
      "buttonEffect": ""
     },
     {
@@ -45305,6 +49013,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701688",
+     "skillName": "Normal Attack",
+     "skillDesc": "Diamante",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701689",
      "skillName": "Snake Sword",
      "skillDesc": "",
@@ -45359,6 +49073,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701701",
+     "skillName": "Negative Hollow Swarm",
+     "skillDesc": "Perona (Mob)",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701706",
      "skillName": "",
      "skillDesc": "Dog Penguin",
@@ -45395,15 +49115,93 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701719",
+     "skillName": "Freak's Foot",
+     "skillDesc": "Absalom Mob",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701721",
+     "skillName": "",
+     "skillDesc": "Ryuma Mob",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701723",
+     "skillName": "Shadow Raid",
+     "skillDesc": "Moria Mob",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701724",
      "skillName": "Shadow Gathering",
      "skillDesc": "",
      "buttonEffect": ""
     },
     {
+     "skillId": "701725",
+     "skillName": "Body Enhancement: Strength Up",
+     "skillDesc": "Hogback Mob",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701727",
+     "skillName": "",
+     "skillDesc": "Spider Monkey Mob",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701728",
      "skillName": "",
      "skillDesc": "Cerberus",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701729",
+     "skillName": "",
+     "skillDesc": "Absalom Mob",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701730",
+     "skillName": "Koby Test Basic Attack",
+     "skillDesc": "Code: 9043",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701731",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty General - Physical Team",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701732",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty General - Elemental Team",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701733",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty General - Control and Sever Immunity",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701734",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Aokiji",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701735",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Ace",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701736",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Garp",
      "buttonEffect": ""
     },
     {
@@ -45422,6 +49220,12 @@
      "skillId": "701739",
      "skillName": "Fist of Justice",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701740",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Whitebeard",
      "buttonEffect": ""
     },
     {
@@ -45455,6 +49259,12 @@
      "buttonEffect": "edward001/UI_edward001_jineng"
     },
     {
+     "skillId": "701746",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Blackbeard",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701747",
      "skillName": "",
      "skillDesc": "Normal Attack",
@@ -45482,6 +49292,24 @@
      "skillId": "701751",
      "skillName": "Dark Water",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701752",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Enel",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701753",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Shanks",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701754",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Rayleigh",
      "buttonEffect": ""
     },
     {
@@ -45515,6 +49343,24 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701760",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty General - DMG Reduction",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701761",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty General - Reflect",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701762",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Ivankov",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701763",
      "skillName": "",
      "skillDesc": "Normal Attack",
@@ -45542,6 +49388,12 @@
      "skillId": "701767",
      "skillName": "Galaxy Wink",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701768",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Marco",
      "buttonEffect": ""
     },
     {
@@ -45575,6 +49427,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701774",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Aokiji - Summon Mobs",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701775",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Enel - Summon Mobs",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701776",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Rayleigh - Summon Mobs",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701777",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Kuma - Turn-by-Turn Vulnerability Bonus",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701778",
+     "skillName": "",
+     "skillDesc": "New Leader Bounty - Franky - Turn-by-Turn Vulnerability Bonus",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701779",
      "skillName": "",
      "skillDesc": "Capone's Underling 1",
@@ -45605,6 +49487,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701784",
+     "skillName": "Mafia Godfather",
+     "skillDesc": "Capone Bege - Summon 3 Underlings",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701785",
+     "skillName": "Suppressing Fire",
+     "skillDesc": "Capone Bege",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701786",
+     "skillName": "",
+     "skillDesc": "Capone Bege",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701787",
+     "skillName": "",
+     "skillDesc": "Capone Bege",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701788",
+     "skillName": "",
+     "skillDesc": "Capone Bege",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701789",
      "skillName": "",
      "skillDesc": "Reiju",
@@ -45614,6 +49526,24 @@
      "skillId": "701790",
      "skillName": "",
      "skillDesc": "Reiju",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701791",
+     "skillName": "",
+     "skillDesc": "Sanji",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701792",
+     "skillName": "",
+     "skillDesc": "Sanji",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701793",
+     "skillName": "",
+     "skillDesc": "Katakuri",
      "buttonEffect": ""
     },
     {
@@ -45677,9 +49607,57 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "701837",
+     "skillName": "Summon Passive 1",
+     "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701838",
+     "skillName": "Summon Passive 2",
+     "skillDesc": "All Sever percentages decay",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "701839",
      "skillName": "Summon Passive 3",
      "skillDesc": "Sever Immunity",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701840",
+     "skillName": "Summon Passive 4",
+     "skillDesc": "Immune to Reflect, Silhouette",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701841",
+     "skillName": "Summon Passive 5",
+     "skillDesc": "Immune to Seal, Skill Seal, Charm, Parasite, Single Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701842",
+     "skillName": "Summon Passive 6",
+     "skillDesc": "Immune to hard control: Stun, Freeze, Sleep, Paralysis",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701843",
+     "skillName": "Summon Passive 7",
+     "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701845",
+     "skillName": "Summon Passive 9",
+     "skillDesc": "Immune to: Taunt, Interrupt",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "701846",
+     "skillName": "Summon Passive 10",
+     "skillDesc": "Immune to recovery prevention and Healing Reduction",
      "buttonEffect": ""
     },
     {
@@ -45695,9 +49673,57 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "710001",
+     "skillName": "Boss Passive 1",
+     "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710002",
+     "skillName": "Boss Passive 2",
+     "skillDesc": "All Sever percentages decay",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "710003",
      "skillName": "Boss Passive 3",
      "skillDesc": "Sever Immunity",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710004",
+     "skillName": "Boss Passive 4",
+     "skillDesc": "Immune to Reflect, Silhouette",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710005",
+     "skillName": "Boss Passive 5",
+     "skillDesc": "Immune to Seal, Skill Seal, Charm, Parasite, Single Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710006",
+     "skillName": "Boss Passive 6",
+     "skillDesc": "Immune to hard control: Stun, Freeze, Sleep, Paralysis",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710007",
+     "skillName": "Boss Passive 7",
+     "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710009",
+     "skillName": "Boss Passive 9",
+     "skillDesc": "Immune to: Taunt, Interrupt",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "710010",
+     "skillName": "Boss Passive 10",
+     "skillDesc": "Immune to recovery prevention and Healing Reduction",
      "buttonEffect": ""
     },
     {
@@ -46263,6 +50289,66 @@
      "skillName": "Emperor Sword: Break Blade",
      "skillDesc": "",
      "buttonEffect": "charlotte001/UI_Charlotte_attack08"
+    },
+    {
+     "skillId": "730156",
+     "skillName": "Whole Cake Island Boss Passive-2",
+     "skillDesc": "Percentage DMG immunity: Aokiji, Ace, New World Law, Jozu, New World Usopp, Law, Kin'emon, HP loss",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730157",
+     "skillName": "Whole Cake Island Boss Passive-3",
+     "skillDesc": "All Sever percentages decay",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730158",
+     "skillName": "Whole Cake Island Boss Passive-4",
+     "skillDesc": "Immune to Reflect, Silhouette",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730159",
+     "skillName": "Whole Cake Island Boss Passive-5",
+     "skillDesc": "Immune to Seal, Skill Seal, Charm, Parasite, Single Skill Seal",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730160",
+     "skillName": "Whole Cake Island Boss Passive-6",
+     "skillDesc": "Immune to hard control: Stun, Freeze, Sleep, Paralysis",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730161",
+     "skillName": "Whole Cake Island Boss Passive-7",
+     "skillDesc": "Immune to disruption: Soul Jade cost changes, Soul Jade recovery changes, cannot gain Rage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730163",
+     "skillName": "Whole Cake Island Boss Passive-9",
+     "skillDesc": "Permanently immune to Parasite",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730164",
+     "skillName": "Whole Cake Island Boss Passive-10",
+     "skillDesc": "Immune to [Healing Reduction] [Confusion and Negativity] [Sever RES] [immune to Blackbeard and Doffy control] [immune to interrupts]",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730165",
+     "skillName": "Whole Cake Island Boss Passive-11",
+     "skillDesc": "Immune to [Poison, Burn, Bleed, Arc] [Magma Burn] [immune to Reflect] [Taunt] [removes Charm and Mihawk states at start] [Franky Taunt]",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "730166",
+     "skillName": "Whole Cake Island Boss Passive-12",
+     "skillDesc": "[Cannot be Silhouetted, Charmed, Stunned, Knocked Away, Weakened, Corroded, Deadly Poisoned or Shattered - for major checkpoint BOSSES (immunity group)] [immune to Law's heart theft] [monster Sever RES BUFF (percentage reduction)] [control immunity (immunity factor)] [control immunity (immunity factor)] [immune to Ace and Aokiji Lv. 100 talents]",
+     "buttonEffect": ""
     },
     {
      "skillId": "730167",
@@ -47459,6 +51545,24 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "800212",
+     "skillName": "Emergency Injection",
+     "skillDesc": "Heals <color=#d14e0d>the ally with the lowest HP</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Chopper's ATK plus <color=#d14e0d>{atkval}</color> HP. If that ally's HP is below <color=#d14e0d>30% of their Max HP</color>, the healing is doubled.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800213",
+     "skillName": "Emergency Injection",
+     "skillDesc": "Heals <color=#d14e0d>the ally with the lowest HP</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Chopper's ATK plus <color=#d14e0d>{atkval}</color> HP. If that ally's HP is below <color=#d14e0d>30% of their Max HP</color>, the healing is doubled.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800214",
+     "skillName": "Emergency Injection",
+     "skillDesc": "Heals <color=#d14e0d>the ally with the lowest HP</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Chopper's ATK plus <color=#d14e0d>{atkval}</color> HP. If that ally's HP is below <color=#d14e0d>30% of their Max HP</color>, the healing is doubled.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "800218",
      "skillName": "",
      "skillDesc": "Transformed Normal Attack",
@@ -47498,6 +51602,12 @@
      "skillId": "800224",
      "skillName": "Arm Point: Hoof Print Cross",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a cross-shaped area around the target</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800229",
+     "skillName": "Treinta Fleur: Glide",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>2 horizontal enemy rows</color>. Also deals <color=#d14e0d>{atkval}</color> fixed damage.",
      "buttonEffect": ""
     },
     {
@@ -47666,6 +51776,24 @@
      "skillId": "800290",
      "skillName": "Swordsmanship Master",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800292",
+     "skillName": "Slasher",
+     "skillDesc": "Strengthens the body to become as hard as a \"blade\", reducing <color=#d14e0d>damage</color> taken by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800293",
+     "skillName": "Slasher",
+     "skillDesc": "Strengthens the body to become as hard as a \"blade\", reducing <color=#d14e0d>damage</color> taken by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800294",
+     "skillName": "Slasher",
+     "skillDesc": "Strengthens the body to become as hard as a \"blade\", reducing <color=#d14e0d>damage</color> taken by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
      "buttonEffect": ""
     },
     {
@@ -48230,6 +52358,30 @@
      "skillId": "800496",
      "skillName": "Dark Attribute Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Dark damage by {buffper1}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800497",
+     "skillName": "Shadow-Shadow Fruit",
+     "skillDesc": "Moria's Dark damage +<color=#d14e0d>{buffper1,700112}%</color> and Attribute damage taken -<color=#d14e0d>{buffper1,11200}%</color>. His <color=#d14e0d>attacks have a {buffodds}%</color> chance to steal the enemy's shadow; those who lose their shadow cannot be revived, and their ATK and DEF are reduced by <color=#d14e0d>{buffper1,700110}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800499",
+     "skillName": "Shadow Healing",
+     "skillDesc": "Heals <color=#d14e0d>the ally with the least HP</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Kuma's ATK plus an extra <color=#d14e0d>{atkval}</color> HP, and removes all debuffs from that ally. <color=#d14e0d>Kuma cannot cast this skill on himself</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800500",
+     "skillName": "Shadow Healing",
+     "skillDesc": "Heals <color=#d14e0d>the ally with the least HP</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Kuma's ATK plus an extra <color=#d14e0d>{atkval}</color> HP, and removes all debuffs from that ally. <color=#d14e0d>Kuma cannot cast this skill on himself</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "800501",
+     "skillName": "Shadow Healing",
+     "skillDesc": "Heals <color=#d14e0d>the ally with the least HP</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Kuma's ATK plus an extra <color=#d14e0d>{atkval}</color> HP, and removes all debuffs from that ally. <color=#d14e0d>Kuma cannot cast this skill on himself</color>.",
      "buttonEffect": ""
     },
     {
@@ -48809,6 +52961,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "850010",
+     "skillName": "2.0 Tower - Smoker",
+     "skillDesc": "Passive",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "850011",
      "skillName": "2.0 Tower - Smoker",
      "skillDesc": "Passive 2",
@@ -49295,9 +53453,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "7303049",
+     "skillName": "Cross Slash",
+     "skillDesc": "Single Target",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "7303050",
      "skillName": "Wild Blade Slash",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303051",
+     "skillName": "Cross Slash",
+     "skillDesc": "Single Target",
      "buttonEffect": ""
     },
     {
@@ -49307,9 +53477,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "7303053",
+     "skillName": "Cross Slash",
+     "skillDesc": "Single Target",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "7303054",
      "skillName": "Wild Blade Slash",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303055",
+     "skillName": "Cross Slash",
+     "skillDesc": "Single Target",
      "buttonEffect": ""
     },
     {
@@ -49319,9 +53501,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "7303057",
+     "skillName": "Cross Slash",
+     "skillDesc": "Single Target",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "7303058",
      "skillName": "Wild Blade Slash",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303059",
+     "skillName": "Cross Slash",
+     "skillDesc": "Single Target",
      "buttonEffect": ""
     },
     {
@@ -49331,9 +53525,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "7303061",
+     "skillName": "Cross Slash",
+     "skillDesc": "Single Target",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "7303062",
      "skillName": "Wild Blade Slash",
      "skillDesc": "",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303063",
+     "skillName": "Cross Slash",
+     "skillDesc": "Single Target",
      "buttonEffect": ""
     },
     {
@@ -50207,6 +54413,198 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "7303209",
+     "skillName": "Gravity Control",
+     "skillDesc": "Accuracy -60% when casting this skill; 30% chance on hit to Stun the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303210",
+     "skillName": "Gravity Blade",
+     "skillDesc": "On hit, reduces the target's SPD by [200] (stackable), then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303211",
+     "skillName": "Gravity Blade: Raging Tiger",
+     "skillDesc": "Guaranteed hit; each Slow stack on the target deals 10% Max HP DMG to it, up to 5 stacks, clears all Slows, then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303212",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "Removes characters with SPD below 100, clears all Slows and own mark C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303213",
+     "skillName": "Gravity Control",
+     "skillDesc": "Accuracy -60% when casting this skill; 30% chance on hit to Stun the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303214",
+     "skillName": "Gravity Blade",
+     "skillDesc": "On hit, reduces the target's SPD by [200] (stackable), then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303215",
+     "skillName": "Gravity Blade: Raging Tiger",
+     "skillDesc": "Guaranteed hit; each Slow stack on the target deals 10% Max HP DMG to it, up to 5 stacks, clears all Slows, then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303216",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "Removes characters with SPD below 100, clears all Slows and own mark C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303217",
+     "skillName": "Gravity Control",
+     "skillDesc": "Accuracy -60% when casting this skill; 30% chance on hit to Stun the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303218",
+     "skillName": "Gravity Blade",
+     "skillDesc": "On hit, reduces the target's SPD by [200] (stackable), then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303219",
+     "skillName": "Gravity Blade: Raging Tiger",
+     "skillDesc": "Guaranteed hit; each Slow stack on the target deals 10% Max HP DMG to it, up to 5 stacks, clears all Slows, then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303220",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "Removes characters with SPD below 100, clears all Slows and own mark C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303221",
+     "skillName": "Gravity Control",
+     "skillDesc": "Accuracy -60% when casting this skill; 30% chance on hit to Stun the target for 1 action",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303222",
+     "skillName": "Gravity Blade",
+     "skillDesc": "On hit, reduces the target's SPD by [200] (stackable), then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303223",
+     "skillName": "Gravity Blade: Raging Tiger",
+     "skillDesc": "Guaranteed hit; each Slow stack on the target deals 10% Max HP DMG to it, up to 5 stacks, clears all Slows, then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303224",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "Removes characters with SPD below 100, clears all Slows and own mark C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303225",
+     "skillName": "Giant Meteor",
+     "skillDesc": "2 stacks of Burn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303226",
+     "skillName": "Gravity Storm",
+     "skillDesc": "15% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303227",
+     "skillName": "Gravity Blade",
+     "skillDesc": "On hit, reduces the target's SPD by [200] (stackable), then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303228",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "Removes characters with SPD below 100, clears all Slows and own mark C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303229",
+     "skillName": "Giant Meteor",
+     "skillDesc": "2 stacks of Burn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303230",
+     "skillName": "Gravity Storm",
+     "skillDesc": "15% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303231",
+     "skillName": "Gravity Blade",
+     "skillDesc": "On hit, reduces the target's SPD by [200] (stackable), then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303232",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "Removes characters with SPD below 100, clears all Slows and own mark C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303233",
+     "skillName": "Giant Meteor",
+     "skillDesc": "2 stacks of Burn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303234",
+     "skillName": "Gravity Storm",
+     "skillDesc": "15% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303235",
+     "skillName": "Gravity Blade",
+     "skillDesc": "On hit, reduces the target's SPD by [200] (stackable), then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303236",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "Removes characters with SPD below 100, clears all Slows and own mark C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303237",
+     "skillName": "Giant Meteor",
+     "skillDesc": "2 stacks of Burn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303238",
+     "skillName": "Gravity Storm",
+     "skillDesc": "15% Sever",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303239",
+     "skillName": "Gravity Blade",
+     "skillDesc": "On hit, reduces the target's SPD by [200] (stackable), then marks self with C",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "7303240",
+     "skillName": "Gravity Destruction",
+     "skillDesc": "Removes characters with SPD below 100, clears all Slows and own mark C",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "8001277",
      "skillName": "Piercing",
      "skillDesc": "Deal　Skill　damage　equal　to　a　percentage　of　own　ATK,　plus　fixed　damage,　to　one　enemy.",
@@ -50497,9 +54895,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "85",
+     "skillName": "Heal",
+     "skillDesc": "Heals <color=#d14e0d>all allies</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Chopper's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "90",
      "skillName": "Soul Steps",
      "skillDesc": "Deal　Skill　damage　equal　to　<color=#d14e0d>{atkper}%</color>　of　own　ATK　to　<color=#d14e0d>one　enemy</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "117",
+     "skillName": "Slasher",
+     "skillDesc": "Strengthens the body to become as hard as a \"blade\", reducing <color=#d14e0d>damage</color> taken by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
      "buttonEffect": ""
     },
     {
@@ -50569,6 +54979,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "182",
+     "skillName": "Bandage",
+     "skillDesc": "<color=#d14e0d>{buffodds}%</color> chance to instantly remove <color=#d14e0d>Bleed</color> from <color=#d14e0d>allies</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "184",
      "skillName": "A Marine's Dream",
      "skillDesc": "Heal　<color=#d14e0d>self</color>　for　<color=#d14e0d>{atkper}%</color>　of　own　ATK　as　HP.",
@@ -50590,6 +55006,12 @@
      "skillId": "188",
      "skillName": "Acrobatics: Cool Summer Fireworks",
      "skillDesc": "Deal　Skill　damage　equal　to　<color=#d14e0d>{atkper}%</color>　of　own　ATK　to　<color=#d14e0d>one　enemy</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "200",
+     "skillName": "Zombie Body",
+     "skillDesc": "After use, instantly loses <color=#d14e0d>15%</color> of current HP and gains <color=#d14e0d>{buffval1} Rage</color>, while DMG reduction <color=#d14e0d>increases by {buffper2}%</color> for <color=#d14e0d>1</color> turn.",
      "buttonEffect": ""
     },
     {
@@ -50665,6 +55087,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "305",
+     "skillName": "Blade Intent",
+     "skillDesc": "When this skill is used, <color=#d14e0d>ATK</color> and <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>1 turn</color>. If the character has <color=#d14e0d>Killing Intent</color>, all <color=#d14e0d>Killing Intent</color> stacks are consumed, each recovering <color=#d14e0d>5%</color> of Max HP as <color=#d14e0d>HP</color> and <color=#d14e0d>10</color> <color=#d14e0d>Rage</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "318",
      "skillName": "Peacock Display: Chain Ring",
      "skillDesc": "Deal　Skill　damage　equal　to　<color=#d14e0d>{atkper}%</color>　of　own　ATK　to　<color=#d14e0d>two　cells　in　an　enemy　line</color>.",
@@ -50674,6 +55102,12 @@
      "skillId": "319",
      "skillName": "Charge! Black Duck",
      "skillDesc": "Deal　Skill　damage　equal　to　<color=#d14e0d>{atkper}%</color>　of　own　ATK　to　<color=#d14e0d>four　cells　in　an　enemy　line</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "356",
+     "skillName": "Bear's Shield",
+     "skillDesc": "Applies a <color=#d14e0d>Shield</color> to self that absorbs damage equal to <color=#d14e0d>{buffper1}%</color> of own Max HP and provides <color=#d14e0d>Reflect</color>, returning <color=#d14e0d>{buffper1}%</color> of the damage Kuma takes to the enemy. The Shield lasts <color=#d14e0d>2 turns</color> and <color=#d14e0d>expires immediately when broken</color>.",
      "buttonEffect": ""
     },
     {
@@ -50737,6 +55171,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "401",
+     "skillName": "Takt",
+     "skillDesc": "A random ally's ATK and SPD +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns. If used while <color=#d14e0d>ROOM</color> is active, grants an extra <color=#d14e0d>3</color> Soul Jade.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "402",
+     "skillName": "Shambles",
+     "skillDesc": "When cast, <color=#d14e0d>{buffodds}%</color> chance to dispel all of the target's buffs. While <color=#d14e0d>ROOM</color> is active, <color=#d14e0d>Shambles</color> becomes a Finisher with the <color=#d14e0d>Swap</color> effect, swapping the target's position with another enemy and ending Law's action.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "422",
+     "skillName": "Attraction · Iron Arm",
+     "skillDesc": "After use, gains <color=#d14e0d>Steel</color>, increasing Kid's <color=#d14e0d>basic attack</color> damage by <color=#d14e0d>{buffper1}%</color> and the damage of <color=#d14e0d>Heavy Strike</color> or <color=#d14e0d>Attract: Cannon</color> by <color=#d14e0d>{buffper2}%</color> for <color=#d14e0d>2</color> turns. Does not stack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "428",
+     "skillName": "Takt",
+     "skillDesc": "A random ally's ATK and SPD +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns. If used while <color=#d14e0d>ROOM</color> is active, grants an extra <color=#d14e0d>3</color> Soul Jade.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "429",
+     "skillName": "Shambles",
+     "skillDesc": "When cast, <color=#d14e0d>{buffodds}%</color> chance to dispel all of the target's buffs. While <color=#d14e0d>ROOM</color> is active, <color=#d14e0d>Shambles</color> becomes a Finisher with the <color=#d14e0d>Swap</color> effect, swapping the target's position with another enemy and ending Law's action.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "433",
      "skillName": "Kick Barrage",
      "skillDesc": "Deals　skill　damage　equal　to　<color=#d14e0d>{atkper}%</color>　of　ATK　to　<color=#d14e0d>a　single　enemy</color>.",
@@ -50788,6 +55252,24 @@
      "skillId": "447",
      "skillName": "Pacifista",
      "skillDesc": "Deals　skill　damage　equal　to　<color=#d14e0d>{atkper}%</color>　of　ATK　to　<color=#d14e0d>all　enemies</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "489",
+     "skillName": "Healing Hormones",
+     "skillDesc": "Heals <color=#d14e0d>all allies</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Ivankov's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "490",
+     "skillName": "Tension Hormones",
+     "skillDesc": "Heals <color=#d14e0d>a random ally</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Ivankov's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "491",
+     "skillName": "Deluxe Beauty Treatment",
+     "skillDesc": "Heals <color=#d14e0d>all allies</color>, instantly recovering HP equal to <color=#d14e0d>{atkper}%</color> of Ivankov's ATK plus an extra <color=#d14e0d>{atkval}</color> HP.",
      "buttonEffect": ""
     },
     {
@@ -61471,6 +65953,24 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300184",
+     "skillName": "Ignore Defense",
+     "skillDesc": "Gives <color=#d14e0d>Black Blade: Flash</color> the <color=#d14e0d>Ignore DEF</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance for this attack to ignore the enemy target's DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300188",
+     "skillName": "Sword Aura Enhancement",
+     "skillDesc": "Ignores the <color=#d14e0d>DMG reduction</color> from enemies' active skills, and damage dealt by Mihawk increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300189",
+     "skillName": "Black Blade · Night",
+     "skillDesc": "When using attack skills, <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>Killing Intent</color>, increasing own ATK by <color=#d14e0d>5%</color>, stacking up to <color=#d14e0d>7</color> times. If no attack skill is used in a turn, <color=#d14e0d>Killing Intent</color> is removed.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300284",
      "skillName": "Electric Shock Heart",
      "skillDesc": "When <color=#d14e0d>HP reaches 0</color>, Enel does not die immediately; he revives himself by shocking his own heart and recovers <color=#d14e0d>{buffper1}%</color> of his Max HP. <color=#d14e0d>This effect can only trigger once per battle</color>.",
@@ -61483,9 +65983,39 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300392",
+     "skillName": "Magma Devour",
+     "skillDesc": "Gives <color=#d14e0d>Meigo</color> the <color=#d14e0d>Magma Devour</color> effect, instantly clearing all <color=#d14e0d>Magma Burn</color> on the enemy; each stack of <color=#d14e0d>Magma Burn</color> cleared recovers <color=#d14e0d>{buffper1}%</color> of own Max HP as <color=#d14e0d>HP</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300393",
+     "skillName": "Magma Burst",
+     "skillDesc": "Gives <color=#d14e0d>Absolute Justice</color> the <color=#d14e0d>Magma Burst</color> effect, instantly clearing all <color=#d14e0d>Magma Burn</color> on the enemy; each stack of <color=#d14e0d>Magma Burn</color> cleared reduces the enemy's current HP by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300396",
+     "skillName": "Magma Armor",
+     "skillDesc": "At the start of each turn, Akainu applies 1 stack of <color=#d14e0d>Magma Shield</color> to himself with HP equal to <color=#d14e0d>{buffper1}%</color> of his <color=#d14e0d>Max HP</color>, stacking up to three times. <color=#d14e0d>The Shield disappears immediately when its HP drops to 0</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300399",
+     "skillName": "Magma Corrosion",
+     "skillDesc": "When Akainu attacks enemies with <color=#d14e0d>Magma Burn</color>, the <color=#d14e0d>damage</color> dealt to them increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300471",
      "skillName": "Dark Attribute Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Dark damage by {buffper1}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300480",
+     "skillName": "Shadow-Shadow Fruit",
+     "skillDesc": "Moria's Dark damage +<color=#d14e0d>{buffper1,700112}%</color> and Attribute damage taken -<color=#d14e0d>{buffper1,11200}%</color>. His <color=#d14e0d>attacks have a {buffodds}%</color> chance to steal the enemy's shadow; those who lose their shadow cannot be revived, and their ATK and DEF are reduced by <color=#d14e0d>{buffper1,700110}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -61504,6 +66034,12 @@
      "skillId": "300497",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300502",
+     "skillName": "Poisoned",
+     "skillDesc": "Gives <color=#d14e0d>Scalpel Throw</color> a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>Poison</color>, making the enemy lose some HP before acting each turn. Stacks up to <color=#d14e0d>5</color> times and lasts <color=#d14e0d>2</color> turns.",
      "buttonEffect": ""
     },
     {
@@ -61558,6 +66094,12 @@
      "skillId": "300654",
      "skillName": "DMG Reduction Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300665",
+     "skillName": "Captivating Charm",
+     "skillDesc": "At battle start, puts a random enemy into <color=#d14e0d>Languor</color> and strengthens <color=#d14e0d>Languor</color>: enemies in this state have their Accuracy reduced by <color=#d14e0d>{buffper1}%</color> when attacking Hancock.",
      "buttonEffect": ""
     },
     {
@@ -61636,6 +66178,12 @@
      "skillId": "300756",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300766",
+     "skillName": "Hormone Resistance",
+     "skillDesc": "In male form, when <color=#d14e0d>HP reaches 0</color>, does not die immediately but revives with <color=#d14e0d>{buffper1}%</color> Max HP, once per battle (<color=#d14e0d>1</color> time); in female form, recovers <color=#d14e0d>{buffper2}%</color> HP before acting each turn",
      "buttonEffect": ""
     },
     {
@@ -63421,7 +67969,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "9233/14789 rows translated so far"
+   "partial": "9991/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
