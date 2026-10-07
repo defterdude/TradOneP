@@ -1337,8 +1337,1364 @@
      "defaultDialog": "Let's hurry and find Robin."
     },
     {
+     "id": "1898",
+     "defaultDialog": "Looks like we'll have to deal with you first."
+    },
+    {
+     "id": "1899",
+     "defaultDialog": "Luffy's opponent is that pigeon guy."
+    },
+    {
+     "id": "1900",
+     "defaultDialog": "Good luck, everyone"
+    },
+    {
+     "id": "1901",
+     "defaultDialog": "Gyababa! I'm Fukuro the Silent, and I love gossip. Do you want the key?"
+    },
+    {
+     "id": "1902",
+     "defaultDialog": "Too bad... looks like you're in a hurry. Go ahead, come take the key if you want it"
+    },
+    {
+     "id": "1903",
+     "defaultDialog": "Damn pirates!!"
+    },
+    {
+     "id": "1905",
+     "defaultDialog": "Are you prepared!!!"
+    },
+    {
+     "id": "1906",
+     "defaultDialog": "I'm pretty good with a sword too."
+    },
+    {
+     "id": "1907",
+     "defaultDialog": "Switching fighters? Fine by me"
+    },
+    {
+     "id": "1908",
+     "defaultDialog": "Damn, the cola is right in front of me!"
+    },
+    {
+     "id": "1909",
+     "defaultDialog": "Nami, are you okay?"
+    },
+    {
+     "id": "1910",
+     "defaultDialog": "I'm fine, I got the key."
+    },
+    {
+     "id": "1911",
+     "defaultDialog": "Sanji... what's wrong?"
+    },
+    {
+     "id": "1912",
+     "defaultDialog": "Sanji, you're too nice to women."
+    },
+    {
+     "id": "1913",
+     "defaultDialog": "You say you knew Robin before?"
+    },
+    {
+     "id": "1914",
+     "defaultDialog": "You have the key to Robin's cuffs, right? Will you hand it over before you get beaten?"
+    },
+    {
+     "id": "1915",
+     "defaultDialog": "No... that won't do! This is no time for tea!"
+    },
+    {
+     "id": "1916",
+     "defaultDialog": "Fighters switched!"
+    },
+    {
+     "id": "1917",
+     "defaultDialog": "Take down the invading pirates!"
+    },
+    {
+     "id": "1919",
+     "defaultDialog": "You can't get past here."
+    },
+    {
+     "id": "1921",
+     "defaultDialog": "Ha ha ha, Kaku, look at you!"
+    },
+    {
+     "id": "1922",
+     "defaultDialog": "What's so pitiful about a giraffe! I think it's pretty nice!"
+    },
+    {
+     "id": "1923",
+     "defaultDialog": "Is this a zoo?"
+    },
+    {
+     "id": "1924",
+     "defaultDialog": "What I... can do..."
+    },
+    {
+     "id": "1930",
+     "defaultDialog": "Watch closely! This step will be the first of a hero remembered for all time!"
+    },
+    {
+     "id": "1935",
+     "defaultDialog": "Hurry! Just catch Nico Robin and put her on the escort ship! Stop dawdling! The warships are coming!"
+    },
+    {
+     "id": "1963",
+     "defaultDialog": "I'm a man who already died once! If it lets Straw Hat and the others get out of here alive, I don't care if I lose my life!"
+    },
+    {
+     "id": "1964",
+     "defaultDialog": "Luffy..."
+    },
+    {
+     "id": "1965",
+     "defaultDialog": "We have to buy time."
+    },
+    {
+     "id": "1966",
+     "defaultDialog": "If Luffy hadn't stopped the pigeon guy..."
+    },
+    {
+     "id": "1967",
+     "defaultDialog": "Luffy, you have to win!"
+    },
+    {
+     "id": "1968",
+     "defaultDialog": "Now we just have to hold on."
+    },
+    {
+     "id": "1969",
+     "defaultDialog": "So glad we made it in time!"
+    },
+    {
+     "id": "1971",
+     "defaultDialog": "Thanks to everyone, thank you!"
+    },
+    {
+     "id": "1972",
+     "defaultDialog": "You guys! Wake up!"
+    },
+    {
+     "id": "1973",
+     "defaultDialog": "Looks like the higher-ups ordered Nico Robin taken alive."
+    },
+    {
+     "id": "1974",
+     "defaultDialog": "We'll stay here and wait for Luffy."
+    },
+    {
+     "id": "1975",
+     "defaultDialog": "Is Miss Nami okay?"
+    },
+    {
+     "id": "1976",
+     "defaultDialog": "What's with this attack?"
+    },
+    {
+     "id": "1977",
+     "defaultDialog": "Luffy! You've got to win!"
+    },
+    {
      "id": "1999",
      "defaultDialog": "This big ship is mine now!"
+    },
+    {
+     "id": "2000",
+     "defaultDialog": "Level 1 alert, prepare for battle!"
+    },
+    {
+     "id": "2002",
+     "defaultDialog": "It's fairly safe here, but it's dangerous inside."
+    },
+    {
+     "id": "2003",
+     "defaultDialog": "Could you go help my brothers?"
+    },
+    {
+     "id": "2004",
+     "defaultDialog": "We need backup here!"
+    },
+    {
+     "id": "2010",
+     "defaultDialog": "I-I have to fight too... I can't stop shaking..."
+    },
+    {
+     "id": "2011",
+     "defaultDialog": "A-all forces, charge!"
+    },
+    {
+     "id": "2012",
+     "defaultDialog": "Cowards! Do you call yourselves Marines!"
+    },
+    {
+     "id": "2015",
+     "defaultDialog": "I'm fine here; the brothers over there are hurt worse..."
+    },
+    {
+     "id": "2016",
+     "defaultDialog": "Ugh... I can't move..."
+    },
+    {
+     "id": "2020",
+     "defaultDialog": "I can still help a little with healing."
+    },
+    {
+     "id": "2021",
+     "defaultDialog": "Damn, if only I were stronger..."
+    },
+    {
+     "id": "2022",
+     "defaultDialog": "Is this the end..."
+    },
+    {
+     "id": "2023",
+     "defaultDialog": "Enemy spotted, prepare for battle!"
+    },
+    {
+     "id": "2026",
+     "defaultDialog": "Surround and wipe out enemies in numbers like this!"
+    },
+    {
+     "id": "2029",
+     "defaultDialog": "Just a handful of people pushed us this far... We won't let you through!"
+    },
+    {
+     "id": "2032",
+     "defaultDialog": "When I was shopping just now, the shopkeeper said something strange..."
+    },
+    {
+     "id": "2035",
+     "defaultDialog": "Huh? Who are you! Never seen you before, hey!"
+    },
+    {
+     "id": "2036",
+     "defaultDialog": "Finally caught up with you. Don't run!"
+    },
+    {
+     "id": "2037",
+     "defaultDialog": "I'm pretty confident in a test of strength."
+    },
+    {
+     "id": "2038",
+     "defaultDialog": "Are you looking for a shipwright?"
+    },
+    {
+     "id": "2039",
+     "defaultDialog": "We're short on shipwrights..."
+    },
+    {
+     "id": "2040",
+     "defaultDialog": "Other people's stuff is my stuff!"
+    },
+    {
+     "id": "2041",
+     "defaultDialog": "Give me back my pants!!! Bastard!!!"
+    },
+    {
+     "id": "2042",
+     "defaultDialog": "You can't stay with us anymore. We don't want to hold you back!!"
+    },
+    {
+     "id": "2045",
+     "defaultDialog": "Stare..."
+    },
+    {
+     "id": "2046",
+     "defaultDialog": "That ship is the best ship to me and to you, but you...!! Give me back my pants!!!"
+    },
+    {
+     "id": "2047",
+     "defaultDialog": "Straw Hat!!!"
+    },
+    {
+     "id": "2048",
+     "defaultDialog": "It's my wish of many years... that's why it's a dream ship!!!"
+    },
+    {
+     "id": "2049",
+     "defaultDialog": "This ship is amazing... Sailing it to the end of the world is no dream!"
+    },
+    {
+     "id": "2050",
+     "defaultDialog": "Behold the craftsmanship of Dock 1!"
+    },
+    {
+     "id": "2051",
+     "defaultDialog": "Ohhh!!"
+    },
+    {
+     "id": "2052",
+     "defaultDialog": "It's twice as big as the Merry"
+    },
+    {
+     "id": "2053",
+     "defaultDialog": "What huge square sails"
+    },
+    {
+     "id": "2054",
+     "defaultDialog": "Whoa!"
+    },
+    {
+     "id": "2055",
+     "defaultDialog": "What's that flower thing on the bow?"
+    },
+    {
+     "id": "2056",
+     "defaultDialog": "Let me see the kitchen!"
+    },
+    {
+     "id": "2057",
+     "defaultDialog": "No choice, let's run for now!"
+    },
+    {
+     "id": "2058",
+     "defaultDialog": "This is even stronger than a cannon!"
+    },
+    {
+     "id": "2059",
+     "defaultDialog": "What is he trying to do..."
+    },
+    {
+     "id": "2060",
+     "defaultDialog": "Really?"
+    },
+    {
+     "id": "2061",
+     "defaultDialog": "Hey, everyone! Usopp's here!"
+    },
+    {
+     "id": "2062",
+     "defaultDialog": "Hey! Say something!"
+    },
+    {
+     "id": "2063",
+     "defaultDialog": "Hey, long-nose, what are you doing!"
+    },
+    {
+     "id": "2064",
+     "defaultDialog": "I thought you were on the ship..."
+    },
+    {
+     "id": "2071",
+     "defaultDialog": "Vice Admiral Garp..."
+    },
+    {
+     "id": "2082",
+     "defaultDialog": "How nostalgic..."
+    },
+    {
+     "id": "2083",
+     "defaultDialog": "My tangerine trees!! I thought I'd never get you back!!"
+    },
+    {
+     "id": "2084",
+     "defaultDialog": "I'm not going anywhere~"
+    },
+    {
+     "id": "2085",
+     "defaultDialog": "Franky, what are you doing here..."
+    },
+    {
+     "id": "2086",
+     "defaultDialog": "I went to check on the injured of the Franky Family"
+    },
+    {
+     "id": "2087",
+     "defaultDialog": "Hey! You all doing well!?"
+    },
+    {
+     "id": "2088",
+     "defaultDialog": "We're coming in!"
+    },
+    {
+     "id": "2089",
+     "defaultDialog": "I have something important to tell you..."
+    },
+    {
+     "id": "2090",
+     "defaultDialog": "The Log Pose should finish recording in two or three days"
+    },
+    {
+     "id": "2091",
+     "defaultDialog": "Actually, I have a favor to ask..."
+    },
+    {
+     "id": "2093",
+     "defaultDialog": "Did you see the wanted posters?"
+    },
+    {
+     "id": "2094",
+     "defaultDialog": "Big Bro..."
+    },
+    {
+     "id": "2095",
+     "defaultDialog": "Because you're my grandson!!! I'm giving up on catching you on this island!!!"
+    },
+    {
+     "id": "2096",
+     "defaultDialog": "Uh-oh, the Marines are already here!"
+    },
+    {
+     "id": "2430",
+     "defaultDialog": "Woof! Woof! Awoo~"
+    },
+    {
+     "id": "2446",
+     "defaultDialog": "This weather is so unpleasant."
+    },
+    {
+     "id": "2447",
+     "defaultDialog": "No good, the Log Pose has stopped working."
+    },
+    {
+     "id": "2448",
+     "defaultDialog": "So this is that legendary sea. Don't let your guard down."
+    },
+    {
+     "id": "2449",
+     "defaultDialog": "Interesting..."
+    },
+    {
+     "id": "2450",
+     "defaultDialog": "I'm not scared...!"
+    },
+    {
+     "id": "2451",
+     "defaultDialog": "Evil spirits begone, evil spirits begone, evil spirits begone..."
+    },
+    {
+     "id": "2453",
+     "defaultDialog": "Miss Nami, if you're scared, hold on to me tight!"
+    },
+    {
+     "id": "2457",
+     "defaultDialog": "I am Master Hogback's servant."
+    },
+    {
+     "id": "2461",
+     "defaultDialog": "Rawr!!"
+    },
+    {
+     "id": "2480",
+     "defaultDialog": "I'm rotten."
+    },
+    {
+     "id": "2481",
+     "defaultDialog": "Me too."
+    },
+    {
+     "id": "2482",
+     "defaultDialog": "Actually, my stamina is really poor."
+    },
+    {
+     "id": "2486",
+     "defaultDialog": "I'm an injured old man."
+    },
+    {
+     "id": "2488",
+     "defaultDialog": "I'm the legendary genius doctor!"
+    },
+    {
+     "id": "2492",
+     "defaultDialog": "The laboratory is off-limits!"
+    },
+    {
+     "id": "2493",
+     "defaultDialog": "There shouldn't be plates in this world."
+    },
+    {
+     "id": "2494",
+     "defaultDialog": "Dr. Hogback's laboratory... I'd love to see it."
+    },
+    {
+     "id": "2495",
+     "defaultDialog": "Nami, aren't you being too suspicious?"
+    },
+    {
+     "id": "2496",
+     "defaultDialog": "Everything here feels wrong..."
+    },
+    {
+     "id": "2497",
+     "defaultDialog": "This way, I'll take you to the bedroom..."
+    },
+    {
+     "id": "2509",
+     "defaultDialog": "Don't even think of setting foot out of this room!"
+    },
+    {
+     "id": "2512",
+     "defaultDialog": "I won't let you escape! You brats!"
+    },
+    {
+     "id": "2518",
+     "defaultDialog": "The treasure isn't here!"
+    },
+    {
+     "id": "2522",
+     "defaultDialog": "It's pure art! Only a genius like me could pull this off!"
+    },
+    {
+     "id": "2523",
+     "defaultDialog": "Better if it's ruined."
+    },
+    {
+     "id": "2547",
+     "defaultDialog": "Gakk..."
+    },
+    {
+     "id": "2552",
+     "defaultDialog": "Not a single pirate gets away!"
+    },
+    {
+     "id": "2553",
+     "defaultDialog": "I won't betray the infamy I had in life."
+    },
+    {
+     "id": "2558",
+     "defaultDialog": "A wound on the back is a swordsman's shame!"
+    },
+    {
+     "id": "2559",
+     "defaultDialog": "The Night of the Zombies begins!"
+    },
+    {
+     "id": "2565",
+     "defaultDialog": "We have to think of something fast."
+    },
+    {
+     "id": "2566",
+     "defaultDialog": "What a huge spider!"
+    },
+    {
+     "id": "2567",
+     "defaultDialog": "Lady Perona's ghost network has found out everything about you!"
+    },
+    {
+     "id": "2568",
+     "defaultDialog": "I won't run away this time! I'll defeat that man for sure..."
+    },
+    {
+     "id": "2571",
+     "defaultDialog": "Make me the Pirate King already!"
+    },
+    {
+     "id": "2572",
+     "defaultDialog": "Kumashi, be quiet! You're not cute at all!"
+    },
+    {
+     "id": "2573",
+     "defaultDialog": "Ah, um..."
+    },
+    {
+     "id": "2574",
+     "defaultDialog": "Hey hey, Cindry, don't make it worse..."
+    },
+    {
+     "id": "2575",
+     "defaultDialog": "No one will marry you, Absalom!"
+    },
+    {
+     "id": "2576",
+     "defaultDialog": "Hogback! Keep your underlings in line!"
+    },
+    {
+     "id": "2577",
+     "defaultDialog": "Untie me now! You garlic head!"
+    },
+    {
+     "id": "2586",
+     "defaultDialog": "Can you understand the troubles of a genius like me?"
+    },
+    {
+     "id": "2590",
+     "defaultDialog": "Hogback! You don't deserve to be a doctor!"
+    },
+    {
+     "id": "2591",
+     "defaultDialog": "Chopper..."
+    },
+    {
+     "id": "2592",
+     "defaultDialog": "Leave the fight with the pirates to the General Zombies!"
+    },
+    {
+     "id": "2593",
+     "defaultDialog": "Gaooo!"
+    },
+    {
+     "id": "2594",
+     "defaultDialog": "We're immune to blades and bullets!"
+    },
+    {
+     "id": "2595",
+     "defaultDialog": "My boss is... Absalom the Grave Robber!"
+    },
+    {
+     "id": "2596",
+     "defaultDialog": "The boss... his hobby is peeping!"
+    },
+    {
+     "id": "2597",
+     "defaultDialog": "Beat me if you can!"
+    },
+    {
+     "id": "2598",
+     "defaultDialog": "Zzz... zzz... meat..."
+    },
+    {
+     "id": "2599",
+     "defaultDialog": "...mm... swordsman..."
+    },
+    {
+     "id": "2600",
+     "defaultDialog": "...beautiful woman... snore..."
+    },
+    {
+     "id": "2601",
+     "defaultDialog": "This is when Captain Usopp saves the day!"
+    },
+    {
+     "id": "2602",
+     "defaultDialog": "We met a skeleton guy, and he told us the zombies' weakness."
+    },
+    {
+     "id": "2603",
+     "defaultDialog": "N... Nami... was taken away..."
+    },
+    {
+     "id": "2606",
+     "defaultDialog": "Horo horo~~"
+    },
+    {
+     "id": "2607",
+     "defaultDialog": "Negative negative~~"
+    },
+    {
+     "id": "2608",
+     "defaultDialog": "Horo horo~~~"
+    },
+    {
+     "id": "2614",
+     "defaultDialog": "You're my type! Marry me!"
+    },
+    {
+     "id": "2615",
+     "defaultDialog": "Are you going to help that skeleton get his shadow back?"
+    },
+    {
+     "id": "2616",
+     "defaultDialog": "I'm curious how strong the legendary samurai zombie really is."
+    },
+    {
+     "id": "2619",
+     "defaultDialog": "Tie them up tight!"
+    },
+    {
+     "id": "2620",
+     "defaultDialog": "We'll give you a good beating!"
+    },
+    {
+     "id": "2631",
+     "defaultDialog": "We'll offer you to the master!"
+    },
+    {
+     "id": "2639",
+     "defaultDialog": "This is bad! Lady Perona! The pirates..."
+    },
+    {
+     "id": "2640",
+     "defaultDialog": "Did we lose them...?!"
+    },
+    {
+     "id": "2641",
+     "defaultDialog": "Probably..."
+    },
+    {
+     "id": "2642",
+     "defaultDialog": "Phew..."
+    },
+    {
+     "id": "2643",
+     "defaultDialog": "Don't underestimate me, the Ghost Princess!"
+    },
+    {
+     "id": "2644",
+     "defaultDialog": "Don't you touch Lady Perona!"
+    },
+    {
+     "id": "2648",
+     "defaultDialog": "Don't lay a finger on my crew!"
+    },
+    {
+     "id": "2649",
+     "defaultDialog": "Absalom is mine!"
+    },
+    {
+     "id": "2650",
+     "defaultDialog": "They came back again!"
+    },
+    {
+     "id": "2651",
+     "defaultDialog": "That new guy... aren't zombies supposed to obey orders absolutely?"
+    },
+    {
+     "id": "2652",
+     "defaultDialog": "I don't fight women. That's my chivalry!"
+    },
+    {
+     "id": "2653",
+     "defaultDialog": "Could this zombie be Sanji's..."
+    },
+    {
+     "id": "2656",
+     "defaultDialog": "I prefer delicate women..."
+    },
+    {
+     "id": "2657",
+     "defaultDialog": "Meeeat!!!"
+    },
+    {
+     "id": "2658",
+     "defaultDialog": "Whoa! He's going berserk!"
+    },
+    {
+     "id": "2659",
+     "defaultDialog": "This is a bit tricky."
+    },
+    {
+     "id": "2660",
+     "defaultDialog": "So big, yet so agile..."
+    },
+    {
+     "id": "2661",
+     "defaultDialog": "Guaaaah!!!"
+    },
+    {
+     "id": "2662",
+     "defaultDialog": "Before dawn, at least get Luffy back to normal!"
+    },
+    {
+     "id": "2663",
+     "defaultDialog": "To be honest, I just started to feel I'm about to be wiped out..."
+    },
+    {
+     "id": "2664",
+     "defaultDialog": "Don't be fooled by the shadow..."
+    },
+    {
+     "id": "2665",
+     "defaultDialog": "Not being able to repay a kindness is too painful! I don't care if I'm smashed to pieces!"
+    },
+    {
+     "id": "2666",
+     "defaultDialog": "500 years ago, Oars must have gotten lost, wandered into a land of ice and frozen to death!"
+    },
+    {
+     "id": "2667",
+     "defaultDialog": "We've got no choice but to give it our all!"
+    },
+    {
+     "id": "2668",
+     "defaultDialog": "Then here goes! With my special mortar!"
+    },
+    {
+     "id": "2669",
+     "defaultDialog": "It's almost dawn!"
+    },
+    {
+     "id": "2670",
+     "defaultDialog": "Look what you've done! You've made a mess of my Thriller Bark!"
+    },
+    {
+     "id": "2671",
+     "defaultDialog": "I'm called a Pacifista, a humanoid weapon the government hasn't finished yet."
+    },
+    {
+     "id": "2672",
+     "defaultDialog": "You're all my type!"
+    },
+    {
+     "id": "2677",
+     "defaultDialog": "How infuriating!"
+    },
+    {
+     "id": "2678",
+     "defaultDialog": "Outsmarted by a bunch of trash... how humiliating..."
+    },
+    {
+     "id": "2679",
+     "defaultDialog": "Miss Nami!!!"
+    },
+    {
+     "id": "2681",
+     "defaultDialog": "This sleeping pill works well."
+    },
+    {
+     "id": "2684",
+     "defaultDialog": "It's not easy for the boss to get married! We won't let you ruin it!"
+    },
+    {
+     "id": "2687",
+     "defaultDialog": "What grudge do you have against our boss?!"
+    },
+    {
+     "id": "2690",
+     "defaultDialog": "You interrupted before I even saw the vow kiss!"
+    },
+    {
+     "id": "2702",
+     "defaultDialog": "Don't joke around. As if I'd hand Miss Nami over to you."
+    },
+    {
+     "id": "2703",
+     "defaultDialog": "Unbelievable! I can live in the sunlight once more!"
+    },
+    {
+     "id": "2704",
+     "defaultDialog": "It's great to have friends..."
+    },
+    {
+     "id": "2707",
+     "defaultDialog": "Don't disturb Zoro's rest. He's badly hurt."
+    },
+    {
+     "id": "2709",
+     "defaultDialog": "Heh heh... isn't this nice?"
+    },
+    {
+     "id": "2710",
+     "defaultDialog": "Ban... quet! Ban... quet! Oh! Baby!"
+    },
+    {
+     "id": "2711",
+     "defaultDialog": "Gahahaha...!!"
+    },
+    {
+     "id": "2712",
+     "defaultDialog": "I made lots of food! Don't you dare leave any!!"
+    },
+    {
+     "id": "2735",
+     "defaultDialog": "There are so many zombies here, I'm so scared..."
+    },
+    {
+     "id": "2736",
+     "defaultDialog": "We can't give up fighting!"
+    },
+    {
+     "id": "2743",
+     "defaultDialog": "I'll get through here and regroup with my friends!"
+    },
+    {
+     "id": "2745",
+     "defaultDialog": "Ah... what should I do"
+    },
+    {
+     "id": "2746",
+     "defaultDialog": "Woof! Woof! Awoo!"
+    },
+    {
+     "id": "2747",
+     "defaultDialog": "Our job is to drive off the survivors!"
+    },
+    {
+     "id": "2749",
+     "defaultDialog": "Hey, why aren't you running away when you see me!"
+    },
+    {
+     "id": "2750",
+     "defaultDialog": "I feel like... like I lost something important..."
+    },
+    {
+     "id": "2751",
+     "defaultDialog": "My friend seems to have lost something important. I came out to gather information."
+    },
+    {
+     "id": "2752",
+     "defaultDialog": "What's this?"
+    },
+    {
+     "id": "2753",
+     "defaultDialog": "I can't go on, I can't run anymore. You go ahead."
+    },
+    {
+     "id": "2754",
+     "defaultDialog": "If we die, we die together!"
+    },
+    {
+     "id": "2755",
+     "defaultDialog": "You've got nowhere left to run!"
+    },
+    {
+     "id": "2757",
+     "defaultDialog": "You wasted so much of my time!"
+    },
+    {
+     "id": "2758",
+     "defaultDialog": "Finally... finally I can see the sun!"
+    },
+    {
+     "id": "2759",
+     "defaultDialog": "Where... am I?"
+    },
+    {
+     "id": "2760",
+     "defaultDialog": "What are you doing!!"
+    },
+    {
+     "id": "2762",
+     "defaultDialog": "Are the zombies gone?"
+    },
+    {
+     "id": "2763",
+     "defaultDialog": "It should be safe to walk out now..."
+    },
+    {
+     "id": "2764",
+     "defaultDialog": "Thank you! In my lifetime I... I can have a shadow again..."
+    },
+    {
+     "id": "2765",
+     "defaultDialog": "Thanks for your hard work. Let me rest here for a while."
+    },
+    {
+     "id": "2788",
+     "defaultDialog": "Want to hear a story?"
+    },
+    {
+     "id": "3254",
+     "defaultDialog": "I work part-time at Hatchan's takoyaki shop now. I want to be a fashion designer someday!"
+    },
+    {
+     "id": "3255",
+     "defaultDialog": "You sure are chatting up a storm... Aren't you forgetting someone important?"
+    },
+    {
+     "id": "3256",
+     "defaultDialog": "Don't come, Camie!"
+    },
+    {
+     "id": "3257",
+     "defaultDialog": "Catch Camie and we'll be rich, ha ha ha!"
+    },
+    {
+     "id": "3258",
+     "defaultDialog": "Even Hatchan, who always comes to save you, ended up like that!"
+    },
+    {
+     "id": "3259",
+     "defaultDialog": "You can't escape... Camie..."
+    },
+    {
+     "id": "3260",
+     "defaultDialog": "Luffy! Waaah!"
+    },
+    {
+     "id": "3261",
+     "defaultDialog": "Bastards! Let go of Camie!"
+    },
+    {
+     "id": "3262",
+     "defaultDialog": "Yohohoho! Music is power!"
+    },
+    {
+     "id": "3263",
+     "defaultDialog": "Don't forget, this is our turf!"
+    },
+    {
+     "id": "3264",
+     "defaultDialog": "We'll show you our speed and destructive power!"
+    },
+    {
+     "id": "3265",
+     "defaultDialog": "There's a woman! I hate to hit her."
+    },
+    {
+     "id": "3266",
+     "defaultDialog": "Even if I have to tear this place apart, I'll get you!"
+    },
+    {
+     "id": "3267",
+     "defaultDialog": "The boss is so mad his accent's coming out!"
+    },
+    {
+     "id": "3268",
+     "defaultDialog": "Boss..."
+    },
+    {
+     "id": "3269",
+     "defaultDialog": "You were scared too, weren't you!"
+    },
+    {
+     "id": "3270",
+     "defaultDialog": "Is that my fault?!"
+    },
+    {
+     "id": "3271",
+     "defaultDialog": "That's just what you look like."
+    },
+    {
+     "id": "3272",
+     "defaultDialog": "Yohohoho yohohoho yohohoho!"
+    },
+    {
+     "id": "3273",
+     "defaultDialog": "From now on, let's rename ourselves the \"Pink Life Knights\"!"
+    },
+    {
+     "id": "3274",
+     "defaultDialog": "Yes! Handsome!"
+    },
+    {
+     "id": "3275",
+     "defaultDialog": "Boss! You've got to listen to people!"
+    },
+    {
+     "id": "3276",
+     "defaultDialog": "I'm stuffed! Why is this takoyaki so good!?"
+    },
+    {
+     "id": "3277",
+     "defaultDialog": "Leaving? Do you know how to get to Fish-Man Island?"
+    },
+    {
+     "id": "3278",
+     "defaultDialog": "Robin-chan, what would you like for afternoon tea?"
+    },
+    {
+     "id": "3279",
+     "defaultDialog": "Sea monsters and sharks... I'm not scared at all!"
+    },
+    {
+     "id": "3280",
+     "defaultDialog": "Delicious!"
+    },
+    {
+     "id": "3281",
+     "defaultDialog": "But this ship can't dive."
+    },
+    {
+     "id": "3282",
+     "defaultDialog": "I'm about to burst, I'm so happy!"
+    },
+    {
+     "id": "3283",
+     "defaultDialog": "What a lovely afternoon, burp..."
+    },
+    {
+     "id": "3284",
+     "defaultDialog": "Then, a coffee please."
+    },
+    {
+     "id": "3285",
+     "defaultDialog": "Told you, right? Hatchan's takoyaki is the best in the world, right?!"
+    },
+    {
+     "id": "3287",
+     "defaultDialog": "Exhausting... They sure can eat. That's the Straw Hats for you!"
+    },
+    {
+     "id": "3288",
+     "defaultDialog": "I'll stay to guard the treasure for Miss Nami. After all, I'm a slave to love!"
+    },
+    {
+     "id": "3289",
+     "defaultDialog": "If you admit it yourself, I've got nothing to say."
+    },
+    {
+     "id": "3290",
+     "defaultDialog": "What to do? The ship is full of treasure, and where's the knight to guard it?"
+    },
+    {
+     "id": "3291",
+     "defaultDialog": "This is the world's largest mangrove forest. These 79 trees make up the Sabaody Archipelago."
+    },
+    {
+     "id": "3292",
+     "defaultDialog": "Don't be silly, you can't ride it, Camie!"
+    },
+    {
+     "id": "3293",
+     "defaultDialog": "Sabaody Park is the place I've always longed for..."
+    },
+    {
+     "id": "3296",
+     "defaultDialog": "Even catching one would make us rich..."
+    },
+    {
+     "id": "3315",
+     "defaultDialog": "You're the ones with the 300 million bounty..."
+    },
+    {
+     "id": "3320",
+     "defaultDialog": "My information network is quite impressive."
+    },
+    {
+     "id": "3321",
+     "defaultDialog": "Huh? Are you treating me like an easy mark?"
+    },
+    {
+     "id": "3322",
+     "defaultDialog": "It's the first time I've seen such a rip-off."
+    },
+    {
+     "id": "3323",
+     "defaultDialog": "Woman, I advise you to know your place!"
+    },
+    {
+     "id": "3324",
+     "defaultDialog": "Let Hatchan rest and heal here with me."
+    },
+    {
+     "id": "3326",
+     "defaultDialog": "What a pain. I thought this would be easy."
+    },
+    {
+     "id": "3327",
+     "defaultDialog": "I won't let you through... Brother Kizaru..."
+    },
+    {
+     "id": "3328",
+     "defaultDialog": "My defense is the best in the world."
+    },
+    {
+     "id": "3331",
+     "defaultDialog": "If you went traveling, where would you go?"
+    },
+    {
+     "id": "3332",
+     "defaultDialog": "Who are you!?"
+    },
+    {
+     "id": "3337",
+     "defaultDialog": "Celestial Dragons... damn them!"
+    },
+    {
+     "id": "3338",
+     "defaultDialog": "We'll get you back!"
+    },
+    {
+     "id": "3340",
+     "defaultDialog": "Miss Nami, could we buy that girl too?"
+    },
+    {
+     "id": "3341",
+     "defaultDialog": "Camie must be so scared, right?"
+    },
+    {
+     "id": "3342",
+     "defaultDialog": "Waah... it's all my fault..."
+    },
+    {
+     "id": "3343",
+     "defaultDialog": "Compared to those greedy, power-hungry people, the bad stuff we do is child's play, right, Killer."
+    },
+    {
+     "id": "3344",
+     "defaultDialog": "That's right..."
+    },
+    {
+     "id": "3345",
+     "defaultDialog": "Captain, they're here."
+    },
+    {
+     "id": "3346",
+     "defaultDialog": "Heh heh, you've opened my eyes."
+    },
+    {
+     "id": "3349",
+     "defaultDialog": "Camie! Finally found you! Thank goodness!"
+    },
+    {
+     "id": "3350",
+     "defaultDialog": "Mmhmm! Hmm! Mm! Octopus! Free! ♪"
+    },
+    {
+     "id": "3352",
+     "defaultDialog": "Call Marine HQ and the warships! Teach them a lesson!!"
+    },
+    {
+     "id": "3354",
+     "defaultDialog": "Guards! Come quickly!"
+    },
+    {
+     "id": "3362",
+     "defaultDialog": "Arrest the pirates!"
+    },
+    {
+     "id": "3368",
+     "defaultDialog": "You fools actually want to protect a Fish-Man!"
+    },
+    {
+     "id": "3373",
+     "defaultDialog": "Seems we're a bit too conspicuous."
+    },
+    {
+     "id": "3374",
+     "defaultDialog": "Hurry and save little Camie!"
+    },
+    {
+     "id": "3375",
+     "defaultDialog": "You all know what to do, right?"
+    },
+    {
+     "id": "3376",
+     "defaultDialog": "You punched him away, so now I can't cut him."
+    },
+    {
+     "id": "3377",
+     "defaultDialog": "Sorry I'm late... pardon me!"
+    },
+    {
+     "id": "3378",
+     "defaultDialog": "The key to Camie's collar must be hidden backstage!"
+    },
+    {
+     "id": "3379",
+     "defaultDialog": "Oh well, that's Luffy for you!"
+    },
+    {
+     "id": "3380",
+     "defaultDialog": "Crane!"
+    },
+    {
+     "id": "3381",
+     "defaultDialog": "Luffy, where's Camie?!"
+    },
+    {
+     "id": "3403",
+     "defaultDialog": "We've got top-grade goods today. They'd better sell high!"
+    },
+    {
+     "id": "3404",
+     "defaultDialog": "Don't interfere with our business. The Marines are stationed nearby!"
+    },
+    {
+     "id": "3405",
+     "defaultDialog": "Well, well... more of you than I expected..."
+    },
+    {
+     "id": "3406",
+     "defaultDialog": "How annoying. Why do I have to work with these guys..."
+    },
+    {
+     "id": "3407",
+     "defaultDialog": "We just have to beat the Marines, right!"
+    },
+    {
+     "id": "3409",
+     "defaultDialog": "An Admiral is arriving soon! I suggest you surrender now!"
+    },
+    {
+     "id": "3443",
+     "defaultDialog": "Everyone, careful! Cannonballs don't work on them! All three of them are Devil Fruit users!"
+    },
+    {
+     "id": "3445",
+     "defaultDialog": "This has been my dream since I was little... I'll never forget it! Thank you!"
+    },
+    {
+     "id": "3446",
+     "defaultDialog": "Nahaha! Are you crying because you're happy?"
+    },
+    {
+     "id": "3447",
+     "defaultDialog": "Let's ride that next!"
+    },
+    {
+     "id": "3448",
+     "defaultDialog": "Every mermaid and Fish-Man must have dreamed of coming here as a kid!"
+    },
+    {
+     "id": "3449",
+     "defaultDialog": "Yohoho, it doesn't look that tall."
+    },
+    {
+     "id": "3450",
+     "defaultDialog": "Camie! You can't go in!"
+    },
+    {
+     "id": "3451",
+     "defaultDialog": "Daddy brought you to the amusement park today, so don't tell Mommy when we get home!"
+    },
+    {
+     "id": "3452",
+     "defaultDialog": "Okay, Daddy... (blushing)"
+    },
+    {
+     "id": "3453",
+     "defaultDialog": "Did you have fun at the amusement park today?"
+    },
+    {
+     "id": "3454",
+     "defaultDialog": "These three tickets cost me a month's pay..."
+    },
+    {
+     "id": "3455",
+     "defaultDialog": "If you two keep fighting, I'm going home... We rarely get to come to the amusement park..."
+    },
+    {
+     "id": "3456",
+     "defaultDialog": "What are you doing here! I was first!"
+    },
+    {
+     "id": "3457",
+     "defaultDialog": "How can this be! How are you so good at this!"
+    },
+    {
+     "id": "3458",
+     "defaultDialog": "Maybe this is the place I've always been looking for..."
+    },
+    {
+     "id": "3459",
+     "defaultDialog": "Remember when we first met?"
+    },
+    {
+     "id": "3460",
+     "defaultDialog": "Big Brother... sigh..."
+    },
+    {
+     "id": "3461",
+     "defaultDialog": "I'm thanking heaven you didn't bring that awful harmonica."
+    },
+    {
+     "id": "3462",
+     "defaultDialog": "Hey! You there! Ask how much it costs to buy this place!"
+    },
+    {
+     "id": "3463",
+     "defaultDialog": "Mister... why did Daddy sneak off here?"
+    },
+    {
+     "id": "3464",
+     "defaultDialog": "Finally, vacation!"
+    },
+    {
+     "id": "3465",
+     "defaultDialog": "Big Sis! We could open a café here too!"
+    },
+    {
+     "id": "3466",
+     "defaultDialog": "Little Sis, let's go back and ask the boss."
+    },
+    {
+     "id": "3469",
+     "defaultDialog": "How vulgar and rude!"
+    },
+    {
+     "id": "3474",
+     "defaultDialog": "Is this a m-man? It's the first time I've seen one..."
+    },
+    {
+     "id": "3475",
+     "defaultDialog": "I... I'm feeling a little strange. I should be firmly driving men out..."
+    },
+    {
+     "id": "3476",
+     "defaultDialog": "Get him! Take his head!"
     },
     {
      "id": "5520",
@@ -1362,7 +2718,7 @@
     }
    ],
    "other_bundle_rows": [],
-   "partial": "337/1842 rows translated so far"
+   "partial": "676/1842 rows translated so far"
   },
   "TableGuideStepExtra": {
    "key_column": "tag",
