@@ -792,6 +792,829 @@
     }
    ]
   },
+  "TableBossSkillInfo": {
+   "key_column": "BossSkillId",
+   "text_columns": [
+    "SkillName",
+    "SkillDesc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "BossSkillId": "1",
+     "SkillName": "Revived",
+     "SkillDesc": "Has a revive skill and can revive allies"
+    },
+    {
+     "BossSkillId": "2",
+     "SkillName": "Symbiosis",
+     "SkillDesc": "DMG taken by the leader is passed on to other allies"
+    },
+    {
+     "BossSkillId": "3",
+     "SkillName": "Enrage",
+     "SkillDesc": "The leader increases ATK and CRIT DMG"
+    },
+    {
+     "BossSkillId": "4",
+     "SkillName": "Ctrl",
+     "SkillDesc": "The leader has control skills"
+    },
+    {
+     "BossSkillId": "5",
+     "SkillName": "Puppet",
+     "SkillDesc": "Enemy characters are controlled by other enemy characters"
+    },
+    {
+     "BossSkillId": "6",
+     "SkillName": "Revive Immunity",
+     "SkillDesc": "Some of the player's revive skills have no effect in battle"
+    },
+    {
+     "BossSkillId": "7",
+     "SkillName": "Control Immunity",
+     "SkillDesc": "Immune to some control skills"
+    },
+    {
+     "BossSkillId": "8",
+     "SkillName": "HP Recovery",
+     "SkillDesc": "Enemy characters have recovery skills"
+    },
+    {
+     "BossSkillId": "9",
+     "SkillName": "Form Change",
+     "SkillDesc": "Enemy characters can transform"
+    },
+    {
+     "BossSkillId": "10",
+     "SkillName": "Concealment",
+     "SkillDesc": "Enemy characters can turn invisible"
+    },
+    {
+     "BossSkillId": "11",
+     "SkillName": "Self-Destruct",
+     "SkillDesc": "Enemy characters explode and deal AoE DMG"
+    },
+    {
+     "BossSkillId": "12",
+     "SkillName": "Real Man",
+     "SkillDesc": "A real man only loses one-on-one."
+    },
+    {
+     "BossSkillId": "13",
+     "SkillName": "Upset Stomach",
+     "SkillDesc": "The poison soup he drank this morning was too strong, and his stomach is going haywire. (Still fighting through such torment, he's a man among men)"
+    },
+    {
+     "BossSkillId": "14",
+     "SkillName": "Rage",
+     "SkillDesc": "Will stop at nothing to destroy the enemies before him so he can get to the toilet sooner"
+    },
+    {
+     "BossSkillId": "15",
+     "SkillName": "Will of the Chief Warden",
+     "SkillDesc": "Magellan withstands death once and raises his SPD to the limit, then unleashes the all-destroying Venom Giant"
+    },
+    {
+     "BossSkillId": "16",
+     "SkillName": "Kairagi",
+     "SkillDesc": "When HP lost within a turn exceeds 35%, gains Invincibility and recovers 100% HP at the end of the turn."
+    },
+    {
+     "BossSkillId": "17",
+     "SkillName": "Physical Immunity",
+     "SkillDesc": "Immune to physical DMG"
+    },
+    {
+     "BossSkillId": "18",
+     "SkillName": "Attribute DMG Immunity",
+     "SkillDesc": "Immune to Attribute DMG"
+    },
+    {
+     "BossSkillId": "19",
+     "SkillName": "Human Wave Tactics",
+     "SkillDesc": "Summons 4 underlings to fight together. If the underlings are not all killed by one character in a single action, new Fish-Men are automatically summoned to join the battle."
+    },
+    {
+     "BossSkillId": "20",
+     "SkillName": "Flamethrower",
+     "SkillDesc": "Breathes fire to attack enemies and burn the field. At turn start, enemies standing on the flames take Fire DMG."
+    },
+    {
+     "BossSkillId": "21",
+     "SkillName": "Dragon Skin",
+     "SkillDesc": "After taking a certain percentage of DMG within a turn, gains Invincibility until the end of the turn."
+    },
+    {
+     "BossSkillId": "22",
+     "SkillName": "Fire Island Climate",
+     "SkillDesc": "HP cannot be recovered in this battle, and talents that ignore Attribute DMG have no effect."
+    },
+    {
+     "BossSkillId": "23",
+     "SkillName": "Righteous Aura",
+     "SkillDesc": "When taking lethal DMG, gains the Justice effect, making enemies auto-battle until the end of the turn and converting DMG taken into HP for 2 turns. Cooldown: 3 turns."
+    },
+    {
+     "BossSkillId": "24",
+     "SkillName": "Smoke-Smoke Fruit",
+     "SkillDesc": "At battle start, applies \"White Shield\" to allies. At turn start, applies \"White Shield\" to self and a random ally."
+    },
+    {
+     "BossSkillId": "25",
+     "SkillName": "G-5 Vice Admiral",
+     "SkillDesc": "At turn end, increases the Shield value of teammates with \"White Shield\" and permanently increases their ATK and all DMG reduction."
+    },
+    {
+     "BossSkillId": "26",
+     "SkillName": "Unyielding Heart",
+     "SkillDesc": "At the end of an action, if no kill was scored, ATK increases until the next kill."
+    },
+    {
+     "BossSkillId": "27",
+     "SkillName": "Newly Promoted Captain",
+     "SkillDesc": "If not in the Justice state, the lower the HP when attacked, the higher the Dodge, with a chance to interrupt the target's action."
+    },
+    {
+     "BossSkillId": "28",
+     "SkillName": "Uphold Justice",
+     "SkillDesc": "When own Shield breaks, Stuns all enemies until the end of the turn. Cooldown: 3 turns."
+    },
+    {
+     "BossSkillId": "29",
+     "SkillName": "Monster",
+     "SkillDesc": "Invincible while HP is above a certain percentage."
+    },
+    {
+     "BossSkillId": "30",
+     "SkillName": "Split",
+     "SkillDesc": "When alone on its side, consumes HP on its next action to split into several clones."
+    },
+    {
+     "BossSkillId": "31",
+     "SkillName": "Gas-Gas Fruit",
+     "SkillDesc": "When attacked by enemies above 50% HP, greatly reduces their ATK."
+    },
+    {
+     "BossSkillId": "32",
+     "SkillName": "Room Without Air",
+     "SkillDesc": "At the end of odd turns, deals a percentage of DMG to enemies below 50% HP."
+    },
+    {
+     "BossSkillId": "33",
+     "SkillName": "Poison Gas",
+     "SkillDesc": "At turn start, deals percentage DMG to all enemies. Targets that attacked this unit more times last turn take more DMG."
+    },
+    {
+     "BossSkillId": "34",
+     "SkillName": "Captain's Resolve",
+     "SkillDesc": "Don't kill his crewmates in front of the captain."
+    },
+    {
+     "BossSkillId": "35",
+     "SkillName": "Flame Burst",
+     "SkillDesc": "Sometimes recovers HP when taking Fire DMG; clones self-destruct when taking Fire DMG."
+    },
+    {
+     "BossSkillId": "36",
+     "SkillName": "Explosive Castanets",
+     "SkillDesc": "Attacks front-row targets, dealing Fire DMG and Burn. The Burn can be dispelled"
+    },
+    {
+     "BossSkillId": "37",
+     "SkillName": "Inspire",
+     "SkillDesc": "Cast on allies other than self each turn, increasing their ATK and DEF; stackable"
+    },
+    {
+     "BossSkillId": "38",
+     "SkillName": "Gasified Body",
+     "SkillDesc": "Increases Dodge, DEF and Elemental RES, and is immune to most control skills (except Knock-Away/Banish effects)"
+    },
+    {
+     "BossSkillId": "39",
+     "SkillName": "Blue Flame Sword",
+     "SkillDesc": "Caesar uses the Blue Flame Sword to attack a single enemy, dealing heavy DMG."
+    },
+    {
+     "BossSkillId": "40",
+     "SkillName": "KO.RO",
+     "SkillDesc": "Instantly releases a wide area of lethal poison gas, dealing heavy DMG to enemies."
+    },
+    {
+     "BossSkillId": "41",
+     "SkillName": "Wind Vulnerability",
+     "SkillDesc": "Caesar takes more Wind DMG, but is immune to all control effects."
+    },
+    {
+     "BossSkillId": "42",
+     "SkillName": "Blue Flame Sword",
+     "SkillDesc": "Attacks a single front-row target with a chance to Knock Up and mark it. If the marked target is hit by the Blue Flame Sword again, it takes more DMG"
+    },
+    {
+     "BossSkillId": "43",
+     "SkillName": "Gas Burner",
+     "SkillDesc": "Deals high AoE DMG with Fire DMG. If the player has a Shield, dispels it and deals a small amount of DMG"
+    },
+    {
+     "BossSkillId": "44",
+     "SkillName": "Elemental Vulnerability",
+     "SkillDesc": "Caesar takes more Ultimate and Elemental DMG, but is immune to all control effects"
+    },
+    {
+     "BossSkillId": "45",
+     "SkillName": "Land of the Dead",
+     "SkillDesc": "Releases highly toxic gas, dealing DMG to all enemies"
+    },
+    {
+     "BossSkillId": "46",
+     "SkillName": "Room Without Air",
+     "SkillDesc": "Sucks the air out of an area to create a vacuum, then releases oxygen and unleashes Explosive Castanets, heavily damaging all enemies."
+    },
+    {
+     "BossSkillId": "47",
+     "SkillName": "True DMG Vulnerability",
+     "SkillDesc": "Caesar takes more True Damage, but is immune to all control effects"
+    },
+    {
+     "BossSkillId": "48",
+     "SkillName": "Fighting Bull Constitution",
+     "SkillDesc": "Death of the Colosseum. Under certain conditions, something terrible happens when it is attacked."
+    },
+    {
+     "BossSkillId": "49",
+     "SkillName": "Armament Thrust Punch",
+     "SkillDesc": "Removes Stunned characters when this skill is cast."
+    },
+    {
+     "BossSkillId": "50",
+     "SkillName": "Leader's Strength",
+     "SkillDesc": "Unfathomable."
+    },
+    {
+     "BossSkillId": "51",
+     "SkillName": "Gravity Destruction",
+     "SkillDesc": "Removes characters with current SPD below 100 when this skill is cast."
+    },
+    {
+     "BossSkillId": "52",
+     "SkillName": "Aura of the Strong",
+     "SkillDesc": "Immune to most control skills"
+    },
+    {
+     "BossSkillId": "53",
+     "SkillName": "Shadow Raid",
+     "SkillDesc": "Deals a small amount of DMG to a single target"
+    },
+    {
+     "BossSkillId": "54",
+     "SkillName": "Aura of the Strong",
+     "SkillDesc": "Immune to most control skills"
+    },
+    {
+     "BossSkillId": "55",
+     "SkillName": "Shadow Rend",
+     "SkillDesc": "Deals moderate DMG to a single target"
+    },
+    {
+     "BossSkillId": "56",
+     "SkillName": "Aura of the Strong",
+     "SkillDesc": "Immune to most control skills"
+    },
+    {
+     "BossSkillId": "57",
+     "SkillName": "Shadow Raid",
+     "SkillDesc": "Deals heavy DMG to a single target"
+    },
+    {
+     "BossSkillId": "58",
+     "SkillName": "Weakness Enhancement",
+     "SkillDesc": "Characters who have defeated Pica will have a hard time hitting Pica again."
+    },
+    {
+     "BossSkillId": "59",
+     "SkillName": "Stone Clone",
+     "SkillDesc": "Must be defeated multiple times to die."
+    },
+    {
+     "BossSkillId": "60",
+     "SkillName": "Tough Guy Constitution",
+     "SkillDesc": "Only takes DMG from the first character to attack it with a skill each turn."
+    },
+    {
+     "BossSkillId": "61",
+     "SkillName": "Don't Touch Me",
+     "SkillDesc": "When Sugar is Stunned, all characters turned into toys are restored, but the chance is fleeting."
+    },
+    {
+     "BossSkillId": "62",
+     "SkillName": "Flag Domain",
+     "SkillDesc": "When attacking with a skill or Ultimate, the character's position moves one tile to the left."
+    },
+    {
+     "BossSkillId": "63",
+     "SkillName": "Sticky-Sticky Fruit",
+     "SkillDesc": "Trebol recovers HP when attacked with a skill or Ultimate by characters covered in slime."
+    },
+    {
+     "BossSkillId": "64",
+     "SkillName": "Sticky Protection",
+     "SkillDesc": "When Trebol's HP falls below 50%, he becomes Invincible for 2 turns and applies 1 stack of Slime to all enemies."
+    },
+    {
+     "BossSkillId": "65",
+     "SkillName": "Lock On",
+     "SkillDesc": "Has a chance to be immune to the DMG when hit, and increases own ATK."
+    },
+    {
+     "BossSkillId": "66",
+     "SkillName": "Stone Golem Clone",
+     "SkillDesc": "When the Stone Golem Clone dies, Pica gains all of the golem's abilities."
+    },
+    {
+     "BossSkillId": "67",
+     "SkillName": "Haki Form",
+     "SkillDesc": "Ignores all debuffs, but CRIT DMG taken is increased."
+    },
+    {
+     "BossSkillId": "68",
+     "SkillName": "Weaken: Ice",
+     "SkillDesc": "Leader Oars takes 30% more Ice DMG"
+    },
+    {
+     "BossSkillId": "69",
+     "SkillName": "Weaken: Fire",
+     "SkillDesc": "Leader Oars takes 30% more Fire DMG"
+    },
+    {
+     "BossSkillId": "70",
+     "SkillName": "Weak to Thunder",
+     "SkillDesc": "Leader Oars takes 30% more Thunder DMG"
+    },
+    {
+     "BossSkillId": "71",
+     "SkillName": "Weaken: Wind",
+     "SkillDesc": "Leader Oars takes 30% more Wind DMG"
+    },
+    {
+     "BossSkillId": "72",
+     "SkillName": "Weak to Poison",
+     "SkillDesc": "Leader Oars takes 30% more Poison DMG"
+    },
+    {
+     "BossSkillId": "73",
+     "SkillName": "Weak to Light",
+     "SkillDesc": "Leader Oars takes 30% more Light DMG"
+    },
+    {
+     "BossSkillId": "74",
+     "SkillName": "Weak to Dark",
+     "SkillDesc": "Leader Oars takes 30% more Dark DMG"
+    },
+    {
+     "BossSkillId": "75",
+     "SkillName": "Weak to Water",
+     "SkillDesc": "Leader Oars takes 30% more Water DMG"
+    },
+    {
+     "BossSkillId": "76",
+     "SkillName": "Physical DMG Taken UP",
+     "SkillDesc": "Leader Oars takes 30% more physical DMG"
+    },
+    {
+     "BossSkillId": "77",
+     "SkillName": "Finisher DMG Taken UP",
+     "SkillDesc": "Leader Oars takes 50% more Finisher DMG"
+    },
+    {
+     "BossSkillId": "78",
+     "SkillName": "Ultimate DMG Taken UP",
+     "SkillDesc": "Leader Oars takes 50% more Ultimate DMG"
+    },
+    {
+     "BossSkillId": "79",
+     "SkillName": "CRIT DMG Taken UP",
+     "SkillDesc": "Leader Oars takes 50% more CRIT DMG"
+    },
+    {
+     "BossSkillId": "80",
+     "SkillName": "Haki Form",
+     "SkillDesc": "During Death Stardust, attacking means taking massive DMG. Only true warriors can break it, but it may enrage Diamante."
+    },
+    {
+     "BossSkillId": "81",
+     "SkillName": "Blast Pellet",
+     "SkillDesc": "Always watch out for the blast pellets under your feet"
+    },
+    {
+     "BossSkillId": "82",
+     "SkillName": "Full-Body Blast",
+     "SkillDesc": "Gladius may become enraged when his HP is low"
+    },
+    {
+     "BossSkillId": "83",
+     "SkillName": "I'm Needed!",
+     "SkillDesc": "She can't refuse anyone as long as they need her; enemies can only be defeated by Baby 5."
+    },
+    {
+     "BossSkillId": "84",
+     "SkillName": "String-String Fruit",
+     "SkillDesc": "Summons multiple clones to help in battle. Each clone has one and only one ability. Clones take reduced DMG from all-target skills, and when a clone dies, it strengthens the other clones' abilities."
+    },
+    {
+     "BossSkillId": "85",
+     "SkillName": "God Thread",
+     "SkillDesc": "Absorbs the clones on the field (except the Birdcage clone), granting matching enhancements to its extension skills."
+    },
+    {
+     "BossSkillId": "86",
+     "SkillName": "Clone - Bullet String",
+     "SkillDesc": "Can attack multiple times\\nEnhancement 1: ignores interrupts\\nEnhancement 2: can act again on a kill\\nAbsorbed: can cast the extension Finisher 2 times"
+    },
+    {
+     "BossSkillId": "87",
+     "SkillName": "Clone - Overheat String",
+     "SkillDesc": "Permanently increases allied ATK, stackable\\nEnhancement 1: effect doubled\\nEnhancement 2: lowers target ATK\\nAbsorbed: attacks always hit and always CRIT"
+    },
+    {
+     "BossSkillId": "88",
+     "SkillName": "Clone - Cutting String",
+     "SkillDesc": "Permanently reduces healing, stackable\\nEnhancement 1: reduction ignores immunity\\nEnhancement 2: becomes no HP recovery for 4 turns\\nAbsorbed: no HP recovery when the extension Finisher is cast"
+    },
+    {
+     "BossSkillId": "89",
+     "SkillName": "Clone - Parasite String",
+     "SkillDesc": "Parasitized units deal no DMG, and their side loses HP\\nEnhancement 1: ignores immunity\\nEnhancement 2: longer duration, plus Knock-Up\\nAbsorbed: the extension Finisher applies control effects."
+    },
+    {
+     "BossSkillId": "90",
+     "SkillName": "Clone - Shadow Rider String",
+     "SkillDesc": "ATK greatly increases when attacking\\nEnhancement 1: guaranteed hit\\nEnhancement 2: removes targets below a certain HP\\nAbsorbed: extension Finisher DMG greatly increased"
+    },
+    {
+     "BossSkillId": "91",
+     "SkillName": "Clone - Birdcage",
+     "SkillDesc": "Releases the Birdcage when the countdown ends, removing all enemies\\nEnhancement 1: countdown -2 turns\\nEnhancement 2: countdown -4 turns\\nCannot be absorbed; the extension Finisher reduces the countdown"
+    },
+    {
+     "BossSkillId": "92",
+     "SkillName": "Gravity Pressure",
+     "SkillDesc": "When enemies cast skills, the DMG they deal gradually increases, cycling every 8 skills."
+    },
+    {
+     "BossSkillId": "93",
+     "SkillName": "Commanding Presence",
+     "SkillDesc": "Fujitora only takes DMG from enemies in the same row as himself."
+    },
+    {
+     "BossSkillId": "94",
+     "SkillName": "Attack State",
+     "SkillDesc": "Jack has high ATK while in good physical condition"
+    },
+    {
+     "BossSkillId": "95",
+     "SkillName": "Self-Heal State",
+     "SkillDesc": "Even after taking lethal DMG, Jack can quickly recover his health"
+    },
+    {
+     "BossSkillId": "96",
+     "SkillName": "Weakened State",
+     "SkillDesc": "Jack shows an opening; the chance to defeat him is right in front of you"
+    },
+    {
+     "BossSkillId": "97",
+     "SkillName": "Trembling of the Elephant Lord",
+     "SkillDesc": "Zou trembles from Zunesha's pain, shuffling both sides' formations every turn"
+    },
+    {
+     "BossSkillId": "98",
+     "SkillName": "Mammoth Charge",
+     "SkillDesc": "Rams enemies with his massive body; the one with lower HP is Banished for 2 turns"
+    },
+    {
+     "BossSkillId": "99",
+     "SkillName": "Ancient Species",
+     "SkillDesc": "Once Jack fully recovers his health, he immediately retaliates"
+    },
+    {
+     "BossSkillId": "100",
+     "SkillName": "Mafia Godfather",
+     "SkillDesc": "Capone summons gang underlings when attacking."
+    },
+    {
+     "BossSkillId": "101",
+     "SkillName": "Suppressing Fire",
+     "SkillDesc": "Capone's fierce cannon fire has a chance to Knock Up the slowest enemy."
+    },
+    {
+     "BossSkillId": "102",
+     "SkillName": "Fire Support",
+     "SkillDesc": "Summons three underlings when none are on the field. Underling attacks inflict Burn and reduce the target's Soul Jade by 2"
+    },
+    {
+     "BossSkillId": "103",
+     "SkillName": "Gang",
+     "SkillDesc": "While underlings are on the field, Capone gains a 50% ATK bonus and DMG reduction. When all underlings die, Capone is Stunned for three turns and takes 50% extra DMG when hit"
+    },
+    {
+     "BossSkillId": "104",
+     "SkillName": "Group Armor Break",
+     "SkillDesc": "Capone's attacks cannot be Dodged and apply a 30% DEF reduction for 2 turns"
+    },
+    {
+     "BossSkillId": "105",
+     "SkillName": "Elemental Vulnerability",
+     "SkillDesc": "Attribute DMG taken by Capone and his underlings +50%"
+    },
+    {
+     "BossSkillId": "106",
+     "SkillName": "Share the Burden",
+     "SkillDesc": "When Capone receives a SPD reduction effect, his underlings share it"
+    },
+    {
+     "BossSkillId": "107",
+     "SkillName": "Spreading Poison Mist",
+     "SkillDesc": "All of Reiju's skills have a chance to apply 1 stack of Poison on hit. Each Poison dissipates 2 turns after taking effect. At 5 stacks of Poison, the target gains Weaken, lowering ATK by 30%"
+    },
+    {
+     "BossSkillId": "108",
+     "SkillName": "Pink Storm",
+     "SkillDesc": "Reiju's attacks reduce the target's SPD by 10% and have a chance to spread the target's Poison stacks to all characters. At turn end, the target takes Poison DMG equal to 10% of Reiju's ATK for each stack of Poison"
+    },
+    {
+     "BossSkillId": "109",
+     "SkillName": "Sanji's Promise",
+     "SkillDesc": "Sanji will not deal DMG to Pudding"
+    },
+    {
+     "BossSkillId": "110",
+     "SkillName": "Rapid Mincer",
+     "SkillDesc": "Targets slower than Sanji are Stunned for 2 turns when he attacks them"
+    },
+    {
+     "BossSkillId": "111",
+     "SkillName": "Last Stand",
+     "SkillDesc": "After Reiju is defeated, Sanji loses his DEF but gains 100% ATK"
+    },
+    {
+     "BossSkillId": "112",
+     "SkillName": "Biscuit Legion",
+     "SkillDesc": "Summons a Biscuit Soldier when none are on the field, and gives Biscuit Soldiers a Shield of 50% Max HP every two turns"
+    },
+    {
+     "BossSkillId": "113",
+     "SkillName": "Soldier Cover",
+     "SkillDesc": "Biscuit Soldiers block all column DMG. After the Biscuit Soldier is defeated, Cracker loses his defenses, is Stunned for 3 turns and takes 50% extra DMG when attacked"
+    },
+    {
+     "BossSkillId": "114",
+     "SkillName": "Water Surface Slash",
+     "SkillDesc": "Smoothie raises the whole team's SPD by 5% each turn, and her attacks inflict Weaken, lowering the target's SPD by 20% and ATK by 50%"
+    },
+    {
+     "BossSkillId": "115",
+     "SkillName": "Sweet Commander",
+     "SkillDesc": "Katakuri gains 10% ATK each turn and recovers 20% Max HP at the end of each action"
+    },
+    {
+     "BossSkillId": "116",
+     "SkillName": "Thunder and Fire Combined",
+     "SkillDesc": "Every 5 turns, Charlotte Linlin inflicts Burn and Shock on all enemies for two turns. Targets with these statuses take heavy status DMG before and after acting"
+    },
+    {
+     "BossSkillId": "117",
+     "SkillName": "Imperial Might",
+     "SkillDesc": "After transforming, Charlotte Linlin gains a 70% DMG Bonus and 40% DMG reduction, and her attacks may deal heavy Sever DMG and clear the target's Soul Jade"
+    },
+    {
+     "BossSkillId": "118",
+     "SkillName": "Craving Disorder Attack",
+     "SkillDesc": "Charlotte Linlin's Accuracy increases every turn, and she gains 10% ATK and 10% CRIT each turn. After each action, she drains 50% HP from a random target"
+    },
+    {
+     "BossSkillId": "119",
+     "SkillName": "Extreme Frenzy",
+     "SkillDesc": "When Charlotte Linlin's HP is below 50%, her ATK, CRIT and CRIT DMG increase by 50%"
+    },
+    {
+     "BossSkillId": "120",
+     "SkillName": "Smoke Protection",
+     "SkillDesc": "When New World Smoker is first attacked by all enemies each turn, he has a chance to enter Smoke Protection (a matching icon appears above the character after being attacked)"
+    },
+    {
+     "BossSkillId": "121",
+     "SkillName": "Smoke Counter",
+     "SkillDesc": "In Smoke Protection, he uses smoke to Stun the opponent for 2 turns, surrounds himself with a Smoke Shield that ignores all CRITs, and Taunts all enemies until the end of the turn"
+    },
+    {
+     "BossSkillId": "122",
+     "SkillName": "Counter Opening",
+     "SkillDesc": "After New World Smoker enters Smoke Protection, if he is not attacked afterwards he leaves an opening, becoming unable to act for one turn and taking 100% more DMG"
+    },
+    {
+     "BossSkillId": "123",
+     "SkillName": "Lasting Power",
+     "SkillDesc": "New World Smoker quickly recovers from ATK reduction effects"
+    },
+    {
+     "BossSkillId": "124",
+     "SkillName": "Scorching Atmosphere",
+     "SkillDesc": "Fujitora uses gravity to summon meteors that scorch the surroundings. Our members lose some HP before acting if they are not protected by a Shield"
+    },
+    {
+     "BossSkillId": "125",
+     "SkillName": "Extreme Ice Guard",
+     "SkillDesc": "Aokiji gave the Marine soldiers Extreme Ice Stones, 3 per soldier. The ice packs grant immunity to Scorching Atmosphere, +1000 DEF and 10% DMG reduction"
+    },
+    {
+     "BossSkillId": "126",
+     "SkillName": "Raid",
+     "SkillDesc": "When our members land a hit with higher DEF than the Marine soldier, they gain an Extreme Ice Stone. Defeating a Marine soldier grants all of its ice packs"
+    },
+    {
+     "BossSkillId": "127",
+     "SkillName": "Ice and Fire",
+     "SkillDesc": "Player characters with ice packs deal heavy extra Ice DMG when attacking. For each ice pack the enemy loses, all of Akainu's DMG increases by 10%"
+    },
+    {
+     "BossSkillId": "128",
+     "SkillName": "Lasting Power",
+     "SkillDesc": "Fujitora quickly recovers from ATK reduction effects"
+    },
+    {
+     "BossSkillId": "129",
+     "SkillName": "Admiral's Strength",
+     "SkillDesc": "Kizaru gains 20% ATK and DEF each turn, and recovers HP equal to his DEF each turn"
+    },
+    {
+     "BossSkillId": "130",
+     "SkillName": "Refracting Mirror",
+     "SkillDesc": "Each time a player casts a skill, there is a chance to gain a Refracting Mirror. Acting again after gaining it loses the Refracting Mirror (a matching icon appears above the character once gained)"
+    },
+    {
+     "BossSkillId": "131",
+     "SkillName": "Power of the Light Mirror",
+     "SkillDesc": "If a character with a Refracting Mirror is hit by Kizaru's attack, the DMG is stored and dealt back to Kizaru as heavy DMG next turn"
+    },
+    {
+     "BossSkillId": "132",
+     "SkillName": "Consecutive Damage",
+     "SkillDesc": "After being hit by the Power of the Light Mirror 3 times in total, Kizaru loses all ATK/DEF bonuses and cannot act for 2 turns"
+    },
+    {
+     "BossSkillId": "133",
+     "SkillName": "Lasting Power",
+     "SkillDesc": "Kizaru quickly recovers from ATK reduction effects"
+    },
+    {
+     "BossSkillId": "134",
+     "SkillName": "War Coordination",
+     "SkillDesc": "Sengoku coordinates the elemental powers of the three Admirals, giving them a chance to cycle their elemental power when attacked. Once all three share the same element, it stops changing and they gain the matching ability"
+    },
+    {
+     "BossSkillId": "135",
+     "SkillName": "Extreme Ice Aura",
+     "SkillDesc": "The three Admirals gain 100% CRIT and deal extra Ice DMG when attacking. Our members deal extra Ice DMG when attacking, and if their DEF is higher than the target's, they also gain 100% CRIT"
+    },
+    {
+     "BossSkillId": "136",
+     "SkillName": "Power of Magma",
+     "SkillDesc": "The three Admirals deal heavy True DMG and Fire DMG when attacking. Our members deal extra Fire DMG when attacking, and if their ATK is higher than the target's, they also deal heavy True DMG"
+    },
+    {
+     "BossSkillId": "137",
+     "SkillName": "Might of the Flash",
+     "SkillDesc": "The three Admirals gain a large DMG Bonus and deal extra Light DMG when attacking. Our members deal extra Light DMG when attacking, and if their SPD is higher than the target's, they also gain a large DMG Bonus"
+    },
+    {
+     "BossSkillId": "138",
+     "SkillName": "Intimidating Strength",
+     "SkillDesc": "Sengoku's attacks have a chance to Stun the target for one turn"
+    },
+    {
+     "BossSkillId": "139",
+     "SkillName": "Lasting Power",
+     "SkillDesc": "Sengoku and the three Admirals quickly recover from ATK reduction effects"
+    },
+    {
+     "BossSkillId": "90001",
+     "SkillName": "Points Ranking",
+     "SkillDesc": "DMG dealt by guild members to all leaders is converted into points. All members' points count toward the guild's total, which is ranked against other guilds in the region. The top 50 guilds receive ranking rewards."
+    },
+    {
+     "BossSkillId": "90002",
+     "SkillName": "Reward Rules",
+     "SkillDesc": "Each time the guild defeats a leader, guild members who attacked that leader stage receive rewards. After the event ends, rewards are sent by mail to all guild members based on the guild's ranking."
+    },
+    {
+     "BossSkillId": "90003",
+     "SkillName": "Aura of the Strong",
+     "SkillDesc": "Immune to most control skills."
+    },
+    {
+     "BossSkillId": "90004",
+     "SkillName": "Rage",
+     "SkillDesc": "After taking a certain amount of DMG, increases own ATK and DEF."
+    },
+    {
+     "BossSkillId": "90005",
+     "SkillName": "Cruel",
+     "SkillDesc": "Attacks have a chance to inflict status ailments on the opponent and increase own ATK."
+    },
+    {
+     "BossSkillId": "90006",
+     "SkillName": "God Thread",
+     "SkillDesc": "Every few turns, greatly increases own ATK and unleashes the Ultimate \"Sixteen Holy Bullets: God Thread\""
+    },
+    {
+     "BossSkillId": "90007",
+     "SkillName": "Leaders Incoming",
+     "SkillDesc": "Three leaders are available during the event. Only guild members can challenge them. Note: leaving your current guild during the event will prevent you from taking part in this event again."
+    },
+    {
+     "BossSkillId": "147",
+     "SkillName": "Fish-Fish Fruit, Model: Azure Dragon",
+     "SkillDesc": "Kaido's all-attribute RES is increased. He ignores enemy Attribute RES and Shields, his attacks always hit, and he is immune to all regular debuffs."
+    },
+    {
+     "BossSkillId": "148",
+     "SkillName": "World's Strongest Creature",
+     "SkillDesc": "Kaido recovers 5% stamina each turn. While he has [Azure Dragon Hard Scales] stacks, the maximum DMG he can take from a single hit is capped."
+    },
+    {
+     "BossSkillId": "149",
+     "SkillName": "Azure Dragon Hard Scales",
+     "SkillDesc": "Kaido starts with 20 Hard Scale stacks. AoE attacks reduce his Hard Scale stacks, while single-target attacks below a certain DMG increase them. Hard Scales strengthen Kaido's defense."
+    },
+    {
+     "BossSkillId": "150",
+     "SkillName": "Azure Dragon Reverse Scale",
+     "SkillDesc": "AoE attacks increase Kaido's Reverse Scale stacks, while attacks dealing at least a certain amount of DMG reduce them. Reverse Scales strengthen Kaido's offense."
+    },
+    {
+     "BossSkillId": "151",
+     "SkillName": "\"Emperor\"",
+     "SkillDesc": "As one of the \"Four Emperors\" ruling the New World, Kaido's immense vitality lets him recover from the brink of death, up to two times."
+    },
+    {
+     "BossSkillId": "152",
+     "SkillName": "Dragon Might",
+     "SkillDesc": "When Kaido accumulates 20 Reverse Scale stacks, he clears them all and gains [Dragon Might]. In [Dragon Might] state he is Invincible and ignores defensive statuses, and casts [Thunder Bagua] as a follow-up after acting."
+    },
+    {
+     "BossSkillId": "153",
+     "SkillName": "Thunder Bagua",
+     "SkillDesc": "Kaido's attacks deal extremely high single-target DMG, remove all buffs, and prevent the target from recovering."
+    },
+    {
+     "BossSkillId": "154",
+     "SkillName": "Yakuza Boss",
+     "SkillDesc": "Recovers stamina at the start of each turn and gains a Shield equal to 20% of own HP"
+    },
+    {
+     "BossSkillId": "155",
+     "SkillName": "Benevolence",
+     "SkillDesc": "Kyoshiro has the special effect [Benevolence]. When he attacks, all allies gain [Benevolence], which increases DMG Bonus and DMG reduction based on [Benevolence]"
+    },
+    {
+     "BossSkillId": "156",
+     "SkillName": "Loyalty",
+     "SkillDesc": "When an ally dies, Kyoshiro accumulates [Loyalty]. Skill performance increases based on the amount of [Loyalty]"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "BossSkillId": "140",
+     "SkillName": "Float",
+     "SkillDesc": "At turn start, if HP is below 50%, permanently increases own Dodge by 20%"
+    },
+    {
+     "BossSkillId": "100001",
+     "SkillName": "Enrage",
+     "SkillDesc": "At the end of each turn, ATK +40% and all DMG Bonus +40%. Immune to control from turn 1, all DMG reduction 60%"
+    },
+    {
+     "BossSkillId": "100002",
+     "SkillName": "Wind Fury",
+     "SkillDesc": "When casting all-target skills, deals extra Wind DMG equal to 40% of the target's Max HP"
+    },
+    {
+     "BossSkillId": "100003",
+     "SkillName": "Thunderstorm",
+     "SkillDesc": "When casting all-target skills, deals extra Thunder DMG equal to 20% of the target's Max HP + 30% Sever DMG"
+    },
+    {
+     "BossSkillId": "100004",
+     "SkillName": "Invasion",
+     "SkillDesc": "When casting all-target skills, deals extra Dark DMG equal to 30% of the target's Max HP + 30% Sever DMG"
+    },
+    {
+     "BossSkillId": "100005",
+     "SkillName": "Radiance",
+     "SkillDesc": "When casting all-target skills, deals extra Light DMG equal to 40% of the target's Max HP + 40% Sever DMG"
+    }
+   ]
+  },
   "TableBossSkills": {
    "key_column": "skillId",
    "text_columns": [
@@ -1434,6 +2257,468 @@
      "text": "CRIT +5%, SPD +1"
     }
    ]
+  },
+  "TableEquipUpgrade": {
+   "key_column": "id",
+   "text_columns": [
+    "buffDescribe",
+    "buffDescribeOff",
+    "buffDescribeNew",
+    "buffDescribeOffNew"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "buffDescribe": "<color=#88622E>[Lv. 1 Enhancement] On hit, deals extra Wind and Thunder DMG equal to </color><color=#DB5637>80%</color><color=#88622E> of ATK, and this DMG ignores the enemy's debuff immunity.</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 1 Enhancement] On hit, deals extra Wind and Thunder DMG equal to 80% of ATK, and this DMG ignores the enemy's debuff immunity.</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 1 Enhancement] DMG against characters with a Shield +</color><color=#DB5637>10%</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 1 Enhancement] DMG against characters with a Shield +10%</color>"
+    },
+    {
+     "id": "2",
+     "buffDescribe": "<color=#88622E>[Lv. 2 Enhancement] On hit, deals extra Wind and Thunder DMG equal to </color><color=#DB5637>90%</color><color=#88622E> of ATK, and this DMG ignores the enemy's debuff immunity.</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 2 Enhancement] On hit, deals extra Wind and Thunder DMG equal to 90% of ATK, and this DMG ignores the enemy's debuff immunity.</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 2 Enhancement] DMG against characters with a Shield +</color><color=#DB5637>20%</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 2 Enhancement] DMG against characters with a Shield +20%</color>"
+    },
+    {
+     "id": "3",
+     "buffDescribe": "<color=#88622E>[Lv. 3 Enhancement] On hit, deals extra Wind and Thunder DMG equal to </color><color=#DB5637>100%</color><color=#88622E> of ATK, and this DMG ignores the enemy's debuff immunity.</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 3 Enhancement] On hit, deals extra Wind and Thunder DMG equal to 100% of ATK, and this DMG ignores the enemy's debuff immunity.</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 3 Enhancement] DMG against characters with a Shield +</color><color=#DB5637>30%</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 3 Enhancement] DMG against characters with a Shield +30%</color>"
+    },
+    {
+     "id": "4",
+     "buffDescribe": "<color=#88622E>[Lv. 4 Enhancement] On hit, deals extra Wind and Thunder DMG equal to </color><color=#DB5637>110%</color><color=#88622E> of ATK, and this DMG ignores the enemy's debuff immunity.</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 4 Enhancement] On hit, deals extra Wind and Thunder DMG equal to 110% of ATK, and this DMG ignores the enemy's debuff immunity.</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 4 Enhancement] DMG against characters with a Shield +</color><color=#DB5637>40%</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 4 Enhancement] DMG against characters with a Shield +40%</color>"
+    },
+    {
+     "id": "5",
+     "buffDescribe": "<color=#88622E>[Lv. 1 Enhancement] After reviving, interrupts the opponent, takes no DMG until own next action, and gains a Shield of </color><color=#DB5637>40%</color><color=#88622E> HP. Can only trigger once per battle</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 1 Enhancement] After reviving, interrupts the opponent, takes no DMG until own next action, and gains a Shield of 40% HP. Can only trigger once per battle</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 1 Enhancement] After reviving, interrupts the opponent and gains a Shield of </color><color=#DB5637>40%</color><color=#88622E> HP</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 1 Enhancement] After reviving, interrupts the opponent and gains a Shield of 40% HP</color>"
+    },
+    {
+     "id": "6",
+     "buffDescribe": "<color=#88622E>[Lv. 2 Enhancement] After reviving, interrupts the opponent, takes no DMG until own next action, and gains a Shield of </color><color=#DB5637>60%</color><color=#88622E> HP. Can only trigger once per battle</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 2 Enhancement] After reviving, interrupts the opponent, takes no DMG until own next action, and gains a Shield of 60% HP. Can only trigger once per battle</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 2 Enhancement] After reviving, interrupts the opponent and gains a Shield of </color><color=#DB5637>60%</color><color=#88622E> HP</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 2 Enhancement] After reviving, interrupts the opponent and gains a Shield of 60% HP</color>"
+    },
+    {
+     "id": "7",
+     "buffDescribe": "<color=#88622E>[Lv. 3 Enhancement] After reviving, interrupts the opponent, takes no DMG until own next action, and gains a Shield of </color><color=#DB5637>80%</color><color=#88622E> HP. Can only trigger once per battle</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 3 Enhancement] After reviving, interrupts the opponent, takes no DMG until own next action, and gains a Shield of 80% HP. Can only trigger once per battle</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 3 Enhancement] After reviving, interrupts the opponent and gains a Shield of </color><color=#DB5637>80%</color><color=#88622E> HP</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 3 Enhancement] After reviving, interrupts the opponent and gains a Shield of 80% HP</color>"
+    },
+    {
+     "id": "8",
+     "buffDescribe": "<color=#88622E>[Lv. 4 Enhancement] After reviving, interrupts the opponent, takes no DMG until own next action, and gains a Shield of </color><color=#DB5637>100%</color><color=#88622E> HP. Can only trigger once per battle</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 4 Enhancement] After reviving, interrupts the opponent, takes no DMG until own next action, and gains a Shield of 100% HP. Can only trigger once per battle</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 4 Enhancement] After reviving, interrupts the opponent and gains a Shield of </color><color=#DB5637>100%</color><color=#88622E> HP</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 4 Enhancement] After reviving, interrupts the opponent and gains a Shield of 100% HP</color>"
+    },
+    {
+     "id": "9",
+     "buffDescribe": "<color=#88622E>[Lv. 1 Enhancement] Skills cast this turn cost </color><color=#DB5637>1</color><color=#88622E> less Soul Jade, with a </color><color=#DB5637>50%</color><color=#88622E> chance to reduce it by an extra </color><color=#DB5637>1</color><color=#88622E>, and Rage is gained normally</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 1 Enhancement] Skills cast this turn cost 1 less Soul Jade, with a 50% chance to reduce it by an extra 1, and Rage is gained normally</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 1 Enhancement] Skills cost </color><color=#DB5637>1</color><color=#88622E> less Soul Jade, with a </color><color=#DB5637>50%</color><color=#88622E> chance to reduce it by an extra </color><color=#DB5637>1</color><color=#88622E>, and Rage is gained normally</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 1 Enhancement] Skills cost 1 less Soul Jade, with a 50% chance to reduce it by an extra 1, and Rage is gained normally</color>"
+    },
+    {
+     "id": "10",
+     "buffDescribe": "<color=#88622E>[Lv. 2 Enhancement] Skills cast this turn cost </color><color=#DB5637>1</color><color=#88622E> less Soul Jade, with a </color><color=#DB5637>100%</color><color=#88622E> chance to reduce it by an extra </color><color=#DB5637>1</color><color=#88622E>, and Rage is gained normally</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 2 Enhancement] Skills cast this turn cost 1 less Soul Jade, with a 100% chance to reduce it by an extra 1, and Rage is gained normally</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 2 Enhancement] Skills cost </color><color=#DB5637>1</color><color=#88622E> less Soul Jade, with a </color><color=#DB5637>100%</color><color=#88622E> chance to reduce it by an extra </color><color=#DB5637>1</color><color=#88622E>, and Rage is gained normally</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 2 Enhancement] Skills cost 1 less Soul Jade, with a 100% chance to reduce it by an extra 1, and Rage is gained normally</color>"
+    },
+    {
+     "id": "11",
+     "buffDescribe": "<color=#88622E>[Lv. 3 Enhancement] Skills cast this turn cost </color><color=#DB5637>2</color><color=#88622E> less Soul Jade, with a </color><color=#DB5637>50%</color><color=#88622E> chance to reduce it by an extra </color><color=#DB5637>1</color><color=#88622E>, and Rage is gained normally</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 3 Enhancement] Skills cast this turn cost 2 less Soul Jade, with a 50% chance to reduce it by an extra 1, and Rage is gained normally</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 3 Enhancement] Skills cost </color><color=#DB5637>2</color><color=#88622E> less Soul Jade, with a </color><color=#DB5637>50%</color><color=#88622E> chance to reduce it by an extra </color><color=#DB5637>1</color><color=#88622E>, and Rage is gained normally</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 3 Enhancement] Skills cost 2 less Soul Jade, with a 50% chance to reduce it by an extra 1, and Rage is gained normally</color>"
+    },
+    {
+     "id": "12",
+     "buffDescribe": "<color=#88622E>[Lv. 4 Enhancement] Skills cast this turn cost </color><color=#DB5637>2</color><color=#88622E> less Soul Jade, with a </color><color=#DB5637>100%</color><color=#88622E> chance to reduce it by an extra </color><color=#DB5637>1</color><color=#88622E>, and Rage is gained normally</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 4 Enhancement] Skills cast this turn cost 2 less Soul Jade, with a 100% chance to reduce it by an extra 1, and Rage is gained normally</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 4 Enhancement] Skills cost </color><color=#DB5637>2</color><color=#88622E> less Soul Jade, with a </color><color=#DB5637>100%</color><color=#88622E> chance to reduce it by an extra </color><color=#DB5637>1</color><color=#88622E>, and Rage is gained normally</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 4 Enhancement] Skills cost 2 less Soul Jade, with a 100% chance to reduce it by an extra 1, and Rage is gained normally</color>"
+    },
+    {
+     "id": "13",
+     "buffDescribe": "<color=#88622E>[Lv. 1 Enhancement] At the end of an action, if own Soul Jade is at least </color><color=#DB5637>10</color><color=#88622E>, immediately removes all effects applied by enemies and acts again, up to </color><color=#DB5637>1</color><color=#88622E> times per battle</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 1 Enhancement] At the end of an action, if own Soul Jade is at least 10, immediately removes all effects applied by enemies and acts again, up to 1 times per battle</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 1 Enhancement] On hit, deals extra True DMG equal to </color><color=#DB5637>80%</color><color=#88622E> of own ATK</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 1 Enhancement] On hit, deals extra True DMG equal to 80% of own ATK</color>"
+    },
+    {
+     "id": "14",
+     "buffDescribe": "<color=#88622E>[Lv. 2 Enhancement] At the end of an action, if own Soul Jade is at least </color><color=#DB5637>10</color><color=#88622E>, immediately removes all effects applied by enemies and acts again, up to </color><color=#DB5637>2</color><color=#88622E> times per battle</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 2 Enhancement] At the end of an action, if own Soul Jade is at least 10, immediately removes all effects applied by enemies and acts again, up to 2 times per battle</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 2 Enhancement] On hit, deals extra True DMG equal to </color><color=#DB5637>90%</color><color=#88622E> of own ATK</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 2 Enhancement] On hit, deals extra True DMG equal to 90% of own ATK</color>"
+    },
+    {
+     "id": "15",
+     "buffDescribe": "<color=#88622E>[Lv. 3 Enhancement] At the end of an action, if own Soul Jade is at least </color><color=#DB5637>10</color><color=#88622E>, immediately removes all effects applied by enemies and acts again, up to </color><color=#DB5637>3</color><color=#88622E> times per battle</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 3 Enhancement] At the end of an action, if own Soul Jade is at least 10, immediately removes all effects applied by enemies and acts again, up to 3 times per battle</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 3 Enhancement] On hit, deals extra True DMG equal to </color><color=#DB5637>100%</color><color=#88622E> of own ATK</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 3 Enhancement] On hit, deals extra True DMG equal to 100% of own ATK</color>"
+    },
+    {
+     "id": "16",
+     "buffDescribe": "<color=#88622E>[Lv. 4 Enhancement] At the end of an action, if own Soul Jade is at least </color><color=#DB5637>10</color><color=#88622E>, immediately removes all effects applied by enemies and acts again, up to </color><color=#DB5637>4</color><color=#88622E> times per battle</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 4 Enhancement] At the end of an action, if own Soul Jade is at least 10, immediately removes all effects applied by enemies and acts again, up to 4 times per battle</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 4 Enhancement] On hit, deals extra True DMG equal to </color><color=#DB5637>110%</color><color=#88622E> of own ATK</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 4 Enhancement] On hit, deals extra True DMG equal to 110% of own ATK</color>"
+    },
+    {
+     "id": "17",
+     "buffDescribe": "<color=#88622E>[Lv. 1 Enhancement] For the first </color><color=#DB5637>3</color><color=#88622E> turns, has a </color><color=#DB5637>80%</color><color=#88622E> chance to not be interrupted, and SPD +</color><color=#DB5637>40%</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 1 Enhancement] For the first 3 turns, has a 80% chance to not be interrupted, and SPD +40%</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 1 Enhancement] For the first </color><color=#DB5637>3</color><color=#88622E> turns, has a </color><color=#DB5637>80%</color><color=#88622E> chance to not be interrupted</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 1 Enhancement] For the first 3 turns, has a 80% chance to not be interrupted</color>"
+    },
+    {
+     "id": "18",
+     "buffDescribe": "<color=#88622E>[Lv. 2 Enhancement] For the first </color><color=#DB5637>3</color><color=#88622E> turns, has a </color><color=#DB5637>90%</color><color=#88622E> chance to not be interrupted, and SPD +</color><color=#DB5637>40%</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 2 Enhancement] For the first 3 turns, has a 90% chance to not be interrupted, and SPD +40%</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 2 Enhancement] For the first </color><color=#DB5637>3</color><color=#88622E> turns, has a </color><color=#DB5637>90%</color><color=#88622E> chance to not be interrupted</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 2 Enhancement] For the first 3 turns, has a 90% chance to not be interrupted</color>"
+    },
+    {
+     "id": "19",
+     "buffDescribe": "<color=#88622E>[Lv. 3 Enhancement] For the first </color><color=#DB5637>3</color><color=#88622E> turns, has a </color><color=#DB5637>100%</color><color=#88622E> chance to not be interrupted, and SPD +</color><color=#DB5637>40%</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 3 Enhancement] For the first 3 turns, has a 100% chance to not be interrupted, and SPD +40%</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 3 Enhancement] For the first </color><color=#DB5637>3</color><color=#88622E> turns, has a </color><color=#DB5637>100%</color><color=#88622E> chance to not be interrupted</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 3 Enhancement] For the first 3 turns, has a 100% chance to not be interrupted</color>"
+    },
+    {
+     "id": "20",
+     "buffDescribe": "<color=#88622E>[Lv. 4 Enhancement] For the first </color><color=#DB5637>4</color><color=#88622E> turns, has a </color><color=#DB5637>100%</color><color=#88622E> chance to not be interrupted, and SPD +</color><color=#DB5637>40%</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 4 Enhancement] For the first 4 turns, has a 100% chance to not be interrupted, and SPD +40%</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 4 Enhancement] For the first </color><color=#DB5637>4</color><color=#88622E> turns, has a </color><color=#DB5637>100%</color><color=#88622E> chance to not be interrupted</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 4 Enhancement] For the first 4 turns, has a 100% chance to not be interrupted</color>"
+    },
+    {
+     "id": "21",
+     "buffDescribe": "<color=#88622E>[Lv. 1 Enhancement] For the first </color><color=#DB5637>2</color><color=#88622E> turns, when first attacked, if own Shield is up, has a </color><color=#DB5637>80%</color><color=#88622E> chance that HP cannot drop below </color><color=#DB5637>20%</color><color=#88622E> for this turn</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 1 Enhancement] For the first 2 turns, when first attacked, if own Shield is up, has a 80% chance that HP cannot drop below 20% for this turn</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 1 Enhancement] For the first </color><color=#DB5637>2</color><color=#88622E> turns, when first attacked, if own Shield is up, has a </color><color=#DB5637>80%</color><color=#88622E> chance to be immune to all effects applied by enemies for this turn</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 1 Enhancement] For the first 2 turns, when first attacked, if own Shield is up, has a 80% chance to be immune to all effects applied by enemies for this turn</color>"
+    },
+    {
+     "id": "22",
+     "buffDescribe": "<color=#88622E>[Lv. 2 Enhancement] For the first </color><color=#DB5637>2</color><color=#88622E> turns, when first attacked, if own Shield is up, has a </color><color=#DB5637>100%</color><color=#88622E> chance that HP cannot drop below </color><color=#DB5637>20%</color><color=#88622E> for this turn</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 2 Enhancement] For the first 2 turns, when first attacked, if own Shield is up, has a 100% chance that HP cannot drop below 20% for this turn</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 2 Enhancement] For the first </color><color=#DB5637>2</color><color=#88622E> turns, when first attacked, if own Shield is up, has a </color><color=#DB5637>100%</color><color=#88622E> chance to be immune to all effects applied by enemies for this turn</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 2 Enhancement] For the first 2 turns, when first attacked, if own Shield is up, has a 100% chance to be immune to all effects applied by enemies for this turn</color>"
+    },
+    {
+     "id": "23",
+     "buffDescribe": "<color=#88622E>[Lv. 3 Enhancement] For the first </color><color=#DB5637>3</color><color=#88622E> turns, when first attacked, if own Shield is up, has a </color><color=#DB5637>100%</color><color=#88622E> chance that HP cannot drop below </color><color=#DB5637>20%</color><color=#88622E> for this turn</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 3 Enhancement] For the first 3 turns, when first attacked, if own Shield is up, has a 100% chance that HP cannot drop below 20% for this turn</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 3 Enhancement] For the first </color><color=#DB5637>3</color><color=#88622E> turns, when first attacked, if own Shield is up, has a </color><color=#DB5637>100%</color><color=#88622E> chance to be immune to all effects applied by enemies for this turn</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 3 Enhancement] For the first 3 turns, when first attacked, if own Shield is up, has a 100% chance to be immune to all effects applied by enemies for this turn</color>"
+    },
+    {
+     "id": "24",
+     "buffDescribe": "<color=#88622E>[Lv. 4 Enhancement] For the first </color><color=#DB5637>4</color><color=#88622E> turns, when first attacked, if own Shield is up, has a </color><color=#DB5637>100%</color><color=#88622E> chance that HP cannot drop below </color><color=#DB5637>20%</color><color=#88622E> for this turn</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 4 Enhancement] For the first 4 turns, when first attacked, if own Shield is up, has a 100% chance that HP cannot drop below 20% for this turn</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 4 Enhancement] For the first </color><color=#DB5637>4</color><color=#88622E> turns, when first attacked, if own Shield is up, has a </color><color=#DB5637>100%</color><color=#88622E> chance to be immune to all effects applied by enemies for this turn</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 4 Enhancement] For the first 4 turns, when first attacked, if own Shield is up, has a 100% chance to be immune to all effects applied by enemies for this turn</color>"
+    },
+    {
+     "id": "25",
+     "buffDescribe": "<color=#88622E>[Lv. 1 Enhancement] Thunder and Fire DMG dealt increases by </color><color=#DB5637>25%</color><color=#88622E> each turn. In PvP, after turn </color><color=#DB5637>5</color><color=#88622E>, the per-turn increase is boosted </color><color=#DB5637>2</color><color=#88622E>x; all Attribute DMG reduction +</color><color=#DB5637>80%</color><color=#88622E>. At battle start, gains </color><color=#DB5637>70</color><color=#88622E> Rage</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 1 Enhancement] Thunder and Fire DMG dealt increases by 25% each turn. In PvP, after turn 5, the per-turn increase is boosted 2x; all Attribute DMG reduction +80%. At battle start, gains 70 Rage</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 1 Enhancement] Thunder and Fire DMG dealt increases by </color><color=#DB5637>20%</color><color=#88622E> each turn. In PvP, after turn </color><color=#DB5637>5</color><color=#88622E>, the per-turn increase is boosted </color><color=#DB5637>2</color><color=#88622E>x. At battle start, gains </color><color=#DB5637>70</color><color=#88622E> Rage</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 1 Enhancement] Thunder and Fire DMG dealt increases by 20% each turn. In PvP, after turn 5, the per-turn increase is boosted 2x. At battle start, gains 70 Rage</color>"
+    },
+    {
+     "id": "26",
+     "buffDescribe": "<color=#88622E>[Lv. 2 Enhancement] Thunder and Fire DMG dealt increases by </color><color=#DB5637>30%</color><color=#88622E> each turn. In PvP, after turn </color><color=#DB5637>5</color><color=#88622E>, the per-turn increase is boosted </color><color=#DB5637>2</color><color=#88622E>x; all Attribute DMG reduction +</color><color=#DB5637>90%</color><color=#88622E>. At battle start, gains </color><color=#DB5637>80</color><color=#88622E> Rage</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 2 Enhancement] Thunder and Fire DMG dealt increases by 30% each turn. In PvP, after turn 5, the per-turn increase is boosted 2x; all Attribute DMG reduction +90%. At battle start, gains 80 Rage</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 2 Enhancement] Thunder and Fire DMG dealt increases by </color><color=#DB5637>25%</color><color=#88622E> each turn. In PvP, after turn </color><color=#DB5637>5</color><color=#88622E>, the per-turn increase is boosted </color><color=#DB5637>2</color><color=#88622E>x. At battle start, gains </color><color=#DB5637>80</color><color=#88622E> Rage</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 2 Enhancement] Thunder and Fire DMG dealt increases by 25% each turn. In PvP, after turn 5, the per-turn increase is boosted 2x. At battle start, gains 80 Rage</color>"
+    },
+    {
+     "id": "27",
+     "buffDescribe": "<color=#88622E>[Lv. 3 Enhancement] Thunder and Fire DMG dealt increases by </color><color=#DB5637>35%</color><color=#88622E> each turn. In PvP, after turn </color><color=#DB5637>5</color><color=#88622E>, the per-turn increase is boosted </color><color=#DB5637>2</color><color=#88622E>x; all Attribute DMG reduction +</color><color=#DB5637>100%</color><color=#88622E>. At battle start, gains </color><color=#DB5637>90</color><color=#88622E> Rage</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 3 Enhancement] Thunder and Fire DMG dealt increases by 35% each turn. In PvP, after turn 5, the per-turn increase is boosted 2x; all Attribute DMG reduction +100%. At battle start, gains 90 Rage</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 3 Enhancement] Thunder and Fire DMG dealt increases by </color><color=#DB5637>30%</color><color=#88622E> each turn. In PvP, after turn </color><color=#DB5637>5</color><color=#88622E>, the per-turn increase is boosted </color><color=#DB5637>2</color><color=#88622E>x. At battle start, gains </color><color=#DB5637>90</color><color=#88622E> Rage</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 3 Enhancement] Thunder and Fire DMG dealt increases by 30% each turn. In PvP, after turn 5, the per-turn increase is boosted 2x. At battle start, gains 90 Rage</color>"
+    },
+    {
+     "id": "28",
+     "buffDescribe": "<color=#88622E>[Lv. 4 Enhancement] Thunder and Fire DMG dealt increases by </color><color=#DB5637>40%</color><color=#88622E> each turn. In PvP, after turn </color><color=#DB5637>5</color><color=#88622E>, the per-turn increase is boosted </color><color=#DB5637>2</color><color=#88622E>x; all Attribute DMG reduction +</color><color=#DB5637>110%</color><color=#88622E>. At battle start, gains </color><color=#DB5637>100</color><color=#88622E> Rage</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 4 Enhancement] Thunder and Fire DMG dealt increases by 40% each turn. In PvP, after turn 5, the per-turn increase is boosted 2x; all Attribute DMG reduction +110%. At battle start, gains 100 Rage</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 4 Enhancement] Thunder and Fire DMG dealt increases by </color><color=#DB5637>35%</color><color=#88622E> each turn. In PvP, after turn </color><color=#DB5637>5</color><color=#88622E>, the per-turn increase is boosted </color><color=#DB5637>2</color><color=#88622E>x. At battle start, gains </color><color=#DB5637>100</color><color=#88622E> Rage</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 4 Enhancement] Thunder and Fire DMG dealt increases by 35% each turn. In PvP, after turn 5, the per-turn increase is boosted 2x. At battle start, gains 100 Rage</color>"
+    },
+    {
+     "id": "29",
+     "buffDescribe": "<color=#88622E>[Lv. 1 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to </color><color=#DB5637>20%</color><color=#88622E> of Big Mom's Max HP, and Big Mom gains Sure Hit for </color><color=#DB5637>2</color><color=#88622E> turns</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 1 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to 20% of Big Mom's Max HP, and Big Mom gains Sure Hit for 2 turns</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 1 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to </color><color=#DB5637>20%</color><color=#88622E> of own ATK</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 1 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to 20% of Big Mom's Max HP</color>"
+    },
+    {
+     "id": "30",
+     "buffDescribe": "<color=#88622E>[Lv. 2 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to </color><color=#DB5637>24%</color><color=#88622E> of Big Mom's Max HP, and Big Mom gains Sure Hit for </color><color=#DB5637>2</color><color=#88622E> turns</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 2 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to 24% of Big Mom's Max HP, and Big Mom gains Sure Hit for 2 turns</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 2 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to </color><color=#DB5637>24%</color><color=#88622E> of own ATK</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 2 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to 24% of Big Mom's Max HP</color>"
+    },
+    {
+     "id": "31",
+     "buffDescribe": "<color=#88622E>[Lv. 3 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to </color><color=#DB5637>28%</color><color=#88622E> of Big Mom's Max HP, and Big Mom gains Sure Hit for </color><color=#DB5637>2</color><color=#88622E> turns</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 3 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to 28% of Big Mom's Max HP, and Big Mom gains Sure Hit for 2 turns</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 3 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to </color><color=#DB5637>28%</color><color=#88622E> of own ATK</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 3 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to 28% of Big Mom's Max HP</color>"
+    },
+    {
+     "id": "32",
+     "buffDescribe": "<color=#88622E>[Lv. 4 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to </color><color=#DB5637>32%</color><color=#88622E> of Big Mom's Max HP, and Big Mom gains Sure Hit for </color><color=#DB5637>2</color><color=#88622E> turns</color>",
+     "buffDescribeOff": "<color=#44433F>[Lv. 4 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to 32% of Big Mom's Max HP, and Big Mom gains Sure Hit for 2 turns</color>",
+     "buffDescribeNew": "<color=#88622E>[Lv. 4 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to </color><color=#DB5637>32%</color><color=#88622E> of own ATK</color>",
+     "buffDescribeOffNew": "<color=#44433F>[Lv. 4 Enhancement] At the start of the first turn, deals True DMG to all enemies equal to 32% of Big Mom's Max HP</color>"
+    },
+    {
+     "id": "33",
+     "buffDescribe": "[Lv. 1 Enhancement] From the start of turn 1, own SPD +15% for 4 turns.",
+     "buffDescribeOff": "[Lv. 1 Enhancement] From the start of turn 1, own SPD +15% for 4 turns.",
+     "buffDescribeNew": "[Lv. 1 Enhancement] From the start of turn 1, own SPD +15% for 4 turns.",
+     "buffDescribeOffNew": "[Lv. 1 Enhancement] From the start of turn 1, own SPD +15% for 4 turns."
+    },
+    {
+     "id": "34",
+     "buffDescribe": "[Lv. 2 Enhancement] From the start of turn 1, own SPD +20% for 4 turns.",
+     "buffDescribeOff": "[Lv. 2 Enhancement] From the start of turn 1, own SPD +20% for 4 turns.",
+     "buffDescribeNew": "[Lv. 2 Enhancement] From the start of turn 1, own SPD +20% for 4 turns.",
+     "buffDescribeOffNew": "[Lv. 2 Enhancement] From the start of turn 1, own SPD +20% for 4 turns."
+    },
+    {
+     "id": "35",
+     "buffDescribe": "[Lv. 3 Enhancement] From the start of turn 1, own SPD +25% for 4 turns.",
+     "buffDescribeOff": "[Lv. 3 Enhancement] From the start of turn 1, own SPD +25% for 4 turns.",
+     "buffDescribeNew": "[Lv. 3 Enhancement] From the start of turn 1, own SPD +25% for 4 turns.",
+     "buffDescribeOffNew": "[Lv. 3 Enhancement] From the start of turn 1, own SPD +25% for 4 turns."
+    },
+    {
+     "id": "36",
+     "buffDescribe": "[Lv. 4 Enhancement] From the start of turn 1, own SPD +30% for 4 turns.",
+     "buffDescribeOff": "[Lv. 4 Enhancement] From the start of turn 1, own SPD +30% for 4 turns.",
+     "buffDescribeNew": "[Lv. 4 Enhancement] From the start of turn 1, own SPD +30% for 4 turns.",
+     "buffDescribeOffNew": "[Lv. 4 Enhancement] From the start of turn 1, own SPD +30% for 4 turns."
+    },
+    {
+     "id": "37",
+     "buffDescribe": "[Lv. 1 Enhancement] Gives the talent Sea Overlord a 70% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeOff": "[Lv. 1 Enhancement] Gives the talent Sea Overlord a 70% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeNew": "[Lv. 1 Enhancement] Gives the talent Sea Overlord a 70% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeOffNew": "[Lv. 1 Enhancement] Gives the talent Sea Overlord a 70% chance to ignore the \"cannot be applied next turn\" restriction."
+    },
+    {
+     "id": "38",
+     "buffDescribe": "[Lv. 2 Enhancement] Gives the talent Sea Overlord a 80% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeOff": "[Lv. 2 Enhancement] Gives the talent Sea Overlord a 80% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeNew": "[Lv. 2 Enhancement] Gives the talent Sea Overlord a 80% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeOffNew": "[Lv. 2 Enhancement] Gives the talent Sea Overlord a 80% chance to ignore the \"cannot be applied next turn\" restriction."
+    },
+    {
+     "id": "39",
+     "buffDescribe": "[Lv. 3 Enhancement] Gives the talent Sea Overlord a 90% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeOff": "[Lv. 3 Enhancement] Gives the talent Sea Overlord a 90% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeNew": "[Lv. 3 Enhancement] Gives the talent Sea Overlord a 90% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeOffNew": "[Lv. 3 Enhancement] Gives the talent Sea Overlord a 90% chance to ignore the \"cannot be applied next turn\" restriction."
+    },
+    {
+     "id": "40",
+     "buffDescribe": "[Lv. 4 Enhancement] Gives the talent Sea Overlord a 100% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeOff": "[Lv. 4 Enhancement] Gives the talent Sea Overlord a 100% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeNew": "[Lv. 4 Enhancement] Gives the talent Sea Overlord a 100% chance to ignore the \"cannot be applied next turn\" restriction.",
+     "buffDescribeOffNew": "[Lv. 4 Enhancement] Gives the talent Sea Overlord a 100% chance to ignore the \"cannot be applied next turn\" restriction."
+    },
+    {
+     "id": "41",
+     "buffDescribe": "[Lv. 1 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 60% Max HP.",
+     "buffDescribeOff": "[Lv. 1 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 60% Max HP.",
+     "buffDescribeNew": "[Lv. 1 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 60% Max HP.",
+     "buffDescribeOffNew": "[Lv. 1 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 60% Max HP."
+    },
+    {
+     "id": "42",
+     "buffDescribe": "[Lv. 2 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 80% Max HP.",
+     "buffDescribeOff": "[Lv. 2 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 80% Max HP.",
+     "buffDescribeNew": "[Lv. 2 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 80% Max HP.",
+     "buffDescribeOffNew": "[Lv. 2 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 80% Max HP."
+    },
+    {
+     "id": "43",
+     "buffDescribe": "[Lv. 3 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 100% Max HP.",
+     "buffDescribeOff": "[Lv. 3 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 100% Max HP.",
+     "buffDescribeNew": "[Lv. 3 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 100% Max HP.",
+     "buffDescribeOffNew": "[Lv. 3 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 100% Max HP."
+    },
+    {
+     "id": "44",
+     "buffDescribe": "[Lv. 4 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 120% Max HP.",
+     "buffDescribeOff": "[Lv. 4 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 120% Max HP.",
+     "buffDescribeNew": "[Lv. 4 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 120% Max HP.",
+     "buffDescribeOffNew": "[Lv. 4 Enhancement] Immune to interrupts. At the start of the first turn, gains a Shield of 120% Max HP."
+    },
+    {
+     "id": "45",
+     "buffDescribe": "[Lv. 1 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +5%.",
+     "buffDescribeOff": "[Lv. 1 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +5%.",
+     "buffDescribeNew": "[Lv. 1 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +5%.",
+     "buffDescribeOffNew": "[Lv. 1 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +5%."
+    },
+    {
+     "id": "46",
+     "buffDescribe": "[Lv. 2 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +15%.",
+     "buffDescribeOff": "[Lv. 2 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +15%.",
+     "buffDescribeNew": "[Lv. 2 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +15%.",
+     "buffDescribeOffNew": "[Lv. 2 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +15%."
+    },
+    {
+     "id": "47",
+     "buffDescribe": "[Lv. 3 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +25%.",
+     "buffDescribeOff": "[Lv. 3 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +25%.",
+     "buffDescribeNew": "[Lv. 3 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +25%.",
+     "buffDescribeOffNew": "[Lv. 3 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +25%."
+    },
+    {
+     "id": "48",
+     "buffDescribe": "[Lv. 4 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +35%.",
+     "buffDescribeOff": "[Lv. 4 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +35%.",
+     "buffDescribeNew": "[Lv. 4 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +35%.",
+     "buffDescribeOffNew": "[Lv. 4 Enhancement] At battle start, gains 1 extra stacks of Voice of All Things, and CRIT DMG +35%."
+    },
+    {
+     "id": "49",
+     "buffDescribe": "[Lv. 1 Enhancement] At battle start, own SPD +8%. At the start of the first turn, 70% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeOff": "[Lv. 1 Enhancement] At battle start, own SPD +8%. At the start of the first turn, 70% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeNew": "[Lv. 1 Enhancement] At battle start, own SPD +8%. At the start of the first turn, 70% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeOffNew": "[Lv. 1 Enhancement] At battle start, own SPD +8%. At the start of the first turn, 70% chance to inflict [Rubberization] on all enemies"
+    },
+    {
+     "id": "50",
+     "buffDescribe": "[Lv. 2 Enhancement] At battle start, own SPD +10%. At the start of the first turn, 80% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeOff": "[Lv. 2 Enhancement] At battle start, own SPD +10%. At the start of the first turn, 80% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeNew": "[Lv. 2 Enhancement] At battle start, own SPD +10%. At the start of the first turn, 80% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeOffNew": "[Lv. 2 Enhancement] At battle start, own SPD +10%. At the start of the first turn, 80% chance to inflict [Rubberization] on all enemies"
+    },
+    {
+     "id": "51",
+     "buffDescribe": "[Lv. 3 Enhancement] At battle start, own SPD +12%. At the start of the first turn, 90% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeOff": "[Lv. 3 Enhancement] At battle start, own SPD +12%. At the start of the first turn, 90% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeNew": "[Lv. 3 Enhancement] At battle start, own SPD +12%. At the start of the first turn, 90% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeOffNew": "[Lv. 3 Enhancement] At battle start, own SPD +12%. At the start of the first turn, 90% chance to inflict [Rubberization] on all enemies"
+    },
+    {
+     "id": "52",
+     "buffDescribe": "[Lv. 4 Enhancement] At battle start, own SPD +15%. At the start of the first turn, 100% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeOff": "[Lv. 4 Enhancement] At battle start, own SPD +15%. At the start of the first turn, 100% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeNew": "[Lv. 4 Enhancement] At battle start, own SPD +15%. At the start of the first turn, 100% chance to inflict [Rubberization] on all enemies",
+     "buffDescribeOffNew": "[Lv. 4 Enhancement] At battle start, own SPD +15%. At the start of the first turn, 100% chance to inflict [Rubberization] on all enemies"
+    },
+    {
+     "id": "53",
+     "buffDescribe": "[Lv. 1 Enhancement] At battle start, 70% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeOff": "[Lv. 1 Enhancement] At battle start, 70% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeNew": "[Lv. 1 Enhancement] At battle start, 70% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeOffNew": "[Lv. 1 Enhancement] At battle start, 70% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]"
+    },
+    {
+     "id": "54",
+     "buffDescribe": "[Lv. 2 Enhancement] At battle start, 80% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeOff": "[Lv. 2 Enhancement] At battle start, 80% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeNew": "[Lv. 2 Enhancement] At battle start, 80% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeOffNew": "[Lv. 2 Enhancement] At battle start, 80% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]"
+    },
+    {
+     "id": "55",
+     "buffDescribe": "[Lv. 3 Enhancement] At battle start, 90% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeOff": "[Lv. 3 Enhancement] At battle start, 90% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeNew": "[Lv. 3 Enhancement] At battle start, 90% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeOffNew": "[Lv. 3 Enhancement] At battle start, 90% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]"
+    },
+    {
+     "id": "56",
+     "buffDescribe": "[Lv. 4 Enhancement] At battle start, 100% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeOff": "[Lv. 4 Enhancement] At battle start, 100% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeNew": "[Lv. 4 Enhancement] At battle start, 100% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]",
+     "buffDescribeOffNew": "[Lv. 4 Enhancement] At battle start, 100% chance to gain 1 [Thunder Seed] and 1 stacks of [Free Will]"
+    },
+    {
+     "id": "57",
+     "buffDescribe": "[Lv. 1 Enhancement] In [Lightning Form], each action has a 70% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeOff": "[Lv. 1 Enhancement] In [Lightning Form], each action has a 70% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeNew": "[Lv. 1 Enhancement] In [Lightning Form], each action has a 70% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeOffNew": "[Lv. 1 Enhancement] In [Lightning Form], each action has a 70% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2."
+    },
+    {
+     "id": "58",
+     "buffDescribe": "[Lv. 2 Enhancement] In [Lightning Form], each action has a 80% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeOff": "[Lv. 2 Enhancement] In [Lightning Form], each action has a 80% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeNew": "[Lv. 2 Enhancement] In [Lightning Form], each action has a 80% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeOffNew": "[Lv. 2 Enhancement] In [Lightning Form], each action has a 80% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2."
+    },
+    {
+     "id": "59",
+     "buffDescribe": "[Lv. 3 Enhancement] In [Lightning Form], each action has a 90% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeOff": "[Lv. 3 Enhancement] In [Lightning Form], each action has a 90% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeNew": "[Lv. 3 Enhancement] In [Lightning Form], each action has a 90% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeOffNew": "[Lv. 3 Enhancement] In [Lightning Form], each action has a 90% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2."
+    },
+    {
+     "id": "60",
+     "buffDescribe": "[Lv. 4 Enhancement] In [Lightning Form], each action has a 100% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeOff": "[Lv. 4 Enhancement] In [Lightning Form], each action has a 100% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeNew": "[Lv. 4 Enhancement] In [Lightning Form], each action has a 100% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2.",
+     "buffDescribeOffNew": "[Lv. 4 Enhancement] In [Lightning Form], each action has a 100% chance to gain 2 stacks of [Thunder], and Soul Jade cost is reduced by 2."
+    },
+    {
+     "id": "61",
+     "buffDescribe": "[Lv. 1 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +15%",
+     "buffDescribeOff": "[Lv. 1 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +15%",
+     "buffDescribeNew": "[Lv. 1 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +15%",
+     "buffDescribeOffNew": "[Lv. 1 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +15%"
+    },
+    {
+     "id": "62",
+     "buffDescribe": "[Lv. 2 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +20%",
+     "buffDescribeOff": "[Lv. 2 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +20%",
+     "buffDescribeNew": "[Lv. 2 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +20%",
+     "buffDescribeOffNew": "[Lv. 2 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +20%"
+    },
+    {
+     "id": "63",
+     "buffDescribe": "[Lv. 3 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +25%",
+     "buffDescribeOff": "[Lv. 3 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +25%",
+     "buffDescribeNew": "[Lv. 3 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +25%",
+     "buffDescribeOffNew": "[Lv. 3 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +25%"
+    },
+    {
+     "id": "64",
+     "buffDescribe": "[Lv. 4 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +30%",
+     "buffDescribeOff": "[Lv. 4 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +30%",
+     "buffDescribeNew": "[Lv. 4 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +30%",
+     "buffDescribeOffNew": "[Lv. 4 Enhancement] With [Free Will] or [Thunder], Tenacity DMG reduction while being attacked +30%"
+    }
+   ],
+   "other_bundle_rows": []
   },
   "TableExerciseBigChapter": {
    "key_column": "id",
@@ -5888,6 +7173,114 @@
     {
      "id": "5",
      "conditionDesc": "Own the ship"
+    }
+   ]
+  },
+  "TableHeroAwakeExtraSkillLev": {
+   "key_column": "id",
+   "text_columns": [
+    "skillIntro"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "skillIntro": "Skill 1-1"
+    },
+    {
+     "id": "2",
+     "skillIntro": "Skill 1-2"
+    },
+    {
+     "id": "3",
+     "skillIntro": "Skill 1-3"
+    },
+    {
+     "id": "4",
+     "skillIntro": "Skill 2-1"
+    },
+    {
+     "id": "5",
+     "skillIntro": "Skill 2-2"
+    },
+    {
+     "id": "6",
+     "skillIntro": "Skill 2-3"
+    },
+    {
+     "id": "7",
+     "skillIntro": "Skill 3-1"
+    },
+    {
+     "id": "8",
+     "skillIntro": "Skill 3-2"
+    },
+    {
+     "id": "9",
+     "skillIntro": "Skill 3-3"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "skillIntro": "Lv. 1 unlock: Active skills apply <color=#FE3116>Lightning Charge</color> to enemies. When an active skill hits a <color=#FE3116>Lightning Charge</color> target, Enel <color=#FE3116>conducts</color> Thunder DMG equal to <color=#FE3116>9%</color> of his ATK once to all targets with <color=#FE3116>Lightning Charge</color>. Each skill can <color=#FE3116>conduct</color> up to <color=#FE3116>3</color> times (conduction DMG only applies on the first skill attack each turn). Recovers <color=#FE3116>30</color> Rage when casting <color=#FE3116>Thunder Bird</color>.\\n<color=#999999>Lv. 2 unlock: All DMG reduction +20%.\\nLv. 3 unlock: Gain 40 Rage at battle start, and recover 5 Rage each time you conduct. In Thunder God state, the conduction cap rises to 6. Refunds 25 Rage upon entering Thunder God form.\\nLv. 4 unlock: All DMG Bonus +20%.\\nLv. 5 unlock: In Thunder God state, conduction is fixed at 6 times; active skills deal 6 instances of conduction DMG to targets with Lightning Charge, and for each fewer target within the skill's range, the conduction DMG multiplier increases by 3%.</color>\\n<color=#FE3116>Lightning Charge:</color> CRIT Rate -<color=#FE3116>8%</color>, up to <color=#FE3116>5</color> stacks, lasts <color=#FE3116>3</color> turns. If an enemy character with <color=#FE3116>5</color> stacks of <color=#FE3116>Lightning Charge</color> is CRIT, they are immediately Paralyzed for <color=#FE3116>1</color> turn; Paralysis can trigger on up to <color=#FE3116>2</color> characters per turn. Enel is immune to <color=#FE3116>Lightning Charge</color>."
+    },
+    {
+     "id": "2",
+     "skillIntro": "Lv. 1 unlock: Active skills apply <color=#FE3116>Lightning Charge</color> to enemies. When an active skill hits a <color=#FE3116>Lightning Charge</color> target, Enel <color=#FE3116>conducts</color> Thunder DMG equal to <color=#FE3116>9%</color> of his ATK once to all targets with <color=#FE3116>Lightning Charge</color>. Each skill can <color=#FE3116>conduct</color> up to <color=#FE3116>3</color> times (conduction DMG only applies on the first skill attack each turn). Recovers <color=#FE3116>30</color> Rage when casting <color=#FE3116>Thunder Bird</color>.\\nLv. 2 unlock: All DMG reduction +<color=#FE3116>20%</color>.\\n<color=#999999>Lv. 3 unlock: Gain 40 Rage at battle start, and recover 5 Rage each time you conduct. In Thunder God state, the conduction cap rises to 6. Refunds 25 Rage upon entering Thunder God form.\\nLv. 4 unlock: All DMG Bonus +20%.\\nLv. 5 unlock: In Thunder God state, conduction is fixed at 6 times; active skills deal 6 instances of conduction DMG to targets with Lightning Charge, and for each fewer target within the skill's range, the conduction DMG multiplier increases by 3%.</color>\\n<color=#FE3116>Lightning Charge:</color> CRIT Rate -<color=#FE3116>8%</color>, up to <color=#FE3116>5</color> stacks, lasts <color=#FE3116>3</color> turns. If an enemy character with <color=#FE3116>5</color> stacks of <color=#FE3116>Lightning Charge</color> is CRIT, they are immediately Paralyzed for <color=#FE3116>1</color> turn; Paralysis can trigger on up to <color=#FE3116>2</color> characters per turn. Enel is immune to <color=#FE3116>Lightning Charge</color>."
+    },
+    {
+     "id": "3",
+     "skillIntro": "Lv. 1 unlock: Active skills apply <color=#FE3116>Lightning Charge</color> to enemies. When an active skill hits a <color=#FE3116>Lightning Charge</color> target, Enel <color=#FE3116>conducts</color> Thunder DMG equal to <color=#FE3116>9%</color> of his ATK once to all targets with <color=#FE3116>Lightning Charge</color>. Each skill can <color=#FE3116>conduct</color> up to <color=#FE3116>3</color> times (conduction DMG only applies on the first skill attack each turn). Recovers <color=#FE3116>30</color> Rage when casting <color=#FE3116>Thunder Bird</color>.\\nLv. 2 unlock: All DMG reduction +<color=#FE3116>20%</color>.\\nLv. 3 unlock: Gain <color=#FE3116>40</color> Rage at battle start, and recover <color=#FE3116>5</color> Rage each time you <color=#FE3116>conduct</color>. In Thunder God state, the <color=#FE3116>conduction</color> cap rises to <color=#FE3116>6</color>. Refunds <color=#FE3116>25</color> Rage upon entering Thunder God form.\\n<color=#999999>Lv. 4 unlock: All DMG Bonus +20%.\\nLv. 5 unlock: In Thunder God state, conduction is fixed at 6 times; active skills deal 6 instances of conduction DMG to targets with Lightning Charge, and for each fewer target within the skill's range, the conduction DMG multiplier increases by 3%.</color>\\n<color=#FE3116>Lightning Charge:</color> CRIT Rate -<color=#FE3116>8%</color>, up to <color=#FE3116>5</color> stacks, lasts <color=#FE3116>3</color> turns. If an enemy character with <color=#FE3116>5</color> stacks of <color=#FE3116>Lightning Charge</color> is CRIT, they are immediately Paralyzed for <color=#FE3116>1</color> turn; Paralysis can trigger on up to <color=#FE3116>2</color> characters per turn. Enel is immune to <color=#FE3116>Lightning Charge</color>."
+    },
+    {
+     "id": "4",
+     "skillIntro": "Lv. 1 unlock: Active skills apply <color=#FE3116>Lightning Charge</color> to enemies. When an active skill hits a <color=#FE3116>Lightning Charge</color> target, Enel <color=#FE3116>conducts</color> Thunder DMG equal to <color=#FE3116>9%</color> of his ATK once to all targets with <color=#FE3116>Lightning Charge</color>. Each skill can <color=#FE3116>conduct</color> up to <color=#FE3116>3</color> times (conduction DMG only applies on the first skill attack each turn). Recovers <color=#FE3116>30</color> Rage when casting <color=#FE3116>Thunder Bird</color>.\\nLv. 2 unlock: All DMG reduction +<color=#FE3116>20%</color>.\\nLv. 3 unlock: Gain <color=#FE3116>40</color> Rage at battle start, and recover <color=#FE3116>5</color> Rage each time you <color=#FE3116>conduct</color>. In Thunder God state, the <color=#FE3116>conduction</color> cap rises to <color=#FE3116>6</color>. Refunds <color=#FE3116>25</color> Rage upon entering Thunder God form.\\nLv. 4 unlock: All DMG Bonus +<color=#FE3116>20%</color>.\\n<color=#999999>Lv. 5 unlock: In Thunder God state, conduction is fixed at 6 times; active skills deal 6 instances of conduction DMG to targets with Lightning Charge, and for each fewer target within the skill's range, the conduction DMG multiplier increases by 3%.</color>\\n<color=#FE3116>Lightning Charge:</color> CRIT Rate -<color=#FE3116>8%</color>, up to <color=#FE3116>5</color> stacks, lasts <color=#FE3116>3</color> turns. If an enemy character with <color=#FE3116>5</color> stacks of <color=#FE3116>Lightning Charge</color> is CRIT, they are immediately Paralyzed for <color=#FE3116>1</color> turn; Paralysis can trigger on up to <color=#FE3116>2</color> characters per turn. Enel is immune to <color=#FE3116>Lightning Charge</color>."
+    },
+    {
+     "id": "5",
+     "skillIntro": "Lv. 1 unlock: Active skills apply <color=#FE3116>Lightning Charge</color> to enemies. When an active skill hits a <color=#FE3116>Lightning Charge</color> target, Enel <color=#FE3116>conducts</color> Thunder DMG equal to <color=#FE3116>9%</color> of his ATK once to all targets with <color=#FE3116>Lightning Charge</color>. Each skill can <color=#FE3116>conduct</color> up to <color=#FE3116>3</color> times (conduction DMG only applies on the first skill attack each turn). Recovers <color=#FE3116>30</color> Rage when casting <color=#FE3116>Thunder Bird</color>.\\nLv. 2 unlock: All DMG reduction +<color=#FE3116>20%</color>.\\nLv. 3 unlock: Gain <color=#FE3116>40</color> Rage at battle start, and recover <color=#FE3116>5</color> Rage each time you <color=#FE3116>conduct</color>. In Thunder God state, the <color=#FE3116>conduction</color> cap rises to <color=#FE3116>6</color>. Refunds <color=#FE3116>25</color> Rage upon entering Thunder God form.\\nLv. 4 unlock: All DMG Bonus +<color=#FE3116>20%</color>.\\nLv. 5 unlock: In Thunder God state, <color=#FE3116>conduction</color> is fixed at <color=#FE3116>6</color> times; active skills deal <color=#FE3116>6</color> instances of <color=#FE3116>conduction</color> DMG to targets with <color=#FE3116>Lightning Charge</color>, and for each fewer target within the skill's range, the <color=#FE3116>conduction</color> DMG multiplier increases by <color=#FE3116>3%</color>.\\n<color=#FE3116>Lightning Charge:</color> CRIT Rate -<color=#FE3116>8%</color>, up to <color=#FE3116>5</color> stacks, lasts <color=#FE3116>3</color> turns. If an enemy character with <color=#FE3116>5</color> stacks of <color=#FE3116>Lightning Charge</color> is CRIT, they are immediately Paralyzed for <color=#FE3116>1</color> turn; Paralysis can trigger on up to <color=#FE3116>2</color> characters per turn. Enel is immune to <color=#FE3116>Lightning Charge</color>."
+    },
+    {
+     "id": "6",
+     "skillIntro": "Lv. 1 unlock: Enel's Finishers or Ultimates inflict <color=#FE3116>Shock</color> on the target. After <color=#FE3116>Shock</color> triggers <color=#FE3116>3</color> reactions, Enel gains <color=#FE3116>Thunderclap</color>.\\n<color=#999999>Lv. 2 unlock: SPD +5%.\\nLv. 3 unlock: After an ally acts, if there are fewer than 2 Shock on the enemy side, apply Shock to 2 random enemies.\\nLv. 4 unlock: ATK +10%.\\nLv. 5 unlock: When gaining Thunderclap, all allies' SPD +2%, stacking up to 3 times. Every 5 Thunderclap gained deals Thunder DMG equal to 100% of Enel's ATK to all enemies 1 time.</color>\\n<color=#FE3116>Shock:</color> When hit by a skill, different attributes react with <color=#FE3116>Shock</color> for different effects. The effect persists; its holder's Thunder DMG reduction is lowered by <color=#FE3116>50%</color>. While Shocked, Fire can react at most <color=#FE3116>1</color> time and other attributes at most <color=#FE3116>2</color> times; the counts reset at the end of each turn and when Enel acts.\\n- Fire: deals a Thunder explosion to all enemies at <color=#FE3116>10%</color> of the current acting unit's ATK.\\n- Wind: the current acting unit removes <color=#FE3116>1</color> debuff stack and recovers <color=#FE3116>5%</color> HP.\\n- Water: triggers <color=#FE3116>1</color> Thunder hit and applies <color=#FE3116>1</color> stack of Thunder DoT equal to <color=#FE3116>50%</color> of Enel's ATK to the target.\\n<color=#FE3116>Thunderclap:</color> All DMG reduction +<color=#FE3116>5%</color>, Thunder DMG +<color=#FE3116>5%</color>, up to <color=#FE3116>5</color> stacks."
+    },
+    {
+     "id": "7",
+     "skillIntro": "Lv. 1 unlock: Enel's Finishers or Ultimates inflict <color=#FE3116>Shock</color> on the target. After <color=#FE3116>Shock</color> triggers <color=#FE3116>3</color> reactions, Enel gains <color=#FE3116>Thunderclap</color>.\\nLv. 2 unlock: SPD +<color=#FE3116>5%</color>.\\n<color=#999999>Lv. 3 unlock: After an ally acts, if there are fewer than 2 Shock on the enemy side, apply Shock to 2 random enemies.\\nLv. 4 unlock: ATK +10%.\\nLv. 5 unlock: When gaining Thunderclap, all allies' SPD +2%, stacking up to 3 times. Every 5 Thunderclap gained deals Thunder DMG equal to 100% of Enel's ATK to all enemies 1 time.</color>\\n<color=#FE3116>Shock:</color> When hit by a skill, different attributes react with <color=#FE3116>Shock</color> for different effects. The effect persists; its holder's Thunder DMG reduction is lowered by <color=#FE3116>50%</color>. While Shocked, Fire can react at most <color=#FE3116>1</color> time and other attributes at most <color=#FE3116>2</color> times; the counts reset at the end of each turn and when Enel acts.\\n- Fire: deals a Thunder explosion to all enemies at <color=#FE3116>10%</color> of the current acting unit's ATK.\\n- Wind: the current acting unit removes <color=#FE3116>1</color> debuff stack and recovers <color=#FE3116>5%</color> HP.\\n- Water: triggers <color=#FE3116>1</color> Thunder hit and applies <color=#FE3116>1</color> stack of Thunder DoT equal to <color=#FE3116>50%</color> of Enel's ATK to the target.\\n<color=#FE3116>Thunderclap:</color> All DMG reduction +<color=#FE3116>5%</color>, Thunder DMG +<color=#FE3116>5%</color>, up to <color=#FE3116>5</color> stacks."
+    },
+    {
+     "id": "8",
+     "skillIntro": "Lv. 1 unlock: Enel's Finishers or Ultimates inflict <color=#FE3116>Shock</color> on the target. After <color=#FE3116>Shock</color> triggers <color=#FE3116>3</color> reactions, Enel gains <color=#FE3116>Thunderclap</color>.\\nLv. 2 unlock: SPD +<color=#FE3116>5%</color>.\\nLv. 3 unlock: After an ally acts, if there are fewer than <color=#FE3116>2</color> <color=#FE3116>Shock</color> on the enemy side, apply <color=#FE3116>Shock</color> to <color=#FE3116>2</color> random enemies.\\n<color=#999999>Lv. 4 unlock: ATK +10%.\\nLv. 5 unlock: When gaining Thunderclap, all allies' SPD +2%, stacking up to 3 times. Every 5 Thunderclap gained deals Thunder DMG equal to 100% of Enel's ATK to all enemies 1 time.</color>\\n<color=#FE3116>Shock:</color> When hit by a skill, different attributes react with <color=#FE3116>Shock</color> for different effects. The effect persists; its holder's Thunder DMG reduction is lowered by <color=#FE3116>50%</color>. While Shocked, Fire can react at most <color=#FE3116>1</color> time and other attributes at most <color=#FE3116>2</color> times; the counts reset at the end of each turn and when Enel acts.\\n- Fire: deals a Thunder explosion to all enemies at <color=#FE3116>10%</color> of the current acting unit's ATK.\\n- Wind: the current acting unit removes <color=#FE3116>1</color> debuff stack and recovers <color=#FE3116>5%</color> HP.\\n- Water: triggers <color=#FE3116>1</color> Thunder hit and applies <color=#FE3116>1</color> stack of Thunder DoT equal to <color=#FE3116>50%</color> of Enel's ATK to the target.\\n<color=#FE3116>Thunderclap:</color> All DMG reduction +<color=#FE3116>5%</color>, Thunder DMG +<color=#FE3116>5%</color>, up to <color=#FE3116>5</color> stacks."
+    },
+    {
+     "id": "9",
+     "skillIntro": "Lv. 1 unlock: Enel's Finishers or Ultimates inflict <color=#FE3116>Shock</color> on the target. After <color=#FE3116>Shock</color> triggers <color=#FE3116>3</color> reactions, Enel gains <color=#FE3116>Thunderclap</color>.\\nLv. 2 unlock: SPD +<color=#FE3116>5%</color>.\\nLv. 3 unlock: After an ally acts, if there are fewer than <color=#FE3116>2</color> <color=#FE3116>Shock</color> on the enemy side, apply <color=#FE3116>Shock</color> to <color=#FE3116>2</color> random enemies.\\nLv. 4 unlock: ATK +<color=#FE3116>10%</color>.\\n<color=#999999>Lv. 5 unlock: When gaining Thunderclap, all allies' SPD +2%, stacking up to 3 times. Every 5 Thunderclap gained deals Thunder DMG equal to 100% of Enel's ATK to all enemies 1 time.</color>\\n<color=#FE3116>Shock:</color> When hit by a skill, different attributes react with <color=#FE3116>Shock</color> for different effects. The effect persists; its holder's Thunder DMG reduction is lowered by <color=#FE3116>50%</color>. While Shocked, Fire can react at most <color=#FE3116>1</color> time and other attributes at most <color=#FE3116>2</color> times; the counts reset at the end of each turn and when Enel acts.\\n- Fire: deals a Thunder explosion to all enemies at <color=#FE3116>10%</color> of the current acting unit's ATK.\\n- Wind: the current acting unit removes <color=#FE3116>1</color> debuff stack and recovers <color=#FE3116>5%</color> HP.\\n- Water: triggers <color=#FE3116>1</color> Thunder hit and applies <color=#FE3116>1</color> stack of Thunder DoT equal to <color=#FE3116>50%</color> of Enel's ATK to the target.\\n<color=#FE3116>Thunderclap:</color> All DMG reduction +<color=#FE3116>5%</color>, Thunder DMG +<color=#FE3116>5%</color>, up to <color=#FE3116>5</color> stacks."
+    },
+    {
+     "id": "10",
+     "skillIntro": "Lv. 1 unlock: Enel's Finishers or Ultimates inflict <color=#FE3116>Shock</color> on the target. After <color=#FE3116>Shock</color> triggers <color=#FE3116>3</color> reactions, Enel gains <color=#FE3116>Thunderclap</color>.\\nLv. 2 unlock: SPD +<color=#FE3116>5%</color>.\\nLv. 3 unlock: After an ally acts, if there are fewer than <color=#FE3116>2</color> <color=#FE3116>Shock</color> on the enemy side, apply <color=#FE3116>Shock</color> to <color=#FE3116>2</color> random enemies.\\nLv. 4 unlock: ATK +<color=#FE3116>10%</color>.\\nLv. 5 unlock: When gaining <color=#FE3116>Thunderclap</color>, all allies' SPD +<color=#FE3116>2%</color>, stacking up to <color=#FE3116>3</color> times. Every <color=#FE3116>5</color> <color=#FE3116>Thunderclap</color> gained deals Thunder DMG equal to <color=#FE3116>100%</color> of Enel's ATK to all enemies <color=#FE3116>1</color> time.\\n<color=#FE3116>Shock:</color> When hit by a skill, different attributes react with <color=#FE3116>Shock</color> for different effects. The effect persists; its holder's Thunder DMG reduction is lowered by <color=#FE3116>50%</color>. While Shocked, Fire can react at most <color=#FE3116>1</color> time and other attributes at most <color=#FE3116>2</color> times; the counts reset at the end of each turn and when Enel acts.\\n- Fire: deals a Thunder explosion to all enemies at <color=#FE3116>10%</color> of the current acting unit's ATK.\\n- Wind: the current acting unit removes <color=#FE3116>1</color> debuff stack and recovers <color=#FE3116>5%</color> HP.\\n- Water: triggers <color=#FE3116>1</color> Thunder hit and applies <color=#FE3116>1</color> stack of Thunder DoT equal to <color=#FE3116>50%</color> of Enel's ATK to the target.\\n<color=#FE3116>Thunderclap:</color> All DMG reduction +<color=#FE3116>5%</color>, Thunder DMG +<color=#FE3116>5%</color>, up to <color=#FE3116>5</color> stacks."
+    },
+    {
+     "id": "11",
+     "skillIntro": "Lv. 1 unlock: Skills in normal state and non-Ultimate skills in Thunder God state give the target <color=#FE3116>1</color> stack of <color=#FE3116>Anomaly</color> on hit; Finishers add <color=#FE3116>1</color> extra stack. Ultimates in Thunder God state detonate <color=#FE3116>Anomaly</color>, each stack of <color=#FE3116>Anomaly</color> dealing Thunder DMG equal to <color=#FE3116>15%</color> of Enel's ATK.\\n<color=#999999>Lv. 2 unlock: ATK +10%, SPD +5%.\\nLv. 3 unlock: All skills stack Anomaly one extra time on hit, and Enel becomes immune to the DMG reduction from Ancient Magatama. When a skill hits an Anomaly target, recover 1 Soul Jade, up to 2 per turn. After casting Raigo, SPD +15% until the start of the next action. At battle start, applies 3 stacks of Anomaly to all enemies.\\nLv. 4 unlock: Thunder DMG Bonus +15%, all DMG reduction +20%.\\nLv. 5 unlock: When acting in normal form, gain a new skill Divine Thunder that can detonate Anomaly. Anomaly detonated by Divine Thunder is not removed, but the detonation DMG is reduced by 30%. When acting in Thunder God form: gain 5 Soul Jade and 50 Rage upon transforming, and 10 stacks of Anomaly are returned after detonation. Casting an Ultimate directly in Thunder God form immediately exits Thunder God form.\\nDivine Thunder: - When hitting 5+ stacks of Anomaly, applies 3 extra stacks of Anomaly to the target;\\n- When hitting 10+ stacks of Anomaly, own ATK +20% and Thunder DMG Bonus +20%;\\n- When hitting 15+ stacks of Anomaly, gain 1 stack of Drum. After casting this skill, if you have 3 or more stacks of Drum and 100 Rage, all Drums and Rage are consumed to cast Raigo. This Raigo does not trigger extra skills, but does trigger the transformation and refreshes the action state.</color>\\n<color=#FE3116>Anomaly:</color> <color=#FE3116>Anomaly</color> reduces the target's all DMG Bonus by <color=#FE3116>1%</color>. Enel with the <color=#FE3116>Anomaly</color> awakening skill installed is immune to <color=#FE3116>Anomaly</color>. Stacks up to <color=#FE3116>20</color> times and persists. When an <color=#FE3116>Anomaly</color> character acts, Enel recovers <color=#FE3116>10%</color> HP."
+    },
+    {
+     "id": "12",
+     "skillIntro": "Lv. 1 unlock: Skills in normal state and non-Ultimate skills in Thunder God state give the target <color=#FE3116>1</color> stack of <color=#FE3116>Anomaly</color> on hit; Finishers add <color=#FE3116>1</color> extra stack. Ultimates in Thunder God state detonate <color=#FE3116>Anomaly</color>, each stack of <color=#FE3116>Anomaly</color> dealing Thunder DMG equal to <color=#FE3116>15%</color> of Enel's ATK.\\nLv. 2 unlock: ATK +<color=#FE3116>10%</color>, SPD +<color=#FE3116>5%</color>.\\n<color=#999999>Lv. 3 unlock: All skills stack Anomaly one extra time on hit, and Enel becomes immune to the DMG reduction from Ancient Magatama. When a skill hits an Anomaly target, recover 1 Soul Jade, up to 2 per turn. After casting Raigo, SPD +15% until the start of the next action. At battle start, applies 3 stacks of Anomaly to all enemies.\\nLv. 4 unlock: Thunder DMG Bonus +15%, all DMG reduction +20%.\\nLv. 5 unlock: When acting in normal form, gain a new skill Divine Thunder that can detonate Anomaly. Anomaly detonated by Divine Thunder is not removed, but the detonation DMG is reduced by 30%. When acting in Thunder God form: gain 5 Soul Jade and 50 Rage upon transforming, and 10 stacks of Anomaly are returned after detonation. Casting an Ultimate directly in Thunder God form immediately exits Thunder God form.\\nDivine Thunder: - When hitting 5+ stacks of Anomaly, applies 3 extra stacks of Anomaly to the target;\\n- When hitting 10+ stacks of Anomaly, own ATK +20% and Thunder DMG Bonus +20%;\\n- When hitting 15+ stacks of Anomaly, gain 1 stack of Drum. After casting this skill, if you have 3 or more stacks of Drum and 100 Rage, all Drums and Rage are consumed to cast Raigo. This Raigo does not trigger extra skills, but does trigger the transformation and refreshes the action state.</color>\\n<color=#FE3116>Anomaly:</color> <color=#FE3116>Anomaly</color> reduces the target's all DMG Bonus by <color=#FE3116>1%</color>. Enel with the <color=#FE3116>Anomaly</color> awakening skill installed is immune to <color=#FE3116>Anomaly</color>. Stacks up to <color=#FE3116>20</color> times and persists. When an <color=#FE3116>Anomaly</color> character acts, Enel recovers <color=#FE3116>10%</color> HP."
+    },
+    {
+     "id": "13",
+     "skillIntro": "Lv. 1 unlock: Skills in normal state and non-Ultimate skills in Thunder God state give the target <color=#FE3116>1</color> stack of <color=#FE3116>Anomaly</color> on hit; Finishers add <color=#FE3116>1</color> extra stack. Ultimates in Thunder God state detonate <color=#FE3116>Anomaly</color>, each stack of <color=#FE3116>Anomaly</color> dealing Thunder DMG equal to <color=#FE3116>15%</color> of Enel's ATK.\\nLv. 2 unlock: ATK +<color=#FE3116>10%</color>, SPD +<color=#FE3116>5%</color>.\\nLv. 3 unlock: All skills stack <color=#FE3116>Anomaly</color> one extra time on hit, and Enel becomes immune to the DMG reduction from <color=#FE3116>Ancient Magatama</color>. When a skill hits an <color=#FE3116>Anomaly</color> target, recover <color=#FE3116>1</color> Soul Jade, up to <color=#FE3116>2</color> per turn. After casting <color=#FE3116>Raigo</color>, SPD +<color=#FE3116>15%</color> until the start of the next action. At battle start, applies <color=#FE3116>3</color> stacks of Anomaly to all enemies.\\n<color=#999999>Lv. 4 unlock: Thunder DMG Bonus +15%, all DMG reduction +20%.\\nLv. 5 unlock: When acting in normal form, gain a new skill Divine Thunder that can detonate Anomaly. Anomaly detonated by Divine Thunder is not removed, but the detonation DMG is reduced by 30%. When acting in Thunder God form: gain 5 Soul Jade and 50 Rage upon transforming, and 10 stacks of Anomaly are returned after detonation. Casting an Ultimate directly in Thunder God form immediately exits Thunder God form.\\nDivine Thunder: - When hitting 5+ stacks of Anomaly, applies 3 extra stacks of Anomaly to the target;\\n- When hitting 10+ stacks of Anomaly, own ATK +20% and Thunder DMG Bonus +20%;\\n- When hitting 15+ stacks of Anomaly, gain 1 stack of Drum. After casting this skill, if you have 3 or more stacks of Drum and 100 Rage, all Drums and Rage are consumed to cast Raigo. This Raigo does not trigger extra skills, but does trigger the transformation and refreshes the action state.</color>\\n<color=#FE3116>Anomaly:</color> <color=#FE3116>Anomaly</color> reduces the target's all DMG Bonus by <color=#FE3116>1%</color>. Enel with the <color=#FE3116>Anomaly</color> awakening skill installed is immune to <color=#FE3116>Anomaly</color>. Stacks up to <color=#FE3116>20</color> times and persists. When an <color=#FE3116>Anomaly</color> character acts, Enel recovers <color=#FE3116>10%</color> HP."
+    },
+    {
+     "id": "14",
+     "skillIntro": "Lv. 1 unlock: Skills in normal state and non-Ultimate skills in Thunder God state give the target <color=#FE3116>1</color> stack of <color=#FE3116>Anomaly</color> on hit; Finishers add <color=#FE3116>1</color> extra stack. Ultimates in Thunder God state detonate <color=#FE3116>Anomaly</color>, each stack of <color=#FE3116>Anomaly</color> dealing Thunder DMG equal to <color=#FE3116>15%</color> of Enel's ATK.\\nLv. 2 unlock: ATK +<color=#FE3116>10%</color>, SPD +<color=#FE3116>5%</color>.\\nLv. 3 unlock: All skills stack <color=#FE3116>Anomaly</color> one extra time on hit, and Enel becomes immune to the DMG reduction from <color=#FE3116>Ancient Magatama</color>. When a skill hits an <color=#FE3116>Anomaly</color> target, recover <color=#FE3116>1</color> Soul Jade, up to <color=#FE3116>2</color> per turn. After casting <color=#FE3116>Raigo</color>, SPD +<color=#FE3116>15%</color> until the start of the next action. At battle start, applies <color=#FE3116>3</color> stacks of Anomaly to all enemies.\\nLv. 4 unlock: Thunder DMG Bonus +<color=#FE3116>15%</color>, all DMG reduction +<color=#FE3116>20%</color>.\\n<color=#999999>Lv. 5 unlock: When acting in normal form, gain a new skill Divine Thunder that can detonate Anomaly. Anomaly detonated by Divine Thunder is not removed, but the detonation DMG is reduced by 30%. When acting in Thunder God form: gain 5 Soul Jade and 50 Rage upon transforming, and 10 stacks of Anomaly are returned after detonation. Casting an Ultimate directly in Thunder God form immediately exits Thunder God form.\\nDivine Thunder: - When hitting 5+ stacks of Anomaly, applies 3 extra stacks of Anomaly to the target;\\n- When hitting 10+ stacks of Anomaly, own ATK +20% and Thunder DMG Bonus +20%;\\n- When hitting 15+ stacks of Anomaly, gain 1 stack of Drum. After casting this skill, if you have 3 or more stacks of Drum and 100 Rage, all Drums and Rage are consumed to cast Raigo. This Raigo does not trigger extra skills, but does trigger the transformation and refreshes the action state.</color>\\n<color=#FE3116>Anomaly:</color> <color=#FE3116>Anomaly</color> reduces the target's all DMG Bonus by <color=#FE3116>1%</color>. Enel with the <color=#FE3116>Anomaly</color> awakening skill installed is immune to <color=#FE3116>Anomaly</color>. Stacks up to <color=#FE3116>20</color> times and persists. When an <color=#FE3116>Anomaly</color> character acts, Enel recovers <color=#FE3116>10%</color> HP."
+    },
+    {
+     "id": "15",
+     "skillIntro": "Lv. 1 unlock: Skills in normal state and non-Ultimate skills in Thunder God state give the target <color=#FE3116>1</color> stack of <color=#FE3116>Anomaly</color> on hit; Finishers add <color=#FE3116>1</color> extra stack. Ultimates in Thunder God state detonate <color=#FE3116>Anomaly</color>, each stack of <color=#FE3116>Anomaly</color> dealing Thunder DMG equal to <color=#FE3116>15%</color> of Enel's ATK.\\nLv. 2 unlock: ATK +<color=#FE3116>10%</color>, SPD +<color=#FE3116>5%</color>.\\nLv. 3 unlock: All skills stack <color=#FE3116>Anomaly</color> one extra time on hit, and Enel becomes immune to the DMG reduction from <color=#FE3116>Ancient Magatama</color>. When a skill hits an <color=#FE3116>Anomaly</color> target, recover <color=#FE3116>1</color> Soul Jade, up to <color=#FE3116>2</color> per turn. After casting <color=#FE3116>Raigo</color>, SPD +<color=#FE3116>15%</color> until the start of the next action. At battle start, applies <color=#FE3116>3</color> stacks of Anomaly to all enemies.\\nLv. 4 unlock: Thunder DMG Bonus +<color=#FE3116>15%</color>, all DMG reduction +<color=#FE3116>20%</color>.\\nLv. 5 unlock: When acting in normal form, gain a new skill <color=#FE3116>Divine Thunder</color> that can detonate <color=#FE3116>Anomaly</color>. <color=#FE3116>Anomaly</color> detonated by <color=#FE3116>Divine Thunder</color> is not removed, but the detonation DMG is reduced by <color=#FE3116>30%</color>. When acting in Thunder God form: gain <color=#FE3116>5</color> Soul Jade and <color=#FE3116>50</color> Rage upon transforming, and <color=#FE3116>10</color> stacks of <color=#FE3116>Anomaly</color> are returned after detonation. Casting an Ultimate directly in Thunder God form immediately exits Thunder God form.\\n<color=#FE3116>Divine Thunder:</color> - When hitting <color=#FE3116>5</color>+ stacks of <color=#FE3116>Anomaly</color>, applies <color=#FE3116>3</color> extra stacks of <color=#FE3116>Anomaly</color> to the target; - when hitting <color=#FE3116>10</color>+ stacks of <color=#FE3116>Anomaly</color>, own ATK +<color=#FE3116>20%</color> and Thunder DMG Bonus +<color=#FE3116>20%</color>; - when hitting <color=#FE3116>15</color>+ stacks of <color=#FE3116>Anomaly</color>, gain <color=#FE3116>1</color> stack of <color=#FE3116>Drum</color>. After casting this skill, if you have <color=#FE3116>3</color> or more stacks of <color=#FE3116>Drum</color> and <color=#FE3116>100</color> Rage, all Drums and Rage are consumed to cast <color=#FE3116>Raigo</color>. This <color=#FE3116>Raigo</color> does not trigger extra skills, but does trigger the transformation and refreshes the action state.\\n<color=#FE3116>Anomaly:</color> <color=#FE3116>Anomaly</color> reduces the target's all DMG Bonus by <color=#FE3116>1%</color>. Enel with the <color=#FE3116>Anomaly</color> awakening skill installed is immune to <color=#FE3116>Anomaly</color>. Stacks up to <color=#FE3116>20</color> times and persists. When an <color=#FE3116>Anomaly</color> character acts, Enel recovers <color=#FE3116>10%</color> HP."
     }
    ]
   },
@@ -14821,6 +16214,12 @@
      "skillId": "10765",
      "skillName": "",
      "skillDesc": "Normal Attack",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "10767",
+     "skillName": "",
+     "skillDesc": "Split",
      "buttonEffect": ""
     },
     {
@@ -36118,6 +37517,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "700928",
+     "skillName": "",
+     "skillDesc": "Split",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "700935",
      "skillName": "",
      "skillDesc": "Normal Attack",
@@ -51354,6 +52759,36 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "702003",
+     "skillName": "boss",
+     "skillDesc": "At the end of each turn, ATK +40% and all DMG Bonus +40%. Immune to control from turn 1, all DMG reduction 60%",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "702004",
+     "skillName": "Old Sand",
+     "skillDesc": "When casting all-target skills, deals extra Wind DMG equal to 40% of the target's Max HP",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "702005",
+     "skillName": "Gecko Moria",
+     "skillDesc": "When casting all-target skills, deals extra Dark DMG equal to 30% of the target's Max HP + 30% Sever DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "702006",
+     "skillName": "Sengoku",
+     "skillDesc": "When casting all-target skills, deals extra Light DMG equal to 40% of the target's Max HP + 40% Sever DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "702007",
+     "skillName": "Enel",
+     "skillDesc": "When casting all-target skills, deals extra Thunder DMG equal to 20% of the target's Max HP + 30% Sever DMG",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "702081",
      "skillName": "Speed-of-Light Kick",
      "skillDesc": "",
@@ -51792,7 +53227,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "7527/14789 rows translated so far"
+   "partial": "7534/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
