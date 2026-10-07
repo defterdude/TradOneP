@@ -5745,20 +5745,1644 @@
      "defaultDialog": "For the children!"
     },
     {
+     "id": "6890",
+     "defaultDialog": "My homeland is Kuri in the Land of Wano..."
+    },
+    {
+     "id": "6892",
+     "defaultDialog": "Damn... such a cruel thing!!"
+    },
+    {
+     "id": "6893",
+     "defaultDialog": "Give me candy!!!!"
+    },
+    {
+     "id": "6935",
+     "defaultDialog": "Being like this is a disgrace for a samurai!!!"
+    },
+    {
+     "id": "6938",
+     "defaultDialog": "What's with these brats..."
+    },
+    {
+     "id": "6939",
+     "defaultDialog": "These guys are really skilled."
+    },
+    {
+     "id": "7060",
+     "defaultDialog": "I'm not going to die here, am I..."
+    },
+    {
+     "id": "7061",
+     "defaultDialog": "Little Miss Captain... come save me..."
+    },
+    {
+     "id": "7141",
+     "defaultDialog": "This is no time to fight them!"
+    },
+    {
+     "id": "7160",
+     "defaultDialog": "Get away from Vergo, now!"
+    },
+    {
+     "id": "7167",
+     "defaultDialog": "Ugh..."
+    },
+    {
+     "id": "7188",
+     "defaultDialog": "Damn dragon!!!"
+    },
+    {
+     "id": "7189",
+     "defaultDialog": "I hate this guy!"
+    },
+    {
+     "id": "7190",
+     "defaultDialog": "Aaah, what do we do, stop it!"
+    },
+    {
+     "id": "7191",
+     "defaultDialog": "If it keeps wrecking things, the poison gas will fill everything soon."
+    },
+    {
+     "id": "7194",
+     "defaultDialog": "Finally up!"
+    },
+    {
+     "id": "7195",
+     "defaultDialog": "Stay close to me, Momo!"
+    },
+    {
+     "id": "7201",
+     "defaultDialog": "Big brother, big sister, help me!"
+    },
+    {
+     "id": "7212",
+     "defaultDialog": "Stop, you can't eat that candy!"
+    },
+    {
+     "id": "7237",
+     "defaultDialog": "Hogging all the candy isn't what good kids do."
+    },
+    {
+     "id": "7250",
+     "defaultDialog": "There's a reason I stayed here."
+    },
+    {
+     "id": "7251",
+     "defaultDialog": "Unforgivable."
+    },
+    {
+     "id": "7252",
+     "defaultDialog": "All talk."
+    },
+    {
+     "id": "7253",
+     "defaultDialog": "Is that all."
+    },
+    {
+     "id": "7255",
+     "defaultDialog": "If my men see me with pirates..."
+    },
+    {
+     "id": "7256",
+     "defaultDialog": "Let's go."
+    },
+    {
+     "id": "7257",
+     "defaultDialog": "Please..."
+    },
+    {
+     "id": "7264",
+     "defaultDialog": "Mocha, hang in there!!"
+    },
+    {
+     "id": "7265",
+     "defaultDialog": "Hey, how are the kids?"
+    },
+    {
+     "id": "7268",
+     "defaultDialog": "Chopper, calm down."
+    },
+    {
+     "id": "7270",
+     "defaultDialog": "I'll teach you a lesson, Law."
+    },
+    {
+     "id": "7272",
+     "defaultDialog": "Face reality, Law."
+    },
+    {
+     "id": "7276",
+     "defaultDialog": "You're no match for me!"
+    },
+    {
+     "id": "7286",
+     "defaultDialog": "Straw Hat! Why are you targeting me!!"
+    },
+    {
+     "id": "7288",
+     "defaultDialog": "Caesar, I'll never let you get away with this."
+    },
+    {
+     "id": "7289",
+     "defaultDialog": "I may not be able to let you through."
+    },
+    {
+     "id": "7292",
+     "defaultDialog": "Just lab rats~"
+    },
+    {
+     "id": "7314",
+     "defaultDialog": "Caesar, I'll never forgive you!"
+    },
+    {
+     "id": "7315",
+     "defaultDialog": "Behold, the power of Shinokuni!"
+    },
+    {
+     "id": "7409",
+     "defaultDialog": "Come see the sea with me"
+    },
+    {
+     "id": "7559",
+     "defaultDialog": "What kind of bird is that??"
+    },
+    {
+     "id": "7560",
+     "defaultDialog": "Huff... huff... we can't fall here."
+    },
+    {
+     "id": "7565",
+     "defaultDialog": "No one leaves this island alive."
+    },
+    {
+     "id": "7587",
+     "defaultDialog": "So scary, am I going to die here!?!"
+    },
+    {
+     "id": "7588",
+     "defaultDialog": "The captain's at it again..."
+    },
+    {
+     "id": "7589",
+     "defaultDialog": "Where did they all go?"
+    },
+    {
+     "id": "7590",
+     "defaultDialog": "I'll definitely become a Marine Admiral!"
+    },
+    {
+     "id": "7607",
+     "defaultDialog": "What do I do, I'm so scared."
+    },
+    {
+     "id": "7608",
+     "defaultDialog": "Better stay away from them."
+    },
+    {
+     "id": "7609",
+     "defaultDialog": "Hmph, I'm not one to mess with."
+    },
+    {
+     "id": "7610",
+     "defaultDialog": "Let me see which guy has a death wish!"
+    },
+    {
+     "id": "7663",
+     "defaultDialog": "Heh heh, all this money is mine!"
+    },
+    {
+     "id": "7731",
+     "defaultDialog": "Mind if I watch beside you? Lucy."
+    },
+    {
+     "id": "7732",
+     "defaultDialog": "I hate every one of Garp's grandkids!"
+    },
+    {
+     "id": "7739",
+     "defaultDialog": "Time to go all out!"
+    },
+    {
+     "id": "7753",
+     "defaultDialog": "I'm known as Jean the Bandit. As if I'd give back what I've taken."
+    },
+    {
+     "id": "7754",
+     "defaultDialog": "Garp, just you wait!"
+    },
+    {
+     "id": "7757",
+     "defaultDialog": "I'll kill you for sure, Straw Hat!"
+    },
+    {
+     "id": "7771",
+     "defaultDialog": "Aaah!"
+    },
+    {
+     "id": "7787",
+     "defaultDialog": "Here they come."
+    },
+    {
+     "id": "7835",
+     "defaultDialog": "I shall arrest you and the Straw Hats!"
+    },
+    {
+     "id": "7840",
+     "defaultDialog": "Fufufufufufu!!"
+    },
+    {
+     "id": "7853",
+     "defaultDialog": "My goal is not to kill, but to arrest..."
+    },
+    {
+     "id": "7867",
+     "defaultDialog": "Law!!!"
+    },
+    {
+     "id": "7878",
+     "defaultDialog": "That person... looks a bit strange?!"
+    },
+    {
+     "id": "7891",
+     "defaultDialog": "Waaah!!"
+    },
+    {
+     "id": "7892",
+     "defaultDialog": "Heh heh, watch me beat this woman!"
+    },
+    {
+     "id": "7896",
+     "defaultDialog": "If I beat you, I'll be the Block D champion!"
+    },
+    {
+     "id": "7900",
+     "defaultDialog": "Your head is mine!"
+    },
+    {
+     "id": "7914",
+     "defaultDialog": "This is no place for you!"
+    },
+    {
+     "id": "7948",
+     "defaultDialog": "Which of your bones should I break first!! Little Miss Hated-by-All!!!"
+    },
+    {
+     "id": "7953",
+     "defaultDialog": "I won't let you lay a finger on little Viola!!"
+    },
+    {
+     "id": "7964",
+     "defaultDialog": "Sanji... I have a request..."
+    },
+    {
+     "id": "7965",
+     "defaultDialog": "Watch me knock you flat!"
+    },
+    {
+     "id": "7972",
+     "defaultDialog": "Yo, useless guy! Help me take them out."
+    },
+    {
+     "id": "7990",
+     "defaultDialog": "You failed again, you useless trash."
+    },
+    {
+     "id": "8011",
+     "defaultDialog": "Watch closely as your allies die miserably at my hands!!!"
+    },
+    {
+     "id": "8012",
+     "defaultDialog": "Big Sis, are you betraying us??"
+    },
+    {
+     "id": "8013",
+     "defaultDialog": "A mere pirate wants to take on the Marines?"
+    },
+    {
+     "id": "8014",
+     "defaultDialog": "...Calm down. I'll be your opponent first."
+    },
+    {
+     "id": "8062",
+     "defaultDialog": "Here they come."
+    },
+    {
+     "id": "8072",
+     "defaultDialog": "I have to win!"
+    },
+    {
+     "id": "8076",
+     "defaultDialog": "I have to win... and get the \"Flame-Flame Fruit\"...!!"
+    },
+    {
+     "id": "8094",
+     "defaultDialog": "Wow! You can see clearly from here!"
+    },
+    {
+     "id": "8147",
+     "defaultDialog": "I'll start with you!"
+    },
+    {
+     "id": "8148",
+     "defaultDialog": "How dare you lay hands on my little brother!"
+    },
+    {
+     "id": "8149",
+     "defaultDialog": "Let me avenge my little brothers!"
+    },
+    {
+     "id": "8152",
+     "defaultDialog": "Stop!!"
+    },
+    {
+     "id": "8153",
+     "defaultDialog": "Catch you and there's a big bounty."
+    },
+    {
+     "id": "8154",
+     "defaultDialog": "Are you the one who did this to the people!"
+    },
+    {
+     "id": "8155",
+     "defaultDialog": "My hands won't obey me!"
+    },
+    {
+     "id": "8158",
+     "defaultDialog": "With the Young Master away, you've gotten cocky!"
+    },
+    {
+     "id": "8159",
+     "defaultDialog": "How could the Doflamingo Family be beaten by you!"
+    },
+    {
+     "id": "8160",
+     "defaultDialog": "Damn... the deal fell through..."
+    },
+    {
+     "id": "8161",
+     "defaultDialog": "The Young Master will be back!"
+    },
+    {
+     "id": "8170",
+     "defaultDialog": "Time to make a killing!"
+    },
+    {
+     "id": "8174",
+     "defaultDialog": "Stop me, quick!!"
+    },
+    {
+     "id": "8261",
+     "defaultDialog": "Don't get in my way!"
+    },
+    {
+     "id": "8273",
+     "defaultDialog": "Great! Found Fighting Fish No. 01!"
+    },
+    {
+     "id": "8297",
+     "defaultDialog": "What is this weird thing!!?"
+    },
+    {
+     "id": "8334",
+     "defaultDialog": "You people are such a nuisance."
+    },
+    {
+     "id": "8350",
+     "defaultDialog": "What a sin..."
+    },
+    {
+     "id": "8352",
+     "defaultDialog": "Don't get in my way!"
+    },
+    {
+     "id": "8364",
+     "defaultDialog": "Don't you touch Rebecca again!!"
+    },
+    {
+     "id": "8370",
+     "defaultDialog": "Don't block the way!!"
+    },
+    {
+     "id": "8373",
+     "defaultDialog": "Out of my way, Marine old man!"
+    },
+    {
+     "id": "8378",
+     "defaultDialog": "Intruders~~! Leave none~~~!!"
+    },
+    {
+     "id": "8384",
+     "defaultDialog": "Our turn to take the stage."
+    },
+    {
+     "id": "8386",
+     "defaultDialog": "Must hurry... and complete \"Operation SOP\"..."
+    },
+    {
+     "id": "8387",
+     "defaultDialog": "Behehe..."
+    },
+    {
+     "id": "8394",
+     "defaultDialog": "I've come to take back the real Dressrosa! Doflamingo!!"
+    },
+    {
+     "id": "8395",
+     "defaultDialog": "Go, everyone! Make sure Sugar faints!!"
+    },
+    {
+     "id": "8396",
+     "defaultDialog": "Let me be your hero!"
+    },
+    {
+     "id": "8397",
+     "defaultDialog": "...Watch me! Ace!!"
+    },
+    {
+     "id": "8398",
+     "defaultDialog": "Soldier! Danger!!"
+    },
+    {
+     "id": "8407",
+     "defaultDialog": "Take this, pervert kid!"
+    },
+    {
+     "id": "8408",
+     "defaultDialog": "Let me go wild!"
+    },
+    {
+     "id": "8410",
+     "defaultDialog": "Iron Man Franky! Surrender now."
+    },
+    {
+     "id": "8423",
+     "defaultDialog": "Just one enemy, how useless are you!!"
+    },
+    {
+     "id": "8424",
+     "defaultDialog": "This is my prey!"
+    },
+    {
+     "id": "8426",
+     "defaultDialog": "You ungrateful lot."
+    },
+    {
+     "id": "8430",
+     "defaultDialog": "So this is the \"Factory\"..."
+    },
+    {
+     "id": "8450",
+     "defaultDialog": "You may have saved our lives, but we're still taking your bounty!"
+    },
+    {
+     "id": "8456",
+     "defaultDialog": "Looks like there's no point talking anymore..."
+    },
+    {
+     "id": "8471",
+     "defaultDialog": "I won't let you through."
+    },
+    {
+     "id": "8472",
+     "defaultDialog": "Move!! You're no match for him!!"
+    },
+    {
+     "id": "8479",
+     "defaultDialog": "Such a squeaky voice... so funny!!"
+    },
+    {
+     "id": "8491",
+     "defaultDialog": "Hey!! Out of the way!!!"
+    },
+    {
+     "id": "8507",
+     "defaultDialog": "Charge!! Ucy!"
+    },
+    {
+     "id": "8523",
+     "defaultDialog": "Here I go!!"
+    },
+    {
+     "id": "8526",
+     "defaultDialog": "Finally showing your true form..."
+    },
+    {
+     "id": "8530",
+     "defaultDialog": "(Hold them back as long as possible...)"
+    },
+    {
+     "id": "8542",
+     "defaultDialog": "We can't let Straw Hat through!"
+    },
+    {
+     "id": "8551",
+     "defaultDialog": "This road doesn't look right..."
+    },
+    {
+     "id": "8560",
+     "defaultDialog": "Mingo! I'll send you flying for sure!"
+    },
+    {
+     "id": "8579",
+     "defaultDialog": "I'll never approve of your marriage!!"
+    },
+    {
+     "id": "8588",
+     "defaultDialog": "I told you, my beloved horse Farul only runs gracefully with two riders or fewer!"
+    },
+    {
+     "id": "8605",
+     "defaultDialog": "Where did these giant toys come from?"
+    },
+    {
+     "id": "8606",
+     "defaultDialog": "Luffy-senpai, leave this to me!"
+    },
+    {
+     "id": "8611",
+     "defaultDialog": "I hope Lucy and the others are safe..."
+    },
+    {
+     "id": "8613",
+     "defaultDialog": "Damn... you beast!"
+    },
+    {
+     "id": "8620",
+     "defaultDialog": "Bastard! Don't get in the way!"
+    },
+    {
+     "id": "8653",
+     "defaultDialog": "Mingo! You just wait!!"
+    },
+    {
+     "id": "8655",
+     "defaultDialog": "I'll punch you flying!! Mingo!"
+    },
+    {
+     "id": "8656",
+     "defaultDialog": "At this rate, things look bad..."
+    },
+    {
+     "id": "8663",
+     "defaultDialog": "Straw Hat-ya... watch out!"
+    },
+    {
+     "id": "8666",
+     "defaultDialog": "Straw Hat-ya... what is he doing..."
+    },
+    {
+     "id": "8667",
+     "defaultDialog": "Fufufufufu... struggle..."
+    },
+    {
+     "id": "8670",
+     "defaultDialog": "Doflamingo! Here I come!"
+    },
+    {
+     "id": "8672",
+     "defaultDialog": "I'm getting a bit bored..."
+    },
+    {
+     "id": "8674",
+     "defaultDialog": "H... how could this be?"
+    },
+    {
+     "id": "8678",
+     "defaultDialog": "Straw Hat, you can't beat Doffy!"
+    },
+    {
+     "id": "8679",
+     "defaultDialog": "S... Straw Hat..."
+    },
+    {
+     "id": "8689",
+     "defaultDialog": "Luffy, send Traffy over here!"
+    },
+    {
+     "id": "8698",
+     "defaultDialog": "Mingo! I'll send you flying!!!"
+    },
+    {
+     "id": "8700",
+     "defaultDialog": "Ugh... if only I had ten more minutes..."
+    },
+    {
+     "id": "8730",
+     "defaultDialog": "No one gets through!!"
+    },
+    {
+     "id": "8747",
+     "defaultDialog": "I have to do something too..."
+    },
+    {
+     "id": "8750",
+     "defaultDialog": "Aunt Viola, no!!"
+    },
+    {
+     "id": "8754",
+     "defaultDialog": "This is the end, Mingo!! I'll send you flying in one blow!!"
+    },
+    {
+     "id": "8816",
+     "defaultDialog": "Everyone! Time to retreat!"
+    },
+    {
+     "id": "8817",
+     "defaultDialog": "Luffy-senpai, where are you going? 1"
+    },
+    {
+     "id": "8831",
+     "defaultDialog": "Rebecca, we're running!"
+    },
+    {
+     "id": "8840",
+     "defaultDialog": "Luffy-senpai, hurry!"
+    },
+    {
+     "id": "8852",
+     "defaultDialog": "I'm going all out! Old man!!"
+    },
+    {
+     "id": "9157",
+     "defaultDialog": "How could..."
+    },
+    {
+     "id": "9238",
+     "defaultDialog": "This guy makes me so anxious..."
+    },
+    {
+     "id": "9239",
+     "defaultDialog": "It's over, it's over, my first shift got off to a bad start!"
+    },
+    {
+     "id": "9240",
+     "defaultDialog": "There's nobody around here, ugh... I'm not scared at all!"
+    },
+    {
+     "id": "9241",
+     "defaultDialog": "Oh, it's our benefactor, garchu."
+    },
+    {
+     "id": "9242",
+     "defaultDialog": "Minks are born warriors."
+    },
+    {
+     "id": "9243",
+     "defaultDialog": "I want to get stronger!"
+    },
+    {
+     "id": "9244",
+     "defaultDialog": "Garchu! Didn't Baron Bones come with you today?"
+    },
+    {
+     "id": "9245",
+     "defaultDialog": "No no, I mean no harm, please don't point your weapon at me."
+    },
+    {
+     "id": "9246",
+     "defaultDialog": "I want to leave this island..."
+    },
+    {
+     "id": "9247",
+     "defaultDialog": "The Beast Pirates won't let traitors leave alive!"
+    },
+    {
+     "id": "9248",
+     "defaultDialog": "When is Lord Jack coming to pick us up?"
+    },
+    {
+     "id": "9249",
+     "defaultDialog": "Those damn animals..."
+    },
+    {
+     "id": "9250",
+     "defaultDialog": "The brave fear nothing; the strong are invincible."
+    },
+    {
+     "id": "9251",
+     "defaultDialog": "Thanks to Dr. Chopper's treatment, I could get back to work so fast."
+    },
+    {
+     "id": "9252",
+     "defaultDialog": "Damn, did I come here for nothing?"
+    },
+    {
+     "id": "9253",
+     "defaultDialog": "Huff... huff... I'm done for..."
+    },
+    {
+     "id": "9254",
+     "defaultDialog": "Actually, I'm allergic to animal fur."
+    },
+    {
+     "id": "9475",
+     "defaultDialog": "...What more do you want to do to this country!"
+    },
+    {
+     "id": "9481",
+     "defaultDialog": "I want to soak in the hot spring too... but Boss Nekomamushi won't let me..."
+    },
+    {
+     "id": "9484",
+     "defaultDialog": "Garchu! Benefactor, if you want a bath, this way please."
+    },
+    {
+     "id": "9485",
+     "defaultDialog": "Benefactor! All clear!"
+    },
+    {
+     "id": "9486",
+     "defaultDialog": "Benefactor! All clear here too!"
+    },
+    {
+     "id": "9487",
+     "defaultDialog": "Oh, it's our benefactor, garchu!"
+    },
+    {
+     "id": "9488",
+     "defaultDialog": "What's up there? Dad never lets me go up..."
+    },
+    {
+     "id": "9491",
+     "defaultDialog": "They say wishes made under this tree always come true..."
+    },
+    {
+     "id": "9510",
+     "defaultDialog": "What are you trying to do..."
+    },
+    {
+     "id": "9512",
+     "defaultDialog": "Oh? You, kid, I don't recognize you."
+    },
+    {
+     "id": "9515",
+     "defaultDialog": "...Hm!? You suspicious bunch!!"
+    },
+    {
+     "id": "9516",
+     "defaultDialog": "Uh-oh, they're getting away!"
+    },
+    {
+     "id": "9517",
+     "defaultDialog": "From today on, this place is my turf!!"
+    },
+    {
+     "id": "9518",
+     "defaultDialog": "The exit... where's the exit!"
+    },
+    {
+     "id": "9519",
+     "defaultDialog": "What are you doing here!?"
+    },
+    {
+     "id": "9522",
+     "defaultDialog": "Are you the one playing the thief?"
+    },
+    {
+     "id": "9523",
+     "defaultDialog": "You're too weak for me."
+    },
+    {
+     "id": "9524",
+     "defaultDialog": "Even as a stand-in thief, I can't let my guard down."
+    },
+    {
+     "id": "9525",
+     "defaultDialog": "Who are you?!!"
+    },
+    {
+     "id": "9526",
+     "defaultDialog": "Tch, we've been spotted. No choice but to fight."
+    },
+    {
+     "id": "9528",
+     "defaultDialog": "This flour is really good."
+    },
+    {
+     "id": "9530",
+     "defaultDialog": "Toast time."
+    },
+    {
+     "id": "9531",
+     "defaultDialog": "Pasta time."
+    },
+    {
+     "id": "9532",
+     "defaultDialog": "Bleh bleh bleh, disgusting."
+    },
+    {
+     "id": "9538",
+     "defaultDialog": "I won't give up!"
+    },
+    {
+     "id": "9559",
+     "defaultDialog": "So tasty, I'll keep eating!"
+    },
+    {
      "id": "9561",
      "defaultDialog": "Don't get in my way!"
+    },
+    {
+     "id": "9563",
+     "defaultDialog": "That guy sure is nosy!"
+    },
+    {
+     "id": "9565",
+     "defaultDialog": "Anyone who disturbs my practice is unforgivable!"
+    },
+    {
+     "id": "9567",
+     "defaultDialog": "...Where on earth is this, hey! Perfect timing, show me the way!"
+    },
+    {
+     "id": "9569",
+     "defaultDialog": "Eat that food again and you'll die... You don't know anything!"
+    },
+    {
+     "id": "9571",
+     "defaultDialog": "This is mine now!"
+    },
+    {
+     "id": "9573",
+     "defaultDialog": "Damn...! Was it all for nothing?"
+    },
+    {
+     "id": "9575",
+     "defaultDialog": "It's not just my fault!"
+    },
+    {
+     "id": "9577",
+     "defaultDialog": "Stop me if you can."
+    },
+    {
+     "id": "9703",
+     "defaultDialog": "Who are you!"
+    },
+    {
+     "id": "9724",
+     "defaultDialog": "Waaa~~~~!"
+    },
+    {
+     "id": "9750",
+     "defaultDialog": "Waaa~~~~~!!"
+    },
+    {
+     "id": "9766",
+     "defaultDialog": "Nami! Watch out!!"
+    },
+    {
+     "id": "9772",
+     "defaultDialog": "I've come to take you out, Straw Hat!"
+    },
+    {
+     "id": "9776",
+     "defaultDialog": "I'm going all out!!"
+    },
+    {
+     "id": "9784",
+     "defaultDialog": "No!!"
+    },
+    {
+     "id": "9791",
+     "defaultDialog": "Don't you insult my friends!!"
+    },
+    {
+     "id": "9792",
+     "defaultDialog": "I'll defeat you!!"
+    },
+    {
+     "id": "9793",
+     "defaultDialog": "Can you handle this many Biscuit Soldiers? Straw Hat!"
+    },
+    {
+     "id": "9800",
+     "defaultDialog": "Fly to the end of the world!!"
+    },
+    {
+     "id": "9909",
+     "defaultDialog": "Still complaining!?"
+    },
+    {
+     "id": "9918",
+     "defaultDialog": "You inhuman bastards!!"
+    },
+    {
+     "id": "9925",
+     "defaultDialog": "Sanji~~~~~!!! Long time no see~~~!!!"
+    },
+    {
+     "id": "9928",
+     "defaultDialog": "Luffy, are you really going to wait?"
+    },
+    {
+     "id": "9972",
+     "defaultDialog": "Hey hey! You're supposed to be banned from the castle right now."
+    },
+    {
+     "id": "10027",
+     "defaultDialog": "Long time no see!! Pedro, captain of the Nox Pirates!!"
+    },
+    {
+     "id": "10036",
+     "defaultDialog": "(I have to do my job well as bait)"
+    },
+    {
+     "id": "10046",
+     "defaultDialog": "I am the \"Soul King\"!!!"
+    },
+    {
+     "id": "10061",
+     "defaultDialog": "No way...!!! BIG MOM~!!? Whaaa~~~~~~!!!"
+    },
+    {
+     "id": "10064",
+     "defaultDialog": "Finally behaving? Soul King."
+    },
+    {
+     "id": "10071",
+     "defaultDialog": "Hide-and-seek is over!!"
+    },
+    {
+     "id": "10095",
+     "defaultDialog": "...Way too slow... What's wrong...? Sanji...?"
+    },
+    {
+     "id": "10100",
+     "defaultDialog": "Waaah~~~!! Brother Jo~!! Help me~~ it's so hot~!!!"
+    },
+    {
+     "id": "10132",
+     "defaultDialog": "Now you can't escape! Straw Hat!!"
+    },
+    {
+     "id": "10133",
+     "defaultDialog": "So persistent, Straw Hat!!"
+    },
+    {
+     "id": "10135",
+     "defaultDialog": "The Chess Soldiers...!!"
+    },
+    {
+     "id": "10161",
+     "defaultDialog": "Welcome to Big Mom's Tea Party! Please allow me to search you."
+    },
+    {
+     "id": "10169",
+     "defaultDialog": "Your turn on stage is over!"
+    },
+    {
+     "id": "10190",
+     "defaultDialog": "The wedding is about to begin..."
+    },
+    {
+     "id": "10200",
+     "defaultDialog": "Pudding!!"
+    },
+    {
+     "id": "10241",
+     "defaultDialog": "I don't care anymore!! Aooo~~~~!!!"
+    },
+    {
+     "id": "10242",
+     "defaultDialog": "You're running away!? Coward!!!"
+    },
+    {
+     "id": "10248",
+     "defaultDialog": "Jump over!!"
+    },
+    {
+     "id": "10249",
+     "defaultDialog": "Gum~~!!"
+    },
+    {
+     "id": "10253",
+     "defaultDialog": "Father!!!"
+    },
+    {
+     "id": "10256",
+     "defaultDialog": "Don't let them escape!!"
+    },
+    {
+     "id": "10262",
+     "defaultDialog": "I'm your opponent!"
+    },
+    {
+     "id": "10401",
+     "defaultDialog": "Waaa~~~!!"
+    },
+    {
+     "id": "10403",
+     "defaultDialog": "Waaah!!"
+    },
+    {
+     "id": "10404",
+     "defaultDialog": "What happened!?"
     },
     {
      "id": "10406",
      "defaultDialog": "Let's go!"
     },
     {
+     "id": "10457",
+     "defaultDialog": "Run!"
+    },
+    {
+     "id": "10492",
+     "defaultDialog": "The forest is getting troublesome again!"
+    },
+    {
+     "id": "10494",
+     "defaultDialog": "We can't waste any more time here...!"
+    },
+    {
+     "id": "10505",
+     "defaultDialog": "Gum-Gum!!"
+    },
+    {
+     "id": "10508",
+     "defaultDialog": "Clima-Tact!"
+    },
+    {
+     "id": "10523",
+     "defaultDialog": "Everyone, see you at sea!"
+    },
+    {
+     "id": "10531",
+     "defaultDialog": "Please get off the Sunny!"
+    },
+    {
+     "id": "10555",
+     "defaultDialog": "Pero pero, die here!!"
+    },
+    {
+     "id": "10558",
+     "defaultDialog": "We're about to get caught in a pincer!!"
+    },
+    {
+     "id": "10566",
+     "defaultDialog": "Waaah!!!"
+    },
+    {
+     "id": "10569",
+     "defaultDialog": "Everyone has their own moment on stage."
+    },
+    {
+     "id": "10584",
+     "defaultDialog": "What do we do, they're about to catch up...!"
+    },
+    {
+     "id": "10585",
+     "defaultDialog": "Big Mom is walking over the sea!"
+    },
+    {
+     "id": "10652",
+     "defaultDialog": "I'll definitely come back!!"
+    },
+    {
+     "id": "10664",
+     "defaultDialog": "I have no intention of dying here!!!"
+    },
+    {
+     "id": "10665",
+     "defaultDialog": "Is that all you have for last words?"
+    },
+    {
+     "id": "10675",
+     "defaultDialog": "Donuts~~~"
+    },
+    {
+     "id": "10678",
+     "defaultDialog": "I understand your ability now!"
+    },
+    {
+     "id": "10680",
+     "defaultDialog": "King Kong Gatling!!!!"
+    },
+    {
+     "id": "10681",
+     "defaultDialog": "Power Mochi!!!"
+    },
+    {
+     "id": "10684",
+     "defaultDialog": "Branches~~"
+    },
+    {
+     "id": "10692",
+     "defaultDialog": "Uh-oh, they caught up!!"
+    },
+    {
+     "id": "10702",
+     "defaultDialog": "How many more times will you stand up."
+    },
+    {
+     "id": "10703",
+     "defaultDialog": "Hawk Stamp!!!"
+    },
+    {
+     "id": "10710",
+     "defaultDialog": "Huff... huff... now..."
+    },
+    {
+     "id": "10715",
+     "defaultDialog": "Oven, let go of Chiffon!!"
+    },
+    {
+     "id": "10716",
+     "defaultDialog": "Darling!!!"
+    },
+    {
+     "id": "10717",
+     "defaultDialog": "...Can I see it too... \"the near future\""
+    },
+    {
+     "id": "10720",
+     "defaultDialog": "We can't let Straw Hat go..."
+    },
+    {
+     "id": "10723",
+     "defaultDialog": "I want to help everyone..."
+    },
+    {
+     "id": "10724",
+     "defaultDialog": "And how many more..."
+    },
+    {
+     "id": "10726",
+     "defaultDialog": "Straw Hat, you absolutely won't leave here alive!"
+    },
+    {
+     "id": "10741",
+     "defaultDialog": "Awoo~"
+    },
+    {
+     "id": "10743",
+     "defaultDialog": "Straw Hat, you're the one I can't forgive!"
+    },
+    {
+     "id": "10749",
+     "defaultDialog": "Stop them!"
+    },
+    {
+     "id": "10754",
+     "defaultDialog": "Awoo~"
+    },
+    {
+     "id": "10757",
+     "defaultDialog": "What a troublesome guy."
+    },
+    {
+     "id": "10767",
+     "defaultDialog": "A bunch of idiots."
+    },
+    {
      "id": "10772",
      "defaultDialog": "Hmph...!"
+    },
+    {
+     "id": "10776",
+     "defaultDialog": "You're an eyesore!"
+    },
+    {
+     "id": "10780",
+     "defaultDialog": "Don't get in my cute little brother's way!"
+    },
+    {
+     "id": "10785",
+     "defaultDialog": "Luffy! Sanji!"
+    },
+    {
+     "id": "10790",
+     "defaultDialog": "This is troublesome..."
+    },
+    {
+     "id": "10792",
+     "defaultDialog": "Hey, Straw Hat, why go this far for that failure..."
+    },
+    {
+     "id": "10797",
+     "defaultDialog": "Caught up with you!"
+    },
+    {
+     "id": "10805",
+     "defaultDialog": "Luffy, I have a request..."
+    },
+    {
+     "id": "10812",
+     "defaultDialog": "The wedding cake..."
+    },
+    {
+     "id": "10814",
+     "defaultDialog": "An absolute monster..."
+    },
+    {
+     "id": "10815",
+     "defaultDialog": "We can't let her keep wrecking things..."
+    },
+    {
+     "id": "10816",
+     "defaultDialog": "Come, Zeus ❤"
+    },
+    {
+     "id": "10817",
+     "defaultDialog": "Follow me, Big Mom!"
+    },
+    {
+     "id": "10826",
+     "defaultDialog": "Shut up, we're on a mission!!"
+    },
+    {
+     "id": "10827",
+     "defaultDialog": "Shut up, we're on a mission!!"
+    },
+    {
+     "id": "10830",
+     "defaultDialog": "No!! Forgive me!!"
+    },
+    {
+     "id": "10832",
+     "defaultDialog": "Huff... huff... huff"
+    },
+    {
+     "id": "10833",
+     "defaultDialog": "Roar roar roar~!!!"
+    },
+    {
+     "id": "10835",
+     "defaultDialog": "!? Whoa!!! Hey, don't wreck our ship!!!"
+    },
+    {
+     "id": "10851",
+     "defaultDialog": "Somebody help me!!"
+    },
+    {
+     "id": "10852",
+     "defaultDialog": "That guy seems to be one of Kaido's men...!!"
+    },
+    {
+     "id": "10855",
+     "defaultDialog": "Ohhh...!!!"
+    },
+    {
+     "id": "10856",
+     "defaultDialog": "Ohhh...!!!"
+    },
+    {
+     "id": "10870",
+     "defaultDialog": "Hey, Luffy! Protect the kid! I'll deal with that guy!"
+    },
+    {
+     "id": "10882",
+     "defaultDialog": "My hearing is 6 times a human's!!! I won't miss you badmouthing the Shogun!!!"
+    },
+    {
+     "id": "10904",
+     "defaultDialog": "Come, show me how fearlessly you face a sumo wrestler's massive body!!"
+    },
+    {
+     "id": "10905",
+     "defaultDialog": "Come on, don't hold back, give it everything!!"
+    },
+    {
+     "id": "10908",
+     "defaultDialog": "Hand over the money!!"
+    },
+    {
+     "id": "10909",
+     "defaultDialog": "Hand over the money!!"
+    },
+    {
+     "id": "10910",
+     "defaultDialog": "Unforgivable... give me the eggs!!"
+    },
+    {
+     "id": "10911",
+     "defaultDialog": "Heh heh heh heh heh!! This beach is the turf of us three Bull Brothers!!"
+    },
+    {
+     "id": "10912",
+     "defaultDialog": "Ehehehehehe!! This bamboo forest is the turf of us three Bull Brothers!!"
+    },
+    {
+     "id": "10913",
+     "defaultDialog": "Ha ha ha ha!! This street is the turf of us three Bull Brothers!!"
+    },
+    {
+     "id": "10942",
+     "defaultDialog": "Bakura Town is where the bigwigs live. No trouble allowed inside!"
+    },
+    {
+     "id": "10943",
+     "defaultDialog": "Bakura Town is where the bigwigs live. No trouble allowed inside!"
+    },
+    {
+     "id": "10958",
+     "defaultDialog": "This is Okobore Town!"
+    },
+    {
+     "id": "10960",
+     "defaultDialog": "Okobore Town is past the wasteland ahead. Be careful on the way!"
+    },
+    {
+     "id": "11002",
+     "defaultDialog": "This cave is our base now!!"
+    },
+    {
+     "id": "11003",
+     "defaultDialog": "If you dare get in my way, I won't let you off!!"
+    },
+    {
+     "id": "11004",
+     "defaultDialog": "This is my house now!!"
+    },
+    {
+     "id": "11005",
+     "defaultDialog": "You, of course there are sumo wrestlers in the wilderness!"
+    },
+    {
+     "id": "11006",
+     "defaultDialog": "Don't put it so harshly. I eat for free wherever I go."
+    },
+    {
+     "id": "11007",
+     "defaultDialog": "I quit sumo to be a thief and live free!!"
+    },
+    {
+     "id": "11008",
+     "defaultDialog": "If you pick a fight, I'll punch you flying!!"
+    },
+    {
+     "id": "11009",
+     "defaultDialog": "Eek! A monster!?"
+    },
+    {
+     "id": "11010",
+     "defaultDialog": "I'm the future grand champion!!"
+    },
+    {
+     "id": "11011",
+     "defaultDialog": "Guards are nothing to be afraid of!!"
+    },
+    {
+     "id": "11028",
+     "defaultDialog": "Who are you!!? Out of the way!!"
+    },
+    {
+     "id": "11031",
+     "defaultDialog": "I'm great at sumo~~~~!!!\\nLet's settle this with sumo!!!"
+    },
+    {
+     "id": "11039",
+     "defaultDialog": "Mere lowlifes... wait to be dealt with!!!"
+    },
+    {
+     "id": "11070",
+     "defaultDialog": "We must protect this treasure ship no matter what!!!"
+    },
+    {
+     "id": "11081",
+     "defaultDialog": "I'll cut you down with my blade of flames!!\\nNo one escapes my trick sword!!"
+    },
+    {
+     "id": "11224",
+     "defaultDialog": "Hic~~... hic! Ugh~~"
+    },
+    {
+     "id": "11232",
+     "defaultDialog": "\"Gear 3\"!!!"
+    },
+    {
+     "id": "11236",
+     "defaultDialog": "You've come to Wano...!!"
+    },
+    {
+     "id": "11295",
+     "defaultDialog": "This is Okobore Town! It needs patrols at night too..."
+    },
+    {
+     "id": "11299",
+     "defaultDialog": "Night watch is so tiring......"
+    },
+    {
+     "id": "11306",
+     "defaultDialog": "What do you want with me... urp..."
+    },
+    {
+     "id": "11309",
+     "defaultDialog": "Bakura Town sure has a lot of taverns!"
+    },
+    {
+     "id": "11315",
+     "defaultDialog": "It's been several days since they left......"
+    },
+    {
+     "id": "11316",
+     "defaultDialog": "Hello, do you need my help?"
+    },
+    {
+     "id": "11330",
+     "defaultDialog": "This is the turf of the \"Kyoshiro\" Family. If you don't pay up, you can't run a shop here!!"
+    },
+    {
+     "id": "11364",
+     "defaultDialog": "Looks like you're more than just a noodle stand owner. State your name!!!"
+    },
+    {
+     "id": "11416",
+     "defaultDialog": "\"Ninja Art: Thunder\"!!!"
+    },
+    {
+     "id": "11441",
+     "defaultDialog": "You think I'll let you escape!!"
+    },
+    {
+     "id": "11463",
+     "defaultDialog": "Shusui is a treasure of Wano and belongs to Ryuma!!!"
+    },
+    {
+     "id": "11466",
+     "defaultDialog": "Doesn't matter. I was told to kill anyone who gets in the way!!!"
+    },
+    {
+     "id": "11484",
+     "defaultDialog": "No entering the city without permission!!"
+    },
+    {
+     "id": "11544",
+     "defaultDialog": "Toko? ......Toko!!?"
+    },
+    {
+     "id": "11546",
+     "defaultDialog": "Don't call me Vinsmoke anymore!!! Got it!!!"
+    },
+    {
+     "id": "11551",
+     "defaultDialog": "You alone I'll cut down with my own hands!!"
+    },
+    {
+     "id": "11557",
+     "defaultDialog": "\"720 Pound Phoenix\"!!!"
+    },
+    {
+     "id": "11562",
+     "defaultDialog": "I am the Shogun's dog"
+    },
+    {
+     "id": "11563",
+     "defaultDialog": "Gaooo"
+    },
+    {
+     "id": "11564",
+     "defaultDialog": "Thanks, that was a big help!!"
+    },
+    {
+     "id": "11565",
+     "defaultDialog": "Fire!!"
+    },
+    {
+     "id": "11571",
+     "defaultDialog": "O-Nami!"
+    },
+    {
+     "id": "11592",
+     "defaultDialog": "Welcome to the Flower Capital"
+    },
+    {
+     "id": "11593",
+     "defaultDialog": "I have to check carefully against the portraits..."
+    },
+    {
+     "id": "11594",
+     "defaultDialog": "I have to check carefully against the portraits..."
+    },
+    {
+     "id": "11595",
+     "defaultDialog": "This is Lord Orochi's residence!"
+    },
+    {
+     "id": "11596",
+     "defaultDialog": "This is Lord Orochi's residence!"
+    },
+    {
+     "id": "11610",
+     "defaultDialog": "Those two over there seem to be arguing about something..."
+    },
+    {
+     "id": "11613",
+     "defaultDialog": "They've arrested a lot of people lately..."
+    },
+    {
+     "id": "11614",
+     "defaultDialog": "Security keeps getting tighter."
+    },
+    {
+     "id": "11615",
+     "defaultDialog": "Did Lord Orochi hear some rumor..."
+    },
+    {
+     "id": "11620",
+     "defaultDialog": "They say a soba stand in the Flower Capital is famous lately, but where is it..."
+    },
+    {
+     "id": "11621",
+     "defaultDialog": "The bathhouse on the east side of the Flower Capital is quite a famous spot."
+    },
+    {
+     "id": "11622",
+     "defaultDialog": "Is the soba stand over there..."
+    },
+    {
+     "id": "11624",
+     "defaultDialog": "Everything sold here is top quality!"
+    },
+    {
+     "id": "11626",
+     "defaultDialog": "That shop looks good."
+    },
+    {
+     "id": "11628",
+     "defaultDialog": "Don't loiter here!"
+    },
+    {
+     "id": "11631",
+     "defaultDialog": "This is Ebisu Town!"
+    },
+    {
+     "id": "11633",
+     "defaultDialog": "Waaah..."
+    },
+    {
+     "id": "11635",
+     "defaultDialog": "This kid is running around again..."
+    },
+    {
+     "id": "11638",
+     "defaultDialog": "Thanks to Yasu, we can at least fill our stomachs"
+    },
+    {
+     "id": "11639",
+     "defaultDialog": "Yasu is truly this town's great benefactor!"
+    },
+    {
+     "id": "11641",
+     "defaultDialog": "Still lots of work to do today..."
+    },
+    {
+     "id": "11642",
+     "defaultDialog": "If you're looking for Yasu, his house is on that street!"
+    },
+    {
+     "id": "11643",
+     "defaultDialog": "It's a bit tough."
+    },
+    {
+     "id": "11652",
+     "defaultDialog": "Were we spotted..."
+    },
+    {
+     "id": "11653",
+     "defaultDialog": "One of them is missing..."
+    },
+    {
+     "id": "11654",
+     "defaultDialog": "I wonder where he's hiding"
+    },
+    {
+     "id": "11691",
+     "defaultDialog": "This is your punishment!!! Ha ha ha ha ha!!!"
+    },
+    {
+     "id": "11711",
+     "defaultDialog": "Got the key!!!"
+    },
+    {
+     "id": "11713",
+     "defaultDialog": "Search every inch, don't skip the ceiling!!!"
+    },
+    {
+     "id": "11714",
+     "defaultDialog": "It's useless!! Give up resisting!!"
+    },
+    {
+     "id": "11742",
+     "defaultDialog": "Send the next batch!! These guys aren't enough practice for me"
+    },
+    {
+     "id": "11752",
+     "defaultDialog": "This is what you get for resisting the guards~~!!!"
+    },
+    {
+     "id": "11757",
+     "defaultDialog": "To set an example for the prisoners, let me torment you good!!"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "1436/1842 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "id": "264",
+     "defaultDialog": "Arlong banned weapons, so I can only do other work to feed my family."
+    }
+   ]
   },
   "TableGuideStepExtra": {
    "key_column": "tag",
@@ -6981,6 +8605,26 @@
    ]
   }
  },
- "glossary_additions": {},
- "uncertain_notes": []
+ "glossary_additions": {
+  "秘传之日": "Secret Book Day",
+  "突破之日": "Breakthrough Day",
+  "训练之日": "Training Day",
+  "勇者试炼": "Brave Trial",
+  "秘境": "Secret Realm",
+  "荣誉币": "Honor Coins",
+  "新手招募": "Newbie Recruit",
+  "捡漏镇": "Okobore Town",
+  "卡鲁秋": "garchu",
+  "水之诸神": "Aqua Laguna",
+  "冲天海流": "Knock Up Stream",
+  "戴维争霸战": "Davy Back Fight",
+  "心网": "Mantra"
+ },
+ "uncertain_notes": [
+  "TableSceneNpc: rows marked （弃用） / （暂时弃用） are unused developer labels (e.g. 船厂内托利斯同（弃用）); they were translated literally with '(unused)' / '(temporarily unused)'.",
+  "TableGuideStepExtra: 航海模拟战 was rendered Voyage Tower, assuming it is the same mode as 航线模拟战.",
+  "Em dashes (——) in shouts were replaced with '!' or '...' because the rules forbid fullwidth punctuation.",
+  "TableSceneNpc 8817: the stray '1' at the end of 路飞前辈——你要去哪儿？1 was kept.",
+  "Wano NPC lines: 阿康 rendered Yasu (Shimotsuki Yasuie), 阿奈美 rendered O-Nami."
+ ]
 }
