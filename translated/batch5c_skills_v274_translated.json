@@ -85885,6 +85885,72 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "302254",
+     "skillName": "Armor",
+     "skillDesc": "<color=#d14e0d>Desert Storm</color> consumes own <color=#d14e0d>sand form</color> and grants all allies except self a Shield called <color=#d14e0d>\"Gravel Armor\"</color> worth <color=#d14e0d>{buffper1,17818}%</color> HP, and gives self <color=#d14e0d>{buffper1,17810}%</color> final DMG reduction, which decreases by <color=#d14e0d>10%</color> each time he is hit, lasting until the start of his next action.\\nGravel Armor: while Gravel Armor exists, immune to debuffs; the immunity ends when it is shattered",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302255",
+     "skillName": "Slash",
+     "skillDesc": "Casting <color=#d14e0d>Heavy Sandstorm Slash</color> enters <color=#d14e0d>sand form</color> for <color=#d14e0d>3</color> turns. On hit, for each of <color=#d14e0d>Fear, Sand Strike, Hemorrhage or Deadly Poison</color> on the target, this skill's damage increases by <color=#d14e0d>{buffper1,17820}%</color>; if the target carries <color=#d14e0d>5</color> stacks of <color=#d14e0d>Deadly Poison</color>, it also severs <color=#d14e0d>{buffper1,17822}%</color> of its current HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302256",
+     "skillName": "Corrosion",
+     "skillDesc": "Increases all damage of <color=#d14e0d>Erosion Cycle</color> by <color=#d14e0d>{buffper1,17823}%</color>, and casting <color=#d14e0d>Erosion Cycle</color> enters <color=#d14e0d>sand form</color> for <color=#d14e0d>3</color> turns. On hit, it <color=#d14e0d>erodes</color> the target: after acting, an eroded target spreads its <color=#d14e0d>Fear, Sand Strike, Hemorrhage or Deadly Poison</color> effects to all targets in its 3x3 area, with the spread effects counted as coming from the eroded target.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302257",
+     "skillName": "Assassin Leader",
+     "skillDesc": "Increases own <color=#d14e0d>CRIT Rate</color> by <color=#d14e0d>{buffper1,17830}%</color> and <color=#d14e0d>CRIT DMG</color> by <color=#d14e0d>{buffper2,17830}%</color>; in <color=#d14e0d>sand form</color>, <color=#d14e0d>CRIT DMG</color> increases by an extra <color=#d14e0d>10%</color> of current <color=#d14e0d>CRIT DMG</color>, and gains the ability to <color=#d14e0d>CRIT with Attribute damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302258",
+     "skillName": "Sand-Sand Fruit",
+     "skillDesc": "Enhances Gravel Armor: targets carrying Gravel Armor do not die when taking lethal damage, and the armor only shatters on lethal damage. When the armor shatters, the character <color=#d14e0d>fully evades</color> two attacks, with <color=#d14e0d>full evasion</color> lasting until the end of the current turn. Each armor shattered increases Crocodile's SPD by <color=#d14e0d>{buffper1,17855}%</color>, until Crocodile acts 1 time. When teammates carrying Gravel Armor attack with area skills, they erode a random target and apply one of <color=#d14e0d>Fear, Sand Strike, Hemorrhage or Deadly Poison</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302259",
+     "skillName": "Sandstorm Weather",
+     "skillDesc": "Enemies affected by the sandstorm take Wind damage equal to <color=#d14e0d>{buffper1,17833}%</color> of their own ATK before each action, and their attacks deal a tiny amount of Wind damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302260",
+     "skillName": "Venomous Hook",
+     "skillDesc": "In <color=#d14e0d>sand form</color>, all skill hits apply <color=#d14e0d>Deadly Poison</color> marks (not a debuff, cannot be dispelled); if any target hit carries a <color=#d14e0d>Deadly Poison</color> mark, recovers <color=#d14e0d>{buffper1,17862}%</color> HP. Outside <color=#d14e0d>sand form</color>, casting skills <color=#d14e0d>other than Finishers and Ultimates</color> grants <color=#d14e0d>Sand Dust</color>, and casting the Ultimate reduces Finisher cooldowns based on <color=#d14e0d>Sand Dust</color>.\\nDeadly Poison mark: when an enemy triggers healing, one Deadly Poison mark is consumed to block it.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302261",
+     "skillName": "King of the Desert",
+     "skillDesc": "At battle start, <color=#d14e0d>ATK, SPD, Dodge and Max HP</color> +<color=#d14e0d>{buffper1,17841}%</color>, and the whole field is affected by the sandstorm. Allies are immune to Lifesteal; teammates gain <color=#d14e0d>{buffper1,17844}%</color> <color=#d14e0d>Accuracy</color> when attacking and <color=#d14e0d>{buffper1,17845}%</color> <color=#d14e0d>Dodge</color> when targeted. At turn start, Crocodile gains 5 extra Soul Jade.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302262",
+     "skillName": "Weathering",
+     "skillDesc": "Crocodile's attacks deal extra Wind damage equal to <color=#d14e0d>{buffper1,17837}%</color> of his ATK, and each time he takes Attribute or True damage, his attacks deal one more hit of Wind damage (up to 5 hits).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302263",
+     "skillName": "Sandstorm Annihilation",
+     "skillDesc": "At battle start, Crocodile enters <color=#d14e0d>sand form</color> for <color=#d14e0d>3</color> turns, and all allies except him carry <color=#d14e0d>Gravel Armor</color>. Each allied <color=#d14e0d>hit</color> increases Crocodile's <color=#d14e0d>ATK, SPD and Accuracy</color> by <color=#d14e0d>3%</color>, stacking up to <color=#d14e0d>10</color> times until the end of Crocodile's action; after the bonus expires, stacking can restart. Within the same turn, after the first teammate carrying Gravel Armor acts, Crocodile's <color=#d14e0d>SPD</color> increases by <color=#d14e0d>{buffper1,17867}%</color> until the end of the current turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302264",
+     "skillName": "Gravel Armor",
+     "skillDesc": "When <color=#d14e0d>Gravel Armor</color> exists on our side and Crocodile takes lethal damage, he randomly absorbs one <color=#d14e0d>Gravel Armor</color> to resist death (absorbing armor triggers the shatter speed bonus). Absorbing <color=#d14e0d>2</color> armors in a single turn enters <color=#d14e0d>sand form</color>, clearing all enemy-applied effects and recovering <color=#d14e0d>{buffper1,17871}%</color> HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "302265",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>",
@@ -85924,6 +85990,84 @@
      "skillId": "302271",
      "skillName": "Crit Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>CRIT Rate by {attributevalper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302401",
+     "skillName": "Precision",
+     "skillDesc": "After casting <color=#d14e0d>Swift Slash</color>, there is a <color=#d14e0d>{buffodds}%</color> chance that the next skill this turn gains <color=#d14e0d>Sure Hit</color>.$After casting <color=#d14e0d>Swift Slash</color>, the next skill this turn gains <color=#d14e0d>Accuracy</color> +<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302402",
+     "skillName": "Crit",
+     "skillDesc": "After casting <color=#d14e0d>Execute</color>, the next skill this turn <color=#d14e0d>always CRITs</color> and <color=#d14e0d>CRIT DMG</color> +<color=#d14e0d>{buffper1,53004}%</color>.$After casting <color=#d14e0d>Execute</color>, the next skill this turn gains <color=#d14e0d>CRIT</color> +<color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>CRIT DMG</color> +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302403",
+     "skillName": "Enhance",
+     "skillDesc": "When <color=#d14e0d>Bloodlight Slash</color> attacks <color=#d14e0d>summons</color>, <color=#d14e0d>DMG Bonus</color> +<color=#d14e0d>{buffper1}%</color>.$When <color=#d14e0d>Bloodlight Slash</color> attacks <color=#d14e0d>summons</color>, <color=#d14e0d>DMG Bonus</color> +<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302404",
+     "skillName": "Enhance",
+     "skillDesc": "When casting <color=#d14e0d>Downpour Slash</color>, <color=#d14e0d>DMG Bonus</color> +<color=#d14e0d>{buffper1,53014}%</color>.$When casting <color=#d14e0d>Downpour Slash</color>, <color=#d14e0d>DMG Bonus</color> +<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302405",
+     "skillName": "Toying Cruelty",
+     "skillDesc": "When casting <color=#d14e0d>Moment of Death</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>2 stacks of Mockery</color> to the target.$When casting <color=#d14e0d>Moment of Death</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>2 stacks of Mockery</color> to the target.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302406",
+     "skillName": "Playful Kill",
+     "skillDesc": "While casting <color=#d14e0d>Swift Shadow Raid</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to make the target <color=#d14e0d>unable to recover HP</color>.$While casting <color=#d14e0d>Swift Shadow Raid</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to make the target <color=#d14e0d>unable to recover HP</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302407",
+     "skillName": "Assault",
+     "skillDesc": "When casting <color=#d14e0d>Shadowless Assault</color>, it <color=#d14e0d>prioritizes the enemy with the highest HP</color>, and on hit adds <color=#d14e0d>{buffper2,53020}%</color> of <color=#d14e0d>the total damage dealt</color> by self this turn to the target.$When casting <color=#d14e0d>Shadowless Assault</color>, it <color=#d14e0d>prioritizes the enemy with the highest HP</color>, and after casting adds <color=#d14e0d>{buffper2}%</color> of <color=#d14e0d>the total damage dealt</color> by self this turn to the target.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302408",
+     "skillName": "Brutal Warden",
+     "skillDesc": "At battle start and at action end, applies <color=#d14e0d>1 stack of Mockery</color> to all enemies: when the target <color=#d14e0d>acts</color>, its <color=#d14e0d>DMG Bonus, ATK and Accuracy</color> are reduced by <color=#d14e0d>{buffper1,53049}%</color>, with <color=#d14e0d>the reduction doubled</color> when attacking Shiryu; at the end of its action, it takes <color=#d14e0d>True Damage equal to 100% of Shiryu's ATK</color> and <color=#d14e0d>1 Mockery stack is removed</color>.$At battle start and at action end, applies <color=#d14e0d>1 stack of Mockery</color> to all enemies: when the target <color=#d14e0d>acts</color>, its <color=#d14e0d>DMG Bonus and CRIT DMG</color> are reduced by <color=#d14e0d>{buffper1}%</color>, with <color=#d14e0d>the reduction doubled</color> when attacking Shiryu; at the end of its action, it takes <color=#d14e0d>True Damage equal to 100% of Shiryu's ATK</color> and <color=#d14e0d>1 Mockery stack is removed</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302409",
+     "skillName": "First-Rate Swordsmanship",
+     "skillDesc": "At <color=#d14e0d>the start of Shiryu's action</color>, he collects all <color=#d14e0d>Mockery</color> on the enemy field; each <color=#d14e0d>Mockery</color> stack increases <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1,53059}%</color> and <color=#d14e0d>DMG Bonus</color> by <color=#d14e0d>{buffper2,53059}%</color> until <color=#d14e0d>the end of this turn</color>. If he is under <color=#d14e0d>control</color>, he loses <color=#d14e0d>20% of Max HP</color> and <color=#d14e0d>removes all debuffs</color>.$At <color=#d14e0d>the start of Shiryu's action</color>, he collects all <color=#d14e0d>Mockery</color> on the enemy field; each <color=#d14e0d>Mockery</color> stack increases <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1,53058}%</color> and <color=#d14e0d>DMG Bonus</color> by <color=#d14e0d>{buffper2,53058}%</color> until <color=#d14e0d>the end of this turn</color>. If at least <color=#d14e0d>8</color> Mockery stacks are collected, this action cannot be interrupted.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302410",
+     "skillName": "Shoot to Kill",
+     "skillDesc": "At action end, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>reduce Finisher cooldown by 1</color>. When <color=#d14e0d>enemy characters</color> are hit by <color=#d14e0d>Mockery</color> after acting, their <color=#d14e0d>Max HP is permanently reduced by 25%</color> (PvP only), stacking up to <color=#d14e0d>4 times.$At action end, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>reduce Finisher cooldown by 1</color>. When <color=#d14e0d>enemy characters</color> are hit by <color=#d14e0d>Mockery</color> after acting, their <color=#d14e0d>Max HP is permanently reduced by 15%</color> (PvP only), stacking up to <color=#d14e0d>4 times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302411",
+     "skillName": "Merciless Iron Wall",
+     "skillDesc": "After battle starts, <color=#d14e0d>ATK, SPD, HP, Accuracy and Pierce</color> +<color=#d14e0d>{buffper1,53024}%</color>, <color=#d14e0d>DMG Bonus and DMG reduction</color> +<color=#d14e0d>{buffper3,53024}%</color>, and gains <color=#d14e0d>4</color> extra Soul Jade each turn.$After battle starts, <color=#d14e0d>ATK, SPD, HP, Accuracy and Pierce</color> +<color=#d14e0d>{buffper1,53021}%</color>, <color=#d14e0d>DMG Bonus and DMG reduction</color> +<color=#d14e0d>{buffper3,53021}%</color>, and gains <color=#d14e0d>4</color> extra Soul Jade each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302412",
+     "skillName": "Invisible Killer",
+     "skillDesc": "After battle starts, enters the <color=#d14e0d>Void</color> state: <color=#d14e0d>Dodge</color> +<color=#d14e0d>{buffper1,53032}%</color>, <color=#d14e0d>not prioritized as a target</color>, and when hit by <color=#d14e0d>non-single-target</color> attacks, <color=#d14e0d>all final DMG reduction</color> +<color=#d14e0d>{buffper1,53035}%</color>.$After battle starts, enters the <color=#d14e0d>Void</color> state: <color=#d14e0d>Dodge</color> +<color=#d14e0d>{buffper1,53031}%</color>, <color=#d14e0d>not prioritized as a target</color>, and when hit by <color=#d14e0d>non-single-target</color> attacks, <color=#d14e0d>all DMG reduction</color> +<color=#d14e0d>{buffper1,53033}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302413",
+     "skillName": "Famous Blade · Thunderstorm",
+     "skillDesc": "When the skill is <color=#d14e0d>on</color>: <color=#d14e0d>on odd turns, ignores DMG reduction, SPD cannot be reduced, and</color> SPD +<color=#d14e0d>{buffper1,53039}%</color>; <color=#d14e0d>on even turns, SPD</color> drops <color=#d14e0d>to 1</color> and HP cannot fall <color=#d14e0d>below 1%</color>;\\nwhen the skill is <color=#d14e0d>off</color>: <color=#d14e0d>on even turns, ignores DMG reduction, SPD cannot be reduced, and</color> SPD +<color=#d14e0d>{buffper1,53039}%</color>; <color=#d14e0d>on odd turns, SPD</color> drops <color=#d14e0d>to 1</color> and HP cannot fall <color=#d14e0d>below 1%</color>.$When the skill is <color=#d14e0d>on</color>: <color=#d14e0d>SPD on odd turns</color> +<color=#d14e0d>{buffper1,53038}%</color>, <color=#d14e0d>SPD on even turns</color> -<color=#d14e0d>40%</color>;\\nwhen the skill is <color=#d14e0d>off</color>: <color=#d14e0d>SPD on even turns</color> +<color=#d14e0d>{buffper1,53038}%</color>, <color=#d14e0d>SPD on odd turns</color> -<color=#d14e0d>40%</color>.",
      "buttonEffect": ""
     },
     {
@@ -85969,6 +86113,96 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "302422",
+     "skillName": "Wild Enhancement",
+     "skillDesc": "After casting <color=#d14e0d>Rapid Shigan</color>, <color=#d14e0d>{buffper1}%</color> of Finisher skill damage is converted into own HP for <color=#d14e0d>1</color> turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302423",
+     "skillName": "Ready",
+     "skillDesc": "After casting <color=#d14e0d>Deadly Martial Arts</color>, recovers {buffper1,18029} Soul Jade.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302424",
+     "skillName": "Aura Blade",
+     "skillDesc": "After casting <color=#d14e0d>Razor Pursuit</color>, Finisher skills inflict <color=#d14e0d>immunity-ignoring</color> <color=#d14e0d>{buffper1}% Sever</color> for <color=#d14e0d>1</color> turn (PvP only).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302425",
+     "skillName": "Prey Detection",
+     "skillDesc": "<color=#d14e0d>Kami-e Busshin</color>: makes <color=#d14e0d>Rankyaku: Gaicho</color> target <color=#d14e0d>the enemy with the lowest HP</color> and increases all allies' <color=#d14e0d>Dodge</color> by <color=#d14e0d>{buffper1,18011}%</color> for <color=#d14e0d>2</color> turns.\\n<color=#d14e0d>Rokushiki</color>: makes <color=#d14e0d>Rankyaku: Gaicho</color> target <color=#d14e0d>the enemy with the lowest HP</color> and deal extra <color=#d14e0d>True Damage</color> equal to <color=#d14e0d>{buffper1}%</color> of the target's lost HP, ignoring DMG reduction (PvP only).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302426",
+     "skillName": "All or Nothing",
+     "skillDesc": "<color=#d14e0d>Kami-e Busshin</color>: after casting <color=#d14e0d>Max Wheel: Six King Gun</color>, all allies' <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper1,18014}%</color> for <color=#d14e0d>2</color> turns.\\n<color=#d14e0d>Rokushiki</color>: when casting <color=#d14e0d>Max Wheel: Six King Gun</color>, consumes all remaining <color=#d14e0d>Soul Jade</color>; each extra <color=#d14e0d>1</color> consumed increases <color=#d14e0d>CRIT DMG</color> by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302427",
+     "skillName": "Isolate",
+     "skillDesc": "Each time Awakened Lucci acts this turn, all damage dealt by <color=#d14e0d>Air Shigan: Hibachi</color> increases by <color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>doubled</color> when the enemy has only 1 character.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302428",
+     "skillName": "Agility",
+     "skillDesc": "When casting <color=#d14e0d>Claw Impact</color>, <color=#d14e0d>all damage</color> increases by <color=#d14e0d>{buffper1}%</color> for each <color=#d14e0d>non-summon enemy unit</color> (up to 5).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302429",
+     "skillName": "Wild Instinct",
+     "skillDesc": "At battle start, enters the <color=#d14e0d>Kami-e Busshin</color> state; in <color=#d14e0d>Kami-e Busshin</color>, Awakened Lucci has a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>fully evade</color> enemy non-single-target skills (if the attacker has an undodgeable effect, the hit chance is calculated from both sides' current Accuracy and Dodge).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302430",
+     "skillName": "Peak Physique",
+     "skillDesc": "In <color=#d14e0d>Kami-e Busshin</color>, if <color=#d14e0d>3</color> or more characters have fallen on the field before acting, he enters <color=#d14e0d>Rokushiki</color> (in non-PvP battles, he enters Rokushiki when acting on turn 2), clearing and becoming immune to <color=#d14e0d>all enemy-applied effects</color>. In <color=#d14e0d>Rokushiki</color>, he <color=#d14e0d>always CRITs</color>, <color=#d14e0d>always hits</color> and <color=#d14e0d>cannot be Blocked</color>, and if he scores no kill during the turn in <color=#d14e0d>Rokushiki</color>, <color=#d14e0d>Dodge</color> +<color=#d14e0d>{buffper1}%</color> until <color=#d14e0d>the end of his next turn's action</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302431",
+     "skillName": "Hunting Technique",
+     "skillDesc": "After battle starts, <color=#d14e0d>SPD, CRIT DMG and ATK</color> +<color=#d14e0d>{buffper1,18020}%</color>, and gains <color=#d14e0d>5</color> extra Soul Jade and <color=#d14e0d>50</color> Rage each turn; all skills have a <color=#d14e0d>{buffodds}%</color> chance to deal extra Wind damage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302432",
+     "skillName": "Strongest Backing",
+     "skillDesc": "After battle starts, <color=#d14e0d>all DMG Bonus and all DMG reduction</color> +<color=#d14e0d>{buffper1}%</color>, and when <color=#d14e0d>an enemy falls</color> and at <color=#d14e0d>turn end</color>, Awakened Lucci recovers <color=#d14e0d>{buffper1,18029}%</color> of Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302433",
+     "skillName": "Will of Vengeance",
+     "skillDesc": "In <color=#d14e0d>Kami-e Busshin</color>, teammates who score kills gain <color=#d14e0d>ATK and SPD</color> +<color=#d14e0d>{buffper1}%</color>, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302434",
+     "skillName": "Faith in Power",
+     "skillDesc": "For each <color=#d14e0d>1</color> character fallen on the field, upon entering <color=#d14e0d>Rokushiki</color> and at turn start in <color=#d14e0d>Rokushiki</color>, he gains <color=#d14e0d>2</color> stacks of <color=#d14e0d>Slaughter</color> (requires unlocking the Leopard Hunter talent, up to 16) and permanently increases <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color>. When <color=#d14e0d>3/5</color> characters have fallen, he can act <color=#d14e0d>2/3</color> extra times after entering <color=#d14e0d>Rokushiki</color> and gains <color=#d14e0d>5</color> Soul Jade. (In non-PvP battles, he unconditionally acts 2 extra times)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302435",
+     "skillName": "Dark Justice",
+     "skillDesc": "When Awakened Lucci acts with <color=#d14e0d>Slaughter</color> at <color=#d14e0d>8</color> stacks or more, each <color=#d14e0d>Slaughter</color> stack increases Accuracy by <color=#d14e0d>{buffper1,18058}%</color> when casting his <color=#d14e0d>Ultimate</color>, and hitting targets below <color=#d14e0d>50%</color> HP has a <color=#d14e0d>{buffodds}%</color> chance to remove them (PvP only, once per turn).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302436",
+     "skillName": "Leopard-Form Hunter",
+     "skillDesc": "Upon entering <color=#d14e0d>Rokushiki</color> and at turn start in <color=#d14e0d>Rokushiki</color>, he gains <color=#d14e0d>2</color> stacks of <color=#d14e0d>Slaughter</color>; when Awakened Lucci attacks, each stack increases <color=#d14e0d>all damage and ATK</color> by <color=#d14e0d>{buffper1}%</color>. Each 1 character that acts removes 1 <color=#d14e0d>Slaughter</color> stack, and all <color=#d14e0d>Slaughter</color> is cleared at turn end. If <color=#d14e0d>Slaughter</color> is at <color=#d14e0d>8</color> stacks or more when acting, his <color=#d14e0d>single-target skills</color> deal <color=#d14e0d>{buffper1,18062}%</color> <color=#d14e0d>True Damage</color> to a random enemy other than the target on hit.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "302437",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
@@ -86008,6 +86242,102 @@
      "skillId": "302443",
      "skillName": "Speed Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302547",
+     "skillName": "Sticky",
+     "skillDesc": "On hit, there is a <color=#d14e0d>{buffodds}%</color> chance to apply 2 stacks of <color=#d14e0d>Mochi</color>, reducing the target's <color=#d14e0d>SPD</color> and <color=#d14e0d>Dodge</color> for <color=#d14e0d>2</color> turns; the effect scales with the level of the talent <color=#d14e0d>Mochi-Mochi Fruit</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302548",
+     "skillName": "Lethal",
+     "skillDesc": "When <color=#d14e0d>Mochi Chain Slash</color> hits, there is a <color=#d14e0d>{buffodds}%</color> chance to make the target <color=#d14e0d>unable to recover HP</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302549",
+     "skillName": "Damage Increase",
+     "skillDesc": "For each <color=#d14e0d>Mochi</color> stack on the target, <color=#d14e0d>all damage</color> dealt by <color=#d14e0d>Peerless Mochi Blade Bullet</color> increases by <color=#d14e0d>{buffper1}%</color>; if the target is <color=#d14e0d>Bound</color>, it increases by <color=#d14e0d>{buffper1,18353}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302550",
+     "skillName": "Slow",
+     "skillDesc": "Gives <color=#d14e0d>Flowing Mochi</color> an immunity-ignoring <color=#d14e0d>Slow</color>, reducing the enemy target's SPD by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302551",
+     "skillName": "Precision",
+     "skillDesc": "Gives <color=#d14e0d>Mochi from the Sky</color> the <color=#d14e0d>Precision</color> effect, increasing all allies' <color=#d14e0d>Accuracy</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302552",
+     "skillName": "Deadly Combat",
+     "skillDesc": "Gives <color=#d14e0d>Mochi Thrust</color> the <color=#d14e0d>Death Match</color> effect, instantly consuming <color=#d14e0d>30%</color> of own Max HP (ignoring Shields) to deal extra <color=#d14e0d>True Damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to the enemy; True Damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302553",
+     "skillName": "Seal",
+     "skillDesc": "Gives <color=#d14e0d>Mochi: Chant</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict an unresistable <color=#d14e0d>Seal</color>, leaving the target <color=#d14e0d>unable to use Ultimates</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302554",
+     "skillName": "Purge",
+     "skillDesc": "When casting <color=#d14e0d>Slash: Cut Mochi</color>, removes all <color=#d14e0d>Mochi</color> from enemies; each 1 stack removed deals an extra <color=#d14e0d>{buffper1}%</color> True Damage to the target.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302555",
+     "skillName": "Bind",
+     "skillDesc": "On hit, there is a chance to raise the target's <color=#d14e0d>Mochi</color> stacks straight to <color=#d14e0d>4</color>; each 1 <color=#d14e0d>Mochi</color> stack on the target increases the chance by <color=#d14e0d>{buffodds}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302556",
+     "skillName": "Ultimate Extension",
+     "skillDesc": "Enters Ultimate Extension: all skills deal extra <color=#d14e0d>True Damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK (True Damage ignores the enemy target's base DEF), and directly gains the <color=#d14e0d>Spear Mastery</color> skill effect (takes effect after unlocking \"Spear Mastery\"), for <color=#d14e0d>2</color> turns. Casting the Ultimate in this state does not re-enter Extension.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302557",
+     "skillName": "Future Sight",
+     "skillDesc": "Katakuri can <color=#d14e0d>see the future</color>: immune to <color=#d14e0d>shared and reflected damage</color>, and when hit, he evades <color=#d14e0d>all damage</color>. Each 1 attack evaded costs <color=#d14e0d>{buffper1,18324}%</color> of his Max HP (not ignoring Shields), increasing by <color=#d14e0d>5%</color> each turn, up to <color=#d14e0d>4</color> times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302558",
+     "skillName": "Spear Mastery",
+     "skillDesc": "When Katakuri's HP is at most <color=#d14e0d>70%</color>, <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper1}%</color>, all DMG Bonus +<color=#d14e0d>{buffper1,18331}%</color>, and all attacks <color=#d14e0d>always CRIT</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302559",
+     "skillName": "Sweet Commander · Minister of Flour",
+     "skillDesc": "At action end, he can eat doughnuts to recover <color=#d14e0d>{buffper1}%</color> of Max HP, plus an extra <color=#d14e0d>{buffper2}%</color> when Big Mom is on the field; the recovery is unaffected by <color=#d14e0d>HP recovery prevention</color> and <color=#d14e0d>Lethal effects</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302560",
+     "skillName": "Mochi Transformation",
+     "skillDesc": "At battle start, <color=#d14e0d>ATK and SPD</color> +<color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>all DMG Bonus</color> +<color=#d14e0d>{buffper1,18339}%</color>, and gains <color=#d14e0d>3</color> extra Soul Jade and <color=#d14e0d>50</color> Rage each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302561",
+     "skillName": "Greatest Masterpiece",
+     "skillDesc": "At battle start, <color=#d14e0d>Pierce and Accuracy</color> +<color=#d14e0d>{buffper1}%</color>; each Big Mom Pirates character fielded increases Katakuri's <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1,18342}%</color>; at turn start, gains a Shield equal to <color=#d14e0d>{buffper1,700341}%</color> of Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302562",
+     "skillName": "Mochi-Mochi Fruit",
+     "skillDesc": "After Katakuri's skills hit, they apply an immunity-ignoring stack of <color=#d14e0d>Mochi</color>, reducing the target's <color=#d14e0d>SPD and Dodge</color> by <color=#d14e0d>{buffper1,18301}%</color> for <color=#d14e0d>2</color> turns; when his attack is Dodged, there is a <color=#d14e0d>{buffodds}%</color> chance to apply an immunity-ignoring stack of <color=#d14e0d>Mochi</color>.",
      "buttonEffect": ""
     },
     {
@@ -93193,7 +93523,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "14195/14789 rows translated so far"
+   "partial": "14250/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
