@@ -24,11 +24,255 @@
      "desc": "Acceleration"
     },
     {
+     "id": "4",
+     "desc": "Thousand Sunny Overload Basic Attack"
+    },
+    {
+     "id": "5",
+     "desc": "Going Merry Basic Attack"
+    },
+    {
+     "id": "6",
+     "desc": "Thousand Sunny Basic Attack"
+    },
+    {
+     "id": "7",
+     "desc": "Marine Warship Basic Attack"
+    },
+    {
+     "id": "8",
+     "desc": "Kuja Basic Attack"
+    },
+    {
+     "id": "9",
+     "desc": "Red Force Basic Attack"
+    },
+    {
+     "id": "10",
+     "desc": "Moby Dick Basic Attack"
+    },
+    {
+     "id": "11",
+     "desc": "Flying Dutchman Basic Attack"
+    },
+    {
+     "id": "12",
+     "desc": "Merry Passive"
+    },
+    {
+     "id": "13",
+     "desc": "Flying Dutchman Passive"
+    },
+    {
+     "id": "14",
+     "desc": "Marine Warship Passive"
+    },
+    {
+     "id": "15",
+     "desc": "Kuja Passive"
+    },
+    {
+     "id": "16",
+     "desc": "Red Force Passive"
+    },
+    {
+     "id": "17",
+     "desc": "Moby Dick Passive"
+    },
+    {
+     "id": "18",
+     "desc": "Moby Dick AOE"
+    },
+    {
+     "id": "19",
+     "desc": "Flying Dutchman Invincibility"
+    },
+    {
+     "id": "20",
+     "desc": "Thousand Sunny Boost"
+    },
+    {
      "id": "21",
      "desc": "Ace's Ship AoE Kill"
+    },
+    {
+     "id": "22",
+     "desc": "Foxy Boost"
+    },
+    {
+     "id": "23",
+     "desc": "Ghost Ship Basic Attack"
+    },
+    {
+     "id": "24",
+     "desc": "Dragon Ship Basic Attack"
+    },
+    {
+     "id": "25",
+     "desc": "Ace's Ship Basic Attack"
+    },
+    {
+     "id": "26",
+     "desc": "Ace's Ship Boost"
+    },
+    {
+     "id": "27",
+     "desc": "Ace's Ship Passive"
+    },
+    {
+     "id": "28",
+     "desc": "Foxy Basic Attack"
+    },
+    {
+     "id": "29",
+     "desc": "Submarine Basic Attack"
+    },
+    {
+     "id": "30",
+     "desc": "Submarine Invincibility"
+    },
+    {
+     "id": "31",
+     "desc": "Garp's Ship Basic Attack"
+    },
+    {
+     "id": "32",
+     "desc": "Garp's Ship Passive"
+    },
+    {
+     "id": "33",
+     "desc": "Ghost Ship DMG Reduction"
+    },
+    {
+     "id": "34",
+     "desc": "Ice Sea Tidal Wave"
+    },
+    {
+     "id": "35",
+     "desc": "Ice Sea Bombardment"
+    },
+    {
+     "id": "36",
+     "desc": "Explosive Barrel Blast"
+    },
+    {
+     "id": "37",
+     "desc": "Big Mom Ship Extra Shells"
+    },
+    {
+     "id": "38",
+     "desc": "Big Mom Ship Basic Attack"
+    },
+    {
+     "id": "39",
+     "desc": "Ark Chain Lightning Basic Attack"
     }
+   ]
+  },
+  "TableBeastPiratesBossBuff": {
+   "key_column": "id",
+   "text_columns": [
+    "buffName",
+    "buffDesc"
    ],
-   "partial": "4/39 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "101",
+     "buffName": "Will to Fight",
+     "buffDesc": "Player ATK, DEF and HP +5%"
+    },
+    {
+     "id": "102",
+     "buffName": "Encouragement from Comrades",
+     "buffDesc": "Player ATK, DEF and HP +5%"
+    },
+    {
+     "id": "103",
+     "buffName": "Confidence of the Strong",
+     "buffDesc": "Player ATK, DEF and HP +5%"
+    },
+    {
+     "id": "104",
+     "buffName": "Mutual Bonds",
+     "buffDesc": "Player ATK, DEF and HP +10%"
+    },
+    {
+     "id": "105",
+     "buffName": "Resolve to Win",
+     "buffDesc": "Player ATK, DEF and HP +10%"
+    },
+    {
+     "id": "106",
+     "buffName": "Will to Fight",
+     "buffDesc": "Player ATK, DEF and HP +5%"
+    },
+    {
+     "id": "107",
+     "buffName": "Encouragement from Comrades",
+     "buffDesc": "Player ATK, DEF and HP +5%"
+    },
+    {
+     "id": "108",
+     "buffName": "Confidence of the Strong",
+     "buffDesc": "Player ATK, DEF and HP +10%"
+    },
+    {
+     "id": "109",
+     "buffName": "Mutual Bonds",
+     "buffDesc": "Player ATK, DEF and HP +10%"
+    },
+    {
+     "id": "110",
+     "buffName": "Resolve to Win",
+     "buffDesc": "Player ATK, DEF and HP +10%"
+    },
+    {
+     "id": "111",
+     "buffName": "Will to Fight",
+     "buffDesc": "Player ATK, DEF and HP +5%"
+    },
+    {
+     "id": "112",
+     "buffName": "Encouragement from Comrades",
+     "buffDesc": "Player ATK, DEF and HP +5%"
+    },
+    {
+     "id": "113",
+     "buffName": "Confidence of the Strong",
+     "buffDesc": "Player ATK, DEF and HP +10%"
+    },
+    {
+     "id": "114",
+     "buffName": "Mutual Bonds",
+     "buffDesc": "Player ATK, DEF and HP +10%"
+    },
+    {
+     "id": "115",
+     "buffName": "Resolve to Win",
+     "buffDesc": "Player ATK, DEF and HP +10%"
+    },
+    {
+     "id": "116",
+     "buffName": "Power of Elements",
+     "buffDesc": "Player Elemental DMG gains a 50% bonus"
+    },
+    {
+     "id": "117",
+     "buffName": "Power of Spread",
+     "buffDesc": "Player AoE skill DMG gains a 50% bonus"
+    },
+    {
+     "id": "118",
+     "buffName": "Power of Precision",
+     "buffDesc": "Player single-target skill DMG gains a 50% bonus"
+    },
+    {
+     "id": "119",
+     "buffName": "Power of Special Moves",
+     "buffDesc": "Finisher/Ultimate DMG gains a 50% bonus"
+    }
+   ]
   },
   "TableBeastPiratesBossSkill": {
    "key_column": "bossSkillId",
@@ -39,6 +283,161 @@
    "content_diverges_between_bundles": true,
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
+    {
+     "bossSkillId": "1",
+     "skillName": "Paralysis",
+     "skillDesc": "All of Enel's attacks have a chance to inflict Paralysis"
+    },
+    {
+     "bossSkillId": "2",
+     "skillName": "Extension_Attack",
+     "skillDesc": "When the target has more than 5 Thunder DMG marks, gain a Shield after attacking"
+    },
+    {
+     "bossSkillId": "3",
+     "skillName": "Extension_God's Judgment",
+     "skillDesc": "When the target has more than 5 Thunder DMG marks, 50% chance to Stun"
+    },
+    {
+     "bossSkillId": "4",
+     "skillName": "Power of Enel",
+     "skillDesc": "Enel's attacks give the target 1 Thunder DMG mark. When the target reaches 10 marks, all Thunder DMG marks are removed, an extra hit is dealt, and the target is forcibly Paralyzed (Skill Seal)"
+    },
+    {
+     "bossSkillId": "5",
+     "skillName": "Power of Enel",
+     "skillDesc": "If the target of Enel's attack has more than 5 Thunder DMG marks, deal an extra hit of percentage DMG"
+    },
+    {
+     "bossSkillId": "6",
+     "skillName": "Power of Enel",
+     "skillDesc": "At the end of each turn, if Charge is below 5, Enel gains 1 Charge stack, plus 1 more if a Paralyzed target is on the field. At 5 Charge, Enel enters Thunder God state when casting Raigo"
+    },
+    {
+     "bossSkillId": "7",
+     "skillName": "Power of Enel",
+     "skillDesc": "In Thunder God state, each attack applies 2 Thunder DMG marks, ignores the target's DMG reduction and 50% of DEF. Lasts 3 turns"
+    },
+    {
+     "bossSkillId": "8",
+     "skillName": "Power of Enel",
+     "skillDesc": "In Thunder God state, if the target's HP is below 25%, the target is killed instantly"
+    },
+    {
+     "bossSkillId": "9",
+     "skillName": "Power of Enel",
+     "skillDesc": "Does not apply Thunder DMG marks when the target is Luffy (any version)"
+    },
+    {
+     "bossSkillId": "10",
+     "skillName": "Backstab",
+     "skillDesc": "Kaku's DEF cannot be reduced."
+    },
+    {
+     "bossSkillId": "11",
+     "skillName": "Ox Fruit",
+     "skillDesc": "When Kaku takes DMG, he removes 1 random debuff from himself and gains 15% DMG reduction for 2 turns. The DMG reduction stacks up to 8 times."
+    },
+    {
+     "bossSkillId": "12",
+     "skillName": "Skypiea Soldier",
+     "skillDesc": "Nothing special, but not to be underestimated"
+    },
+    {
+     "bossSkillId": "202",
+     "skillName": "Elemental Weakness",
+     "skillDesc": "Fire, Thunder and Ice DMG taken +75%"
+    },
+    {
+     "bossSkillId": "203",
+     "skillName": "Elemental Weakness",
+     "skillDesc": "Light, Water and Dark DMG taken +75%"
+    },
+    {
+     "bossSkillId": "204",
+     "skillName": "Barrier Weakness",
+     "skillDesc": "DMG taken from characters with a Shield +75%"
+    },
+    {
+     "bossSkillId": "205",
+     "skillName": "Precision Weakness",
+     "skillDesc": "Single-target DMG taken +75%"
+    },
+    {
+     "bossSkillId": "206",
+     "skillName": "Spread Weakness",
+     "skillDesc": "AoE DMG taken +75%"
+    },
+    {
+     "bossSkillId": "901",
+     "skillName": "Reckless Attack",
+     "skillDesc": "When the monster's attack is Blocked, the monster loses 2% of its Max HP"
+    },
+    {
+     "bossSkillId": "902",
+     "skillName": "Weakened Offensive",
+     "skillDesc": "When the monster's attack is Blocked, all DMG it takes is increased by 30% for 3 turns"
+    },
+    {
+     "bossSkillId": "903",
+     "skillName": "Overwhelming Force",
+     "skillDesc": "When the monster's attack is not Blocked, it deals extra True Damage equal to 500% of its ATK"
+    },
+    {
+     "bossSkillId": "904",
+     "skillName": "Impregnable",
+     "skillDesc": "Monster Block +70%, final Attribute DMG reduction +200%. When Blocking, all DMG taken is reduced by 10% for 2 turns"
+    },
+    {
+     "bossSkillId": "911",
+     "skillName": "Aggressive Onset",
+     "skillDesc": "Monster DMG +200% for the first two turns"
+    },
+    {
+     "bossSkillId": "912",
+     "skillName": "Counterstrike",
+     "skillDesc": "When the player Blocks, all DMG +80% for 1 action. Does not stack"
+    },
+    {
+     "bossSkillId": "913",
+     "skillName": "Tenfold True Fire",
+     "skillDesc": "If the monster's attack is not Blocked, it inflicts an immunity-ignoring Burn on the target's 3x3 area, stacking up to 10 times"
+    },
+    {
+     "bossSkillId": "914",
+     "skillName": "Weakening Burn",
+     "skillDesc": "While the player has Burn, each stack reduces all DMG bonuses by 10%"
+    },
+    {
+     "bossSkillId": "915",
+     "skillName": "Fight to Sustain",
+     "skillDesc": "Player Lifesteal and Recovery Gems are disabled. When acting, if the number of Blocks or HP recoveries reaches 3, Burn is removed from yourself and your 3x3 area, and the count resets"
+    },
+    {
+     "bossSkillId": "921",
+     "skillName": "Shield Recoil Shock",
+     "skillDesc": "When an enemy hit by a skill has a Shield, there is a 15% chance to interrupt the player's action"
+    },
+    {
+     "bossSkillId": "922",
+     "skillName": "Nimble Moves",
+     "skillDesc": "When the player Dodges, ATK +5%, stacking up to 5 times"
+    },
+    {
+     "bossSkillId": "923",
+     "skillName": "True Break",
+     "skillDesc": "Dealing True Damage to an enemy raises all damage it takes by 50% for 1 turn."
+    },
+    {
+     "bossSkillId": "924",
+     "skillName": "Hollow Giant",
+     "skillDesc": "The monster recovers 10% HP each turn; CRIT DMG taken +200%"
+    },
+    {
+     "bossSkillId": "925",
+     "skillName": "Temporary Barrier",
+     "skillDesc": "When attacking, the monster has a 50% chance to gain a Shield equal to 15% of its HP (max 1 stack) for 2 turns. The Shield is removed after taking CRIT DMG or 2 attacks"
+    },
     {
      "bossSkillId": "931",
      "skillName": "United Against the Enemy",
@@ -80,14 +479,69 @@
      "skillDesc": "Monsters take 200% more fire damage"
     },
     {
+     "bossSkillId": "951",
+     "skillName": "Indestructible",
+     "skillDesc": "All monster DMG reduction +200%"
+    },
+    {
+     "bossSkillId": "952",
+     "skillName": "Braver with Every Fight",
+     "skillDesc": "Monster DMG bonus +20% each turn"
+    },
+    {
      "bossSkillId": "953",
      "skillName": "Elemental Immunity",
      "skillDesc": "Monsters are immune to elemental damage"
     },
     {
+     "bossSkillId": "954",
+     "skillName": "Tough Body",
+     "skillDesc": "The monster is immune to DMG bonuses; CRIT DMG taken cannot exceed 150%"
+    },
+    {
+     "bossSkillId": "961",
+     "skillName": "Power of Barriers",
+     "skillDesc": "When a player with a Shield hits the monster, DMG +15%, stacking up to 5 times until the end of the turn"
+    },
+    {
      "bossSkillId": "962",
      "skillName": "Rage Unleashed",
      "skillDesc": "Players' Finisher and Ultimate skill final damage +150%, and they gain 100 extra Rage at the start of the turn"
+    },
+    {
+     "bossSkillId": "963",
+     "skillName": "Void Entity",
+     "skillDesc": "Monster Dodge Rate +150%"
+    },
+    {
+     "bossSkillId": "964",
+     "skillName": "Void Vitality",
+     "skillDesc": "When the monster successfully Dodges, it recovers 5% HP"
+    },
+    {
+     "bossSkillId": "971",
+     "skillName": "Aggressive Onset",
+     "skillDesc": "Monster DMG +200% for the first two turns"
+    },
+    {
+     "bossSkillId": "972",
+     "skillName": "Counterstrike",
+     "skillDesc": "When the player Blocks, all DMG +80% for 1 action. Does not stack"
+    },
+    {
+     "bossSkillId": "973",
+     "skillName": "Tenfold True Fire",
+     "skillDesc": "If the monster's attack is not Blocked, it inflicts an immunity-ignoring Burn on the target's 3x3 area, stacking up to 10 times"
+    },
+    {
+     "bossSkillId": "974",
+     "skillName": "Weakening Burn",
+     "skillDesc": "While the player has Burn, each stack reduces all DMG bonuses by 10%"
+    },
+    {
+     "bossSkillId": "975",
+     "skillName": "Fight to Sustain",
+     "skillDesc": "Player Lifesteal and Recovery Gems are disabled. When acting, if the number of Blocks or HP recoveries reaches 3, Burn is removed from yourself and your 3x3 area, and the count resets"
     },
     {
      "bossSkillId": "981",
@@ -108,9 +562,54 @@
      "bossSkillId": "984",
      "skillName": "Elemental Armament",
      "skillDesc": "Monster damage +100%, elemental damage reduction 1000%"
+    },
+    {
+     "bossSkillId": "20011",
+     "skillName": "Trial of Balls",
+     "skillDesc": "When a Cloud Ball dies, gain 1 stack of [Ball Trial]. At turn end, if [Ball Trial] reaches 10 stacks, all targets are killed instantly"
+    },
+    {
+     "bossSkillId": "20012",
+     "skillName": "Impact Dial",
+     "skillDesc": "Summons a Cloud Ball when using a skill. When the Cloud Ball dies, it Stuns the target and deals DMG"
+    },
+    {
+     "bossSkillId": "20021",
+     "skillName": "Trial of Strings",
+     "skillDesc": "Starts with 50 stacks of [Rope Trial]. Loses 1 stack when attacked. If any Rope Trial remains at the end of turn 5, all targets are killed instantly"
+    },
+    {
+     "bossSkillId": "20022",
+     "skillName": "Flame Dial",
+     "skillDesc": "When an enemy uses a melee attack, they gain 1 stack of [Rope Cloud]. Targets with 10 Rope Cloud stacks are [Bound] at turn end (permanent, ignores immunity, cannot be cleansed)"
+    },
+    {
+     "bossSkillId": "20031",
+     "skillName": "Trial of Swamp",
+     "skillDesc": "When acting, if this unit acts first, gain 1 stack of [Swamp Trial]. At 5 stacks of Swamp Trial, all are killed instantly"
+    },
+    {
+     "bossSkillId": "20032",
+     "skillName": "Jet Dial",
+     "skillDesc": "SPD increases at the start of each turn. At the end of each turn, all enemies gain 1 stack of [Swamp Cloud] (max 10). Swamp Cloud: reduces SPD and Accuracy based on stacks"
+    },
+    {
+     "bossSkillId": "20041",
+     "skillName": "Trial of Iron",
+     "skillDesc": "At turn end, if this unit has a Shield, gain 1 stack of [Iron Trial]. At 5 stacks of Iron Trial, all are killed instantly"
+    },
+    {
+     "bossSkillId": "20042",
+     "skillName": "Cloud Dial",
+     "skillDesc": "Gains 2 stacks of [Iron Cloud] (max 15) with each attack. Loses 1 [Iron Cloud] stack when hit by a Sever attack. At turn start, gains effects based on Iron Cloud stacks. 1+ stacks: gain a Shield (30% of HP). 5+ stacks: gain DMG Lock (1 turn). 10 stacks: gain Invincibility (1 turn)"
     }
    ],
    "other_bundle_rows": [
+    {
+     "bossSkillId": "201",
+     "skillName": "Status Weakness",
+     "skillDesc": "DMG taken +75% while Burned, Poisoned or Bleeding"
+    },
     {
      "bossSkillId": "901",
      "skillName": "Life Drain",
@@ -291,8 +790,677 @@
      "skillName": "Seize the Moment",
      "skillDesc": "When hit while shielded, enemies have a 10% chance to interrupt the player's action"
     }
+   ]
+  },
+  "TableBossSkills": {
+   "key_column": "skillId",
+   "text_columns": [
+    "skillName",
+    "description"
    ],
-   "partial": "50/101 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "skillId": "1",
+     "skillName": "Immunity",
+     "description": "Unaffected by any control skills and the Sever attribute"
+    },
+    {
+     "skillId": "2",
+     "skillName": "Commander",
+     "description": "The leader fights alongside his underlings"
+    },
+    {
+     "skillId": "3",
+     "skillName": "Rampage",
+     "description": "DMG dealt and DMG taken increase every turn"
+    },
+    {
+     "skillId": "4",
+     "skillName": "Real Man",
+     "description": "A real man only loses one-on-one"
+    },
+    {
+     "skillId": "5",
+     "skillName": "Elem. Barrier",
+     "description": "Attribute DMG taken is reduced"
+    },
+    {
+     "skillId": "6",
+     "skillName": "Fragile",
+     "description": "Physical DMG and CRIT DMG taken are increased"
+    },
+    {
+     "skillId": "7",
+     "skillName": "Physical Vulnerability",
+     "description": "Physical DMG taken is increased"
+    },
+    {
+     "skillId": "8",
+     "skillName": "Isolate",
+     "description": "Single-target DMG taken is increased and AoE DMG taken is reduced"
+    },
+    {
+     "skillId": "9",
+     "skillName": "Elemental Vulnerability",
+     "description": "Attribute DMG taken is increased"
+    },
+    {
+     "skillId": "10",
+     "skillName": "Hardening",
+     "description": "Physical DMG taken is reduced"
+    },
+    {
+     "skillId": "11",
+     "skillName": "Weaken",
+     "description": "DMG taken increases every turn"
+    },
+    {
+     "skillId": "12",
+     "skillName": "Adaptive Constitution",
+     "description": "DMG taken is increased the first time attacked each turn"
+    },
+    {
+     "skillId": "13",
+     "skillName": "Speed Duel",
+     "description": "DMG taken is reduced when faster than the opponent"
+    },
+    {
+     "skillId": "14",
+     "skillName": "Observation Haki",
+     "description": "Dodge increases when taking DMG"
+    },
+    {
+     "skillId": "15",
+     "skillName": "Defense Specialization",
+     "description": "All DMG taken by the leader is reduced"
+    },
+    {
+     "skillId": "16",
+     "skillName": "Thorns",
+     "description": "The leader takes reflected DMG when attacking"
+    },
+    {
+     "skillId": "17",
+     "skillName": "Parry Counter",
+     "description": "When the leader's attack is Blocked, the Thorns effect is doubled"
+    },
+    {
+     "skillId": "18",
+     "skillName": "Shield Smash",
+     "description": "When the leader attacks a character with a Shield, the Thorns effect is doubled"
+    }
+   ]
+  },
+  "TableBuffGroupRule": {
+   "key_column": "id",
+   "text_columns": [
+    "buffCondition"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "11806",
+     "buffCondition": "0&&52211,10068&&Unlock the Frozen Road&&52211,10048"
+    }
+   ],
+   "other_bundle_rows": []
+  },
+  "TableCelebrationChallengeBuffList": {
+   "key_column": "id",
+   "text_columns": [
+    "name",
+    "des",
+    "unlockText"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "112000",
+     "name": "Attack",
+     "des": "Allied ATK +15%",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 1"
+    },
+    {
+     "id": "112001",
+     "name": "Defense",
+     "des": "Allied DEF +15%",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 3"
+    },
+    {
+     "id": "112002",
+     "name": "Heal",
+     "des": "Allied Healing +25%",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 7"
+    },
+    {
+     "id": "112003",
+     "name": "Crit",
+     "des": "Allied CRIT Rate +30%",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 9"
+    },
+    {
+     "id": "112004",
+     "name": "SPD",
+     "des": "Allied SPD +15%",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 12"
+    },
+    {
+     "id": "112005",
+     "name": "Shield",
+     "des": "At the start of each turn, allies gain a Shield equal to 10% of Max HP for 1 turn",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 14"
+    },
+    {
+     "id": "112006",
+     "name": "HP",
+     "des": "Allied Max HP +20%",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 17"
+    },
+    {
+     "id": "112007",
+     "name": "Immunity",
+     "des": "Allies are immune to debuffs on the first turn",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 19"
+    },
+    {
+     "id": "112008",
+     "name": "Soul Jade",
+     "des": "Allies gain 1 extra Soul Jade when acting each turn",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 22"
+    },
+    {
+     "id": "112009",
+     "name": "Wrath",
+     "des": "Allies gain 20 extra Rage when acting each turn",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 24"
+    },
+    {
+     "id": "112010",
+     "name": "Rebirth",
+     "des": "All allied DMG reduction +50%; recover 10% Max HP at the start of each turn",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 27"
+    },
+    {
+     "id": "112012",
+     "name": "Berserk",
+     "des": "Allied CRIT DMG +100%; upon death, deal True Damage equal to 100% of ATK to enemies",
+     "unlockText": "Unlocked by clearing\\nNormal Stage 29"
+    }
+   ]
+  },
+  "TableEquipRefineFailBuffCard": {
+   "key_column": "id",
+   "text_columns": [
+    "disc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "disc": "Gold Bar cost -50%."
+    },
+    {
+     "id": "2",
+     "disc": "Gold Bar cost -100%."
+    },
+    {
+     "id": "3",
+     "disc": "No Refining Stones consumed."
+    },
+    {
+     "id": "4",
+     "disc": "One free refine."
+    },
+    {
+     "id": "5",
+     "disc": "Success chance +10%."
+    },
+    {
+     "id": "6",
+     "disc": "Success chance +20%."
+    },
+    {
+     "id": "7",
+     "disc": "Success chance +30%."
+    },
+    {
+     "id": "8",
+     "disc": "The next 1 refine below Lv. 10 succeeds 100%."
+    },
+    {
+     "id": "9",
+     "disc": "The next 1 refine below Lv. 15 succeeds 100%."
+    },
+    {
+     "id": "10",
+     "disc": "The next 1 refine below Lv. 20 succeeds 100%."
+    },
+    {
+     "id": "11",
+     "disc": "100% refund on refine failure."
+    },
+    {
+     "id": "12",
+     "disc": "Refine failure compensation progress +2 extra."
+    },
+    {
+     "id": "13",
+     "disc": "Refine failure compensation progress +4 extra."
+    },
+    {
+     "id": "14",
+     "disc": "Gold Bar cost -50%."
+    },
+    {
+     "id": "15",
+     "disc": "Gold Bar cost -100%."
+    },
+    {
+     "id": "16",
+     "disc": "No Refining Stones consumed."
+    },
+    {
+     "id": "17",
+     "disc": "No Hero Stones consumed."
+    },
+    {
+     "id": "18",
+     "disc": "One free refine."
+    },
+    {
+     "id": "19",
+     "disc": "Success chance +10%."
+    },
+    {
+     "id": "20",
+     "disc": "Success chance +20%."
+    },
+    {
+     "id": "21",
+     "disc": "Success chance +30%."
+    },
+    {
+     "id": "23",
+     "disc": "The next 1 refine below Lv. 15 succeeds 100%."
+    },
+    {
+     "id": "24",
+     "disc": "The next 1 refine below Lv. 20 succeeds 100%."
+    },
+    {
+     "id": "25",
+     "disc": "100% refund on refine failure."
+    },
+    {
+     "id": "26",
+     "disc": "Refine failure compensation progress +2 extra."
+    },
+    {
+     "id": "27",
+     "disc": "Refine failure compensation progress +4 extra."
+    }
+   ]
+  },
+  "TableEquipResonance": {
+   "key_column": "id",
+   "text_columns": [
+    "text"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "text": "Tenacity Attack +8000"
+    },
+    {
+     "id": "2",
+     "text": "Tenacity Attack +12000"
+    },
+    {
+     "id": "3",
+     "text": "Tenacity Defense +5000"
+    },
+    {
+     "id": "4",
+     "text": "Tenacity Defense +7500"
+    },
+    {
+     "id": "5",
+     "text": "Tenacity Attack +8000"
+    },
+    {
+     "id": "6",
+     "text": "Tenacity Attack +12000"
+    },
+    {
+     "id": "7",
+     "text": "Tenacity Defense +5000"
+    },
+    {
+     "id": "8",
+     "text": "Tenacity Defense +7500"
+    },
+    {
+     "id": "9",
+     "text": "Tenacity Attack +8000"
+    },
+    {
+     "id": "10",
+     "text": "Tenacity Attack +12000"
+    },
+    {
+     "id": "11",
+     "text": "Tenacity Defense +5000"
+    },
+    {
+     "id": "12",
+     "text": "Tenacity Defense +7500"
+    },
+    {
+     "id": "13",
+     "text": "Tenacity Attack +8000"
+    },
+    {
+     "id": "14",
+     "text": "Tenacity Attack +12000"
+    },
+    {
+     "id": "15",
+     "text": "Tenacity Defense +5000"
+    },
+    {
+     "id": "16",
+     "text": "Tenacity Defense +7500"
+    },
+    {
+     "id": "17",
+     "text": "Tenacity Attack +8000"
+    },
+    {
+     "id": "18",
+     "text": "Tenacity Attack +12000"
+    },
+    {
+     "id": "19",
+     "text": "Tenacity Defense +5000"
+    },
+    {
+     "id": "20",
+     "text": "Tenacity Defense +7500"
+    },
+    {
+     "id": "21",
+     "text": "Tenacity Attack +8000"
+    },
+    {
+     "id": "22",
+     "text": "Tenacity Attack +12000"
+    },
+    {
+     "id": "23",
+     "text": "Tenacity Defense +5000"
+    },
+    {
+     "id": "24",
+     "text": "Tenacity Defense +7500"
+    },
+    {
+     "id": "25",
+     "text": "Tenacity Attack +8000"
+    },
+    {
+     "id": "26",
+     "text": "Tenacity Attack +12000"
+    },
+    {
+     "id": "27",
+     "text": "Tenacity Defense +5000"
+    },
+    {
+     "id": "28",
+     "text": "Tenacity Defense +7500"
+    },
+    {
+     "id": "29",
+     "text": "Tenacity Attack +8000"
+    },
+    {
+     "id": "30",
+     "text": "Tenacity Attack +12000"
+    },
+    {
+     "id": "31",
+     "text": "Tenacity Defense +5000"
+    },
+    {
+     "id": "32",
+     "text": "Tenacity Defense +7500"
+    },
+    {
+     "id": "33",
+     "text": "Tenacity Attack +8000"
+    },
+    {
+     "id": "34",
+     "text": "Tenacity Attack +12000"
+    },
+    {
+     "id": "35",
+     "text": "Tenacity Defense +5000"
+    },
+    {
+     "id": "36",
+     "text": "Tenacity Defense +7500"
+    },
+    {
+     "id": "37",
+     "text": "Tenacity Attack +8000"
+    },
+    {
+     "id": "38",
+     "text": "Tenacity Attack +12000"
+    },
+    {
+     "id": "39",
+     "text": "Tenacity Defense +5000"
+    },
+    {
+     "id": "40",
+     "text": "Tenacity Defense +7500"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "text": "Accuracy +2.5%"
+    },
+    {
+     "id": "2",
+     "text": "SPD +1"
+    },
+    {
+     "id": "3",
+     "text": "Tenacity +13%"
+    },
+    {
+     "id": "4",
+     "text": "Tenacity +25%"
+    },
+    {
+     "id": "5",
+     "text": "Dodge +2.5%"
+    },
+    {
+     "id": "6",
+     "text": "SPD +1"
+    },
+    {
+     "id": "7",
+     "text": "Block +10%"
+    },
+    {
+     "id": "8",
+     "text": "Block +13%"
+    },
+    {
+     "id": "9",
+     "text": "CRIT +9%, CRIT DMG +4%, Pierce +2%"
+    },
+    {
+     "id": "10",
+     "text": "CRIT +17%, CRIT DMG +7%, Pierce +4%, SPD +1"
+    },
+    {
+     "id": "11",
+     "text": "Accuracy +2%, Block +3%"
+    },
+    {
+     "id": "12",
+     "text": "Accuracy +3%, Block +5%"
+    },
+    {
+     "id": "13",
+     "text": "Tenacity +9%, CRIT +4%, Pierce +2%"
+    },
+    {
+     "id": "14",
+     "text": "Tenacity +11.5%, CRIT +7%, Pierce +4%, SPD +1"
+    },
+    {
+     "id": "15",
+     "text": "Dodge +4%, Block +3%"
+    },
+    {
+     "id": "16",
+     "text": "Dodge +7%, Block +5%"
+    },
+    {
+     "id": "17",
+     "text": "CRIT +4%, CRIT DMG +2%"
+    },
+    {
+     "id": "18",
+     "text": "CRIT +6%, CRIT DMG +3%, SPD +1"
+    },
+    {
+     "id": "19",
+     "text": "Pierce +4.5%"
+    },
+    {
+     "id": "20",
+     "text": "Pierce +5.5%, SPD +1"
+    },
+    {
+     "id": "21",
+     "text": "CRIT +4%, CRIT DMG +2%"
+    },
+    {
+     "id": "22",
+     "text": "CRIT +6%, CRIT DMG +3%, SPD +1"
+    },
+    {
+     "id": "23",
+     "text": "CRIT +4%"
+    },
+    {
+     "id": "24",
+     "text": "CRIT +6%, SPD +1"
+    },
+    {
+     "id": "25",
+     "text": "Accuracy +1.5%, CRIT DMG +4%"
+    },
+    {
+     "id": "26",
+     "text": "Accuracy +2%, SPD +1, CRIT DMG +5%"
+    },
+    {
+     "id": "27",
+     "text": "Pierce +2.5%"
+    },
+    {
+     "id": "28",
+     "text": "Pierce +3.0%, SPD +1"
+    },
+    {
+     "id": "29",
+     "text": "CRIT +6%, CRIT DMG +2.5%"
+    },
+    {
+     "id": "30",
+     "text": "CRIT +7.5%, SPD +1, CRIT DMG +3%"
+    },
+    {
+     "id": "31",
+     "text": "Dodge +1%"
+    },
+    {
+     "id": "32",
+     "text": "Dodge +1.5%, SPD +1"
+    },
+    {
+     "id": "33",
+     "text": "Accuracy +2.0%, All Elemental DMG +200"
+    },
+    {
+     "id": "34",
+     "text": "Accuracy +2.5%, SPD +1, All Elemental DMG +300"
+    },
+    {
+     "id": "35",
+     "text": "Tenacity +4%"
+    },
+    {
+     "id": "36",
+     "text": "Tenacity +5%, SPD +1"
+    },
+    {
+     "id": "37",
+     "text": "Pierce +3.5%"
+    },
+    {
+     "id": "38",
+     "text": "Pierce +4.5%, SPD +1"
+    },
+    {
+     "id": "39",
+     "text": "CRIT +4%"
+    },
+    {
+     "id": "40",
+     "text": "CRIT +5%, SPD +1"
+    }
+   ]
+  },
+  "TableExerciseBigChapter": {
+   "key_column": "id",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "desc": "*Paramecia characters make it easier to meet the star conditions on this route*Enemies take more skill DMG and less Attribute DMG*Players and enemies gain some ATK every turn*Enemies randomly gain two of the following five effects:*1. Attacks inflict 2 stacks of Bleed*2. Attacks inflict 1 stack of Healing Reduction*3. Attacks inflict 20% Slow*4. Attacks make the target take 30% more DMG*5. Attacks make the target deal 30% less DMG"
+    },
+    {
+     "id": "2",
+     "desc": "*Logia characters make it easier to meet the star conditions on this route*Enemies take more Attribute DMG and less skill DMG*Players and enemies gain some ATK every turn*Enemies randomly gain two of the following five effects:*1. Attacks inflict 2 stacks of Bleed*2. Attacks inflict 1 stack of Healing Reduction*3. Attacks inflict 20% Slow*4. Attacks make the target take 30% more DMG*5. Attacks make the target deal 30% less DMG"
+    },
+    {
+     "id": "3",
+     "desc": "*Zoan characters make it easier to meet the star conditions on this route*Enemies take more Attribute DMG and less skill DMG*Players and enemies gain some ATK every turn*Enemies randomly gain two of the following five effects:*1. Attacks inflict 2 stacks of Bleed*2. Attacks inflict 1 stack of Healing Reduction*3. Attacks inflict 20% Slow*4. Attacks make the target take 30% more DMG*5. Attacks make the target deal 30% less DMG"
+    },
+    {
+     "id": "4",
+     "desc": "*Non-Fruit characters make it easier to meet the star conditions on this route*Enemies take more skill DMG and less Attribute DMG*Players and enemies gain some ATK every turn*Enemies randomly gain two of the following five effects:*1. Attacks inflict 2 stacks of Bleed*2. Attacks inflict 1 stack of Healing Reduction*3. Attacks inflict 20% Slow*4. Attacks make the target take 30% more DMG*5. Attacks make the target deal 30% less DMG"
+    }
+   ]
   },
   "TableExerciseHeroSkillType": {
    "key_column": "id",
@@ -302,6 +1470,10 @@
    "content_diverges_between_bundles": true,
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
+    {
+     "id": "0",
+     "name": "Non-Fruit"
+    },
     {
      "id": "1",
      "name": "Zoan"
@@ -320,8 +1492,1298 @@
      "id": "0",
      "name": "Non-Fruit Users"
     }
+   ]
+  },
+  "TableExerciseSmallChapter": {
+   "key_column": "id",
+   "text_columns": [
+    "explain"
    ],
-   "partial": "4/5 rows translated so far"
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [],
+   "other_bundle_rows": [
+    {
+     "id": "10101",
+     "explain": "*Enemies take 10% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10102",
+     "explain": "*Enemies take 10% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10103",
+     "explain": "*Enemies take 10% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10104",
+     "explain": "*Enemies take 10% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10105",
+     "explain": "*Enemies take 10% more DMG from Paramecia characters*When an enemy character dies, Bastille recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "10106",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters*At turn start, a random enemy character gains ATK (stackable)*When enemy HP is below 40%, ATK increases"
+    },
+    {
+     "id": "10107",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10108",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10109",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10110",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters*Aokiji gains a 10% Shield every turn*At turn start, if Aokiji's HP is below 40%, he recovers 15% HP*Aokiji's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "10301",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10302",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10303",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10304",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10305",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters*When an enemy character dies, Bastille recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "10306",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10307",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10308",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10309",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10310",
+     "explain": "*Enemies take 20% more DMG from Paramecia characters*Aokiji gains a 10% Shield every turn*At turn start, if Aokiji's HP is below 40%, he recovers 15% HP*Aokiji's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "10401",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters*At turn start, a random enemy character gains ATK (stackable)*When enemy HP is below 40%, ATK increases"
+    },
+    {
+     "id": "10402",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10403",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10404",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10405",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters*When an enemy character dies, Bastille recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "10406",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10407",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10408",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10409",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10410",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters*Aokiji gains a 10% Shield every turn*At turn start, if Aokiji's HP is below 40%, he recovers 15% HP*Aokiji's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "10601",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10602",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10603",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10604",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10605",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters*When an enemy character dies, Bastille recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "10606",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10607",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10608",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10609",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10610",
+     "explain": "*Enemies take 30% more DMG from Paramecia characters*Aokiji gains a 10% Shield every turn*At turn start, if Aokiji's HP is below 40%, he recovers 15% HP*Aokiji's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "10801",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters*At turn start, a random enemy character gains ATK (stackable)*When enemy HP is below 40%, ATK increases"
+    },
+    {
+     "id": "10802",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10803",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10804",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10805",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters*At turn start, a random enemy character gains ATK (stackable)*When enemy HP is below 40%, ATK increases*When an enemy character dies, Bastille recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "10806",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10807",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10808",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10809",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10810",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters*Aokiji gains a 10% Shield every turn*At turn start, if Aokiji's HP is below 40%, he recovers 15% HP*Aokiji's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "10901",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10902",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10903",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10904",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10905",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters*When an enemy character dies, Bastille recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "10906",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10907",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10908",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10909",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "10910",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters*Aokiji gains a 10% Shield every turn*At turn start, if Aokiji's HP is below 40%, he recovers 15% HP*Aokiji's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "11101",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11102",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11103",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11104",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11105",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters*When an enemy character dies, Bastille recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "11106",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11107",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11108",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11109",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11110",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters*Aokiji gains a 10% Shield every turn*At turn start, if Aokiji's HP is below 40%, he recovers 15% HP*Aokiji's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "11401",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11402",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11403",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11404",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11405",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters*When an enemy character dies, Bastille recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "11406",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11407",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11408",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11409",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters"
+    },
+    {
+     "id": "11410",
+     "explain": "*Enemies take 40% more DMG from Paramecia characters*Aokiji gains a 10% Shield every turn*At turn start, if Aokiji's HP is below 40%, he recovers 15% HP*Aokiji's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "20101",
+     "explain": "*Enemies take 10% more DMG from Logia characters"
+    },
+    {
+     "id": "20102",
+     "explain": "*Enemies take 10% more DMG from Logia characters"
+    },
+    {
+     "id": "20103",
+     "explain": "*Enemies take 10% more DMG from Logia characters"
+    },
+    {
+     "id": "20104",
+     "explain": "*Enemies take 10% more DMG from Logia characters"
+    },
+    {
+     "id": "20105",
+     "explain": "*Enemies take 10% more DMG from Logia characters*When an enemy character dies, Tashigi recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "20106",
+     "explain": "*Enemies take 20% more DMG from Logia characters*Enemies gain ATK when attacking players slower than themselves*Enemies in the back two rows consume their own HP to gain ATK when attacking"
+    },
+    {
+     "id": "20107",
+     "explain": "*Enemies take 20% more DMG from Logia characters"
+    },
+    {
+     "id": "20108",
+     "explain": "*Enemies take 20% more DMG from Logia characters"
+    },
+    {
+     "id": "20109",
+     "explain": "*Enemies take 20% more DMG from Logia characters"
+    },
+    {
+     "id": "20110",
+     "explain": "*Enemies take 20% more DMG from Logia characters*Kizaru gains a 10% Shield every turn*At turn start, if Kizaru's HP is below 40%, he recovers 15% HP*Kizaru's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "20301",
+     "explain": "*Enemies take 20% more DMG from Logia characters"
+    },
+    {
+     "id": "20302",
+     "explain": "*Enemies take 20% more DMG from Logia characters"
+    },
+    {
+     "id": "20303",
+     "explain": "*Enemies take 20% more DMG from Logia characters"
+    },
+    {
+     "id": "20304",
+     "explain": "*Enemies take 20% more DMG from Logia characters"
+    },
+    {
+     "id": "20305",
+     "explain": "*Enemies take 20% more DMG from Logia characters*When an enemy character dies, Tashigi recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "20306",
+     "explain": "*Enemies take 20% more DMG from Logia characters"
+    },
+    {
+     "id": "20307",
+     "explain": "*Enemies take 20% more DMG from Logia characters"
+    },
+    {
+     "id": "20308",
+     "explain": "*Enemies take 20% more DMG from Logia characters"
+    },
+    {
+     "id": "20309",
+     "explain": "*Enemies take 20% more DMG from Logia characters"
+    },
+    {
+     "id": "20310",
+     "explain": "*Enemies take 20% more DMG from Logia characters*Kizaru gains a 10% Shield every turn*At turn start, if Kizaru's HP is below 40%, he recovers 15% HP*Kizaru's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "20401",
+     "explain": "*Enemies take 30% more DMG from Logia characters*Enemies gain ATK when attacking players slower than themselves*Enemies in the back two rows consume their own HP to gain ATK when attacking"
+    },
+    {
+     "id": "20402",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20403",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20404",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20405",
+     "explain": "*Enemies take 30% more DMG from Logia characters*When an enemy character dies, Tashigi recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "20406",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20407",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20408",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20409",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20410",
+     "explain": "*Enemies take 30% more DMG from Logia characters*Kizaru gains a 10% Shield every turn*At turn start, if Kizaru's HP is below 40%, he recovers 15% HP*Kizaru's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "20601",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20602",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20603",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20604",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20605",
+     "explain": "*Enemies take 30% more DMG from Logia characters*When an enemy character dies, Tashigi recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "20606",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20607",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20608",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20609",
+     "explain": "*Enemies take 30% more DMG from Logia characters"
+    },
+    {
+     "id": "20610",
+     "explain": "*Enemies take 30% more DMG from Logia characters*Kizaru gains a 10% Shield every turn*At turn start, if Kizaru's HP is below 40%, he recovers 15% HP*Kizaru's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "20801",
+     "explain": "*Enemies take 40% more DMG from Logia characters*Enemies gain ATK when attacking players slower than themselves*Enemies in the back two rows consume their own HP to gain ATK when attacking"
+    },
+    {
+     "id": "20802",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20803",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20804",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20805",
+     "explain": "*Enemies take 40% more DMG from Logia characters*Enemies gain ATK when attacking players slower than themselves*Enemies in the back two rows consume their own HP to gain ATK when attacking*When an enemy character dies, Tashigi recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "20806",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20807",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20808",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20809",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20810",
+     "explain": "*Enemies take 40% more DMG from Logia characters*Kizaru gains a 10% Shield every turn*At turn start, if Kizaru's HP is below 40%, he recovers 15% HP*Kizaru's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "20901",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20902",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20903",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20904",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20905",
+     "explain": "*Enemies take 40% more DMG from Logia characters*When an enemy character dies, Tashigi recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "20906",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20907",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20908",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20909",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "20910",
+     "explain": "*Enemies take 40% more DMG from Logia characters*Kizaru gains a 10% Shield every turn*At turn start, if Kizaru's HP is below 40%, he recovers 15% HP*Kizaru's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "21101",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21102",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21103",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21104",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21105",
+     "explain": "*Enemies take 40% more DMG from Logia characters*When an enemy character dies, Tashigi recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "21106",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21107",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21108",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21109",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21110",
+     "explain": "*Enemies take 40% more DMG from Logia characters*Kizaru gains a 10% Shield every turn*At turn start, if Kizaru's HP is below 40%, he recovers 15% HP*Kizaru's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "21401",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21402",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21403",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21404",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21405",
+     "explain": "*Enemies take 40% more DMG from Logia characters*When an enemy character dies, Tashigi recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "21406",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21407",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21408",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21409",
+     "explain": "*Enemies take 40% more DMG from Logia characters"
+    },
+    {
+     "id": "21410",
+     "explain": "*Enemies take 40% more DMG from Logia characters*Kizaru gains a 10% Shield every turn*At turn start, if Kizaru's HP is below 40%, he recovers 15% HP*Kizaru's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "30101",
+     "explain": "*Enemies take 10% more DMG from Zoan characters"
+    },
+    {
+     "id": "30102",
+     "explain": "*Enemies take 10% more DMG from Zoan characters"
+    },
+    {
+     "id": "30103",
+     "explain": "*Enemies take 10% more DMG from Zoan characters"
+    },
+    {
+     "id": "30104",
+     "explain": "*Enemies take 10% more DMG from Zoan characters"
+    },
+    {
+     "id": "30105",
+     "explain": "*Enemies take 10% more DMG from Zoan characters*When an enemy character dies, Sentomaru recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "30106",
+     "explain": "*Enemies take 20% more DMG from Zoan characters*Enemy Block +40%; when Blocking, DMG taken is reduced by 20%"
+    },
+    {
+     "id": "30107",
+     "explain": "*Enemies take 20% more DMG from Zoan characters"
+    },
+    {
+     "id": "30108",
+     "explain": "*Enemies take 20% more DMG from Zoan characters"
+    },
+    {
+     "id": "30109",
+     "explain": "*Enemies take 20% more DMG from Zoan characters"
+    },
+    {
+     "id": "30110",
+     "explain": "*Enemies take 20% more DMG from Zoan characters*Akainu gains a 10% Shield every turn*At turn start, if Akainu's HP is below 40%, he recovers 15% HP*Akainu's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "30301",
+     "explain": "*Enemies take 20% more DMG from Zoan characters"
+    },
+    {
+     "id": "30302",
+     "explain": "*Enemies take 20% more DMG from Zoan characters"
+    },
+    {
+     "id": "30303",
+     "explain": "*Enemies take 20% more DMG from Zoan characters"
+    },
+    {
+     "id": "30304",
+     "explain": "*Enemies take 20% more DMG from Zoan characters"
+    },
+    {
+     "id": "30305",
+     "explain": "*Enemies take 20% more DMG from Zoan characters*When an enemy character dies, Sentomaru recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "30306",
+     "explain": "*Enemies take 20% more DMG from Zoan characters"
+    },
+    {
+     "id": "30307",
+     "explain": "*Enemies take 20% more DMG from Zoan characters"
+    },
+    {
+     "id": "30308",
+     "explain": "*Enemies take 20% more DMG from Zoan characters"
+    },
+    {
+     "id": "30309",
+     "explain": "*Enemies take 20% more DMG from Zoan characters"
+    },
+    {
+     "id": "30310",
+     "explain": "*Enemies take 20% more DMG from Zoan characters*Akainu gains a 10% Shield every turn*At turn start, if Akainu's HP is below 40%, he recovers 15% HP*Akainu's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "30401",
+     "explain": "*Enemies take 30% more DMG from Zoan characters*Enemy Block +40%; when Blocking, DMG taken is reduced by 40%"
+    },
+    {
+     "id": "30402",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30403",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30404",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30405",
+     "explain": "*Enemies take 30% more DMG from Zoan characters*When an enemy character dies, Sentomaru recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "30406",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30407",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30408",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30409",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30410",
+     "explain": "*Enemies take 30% more DMG from Zoan characters*Akainu gains a 10% Shield every turn*At turn start, if Akainu's HP is below 40%, he recovers 15% HP*Akainu's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "30601",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30602",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30603",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30604",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30605",
+     "explain": "*Enemies take 30% more DMG from Zoan characters*When an enemy character dies, Sentomaru recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "30606",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30607",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30608",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30609",
+     "explain": "*Enemies take 30% more DMG from Zoan characters"
+    },
+    {
+     "id": "30610",
+     "explain": "*Enemies take 30% more DMG from Zoan characters*Akainu gains a 10% Shield every turn*At turn start, if Akainu's HP is below 40%, he recovers 15% HP*Akainu's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "30801",
+     "explain": "*Enemies take 40% more DMG from Zoan characters*Enemy Block +40%; when Blocking, DMG taken is reduced by 60%"
+    },
+    {
+     "id": "30802",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30803",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30804",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30805",
+     "explain": "*Enemies take 40% more DMG from Zoan characters*Enemy Block +40%; when Blocking, DMG taken is reduced by 80%*When an enemy character dies, Sentomaru recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "30806",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30807",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30808",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30809",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30810",
+     "explain": "*Enemies take 40% more DMG from Zoan characters*Akainu gains a 10% Shield every turn*At turn start, if Akainu's HP is below 40%, he recovers 15% HP*Akainu's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "30901",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30902",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30903",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30904",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30905",
+     "explain": "*Enemies take 40% more DMG from Zoan characters*When an enemy character dies, Sentomaru recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "30906",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30907",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30908",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30909",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "30910",
+     "explain": "*Enemies take 40% more DMG from Zoan characters*Akainu gains a 10% Shield every turn*At turn start, if Akainu's HP is below 40%, he recovers 15% HP*Akainu's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "31101",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31102",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31103",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31104",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31105",
+     "explain": "*Enemies take 40% more DMG from Zoan characters*When an enemy character dies, Sentomaru recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "31106",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31107",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31108",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31109",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31110",
+     "explain": "*Enemies take 40% more DMG from Zoan characters*Akainu gains a 10% Shield every turn*At turn start, if Akainu's HP is below 40%, he recovers 15% HP*Akainu's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "31401",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31402",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31403",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31404",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31405",
+     "explain": "*Enemies take 40% more DMG from Zoan characters*When an enemy character dies, Sentomaru recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "31406",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31407",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31408",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31409",
+     "explain": "*Enemies take 40% more DMG from Zoan characters"
+    },
+    {
+     "id": "31410",
+     "explain": "*Enemies take 40% more DMG from Zoan characters*Akainu gains a 10% Shield every turn*At turn start, if Akainu's HP is below 40%, he recovers 15% HP*Akainu's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "40101",
+     "explain": "*Enemies take 10% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40102",
+     "explain": "*Enemies take 10% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40103",
+     "explain": "*Enemies take 10% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40104",
+     "explain": "*Enemies take 10% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40105",
+     "explain": "*Enemies take 10% more DMG from Non-Fruit characters*When an enemy character dies, Morgan recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "40106",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters*Enemy ATK +15%, Pierce -30%*Enemy Tenacity -30%, CRIT DMG taken +15%"
+    },
+    {
+     "id": "40107",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40108",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40109",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40110",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters*Fujitora gains a 10% Shield every turn*At turn start, if Fujitora's HP is below 40%, he recovers 15% HP*Fujitora's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "40301",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40302",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40303",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40304",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40305",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters*When an enemy character dies, Morgan recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "40306",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40307",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40308",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40309",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40310",
+     "explain": "*Enemies take 20% more DMG from Non-Fruit characters*Fujitora gains a 10% Shield every turn*At turn start, if Fujitora's HP is below 40%, he recovers 15% HP*Fujitora's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "40401",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters*Enemy ATK +30%, Pierce -30%*Enemy Tenacity -30%, CRIT DMG taken +30%"
+    },
+    {
+     "id": "40402",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40403",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40404",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40405",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters*When an enemy character dies, Morgan recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "40406",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40407",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40408",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40409",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40410",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters*Fujitora gains a 10% Shield every turn*At turn start, if Fujitora's HP is below 40%, he recovers 15% HP*Fujitora's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "40601",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40602",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40603",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40604",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40605",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters*When an enemy character dies, Morgan recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "40606",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40607",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40608",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40609",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40610",
+     "explain": "*Enemies take 30% more DMG from Non-Fruit characters*Fujitora gains a 10% Shield every turn*At turn start, if Fujitora's HP is below 40%, he recovers 15% HP*Fujitora's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "40801",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters*Enemy ATK +45%, Pierce -30%*Enemy Tenacity -30%, CRIT DMG taken +45%"
+    },
+    {
+     "id": "40802",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40803",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40804",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40805",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters*Enemy ATK +60%, Pierce -30%*Enemy Tenacity -30%, CRIT DMG taken +50%*When an enemy character dies, Morgan recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "40806",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40807",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40808",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40809",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40810",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters*Fujitora gains a 10% Shield every turn*At turn start, if Fujitora's HP is below 40%, he recovers 15% HP*Fujitora's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "40901",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40902",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40903",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40904",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40905",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters*When an enemy character dies, Morgan recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "40906",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40907",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40908",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40909",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "40910",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters*Fujitora gains a 10% Shield every turn*At turn start, if Fujitora's HP is below 40%, he recovers 15% HP*Fujitora's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "41101",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41102",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41103",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41104",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41105",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters*When an enemy character dies, Morgan recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "41106",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41107",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41108",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41109",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41110",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters*Fujitora gains a 10% Shield every turn*At turn start, if Fujitora's HP is below 40%, he recovers 15% HP*Fujitora's attacks have a 20% chance to Stun"
+    },
+    {
+     "id": "41401",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41402",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41403",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41404",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41405",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters*When an enemy character dies, Morgan recovers 15% HP; gains a 5% Shield every turn"
+    },
+    {
+     "id": "41406",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41407",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41408",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41409",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters"
+    },
+    {
+     "id": "41410",
+     "explain": "*Enemies take 40% more DMG from Non-Fruit characters*Fujitora gains a 10% Shield every turn*At turn start, if Fujitora's HP is below 40%, he recovers 15% HP*Fujitora's attacks have a 20% chance to Stun"
+    }
+   ]
   },
   "TableFightReportBuffDesc": {
    "key_column": "id",
@@ -340,6 +2802,22 @@
      "descri": "{0} gains the [{3}] effect of {1}'s talent [{2}] ({4} stacks);{0} gains the [{3}] effect of {1}'s talent [{2}]"
     },
     {
+     "id": "3",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "4",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "5",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "6",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
      "id": "7",
      "descri": "{0} gains the [{3}] effect of {1}'s talent [{2}] ({4} stacks);{0} gains the [{3}] effect of {1}'s talent [{2}]"
     },
@@ -352,8 +2830,76 @@
      "descri": "{0} gains the [{3}] effect of {1}'s talent [{2}] ({4} stacks);{0} gains the [{3}] effect of {1}'s talent [{2}]"
     },
     {
+     "id": "10",
+     "descri": "{0} gains the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "11",
+     "descri": "{0} gains the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "12",
+     "descri": "{0} gains the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "13",
+     "descri": "{0} gains the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "14",
+     "descri": "{0} gains the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "15",
+     "descri": "{0} gains the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "16",
+     "descri": "{0} gains the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "17",
+     "descri": "{0} gains the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "18",
+     "descri": "{0} gains the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "19",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "20",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "21",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "22",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
      "id": "23",
      "descri": "{0} gains the [{3}] effect of {1}'s talent [{2}] ({4} stacks);{0} gains the [{3}] effect of {1}'s talent [{2}]"
+    },
+    {
+     "id": "24",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "25",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "26",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
+    },
+    {
+     "id": "27",
+     "descri": "{0} is affected by the [{3}] effect from {1}'s skill [{2}] ({4} stacks);{0} is affected by the [{3}] effect from {1}'s skill [{2}]"
     },
     {
      "id": "28",
@@ -364,8 +2910,1099 @@
      "descri": "{0} gains the [{3}] effect of {1}'s talent [{2}] ({4} stacks);{0} gains the [{3}] effect of {1}'s talent [{2}]"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "8/33 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "descri": "{0} gains the {3} effect ({4}) of {1}'s talent {2}: {5} increased by {6} ({7}), {8} increased by {9} ({10}), {11} increased by {12} ({13})"
+    },
+    {
+     "id": "2",
+     "descri": "{0} gains the {3} effect ({4}) of {1}'s talent {2}: {5} increased by {6} ({7}), {8} increased by {9} ({10})"
+    },
+    {
+     "id": "3",
+     "descri": "{0} gains the {3} effect ({4}) of {1}'s talent {2}: {5} increased by {6} ({7}), {8} increased by {9} ({10}), {11} increased by {12} ({13})"
+    },
+    {
+     "id": "4",
+     "descri": "{0} gains the {3} effect ({4}) of {1}'s talent {2}: {5} increased by {6} ({7}), {8} increased by {9} ({10}), {11} increased by {12} ({13})"
+    }
+   ]
+  },
+  "TableFormationLev": {
+   "key_column": "id",
+   "text_columns": [
+    "upgradeDesc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "19",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;First-turn Accuracy +{0};0.15|UI_heroshuxing_icon_fangyu;DEF;First-turn DEF -{0};0.05"
+    },
+    {
+     "id": "20",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;First-turn Accuracy +{0};0.15|UI_heroshuxing_icon_fangyu;DEF;First-turn DEF -{0};0.05"
+    },
+    {
+     "id": "21",
+     "upgradeDesc": "UI_heroshuxing_icon_baoji;CRIT;First-turn CRIT +{0};0.15|UI_heroshuxing_icon_shanbi;Dodge;First-turn Dodge -{0};0.05"
+    },
+    {
+     "id": "22",
+     "upgradeDesc": "UI_heroshuxing_icon_baoji;CRIT;First-turn CRIT +{0};0.15|UI_heroshuxing_icon_shanbi;Dodge;First-turn Dodge -{0};0.05"
+    },
+    {
+     "id": "23",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;Calm;First-turn chance of status ailments -{0};0.10"
+    },
+    {
+     "id": "24",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;Calm;First-turn chance of status ailments -{0};0.10"
+    },
+    {
+     "id": "25",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;SPD +{0};0.05"
+    },
+    {
+     "id": "26",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;SPD +{0};0.05"
+    },
+    {
+     "id": "27",
+     "upgradeDesc": "UI_heroshuxing_icon_naili;Recovery;Recover {0} HP each turn;150"
+    },
+    {
+     "id": "28",
+     "upgradeDesc": "UI_heroshuxing_icon_naili;Recovery;Recover {0} HP each turn;150"
+    },
+    {
+     "id": "29",
+     "upgradeDesc": "UI_heroshuxing_icon_naili;Recovery;Recover {0} HP on kill;0.01"
+    },
+    {
+     "id": "30",
+     "upgradeDesc": "UI_heroshuxing_icon_naili;Recovery;Recover {0} HP on kill;0.01"
+    },
+    {
+     "id": "31",
+     "upgradeDesc": "UI_heroshuxing_icon_renxing;Rage;Gain {0} Rage when an ally dies;10"
+    },
+    {
+     "id": "32",
+     "upgradeDesc": "UI_heroshuxing_icon_renxing;Rage;Gain {0} Rage when an ally dies;10"
+    },
+    {
+     "id": "33",
+     "upgradeDesc": "UI_heroshuxing_icon_renxing;Rage;Gain {0} Rage when an ally dies;10"
+    },
+    {
+     "id": "34",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;First-turn DMG Reduction of the first two characters +{0};30"
+    },
+    {
+     "id": "35",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;First-turn DMG Reduction of the first two characters +{0};30"
+    },
+    {
+     "id": "36",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;First-turn DMG Reduction of the first two characters +{0};30"
+    },
+    {
+     "id": "37",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;First-turn DMG Reduction of the first two characters +{0};30"
+    },
+    {
+     "id": "38",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG Bonus;First-turn DMG output of the last two characters +{0};20"
+    },
+    {
+     "id": "39",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG Bonus;First-turn DMG output of the last two characters +{0};20"
+    },
+    {
+     "id": "40",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG Bonus;First-turn DMG output of the last two characters +{0};20"
+    },
+    {
+     "id": "41",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijianmian;ATK;First-turn ATK -{0};0.10|UI_heroshuxing_icon_zhaojia;Soul Jade;Extra Soul Jade +{0};1"
+    },
+    {
+     "id": "42",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijianmian;ATK;First-turn ATK -{0};0.10|UI_heroshuxing_icon_zhaojia;Soul Jade;Extra Soul Jade +{0};1"
+    },
+    {
+     "id": "43",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijianmian;ATK;First-turn ATK -{0};0.10|UI_heroshuxing_icon_zhaojia;Soul Jade;Extra Soul Jade +{0};1"
+    },
+    {
+     "id": "44",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;First-turn SPD +{0};0.3|UI_heroshuxing_icon_shanghaijianmian;Output;First-turn DMG output -{0};0.10"
+    },
+    {
+     "id": "45",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;First-turn SPD +{0};0.3|UI_heroshuxing_icon_shanghaijianmian;Output;First-turn DMG output -{0};0.10"
+    },
+    {
+     "id": "46",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;First-turn SPD +{0};0.3|UI_heroshuxing_icon_shanghaijianmian;Output;First-turn DMG output -{0};0.10"
+    },
+    {
+     "id": "47",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;First-turn SPD +{0};0.3|UI_heroshuxing_icon_shanghaijianmian;Output;First-turn DMG output -{0};0.10"
+    },
+    {
+     "id": "50",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingshanghai;Attribute DMG;Attribute DMG +{0};0.1"
+    },
+    {
+     "id": "51",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingshanghai;Attribute DMG;Attribute DMG +{0};0.1"
+    },
+    {
+     "id": "52",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingshanghai;Attribute DMG;Attribute DMG +{0};0.1"
+    },
+    {
+     "id": "53",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingshanghai;Attribute DMG;Attribute DMG +{0};0.1"
+    },
+    {
+     "id": "54",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;DMG Reduction;First-turn DMG taken by the rearmost character -{0};0.3"
+    },
+    {
+     "id": "55",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;DMG Reduction;First-turn DMG taken by the rearmost character -{0};0.3"
+    },
+    {
+     "id": "56",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;DMG Reduction;First-turn DMG taken by the rearmost character -{0};0.3"
+    },
+    {
+     "id": "57",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;DMG Reduction;First-turn DMG taken by the rearmost character -{0};0.3"
+    },
+    {
+     "id": "58",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;DMG of the middle two rows +{0};0.1"
+    },
+    {
+     "id": "59",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;DMG of the middle two rows +{0};0.1"
+    },
+    {
+     "id": "60",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;DMG of the middle two rows +{0};0.1"
+    },
+    {
+     "id": "61",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;DMG of the middle two rows +{0};0.1"
+    },
+    {
+     "id": "62",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;First-turn Attribute DMG taken by the back two rows -{0};0.15"
+    },
+    {
+     "id": "63",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;First-turn Attribute DMG taken by the back two rows -{0};0.15"
+    },
+    {
+     "id": "64",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;First-turn Attribute DMG taken by the back two rows -{0};0.15"
+    },
+    {
+     "id": "65",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;First-turn Attribute DMG taken by the back two rows -{0};0.15"
+    },
+    {
+     "id": "79",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;DMG taken -{0};0.05"
+    },
+    {
+     "id": "80",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;DMG taken -{0};0.05"
+    },
+    {
+     "id": "81",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;DMG taken -{0};0.05"
+    },
+    {
+     "id": "94",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;All members ATK +{0} each turn, up to 3 stacks;0.03|UI_heroshuxing_icon_fangyu;DEF;All members DEF +{0} each turn, up to 3 stacks;0.03"
+    },
+    {
+     "id": "95",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;All members ATK +{0} each turn, up to 3 stacks;0.03|UI_heroshuxing_icon_fangyu;DEF;All members DEF +{0} each turn, up to 3 stacks;0.03"
+    },
+    {
+     "id": "96",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;All members ATK +{0} each turn, up to 3 stacks;0.03|UI_heroshuxing_icon_fangyu;DEF;All members DEF +{0} each turn, up to 3 stacks;0.03"
+    },
+    {
+     "id": "97",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;All members ATK +{0} each turn, up to 3 stacks;0.03|UI_heroshuxing_icon_fangyu;DEF;All members DEF +{0} each turn, up to 3 stacks;0.03"
+    },
+    {
+     "id": "98",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;All members ATK +{0} each turn, up to 3 stacks;0.03|UI_heroshuxing_icon_fangyu;DEF;All members DEF +{0} each turn, up to 3 stacks;0.03"
+    },
+    {
+     "id": "99",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;DMG of the back two rows +{0};0.05|UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;DMG Reduction of the back two rows +{0};0.05"
+    },
+    {
+     "id": "100",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;DMG of the back two rows +{0};0.05|UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;DMG Reduction of the back two rows +{0};0.05"
+    },
+    {
+     "id": "101",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;DMG of the back two rows +{0};0.05|UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;DMG Reduction of the back two rows +{0};0.05"
+    },
+    {
+     "id": "102",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;DMG of the back two rows +{0};0.05|UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;DMG Reduction of the back two rows +{0};0.05"
+    },
+    {
+     "id": "103",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;DMG of the back two rows +{0};0.05|UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;DMG Reduction of the back two rows +{0};0.05"
+    },
+    {
+     "id": "109",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;Attribute DMG +{0};0.05|UI_heroshuxing_icon_quanshuxingkangxing;Attribute RES;Attribute RES +{0};0.05"
+    },
+    {
+     "id": "110",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;Attribute DMG +{0};0.05|UI_heroshuxing_icon_quanshuxingkangxing;Attribute RES;Attribute RES +{0};0.05"
+    },
+    {
+     "id": "111",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;Attribute DMG +{0};0.05|UI_heroshuxing_icon_quanshuxingkangxing;Attribute RES;Attribute RES +{0};0.05"
+    },
+    {
+     "id": "112",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;Attribute DMG +{0};0.05|UI_heroshuxing_icon_quanshuxingkangxing;Attribute RES;Attribute RES +{0};0.05"
+    },
+    {
+     "id": "113",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;Attribute DMG +{0};0.05|UI_heroshuxing_icon_quanshuxingkangxing;Attribute RES;Attribute RES +{0};0.05"
+    },
+    {
+     "id": "114",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn DMG of the front two rows +{0};0.1|UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;First-turn Attribute DMG of the front two rows +{0};0.05"
+    },
+    {
+     "id": "115",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn DMG of the front two rows +{0};0.1|UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;First-turn Attribute DMG of the front two rows +{0};0.05"
+    },
+    {
+     "id": "116",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn DMG of the front two rows +{0};0.1|UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;First-turn Attribute DMG of the front two rows +{0};0.05"
+    },
+    {
+     "id": "117",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn DMG of the front two rows +{0};0.1|UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;First-turn Attribute DMG of the front two rows +{0};0.05"
+    },
+    {
+     "id": "118",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn DMG of the front two rows +{0};0.1|UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;First-turn Attribute DMG of the front two rows +{0};0.05"
+    },
+    {
+     "id": "119",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn ATK of the back row +{0};0.05|UI_heroshuxing_icon_minjie;SPD;First-turn SPD +{0};5"
+    },
+    {
+     "id": "120",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn ATK of the back row +{0};0.05|UI_heroshuxing_icon_minjie;SPD;First-turn SPD +{0};5"
+    },
+    {
+     "id": "121",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn ATK of the back row +{0};0.05|UI_heroshuxing_icon_minjie;SPD;First-turn SPD +{0};5"
+    },
+    {
+     "id": "122",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn ATK of the back row +{0};0.05|UI_heroshuxing_icon_minjie;SPD;First-turn SPD +{0};5"
+    },
+    {
+     "id": "123",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn ATK of the back row +{0};0.05|UI_heroshuxing_icon_minjie;SPD;First-turn SPD +{0};5"
+    },
+    {
+     "id": "124",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn ATK +{0};0.2|UI_heroshuxing_icon_baoji;CRIT DMG;First-turn CRIT DMG +{0};0.1"
+    },
+    {
+     "id": "125",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn ATK +{0};0.2|UI_heroshuxing_icon_baoji;CRIT DMG;First-turn CRIT DMG +{0};0.1"
+    },
+    {
+     "id": "126",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn ATK +{0};0.2|UI_heroshuxing_icon_baoji;CRIT DMG;First-turn CRIT DMG +{0};0.1"
+    },
+    {
+     "id": "127",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn ATK +{0};0.2|UI_heroshuxing_icon_baoji;CRIT DMG;First-turn CRIT DMG +{0};0.1"
+    },
+    {
+     "id": "128",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;First-turn ATK +{0};0.2|UI_heroshuxing_icon_baoji;CRIT DMG;First-turn CRIT DMG +{0};0.1"
+    },
+    {
+     "id": "129",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;First-turn SPD of the front two rows +{0};0.1|UI_heroshuxing_icon_liliang;ATK;First-turn ATK of the front two rows +{0};0.1"
+    },
+    {
+     "id": "130",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;First-turn SPD of the front two rows +{0};0.1|UI_heroshuxing_icon_liliang;ATK;First-turn ATK of the front two rows +{0};0.1"
+    },
+    {
+     "id": "131",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;First-turn SPD of the front two rows +{0};0.1|UI_heroshuxing_icon_liliang;ATK;First-turn ATK of the front two rows +{0};0.1"
+    },
+    {
+     "id": "132",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;First-turn SPD of the front two rows +{0};0.1|UI_heroshuxing_icon_liliang;ATK;First-turn ATK of the front two rows +{0};0.1"
+    },
+    {
+     "id": "133",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;First-turn SPD of the front two rows +{0};0.1|UI_heroshuxing_icon_liliang;ATK;First-turn ATK of the front two rows +{0};0.1"
+    },
+    {
+     "id": "134",
+     "upgradeDesc": "UI_heroshuxing_icon_baoji;CRIT DMG;CRIT of the back two rows +{0} each turn;0.1|UI_heroshuxing_icon_minjie;SPD;SPD of the back two rows +{0} each turn;0.05"
+    },
+    {
+     "id": "135",
+     "upgradeDesc": "UI_heroshuxing_icon_baoji;CRIT DMG;CRIT of the back two rows +{0} each turn;0.1|UI_heroshuxing_icon_minjie;SPD;SPD of the back two rows +{0} each turn;0.05"
+    },
+    {
+     "id": "136",
+     "upgradeDesc": "UI_heroshuxing_icon_baoji;CRIT DMG;CRIT of the back two rows +{0} each turn;0.1|UI_heroshuxing_icon_minjie;SPD;SPD of the back two rows +{0} each turn;0.05"
+    },
+    {
+     "id": "137",
+     "upgradeDesc": "UI_heroshuxing_icon_baoji;CRIT DMG;CRIT of the back two rows +{0} each turn;0.1|UI_heroshuxing_icon_minjie;SPD;SPD of the back two rows +{0} each turn;0.05"
+    },
+    {
+     "id": "138",
+     "upgradeDesc": "UI_heroshuxing_icon_baoji;CRIT DMG;CRIT of the back two rows +{0} each turn;0.1|UI_heroshuxing_icon_minjie;SPD;SPD of the back two rows +{0} each turn;0.05"
+    },
+    {
+     "id": "139",
+     "upgradeDesc": "UI_heroshuxing_icon_shanbi;Dodge;First-turn Dodge of the front two rows +{0};0.2|UI_heroshuxing_icon_fangyu;CRIT RES;First-turn CRIT RES of the front two rows +{0};0.2"
+    },
+    {
+     "id": "140",
+     "upgradeDesc": "UI_heroshuxing_icon_shanbi;Dodge;First-turn Dodge of the front two rows +{0};0.2|UI_heroshuxing_icon_fangyu;CRIT RES;First-turn CRIT RES of the front two rows +{0};0.2"
+    },
+    {
+     "id": "141",
+     "upgradeDesc": "UI_heroshuxing_icon_shanbi;Dodge;First-turn Dodge of the front two rows +{0};0.2|UI_heroshuxing_icon_fangyu;CRIT RES;First-turn CRIT RES of the front two rows +{0};0.2"
+    },
+    {
+     "id": "142",
+     "upgradeDesc": "UI_heroshuxing_icon_shanbi;Dodge;First-turn Dodge of the front two rows +{0};0.2|UI_heroshuxing_icon_fangyu;CRIT RES;First-turn CRIT RES of the front two rows +{0};0.2"
+    },
+    {
+     "id": "143",
+     "upgradeDesc": "UI_heroshuxing_icon_shanbi;Dodge;First-turn Dodge of the front two rows +{0};0.2|UI_heroshuxing_icon_fangyu;CRIT RES;First-turn CRIT RES of the front two rows +{0};0.2"
+    },
+    {
+     "id": "144",
+     "upgradeDesc": "UI_heroshuxing_icon_shanbi;Dodge;Team Dodge +{0};0.1|UI_heroshuxing_icon_fangyu;CRIT DMG RES;Team CRIT DMG RES +{0};0.1"
+    },
+    {
+     "id": "145",
+     "upgradeDesc": "UI_heroshuxing_icon_shanbi;Dodge;Team Dodge +{0};0.1|UI_heroshuxing_icon_fangyu;CRIT DMG RES;Team CRIT DMG RES +{0};0.1"
+    },
+    {
+     "id": "146",
+     "upgradeDesc": "UI_heroshuxing_icon_shanbi;Dodge;Team Dodge +{0};0.1|UI_heroshuxing_icon_fangyu;CRIT DMG RES;Team CRIT DMG RES +{0};0.1"
+    },
+    {
+     "id": "147",
+     "upgradeDesc": "UI_heroshuxing_icon_shanbi;Dodge;Team Dodge +{0};0.1|UI_heroshuxing_icon_fangyu;CRIT DMG RES;Team CRIT DMG RES +{0};0.1"
+    },
+    {
+     "id": "148",
+     "upgradeDesc": "UI_heroshuxing_icon_shanbi;Dodge;Team Dodge +{0};0.1|UI_heroshuxing_icon_fangyu;CRIT DMG RES;Team CRIT DMG RES +{0};0.1"
+    },
+    {
+     "id": "149",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;Third-row ATK +{0};0.15|UI_heroshuxing_icon_baoji;CRIT;Third-row 0 CRIT +{0};0.15"
+    },
+    {
+     "id": "150",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;Third-row ATK +{0};0.15|UI_heroshuxing_icon_baoji;CRIT;Third-row 0 CRIT +{0};0.15"
+    },
+    {
+     "id": "151",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;Third-row ATK +{0};0.15|UI_heroshuxing_icon_baoji;CRIT;Third-row 0 CRIT +{0};0.15"
+    },
+    {
+     "id": "152",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;Third-row ATK +{0};0.15|UI_heroshuxing_icon_baoji;CRIT;Third-row 0 CRIT +{0};0.15"
+    },
+    {
+     "id": "153",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;Third-row ATK +{0};0.15|UI_heroshuxing_icon_baoji;CRIT;Third-row 0 CRIT +{0};0.15"
+    },
+    {
+     "id": "154",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of the back two rows +{0};0.08|UI_heroshuxing_icon_baoji;CRIT DMG;CRIT DMG of the back two rows +{0};0.2"
+    },
+    {
+     "id": "155",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of the back two rows +{0};0.08|UI_heroshuxing_icon_baoji;CRIT DMG;CRIT DMG of the back two rows +{0};0.2"
+    },
+    {
+     "id": "156",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of the back two rows +{0};0.08|UI_heroshuxing_icon_baoji;CRIT DMG;CRIT DMG of the back two rows +{0};0.2"
+    },
+    {
+     "id": "157",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of the back two rows +{0};0.08|UI_heroshuxing_icon_baoji;CRIT DMG;CRIT DMG of the back two rows +{0};0.2"
+    },
+    {
+     "id": "158",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of the back two rows +{0};0.08|UI_heroshuxing_icon_baoji;CRIT DMG;CRIT DMG of the back two rows +{0};0.2"
+    },
+    {
+     "id": "159",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of the back two rows +{0};0.08|UI_heroshuxing_icon_baoji;CRIT DMG;CRIT DMG of the back two rows +{0};0.2"
+    },
+    {
+     "id": "160",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;All members' first-turn skill DMG +{0};0.25|UI_heroshuxing_icon_liliang;ATK;All members' first-turn ATK +{0};0.12"
+    },
+    {
+     "id": "161",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;All members' first-turn skill DMG +{0};0.25|UI_heroshuxing_icon_liliang;ATK;All members' first-turn ATK +{0};0.12"
+    },
+    {
+     "id": "162",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;All members' first-turn skill DMG +{0};0.25|UI_heroshuxing_icon_liliang;ATK;All members' first-turn ATK +{0};0.12"
+    },
+    {
+     "id": "163",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;All members' first-turn skill DMG +{0};0.25|UI_heroshuxing_icon_liliang;ATK;All members' first-turn ATK +{0};0.12"
+    },
+    {
+     "id": "164",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;All members' first-turn skill DMG +{0};0.25|UI_heroshuxing_icon_liliang;ATK;All members' first-turn ATK +{0};0.12"
+    },
+    {
+     "id": "165",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijiacheng;DMG;All members' first-turn skill DMG +{0};0.25|UI_heroshuxing_icon_liliang;ATK;All members' first-turn ATK +{0};0.12"
+    },
+    {
+     "id": "166",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Shield;For the first three turns, the character with the lowest HP gains a Shield of {0} HP;0.35"
+    },
+    {
+     "id": "167",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Shield;For the first three turns, the character with the lowest HP gains a Shield of {0} HP;0.35"
+    },
+    {
+     "id": "168",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Shield;For the first three turns, the character with the lowest HP gains a Shield of {0} HP;0.35"
+    },
+    {
+     "id": "169",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Shield;For the first three turns, the character with the lowest HP gains a Shield of {0} HP;0.35"
+    },
+    {
+     "id": "170",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Shield;For the first three turns, the character with the lowest HP gains a Shield of {0} HP;0.35"
+    },
+    {
+     "id": "171",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Shield;For the first three turns, the character with the lowest HP gains a Shield of {0} HP;0.35"
+    },
+    {
+     "id": "172",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team first-turn SPD +{0};0.1|UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;Team Attribute DMG +{0};0.2"
+    },
+    {
+     "id": "173",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team first-turn SPD +{0};0.1|UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;Team Attribute DMG +{0};0.2"
+    },
+    {
+     "id": "174",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team first-turn SPD +{0};0.1|UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;Team Attribute DMG +{0};0.2"
+    },
+    {
+     "id": "175",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team first-turn SPD +{0};0.1|UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;Team Attribute DMG +{0};0.2"
+    },
+    {
+     "id": "176",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team first-turn SPD +{0};0.1|UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;Team Attribute DMG +{0};0.2"
+    },
+    {
+     "id": "177",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team first-turn SPD +{0};0.1|UI_heroshuxing_icon_shanghaijiacheng;Attribute DMG;Team Attribute DMG +{0};0.2"
+    },
+    {
+     "id": "178",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;Team first-turn final DMG from AoE attacks -{0};0.3|UI_heroshuxing_icon_shanbi;Dodge;Team first-turn Dodge +{0};0.1"
+    },
+    {
+     "id": "179",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;Team first-turn final DMG from AoE attacks -{0};0.3|UI_heroshuxing_icon_shanbi;Dodge;Team first-turn Dodge +{0};0.1"
+    },
+    {
+     "id": "180",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;Team first-turn final DMG from AoE attacks -{0};0.3|UI_heroshuxing_icon_shanbi;Dodge;Team first-turn Dodge +{0};0.1"
+    },
+    {
+     "id": "181",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;Team first-turn final DMG from AoE attacks -{0};0.3|UI_heroshuxing_icon_shanbi;Dodge;Team first-turn Dodge +{0};0.1"
+    },
+    {
+     "id": "182",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;Team first-turn final DMG from AoE attacks -{0};0.3|UI_heroshuxing_icon_shanbi;Dodge;Team first-turn Dodge +{0};0.1"
+    },
+    {
+     "id": "183",
+     "upgradeDesc": "UI_heroshuxing_icon_quanshuxingkangxing;DMG Reduction;Team first-turn final DMG from AoE attacks -{0};0.3|UI_heroshuxing_icon_shanbi;Dodge;Team first-turn Dodge +{0};0.1"
+    },
+    {
+     "id": "184",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.1|UI_heroshuxing_icon_baoji;CRIT DMG;Team CRIT DMG +{0};0.25"
+    },
+    {
+     "id": "185",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.1|UI_heroshuxing_icon_baoji;CRIT DMG;Team CRIT DMG +{0};0.25"
+    },
+    {
+     "id": "186",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.1|UI_heroshuxing_icon_baoji;CRIT DMG;Team CRIT DMG +{0};0.25"
+    },
+    {
+     "id": "187",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.1|UI_heroshuxing_icon_baoji;CRIT DMG;Team CRIT DMG +{0};0.25"
+    },
+    {
+     "id": "188",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.1|UI_heroshuxing_icon_baoji;CRIT DMG;Team CRIT DMG +{0};0.25"
+    },
+    {
+     "id": "189",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.1|UI_heroshuxing_icon_baoji;CRIT DMG;Team CRIT DMG +{0};0.25"
+    },
+    {
+     "id": "190",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Accuracy +{0};0.15|UI_heroshuxing_icon_quanshuxingshanghai;Attribute DMG;Attribute DMG +{0};0.15"
+    },
+    {
+     "id": "191",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Accuracy +{0};0.15|UI_heroshuxing_icon_quanshuxingshanghai;Attribute DMG;Attribute DMG +{0};0.15"
+    },
+    {
+     "id": "192",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Accuracy +{0};0.15|UI_heroshuxing_icon_quanshuxingshanghai;Attribute DMG;Attribute DMG +{0};0.15"
+    },
+    {
+     "id": "193",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Accuracy +{0};0.15|UI_heroshuxing_icon_quanshuxingshanghai;Attribute DMG;Attribute DMG +{0};0.15"
+    },
+    {
+     "id": "194",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Accuracy +{0};0.15|UI_heroshuxing_icon_quanshuxingshanghai;Attribute DMG;Attribute DMG +{0};0.15"
+    },
+    {
+     "id": "195",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Accuracy +{0};0.15|UI_heroshuxing_icon_quanshuxingshanghai;Attribute DMG;Attribute DMG +{0};0.15"
+    },
+    {
+     "id": "196",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.10|UI_heroshuxing_icon_fangyu;Shield;First-turn Shield +{0};0.25"
+    },
+    {
+     "id": "197",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.10|UI_heroshuxing_icon_fangyu;Shield;First-turn Shield +{0};0.25"
+    },
+    {
+     "id": "198",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.10|UI_heroshuxing_icon_fangyu;Shield;First-turn Shield +{0};0.25"
+    },
+    {
+     "id": "199",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.10|UI_heroshuxing_icon_fangyu;Shield;First-turn Shield +{0};0.25"
+    },
+    {
+     "id": "200",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.10|UI_heroshuxing_icon_fangyu;Shield;First-turn Shield +{0};0.25"
+    },
+    {
+     "id": "201",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;Team SPD +{0};0.10|UI_heroshuxing_icon_fangyu;Shield;First-turn Shield +{0};0.25"
+    },
+    {
+     "id": "202",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of our back two rows +{0} for the first two turns;0.20|UI_heroshuxing_icon_shanghaijiacheng;DEF Shred;Back two rows ignore {0} DEF for the first two turns;0.1"
+    },
+    {
+     "id": "203",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of our back two rows +{0} for the first two turns;0.20|UI_heroshuxing_icon_shanghaijiacheng;DEF Shred;Back two rows ignore {0} DEF for the first two turns;0.1"
+    },
+    {
+     "id": "204",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of our back two rows +{0} for the first two turns;0.20|UI_heroshuxing_icon_shanghaijiacheng;DEF Shred;Back two rows ignore {0} DEF for the first two turns;0.1"
+    },
+    {
+     "id": "205",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of our back two rows +{0} for the first two turns;0.20|UI_heroshuxing_icon_shanghaijiacheng;DEF Shred;Back two rows ignore {0} DEF for the first two turns;0.1"
+    },
+    {
+     "id": "206",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of our back two rows +{0} for the first two turns;0.20|UI_heroshuxing_icon_shanghaijiacheng;DEF Shred;Back two rows ignore {0} DEF for the first two turns;0.1"
+    },
+    {
+     "id": "207",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;ATK of our back two rows +{0} for the first two turns;0.20|UI_heroshuxing_icon_shanghaijiacheng;DEF Shred;Back two rows ignore {0} DEF for the first two turns;0.1"
+    },
+    {
+     "id": "208",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;All DMG of our Finisher and Ultimate skills +{0};0.35|UI_heroshuxing_icon_minjie;SPD;Team SPD +{0} for the first two turns;0.08"
+    },
+    {
+     "id": "209",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;All DMG of our Finisher and Ultimate skills +{0};0.35|UI_heroshuxing_icon_minjie;SPD;Team SPD +{0} for the first two turns;0.08"
+    },
+    {
+     "id": "210",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;All DMG of our Finisher and Ultimate skills +{0};0.35|UI_heroshuxing_icon_minjie;SPD;Team SPD +{0} for the first two turns;0.08"
+    },
+    {
+     "id": "211",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;All DMG of our Finisher and Ultimate skills +{0};0.35|UI_heroshuxing_icon_minjie;SPD;Team SPD +{0} for the first two turns;0.08"
+    },
+    {
+     "id": "212",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;All DMG of our Finisher and Ultimate skills +{0};0.35|UI_heroshuxing_icon_minjie;SPD;Team SPD +{0} for the first two turns;0.08"
+    },
+    {
+     "id": "213",
+     "upgradeDesc": "UI_heroshuxing_icon_liliang;ATK;All DMG of our Finisher and Ultimate skills +{0};0.35|UI_heroshuxing_icon_minjie;SPD;Team SPD +{0} for the first two turns;0.08"
+    },
+    {
+     "id": "214",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All allies SPD +10%, second-row characters gain an extra {0} SPD;0.10|UI_heroshuxing_icon_liliang;ATK;All allies ATK +10%, third-row characters gain an extra {0} ATK;0.20"
+    },
+    {
+     "id": "215",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All allies SPD +10%, second-row characters gain an extra {0} SPD;0.10|UI_heroshuxing_icon_liliang;ATK;All allies ATK +10%, third-row characters gain an extra {0} ATK;0.20"
+    },
+    {
+     "id": "216",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All allies SPD +10%, second-row characters gain an extra {0} SPD;0.10|UI_heroshuxing_icon_liliang;ATK;All allies ATK +10%, third-row characters gain an extra {0} ATK;0.20"
+    },
+    {
+     "id": "217",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All allies SPD +10%, second-row characters gain an extra {0} SPD;0.10|UI_heroshuxing_icon_liliang;ATK;All allies ATK +10%, third-row characters gain an extra {0} ATK;0.20"
+    },
+    {
+     "id": "218",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All allies SPD +10%, second-row characters gain an extra {0} SPD;0.10|UI_heroshuxing_icon_liliang;ATK;All allies ATK +10%, third-row characters gain an extra {0} ATK;0.20"
+    },
+    {
+     "id": "219",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All allies SPD +10%, second-row characters gain an extra {0} SPD;0.10|UI_heroshuxing_icon_liliang;ATK;All allies ATK +10%, third-row characters gain an extra {0} ATK;0.20"
+    },
+    {
+     "id": "226",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijianmian;DMG Reduction;Team final DMG Reduction +15%, third row gains an extra {0};0.15|UI_heroshuxing_icon_minjie;SPD;All members SPD and Dodge +{0};0.08"
+    },
+    {
+     "id": "227",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijianmian;DMG Reduction;Team final DMG Reduction +15%, third row gains an extra {0};0.15|UI_heroshuxing_icon_minjie;SPD;All members SPD and Dodge +{0};0.08"
+    },
+    {
+     "id": "228",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijianmian;DMG Reduction;Team final DMG Reduction +15%, third row gains an extra {0};0.15|UI_heroshuxing_icon_minjie;SPD;All members SPD and Dodge +{0};0.08"
+    },
+    {
+     "id": "229",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijianmian;DMG Reduction;Team final DMG Reduction +15%, third row gains an extra {0};0.15|UI_heroshuxing_icon_minjie;SPD;All members SPD and Dodge +{0};0.08"
+    },
+    {
+     "id": "230",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijianmian;DMG Reduction;Team final DMG Reduction +15%, third row gains an extra {0};0.15|UI_heroshuxing_icon_minjie;SPD;All members SPD and Dodge +{0};0.08"
+    },
+    {
+     "id": "231",
+     "upgradeDesc": "UI_heroshuxing_icon_shanghaijianmian;DMG Reduction;Team final DMG Reduction +15%, third row gains an extra {0};0.15|UI_heroshuxing_icon_minjie;SPD;All members SPD and Dodge +{0};0.08"
+    },
+    {
+     "id": "232",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Team Accuracy +{0};0.10|UI_heroshuxing_icon_minjie;SPD;Second-row SPD +30%, first-row SPD -{0};0.20"
+    },
+    {
+     "id": "233",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Team Accuracy +{0};0.10|UI_heroshuxing_icon_minjie;SPD;Second-row SPD +30%, first-row SPD -{0};0.20"
+    },
+    {
+     "id": "234",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Team Accuracy +{0};0.10|UI_heroshuxing_icon_minjie;SPD;Second-row SPD +30%, first-row SPD -{0};0.20"
+    },
+    {
+     "id": "235",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Team Accuracy +{0};0.10|UI_heroshuxing_icon_minjie;SPD;Second-row SPD +30%, first-row SPD -{0};0.20"
+    },
+    {
+     "id": "236",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Team Accuracy +{0};0.10|UI_heroshuxing_icon_minjie;SPD;Second-row SPD +30%, first-row SPD -{0};0.20"
+    },
+    {
+     "id": "237",
+     "upgradeDesc": "UI_heroshuxing_icon_jingzhun;Accuracy;Team Accuracy +{0};0.10|UI_heroshuxing_icon_minjie;SPD;Second-row SPD +30%, first-row SPD -{0};0.20"
+    },
+    {
+     "id": "238",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All members gain 8% SPD;0.08|UI_heroshuxing_icon_fangyu;Block;Team CRIT DMG RES +{0}, Block +10%;0.15"
+    },
+    {
+     "id": "239",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All members gain 8% SPD;0.08|UI_heroshuxing_icon_fangyu;Block;Team CRIT DMG RES +{0}, Block +10%;0.15"
+    },
+    {
+     "id": "240",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All members gain 8% SPD;0.08|UI_heroshuxing_icon_fangyu;Block;Team CRIT DMG RES +{0}, Block +10%;0.15"
+    },
+    {
+     "id": "241",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All members gain 8% SPD;0.08|UI_heroshuxing_icon_fangyu;Block;Team CRIT DMG RES +{0}, Block +10%;0.15"
+    },
+    {
+     "id": "242",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All members gain 8% SPD;0.08|UI_heroshuxing_icon_fangyu;Block;Team CRIT DMG RES +{0}, Block +10%;0.15"
+    },
+    {
+     "id": "243",
+     "upgradeDesc": "UI_heroshuxing_icon_minjie;SPD;All members gain 8% SPD;0.08|UI_heroshuxing_icon_fangyu;Block;Team CRIT DMG RES +{0}, Block +10%;0.15"
+    },
+    {
+     "id": "244",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Block;All members' Tenacity Defense +{0} for the first 3 turns;0.10|UI_heroshuxing_icon_minjie;SPD;Third row +30% SPD, first row -{0} SPD;0.15"
+    },
+    {
+     "id": "245",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Block;All members' Tenacity Defense +{0} for the first 3 turns;0.10|UI_heroshuxing_icon_minjie;SPD;Third row +30% SPD, first row -{0} SPD;0.15"
+    },
+    {
+     "id": "246",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Block;All members' Tenacity Defense +{0} for the first 3 turns;0.10|UI_heroshuxing_icon_minjie;SPD;Third row +30% SPD, first row -{0} SPD;0.15"
+    },
+    {
+     "id": "247",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Block;All members' Tenacity Defense +{0} for the first 3 turns;0.10|UI_heroshuxing_icon_minjie;SPD;Third row +30% SPD, first row -{0} SPD;0.15"
+    },
+    {
+     "id": "248",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Block;All members' Tenacity Defense +{0} for the first 3 turns;0.10|UI_heroshuxing_icon_minjie;SPD;Third row +30% SPD, first row -{0} SPD;0.15"
+    },
+    {
+     "id": "249",
+     "upgradeDesc": "UI_heroshuxing_icon_fangyu;Block;All members' Tenacity Defense +{0} for the first 3 turns;0.10|UI_heroshuxing_icon_minjie;SPD;Third row +30% SPD, first row -{0} SPD;0.15"
+    }
+   ],
+   "other_bundle_rows": []
+  },
+  "TableHeroAwake": {
+   "key_column": "id",
+   "text_columns": [
+    "instro"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "instro": "Awakening Tier 1;Unlock - Orochi Gatling"
+    },
+    {
+     "id": "2",
+     "instro": "Awakening Tier 2;Unlock - Kong Spinning Shot"
+    },
+    {
+     "id": "3",
+     "instro": "Awakening Tier 3;Unlock - Straw Hat Spirit"
+    },
+    {
+     "id": "4",
+     "instro": "Awakening Tier 1;Unlock - Flame Net"
+    },
+    {
+     "id": "5",
+     "instro": "Awakening Tier 2;Unlock - Fire Fist: Fury Flame"
+    },
+    {
+     "id": "6",
+     "instro": "Awakening Tier 3;Unlock - Dancing Flames"
+    },
+    {
+     "id": "7",
+     "instro": "Awakening Tier 1;Unlock - Ten Million Volt: Thunder Beast"
+    },
+    {
+     "id": "8",
+     "instro": "Awakening Tier 2;Unlock - Ancient Magatama"
+    },
+    {
+     "id": "9",
+     "instro": "Awakening Tier 3;Unlock - Thunder God"
+    },
+    {
+     "id": "10",
+     "instro": "Awakening Tier 1;Unlock - Lovesickness"
+    },
+    {
+     "id": "11",
+     "instro": "Awakening Tier 2;Unlock - Ladies' Man"
+    },
+    {
+     "id": "12",
+     "instro": "Awakening Tier 3;Unlock - Perfume Femur"
+    },
+    {
+     "id": "13",
+     "instro": "Awakening Tier 1;Unlock - Heavy Sandstorm Slash"
+    },
+    {
+     "id": "14",
+     "instro": "Awakening Tier 2;Unlock - Sandstorm Annihilation"
+    },
+    {
+     "id": "15",
+     "instro": "Awakening Tier 3;Unlock - Gravel Armor"
+    },
+    {
+     "id": "16",
+     "instro": "Awakening Tier 1;Unlock - Claw Impact"
+    },
+    {
+     "id": "17",
+     "instro": "Awakening Tier 2;Unlock - Leopard Hunter"
+    },
+    {
+     "id": "18",
+     "instro": "Awakening Tier 3;Unlock - Dark Justice"
+    },
+    {
+     "id": "19",
+     "instro": "Awakening Tier 1;Unlock - Stolen Fire"
+    },
+    {
+     "id": "20",
+     "instro": "Awakening Tier 2;Unlock - Craving Disorder"
+    },
+    {
+     "id": "21",
+     "instro": "Awakening Tier 3;Unlock - Soul Incarnation"
+    },
+    {
+     "id": "22",
+     "instro": "Awakening Tier 1;Unlock - Multi Power Mochi"
+    },
+    {
+     "id": "23",
+     "instro": "Awakening Tier 2;Unlock - Binding Mochi"
+    },
+    {
+     "id": "24",
+     "instro": "Awakening Tier 3;Unlock - Power Mochi"
+    },
+    {
+     "id": "25",
+     "instro": "Awakening Tier 1;Unlock - Fire Dragon Fist"
+    },
+    {
+     "id": "26",
+     "instro": "Awakening Tier 2;Unlock - Blazing Sky Scorch"
+    },
+    {
+     "id": "27",
+     "instro": "Awakening Tier 3;Unlock - Eternal Embers"
+    },
+    {
+     "id": "28",
+     "instro": "Awakening Tier 1;Unlock - Flash Combo"
+    },
+    {
+     "id": "29",
+     "instro": "Awakening Tier 2;Unlock - Undying Light"
+    },
+    {
+     "id": "30",
+     "instro": "Awakening Tier 3;Unlock - Shining Radiance"
+    },
+    {
+     "id": "31",
+     "instro": "Awakening Tier 1;Unlock - Pad Ho (Enhanced)"
+    },
+    {
+     "id": "32",
+     "instro": "Awakening Tier 2;Unlock - Repel Everything"
+    },
+    {
+     "id": "33",
+     "instro": "Awakening Tier 3;Unlock - Bear's Composure"
+    },
+    {
+     "id": "34",
+     "instro": "Awakening Tier 1;Unlock - Juice Sword Technique"
+    },
+    {
+     "id": "35",
+     "instro": "Awakening Tier 2;Unlock - Poison Immunity"
+    },
+    {
+     "id": "36",
+     "instro": "Awakening Tier 3;Unlock - Juice Minister"
+    },
+    {
+     "id": "37",
+     "instro": "Awakening Tier 1;Unlock - Biscuit Assault"
+    },
+    {
+     "id": "38",
+     "instro": "Awakening Tier 2;Unlock - Unlimited Production"
+    },
+    {
+     "id": "39",
+     "instro": "Awakening Tier 3;Unlock - Dream Biscuit"
+    },
+    {
+     "id": "40",
+     "instro": "Awakening Tier 1;Unlock - Edit"
+    },
+    {
+     "id": "41",
+     "instro": "Awakening Tier 2;Homie Companion: Rabian"
+    },
+    {
+     "id": "42",
+     "instro": "Awakening Tier 3;Caramel Café Owner"
+    },
+    {
+     "id": "43",
+     "instro": "Awakening Tier 1;Unlock - Omamori Karyu Ko"
+    },
+    {
+     "id": "44",
+     "instro": "Awakening Tier 2;Unlock - Legendary Race"
+    },
+    {
+     "id": "45",
+     "instro": "Awakening Tier 3;Unlock - Embers of Calamity"
+    },
+    {
+     "id": "46",
+     "instro": "Awakening Tier 1;Unlock - Clarity of Heart"
+    },
+    {
+     "id": "47",
+     "instro": "Awakening Tier 2;Unlock - Most Senior Crewmate"
+    },
+    {
+     "id": "48",
+     "instro": "Awakening Tier 3;Unlock - Fond of Drinking"
+    },
+    {
+     "id": "49",
+     "instro": "Awakening Tier 1;Unlock - Ruler of Kuri"
+    },
+    {
+     "id": "50",
+     "instro": "Awakening Tier 2;Enhance - Jack's Counterattack"
+    },
+    {
+     "id": "51",
+     "instro": "Awakening Tier 3;Enhance - Mammoth's Hidden Strength"
+    },
+    {
+     "id": "52",
+     "instro": "Awakening Tier 1;Unlock - Brutal Brachiosaurus"
+    },
+    {
+     "id": "53",
+     "instro": "Awakening Tier 2;Unlock - Cyborg"
+    },
+    {
+     "id": "54",
+     "instro": "Awakening Tier 3;Unlock - Self-Modification"
+    },
+    {
+     "id": "55",
+     "instro": "Awakening Tier 1;Unlock - Icicle"
+    },
+    {
+     "id": "56",
+     "instro": "Awakening Tier 2;Unlock - Cold Justice"
+    },
+    {
+     "id": "57",
+     "instro": "Awakening Tier 3;Unlock - Frozen Road"
+    },
+    {
+     "id": "58",
+     "instro": "Awakening Tier 1;Enhance - Kuri Daimyo"
+    },
+    {
+     "id": "59",
+     "instro": "Awakening Tier 2;Unlock - Favorite Oden"
+    },
+    {
+     "id": "60",
+     "instro": "Awakening Tier 3;Unlock - Heart Set on Freedom"
+    },
+    {
+     "id": "61",
+     "instro": "Awakening Tier 1;Unlock - Iron Fist Barrage"
+    },
+    {
+     "id": "62",
+     "instro": "Awakening Tier 2;Unlock - Energy Supply"
+    },
+    {
+     "id": "63",
+     "instro": "Awakening Tier 3;Unlock - Marine Hero"
+    },
+    {
+     "id": "64",
+     "instro": "Awakening Tier 1;Unlock - Samurai's Heart"
+    },
+    {
+     "id": "65",
+     "instro": "Awakening Tier 2;Unlock - Severing Sword"
+    },
+    {
+     "id": "66",
+     "instro": "Awakening Tier 3;Unlock - Nine Red Scabbards"
+    },
+    {
+     "id": "67",
+     "instro": "Awakening Tier 1;Unlock - Sacrifice Name and Wisdom"
+    },
+    {
+     "id": "68",
+     "instro": "Awakening Tier 2;Unlock - Wano Swordsman"
+    },
+    {
+     "id": "69",
+     "instro": "Awakening Tier 3;Unlock - Samurai Spirit"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "instro": "Awakening unlocks a brand-new choice of 3 talents"
+    }
+   ]
   },
   "TableHeroAwakeExtraSkill": {
    "key_column": "id",
@@ -397,22 +4034,55 @@
    ],
    "content_diverges_between_bundles": true,
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
-   "rows": [],
+   "rows": [
+    {
+     "id": "1",
+     "conditionDesc": "Star level reaches Lv. {0}"
+    }
+   ],
    "other_bundle_rows": [
     {
      "id": "1",
      "conditionDesc": "Reach Lv{0}"
     },
     {
+     "id": "2",
+     "conditionDesc": "Star level reaches {0} stars"
+    },
+    {
      "id": "3",
      "conditionDesc": "Breakthrough reaches {0}"
+    },
+    {
+     "id": "4",
+     "conditionDesc": "Own the costume"
     },
     {
      "id": "5",
      "conditionDesc": "Own the ship"
     }
+   ]
+  },
+  "TableHeroAwakeLevel": {
+   "key_column": "awakeLevel",
+   "text_columns": [
+    "name"
    ],
-   "partial": "3/6 rows translated so far"
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "awakeLevel": "1",
+     "name": "Awakening Tier 1 Unlock"
+    },
+    {
+     "awakeLevel": "2",
+     "name": "Awakening Tier 2 Unlock"
+    },
+    {
+     "awakeLevel": "3",
+     "name": "Awakening Tier 3 Unlock"
+    }
+   ]
   },
   "TableHeroAwakeOpen": {
    "key_column": "id",
@@ -479,6 +4149,12 @@
      "heroAbility": "Flame-Flame Fruit"
     },
     {
+     "id": "10",
+     "heroStyle": "Single Burst",
+     "heroAttackTarget": "Front",
+     "heroAbility": "Glint-Glint Fruit"
+    },
+    {
      "id": "11",
      "heroStyle": "Balanced",
      "heroAttackTarget": "Front",
@@ -495,6 +4171,12 @@
      "heroStyle": "Balanced",
      "heroAttackTarget": "Front",
      "heroAbility": "Biscuit-Biscuit Fruit"
+    },
+    {
+     "id": "14",
+     "heroStyle": "Support Ctrl",
+     "heroAttackTarget": "Front",
+     "heroAbility": "Memory-Memory Fruit"
     },
     {
      "id": "15",
@@ -558,8 +4240,7 @@
      "heroAttackTarget": "Front",
      "heroAbility": "Rumble-Rumble Fruit"
     }
-   ],
-   "partial": "22/24 rows translated so far"
+   ]
   },
   "TableHeroAwakeUnlock": {
    "key_column": "heroId",
@@ -570,8 +4251,24 @@
    "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
    "rows": [
     {
+     "heroId": "113031",
+     "unlockText": "I'm gonna be King of the Pirates!"
+    },
+    {
+     "heroId": "113008",
+     "unlockText": "That's my little brother. You'd better not lay a hand on him!"
+    },
+    {
+     "heroId": "113002",
+     "unlockText": "I am God!"
+    },
+    {
      "heroId": "113053",
      "unlockText": "This is the Haki of the Kuja!"
+    },
+    {
+     "heroId": "113001",
+     "unlockText": "Weakness is a sin!"
     },
     {
      "heroId": "113052",
@@ -580,6 +4277,10 @@
     {
      "heroId": "113044",
      "unlockText": "Your lifespan? Or sweets?"
+    },
+    {
+     "heroId": "113040",
+     "unlockText": "My brothers and sisters are behind me, so I can't fall!"
     },
     {
      "heroId": "113042",
@@ -594,6 +4295,10 @@
      "unlockText": "If you were going on a trip, where would you want to go?"
     },
     {
+     "heroId": "113046",
+     "unlockText": "I'll mix it for you right away!"
+    },
+    {
      "heroId": "113045",
      "unlockText": "You could say my fighting power is infinite!"
     },
@@ -602,20 +4307,43 @@
      "unlockText": "Sanji! -san♡~"
     },
     {
+     "heroId": "113083",
+     "unlockText": "I alone am enough to deal with you!"
+    },
+    {
+     "heroId": "113060",
+     "unlockText": "I've been wanting to face you for a long time!"
+    },
+    {
+     "heroId": "113078",
+     "unlockText": "You won't get one step closer to Big Bro Kaido!"
+    },
+    {
      "heroId": "113079",
      "unlockText": "My finest masterpiece!!"
+    },
+    {
+     "heroId": "113049",
+     "unlockText": "I warned you!"
     },
     {
      "heroId": "113059",
      "unlockText": "I'll \"open\" Wano Country to the world!"
     },
     {
+     "heroId": "113004",
+     "unlockText": "A fist full of love is irresistible!"
+    },
+    {
      "heroId": "113062",
      "unlockText": "I am a samurai!"
+    },
+    {
+     "heroId": "113034",
+     "unlockText": "We never once thought of running away!"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "11/23 rows translated so far"
+   "other_bundle_rows": []
   },
   "TableHeroExtrarProperty": {
    "key_column": "id",
@@ -628,6 +4356,66 @@
     {
      "id": "1",
      "propertyName": "Ice Damage Up"
+    },
+    {
+     "id": "9",
+     "propertyName": "Ice DMG Resistance"
+    },
+    {
+     "id": "2",
+     "propertyName": "Fire DMG Boost"
+    },
+    {
+     "id": "10",
+     "propertyName": "Fire DMG Resistance"
+    },
+    {
+     "id": "3",
+     "propertyName": "Thunder DMG Boost"
+    },
+    {
+     "id": "11",
+     "propertyName": "Thunder DMG Resistance"
+    },
+    {
+     "id": "4",
+     "propertyName": "Wind DMG Boost"
+    },
+    {
+     "id": "12",
+     "propertyName": "Wind DMG Resistance"
+    },
+    {
+     "id": "5",
+     "propertyName": "Poison DMG Boost"
+    },
+    {
+     "id": "13",
+     "propertyName": "Poison DMG Resistance"
+    },
+    {
+     "id": "6",
+     "propertyName": "Light DMG Boost"
+    },
+    {
+     "id": "14",
+     "propertyName": "Light DMG Resistance"
+    },
+    {
+     "id": "7",
+     "propertyName": "Dark DMG Boost"
+    },
+    {
+     "id": "15",
+     "propertyName": "Dark DMG Resistance"
+    },
+    {
+     "id": "8",
+     "propertyName": "Water DMG Boost"
+    },
+    {
+     "id": "16",
+     "propertyName": "Water DMG Resistance"
     }
    ],
    "other_bundle_rows": [
@@ -639,8 +4427,367 @@
      "id": "17",
      "propertyName": "Crit.DMG.RES"
     }
+   ]
+  },
+  "TableIntegralConfuseBuff": {
+   "key_column": "buffId",
+   "text_columns": [
+    "buff1Name",
+    "buff1Desc"
    ],
-   "partial": "3/18 rows translated so far"
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [],
+   "other_bundle_rows": [
+    {
+     "buffId": "190000",
+     "buff1Name": "Frenzy",
+     "buff1Desc": "1. At battle start, Max HP +100%, skill DMG -50%\\n2. Each time a skill is cast while acting, a random ally (excluding summons) loses 5% HP; for every 1% of HP that target has lost, all DMG bonuses +2%. The bonus refreshes each time this effect triggers\\n3. Recover 10 Soul Jade and 100 Rage when acting. If an Ultimate is cast during this action, the action is refreshed. Limited to 1 trigger per turn"
+    }
+   ]
+  },
+  "TableIntegralMasterFightBuff": {
+   "key_column": "id",
+   "text_columns": [
+    "buffName",
+    "buffDesc",
+    "positiveDesc",
+    "negativeDesc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "10011",
+     "buffName": "Fair Duel",
+     "buffDesc": "No special buffs this season",
+     "positiveDesc": "No special buffs this season",
+     "negativeDesc": "No special buffs this season"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "10011",
+     "buffName": "Fresh Start",
+     "buffDesc": "After entering battle, characters with the \"Pirate\" tag on both teams gain ATK +5%",
+     "positiveDesc": "Characters such as New World Kid, Killer and Wano Law receive stronger buffs.",
+     "negativeDesc": "Marine characters such as Fleet Admiral Sengoku and Hero Garp cannot receive buffs."
+    }
+   ]
+  },
+  "TableLifeSkill": {
+   "key_column": "skillType",
+   "text_columns": [
+    "skillName",
+    "skillDesc"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "skillType": "1",
+     "skillName": "Logging",
+     "skillDesc": "Logging skill description"
+    },
+    {
+     "skillType": "2",
+     "skillName": "Gathering",
+     "skillDesc": "Gathering skill description"
+    },
+    {
+     "skillType": "3",
+     "skillName": "Fishing",
+     "skillDesc": "Fishing skill description"
+    },
+    {
+     "skillType": "4",
+     "skillName": "Mining",
+     "skillDesc": "Mining skill description"
+    },
+    {
+     "skillType": "5",
+     "skillName": "Shipbuilding",
+     "skillDesc": "Shipbuilding skill description"
+    },
+    {
+     "skillType": "6",
+     "skillName": "Pharmacy",
+     "skillDesc": "Pharmacy skill description"
+    },
+    {
+     "skillType": "7",
+     "skillName": "Cooking",
+     "skillDesc": "Cooking skill description"
+    },
+    {
+     "skillType": "8",
+     "skillName": "Jewelry",
+     "skillDesc": "Jewelry skill description"
+    },
+    {
+     "skillType": "10",
+     "skillName": "Festival",
+     "skillDesc": "Festival skill description"
+    }
+   ]
+  },
+  "TableMutiTeamFightBuff": {
+   "key_column": "id",
+   "text_columns": [
+    "buffName",
+    "buffDesc",
+    "positiveDesc",
+    "negativeDesc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "10011",
+     "buffName": "Fair Arena",
+     "buffDesc": "Character levels are synced to Lv. 60, unlocked skills and their follow-up skills are synced to max level, and equipment, gems, potions, star level, breakthrough, training, costumes and titles have no effect.",
+     "positiveDesc": "Characters such as Jack and Doflamingo have an advantage.",
+     "negativeDesc": "Lower-rarity characters receive relatively smaller adjustments."
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "10011",
+     "buffName": "Peak Arena",
+     "buffDesc": "This season's Peak Arena brings different rules depending on rank. At higher ranks, each captain's growth modules are gradually unlocked. Race to the top together!",
+     "positiveDesc": "No character has a clear advantage.",
+     "negativeDesc": "No character has a clear disadvantage."
+    }
+   ]
+  },
+  "TableRogueTalent": {
+   "key_column": "id",
+   "text_columns": [
+    "name",
+    "info",
+    "lvUpInfo"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "name": "Killer: Enhancement",
+     "info": "No enhancement at start",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Parry Counter"
+    },
+    {
+     "id": "2",
+     "name": "Killer: Enhancement",
+     "info": "Stats up, unlocks skill Parry Counter",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Intimidate"
+    },
+    {
+     "id": "3",
+     "name": "Killer: Enhancement",
+     "info": "Stats up, unlocks skill Intimidate",
+     "lvUpInfo": "Next level effect:\\nStats up, +1 skill choice at start, unlocks skill Stronger with Time"
+    },
+    {
+     "id": "4",
+     "name": "Killer: Enhancement",
+     "info": "Stats up, +1 skill choice at start, unlocks skill Stronger with Time",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Decisiveness"
+    },
+    {
+     "id": "5",
+     "name": "Killer: Enhancement",
+     "info": "Stats up, unlocks skill Decisiveness",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Tenacity"
+    },
+    {
+     "id": "6",
+     "name": "Killer: Enhancement",
+     "info": "Stats up, unlocks skill Tenacity",
+     "lvUpInfo": "Max level reached, cannot enhance further"
+    },
+    {
+     "id": "7",
+     "name": "New World Kid: Enhancement",
+     "info": "No enhancement at start",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill CRIT"
+    },
+    {
+     "id": "8",
+     "name": "New World Kid: Enhancement",
+     "info": "Stats up, unlocks skill CRIT",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Summon"
+    },
+    {
+     "id": "9",
+     "name": "New World Kid: Enhancement",
+     "info": "Stats up, unlocks skill Summon",
+     "lvUpInfo": "Next level effect:\\nStats up, +1 skill choice at start, unlocks skill Accumulate"
+    },
+    {
+     "id": "10",
+     "name": "New World Kid: Enhancement",
+     "info": "Stats up, +1 skill choice at start, unlocks skill Accumulate",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Enhance"
+    },
+    {
+     "id": "11",
+     "name": "New World Kid: Enhancement",
+     "info": "Stats up, unlocks skill Enhance",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Collect"
+    },
+    {
+     "id": "12",
+     "name": "New World Kid: Enhancement",
+     "info": "Stats up, unlocks skill Collect",
+     "lvUpInfo": "Max level reached, cannot enhance further"
+    },
+    {
+     "id": "13",
+     "name": "Wano Law: Enhancement",
+     "info": "No enhancement at start",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Medical"
+    },
+    {
+     "id": "14",
+     "name": "Wano Law: Enhancement",
+     "info": "Stats up, unlocks skill Medical",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Sacrifice"
+    },
+    {
+     "id": "15",
+     "name": "Wano Law: Enhancement",
+     "info": "Stats up, unlocks skill Sacrifice",
+     "lvUpInfo": "Next level effect:\\nStats up, +1 skill choice at start, unlocks skill Rebirth"
+    },
+    {
+     "id": "16",
+     "name": "Wano Law: Enhancement",
+     "info": "Stats up, +1 skill choice at start, unlocks skill Rebirth",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Surgery"
+    },
+    {
+     "id": "17",
+     "name": "Wano Law: Enhancement",
+     "info": "Stats up, unlocks skill Surgery",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Enhance"
+    },
+    {
+     "id": "18",
+     "name": "Wano Law: Enhancement",
+     "info": "Stats up, unlocks skill Enhance",
+     "lvUpInfo": "Max level reached, cannot enhance further"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "name": "Luffy: Enhancement",
+     "info": "No enhancement at start",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Rubber Body"
+    },
+    {
+     "id": "2",
+     "name": "Luffy: Enhancement",
+     "info": "Stats up, unlocks skill Rubber Balloon",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Elastic Body"
+    },
+    {
+     "id": "3",
+     "name": "Luffy: Enhancement",
+     "info": "Stats up, unlocks skill Elastic Body",
+     "lvUpInfo": "Next level effect:\\nStats up, +1 skill choice at start, unlocks skill Insulated Body"
+    },
+    {
+     "id": "4",
+     "name": "Luffy: Enhancement",
+     "info": "Stats up, +1 skill choice at start, unlocks skill Insulated Body",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skills Gear Second and Training"
+    },
+    {
+     "id": "5",
+     "name": "Luffy: Enhancement",
+     "info": "Stats up, unlocks skills Gear Second and Training",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Counterattack"
+    },
+    {
+     "id": "6",
+     "name": "Luffy: Enhancement",
+     "info": "Stats up, unlocks skill Counterattack",
+     "lvUpInfo": "Max level reached, cannot enhance further"
+    },
+    {
+     "id": "7",
+     "name": "Zoro: Enhancement",
+     "info": "No enhancement at start",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Finishing Blow"
+    },
+    {
+     "id": "8",
+     "name": "Zoro: Enhancement",
+     "info": "Stats up, unlocks skill Finishing Blow",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Momentum"
+    },
+    {
+     "id": "9",
+     "name": "Zoro: Enhancement",
+     "info": "Stats up, unlocks skill Momentum",
+     "lvUpInfo": "Next level effect:\\nStats up, +1 skill choice at start, unlocks skills Three Thousand Worlds and Training"
+    },
+    {
+     "id": "10",
+     "name": "Zoro: Enhancement",
+     "info": "Stats up, +1 skill choice at start, unlocks skills Three Thousand Worlds and Training",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Experience"
+    },
+    {
+     "id": "11",
+     "name": "Zoro: Enhancement",
+     "info": "Stats up, unlocks skill Experience",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Decisive Battle"
+    },
+    {
+     "id": "12",
+     "name": "Zoro: Enhancement",
+     "info": "Stats up, unlocks skill Decisive Battle",
+     "lvUpInfo": "Max level reached, cannot enhance further"
+    },
+    {
+     "id": "13",
+     "name": "Sanji: Enhancement",
+     "info": "No enhancement at start",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Hot-Blooded"
+    },
+    {
+     "id": "14",
+     "name": "Sanji: Enhancement",
+     "info": "Stats up, unlocks skill Hot-Blooded",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Fury"
+    },
+    {
+     "id": "15",
+     "name": "Sanji: Enhancement",
+     "info": "Stats up, unlocks skill Fury",
+     "lvUpInfo": "Next level effect:\\nStats up, +1 skill choice at start, unlocks skill Kick Technique"
+    },
+    {
+     "id": "16",
+     "name": "Sanji: Enhancement",
+     "info": "Stats up, +1 skill choice at start, unlocks skill Kick Technique",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skills Thorough Study and Kick Course"
+    },
+    {
+     "id": "17",
+     "name": "Sanji: Enhancement",
+     "info": "Stats up, unlocks skills Thorough Study and Kick Course",
+     "lvUpInfo": "Next level effect:\\nStats up, unlocks skill Anger"
+    },
+    {
+     "id": "18",
+     "name": "Sanji: Enhancement",
+     "info": "Stats up, unlocks skill Anger",
+     "lvUpInfo": "Max level reached, cannot enhance further"
+    }
+   ]
   },
   "TableSkill": {
    "key_column": "skillId",
@@ -32483,6 +36630,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "740371",
+     "skillName": "Normal Attack",
+     "skillDesc": "Deals DMG to a single enemy",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "740374",
+     "skillName": "Normal Attack",
+     "skillDesc": "Deals DMG to a single enemy",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "760030",
      "skillName": "Server-Wide Challenge Boss - Clear Control Before Acting",
      "skillDesc": "Server-Wide Challenge Boss - Clear Control Before Acting",
@@ -45805,7 +49964,102 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "7525/14789 rows translated so far"
+   "partial": "7527/14789 rows translated so far"
+  },
+  "TableSuperSoul": {
+   "key_column": "heroId",
+   "text_columns": [
+    "superSoulName"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "heroId": "113092",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113093",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113094",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113095",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113096",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113097",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113098",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113099",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113100",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113101",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113102",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113103",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113104",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113105",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113106",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113107",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113108",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113109",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113110",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113111",
+     "superSoulName": "Super Soul Stone - Liberation"
+    },
+    {
+     "heroId": "113112",
+     "superSoulName": "Super Soul Stone - Liberation"
+    }
+   ],
+   "other_bundle_rows": []
   },
   "TableSuperSoulAdvancedAmend": {
    "key_column": "id",
@@ -45857,6 +50111,14 @@
      "TypeText": "Common"
     },
     {
+     "id": "2",
+     "TypeText": "Rare"
+    },
+    {
+     "id": "3",
+     "TypeText": "Uncommon"
+    },
+    {
      "id": "4",
      "TypeText": "Epic"
     },
@@ -45864,8 +50126,7 @@
      "id": "5",
      "TypeText": "Legendary"
     }
-   ],
-   "partial": "3/5 rows translated so far"
+   ]
   },
   "TableSuperSoulAmendTypeText": {
    "key_column": "id",
@@ -45896,12 +50157,145 @@
      "TypeText": "Evasion"
     },
     {
+     "id": "55",
+     "TypeText": "Pierce Rate"
+    },
+    {
+     "id": "54",
+     "TypeText": "Block Rate"
+    },
+    {
+     "id": "26",
+     "TypeText": "All DMG"
+    },
+    {
+     "id": "35",
+     "TypeText": "All RES"
+    },
+    {
+     "id": "9",
+     "TypeText": "CRIT DMG Rate"
+    },
+    {
      "id": "4",
      "TypeText": "SPD"
+    },
+    {
+     "id": "2",
+     "TypeText": "HP"
     }
    ],
-   "other_bundle_rows": [],
-   "partial": "6/14 rows translated so far"
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "TypeText": "Attack"
+    },
+    {
+     "id": "5",
+     "TypeText": "Defense"
+    }
+   ]
+  },
+  "TableSuperSoulExp": {
+   "key_column": "id",
+   "text_columns": [
+    "name"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "10001",
+     "name": "White Soul Stone EXP"
+    },
+    {
+     "id": "10002",
+     "name": "Green Soul Stone EXP"
+    },
+    {
+     "id": "10003",
+     "name": "Blue Soul Stone EXP"
+    },
+    {
+     "id": "10004",
+     "name": "Purple Soul Stone EXP"
+    },
+    {
+     "id": "10005",
+     "name": "Gold Soul Stone EXP"
+    }
+   ]
+  },
+  "TableURRecruitSkillIntroduce": {
+   "key_column": "skillId",
+   "text_columns": [
+    "skillName",
+    "skillDesc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "skillId": "1",
+     "skillName": "Dragon Roar: Thunder",
+     "skillDesc": "Deals DMG to all enemies"
+    },
+    {
+     "skillId": "2",
+     "skillName": "Bad Wind",
+     "skillDesc": "Deals DMG to all enemies"
+    },
+    {
+     "skillId": "3",
+     "skillName": "Raging Thunder Bagua",
+     "skillDesc": "Deals DMG to all enemies"
+    },
+    {
+     "skillId": "4",
+     "skillName": "Giant Slash",
+     "skillDesc": "Deals DMG to all enemies"
+    },
+    {
+     "skillId": "5",
+     "skillName": "Ringing Light Cannon",
+     "skillDesc": "Deals DMG to 4 enemy tiles in a straight line"
+    },
+    {
+     "skillId": "6",
+     "skillName": "Amaterasu Daijizaiten",
+     "skillDesc": "Deals DMG to all enemies"
+    },
+    {
+     "skillId": "7",
+     "skillName": "To Survive Is to Kill",
+     "skillDesc": "Deals DMG to all enemies"
+    },
+    {
+     "skillId": "8",
+     "skillName": "Conqueror's Strike",
+     "skillDesc": "Deals DMG to a single enemy"
+    },
+    {
+     "skillId": "9",
+     "skillName": "Divine Dodge",
+     "skillDesc": "Deals DMG to a single enemy"
+    },
+    {
+     "skillId": "10",
+     "skillName": "Soul of Freedom",
+     "skillDesc": "Enhanced in Thunder Form"
+    },
+    {
+     "skillId": "11",
+     "skillName": "The Most Outlandish Power in the World",
+     "skillDesc": "Fights back from the brink in Thunder Form"
+    },
+    {
+     "skillId": "12",
+     "skillName": "Awakened Power of Rubber",
+     "skillDesc": "Perfect coordination with teammates"
+    }
+   ],
+   "other_bundle_rows": []
   },
   "TableUSFSkill": {
    "key_column": "skillId",
@@ -45987,8 +50381,28 @@
      "desc": "Dog Head +Defense"
     },
     {
+     "skillId": "1120201",
+     "desc": "Dog Head Cannon Effect"
+    },
+    {
+     "skillId": "1120202",
+     "desc": "Dog Head Cannon Fire"
+    },
+    {
      "skillId": "1130101",
      "desc": "Submarine +Attack +Defense"
+    },
+    {
+     "skillId": "1140101",
+     "desc": "Revolutionary Army Skill"
+    },
+    {
+     "skillId": "1150101",
+     "desc": "Ghost Ship Adds BUFF"
+    },
+    {
+     "skillId": "1150102",
+     "desc": "Ghost Ship Lowers Accuracy"
     },
     {
      "skillId": "1160101",
@@ -46035,6 +50449,22 @@
      "desc": "Baratie Stronghold Heal"
     },
     {
+     "skillId": "1210101",
+     "desc": "Jewelry Margarita: Max HP increased in sea battles"
+    },
+    {
+     "skillId": "1210102",
+     "desc": "Jewelry Margarita: lowers enemy ATK on death"
+    },
+    {
+     "skillId": "1220101",
+     "desc": "Grudge Dolph: ATK at sea +15%"
+    },
+    {
+     "skillId": "1220102",
+     "desc": "Grudge Dolph: DMG Reduction at sea 10%"
+    },
+    {
      "skillId": "1230101",
      "desc": "Enel: Elemental Resistance increased"
     },
@@ -46049,6 +50479,10 @@
     {
      "skillId": "1230104",
      "desc": "Enel: Lightning Special Effect"
+    },
+    {
+     "skillId": "1240101",
+     "desc": "Big Mom Ship: Max HP at sea +10%"
     },
     {
      "skillId": "1240102",
@@ -46067,6 +50501,14 @@
      "desc": "Going Luffy-senpai: Speed increased by 6% when defending a stronghold"
     },
     {
+     "skillId": "1250103",
+     "desc": "Going Luffy-senpai: when defending a stronghold, SPD up and Max HP 10%"
+    },
+    {
+     "skillId": "1250104",
+     "desc": "Going Luffy-senpai: each enemy ship sunk raises its own stats by 10%"
+    },
+    {
      "skillId": "1260101",
      "desc": "Mihawk's Ship: Elemental Damage increased by 25% in naval battles"
     },
@@ -46077,6 +50519,14 @@
     {
      "skillId": "1260103",
      "desc": "Mihawk's Ship: Attack increased by 5% each time an enemy ship is sunk, up to 3 stacks"
+    },
+    {
+     "skillId": "1270101",
+     "desc": "Kid's Ship: ATK at sea up"
+    },
+    {
+     "skillId": "1270102",
+     "desc": "Kid's Ship: heals on kills at sea"
     },
     {
      "skillId": "1280101",
@@ -46275,12 +50725,104 @@
      "desc": "Command Stronghold - Level 10"
     },
     {
+     "skillId": "2090101",
+     "desc": "Fog Stronghold - Level 1"
+    },
+    {
+     "skillId": "2090102",
+     "desc": "Fog Stronghold - Level 2"
+    },
+    {
+     "skillId": "2090103",
+     "desc": "Fog Stronghold - Level 3"
+    },
+    {
+     "skillId": "2090104",
+     "desc": "Fog Stronghold - Level 4"
+    },
+    {
+     "skillId": "2090105",
+     "desc": "Fog Stronghold - Level 5"
+    },
+    {
+     "skillId": "2090106",
+     "desc": "Fog Stronghold - Level 6"
+    },
+    {
+     "skillId": "2090107",
+     "desc": "Fog Stronghold - Level 7"
+    },
+    {
+     "skillId": "2090108",
+     "desc": "Fog Stronghold - Level 8"
+    },
+    {
+     "skillId": "2090109",
+     "desc": "Fog Stronghold - Level 9"
+    },
+    {
+     "skillId": "2090110",
+     "desc": "Fog Stronghold - Level 10"
+    },
+    {
+     "skillId": "2100101",
+     "desc": "Lighthouse Stronghold - Level 1"
+    },
+    {
+     "skillId": "2100102",
+     "desc": "Lighthouse Stronghold - Level 2"
+    },
+    {
+     "skillId": "2100103",
+     "desc": "Lighthouse Stronghold - Level 3"
+    },
+    {
+     "skillId": "2100104",
+     "desc": "Lighthouse Stronghold - Level 4"
+    },
+    {
+     "skillId": "2100105",
+     "desc": "Lighthouse Stronghold - Level 5"
+    },
+    {
+     "skillId": "2100106",
+     "desc": "Lighthouse Stronghold - Level 6"
+    },
+    {
+     "skillId": "2100107",
+     "desc": "Lighthouse Stronghold - Level 7"
+    },
+    {
+     "skillId": "2100108",
+     "desc": "Lighthouse Stronghold - Level 8"
+    },
+    {
+     "skillId": "2100109",
+     "desc": "Lighthouse Stronghold - Level 9"
+    },
+    {
+     "skillId": "2100110",
+     "desc": "Lighthouse Stronghold - Level 10"
+    },
+    {
+     "skillId": "2200101",
+     "desc": "Barracks Stronghold - Level 1"
+    },
+    {
+     "skillId": "2200102",
+     "desc": "Super Cannon Stronghold - Level 10"
+    },
+    {
      "skillId": "2200103",
      "desc": "Tailwind Outpost"
     },
     {
      "skillId": "2200104",
      "desc": "Headwind Outpost"
+    },
+    {
+     "skillId": "2200105",
+     "desc": "Cannon Ship Stronghold"
     },
     {
      "skillId": "3010101",
@@ -46851,6 +51393,10 @@
      "desc": "Submarine +Attack +Defense"
     },
     {
+     "skillId": "4000003",
+     "desc": "Barrier (Blocks Self-Destruct)"
+    },
+    {
      "skillId": "4000004",
      "desc": "Shield Special Effect"
     },
@@ -46886,8 +51432,7 @@
      "skillId": "4000012",
      "desc": "Ace's Small Boat: Speed increased by 10% at sea"
     }
-   ],
-   "partial": "244/282 rows translated so far"
+   ]
   },
   "TableUnionControlCenterSkill": {
    "key_column": "id",
@@ -47133,6 +51678,440 @@
      "name": "Evasion Boost"
     }
    ]
+  },
+  "TableUnionSLGPersonSkill": {
+   "key_column": "skillId",
+   "text_columns": [
+    "info",
+    "title"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "skillId": "1",
+     "info": "ATK +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "2",
+     "info": "DEF +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "3",
+     "info": "HP +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "4",
+     "info": "ATK +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "5",
+     "info": "DEF +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "6",
+     "info": "Ace's Striker: ATK in sea battles 10%--->20%, DEF 5%--->10%, SPD 5%--->10%",
+     "title": "Enhanced Skill"
+    },
+    {
+     "skillId": "7",
+     "info": "HP +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "8",
+     "info": "ATK +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "9",
+     "info": "DEF +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "10",
+     "info": "HP +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "11",
+     "info": "Grudge Dolph: ATK in sea battles 10%--->20%, DMG Reduction 10%--->20%",
+     "title": "Enhanced Skill"
+    },
+    {
+     "skillId": "12",
+     "info": "SPD +8% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "13",
+     "info": "Law's Submarine: ship stealth uses increased from 3 to 5",
+     "title": "Enhanced Skill"
+    },
+    {
+     "skillId": "14",
+     "info": "ATK +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "15",
+     "info": "DEF +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "16",
+     "info": "HP +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "17",
+     "info": "ATK +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "18",
+     "info": "Ark Maxim: when fighting enemies at sea, ATK 20%--->40%, SPD 5%--->10%",
+     "title": "Enhanced Skill"
+    },
+    {
+     "skillId": "19",
+     "info": "DEF +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "20",
+     "info": "HP +5% in Island Battles",
+     "title": "Stat Bonus"
+    },
+    {
+     "skillId": "21",
+     "info": "When a ship enters a stronghold, stealth is disabled on all directly connected routes",
+     "title": "New Skill"
+    },
+    {
+     "skillId": "22",
+     "info": "Ships gain a Barrier that blocks 1 instance of self-destruct DMG from a destroyed enemy warship",
+     "title": "New Skill"
+    }
+   ]
+  },
+  "TableUnionSkillTreeGroup": {
+   "key_column": "id",
+   "text_columns": [
+    "name"
+   ],
+   "content_diverges_between_bundles": false,
+   "rows": [
+    {
+     "id": "1",
+     "name": "Basic Training"
+    }
+   ]
+  },
+  "TableUnionSkillTreeOneSkill": {
+   "key_column": "id",
+   "text_columns": [
+    "name",
+    "description",
+    "unlockDesc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "name": "Basic ATK (Low)",
+     "description": "ATK +{0}",
+     "unlockDesc": "Guild reaches Lv4"
+    },
+    {
+     "id": "2",
+     "name": "Basic Pierce (Low)",
+     "description": "Pierce +{0}",
+     "unlockDesc": "Guild members make 80 donations of any kind in total"
+    },
+    {
+     "id": "3",
+     "name": "Basic Block (Low)",
+     "description": "Block +{0}",
+     "unlockDesc": "Guild members complete 120 quests in total"
+    },
+    {
+     "id": "4",
+     "name": "Basic SPD (Low)",
+     "description": "SPD +{0}",
+     "unlockDesc": "Guild members make 200 donations of any kind in total"
+    },
+    {
+     "id": "5",
+     "name": "Basic ATK (Mid)",
+     "description": "ATK +{0}",
+     "unlockDesc": "Guild reaches Lv. 5"
+    },
+    {
+     "id": "6",
+     "name": "Basic Pierce (Mid)",
+     "description": "Pierce +{0}",
+     "unlockDesc": "Guild members complete 300 quests in total"
+    },
+    {
+     "id": "7",
+     "name": "Basic Block (Mid)",
+     "description": "Block +{0}",
+     "unlockDesc": "Guild members make 500 donations of any kind in total"
+    },
+    {
+     "id": "8",
+     "name": "Basic SPD (Mid)",
+     "description": "SPD +{0}",
+     "unlockDesc": "Guild members complete 600 quests in total"
+    },
+    {
+     "id": "9",
+     "name": "Basic ATK (High)",
+     "description": "ATK +{0}",
+     "unlockDesc": "Guild reaches Lv. 7"
+    },
+    {
+     "id": "10",
+     "name": "Basic Pierce (High)",
+     "description": "Pierce +{0}",
+     "unlockDesc": "Guild members make 800 donations of any kind in total"
+    },
+    {
+     "id": "11",
+     "name": "Basic Block (High)",
+     "description": "Block +{0}",
+     "unlockDesc": "Guild members complete 1500 quests in total"
+    },
+    {
+     "id": "12",
+     "name": "Basic SPD (High)",
+     "description": "SPD +{0}",
+     "unlockDesc": "Guild members make 2000 donations of any kind in total"
+    },
+    {
+     "id": "13",
+     "name": "Basic DMG Increase",
+     "description": "DMG Increase +{0}",
+     "unlockDesc": "Guild reaches Lv. 9"
+    },
+    {
+     "id": "14",
+     "name": "Basic DMG Reduction",
+     "description": "DMG Reduction +{0}",
+     "unlockDesc": "Guild reaches Lv. 9"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "1",
+     "name": "Basic ATK (Low)",
+     "description": "ATK +{0}",
+     "unlockDesc": "Guild reaches Lv. 1"
+    },
+    {
+     "id": "2",
+     "name": "Basic Pierce (Low)",
+     "description": "Pierce +{0}",
+     "unlockDesc": "Guild members make 3 donations of any kind in total"
+    },
+    {
+     "id": "3",
+     "name": "Basic Block (Low)",
+     "description": "Block +{0}",
+     "unlockDesc": "Guild members complete 10 quests in total"
+    },
+    {
+     "id": "4",
+     "name": "Basic SPD (Low)",
+     "description": "SPD +{0}",
+     "unlockDesc": "Guild members make 8 donations of any kind in total"
+    },
+    {
+     "id": "5",
+     "name": "Basic ATK (Mid)",
+     "description": "ATK +{0}",
+     "unlockDesc": "Guild reaches Lv. 3"
+    },
+    {
+     "id": "6",
+     "name": "Basic Pierce (Mid)",
+     "description": "Pierce +{0}",
+     "unlockDesc": "Guild members complete 15 quests in total"
+    },
+    {
+     "id": "7",
+     "name": "Basic Block (Mid)",
+     "description": "Block +{0}",
+     "unlockDesc": "Guild members make 20 donations of any kind in total"
+    },
+    {
+     "id": "8",
+     "name": "Basic SPD (Mid)",
+     "description": "SPD +{0}",
+     "unlockDesc": "Guild members complete 30 quests in total"
+    },
+    {
+     "id": "9",
+     "name": "Basic ATK (High)",
+     "description": "ATK +{0}",
+     "unlockDesc": "Guild reaches Lv4"
+    },
+    {
+     "id": "10",
+     "name": "Basic Pierce (High)",
+     "description": "Pierce +{0}",
+     "unlockDesc": "Guild members make 50 donations of any kind in total"
+    },
+    {
+     "id": "11",
+     "name": "Basic Block (High)",
+     "description": "Block +{0}",
+     "unlockDesc": "Guild members complete 40 quests in total"
+    },
+    {
+     "id": "12",
+     "name": "Basic SPD (High)",
+     "description": "SPD +{0}",
+     "unlockDesc": "Guild members make 60 donations of any kind in total"
+    }
+   ]
+  },
+  "TableUnionSkillTreeOneSkillLevel": {
+   "key_column": "id",
+   "text_columns": [
+    "desc"
+   ],
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "6",
+     "desc": "One percent"
+    },
+    {
+     "id": "7",
+     "desc": "Two percent"
+    },
+    {
+     "id": "8",
+     "desc": "Three percent"
+    },
+    {
+     "id": "9",
+     "desc": "Four percent"
+    },
+    {
+     "id": "10",
+     "desc": "Five percent"
+    },
+    {
+     "id": "11",
+     "desc": "One percent"
+    },
+    {
+     "id": "12",
+     "desc": "Two percent"
+    },
+    {
+     "id": "13",
+     "desc": "Three percent"
+    },
+    {
+     "id": "14",
+     "desc": "Four percent"
+    },
+    {
+     "id": "15",
+     "desc": "Five percent"
+    },
+    {
+     "id": "22",
+     "desc": "One percent"
+    },
+    {
+     "id": "23",
+     "desc": "Two percent"
+    },
+    {
+     "id": "24",
+     "desc": "Three percent"
+    },
+    {
+     "id": "25",
+     "desc": "Four percent"
+    },
+    {
+     "id": "26",
+     "desc": "Five percent"
+    },
+    {
+     "id": "27",
+     "desc": "One percent"
+    },
+    {
+     "id": "28",
+     "desc": "Two percent"
+    },
+    {
+     "id": "29",
+     "desc": "Three percent"
+    },
+    {
+     "id": "30",
+     "desc": "Four percent"
+    },
+    {
+     "id": "31",
+     "desc": "Five percent"
+    },
+    {
+     "id": "38",
+     "desc": "One percent"
+    },
+    {
+     "id": "39",
+     "desc": "Two percent"
+    },
+    {
+     "id": "40",
+     "desc": "Three percent"
+    },
+    {
+     "id": "41",
+     "desc": "Four percent"
+    },
+    {
+     "id": "42",
+     "desc": "Five percent"
+    },
+    {
+     "id": "43",
+     "desc": "One percent"
+    },
+    {
+     "id": "44",
+     "desc": "Two percent"
+    },
+    {
+     "id": "45",
+     "desc": "Three percent"
+    },
+    {
+     "id": "46",
+     "desc": "Four percent"
+    },
+    {
+     "id": "47",
+     "desc": "Five percent"
+    }
+   ],
+   "other_bundle_rows": []
   },
   "TableUnionTrainRoomSkill": {
    "key_column": "id",
@@ -47446,11 +52425,334 @@
    ],
    "other_bundle_rows": [
     {
+     "campId": "14",
+     "campName": "The Three Brothers and Garp"
+    },
+    {
      "campId": "15",
      "campName": "Dominators"
     }
+   ]
+  },
+  "TablecampLevel": {
+   "key_column": "id",
+   "text_columns": [
+    "campDesc"
    ],
-   "partial": "14/15 rows translated so far"
+   "content_diverges_between_bundles": true,
+   "other_bundle_rows_note": "only the tabledata_v1.ab rows that are missing from rows or whose text differs; every other v1 row is identical to rows and reuses its translation",
+   "rows": [
+    {
+     "id": "1",
+     "campDesc": "Whitebeard Pirates Lv. 1"
+    },
+    {
+     "id": "2",
+     "campDesc": "Whitebeard Pirates Lv. 2"
+    },
+    {
+     "id": "3",
+     "campDesc": "Whitebeard Pirates Lv. 3"
+    },
+    {
+     "id": "4",
+     "campDesc": "Whitebeard Pirates Lv. 4"
+    },
+    {
+     "id": "5",
+     "campDesc": "Whitebeard Pirates Lv. 5"
+    },
+    {
+     "id": "6",
+     "campDesc": "Seven Warlords Lv. 1"
+    },
+    {
+     "id": "7",
+     "campDesc": "Seven Warlords Lv. 2"
+    },
+    {
+     "id": "8",
+     "campDesc": "Seven Warlords Lv. 3"
+    },
+    {
+     "id": "9",
+     "campDesc": "Seven Warlords Lv. 4"
+    },
+    {
+     "id": "10",
+     "campDesc": "Seven Warlords Lv. 5"
+    },
+    {
+     "id": "11",
+     "campDesc": "Straw Hat Crew (New World) Lv. 1"
+    },
+    {
+     "id": "12",
+     "campDesc": "Straw Hat Crew (New World) Lv. 2"
+    },
+    {
+     "id": "13",
+     "campDesc": "Straw Hat Crew (New World) Lv. 3"
+    },
+    {
+     "id": "14",
+     "campDesc": "Straw Hat Crew (New World) Lv. 4"
+    },
+    {
+     "id": "15",
+     "campDesc": "Straw Hat Crew (New World) Lv. 5"
+    },
+    {
+     "id": "16",
+     "campDesc": "Supernovas Lv. 1"
+    },
+    {
+     "id": "17",
+     "campDesc": "Supernovas Lv. 2"
+    },
+    {
+     "id": "18",
+     "campDesc": "Supernovas Lv. 3"
+    },
+    {
+     "id": "19",
+     "campDesc": "Supernovas Lv. 4"
+    },
+    {
+     "id": "20",
+     "campDesc": "Supernovas Lv. 5"
+    },
+    {
+     "id": "21",
+     "campDesc": "Marines Lv. 1"
+    },
+    {
+     "id": "22",
+     "campDesc": "Marines Lv. 2"
+    },
+    {
+     "id": "23",
+     "campDesc": "Marines Lv. 3"
+    },
+    {
+     "id": "24",
+     "campDesc": "Marines Lv. 4"
+    },
+    {
+     "id": "25",
+     "campDesc": "Marines Lv. 5"
+    },
+    {
+     "id": "26",
+     "campDesc": "Blackbeard Pirates Lv. 1"
+    },
+    {
+     "id": "27",
+     "campDesc": "Blackbeard Pirates Lv. 2"
+    },
+    {
+     "id": "28",
+     "campDesc": "Blackbeard Pirates Lv. 3"
+    },
+    {
+     "id": "29",
+     "campDesc": "Blackbeard Pirates Lv. 4"
+    },
+    {
+     "id": "30",
+     "campDesc": "Blackbeard Pirates Lv. 5"
+    },
+    {
+     "id": "31",
+     "campDesc": "Big Mom Pirates Lv. 1"
+    },
+    {
+     "id": "32",
+     "campDesc": "Big Mom Pirates Lv. 2"
+    },
+    {
+     "id": "33",
+     "campDesc": "Big Mom Pirates Lv. 3"
+    },
+    {
+     "id": "34",
+     "campDesc": "Big Mom Pirates Lv. 4"
+    },
+    {
+     "id": "35",
+     "campDesc": "Big Mom Pirates Lv. 5"
+    },
+    {
+     "id": "36",
+     "campDesc": "Four Emperors Lv. 1"
+    },
+    {
+     "id": "37",
+     "campDesc": "Four Emperors Lv. 2"
+    },
+    {
+     "id": "38",
+     "campDesc": "Four Emperors Lv. 3"
+    },
+    {
+     "id": "39",
+     "campDesc": "Four Emperors Lv. 4"
+    },
+    {
+     "id": "40",
+     "campDesc": "Four Emperors Lv. 5"
+    },
+    {
+     "id": "41",
+     "campDesc": "Swordsmen Lv. 1"
+    },
+    {
+     "id": "42",
+     "campDesc": "Swordsmen Lv. 2"
+    },
+    {
+     "id": "43",
+     "campDesc": "Swordsmen Lv. 3"
+    },
+    {
+     "id": "44",
+     "campDesc": "Swordsmen Lv. 4"
+    },
+    {
+     "id": "45",
+     "campDesc": "Swordsmen Lv. 5"
+    },
+    {
+     "id": "46",
+     "campDesc": "Wano Lv. 1"
+    },
+    {
+     "id": "47",
+     "campDesc": "Wano Lv. 2"
+    },
+    {
+     "id": "48",
+     "campDesc": "Wano Lv. 3"
+    },
+    {
+     "id": "49",
+     "campDesc": "Wano Lv. 4"
+    },
+    {
+     "id": "50",
+     "campDesc": "Wano Lv. 5"
+    },
+    {
+     "id": "51",
+     "campDesc": "Mink Tribe Lv. 1"
+    },
+    {
+     "id": "52",
+     "campDesc": "Mink Tribe Lv. 2"
+    },
+    {
+     "id": "53",
+     "campDesc": "Mink Tribe Lv. 3"
+    },
+    {
+     "id": "54",
+     "campDesc": "Mink Tribe Lv. 4"
+    },
+    {
+     "id": "55",
+     "campDesc": "Mink Tribe Lv. 5"
+    },
+    {
+     "id": "56",
+     "campDesc": "Beasts Pirates Lv. 1"
+    },
+    {
+     "id": "57",
+     "campDesc": "Beasts Pirates Lv. 2"
+    },
+    {
+     "id": "58",
+     "campDesc": "Beasts Pirates Lv. 3"
+    },
+    {
+     "id": "59",
+     "campDesc": "Beasts Pirates Lv. 4"
+    },
+    {
+     "id": "60",
+     "campDesc": "Beasts Pirates Lv. 5"
+    },
+    {
+     "id": "61",
+     "campDesc": "The Three Brothers Lv. 1"
+    },
+    {
+     "id": "62",
+     "campDesc": "The Three Brothers Lv. 2"
+    },
+    {
+     "id": "63",
+     "campDesc": "The Three Brothers Lv. 3"
+    },
+    {
+     "id": "64",
+     "campDesc": "The Three Brothers Lv. 4"
+    },
+    {
+     "id": "65",
+     "campDesc": "The Three Brothers Lv. 5"
+    }
+   ],
+   "other_bundle_rows": [
+    {
+     "id": "2",
+     "campDesc": "Seven Warlords Lv. 1"
+    },
+    {
+     "id": "3",
+     "campDesc": "Straw Hat Crew (New World) Lv. 1"
+    },
+    {
+     "id": "4",
+     "campDesc": "Supernovas Lv. 1"
+    },
+    {
+     "id": "5",
+     "campDesc": "Marines Lv. 1"
+    },
+    {
+     "id": "6",
+     "campDesc": "Blackbeard Pirates Lv. 1"
+    },
+    {
+     "id": "7",
+     "campDesc": "Big Mom Pirates Lv. 1"
+    },
+    {
+     "id": "8",
+     "campDesc": "Four Emperors Lv. 1"
+    },
+    {
+     "id": "9",
+     "campDesc": "Swordsmen Lv. 1"
+    },
+    {
+     "id": "10",
+     "campDesc": "Wano Lv. 1"
+    },
+    {
+     "id": "11",
+     "campDesc": "Mink Tribe Lv. 1"
+    },
+    {
+     "id": "12",
+     "campDesc": "Beasts Pirates Lv. 1"
+    },
+    {
+     "id": "13",
+     "campDesc": "The Three Brothers Lv. 1"
+    }
+   ]
   }
  },
  "glossary_additions": {},
