@@ -86341,6 +86341,18 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "302563",
+     "skillName": "Binding Mochi",
+     "skillDesc": "When <color=#d14e0d>Mochi</color> reaches <color=#d14e0d>4</color> stacks, removes the target's <color=#d14e0d>Mochi</color> and inflicts an <color=#d14e0d>unresistable</color>, <color=#d14e0d>undispellable</color> <color=#d14e0d>Bind</color>, leaving it <color=#d14e0d>unable to act</color> and reducing its <color=#d14e0d>Dodge</color> by <color=#d14e0d>{buffper1}%</color> until <color=#d14e0d>the end of its next action</color>, and permanently reduces Katakuri's <color=#d14e0d>current SPD</color> by <color=#d14e0d>{buffper3,18349}%</color>. Katakuri is unaffected by <color=#d14e0d>Mochi</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302564",
+     "skillName": "Power Mochi",
+     "skillDesc": "Each time <color=#d14e0d>Future Sight</color> evades damage, own <color=#d14e0d>CRIT DMG</color> increases by <color=#d14e0d>{buffper1}%</color> until <color=#d14e0d>the end of the next action</color>, and each <color=#d14e0d>Bind</color> inflicted permanently increases own <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1,18363}%</color>, each stacking up to 15 times.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "302565",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
@@ -86389,15 +86401,111 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "302727",
+     "skillName": "Force",
+     "skillDesc": "Casting <color=#d14e0d>Dragon Hook Claw</color> grants <color=#d14e0d>Vigor</color>: when attacking, own <color=#d14e0d>all DMG Bonus</color> increases by <color=#d14e0d>{buffper1,18400}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302728",
+     "skillName": "Flame Weakness",
+     "skillDesc": "Gives <color=#d14e0d>Cross Fire</color> the <color=#d14e0d>Fire Weakness</color> effect, reducing the enemy target's <color=#d14e0d>Fire RES</color> by <color=#d14e0d>{buffper1,18402}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302729",
+     "skillName": "Crit Damage",
+     "skillDesc": "When casting <color=#d14e0d>Dragon Breath</color>, own <color=#d14e0d>CRIT DMG</color> increases by <color=#d14e0d>{buffper1,18403}%</color>, and Attribute damage can CRIT, for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "302730",
      "skillName": "Incinerate",
      "skillDesc": "Gives <color=#d14e0d>Flame Net</color> a <color=#d14e0d>{buffodds}%</color> chance to refresh the duration of <color=#d14e0d>Blaze</color> on the target.",
      "buttonEffect": ""
     },
     {
+     "skillId": "302731",
+     "skillName": "Explosive Flame",
+     "skillDesc": "After casting <color=#d14e0d>Flame Vortex</color>, gains <color=#d14e0d>10</color> stacks of <color=#d14e0d>Flame Shield</color> (requires unlocking the 6-star talent), <color=#d14e0d>SPD</color> +<color=#d14e0d>{buffper1,18413}%</color> until the next action, and chains into the Ultimate <color=#d14e0d>Fire Dragon Fist</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302732",
+     "skillName": "Rage Fire",
+     "skillDesc": "Increases all damage of <color=#d14e0d>Sudden Blaze</color> by <color=#d14e0d>{buffper1,18406}%</color> and grants 50 Rage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302733",
+     "skillName": "Reduce to Ashes",
+     "skillDesc": "Increases all damage of <color=#d14e0d>Fire Dragon Fist</color> by <color=#d14e0d>{buffper1,18422}%</color>; its Attribute damage can CRIT, and it deals extra damage based on the number of times <color=#d14e0d>Flame Shield</color> was gained: each Flame Shield gained increases all damage by <color=#d14e0d>{buffper1,18426}%</color> (bonus reduced by 50% in PvE), counting up to 20 times.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "302734",
      "skillName": "Power of the Dragon",
      "skillDesc": "When casting <color=#d14e0d>Flame Dragon King</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>3x Fire DMG Bonus</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302735",
+     "skillName": "Burning with Rage",
+     "skillDesc": "Gives <color=#d14e0d>Fire Fist</color> the <color=#d14e0d>Seething Rage</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to burn away <color=#d14e0d>2</color> of the target's Soul Jade. If not in the <color=#d14e0d>\"Inferno\"</color> state, enters <color=#d14e0d>\"Inferno\"</color> for <color=#d14e0d>3</color> turns: in <color=#d14e0d>\"Inferno\"</color>, <color=#d14e0d>final DMG reduction</color> +<color=#d14e0d>{buffper1,18417}%</color>, and after being hit, randomly removes a dispellable debuff from self.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302736",
+     "skillName": "True Damage",
+     "skillDesc": "When casting <color=#d14e0d>Fire Fist</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>ignore all enemy DMG reduction and DEF and always CRIT</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302737",
+     "skillName": "Dragon Claw Fist",
+     "skillDesc": "On hit, applies 1 stack of <color=#d14e0d>\"Blaze\"</color> lasting 3 turns to the target, up to <color=#d14e0d>5</color> stacks; each <color=#d14e0d>\"Blaze\"</color> stack cuts the target's <color=#d14e0d>final debuff DMG reduction</color> (Attribute damage, Sever damage, Burn-type damage, etc.) by <color=#d14e0d>{buffper1,18431}%</color>. When the whole team hits enemies with <color=#d14e0d>\"Blaze\"</color>, they deal extra immunity-ignoring Fire damage equal to <color=#d14e0d>{buffper1,18434}%</color> of ATK (extra Fire damage reduced by 50% in PvE).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302738",
+     "skillName": "Blazing Flame Body Guard",
+     "skillDesc": "After battle starts, <color=#d14e0d>immune to enemy-applied effects</color> during the first turn. At turn start, converts each point of Rage into a <color=#d14e0d>Flame Shield</color> worth <color=#d14e0d>2%</color> of Max HP; <color=#d14e0d>Flame Shield</color> stacks up to <color=#d14e0d>20</color>. When a Shield disappears, it burns all enemies for damage equal to <color=#d14e0d>{buffper1,18437}%</color> of own ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302739",
+     "skillName": "Flame-Flame Fruit",
+     "skillDesc": "Enemies not in the <color=#d14e0d>\"Blaze\"</color> state that hit Sabo with a skill gain 1 stack of <color=#d14e0d>\"Blaze\"</color> lasting 3 turns. Casting a skill in <color=#d14e0d>\"Blaze\"</color> burns away 1 Soul Jade; while in \"Blaze\", casting a skill burns away 1 Soul Jade, and the first skill cast in this state burns away 1 extra Soul Jade. When hit by enemies in the <color=#d14e0d>\"Blaze\"</color> state, converts <color=#d14e0d>{buffper1,18439}%</color> of their damage into <color=#d14e0d>Fire damage</color>; if Sabo is in the <color=#d14e0d>\"Inferno\"</color> state, he regains <color=#d14e0d>Flame Shield</color> when hit (Flame Shield gain requires unlocking the 6-star talent).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302740",
+     "skillName": "Chief of Staff",
+     "skillDesc": "Sabo is immune to <color=#d14e0d>Fire damage</color>; while he has a <color=#d14e0d>Flame Shield</color>, he is immune to <color=#d14e0d>debuffs</color>. Sabo's hits deal extra Fire damage equal to <color=#d14e0d>{buffper1,18444}%</color> of his ATK, Fire damage +<color=#d14e0d>{buffper1,18445}%</color>, and Fire damage from Sabo ignores immunity.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302741",
+     "skillName": "Forerunner",
+     "skillDesc": "After battle starts, <color=#d14e0d>Max HP, SPD and Accuracy</color> +<color=#d14e0d>{buffper1}%</color>, and gains <color=#d14e0d>5</color> extra Soul Jade and <color=#d14e0d>{buffval2}</color> Rage each turn, with double Rage on the first turn. After casting a skill, if in the <color=#d14e0d>Inferno</color> state, recovers <color=#d14e0d>5</color> Soul Jade.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302742",
+     "skillName": "Deep Brotherly Bond",
+     "skillDesc": "After battle starts, enters the <color=#d14e0d>\"Inferno\"</color> state for 3 turns: <color=#d14e0d>ATK and DEF</color> +<color=#d14e0d>{buffper1}%</color>, with <color=#d14e0d>the bonus doubled</color> when fielded with <color=#d14e0d>Luffy or Ace</color>. When <color=#d14e0d>Luffy or Ace</color> is defeated, Sabo's <color=#d14e0d>SPD and CRIT</color> +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302743",
+     "skillName": "Blazing Flame Scorches the Sky",
+     "skillDesc": "In the <color=#d14e0d>\"Inferno\"</color> state, when a teammate (including himself) is targeted by an enemy, Sabo has a <color=#d14e0d>20%</color> chance to block the damage for them. Damage taken while blocking breaks his Shield normally, but deals at most <color=#d14e0d>{buffper1,18464}%</color> damage to his HP; if the target is Ace or Luffy, it always triggers. Each block increases his <color=#d14e0d>SPD</color> by <color=#d14e0d>5%</color> and <color=#d14e0d>all DMG Bonus</color> by <color=#d14e0d>10%</color> (block bonuses stack up to 5 times) for 1 action, and he cannot be removed when triggering. When our team has 2 or fewer members on the field (excluding summons), he no longer blocks for teammates.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302744",
+     "skillName": "Embers Eternal",
+     "skillDesc": "At turn start, if no target on the field has the <color=#d14e0d>\"Eternal Burn\"</color> state, applies <color=#d14e0d>\"Eternal Burn\"</color> to the enemy unit with the highest <color=#d14e0d>Max HP</color> (if it cannot be applied, the target with the highest current HP percentage is chosen). Whenever a unit other than the <color=#d14e0d>\"Eternal Burn\"</color> target is in the <color=#d14e0d>\"Blaze\"</color> state and takes damage, the <color=#d14e0d>\"Eternal Burn\"</color> target takes the same damage (30% of the effect in PvE). For each enemy that falls, all of Sabo's damage increases by <color=#d14e0d>{buffper1,18454}%</color>. When casting a Finisher in the <color=#d14e0d>Inferno</color> state, if <color=#d14e0d>Dragon Hook Claw</color> or <color=#d14e0d>Cross Fire</color> was cast during this action, applies <color=#d14e0d>\"Eternal Burn\"</color> to the enemy with the highest <color=#d14e0d>current HP percentage</color>; otherwise, applies <color=#d14e0d>\"Eternal Burn\"</color> to the enemy with the highest <color=#d14e0d>Max HP</color>. Under <color=#d14e0d>\"Eternal Burn\"</color>, for each <color=#d14e0d>1% HP lost</color>, the target's final DMG reduction is cut by <color=#d14e0d>{buffper1,18472}%</color> (only one Eternal Burn can exist; not a debuff, cannot be dispelled).",
      "buttonEffect": ""
     },
     {
@@ -86449,9 +86557,93 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "302821",
+     "skillName": "Enhance",
+     "skillDesc": "After casting <color=#d14e0d>Speed-of-Light Kick</color>, every 15 base SPD increases Kizaru's ATK by <color=#d14e0d>{buffper2}%</color> for <color=#d14e0d>2</color> turns, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302822",
+     "skillName": "Shading",
+     "skillDesc": "After casting <color=#d14e0d>Pillar of Light</color>, each time Kizaru is hit by a skill, his <color=#d14e0d>final DMG reduction</color> increases by <color=#d14e0d>{buffper1}%</color>, up to <color=#d14e0d>5 stacks</color>, for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302823",
+     "skillName": "Radiant Glow",
+     "skillDesc": "After casting <color=#d14e0d>Light Array Arrow Rain</color>, Kizaru's <color=#d14e0d>Attribute damage</color> can CRIT, and hits increase the target's Attribute damage taken by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302824",
+     "skillName": "Light Elemental Damage",
+     "skillDesc": "Adds <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to <color=#d14e0d>Ama no Murakumo Sword</color>. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302825",
+     "skillName": "Light Field Shield",
+     "skillDesc": "After casting <color=#d14e0d>Yasakani no Magatama</color>, at the start of <color=#d14e0d>the next turn</color>, all <color=#d14e0d>SPD-up and SPD-down effects</color> on the field are temporarily nullified (only base SPD remains). <color=#d14e0d>All allies</color> deal <color=#d14e0d>{buffper1}%</color> more <color=#d14e0d>all damage</color> when attacking targets <color=#d14e0d>slower than themselves</color>, and gain <color=#d14e0d>{buffper1,18530}%</color> <color=#d14e0d>final DMG reduction</color> when attacked by targets <color=#d14e0d>slower than themselves</color>, for <color=#d14e0d>1</color> turn; takes effect at most <color=#d14e0d>3</color> times per battle.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "302826",
      "skillName": "Photon Blast",
      "skillDesc": "Gives <color=#d14e0d>Yata no Kagami</color> the <color=#d14e0d>Photon Burst</color> effect, increasing the <color=#d14e0d>Light damage</color> taken by the enemy target by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302827",
+     "skillName": "Warp",
+     "skillDesc": "After casting <color=#d14e0d>Flash Combo</color>, Awakened Kizaru has a <color=#d14e0d>{buffodds}%</color> chance to cast <color=#d14e0d>Ama no Murakumo Sword</color> once.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302828",
+     "skillName": "Three Admirals",
+     "skillDesc": "When all three Marine Admirals are fielded together, Kizaru's own <color=#d14e0d>ATK</color>, <color=#d14e0d>CRIT Rate</color> and <color=#d14e0d>CRIT DMG</color> increase by <color=#d14e0d>{buffper1}%</color>, and <color=#d14e0d>Undying Light</color> can take effect <color=#d14e0d>1</color> more time.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302829",
+     "skillName": "Glint-Glint Fruit",
+     "skillDesc": "All skills deal immunity-ignoring <color=#d14e0d>Light damage</color> based on range, and at battle start, every <color=#d14e0d>15</color> <color=#d14e0d>base SPD</color> grants Kizaru an extra <color=#d14e0d>{buffper2}%</color> <color=#d14e0d>CRIT Rate</color> and <color=#d14e0d>{buffper2,18537}%</color> <color=#d14e0d>CRIT DMG</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302830",
+     "skillName": "Photonization",
+     "skillDesc": "At battle start, <color=#d14e0d>ATK and SPD</color> +<color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>all damage</color> +<color=#d14e0d>{buffper1,18511}%</color>, and gains <color=#d14e0d>5</color> extra Soul Jade and <color=#d14e0d>50</color> Rage each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302831",
+     "skillName": "Photon Warp",
+     "skillDesc": "When Kizaru is <color=#d14e0d>Knocked Up</color>, he <color=#d14e0d>interrupts</color> the attacker; on success, there is a <color=#d14e0d>{buffodds}%</color> chance to cast <color=#d14e0d>Ama no Murakumo Sword</color> once.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302832",
+     "skillName": "Precision Laser",
+     "skillDesc": "At battle start, <color=#d14e0d>Accuracy</color> +<color=#d14e0d>{buffper1}%</color>, and after every <color=#d14e0d>3</color> skills Kizaru casts, his next skill <color=#d14e0d>always hits</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302833",
+     "skillName": "Refracted Laser",
+     "skillDesc": "At the start of each turn, if the first to act is <color=#d14e0d>an ally</color>, the <color=#d14e0d>first skill attack</color> Awakened Kizaru takes has a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>Knock Up</color> the attacker.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302834",
+     "skillName": "Undying Light",
+     "skillDesc": "Kizaru is immune to <color=#d14e0d>HP recovery prevention</color>; when HP is below <color=#d14e0d>50%</color>, he clears and becomes immune to <color=#d14e0d>all enemy-applied effects</color>. When taking <color=#d14e0d>lethal damage</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to be knocked to <color=#d14e0d>a random position in a different column</color>, recovering <color=#d14e0d>{buffper1,18517}%</color> of Max HP and becoming <color=#d14e0d>Invincible</color> and <color=#d14e0d>immune to control</color> until <color=#d14e0d>the end of this turn</color>; takes effect at most <color=#d14e0d>2</color> times.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302835",
+     "skillName": "Radiant Brilliance",
+     "skillDesc": "In PvP, each time <color=#d14e0d>Ama no Murakumo Sword</color> is cast, when the next <color=#d14e0d>Ama no Murakumo Sword</color> hits: if the target is <color=#d14e0d>faster than himself</color>, his <color=#d14e0d>ATK and all DMG Bonus</color> temporarily increase by <color=#d14e0d>{buffper1,18555}%</color> and he deals <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1,18545}%</color> of his ATK to the target; if the target is <color=#d14e0d>slower than himself</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>remove</color> it outright. If removal fails, the removal effect is not consumed, and there is a <color=#d14e0d>{buffodds}%</color> chance to apply an <color=#d14e0d>unblockable</color> <color=#d14e0d>Annihilation</color> effect, temporarily taking the target off the field and nullifying all effects it applied.\\nOutside PvP, when casting <color=#d14e0d>Ama no Murakumo Sword</color>, his <color=#d14e0d>ATK and all DMG Bonus</color> temporarily increase by <color=#d14e0d>{buffper1,18555}%</color>, dealing immunity-ignoring <color=#d14e0d>Light damage</color> equal to <color=#d14e0d>{buffper1,18545}%</color> of his ATK to <color=#d14e0d>all enemies</color>.",
      "buttonEffect": ""
     },
     {
@@ -86521,6 +86713,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "303004",
+     "skillName": "Swat Away",
+     "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>. Hit enemies have a <color=#d14e0d>{buffodds}%</color> chance to be <color=#d14e0d>Knocked Away</color>, forcing a single enemy to act last; the effect ends after it acts.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "303005",
      "skillName": "Ursus Shock Bullet",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>all enemies</color>.",
@@ -86539,15 +86737,105 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "303008",
+     "skillName": "Bear's Shield",
+     "skillDesc": "Immune to debuffs (except unresistable debuffs), and gains <color=#d14e0d>Reflect</color> and <color=#d14e0d>Debuff Reflection</color>, returning <color=#d14e0d>{buffper1}%</color> of the damage Kuma takes to the enemy for <color=#d14e0d>1 turn</color>. Recasting does not refresh the duration.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "303009",
      "skillName": "Pad Ho (Enhanced)",
      "skillDesc": "Deals skill damage equal to <color=#d14e0d>{atkper}%</color> of ATK to <color=#d14e0d>a single enemy</color>.",
      "buttonEffect": ""
     },
     {
+     "skillId": "303010",
+     "skillName": "Negative Energy",
+     "skillDesc": "Gives <color=#d14e0d>Ursus Shock Bullet</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Negative Energy</color>, inflicting the damage self took last turn on the attacked enemy target.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303011",
+     "skillName": "Ignore Defense",
+     "skillDesc": "Gives <color=#d14e0d>Bear Paw Impact</color> the <color=#d14e0d>Ignore DEF</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance for this attack to ignore the enemy target's DEF and all DMG reduction. This skill's <color=#d14e0d>all damage</color> also increases by <color=#d14e0d>{buffper1,18607}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "303012",
      "skillName": "Seal",
      "skillDesc": "Gives <color=#d14e0d>Bear Paw Impact</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Seal</color>, leaving the enemy target <color=#d14e0d>unable to use Ultimate skills</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303013",
+     "skillName": "Haste",
+     "skillDesc": "Gives <color=#d14e0d>Pad Cannon</color> the <color=#d14e0d>Haste</color> effect, increasing own SPD by <color=#d14e0d>{buffper1,18605}%</color> for 2 turns; does not stack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303014",
+     "skillName": "Penetration",
+     "skillDesc": "Gives <color=#d14e0d>Pressure Paw Cannon</color> the <color=#d14e0d>Pierce</color> effect, increasing own Pierce by <color=#d14e0d>{buffper1,18606}%</color> for 2 turns; does not stack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303015",
+     "skillName": "Ignore Defense",
+     "skillDesc": "Gives <color=#d14e0d>Pad Ho (Enhanced)</color> the <color=#d14e0d>Ignore DEF</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance for this attack to ignore the enemy target's DEF and all DMG reduction. This skill's <color=#d14e0d>all damage</color> also increases by <color=#d14e0d>{buffper1,18614}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303016",
+     "skillName": "Guard",
+     "skillDesc": "Gives <color=#d14e0d>Pad Ho (Enhanced)</color> a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>Bear Shield</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303017",
+     "skillName": "Paw Pad Fruit",
+     "skillDesc": "Kuma's debuff immunity becomes permanent, and after acting, his Reflect rises to <color=#d14e0d>{buffper1}%</color> (stacks with other Reflect effects), for <color=#d14e0d>1</color> turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303018",
+     "skillName": "Teleportation",
+     "skillDesc": "Kuma can teleport: when leaving the battlefield due to a <color=#d14e0d>removal</color> effect, he returns after <color=#d14e0d>2</color> turns (takes effect 1 time only), recovering <color=#d14e0d>{buffper1,18648}%</color> HP, and casting skills increases his SPD by <color=#d14e0d>{buffper1,18651}%</color> for 1 action.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303019",
+     "skillName": "Body Modification",
+     "skillDesc": "With a mechanically modified body, after casting AoE skills, <color=#d14e0d>Pierce</color> +<color=#d14e0d>{buffper1,18617}%</color> until the start of his next action, and his single-target skills perform a Block check: if not Blocked, they break enemy defenses (single-hit damage limits are nullified) and forcibly apply the skill's add-on effects, which cannot be dispelled.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303020",
+     "skillName": "Bear's Guardianship",
+     "skillDesc": "Dispels all debuffs on his first action. After acting, grants the teammates with the lowest HP and highest ATK (excluding himself) a Shield of <color=#d14e0d>{buffper1,18624}%</color> HP, plus <color=#d14e0d>Reflect</color> and <color=#d14e0d>Debuff Reflection</color> for <color=#d14e0d>1</color> turn; when targeted by skills, their <color=#d14e0d>damage from a single hit</color> cannot exceed <color=#d14e0d>1</color>% of their HP, and they are <color=#d14e0d>immune to debuffs</color> (except unresistable debuffs), for <color=#d14e0d>2</color> turns. All effects end early after being hit <color=#d14e0d>3</color> times; reapplying to the same target does not reset the hit count.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303021",
+     "skillName": "Power Load",
+     "skillDesc": "At battle start, <color=#d14e0d>SPD, Pierce and Max HP</color> +<color=#d14e0d>{buffper1,18628}%</color> and <color=#d14e0d>all DMG Bonus</color> +<color=#d14e0d>{buffper1,18629}%</color>. Own <color=#d14e0d>all damage taken</color> increases by <color=#d14e0d>{buffper1,18625}%</color>, but he recovers <color=#d14e0d>{buffper1,18627}%</color> HP each time he is hit.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303022",
+     "skillName": "Terrifying Tyrant",
+     "skillDesc": "Gains <color=#d14e0d>5</color> extra Soul Jade and <color=#d14e0d>50</color> Rage at turn start; when attacking, converts <color=#d14e0d>{buffper3,18631}%</color> of his current Max HP into ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303023",
+     "skillName": "Repel Everything",
+     "skillDesc": "When taking lethal damage, clears all enemy-applied effects and recovers <color=#d14e0d>{buffper1,18635}%</color> HP (takes effect 1 time only), and enters the <color=#d14e0d>\"Calm\"</color> state for <color=#d14e0d>2</color> turns, during which he cannot die. Casting his Ultimate in this state extends <color=#d14e0d>\"Calm\"</color> by <color=#d14e0d>1</color> turn, but the Ultimate is sealed for <color=#d14e0d>1</color> turn; while sealed by casting the Ultimate, any skill cast applies <color=#d14e0d>Bear Shield</color> (without refreshing the current Bear Shield duration). At turn start, all teammates except Kuma gain <color=#d14e0d>Pierce</color> equal to <color=#d14e0d>{buffper3,18687}%</color> of Kuma's current <color=#d14e0d>Pierce</color> and enter the <color=#d14e0d>\"Assault\"</color> state for 1 action, in which their single-target skills perform a Block check: if not Blocked, they break enemy defenses (single-hit damage limits are nullified).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303024",
+     "skillName": "Bear's Composure",
+     "skillDesc": "Enemies hit by Kuma's skills in the same turn are counted (each row further back adds 1 extra count). When casting his Ultimate, if this turn's skill order was <color=#d14e0d>Pad Cannon, Pressure Paw Cannon</color>, or only <color=#d14e0d>Pressure Paw Cannon</color> was cast, enemies hit by the basic attack are knocked to the back row and the most-hit enemy is knocked to the front row (PvP only). After acting, grants the allies with the <color=#d14e0d>highest ATK</color> and <color=#d14e0d>lowest HP</color> (excluding himself) the <color=#d14e0d>Ursus Heal</color> effect (healing based on own ATK becomes healing based on <color=#d14e0d>{buffper2,18662}%</color> of own HP), and increases their <color=#d14e0d>SPD</color> and <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1,18686}%</color> for 1 action, while dealing damage equal to <color=#d14e0d>{buffper2,18662}%</color> of his Max HP to the most-hit target, piercing Shields. After each skill cast and after acting, all other allies' <color=#d14e0d>all DMG reduction</color> +<color=#d14e0d>{buffper1,18678}%</color> and final debuff DMG reduction +<color=#d14e0d>{buffper1,18680}%</color>, stacking up to <color=#d14e0d>5</color> times, for 2 turns. After acting, if his skills were Blocked no more than 3 times, all enemies' <color=#d14e0d>all DMG Bonus</color> is forcibly reduced by <color=#d14e0d>{buffper1,18676}%</color> (dispellable), ending after 1 action.",
      "buttonEffect": ""
     },
     {
@@ -86710,6 +86998,42 @@
      "skillId": "303352",
      "skillName": "Thunder and Flame Amplification",
      "skillDesc": "On　hit,　randomly　add　Lightning　or　Fire　damage　equal　to　<color=#d14e0d>10%,　20%,　30%,　or　200%</color>　of　ATK,　plus　true　damage　equal　to　<color=#d14e0d>{buffper2,54611}%</color>　of　own　Max　HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303361",
+     "skillName": "On hit: gain Charge & DEF",
+     "skillDesc": "Server-Wide Challenge - Classic Server Phase 3 Kaku Affix 1  on hit, gain Charge & DEF",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303362",
+     "skillName": "At turn end, deal DMG based on DEF",
+     "skillDesc": "Server-Wide Challenge - Classic Server Phase 3 Kaku Affix 2 at turn end, deal DMG based on DEF",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303363",
+     "skillName": "At turn start, at 10 Charge stacks: clear Charge and gain Burst",
+     "skillDesc": "Server-Wide Challenge - Classic Server Phase 3 Kaku Affix 3 at turn start, at 10 Charge stacks, clear Charge and gain Burst",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303364",
+     "skillName": "On attack, check Burst mark for extra DMG",
+     "skillDesc": "Server-Wide Challenge - Classic Server Phase 3 Kaku Affix 3 on attack, check Burst mark for extra DMG",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303365",
+     "skillName": "At battle start, DEF cannot be reduced",
+     "skillDesc": "Server-Wide Challenge - Classic Server Phase 3 Kaku Affix 4 Kaku at battle start, DEF cannot be reduced",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303366",
+     "skillName": "On hit: gain DMG Reduction, remove debuffs",
+     "skillDesc": "Server-Wide Challenge - Classic Server Phase 3 Kaku Affix 5 on hit, gain DMG Reduction and remove debuffs",
      "buttonEffect": ""
     },
     {
@@ -93523,7 +93847,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "14250/14789 rows translated so far"
+   "partial": "14304/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
