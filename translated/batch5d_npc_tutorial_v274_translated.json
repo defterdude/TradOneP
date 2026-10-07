@@ -4109,12 +4109,1640 @@
      "defaultDialog": "We must defeat all the pirates at once!!"
     },
     {
+     "id": "5274",
+     "defaultDialog": "Aaaah, unforgivable!!"
+    },
+    {
+     "id": "5275",
+     "defaultDialog": "Hmph! Do I have to do it myself..."
+    },
+    {
+     "id": "5282",
+     "defaultDialog": "Don't even think of running!!!!"
+    },
+    {
+     "id": "5283",
+     "defaultDialog": "Let me defeat the pirates!"
+    },
+    {
+     "id": "5286",
+     "defaultDialog": "Don't let the pirates break through! Keep attacking!!"
+    },
+    {
+     "id": "5290",
+     "defaultDialog": "With me here, you won't escape!!"
+    },
+    {
+     "id": "5294",
+     "defaultDialog": "It's over! Pirates!!"
+    },
+    {
+     "id": "5297",
+     "defaultDialog": "Garp...!!!"
+    },
+    {
+     "id": "5298",
+     "defaultDialog": "I'm a Marine too...!! I also have a duty to protect Marineford!!!"
+    },
+    {
+     "id": "5299",
+     "defaultDialog": "I'm parting ways with you lot! Bastards!"
+    },
+    {
+     "id": "5300",
+     "defaultDialog": "Captain Buggy is crying..."
+    },
+    {
+     "id": "5301",
+     "defaultDialog": "Without realizing it, you formed a bond between men with your rival Whitebeard!"
+    },
+    {
+     "id": "5307",
+     "defaultDialog": "Luffy...!!! Pull yourself together...!!! You can't die!!!"
+    },
+    {
+     "id": "5312",
+     "defaultDialog": "Fire Fist Ace is gone, and Whitebeard is dead! I hate men who won't let go!"
+    },
+    {
+     "id": "5322",
+     "defaultDialog": "The pirates are getting away!!"
+    },
+    {
+     "id": "5329",
+     "defaultDialog": "Let us show you the Marines' justice!"
+    },
+    {
+     "id": "5338",
+     "defaultDialog": "I told you I wouldn't let you escape..."
+    },
+    {
+     "id": "5339",
+     "defaultDialog": "The Marines' victory must be absolute!"
+    },
+    {
+     "id": "5349",
+     "defaultDialog": "With the power of our justice! Wipe them out!"
+    },
+    {
+     "id": "5354",
+     "defaultDialog": "Justice will prevail!!"
+    },
+    {
+     "id": "5358",
+     "defaultDialog": "No pirate leaves here alive!"
+    },
+    {
+     "id": "5361",
+     "defaultDialog": "Iva, let me lend you a hand too!!"
+    },
+    {
+     "id": "5362",
+     "defaultDialog": "Out of the way, Jinbe!!!"
+    },
+    {
+     "id": "5363",
+     "defaultDialog": "Once we're at sea, it's my domain!!!"
+    },
+    {
+     "id": "5365",
+     "defaultDialog": "Looks like you've got nowhere left to run!!! Straw Hat Luffy!!!"
+    },
+    {
+     "id": "5387",
+     "defaultDialog": "I've come... to end this war."
+    },
+    {
+     "id": "5389",
+     "defaultDialog": "Ace!!!!"
+    },
+    {
+     "id": "5390",
+     "defaultDialog": "Simple... if his wounds reopen, he really will die."
+    },
+    {
+     "id": "5393",
+     "defaultDialog": "If we just leave him like this, what will happen..."
+    },
+    {
+     "id": "5394",
+     "defaultDialog": "I wonder if there are any female bears..."
+    },
+    {
+     "id": "5395",
+     "defaultDialog": "...Luffy."
+    },
+    {
+     "id": "5397",
+     "defaultDialog": "Whaaa~~~~~~!!? Old man Rayleigh!!?"
+    },
+    {
+     "id": "5398",
+     "defaultDialog": "Dark King Rayleigh... is it really him...!!"
+    },
+    {
+     "id": "5399",
+     "defaultDialog": "Luffy... you just said you're getting ready to head for Sabaody, right?"
+    },
+    {
+     "id": "5400",
+     "defaultDialog": "I can't even look him in the eye..."
+    },
+    {
+     "id": "5401",
+     "defaultDialog": "Luffy~ you're awake~~~ I was so worried I couldn't sleep all night!"
+    },
+    {
+     "id": "5405",
+     "defaultDialog": "Hey!! Nami, how many have gathered now?"
+    },
+    {
+     "id": "5406",
+     "defaultDialog": "About 100... 3 pirate crews have joined us as whole crews, with 10 wanted criminals in total."
+    },
+    {
+     "id": "5407",
+     "defaultDialog": "Our boss is the son of the Revolutionary Dragon!"
+    },
+    {
+     "id": "5408",
+     "defaultDialog": "Leave this to me... You're an interesting woman."
+    },
+    {
+     "id": "5409",
+     "defaultDialog": "Miss, would you honor me with a drink?"
+    },
+    {
+     "id": "5420",
+     "defaultDialog": "Usopp! Long time no see! What's this~ you've gotten so strong!"
+    },
+    {
+     "id": "5421",
+     "defaultDialog": "And you... you're even more voluptuous than before..."
+    },
+    {
+     "id": "5422",
+     "defaultDialog": "So counting you, 7 people have arrived on the island."
+    },
+    {
+     "id": "5423",
+     "defaultDialog": "What an amazing bunch."
+    },
+    {
+     "id": "5424",
+     "defaultDialog": "I wonder how much more voluptuous Miss Nami has gotten these two years! ❤"
+    },
+    {
+     "id": "5425",
+     "defaultDialog": "Is that Sanji?"
+    },
+    {
+     "id": "5426",
+     "defaultDialog": "That green-haired guy..."
+    },
+    {
+     "id": "5427",
+     "defaultDialog": "What's wrong?"
+    },
+    {
+     "id": "5428",
+     "defaultDialog": "I... got on the wrong ship..."
+    },
+    {
+     "id": "5435",
+     "defaultDialog": "What's this, you've gotten bigger! I bet you're more comfortable to sit on now!"
+    },
+    {
+     "id": "5436",
+     "defaultDialog": "Robin is in danger!"
+    },
+    {
+     "id": "5437",
+     "defaultDialog": "It's true, you feel softer than before~"
+    },
+    {
+     "id": "5438",
+     "defaultDialog": "Sorry to interrupt your reunion, but something's happening on the island."
+    },
+    {
+     "id": "5439",
+     "defaultDialog": "We have to hurry, the Marines are almost here."
+    },
+    {
+     "id": "5440",
+     "defaultDialog": "This body is so cool!"
+    },
+    {
+     "id": "5441",
+     "defaultDialog": "Click... click... click..."
+    },
+    {
+     "id": "5442",
+     "defaultDialog": "Mr. Rayleigh! Shakky!"
+    },
+    {
+     "id": "5443",
+     "defaultDialog": "You're a robot, right! Can you fire beams!"
+    },
+    {
+     "id": "5444",
+     "defaultDialog": "You look lively."
+    },
+    {
+     "id": "5445",
+     "defaultDialog": "Yohohohohoho~~~~~~~!!!"
+    },
+    {
+     "id": "5446",
+     "defaultDialog": "Huh!? I'll, cut you, in a bit"
+    },
+    {
+     "id": "5447",
+     "defaultDialog": "Didn't you hear!? I said \"Marines\"... \"coming\" \"we\" \"back to the ship\"... \"scram\". Got it?"
+    },
+    {
+     "id": "5448",
+     "defaultDialog": "We already found one of the criminals who insulted me! It's this guy!!"
+    },
+    {
+     "id": "5449",
+     "defaultDialog": "This is bad, Captain!"
+    },
+    {
+     "id": "5451",
+     "defaultDialog": "What's with this guy..."
+    },
+    {
+     "id": "5452",
+     "defaultDialog": "That was close!! What are you doing!!!"
+    },
+    {
+     "id": "5470",
+     "defaultDialog": "You can't do that, boss!!"
+    },
+    {
+     "id": "5471",
+     "defaultDialog": "Straw Hat isn't trash like you!!!"
+    },
+    {
+     "id": "5478",
+     "defaultDialog": "No mistake this time!! Long time no see, you two!!"
+    },
+    {
+     "id": "5492",
+     "defaultDialog": "Rayleigh, thanks for these two years."
+    },
+    {
+     "id": "5493",
+     "defaultDialog": "Luffy, hurry up, everyone's waiting on the ship."
+    },
+    {
+     "id": "5494",
+     "defaultDialog": "Rayleigh, thanks for looking after me!!"
+    },
+    {
+     "id": "5496",
+     "defaultDialog": "My apprentice is setting sail. I hope no one gets in his way..."
+    },
+    {
+     "id": "5507",
+     "defaultDialog": "Found them! They're here!"
+    },
+    {
+     "id": "5515",
+     "defaultDialog": "Geez, still dawdling here!?"
+    },
+    {
+     "id": "5516",
+     "defaultDialog": "Someone I've never seen?"
+    },
+    {
+     "id": "5517",
+     "defaultDialog": "I should be asking you, why are you still here!!"
+    },
+    {
+     "id": "5518",
+     "defaultDialog": "Hey...! That looks like...! ♡"
+    },
+    {
      "id": "5520",
      "defaultDialog": "Hey!!!"
     },
     {
+     "id": "5521",
+     "defaultDialog": "I'm first."
+    },
+    {
+     "id": "5522",
+     "defaultDialog": "Nami~~~ Robin~~~~"
+    },
+    {
+     "id": "5523",
+     "defaultDialog": "Luffy!!! Zoro!! Sanji~~"
+    },
+    {
+     "id": "5524",
+     "defaultDialog": "Finally here."
+    },
+    {
+     "id": "5525",
+     "defaultDialog": "Hey!!"
+    },
+    {
+     "id": "5526",
+     "defaultDialog": "You're finally here!"
+    },
+    {
+     "id": "5528",
+     "defaultDialog": "Mr. Luffy!! I missed you so much~~~~~~~!!"
+    },
+    {
+     "id": "5539",
+     "defaultDialog": "How dare you defy Captain Luffy!"
+    },
+    {
+     "id": "5540",
+     "defaultDialog": "I want to become a dust mite..."
+    },
+    {
+     "id": "5541",
+     "defaultDialog": "I shouldn't have been born..."
+    },
+    {
+     "id": "5542",
+     "defaultDialog": "I want to become a sea anemone..."
+    },
+    {
+     "id": "5543",
+     "defaultDialog": "Just let me rot..."
+    },
+    {
+     "id": "5544",
+     "defaultDialog": "Ugh..."
+    },
+    {
+     "id": "5545",
+     "defaultDialog": "I don't deserve to be human..."
+    },
+    {
+     "id": "5546",
+     "defaultDialog": "I'm less useful than a cockroach..."
+    },
+    {
+     "id": "5547",
+     "defaultDialog": "Let me lie here and become moss..."
+    },
+    {
+     "id": "5688",
+     "defaultDialog": "We're finally here, Fish-Man Island!"
+    },
+    {
+     "id": "5689",
+     "defaultDialog": "Camie saved us."
+    },
+    {
+     "id": "5690",
+     "defaultDialog": "I wonder how the others are doing."
+    },
+    {
+     "id": "5691",
+     "defaultDialog": "Mermaids, here I come!"
+    },
+    {
+     "id": "5692",
+     "defaultDialog": "Long time no see!"
+    },
+    {
+     "id": "5693",
+     "defaultDialog": "Welcome!"
+    },
+    {
+     "id": "5694",
+     "defaultDialog": "We welcome pirates!"
+    },
+    {
+     "id": "5695",
+     "defaultDialog": "Come play with us!"
+    },
+    {
+     "id": "5696",
+     "defaultDialog": "Can you swim?"
+    },
+    {
+     "id": "5697",
+     "defaultDialog": "Welcome, everyone!"
+    },
+    {
+     "id": "5698",
+     "defaultDialog": "What a dreamy island..."
+    },
+    {
+     "id": "5699",
+     "defaultDialog": "This is so fun~"
+    },
+    {
+     "id": "5700",
+     "defaultDialog": "This is my All Blue!"
+    },
+    {
+     "id": "5701",
+     "defaultDialog": "I'm so worried about Sanji..."
+    },
+    {
+     "id": "5702",
+     "defaultDialog": "There's someone I have to see!"
+    },
+    {
+     "id": "5703",
+     "defaultDialog": "I... have no regrets now."
+    },
+    {
+     "id": "5704",
+     "defaultDialog": "As expected of..."
+    },
+    {
+     "id": "5718",
+     "defaultDialog": "Stop pretending!"
+    },
+    {
+     "id": "5719",
+     "defaultDialog": "Mermaids are my property!"
+    },
+    {
+     "id": "5723",
+     "defaultDialog": "Meddling comes at a price!"
+    },
+    {
+     "id": "5724",
+     "defaultDialog": "No one stops us from setting sail!"
+    },
+    {
+     "id": "5725",
+     "defaultDialog": "Let me test your strength."
+    },
+    {
+     "id": "5726",
+     "defaultDialog": "I won't go easy on you, okay?"
+    },
+    {
+     "id": "5729",
+     "defaultDialog": "I'm finally free!"
+    },
+    {
+     "id": "5730",
+     "defaultDialog": "Then I'll deal with you first!"
+    },
+    {
+     "id": "5731",
+     "defaultDialog": "Don't think I'm like those idiots..."
+    },
+    {
+     "id": "5732",
+     "defaultDialog": "Today is your last day!"
+    },
+    {
+     "id": "5733",
+     "defaultDialog": "If you can beat me, I might just take your advice."
+    },
+    {
+     "id": "5736",
+     "defaultDialog": "I don't know anything about eating without paying!"
+    },
+    {
+     "id": "5738",
+     "defaultDialog": "You'll regret meddling."
+    },
+    {
+     "id": "5739",
+     "defaultDialog": "I'll teach you a lesson on the boss's behalf!"
+    },
+    {
+     "id": "5740",
+     "defaultDialog": "Bastard, don't try to stop our free-meal lifestyle!"
+    },
+    {
+     "id": "5745",
+     "defaultDialog": "Show me whether you really have the strength!"
+    },
+    {
+     "id": "5755",
+     "defaultDialog": "I told you I won't join you!"
+    },
+    {
+     "id": "5756",
+     "defaultDialog": "Fortune telling... the future... better not to know..."
+    },
+    {
+     "id": "5757",
+     "defaultDialog": "Luckily we met a kind blood donor..."
+    },
+    {
+     "id": "5758",
+     "defaultDialog": "Such a soft touch..."
+    },
+    {
+     "id": "5759",
+     "defaultDialog": "This guy is hopeless..."
+    },
+    {
+     "id": "5760",
+     "defaultDialog": "Is Sanji okay?"
+    },
+    {
+     "id": "5761",
+     "defaultDialog": "I hope we find a blood donor!"
+    },
+    {
+     "id": "5762",
+     "defaultDialog": "I have to hurry and bring Pappag the clams!"
+    },
+    {
+     "id": "5763",
+     "defaultDialog": "A giant mermaid!"
+    },
+    {
+     "id": "5764",
+     "defaultDialog": "I'm worried about Sanji."
+    },
+    {
+     "id": "5766",
+     "defaultDialog": "Come again!"
+    },
+    {
+     "id": "5767",
+     "defaultDialog": "Don't forget me~~~"
+    },
+    {
+     "id": "5768",
+     "defaultDialog": "I missed you all!"
+    },
+    {
+     "id": "5769",
+     "defaultDialog": "Thank goodness!"
+    },
+    {
+     "id": "5770",
+     "defaultDialog": "Aren't clams just shellfish!?"
+    },
+    {
+     "id": "5771",
+     "defaultDialog": "I want meat!"
+    },
+    {
+     "id": "5772",
+     "defaultDialog": "What a big house!"
+    },
+    {
+     "id": "5773",
+     "defaultDialog": "You're just a starfish!!"
+    },
+    {
+     "id": "5774",
+     "defaultDialog": "Yohohoho~~"
+    },
+    {
+     "id": "5775",
+     "defaultDialog": "This is Pappag's house!"
+    },
+    {
+     "id": "5776",
+     "defaultDialog": "Hohoho, surprised?"
+    },
+    {
+     "id": "5777",
+     "defaultDialog": "Today's customers are so difficult."
+    },
+    {
+     "id": "5778",
+     "defaultDialog": "Isn't this shop too expensive!"
+    },
+    {
+     "id": "5779",
+     "defaultDialog": "Nep~~~tu~~~~~ne!!!"
+    },
+    {
+     "id": "5782",
+     "defaultDialog": "Heh heh heh, this place is my treasure island."
+    },
+    {
+     "id": "5783",
+     "defaultDialog": "Run!"
+    },
+    {
+     "id": "5784",
+     "defaultDialog": "Save me!!"
+    },
+    {
+     "id": "5785",
+     "defaultDialog": "The Sea Forest... should be this way..."
+    },
+    {
+     "id": "5786",
+     "defaultDialog": "Straw Hat... get off Fish-Man Island!"
+    },
+    {
+     "id": "5787",
+     "defaultDialog": "Hatchan, your wounds!"
+    },
+    {
+     "id": "5788",
+     "defaultDialog": "What on earth is going on."
+    },
+    {
+     "id": "5789",
+     "defaultDialog": "Lord Luffy..."
+    },
+    {
+     "id": "5791",
+     "defaultDialog": "Don't run, coward!!"
+    },
+    {
+     "id": "5792",
+     "defaultDialog": "Shirahoshi, you're mine!!"
+    },
+    {
+     "id": "5802",
+     "defaultDialog": "Anyway, why do they suddenly want to arrest us."
+    },
+    {
+     "id": "5803",
+     "defaultDialog": "In the end, we beat them all..."
+    },
+    {
+     "id": "5808",
+     "defaultDialog": "This is my castle!"
+    },
+    {
+     "id": "5809",
+     "defaultDialog": "Amazing!!"
+    },
+    {
+     "id": "5810",
+     "defaultDialog": "So magnificent!"
+    },
+    {
+     "id": "5811",
+     "defaultDialog": "There must be lots of treasure!"
+    },
+    {
+     "id": "5812",
+     "defaultDialog": "Yohohoho, is there going to be a banquet?"
+    },
+    {
+     "id": "5813",
+     "defaultDialog": "So this is Ryugu Palace..."
+    },
+    {
+     "id": "5814",
+     "defaultDialog": "The domain of the gods...!"
+    },
+    {
+     "id": "5840",
+     "defaultDialog": "Where's Princess Shirahoshi?"
+    },
+    {
+     "id": "5841",
+     "defaultDialog": "Your Majesty, Prince Fukaboshi has sent word..."
+    },
+    {
+     "id": "5842",
+     "defaultDialog": "It's time to patrol the Hard Shell Tower."
+    },
+    {
+     "id": "5848",
+     "defaultDialog": "The Log Pose is acting strange!"
+    },
+    {
+     "id": "5849",
+     "defaultDialog": "Did we get caught up in something bad again?"
+    },
+    {
+     "id": "5850",
+     "defaultDialog": "I'm hungry."
+    },
+    {
+     "id": "5851",
+     "defaultDialog": "What do we do now..."
+    },
+    {
+     "id": "5852",
+     "defaultDialog": "What have you all done..."
+    },
+    {
+     "id": "5853",
+     "defaultDialog": "The seawater smells like cooking."
+    },
+    {
+     "id": "5865",
+     "defaultDialog": "They're the ones who kidnapped the mermaids!"
+    },
+    {
+     "id": "5866",
+     "defaultDialog": "I knew it was them"
+    },
+    {
+     "id": "5868",
+     "defaultDialog": "Their boss has disappeared!"
+    },
+    {
+     "id": "5869",
+     "defaultDialog": "Their boss must have sneaked off!"
+    },
+    {
+     "id": "5871",
+     "defaultDialog": "Once we find out the truth, I'll release you. But for now..."
+    },
+    {
+     "id": "5872",
+     "defaultDialog": "I hear the festival chants."
+    },
+    {
+     "id": "5873",
+     "defaultDialog": "I'm getting old... my back..."
+    },
+    {
+     "id": "5881",
+     "defaultDialog": "King Neptune..."
+    },
+    {
+     "id": "5882",
+     "defaultDialog": "You dangerous lot!"
+    },
+    {
+     "id": "5885",
+     "defaultDialog": "We'll just have to see it through."
+    },
+    {
+     "id": "5886",
+     "defaultDialog": "What's with these guys!"
+    },
+    {
+     "id": "5887",
+     "defaultDialog": "One after another..."
+    },
+    {
+     "id": "5888",
+     "defaultDialog": "Why do we always end up in the middle of trouble..."
+    },
+    {
+     "id": "5889",
+     "defaultDialog": "This situation is super bad!"
+    },
+    {
+     "id": "5890",
+     "defaultDialog": "Tie me up too..."
+    },
+    {
+     "id": "5893",
+     "defaultDialog": "We're dead if we go back anyway!"
+    },
+    {
+     "id": "5894",
+     "defaultDialog": "These damn Fish-Men!"
+    },
+    {
+     "id": "5895",
+     "defaultDialog": "I've had enough!"
+    },
+    {
+     "id": "5896",
+     "defaultDialog": "Out of the way!!"
+    },
+    {
+     "id": "5897",
+     "defaultDialog": "The gate... where's the gate control..."
+    },
+    {
+     "id": "5898",
+     "defaultDialog": "They are..."
+    },
+    {
+     "id": "5899",
+     "defaultDialog": "That hurts..."
+    },
+    {
+     "id": "5915",
+     "defaultDialog": "What a big present."
+    },
+    {
+     "id": "5916",
+     "defaultDialog": "Where's Princess Shirahoshi!"
+    },
+    {
+     "id": "5917",
+     "defaultDialog": "Kill them!"
+    },
+    {
+     "id": "5922",
+     "defaultDialog": "They're already tied up"
+    },
+    {
+     "id": "5931",
+     "defaultDialog": "My sins are heavy..."
+    },
+    {
+     "id": "5934",
+     "defaultDialog": "Jinbe, if you have anything to explain, we're all ears."
+    },
+    {
+     "id": "5935",
+     "defaultDialog": "Nami-chan..."
+    },
+    {
+     "id": "5936",
+     "defaultDialog": "Boss Jinbe..."
+    },
+    {
+     "id": "5937",
+     "defaultDialog": "Your wounds are okay now, right?"
+    },
+    {
+     "id": "5938",
+     "defaultDialog": "Mother..."
+    },
+    {
+     "id": "5940",
+     "defaultDialog": "It brings tears to my eyes!"
+    },
+    {
+     "id": "5941",
+     "defaultDialog": "So beautiful..."
+    },
+    {
+     "id": "5942",
+     "defaultDialog": "How nostalgic!"
+    },
+    {
+     "id": "5944",
+     "defaultDialog": "Don't get in the way!"
+    },
+    {
+     "id": "5945",
+     "defaultDialog": "You unreasonable brat!"
+    },
+    {
+     "id": "5946",
+     "defaultDialog": "No fighting!"
+    },
+    {
+     "id": "5968",
+     "defaultDialog": "Ah... ah... can't go on like this... ah... ha..."
+    },
+    {
+     "id": "6116",
+     "defaultDialog": "Countless enemies await your challenge here."
+    },
+    {
+     "id": "6123",
+     "defaultDialog": "Artillery Corps! Aim at Shirahoshi!"
+    },
+    {
+     "id": "6124",
+     "defaultDialog": "Boss, a plate of wasabi octopus, hic..."
+    },
+    {
+     "id": "6125",
+     "defaultDialog": "I wonder where Straw Hat and his crew are hiding."
+    },
+    {
+     "id": "6126",
+     "defaultDialog": "Heh heh, Fish-Man Island is about to be reborn."
+    },
+    {
+     "id": "6127",
+     "defaultDialog": "We must rescue Father."
+    },
+    {
+     "id": "6139",
+     "defaultDialog": "Damn Hody..."
+    },
+    {
+     "id": "6140",
+     "defaultDialog": "Count the soldiers and move out at once."
+    },
+    {
+     "id": "6155",
+     "defaultDialog": "For Luffy, I'm willing to become a real monster."
+    },
+    {
+     "id": "6156",
+     "defaultDialog": "When it comes to digging, I won't lose either."
+    },
+    {
+     "id": "6157",
+     "defaultDialog": "Father..."
+    },
+    {
+     "id": "6158",
+     "defaultDialog": "Princess Shirahoshi, this must be a trap."
+    },
+    {
+     "id": "6163",
+     "defaultDialog": "Hody, what are you trying to do!"
+    },
+    {
+     "id": "6174",
+     "defaultDialog": "Lord Luffy! Please save my father!!!"
+    },
+    {
+     "id": "6178",
+     "defaultDialog": "Lord Luffy, so amazing..."
+    },
+    {
+     "id": "6190",
+     "defaultDialog": "If I can't bring back Mama's favorite sweets..."
+    },
+    {
+     "id": "6191",
+     "defaultDialog": "There should have been ten tons of sweets..."
+    },
+    {
+     "id": "6213",
+     "defaultDialog": "Bastard, what are you doing!!"
+    },
+    {
+     "id": "6232",
+     "defaultDialog": "Damn, they came after all."
+    },
+    {
+     "id": "6233",
+     "defaultDialog": "Bring me Fish-Man Island's strongest swordsman!"
+    },
+    {
+     "id": "6234",
+     "defaultDialog": "I won't let you hurt Shirahoshi!"
+    },
+    {
+     "id": "6235",
+     "defaultDialog": "Don't let Princess Shirahoshi get away!"
+    },
+    {
+     "id": "6236",
+     "defaultDialog": "Yohohoho~ I can't let you hurt the mermaid princess."
+    },
+    {
+     "id": "6237",
+     "defaultDialog": "That's just cruel."
+    },
+    {
+     "id": "6238",
+     "defaultDialog": "SUPER! General Franky!!"
+    },
+    {
+     "id": "6239",
+     "defaultDialog": "So cool, General Franky! I can't lose either!!"
+    },
+    {
+     "id": "6240",
+     "defaultDialog": "Calling me weak... I just don't like fighting."
+    },
+    {
+     "id": "6241",
+     "defaultDialog": "A brave warrior of the sea never runs!"
+    },
+    {
+     "id": "6257",
+     "defaultDialog": "Once the trap is dug, victory is mine!"
+    },
+    {
+     "id": "6258",
+     "defaultDialog": "Hody, I'll send you flying for sure!!"
+    },
+    {
+     "id": "6261",
+     "defaultDialog": "...S-so amazing!"
+    },
+    {
+     "id": "6264",
+     "defaultDialog": "Don't come near!"
+    },
+    {
+     "id": "6265",
+     "defaultDialog": "Straw Hat...!"
+    },
+    {
+     "id": "6286",
+     "defaultDialog": "We have the power granted by heaven. Die, Straw Hat!"
+    },
+    {
+     "id": "6287",
+     "defaultDialog": "I'll protect everyone!!"
+    },
+    {
+     "id": "6288",
+     "defaultDialog": "Hody, why can't you understand!!"
+    },
+    {
+     "id": "6294",
+     "defaultDialog": "To harm the princess, you'll have to go through me."
+    },
+    {
+     "id": "6295",
+     "defaultDialog": "Suddenly so huge...! But my strength won't lose."
+    },
+    {
+     "id": "6296",
+     "defaultDialog": "I want to cut more things...!"
+    },
+    {
+     "id": "6297",
+     "defaultDialog": "You're too weak!"
+    },
+    {
+     "id": "6298",
+     "defaultDialog": "The wind blows on the road to the underworld!"
+    },
+    {
+     "id": "6299",
+     "defaultDialog": "Don't get in the way...!"
+    },
+    {
+     "id": "6300",
+     "defaultDialog": "Fool! Take this!"
+    },
+    {
+     "id": "6303",
+     "defaultDialog": "Don't underestimate the power of science ♡"
+    },
+    {
+     "id": "6304",
+     "defaultDialog": "General Franky!"
+    },
+    {
+     "id": "6306",
+     "defaultDialog": "No choice but to go!"
+    },
+    {
+     "id": "6307",
+     "defaultDialog": "Underground, I won't lose to anyone!"
+    },
+    {
+     "id": "6308",
+     "defaultDialog": "This is no time to worry about that."
+    },
+    {
+     "id": "6309",
+     "defaultDialog": "I can't refuse a request from a handsome guy."
+    },
+    {
+     "id": "6311",
+     "defaultDialog": "The Straw Hats were falsely accused..."
+    },
+    {
+     "id": "6312",
+     "defaultDialog": "It's come to this, but we must clear their names."
+    },
+    {
+     "id": "6320",
+     "defaultDialog": "So worrying."
+    },
+    {
+     "id": "6321",
+     "defaultDialog": "Let me help."
+    },
+    {
+     "id": "6322",
+     "defaultDialog": "None of us except Luffy has type F blood, right."
+    },
+    {
+     "id": "6323",
+     "defaultDialog": "Jinbe~!"
+    },
+    {
+     "id": "6324",
+     "defaultDialog": "When will he ever stop making us worry."
+    },
+    {
+     "id": "6325",
+     "defaultDialog": "There must be someone in the plaza, right?"
+    },
+    {
+     "id": "6326",
+     "defaultDialog": "Not a single one?"
+    },
+    {
+     "id": "6334",
+     "defaultDialog": "Great!"
+    },
+    {
+     "id": "6335",
+     "defaultDialog": "Jinbe, join my crew!"
+    },
+    {
+     "id": "6336",
+     "defaultDialog": "Luffy, I'm happy you invited me..."
+    },
+    {
+     "id": "6337",
+     "defaultDialog": "Having a former Warlord in our crew is so reassuring."
+    },
+    {
+     "id": "6339",
+     "defaultDialog": "My heart truly belongs only to my late wife..."
+    },
+    {
+     "id": "6340",
+     "defaultDialog": "Finally, a chance to meet alone."
+    },
+    {
+     "id": "6363",
+     "defaultDialog": "What, hand over ten tons of sweets now..."
+    },
+    {
+     "id": "6364",
+     "defaultDialog": "Has Big Mom's messenger arrived at the factory?"
+    },
+    {
+     "id": "6365",
+     "defaultDialog": "If you'd give us all the treasure...!"
+    },
+    {
+     "id": "6366",
+     "defaultDialog": "All this happened in two years..."
+    },
+    {
+     "id": "6367",
+     "defaultDialog": "Something seems to be there..."
+    },
+    {
+     "id": "6368",
+     "defaultDialog": "I definitely sense a beast."
+    },
+    {
+     "id": "6369",
+     "defaultDialog": "This is worrying."
+    },
+    {
+     "id": "6370",
+     "defaultDialog": "I wonder if they've noticed something."
+    },
+    {
+     "id": "6371",
+     "defaultDialog": "Admirals are the Marines' highest fighting force..."
+    },
+    {
+     "id": "6372",
+     "defaultDialog": "Now I'm in danger!"
+    },
+    {
+     "id": "6373",
+     "defaultDialog": "Whatever comes, I'll send it flying~~"
+    },
+    {
+     "id": "6378",
+     "defaultDialog": "Could you give us a little more time..."
+    },
+    {
+     "id": "6379",
+     "defaultDialog": "I'll make Fish-Man Island my turf!"
+    },
+    {
+     "id": "6380",
+     "defaultDialog": "Hey hey, what kind of woman is Big Mom?"
+    },
+    {
+     "id": "6381",
+     "defaultDialog": "The golden egg is way too small!"
+    },
+    {
+     "id": "6397",
+     "defaultDialog": "We promised, Lord Luffy, everyone!"
+    },
+    {
+     "id": "6401",
+     "defaultDialog": "Yes, thank you truly this time."
+    },
+    {
+     "id": "6402",
+     "defaultDialog": "You're impossible. This is a Log Pose for the New World."
+    },
+    {
+     "id": "6403",
+     "defaultDialog": "A new Log Pose..."
+    },
+    {
+     "id": "6404",
+     "defaultDialog": "Crybaby Star, you sure cry a lot."
+    },
+    {
+     "id": "6423",
+     "defaultDialog": "Can't you stay a little longer, everyone, waaah~"
+    },
+    {
+     "id": "6437",
+     "defaultDialog": "Where's that Crybaby Star??"
+    },
+    {
+     "id": "6444",
+     "defaultDialog": "Next time we meet, I'll be braver!"
+    },
+    {
+     "id": "6465",
+     "defaultDialog": "Artillery Corps, attack!"
+    },
+    {
+     "id": "6601",
+     "defaultDialog": "The volcano's erupting~~!! Amazing~~~!!!"
+    },
+    {
+     "id": "6603",
+     "defaultDialog": "Amazing! A cloud road appeared!!"
+    },
+    {
+     "id": "6604",
+     "defaultDialog": "The New World is scary"
+    },
+    {
+     "id": "6606",
+     "defaultDialog": "A samurai..."
+    },
+    {
+     "id": "6607",
+     "defaultDialog": "The weather is way too terrible!!"
+    },
+    {
+     "id": "6608",
+     "defaultDialog": "I wonder if we can roast something in this sea of fire..."
+    },
+    {
+     "id": "6610",
+     "defaultDialog": "That's right! This is Punk Hazard!!"
+    },
+    {
+     "id": "6612",
+     "defaultDialog": "Did the distress signal come from here..."
+    },
+    {
+     "id": "6613",
+     "defaultDialog": "My stomach hurts... wait for me!!"
+    },
+    {
+     "id": "6614",
+     "defaultDialog": "Who are you."
+    },
+    {
+     "id": "6621",
+     "defaultDialog": "Am I dreaming..."
+    },
+    {
+     "id": "6622",
+     "defaultDialog": "Hard to believe, but is that really a giant dragon?"
+    },
+    {
+     "id": "6623",
+     "defaultDialog": "So cool!!!"
+    },
+    {
+     "id": "6624",
+     "defaultDialog": "Creatures like this can't exist!!!"
+    },
+    {
+     "id": "6625",
+     "defaultDialog": "That guy stuck it in the dragon so perfectly."
+    },
+    {
+     "id": "6627",
+     "defaultDialog": "So the sky over that island really is split in two."
+    },
+    {
+     "id": "6628",
+     "defaultDialog": "I hope Luffy and the others haven't melted."
+    },
+    {
+     "id": "6630",
+     "defaultDialog": "So hot... I'll pretend it's a sauna, that feels better..."
+    },
+    {
+     "id": "6632",
+     "defaultDialog": "So hot... I want shaved ice!"
+    },
+    {
+     "id": "6634",
+     "defaultDialog": "It must still be snowing on the mountain over there."
+    },
+    {
+     "id": "6636",
+     "defaultDialog": "Die!! Intruders!!"
+    },
+    {
+     "id": "6637",
+     "defaultDialog": "Geez... and we'd just become friends."
+    },
+    {
+     "id": "6638",
+     "defaultDialog": "Let's just swim across!"
+    },
+    {
+     "id": "6639",
+     "defaultDialog": "I wonder if they sell winter clothes on the snowy mountain..."
+    },
+    {
+     "id": "6640",
+     "defaultDialog": "No joke... going to the other shore like this, we'd freeze to death..."
+    },
+    {
+     "id": "6641",
+     "defaultDialog": "So scary!!! What on earth is going on!!"
+    },
+    {
+     "id": "6642",
+     "defaultDialog": "So this guy is going to join my crew after all?"
+    },
+    {
+     "id": "6644",
+     "defaultDialog": "Their clothes look really warm..."
+    },
+    {
+     "id": "6646",
+     "defaultDialog": "Anyway, we have to clear up the misunderstanding..."
+    },
+    {
+     "id": "6647",
+     "defaultDialog": "Hmph! Intruders!!"
+    },
+    {
+     "id": "6648",
+     "defaultDialog": "Don't lay a hand on my crewmates!!"
+    },
+    {
+     "id": "6652",
+     "defaultDialog": "That guy is a samurai from Wano..."
+    },
+    {
+     "id": "6653",
+     "defaultDialog": "Hurry! Pursuers are coming!"
+    },
+    {
+     "id": "6654",
+     "defaultDialog": "Let's go!"
+    },
+    {
+     "id": "6655",
+     "defaultDialog": "He can survive as just a head..."
+    },
+    {
+     "id": "6657",
+     "defaultDialog": "How did they escape!!"
+    },
+    {
+     "id": "6659",
+     "defaultDialog": "Aren't those the captured pirates!"
+    },
+    {
+     "id": "6660",
+     "defaultDialog": "I'll hold them back!"
+    },
+    {
+     "id": "6661",
+     "defaultDialog": "Franky's weird body is no joke!"
+    },
+    {
+     "id": "6662",
+     "defaultDialog": "So scary..."
+    },
+    {
+     "id": "6664",
+     "defaultDialog": "It's the pirates from before!!"
+    },
+    {
+     "id": "6666",
+     "defaultDialog": "Don't let them get away!!!"
+    },
+    {
+     "id": "6667",
+     "defaultDialog": "We won't let you escape!!"
+    },
+    {
+     "id": "6668",
+     "defaultDialog": "The robot is so fun!!"
+    },
+    {
+     "id": "6669",
+     "defaultDialog": "The raccoon dog doll is so cute!!"
+    },
+    {
+     "id": "6670",
+     "defaultDialog": "This island is getting more and more mysterious."
+    },
+    {
+     "id": "6671",
+     "defaultDialog": "It's a little raccoon dog!!"
+    },
+    {
+     "id": "6672",
+     "defaultDialog": "It's a robot!!"
+    },
+    {
+     "id": "6673",
+     "defaultDialog": "What's with the frozen people..."
+    },
+    {
+     "id": "6674",
+     "defaultDialog": "I told you I'm a reindeer!!"
+    },
+    {
+     "id": "6675",
+     "defaultDialog": "Why do I have a bad feeling..."
+    },
+    {
+     "id": "6676",
+     "defaultDialog": "These kids are such a nuisance!!!"
+    },
+    {
+     "id": "6678",
+     "defaultDialog": "Damn pirates!"
+    },
+    {
+     "id": "6679",
+     "defaultDialog": "If we hurt the children... the master will be angry..."
+    },
+    {
+     "id": "6681",
+     "defaultDialog": "Miss Nami, so kind only... only to children, is wonderful!"
+    },
+    {
+     "id": "6682",
+     "defaultDialog": "How could I abandon a fan of my Armored Franky!!"
+    },
+    {
+     "id": "6684",
+     "defaultDialog": "Big Sis..."
+    },
+    {
+     "id": "6685",
+     "defaultDialog": "I want to see Mom and Dad..."
+    },
+    {
+     "id": "6686",
+     "defaultDialog": "Swirly-eyebrow big brother."
+    },
+    {
+     "id": "6688",
+     "defaultDialog": "I'm a man!! I'll do my best!!!"
+    },
+    {
+     "id": "6689",
+     "defaultDialog": "Say, what illness do the children have..."
+    },
+    {
+     "id": "6690",
+     "defaultDialog": "Mom, Dad..."
+    },
+    {
+     "id": "6694",
+     "defaultDialog": "The frozen people... so scary..."
+    },
+    {
+     "id": "6695",
+     "defaultDialog": "So scary... don't go in!"
+    },
+    {
+     "id": "6696",
+     "defaultDialog": "Scary..."
+    },
+    {
+     "id": "6697",
+     "defaultDialog": "I don't want to go in..."
+    },
+    {
+     "id": "6702",
+     "defaultDialog": "It's... one of the Seven Warlords of the Sea."
+    },
+    {
+     "id": "6705",
+     "defaultDialog": "We get to see Mom and Dad!!"
+    },
+    {
+     "id": "6708",
+     "defaultDialog": "We finally escaped!!"
+    },
+    {
+     "id": "6709",
+     "defaultDialog": "We're almost out!!"
+    },
+    {
+     "id": "6731",
+     "defaultDialog": "How did we run into the Marines!"
+    },
+    {
+     "id": "6736",
+     "defaultDialog": "No one escapes"
+    },
+    {
+     "id": "6738",
+     "defaultDialog": "D... damn..."
+    },
+    {
+     "id": "6760",
+     "defaultDialog": "Master~~~~~~!!!"
+    },
+    {
+     "id": "6761",
+     "defaultDialog": "Shurororororo!! Good children!!!"
+    },
+    {
+     "id": "6775",
+     "defaultDialog": "Intruders! Over here!!"
+    },
+    {
+     "id": "6776",
+     "defaultDialog": "Why do I have a bad feeling..."
+    },
+    {
+     "id": "6777",
+     "defaultDialog": "Are you guys robbers!!!"
+    },
+    {
+     "id": "6813",
+     "defaultDialog": "What kind of guy is that!!"
+    },
+    {
+     "id": "6832",
+     "defaultDialog": "Luffy will never let you get away with this!!"
+    },
+    {
+     "id": "6836",
+     "defaultDialog": "Waaaah, how did they get out!!"
+    },
+    {
+     "id": "6838",
+     "defaultDialog": "We lost contact with the boss. Let's check the cave ahead."
+    },
+    {
+     "id": "6839",
+     "defaultDialog": "How did you get here?!"
+    },
+    {
+     "id": "6840",
+     "defaultDialog": "My friend got lost. I have to find him fast."
+    },
+    {
+     "id": "6841",
+     "defaultDialog": "Pirates! You can't escape!!"
+    },
+    {
+     "id": "6842",
+     "defaultDialog": "Damn! Was the last one defeated"
+    },
+    {
+     "id": "6843",
+     "defaultDialog": "Damn, my comrades are being defeated one after another..."
+    },
+    {
+     "id": "6858",
+     "defaultDialog": "Aaaah, stay away!"
+    },
+    {
+     "id": "6859",
+     "defaultDialog": "Anyone, please come save us!!"
+    },
+    {
+     "id": "6861",
+     "defaultDialog": "Strongest Right Hand!!!!"
+    },
+    {
+     "id": "6864",
+     "defaultDialog": "Straw Hat! I won't let you run wild!!"
+    },
+    {
      "id": "6875",
      "defaultDialog": "Shurororororo..."
+    },
+    {
+     "id": "6876",
+     "defaultDialog": "I won't abandon my comrades!"
+    },
+    {
+     "id": "6877",
+     "defaultDialog": "Thank you!!"
+    },
+    {
+     "id": "6879",
+     "defaultDialog": "Don't run! Stop right there!!"
+    },
+    {
+     "id": "6880",
+     "defaultDialog": "I miss Mom and Dad!"
+    },
+    {
+     "id": "6881",
+     "defaultDialog": "To get home, I have to be brave!"
+    },
+    {
+     "id": "6882",
+     "defaultDialog": "What will happen to us from now on..."
+    },
+    {
+     "id": "6883",
+     "defaultDialog": "I hope things will get better..."
+    },
+    {
+     "id": "6884",
+     "defaultDialog": "I feel like I've used up all my luck"
+    },
+    {
+     "id": "6885",
+     "defaultDialog": "For the children!"
     },
     {
      "id": "9561",
@@ -4130,7 +5758,7 @@
     }
    ],
    "other_bundle_rows": [],
-   "partial": "1029/1842 rows translated so far"
+   "partial": "1436/1842 rows translated so far"
   },
   "TableGuideStepExtra": {
    "key_column": "tag",
