@@ -84817,6 +84817,78 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301587",
+     "skillName": "Wind Elemental Enhancement",
+     "skillDesc": "When casting <color=#d14e0d>Second Personality: Rommel's Kamaitachi</color>, own <color=#d14e0d>Wind damage</color> increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301588",
+     "skillName": "Ultimate Extension",
+     "skillDesc": "Enters Ultimate Extension: <color=#d14e0d>ATK, SPD and Dodge</color> +<color=#d14e0d>{buffper1}%</color>, and all skills <color=#d14e0d>always CRIT</color>, for <color=#d14e0d>2</color> turns.$Enters Ultimate Extension: <color=#d14e0d>ATK, SPD and Dodge</color> +<color=#d14e0d>{buffper1}%</color>, and all skills' <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1,14927}%</color>, for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301589",
+     "skillName": "Wicked Blade",
+     "skillDesc": "Each time <color=#d14e0d>Ultimate Extension</color> is entered, all damage +<color=#d14e0d>{buffper1}%</color>, up to <color=#d14e0d>150%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301590",
+     "skillName": "Suppression",
+     "skillDesc": "When casting <color=#d14e0d>Fierce Sword: Chain Slash</color>, if the target's <color=#d14e0d>Max HP</color> is lower than his own, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>always hit</color> and be unable to be <color=#d14e0d>Blocked</color>.$When casting <color=#d14e0d>Fierce Sword: Chain Slash</color>, if the target's <color=#d14e0d>Max HP</color> is lower than his own, own <color=#d14e0d>Accuracy and Pierce</color> +<color=#d14e0d>{buffper1,14924}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301591",
+     "skillName": "Execute",
+     "skillDesc": "When casting <color=#d14e0d>Fierce Sword: Spatial Cut</color>, its debuffs have a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>ignore immunity</color>.$When casting <color=#d14e0d>Fierce Sword: Spatial Cut</color>, the skill's <color=#d14e0d>all damage</color> +<color=#d14e0d>{buffper1,14925}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301592",
+     "skillName": "Loss of Control",
+     "skillDesc": "When casting <color=#d14e0d>Fierce Sword: Spatial Cut</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to consume no <color=#d14e0d>Rage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301593",
+     "skillName": "Homicidal Sleepwalking",
+     "skillDesc": "All skills deal <color=#d14e0d>Wind damage</color> based on range. At battle start, Cavendish has a <color=#d14e0d>{buffodds}%</color> chance to directly enter <color=#d14e0d>Ultimate Extension</color>, with the stats it grants <color=#d14e0d>doubled</color> and immunity to all <color=#d14e0d>control</color>, but the state lasts only <color=#d14e0d>1 turn</color>.$All skills deal <color=#d14e0d>Wind damage</color> based on range. At battle start, Cavendish has a <color=#d14e0d>{buffodds}%</color> chance to directly enter <color=#d14e0d>Ultimate Extension</color>, with the <color=#d14e0d>ATK, SPD and Dodge</color> bonuses it grants <color=#d14e0d>doubled</color>, but the state lasts only <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301594",
+     "skillName": "Dazzling Entrance",
+     "skillDesc": "The <color=#d14e0d>first skill</color> after entering <color=#d14e0d>Ultimate Extension</color> applies <color=#d14e0d>Opening</color> to the target, increasing its <color=#d14e0d>CRIT DMG</color> taken by <color=#d14e0d>{buffper1,13151}%</color> for <color=#d14e0d>2 turns</color>. For every <color=#d14e0d>2 skill CRITs</color> taken under <color=#d14e0d>Opening</color>, it loses <color=#d14e0d>{buffper2}%</color> of its <color=#d14e0d>Max HP</color>; <color=#d14e0d>Opening</color> triggered by Cavendish counts double, and <color=#d14e0d>Max HP</color> can be reduced by up to <color=#d14e0d>50%</color>. This effect cannot be blocked or removed, and only applies in PvP.$The <color=#d14e0d>first skill</color> after entering <color=#d14e0d>Ultimate Extension</color> applies <color=#d14e0d>Opening</color> to the target, increasing its <color=#d14e0d>CRIT DMG</color> taken by <color=#d14e0d>{buffper2,13151}%</color> for <color=#d14e0d>2 turns</color>. For every <color=#d14e0d>2 skill CRITs</color> taken under <color=#d14e0d>Opening</color>, it loses <color=#d14e0d>{buffper2}%</color> of its <color=#d14e0d>Max HP</color>; <color=#d14e0d>Opening</color> triggered by Cavendish counts double, and <color=#d14e0d>Max HP</color> can be reduced by up to <color=#d14e0d>50%</color>. This effect cannot be blocked or removed, and only applies in PvP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301595",
+     "skillName": "Swordsmanship Genius",
+     "skillDesc": "When Cavendish <color=#d14e0d>CRITs</color>, he applies <color=#d14e0d>1 stack of Shadow Follower</color> to a random <color=#d14e0d>1</color> character in the 3x3 area around him, raising that character's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> of Cavendish's and making its skills <color=#d14e0d>always CRIT</color>. Each <color=#d14e0d>1 CRIT</color> by that character removes <color=#d14e0d>1 stack of Shadow Follower</color>; stacks up to <color=#d14e0d>3</color>, lasting <color=#d14e0d>1 turn</color>.$When Cavendish <color=#d14e0d>CRITs</color>, he applies <color=#d14e0d>1 stack of Shadow Follower</color> to a random <color=#d14e0d>1</color> character in the 3x3 area around him, raising that character's <color=#d14e0d>SPD</color> by <color=#d14e0d>{buffper1}%</color> of Cavendish's, and its skills gain <color=#d14e0d>CRIT Rate</color> +<color=#d14e0d>{buffper1,14929}%</color> and <color=#d14e0d>CRIT DMG</color> +<color=#d14e0d>{buffper2,14929}%</color>. Each time that character <color=#d14e0d>attacks with a skill</color>, it removes <color=#d14e0d>1 stack of Shadow Follower</color>; stacks up to <color=#d14e0d>3</color>, lasting <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301596",
+     "skillName": "Second Personality",
+     "skillDesc": "Gains <color=#d14e0d>3</color> extra <color=#d14e0d>Soul Jade</color> and <color=#d14e0d>20</color> <color=#d14e0d>Rage</color> each turn. When taking lethal damage, he does not die immediately and fully evades all <color=#d14e0d>damage and debuffs</color>, recovering <color=#d14e0d>{buffper1}%</color> of <color=#d14e0d>Max HP</color> per evasion, <color=#d14e0d>until his next action</color>. Takes effect at most <color=#d14e0d>1 time</color> per battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301597",
+     "skillName": "Pirate Prince",
+     "skillDesc": "A single hit on Cavendish cannot exceed <color=#d14e0d>30% of Max HP</color>. When a hit reaches <color=#d14e0d>30%</color>, there is a <color=#d14e0d>{buffper1,13152}%</color> chance to interrupt the enemy's action; on success, he moves to a <color=#d14e0d>random empty allied tile</color>.$A single hit on Cavendish cannot exceed <color=#d14e0d>30% of Max HP</color>. When a hit reaches <color=#d14e0d>30%</color>, there is a <color=#d14e0d>{buffper2,13152}%</color> chance to interrupt the enemy's action; on success, he moves to a <color=#d14e0d>random empty allied tile</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301598",
+     "skillName": "Durandal",
+     "skillDesc": "At battle start, <color=#d14e0d>all damage and all DMG reduction</color> +<color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>ATK, SPD, CRIT, Dodge and Max HP</color> +<color=#d14e0d>{buffper2}%</color>, and Cavendish's <color=#d14e0d>SPD</color> cannot be reduced.$At battle start, <color=#d14e0d>all damage and all DMG reduction</color> +<color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>ATK, SPD, CRIT, Dodge and Max HP</color> +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301599",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
@@ -84856,6 +84928,78 @@
      "skillId": "301605",
      "skillName": "Speed Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301606",
+     "skillName": "Command: Armor Break",
+     "skillDesc": "When casting <color=#d14e0d>Vicious Doll</color>, there is a <color=#d14e0d>{buffodds}%</color> chance that damage dealt to enemies with debuffs gains <color=#d14e0d>DMG Bonus</color> +<color=#d14e0d>100%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301607",
+     "skillName": "Command: Control",
+     "skillDesc": "Gives <color=#d14e0d>Doll Charge</color> the <color=#d14e0d>Debilitation</color> effect, reducing all damage dealt by the target by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301608",
+     "skillName": "Collapse",
+     "skillDesc": "Gives <color=#d14e0d>Giant Soldier Charge</color> the <color=#d14e0d>Collapse</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>randomly change</color> the target's position.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301609",
+     "skillName": "Transform",
+     "skillDesc": "Makes <color=#d14e0d>Playful Slap</color> always hit and gives it the <color=#d14e0d>Transform</color> effect, with a <color=#d14e0d>{buffodds}%</color> chance to turn the target into <color=#d14e0d>a toy that fights for our side</color> (PvP only) <color=#d14e0d>until Sugar's next action</color>; the toy disappears when the effect ends.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301610",
+     "skillName": "Playful",
+     "skillDesc": "When casting <color=#d14e0d>Doll March</color>, our toys and Trebol recover <color=#d14e0d>{buffper1}%</color> of Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301611",
+     "skillName": "Strength in Numbers",
+     "skillDesc": "When casting <color=#d14e0d>Doll March</color>, <color=#d14e0d>DMG Bonus</color> +<color=#d14e0d>{buffper1}%</color> for each toy on our side (including <color=#d14e0d>Trebol</color>).",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301612",
+     "skillName": "Club Officer",
+     "skillDesc": "At battle start, Sugar summons <color=#d14e0d>Trebol</color> in front of herself, inheriting <color=#d14e0d>all of Sugar's stats</color>, with <color=#d14e0d>HP, DEF, all DMG reduction and Tenacity</color> +<color=#d14e0d>{buffper1}%</color> extra. A single skill hit on <color=#d14e0d>Trebol</color> cannot exceed <color=#d14e0d>15% of his HP</color>. When Sugar is hit, <color=#d14e0d>80% of the damage</color> is taken by <color=#d14e0d>Trebol</color>. When Sugar takes <color=#d14e0d>lethal damage</color>, she does not die immediately, <color=#d14e0d>interrupts the enemy's action</color> and recovers <color=#d14e0d>{buffper2}%</color> of Max HP, while Trebol leaves the field. Triggers at most <color=#d14e0d>1 time</color> per battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301613",
+     "skillName": "Hobby-Hobby Fruit",
+     "skillDesc": "When a <color=#d14e0d>non-summon ally</color> is defeated, Sugar has a <color=#d14e0d>{buffodds}%</color> chance to summon 1 <color=#d14e0d>Head Clamp toy</color> at a random position, inheriting <color=#d14e0d>all stats</color> of the fallen character, up to <color=#d14e0d>2 times</color> per battle. When hit, the Head Clamp <color=#d14e0d>ignores CRIT Rate and is immune to debuffs</color>; when attacking, it <color=#d14e0d>ignores the target's DEF and DMG reduction</color> and has a <color=#d14e0d>{buffper1}%</color> chance to deal <color=#d14e0d>3x</color> damage, with the <color=#d14e0d>chance doubled</color> against enemies with <color=#d14e0d>Sticky</color>.$When a <color=#d14e0d>non-summon ally</color> is defeated, Sugar has a <color=#d14e0d>{buffodds}%</color> chance to summon 1 <color=#d14e0d>Head Clamp toy</color> at a random position, inheriting <color=#d14e0d>all stats</color> of the fallen character, up to <color=#d14e0d>2 times</color> per battle. When hit, the Head Clamp gains <color=#d14e0d>+100% Tenacity and is immune to debuffs</color>; when attacking, it <color=#d14e0d>ignores the target's DEF and DMG reduction</color> and has a <color=#d14e0d>{buffper1}%</color> chance to deal <color=#d14e0d>3x</color> damage, with the <color=#d14e0d>chance doubled</color> against enemies with <color=#d14e0d>Sticky</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301614",
+     "skillName": "Toy Creation",
+     "skillDesc": "Sugar is <color=#d14e0d>immune to Soul Jade and Rage reduction</color>, and at the start of each turn has a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>3</color> extra Soul Jade and <color=#d14e0d>20</color> Rage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301615",
+     "skillName": "Secret Trump Card",
+     "skillDesc": "After battle starts, <color=#d14e0d>all DMG Bonus and all DMG reduction</color> +<color=#d14e0d>{buffper2}%</color>, <color=#d14e0d>ATK, Max HP, SPD and Accuracy</color> +<color=#d14e0d>{buffper3}%</color>, and Sugar recovers <color=#d14e0d>{buffper1}%</color> of Max HP each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301616",
+     "skillName": "Legion Command",
+     "skillDesc": "At turn start, Sugar applies <color=#d14e0d>Command</color> to allies in <color=#d14e0d>the 3x3 area around her</color>, increasing all DMG Bonus by <color=#d14e0d>{buffper1}%</color>, with <color=#d14e0d>the bonus doubled</color> for toys and Trebol, for <color=#d14e0d>1</color> turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301617",
+     "skillName": "Toy Army",
+     "skillDesc": "After battle starts, Sugar's <color=#d14e0d>Healing Bonus and healing received</color> +<color=#d14e0d>{buffper1}%</color>, and Sugar, the toys and Trebol are <color=#d14e0d>immune to Healing Reduction</color>.",
      "buttonEffect": ""
     },
     {
@@ -84901,9 +85045,93 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301625",
+     "skillName": "Sticky",
+     "skillDesc": "When Trebol casts <color=#d14e0d>Sticky Cannon</color>, it applies <color=#d14e0d>Sticky</color>, reducing the target's <color=#d14e0d>SPD and Dodge</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301626",
+     "skillName": "Flammable",
+     "skillDesc": "When Trebol casts <color=#d14e0d>Sticky Cannon</color>, it applies <color=#d14e0d>Flammable</color>, reducing the target's <color=#d14e0d>Fire RES</color> by <color=#d14e0d>{buffper1}%</color> and making it lose <color=#d14e0d>10% of current HP</color> at turn start (PvP only), for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301715",
      "skillName": "Unshakable",
      "skillDesc": "At　the　start　of　the　first　two　turns,　consume　<color=#d14e0d>{buffper2}%</color>　HP　to　enter　<color=#d14e0d>Unyielding</color>　until　turn　end.　Any　<color=#d14e0d>HP　loss　or　healing</color>　taken　then　resolves　when　the　state　ends,　leaving　at　least　1　HP.　In　<color=#d14e0d>Unyielding</color>,　young　Whitebeard　<color=#d14e0d>ignores　all　Damage　Reduction</color>　and　raises　<color=#d14e0d>Fortitude　and　Block</color>　by　<color=#d14e0d>{buffper3}%</color>.$At　the　start　of　the　first　two　turns,　consume　<color=#d14e0d>{buffper2}%</color>　HP　to　enter　<color=#d14e0d>Unyielding</color>　until　turn　end.　Any　<color=#d14e0d>HP　loss　or　healing</color>　taken　then　resolves　when　the　state　ends,　leaving　at　least　1　HP.　In　<color=#d14e0d>Unyielding</color>,　raise　<color=#d14e0d>Fortitude,　Block,　and　All　Damage　Reduction</color>　by　<color=#d14e0d>{buffper3}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301728",
+     "skillName": "Bleed",
+     "skillDesc": "Gives <color=#d14e0d>Leg Pistol</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>2 stacks of Bleed</color>: enemies with <color=#d14e0d>Bleed</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301729",
+     "skillName": "Weaken",
+     "skillDesc": "When casting <color=#d14e0d>Pistol Girl</color>, applies <color=#d14e0d>Weaken</color>, reducing the target's <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.$When casting <color=#d14e0d>Pistol Girl</color>, applies <color=#d14e0d>Weaken</color>, reducing the target's <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1,14579}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301730",
+     "skillName": "Burn",
+     "skillDesc": "Gives <color=#d14e0d>Flame Girl</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>2 stacks of Burn</color>: enemies with <color=#d14e0d>Burn</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301731",
+     "skillName": "Reassemble",
+     "skillDesc": "When casting <color=#d14e0d>Heavy Shot</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to consume 1 stack of <color=#d14e0d>Modification</color> to <color=#d14e0d>reset this skill's cooldown</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301732",
+     "skillName": "Modify",
+     "skillDesc": "When casting <color=#d14e0d>Heavy Shot</color>, removes the <color=#d14e0d>Bleed, Weaken and Burn</color> applied by Baby 5 to the target; each type removed permanently reduces the target's <color=#d14e0d>DEF and DMG reduction</color> by <color=#d14e0d>{buffper1}%</color>.$When casting <color=#d14e0d>Heavy Shot</color>, removes the <color=#d14e0d>Bleed, Weaken and Burn</color> applied by Baby 5 to the target; each type removed reduces the target's <color=#d14e0d>DEF and DMG reduction</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301733",
+     "skillName": "Damage Increase",
+     "skillDesc": "When casting <color=#d14e0d>Missile Girl</color>, if fewer than <color=#d14e0d>5</color> enemies are alive, each <color=#d14e0d>1</color> fewer increases this skill's <color=#d14e0d>all DMG Bonus</color> by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301734",
+     "skillName": "Unrefusable",
+     "skillDesc": "At action end, if Modification reaches <color=#d14e0d>6 stacks</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to clear all <color=#d14e0d>Modification</color> and cast the skill <color=#d14e0d>I'm Needed</color> <color=#d14e0d>at no cost</color>, with <color=#d14e0d>its effect increased 2x</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301735",
+     "skillName": "Flame of Passion",
+     "skillDesc": "When casting her Ultimate, there is a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>2 stacks of Modification</color>; when Baby 5 attacks targets with <color=#d14e0d>debuffs</color>, she deals an extra <color=#d14e0d>{buffper1}%</color> <color=#d14e0d>Fire damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301736",
+     "skillName": "Arms-Arms Fruit",
+     "skillDesc": "At turn start, there is a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>1 stack of Modification</color>; each <color=#d14e0d>Modification</color> stack increases Baby 5's <color=#d14e0d>ATK</color> by <color=#d14e0d>{buffper1}%</color> when casting her Ultimate, stacking up to <color=#d14e0d>6</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301737",
+     "skillName": "Gentle as Water",
+     "skillDesc": "After being attacked, if her HP is below 50%, there is a <color=#d14e0d>{buffodds}%</color> chance to enter the <color=#d14e0d>Repair</color> state, in which <color=#d14e0d>damage taken is converted into HP</color>. She exits <color=#d14e0d>Repair</color> when HP is <color=#d14e0d>above 80% or after Baby 5's next action</color>; each 1 time she enters it, the threshold for the next <color=#d14e0d>Repair</color> <color=#d14e0d>drops by 20%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301738",
+     "skillName": "Assassin Maid",
+     "skillDesc": "At turn start, gains <color=#d14e0d>3</color> extra Soul Jade and <color=#d14e0d>50</color> Rage. While Baby 5 is on the field, all our <color=#d14e0d>male characters' CRIT DMG and Accuracy</color> +<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301739",
+     "skillName": "Focus Fire",
+     "skillDesc": "After battle starts, <color=#d14e0d>ATK, SPD and Max HP</color> +<color=#d14e0d>{buffper1}%</color>, and <color=#d14e0d>all DMG Bonus and all DMG reduction</color> +<color=#d14e0d>{buffper2}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -84946,6 +85174,78 @@
      "skillId": "301746",
      "skillName": "DMG Reduction Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301747",
+     "skillName": "Dark Elemental Damage",
+     "skillDesc": "Adds <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to <color=#d14e0d>Ghost Shuttle</color>. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301748",
+     "skillName": "Spiritization",
+     "skillDesc": "When casting <color=#d14e0d>Mini Ghosts</color>, converts own <color=#d14e0d>Ghosts</color> into <color=#d14e0d>Spirit Form</color>; each stack increases own <color=#d14e0d>ATK and SPD</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>3 turns</color>, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301749",
+     "skillName": "Clone",
+     "skillDesc": "When casting <color=#d14e0d>Giant Ghost</color> with 3 Ghost stacks, there is a <color=#d14e0d>{buffodds}%</color> chance to consume 3 Ghost stacks and summon a <color=#d14e0d>Ghost Clone</color> at a random position on the enemy field. When the <color=#d14e0d>Ghost Clone</color> is attacked, each enemy character <color=#d14e0d>shares 30% of the damage (not exceeding 200% of its own ATK)</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301750",
+     "skillName": "Spirit Assault",
+     "skillDesc": "When casting <color=#d14e0d>Ghost Ambush</color>, <color=#d14e0d>all DMG Bonus</color> +<color=#d14e0d>{buffper1}%</color>; if the target is slower than Perona, <color=#d14e0d>clears its Soul Jade and Rage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301751",
+     "skillName": "Dark Elemental Damage",
+     "skillDesc": "Adds <color=#d14e0d>Dark damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK to <color=#d14e0d>Rampaging Ghost Swarm</color>. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301752",
+     "skillName": "Dark Wound Amplification",
+     "skillDesc": "Each time an <color=#d14e0d>Ultimate</color> is cast, the next Ultimate's <color=#d14e0d>Dark damage</color> is permanently increased by <color=#d14e0d>{buffper1}%</color>, stackable.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301753",
+     "skillName": "Ghost Command",
+     "skillDesc": "At battle start, gains <color=#d14e0d>2 stacks of Ghost</color>. At the end of Perona's action, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>reduce all Finisher cooldowns by 1</color>. In <color=#d14e0d>non-PvP</color> battles, the Ghost Clone's <color=#d14e0d>Max HP</color> +<color=#d14e0d>{buffper1}%</color> extra; in <color=#d14e0d>PvP</color>, when the Ghost Clone is defeated, it deals <color=#d14e0d>{buffper2}%</color> True Damage to <color=#d14e0d>all enemies</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301754",
+     "skillName": "Ghost Clone",
+     "skillDesc": "At battle start and <color=#d14e0d>whenever an enemy character is defeated</color>, Perona has a <color=#d14e0d>{buffodds}%</color> chance to summon a <color=#d14e0d>Ghost Clone</color> at a random position on the enemy field. When the <color=#d14e0d>Ghost Clone</color> is attacked, each enemy character <color=#d14e0d>shares 30% of the damage (not exceeding 200% of its own ATK)</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301755",
+     "skillName": "Ghost Swarm",
+     "skillDesc": "At turn start, there is a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>1 stack of Ghost</color>; when fewer than <color=#d14e0d>5</color> enemies are alive, each <color=#d14e0d>1</color> fewer grants <color=#d14e0d>1</color> more, up to <color=#d14e0d>4 stacks</color>. While Perona is on the field, each Ghost stack grants all allies <color=#d14e0d>SPD +5% and ATK +10%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301756",
+     "skillName": "Ghost Princess",
+     "skillDesc": "At action end, there is a <color=#d14e0d>{buffodds}%</color> chance to possess <color=#d14e0d>a random teammate</color> (prioritizing the one in front) until Perona's next action. When leaving <color=#d14e0d>Possession</color>, Perona's position <color=#d14e0d>changes randomly</color>. If the possessed teammate takes <color=#d14e0d>lethal damage or is removed</color>, Perona exits <color=#d14e0d>Possession</color> early and cannot possess again this battle. When <color=#d14e0d>not possessing</color>, Perona's <color=#d14e0d>SPD</color> +<color=#d14e0d>10%</color>; while <color=#d14e0d>possessing</color>, the possessed target's <color=#d14e0d>SPD</color> +<color=#d14e0d>10%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301757",
+     "skillName": "Spirit of Despair",
+     "skillDesc": "At battle start, <color=#d14e0d>ATK, SPD and Accuracy</color> +<color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>Max HP, all DMG Bonus and all DMG reduction</color> +<color=#d14e0d>{buffper3}%</color>; at turn start, gains <color=#d14e0d>3</color> extra Soul Jade and <color=#d14e0d>20</color> Rage. When Perona attacks <color=#d14e0d>targets slower than herself</color>, she deals an extra <color=#d14e0d>100% Dark damage</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301758",
+     "skillName": "Spirit Float",
+     "skillDesc": "Perona is <color=#d14e0d>immune to Dark damage</color> and <color=#d14e0d>her SPD cannot be reduced</color>. Each time she receives a <color=#d14e0d>debuff</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to increase own <color=#d14e0d>Dark damage</color> by <color=#d14e0d>10%.</color>",
      "buttonEffect": ""
     },
     {
@@ -84997,9 +85297,87 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301788",
+     "skillName": "All-Out Effort",
+     "skillDesc": "After casting <color=#d14e0d>Gum-Gum Elephant Gatling</color>, there is a <color=#d14e0d>{buffodds}%</color> chance that Luffy's attacks next turn <color=#d14e0d>cannot be Blocked</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301789",
+     "skillName": "Stun",
+     "skillDesc": "Gives <color=#d14e0d>Gum-Gum Grizzly Magnum</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Stun</color>, leaving the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301790",
+     "skillName": "Unstoppable",
+     "skillDesc": "When casting <color=#d14e0d>King Kong Gatling</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>remove all debuffs</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301791",
+     "skillName": "Ultimate Extension",
+     "skillDesc": "Enters Ultimate Extension, recovering <color=#d14e0d>{buffper1}%</color> of Max HP and switching attack targeting to <color=#d14e0d>opposing position first</color> for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301792",
+     "skillName": "Damage Increase",
+     "skillDesc": "When casting <color=#d14e0d>Kong Gatling</color>, all allies' DMG Bonus +<color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301793",
+     "skillName": "One Fell Swoop",
+     "skillDesc": "When casting <color=#d14e0d>Gear Fourth: Kong Gun</color>, the skill <color=#d14e0d>cannot be Dodged</color>, with a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Execute</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301794",
+     "skillName": "Braver with Every Fight",
+     "skillDesc": "On hit, there is a <color=#d14e0d>{buffodds}%</color> chance to permanently gain <color=#d14e0d>1</color> stack of <color=#d14e0d>Courage</color>, up to <color=#d14e0d>2</color>. Hitting <color=#d14e0d>without Courage</color> makes the target <color=#d14e0d>deal no damage and apply no debuffs</color> on its next action; hitting with <color=#d14e0d>1</color> Courage <color=#d14e0d>forcibly Stuns the target for 1 turn</color>; hitting with <color=#d14e0d>2</color> Courage consumes all Courage, <color=#d14e0d>removes the target from battle</color>, exits <color=#d14e0d>Ultimate Extension</color> and enters <color=#d14e0d>Weakened</color>, and only <color=#d14e0d>Counterattack Opportunity</color> can trigger this turn (the above effects only apply in PvP)",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301795",
+     "skillName": "Reinforced Gear Shift",
+     "skillDesc": "During the Ultimate and Extension state, <color=#d14e0d>ATK, damage and CRIT</color> +<color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>SPD and Accuracy</color> +<color=#d14e0d>{buffper2}%</color>, and <color=#d14e0d>ignores the target's DMG reduction and armor</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301796",
      "skillName": "Power Surge",
      "skillDesc": "<color=#d14e0d>Max HP</color>, <color=#d14e0d>DMG reduction</color> and <color=#d14e0d>Tenacity</color> +<color=#d14e0d>{buffper1}%</color>; in Ultimate Extension, <color=#d14e0d>the DMG reduction and Tenacity bonuses are doubled</color>, and he recovers <color=#d14e0d>{buffper2}%</color> of Max HP each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301797",
+     "skillName": "Fistfight Enhancement",
+     "skillDesc": "Gains <color=#d14e0d>{buffval1}</color> Rage and <color=#d14e0d>3</color> Soul Jade at turn start; in Ultimate Extension, gains <color=#d14e0d>2</color> extra Soul Jade each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301798",
+     "skillName": "Rubber Man",
+     "skillDesc": "<color=#d14e0d>Thunder and Poison</color> RES +<color=#d14e0d>{buffper1}%</color>; in Ultimate Extension, <color=#d14e0d>immune to Thunder and Poison damage</color>, and other Attribute RES +<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301799",
+     "skillName": "'Straw Hat' Captain",
+     "skillDesc": "After battle starts, Luffy has a <color=#d14e0d>{buffodds}%</color> chance to be <color=#d14e0d>immune to Knock-Up and Knockback</color>, and each <color=#d14e0d>Straw Hat crewmate</color> increases Luffy's <color=#d14e0d>DMG reduction</color> by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301800",
+     "skillName": "Free-Spirited Adventurer",
+     "skillDesc": "Luffy is <color=#d14e0d>immune to control</color> effects, and his SPD increases by <color=#d14e0d>{attributeper}%</color>, <color=#d14e0d>doubled</color> on the first turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301801",
+     "skillName": "Straw Hat Spirit",
+     "skillDesc": "In <color=#d14e0d>normal state</color>, Luffy only takes <color=#d14e0d>single-target damage</color> and is immune to <color=#d14e0d>shared damage</color>. In <color=#d14e0d>Ultimate Extension</color>, when taking <color=#d14e0d>lethal damage</color>, he <color=#d14e0d>interrupts the enemy's action</color>, removes own <color=#d14e0d>debuffs</color>, <color=#d14e0d>recovers 100% HP</color>, and gains <color=#d14e0d>{buffper1}%</color> <color=#d14e0d>Haste</color> for <color=#d14e0d>2</color> turns; triggers only <color=#d14e0d>1</color> time per <color=#d14e0d>Ultimate Extension</color>. Luffy is <color=#d14e0d>Invincible on the first turn</color>.",
      "buttonEffect": ""
     },
     {
@@ -92437,7 +92815,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "14069/14789 rows translated so far"
+   "partial": "14132/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
