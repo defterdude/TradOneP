@@ -7128,7 +7128,7 @@
    "other_bundle_rows": [
     {
      "id": "1",
-     "skillName": "Thunder Accumulation"
+     "skillName": "Lightning Charge"
     },
     {
      "id": "2",
@@ -21455,6 +21455,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300481",
+     "skillName": "Clone · Shadow Mage",
+     "skillDesc": "At battle start, create a <color=#d14e0d>Shadow Doppelganger</color> in a random allied cell. It has <color=#d14e0d>{buffper1}% of Moria's Max HP</color> as <color=#d14e0d>HP</color>. <color=#d14e0d>The doppelganger cannot attack</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300482",
      "skillName": "Life Link",
      "skillDesc": "Lower　<color=#d14e0d>all　damage　the　doppelganger　takes　by　{buffper1}%</color>.　Convert　<color=#d14e0d>{buffper1,700115}%</color>　of　Moria's　damage　dealt　into　the　doppelganger's　<color=#d14e0d>HP</color>;　it　also　bears　<color=#d14e0d>{buffper1,700116}%　of　damage　Moria　takes</color>.",
@@ -22733,6 +22739,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300709",
+     "skillName": "Soaring Fighting Spirit",
+     "skillDesc": "On the first turn, gain 100 Fury; gain 5 extra Soul Jade each turn. After drinking, recover <color=#d14e0d>{buffper1}%</color> HP and have a <color=#d14e0d>{buffodds}%</color> chance to gain a random extra effect for 1 turn:\\n<color=#d14e0d>-Vigor-</color>\\nDodge, Block and Tenacity rise by <color=#d14e0d>30%</color>.\\n<color=#d14e0d>-Rage-</color>\\nATK, Speed and Damage Bonus rise by <color=#d14e0d>30%</color>.\\n<color=#d14e0d>-Daze-</color>\\nAccuracy, Break and Crit rise by <color=#d14e0d>30%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300710",
      "skillName": "Insight",
      "skillDesc": "Rayleigh's　<color=#d14e0d>Dodge　Rate</color>　and　<color=#d14e0d>All　Damage　Reduction</color>　rise　by　<color=#d14e0d>{attributevalper}%</color>.　This　bonus　doubles　on　the　first　turn.",
@@ -22778,6 +22790,24 @@
      "skillId": "300717",
      "skillName": "Armor Break",
      "skillDesc": "<color=#d14e0d>Fierce　Assault</color>　gains　<color=#d14e0d>Armor　Break</color>,　with　a　<color=#d14e0d>{buffodds}%</color>　chance　to　reduce　the　target's　<color=#d14e0d>DEF</color>　by　<color=#d14e0d>{buffper1}%</color>　for　<color=#d14e0d>2　turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300718",
+     "skillName": "Knockup",
+     "skillDesc": "<color=#d14e0d>Buddha's Judgment</color> gains <color=#d14e0d>Launch</color>, with a <color=#d14e0d>{buffodds}%</color> chance to move the target to a random position.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300719",
+     "skillName": "Light Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Buddha's Charge</color> gains <color=#d14e0d>13%</color> skill damage and adds <color=#d14e0d>{buffper1}%</color> of Sengoku's ATK as <color=#d14e0d>Light damage</color>. Elemental damage ignores base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300720",
+     "skillName": "Light Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Buddha's Impact</color> gains <color=#d14e0d>17%</color> skill damage and adds <color=#d14e0d>{buffper1}%</color> of Sengoku's ATK as <color=#d14e0d>Light damage</color>. Elemental damage ignores base DEF.",
      "buttonEffect": ""
     },
     {
@@ -23939,6 +23969,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300916",
+     "skillName": "Collapsing Jade",
+     "skillDesc": "Give <color=#d14e0d>Reverse Fang</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Jade Collapse</color>, <color=#d14e0d>emptying the target's Soul Jade and Fury</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300917",
      "skillName": "Sky Rend",
      "skillDesc": "When　Shanks　uses　an　Ultimate　in　Dominator　Stance,　raise　Skill　damage　by　<color=#d14e0d>{buffper1}%</color>　and　Crit　Rate　and　Crit　Damage　by　<color=#d14e0d>{buffper1,14201}%</color>.",
@@ -24026,6 +24062,12 @@
      "skillId": "300931",
      "skillName": "DMG Bonus Enhancement",
      "skillDesc": "Permanently　increases　this　character's　<color=#d14e0d>Damage　Bonus　by　{attributevalper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300932",
+     "skillName": "Tiger's Roar",
+     "skillDesc": "When using <color=#d14e0d>Ultimate Tiger Hunt</color>, increase <color=#d14e0d>Zoro's</color> damage by <color=#d14e0d>{buffper1,14101}%</color> for <color=#d14e0d>2</color> turns.",
      "buttonEffect": ""
     },
     {
@@ -24170,6 +24212,12 @@
      "skillId": "300957",
      "skillName": "Charge Up",
      "skillDesc": "<color=#d14e0d>Special:　Long-Range　Bagworm　Star</color>　gains　<color=#d14e0d>Charge</color>,　raising　Crit　Damage　by　<color=#d14e0d>{buffper1}%</color>.　Against　a　poisoned　enemy,　the　<color=#d14e0d>effect　doubles</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300958",
+     "skillName": "Venom Spread",
+     "skillDesc": "<color=#d14e0d>Special Green Star: Skull Bomb Grass</color> has a <color=#d14e0d>{buffodds}%</color> chance to apply <color=#d14e0d>Venom Spread</color>, <color=#d14e0d>spreading the target's venoms to all enemies</color>. If they were catalyzed, spread the catalyzed effects.",
      "buttonEffect": ""
     },
     {
@@ -24512,6 +24560,12 @@
      "skillId": "301018",
      "skillName": "Parasite",
      "skillDesc": "Give　<color=#d14e0d>Parasite　String</color>　a　<color=#d14e0d>{buffodds}%</color>　chance　to　apply　<color=#d14e0d>Parasite</color>,　forcing　the　target　to　<color=#d14e0d>randomly　use　1</color>　available　skill　when　acting.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301019",
+     "skillName": "Two as One",
+     "skillDesc": "Raise <color=#d14e0d>Shadow Riding String</color> damage by <color=#d14e0d>{buffper1}%</color>. With a String Clone present, <color=#d14e0d>always crit</color> and <color=#d14e0d>clear this skill's cooldown</color>; otherwise raise <color=#d14e0d>Crit Rate</color> by <color=#d14e0d>{buffper2}%</color>.$$Raise <color=#d14e0d>Shadow Riding String</color> damage by <color=#d14e0d>{buffper1}%</color>. With a String Clone present, raise Crit Rate and Crit Damage by <color=#d14e0d>{buffper1,14301}%</color> and <color=#d14e0d>clear this skill's cooldown</color>; otherwise raise <color=#d14e0d>Crit Rate</color> by <color=#d14e0d>{buffper2}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -25478,6 +25532,12 @@
      "skillId": "301182",
      "skillName": "Crush",
      "skillDesc": "<color=#d14e0d>General:　Watch　Your　Step</color>　applies　<color=#d14e0d>Crush</color>,　lowering　target　<color=#d14e0d>DEF　and　Damage　Reduction</color>　by　<color=#d14e0d>{buffper1}%</color>　for　<color=#d14e0d>2　turns</color>.$<color=#d14e0d>General:　Watch　Your　Step</color>　applies　<color=#d14e0d>Crush</color>,　lowering　target　<color=#d14e0d>ATK　and　Accuracy</color>　by　<color=#d14e0d>{buffper1}%</color>　for　<color=#d14e0d>2　turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301183",
+     "skillName": "Ultimate Extension",
+     "skillDesc": "Enter Ultimate Extension: raise <color=#d14e0d>All Damage Bonus, Crit Rate, and Accuracy</color> by <color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>double added elemental damage</color> from Extended skills, and resist <color=#d14e0d>control, knockback, and exile</color> for <color=#d14e0d>2</color> turns.$Enter Ultimate Extension: raise <color=#d14e0d>All Damage Bonus, Crit Rate, and Accuracy</color> by <color=#d14e0d>{buffper1}%</color> and resist <color=#d14e0d>knockback and exile</color> for <color=#d14e0d>2</color> turns. When a skill targeting more than 1 unit selects Franky during Extension, lower the attacker's Crit Rate and Physical Damage Bonus by <color=#d14e0d>60%</color>.",
      "buttonEffect": ""
     },
     {
@@ -27413,6 +27473,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "301510",
+     "skillName": "Enhanced Barrier: Impact",
+     "skillDesc": "When using <color=#d14e0d>Shield Impact</color>, raise <color=#d14e0d>Damage Bonus</color> by <color=#d14e0d>{buffper1}%</color> and deal damage equal to own <color=#d14e0d>shield value</color> to all enemies, capped at <color=#d14e0d>50% of Bartolomeo's Max HP</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "301511",
      "skillName": "Shield Protection",
      "skillDesc": "When　using　<color=#d14e0d>Barrier-Barrier　Pistol</color>,　give　allied　<color=#d14e0d>Barrier-protected　characters</color>　a　<color=#d14e0d>{buffper1}%</color>　Max　HP　<color=#d14e0d>shield</color>.",
@@ -27644,6 +27710,12 @@
      "skillId": "301549",
      "skillName": "Fire Attribute Weakness",
      "skillDesc": "When　using　<color=#d14e0d>Azure　Flame　Whirlwind</color>,　lower　target　<color=#d14e0d>{buffper1}%</color>　<color=#d14e0d>Fire　resistance</color>　for　<color=#d14e0d>2</color>　turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "301550",
+     "skillName": "Rebirth Flames",
+     "skillDesc": "When using <color=#d14e0d>Azure Flame Flash</color>, raise <color=#d14e0d>All Damage</color> by <color=#d14e0d>{buffper1}%</color> and randomly <color=#d14e0d>revive 1-2</color> fallen allies at <color=#d14e0d>{buffper2}%</color> <color=#d14e0d>HP</color>. They cannot enter <color=#d14e0d>Ultimate Extension</color>. At most <color=#d14e0d>1 time</color> per battle; after a successful revival, leave Ultimate Extension, otherwise <color=#d14e0d>clear this skill's cooldown</color>.",
      "buttonEffect": ""
     },
     {
@@ -30287,9 +30359,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "302237",
+     "skillName": "Villainous Crimson Flag",
+     "skillDesc": "On hitting a target whose <color=#d14e0d>ATK is below Drake's</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to remove it (<color=#d14e0d>PvP only</color>); at most one target per action. On a successful removal, permanently raise Drake's <color=#d14e0d>DEF</color> by <color=#d14e0d>{buffper3}%</color> of its current value.$On hitting a target whose <color=#d14e0d>ATK is below Drake's</color>, apply <color=#d14e0d>{buffper1,17686}%</color> <color=#d14e0d>Sever</color>. Each skill that deals Sever damage raises Drake's <color=#d14e0d>ATK</color> by 6% of its current value for <color=#d14e0d>3</color> turns; gain this bonus 2 times at battle start.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "302238",
      "skillName": "Navy Spy",
      "skillDesc": "On　the　first　<color=#d14e0d>lethal　hit</color>,　<color=#d14e0d>interrupt</color>　the　attacker,　permanently　lower　own　<color=#d14e0d>Max　HP</color>　by　<color=#d14e0d>99.99%</color>,　clear　all　<color=#d14e0d>debuffs</color>,　restore　<color=#d14e0d>0.1%</color>　HP,　and　gain　a　<color=#d14e0d>{buffper1}%</color>　current-DEF　<color=#d14e0d>shield</color>.　Triggers　1　time　per　battle.$On　the　first　<color=#d14e0d>lethal　hit</color>,　<color=#d14e0d>interrupt</color>　the　attacker,　permanently　lower　own　<color=#d14e0d>Max　HP</color>　by　<color=#d14e0d>99.99%</color>,　clear　all　<color=#d14e0d>debuffs</color>,　restore　<color=#d14e0d>0.1%</color>　HP,　and　gain　a　<color=#d14e0d>{buffper2}%</color>　current-DEF　<color=#d14e0d>shield</color>.　Triggers　1　time　per　battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302239",
+     "skillName": "Survival of the Fittest",
+     "skillDesc": "After battle begins, raise <color=#d14e0d>All Damage Bonus</color> and <color=#d14e0d>All Damage Reduction</color> by <color=#d14e0d>{buffper1}%</color>. When attacked by a target with <color=#d14e0d>DEF below 0</color> or attacking one with <color=#d14e0d>DEF below 0</color>, <color=#d14e0d>All Damage Bonus</color> and <color=#d14e0d>All Damage Reduction</color> <color=#d14e0d>double</color>.$After battle begins, raise <color=#d14e0d>All Damage Bonus</color> and <color=#d14e0d>All Damage Reduction</color> by <color=#d14e0d>{buffper1,17667}%</color>. When attacked by a target with <color=#d14e0d>DEF below Drake's</color> or attacking one with <color=#d14e0d>DEF below Drake's</color>, <color=#d14e0d>All Damage Bonus</color> and <color=#d14e0d>All Damage Reduction</color> <color=#d14e0d>double</color>.",
      "buttonEffect": ""
     },
     {
@@ -30749,6 +30833,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "302502",
+     "skillName": "Light of Healing",
+     "skillDesc": "After using <color=#d14e0d>Buddha's Golden Light</color>, heal all allies for <color=#d14e0d>{buffper3,53102}%</color> of Sengoku's Max HP; raise their <color=#d14e0d>ATK</color> by <color=#d14e0d>5% of Sengoku's Max HP</color> for <color=#d14e0d>2 turns</color>. Does not stack.$After using <color=#d14e0d>Buddha's Golden Light</color>, heal all allies for <color=#d14e0d>{buffper3,53168}%</color> of Sengoku's Max HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "302503",
      "skillName": "Guidance",
      "skillDesc": "After　using　<color=#d14e0d>Buster　Call</color>,　until　Sengoku　acts　again,　<color=#d14e0d>each　allied　action</color>　raises　all　allies'　<color=#d14e0d>ATK,　Speed,　and　Final　Skill　Damage　Reduction</color>　by　<color=#d14e0d>{buffper1,53108}%</color>　for　<color=#d14e0d>2　turns</color>;　stacks.$After　using　<color=#d14e0d>Buster　Call</color>,　raise　all　allies'　<color=#d14e0d>ATK,　Crit　Rate,　and　Crit　Damage</color>　by　<color=#d14e0d>{buffper1,53169}%</color>　for　<color=#d14e0d>3　turns</color>.",
@@ -30764,6 +30854,18 @@
      "skillId": "302505",
      "skillName": "Blind",
      "skillDesc": "When　using　<color=#d14e0d>Buddha-Light　Impact</color>,　there　is　a　<color=#d14e0d>{buffodds}%</color>　chance　to　inflict　<color=#d14e0d>Blindness</color>,　<color=#d14e0d>lowering　enemy　Accuracy　by　80%</color>　for　<color=#d14e0d>2　turns</color>.　On　the　next　use,　the　effect　is　<color=#d14e0d>20%</color>　weaker.$When　using　<color=#d14e0d>Buddha-Light　Impact</color>,　there　is　a　<color=#d14e0d>{buffodds}%</color>　chance　to　inflict　<color=#d14e0d>Blindness</color>,　<color=#d14e0d>lowering　enemy　Accuracy　by　30%</color>　for　<color=#d14e0d>2　turns</color>;　does　not　stack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302506",
+     "skillName": "Golden Body",
+     "skillDesc": "After using <color=#d14e0d>Great Buddha's Fury</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>restore 100% HP</color> on <color=#d14e0d>the next lethal hit</color>; does not stack and triggers at most <color=#d14e0d>2 times</color> per battle.$After using <color=#d14e0d>Great Buddha's Fury</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>restore 100% HP</color> on <color=#d14e0d>the next lethal hit</color>; triggers at most <color=#d14e0d>1 time</color> per battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "302507",
+     "skillName": "Light Elemental Damage",
+     "skillDesc": "Add <color=#d14e0d>{buffper1,53118}%</color> of own ATK as <color=#d14e0d>Light damage</color> to <color=#d14e0d>Great Buddha's Fury</color>, ignoring enemy base DEF.$Add <color=#d14e0d>{buffper1,53118}%</color> of own ATK as <color=#d14e0d>Light damage</color> to <color=#d14e0d>Great Buddha's Fury</color>, ignoring enemy base DEF.",
      "buttonEffect": ""
     },
     {
@@ -33161,6 +33263,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "303366",
+     "skillName": "Execution Slash",
+     "skillDesc": "On hit, apply an <color=#d14e0d>immunity-ignoring</color> <color=#d14e0d>Sever effect</color>, dealing damage based on the <color=#d14e0d>target's remaining HP</color>, capped at <color=#d14e0d>{buffper3,54712}%</color> of Luffy's ATK.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "303367",
      "skillName": "Ultimate Extension",
      "skillDesc": "After　using　a　skill,　restore　<color=#d14e0d>{buffper1,54716}%</color>　HP　and　enter　the　extended　state.　<color=#d14e0d>Final　Damage　Bonus</color>　rises　by　<color=#d14e0d>{buffper1,54718}%</color>　for　up　to　4　turns.",
@@ -34679,6 +34787,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "303625",
+     "skillName": "Fish-Man Karate Master",
+     "skillDesc": "When applying <color=#d14e0d>Water Surround</color>, the recipient of <color=#d14e0d>Water Surround</color> gains <color=#d14e0d>{buffper1,56544}%</color> <color=#d14e0d>Max HP</color>. After a character with <color=#d14e0d>Water Surround</color> acts, its <color=#d14e0d>own</color> and <color=#d14e0d>Jinbe's</color> <color=#d14e0d>Max HP</color> cannot be reduced this turn. After Jinbe leaves, allies can still gain <color=#d14e0d>Jujutsu</color> and <color=#d14e0d>Water Surround</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "303626",
      "skillName": "Calm Judgment",
      "skillDesc": "Immune　to　<color=#d14e0d>removal　effects</color>.　If　Jinbe　does　not　already　have　<color=#d14e0d>Delayed　Resolution</color>,　when　he　<color=#d14e0d>blocks</color>　he　gains　it,　delaying　this　turn's　damage　until　turn　end.　Each　time　it　is　gained,　<color=#d14e0d>Block</color>　permanently　falls　by　<color=#d14e0d>{buffper1,56554}%</color>.　Gain　it　at　most　<color=#d14e0d>2</color>　times　per　battle,　plus　<color=#d14e0d>1</color>　extra　for　each　other　allied　<color=#d14e0d>Straw　Hat</color>,　up　to　<color=#d14e0d>4</color>　extra　times.",
@@ -34748,6 +34862,12 @@
      "skillId": "303637",
      "skillName": "Bind",
      "skillDesc": "When　<color=#d14e0d>Spiderweb　Bind</color>　hits,　has　a　<color=#d14e0d>{buffper1,11142}%</color>　chance　to　apply　<color=#d14e0d>Spiderweb　Bind</color>.　A　target　with　<color=#d14e0d>Spiderweb　Bind</color>　cannot　act　(in　PvP　only).　This　cannot　be　resisted,　lasts　<color=#d14e0d>3</color>　turns　and　affects　only　<color=#d14e0d>1</color>　target　at　a　time.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303638",
+     "skillName": "Entangle",
+     "skillDesc": "When using <color=#d14e0d>Maria's Web</color>, this skill's <color=#d14e0d>Accuracy</color> rises by <color=#d14e0d>{buffper1,56622}%</color>. On hit, the target's <color=#d14e0d>Dodge</color> falls by <color=#d14e0d>{buffper1,56623}%</color> for <color=#d14e0d>3</color> turns. Stacks.",
      "buttonEffect": ""
     },
     {
@@ -34853,9 +34973,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "303656",
+     "skillName": "All Together!",
+     "skillDesc": "When using <color=#d14e0d>Let's Have a Fight</color>, grant all allies <color=#d14e0d>4</color> stacks of <color=#d14e0d>All Damage Bonus</color>. Each stack increases <color=#d14e0d>All Damage Bonus</color> by <color=#d14e0d>{buffper1,56819}%</color>. Lose <color=#d14e0d>1</color> stack each turn. Roger gains twice the bonus; reapplying refreshes the stack count.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "303657",
      "skillName": "True Damage",
      "skillDesc": "When　<color=#d14e0d>Turn　the　World　Upside　Down</color>　hits,　add　true　damage　equal　to　<color=#d14e0d>{buffper1,56836}%</color>　of　ATK.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303658",
+     "skillName": "Everyone, Be Careful",
+     "skillDesc": "When using <color=#d14e0d>I Won't Let You Get Hurt</color>, grant all allies <color=#d14e0d>4</color> stacks of <color=#d14e0d>All Damage Reduction</color>. Each stack increases <color=#d14e0d>All Damage Reduction</color> by <color=#d14e0d>{buffper1,56853}%</color>. Lose <color=#d14e0d>1</color> stack each turn. Roger gains twice the bonus; reapplying refreshes the stack count.",
      "buttonEffect": ""
     },
     {
@@ -34871,9 +35003,27 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "303661",
+     "skillName": "Conqueror",
+     "skillDesc": "When using <color=#d14e0d>Conqueror's Strike</color>, there is a <color=#d14e0d>{buffodds}%</color> chance to trigger the ally-attribute bonus from the <color=#d14e0d>Pirate King</color> talent again, but this time it grants attributes other than <color=#d14e0d>Speed</color>. Its duration and values match the <color=#d14e0d>Pirate King</color> talent.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303662",
+     "skillName": "Pirate King",
+     "skillDesc": "At turn start, Roger gains <color=#d14e0d>30%</color> of his other allies' current attributes <color=#d14e0d>(ATK, Speed, DEF, Accuracy, Dodge, Block, Break, Crit, Tenacity and Crit Damage)</color> for <color=#d14e0d>5</color> turns. This can trigger only <color=#d14e0d>1</color> time every <color=#d14e0d>5</color> turns. On the first turn, Roger gains <color=#d14e0d>Invincibility</color>; during the first <color=#d14e0d>2</color> turns, his <color=#d14e0d>Speed, ATK and Accuracy</color> rise by <color=#d14e0d>{buffper1,57009}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "303663",
      "skillName": "Ace's Beloved Blade",
      "skillDesc": "At　battle　start,　<color=#d14e0d>ATK,　Speed　and　Crit　Damage</color>　rise　by　<color=#d14e0d>{buffper1,56902}%</color>,　<color=#d14e0d>DEF　and　HP</color>　by　<color=#d14e0d>{buffper1,56903}%</color>,　and　<color=#d14e0d>Accuracy,　Dodge,　Block,　Break,　Crit　and　Tenacity</color>　by　<color=#d14e0d>{buffper1,56904}%</color>.　When　an　enemy　dies,　Roger　permanently　raises　his　current　<color=#d14e0d>(ATK,　DEF,　Accuracy,　Dodge,　Block,　Break,　Crit,　Tenacity　and　Crit　Damage)</color>　by　<color=#d14e0d>{buffper3,56916}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303664",
+     "skillName": "Voice of All Things",
+     "skillDesc": "At each turn start, there is a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>1</color> permanent <color=#d14e0d>Voice of All Things</color> stack, up to <color=#d14e0d>3</color>. Different counts of <color=#d14e0d>Voice of All Things</color> stacks grant different abilities this turn.\\nAt least <color=#d14e0d>1</color> stack: through turn <color=#d14e0d>4</color>, when attacking, convert <color=#d14e0d>{buffper3,56966}%</color> of current ATK into Roger's <color=#d14e0d>Max HP</color>.\\nAt least <color=#d14e0d>2</color> stacks: when attacking or being attacked, Final Damage Bonus and Final Damage Reduction of Roger and the target no longer apply.\\nAt least <color=#d14e0d>3</color> stacks: all single-target skills become area attacks with unchanged coefficients, no skill cooldown and guaranteed hits. Any target other than Roger that takes lethal damage dies immediately and cannot recover HP.",
      "buttonEffect": ""
     },
     {
@@ -34886,6 +35036,12 @@
      "skillId": "303666",
      "skillName": "Bonds of Piracy",
      "skillDesc": "At　battle　start,　<color=#d14e0d>All　Damage　Bonus</color>　and　<color=#d14e0d>All　Damage　Reduction</color>　rise　by　<color=#d14e0d>{buffper1,56947}%</color>.　Each　turn,　gain　an　extra　<color=#d14e0d>5</color>　<color=#d14e0d>Soul　Jade</color>　and　<color=#d14e0d>100</color>　<color=#d14e0d>Fury</color>.　After　using　a　skill,　gain　<color=#d14e0d>3</color>　<color=#d14e0d>Soul　Jade</color>.　For　the　first　<color=#d14e0d>3</color>　turns,　<color=#d14e0d>ignore　all　effects　applied　by　enemies</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303667",
+     "skillName": "Captain's Charisma",
+     "skillDesc": "At battle start, Roger is immune to <color=#d14e0d>true damage</color> and gains <color=#d14e0d>2</color> turns of <color=#d14e0d>control immunity</color>. There is a <color=#d14e0d>{buffodds}%</color> chance to prevent reductions to all allies' <color=#d14e0d>ATK, Speed, DEF and Max HP</color> for <color=#d14e0d>4</color> turns. Roger's attacks ignore shields, and his skills cost <color=#d14e0d>1</color> less Soul Jade.",
      "buttonEffect": ""
     },
     {
@@ -34964,6 +35120,12 @@
      "skillId": "303681",
      "skillName": "Stun",
      "skillDesc": "When　<color=#d14e0d>Lion　Might:　Imperial　Earth　Roll</color>　hits　a　target　with　<color=#d14e0d>Suppression</color>　and　<color=#d14e0d>Delayed　Resolution</color>,　there　is　a　<color=#d14e0d>{buffodds}%</color>　chance　to　inflict　<color=#d14e0d>Stun　for　2　turns</color>.　Cannot　be　resisted.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "303682",
+     "skillName": "Nullify",
+     "skillDesc": "When <color=#d14e0d>Lion Might: Earth Roll</color> hits, there is a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>disable the target's Invincibility</color>.",
      "buttonEffect": ""
     },
     {
@@ -69607,6 +69769,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "20117",
+     "skillName": "Freeze Fruit",
+     "skillDesc": "When <color=#d14e0d>Aokiji</color>'s <color=#d14e0d>Slow</color> reaches 4 stacks, there is a <color=#d14e0d>{buffodds}%</color> chance to turn it into <color=#d14e0d>Freeze</color>, preventing the target from acting for <color=#d14e0d>1 action</color>. Each skill can <color=#d14e0d>freeze 2</color> targets at most. <color=#d14e0d>Freeze ends early if the target takes damage greater than 200% of the applier's ATK</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "20118",
      "skillName": "Ice Armor",
      "skillDesc": "At　battle　start,　<color=#d14e0d>ATK</color>　rises　by　<color=#d14e0d>{buffper1}%</color>　and　<color=#d14e0d>Speed</color>　by　<color=#d14e0d>{buffper2}%</color>　for　the　battle.",
@@ -69838,6 +70006,12 @@
      "skillId": "20212",
      "skillName": "Skill Seal",
      "skillDesc": "Give　<color=#d14e0d>Shadow　Box</color>　a　<color=#d14e0d>{buffodds}%</color>　chance　to　inflict　<color=#d14e0d>Skill　Seal</color>,　preventing　the　target　from　<color=#d14e0d>using　Soul　Jade-consuming　skills</color>　for　<color=#d14e0d>1　action</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "20213",
+     "skillName": "Steal",
+     "skillDesc": "Give <color=#d14e0d>Shadow Cut</color> a <color=#d14e0d>{buffodds}%</color> chance to <color=#d14e0d>steal the target's shadow</color>. Each time that target takes a Skill hit, it also takes Dark damage equal to <color=#d14e0d>40% of Moria's ATK</color> for <color=#d14e0d>3 turns</color>.",
      "buttonEffect": ""
     },
     {
@@ -70489,9 +70663,21 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "20460",
+     "skillName": "Slash",
+     "skillDesc": "<color=#d14e0d>Black Blade: Dawn</color> gains <color=#d14e0d>Sever</color>, immediately removing <color=#d14e0d>{buffper1}%</color> of the target's <color=#d14e0d>current HP</color>. The damage cannot exceed <color=#d14e0d>{buffper3}% of Mihawk's ATK</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "20461",
      "skillName": "Execution Slash",
      "skillDesc": "When　<color=#d14e0d>Black　Blade:　Cross</color>　is　used　against　a　target　below　<color=#d14e0d>30%</color>　HP,　this　skill's　<color=#d14e0d>Damage　Bonus</color>　rises　by　<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "20462",
+     "skillName": "Slash",
+     "skillDesc": "<color=#d14e0d>Black Blade: Flash</color> gains <color=#d14e0d>Sever</color>, immediately removing <color=#d14e0d>{buffper1}%</color> of the target's <color=#d14e0d>current HP</color>. The damage cannot exceed <color=#d14e0d>{buffper3}% of Mihawk's ATK</color>.",
      "buttonEffect": ""
     },
     {
@@ -70867,6 +71053,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "20610",
+     "skillName": "Slash",
+     "skillDesc": "<color=#d14e0d>Enemy Shatter</color> gains <color=#d14e0d>Sever</color>, immediately removing <color=#d14e0d>{buffper1}%</color> of the target's <color=#d14e0d>current HP</color>, capped at <color=#d14e0d>{buffper3}% of Whitebeard's ATK</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "20611",
      "skillName": "Aftershock",
      "skillDesc": "When　<color=#d14e0d>Heavenbreaker</color>　is　used,　it　has　a　<color=#d14e0d>{buffodds}%</color>　chance　to　inflict　<color=#d14e0d>Aftershock</color>,　reducing　the　target's　<color=#d14e0d>Accuracy　and　Pierce</color>　by　<color=#d14e0d>10%</color>　for　<color=#d14e0d>2　turns</color>.　Does　not　stack.",
@@ -70894,6 +71086,12 @@
      "skillId": "20615",
      "skillName": "Ruler of the Era",
      "skillDesc": "When　Whitebeard　blocks　a　<color=#d14e0d>skill</color>　attack,　he　has　a　<color=#d14e0d>{buffodds}%</color>　chance　to　<color=#d14e0d>interrupt　the　attacker</color>.　Each　other　<color=#d14e0d>Whitebeard　Pirates</color>　ally　adds　<color=#d14e0d>{buffodds}%</color>　to　the　chance.　Triggers　at　most　<color=#d14e0d>2　times</color>　per　turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "20616",
+     "skillName": "Tremor-Tremor Fruit",
+     "skillDesc": "At turn start, has a <color=#d14e0d>{buffodds}%</color> chance to gain an extra <color=#d14e0d>5</color> Soul Jade. All attacks ignore <color=#d14e0d>{buffper1,66745}%</color> of target DEF; when Whitebeard kills a target, <color=#d14e0d>reset the finisher skill's</color> cooldown.",
      "buttonEffect": ""
     },
     {
@@ -70996,6 +71194,30 @@
      "skillId": "20662",
      "skillName": "Devastate",
      "skillDesc": "<color=#d14e0d>Iron　Fist　Judgment</color>　gains　<color=#d14e0d>Crippling　Blow</color>,　reducing　the　target's　<color=#d14e0d>ATK</color>　by　<color=#d14e0d>{buffper1}%</color>　for　<color=#d14e0d>2　turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "20663",
+     "skillName": "Knockup",
+     "skillDesc": "<color=#d14e0d>Buddha's Impact</color> has a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Launch</color>, moving the target <color=#d14e0d>toward the enemy middle column</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "20664",
+     "skillName": "Ultimate Extension",
+     "skillDesc": "After <color=#d14e0d>Buddha's Impact</color>, enter <color=#d14e0d>Great Buddha</color> form, gain <color=#d14e0d>5</color> Soul Jade, and increase Speed by <color=#d14e0d>{buffper1}%</color> for 1 turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "20665",
+     "skillName": "Shield",
+     "skillDesc": "When <color=#d14e0d>Buddha's Charge</color> is used, each character hit has a <color=#d14e0d>{buffodds}%</color> chance to grant <color=#d14e0d>all allies</color> a shield equal to <color=#d14e0d>5%</color> of Sengoku's Max HP for <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "20666",
+     "skillName": "Suppression",
+     "skillDesc": "When using <color=#d14e0d>Buddha's Judgment</color>, add damage equal to <color=#d14e0d>{buffper2}%</color> of <color=#d14e0d>Sengoku's</color> Max HP.",
      "buttonEffect": ""
     },
     {
@@ -71281,6 +71503,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "20762",
+     "skillName": "Collapsing Jade",
+     "skillDesc": "Give <color=#d14e0d>Reverse Fang</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Jade Collapse</color>, consuming <color=#d14e0d>1 Momentum stack</color> and <color=#d14e0d>emptying the target's Soul Jade and Fury</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "20763",
      "skillName": "Momentum",
      "skillDesc": "Give　<color=#d14e0d>Wind-Piercing　Slash</color>　a　<color=#d14e0d>{buffodds}%</color>　chance　to　gain　<color=#d14e0d>1　Momentum　stack</color>　(requires　Foresight).",
@@ -71302,6 +71530,12 @@
      "skillId": "20766",
      "skillName": "Foresight",
      "skillDesc": "At　<color=#d14e0d>battle　start</color>　and　<color=#d14e0d>each　turn　start</color>,　gain　<color=#d14e0d>1　Momentum　stack</color>.　Each　<color=#d14e0d>Momentum　stack</color>　raises　<color=#d14e0d>Crit　Rate　and　Armor　Break</color>　by　<color=#d14e0d>8%</color>,　up　to　<color=#d14e0d>5　stacks</color>　until　battle　end.　At　<color=#d14e0d>5　stacks</color>,　enter　<color=#d14e0d>Dominator　Stance</color>　and　additionally　raise　<color=#d14e0d>ATK　and　Speed</color>　by　<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "20767",
+     "skillName": "Deep Bonds",
+     "skillDesc": "At <color=#d14e0d>each turn</color> start, there is a <color=#d14e0d>{buffodds}%</color> chance to raise <color=#d14e0d>allied ATK</color> by <color=#d14e0d>8%</color> and allied <color=#d14e0d>Luffy</color> by another <color=#d14e0d>20%</color>. For <color=#d14e0d>each other ally</color> present, there is a <color=#d14e0d>{buffodds}%</color> chance to raise <color=#d14e0d>Shanks's ATK</color> by <color=#d14e0d>8%</color>; allied <color=#d14e0d>Luffy</color> raises <color=#d14e0d>Shanks's ATK</color> by another <color=#d14e0d>20%</color> for this turn.",
      "buttonEffect": ""
     },
     {
@@ -72019,6 +72253,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "21015",
+     "skillName": "Oni Giri",
+     "skillDesc": "When using <color=#d14e0d>Great Thousand Worlds</color>, skill damage falls by <color=#d14e0d>90%</color>, but it applies <color=#d14e0d>3 Sever hits</color> in succession. Each <color=#d14e0d>Sever</color> removes <color=#d14e0d>{buffper1}%</color> of the target's <color=#d14e0d>current HP</color>, capped at <color=#d14e0d>{buffper3}% of Zoro's ATK</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "21016",
      "skillName": "Great Swordsman",
      "skillDesc": "At　battle　start,　<color=#d14e0d>Max　HP</color>　rises　by　<color=#d14e0d>{buffper1}%</color>　and　<color=#d14e0d>ATK</color>　by　<color=#d14e0d>{buffper2}%</color>　for　the　battle.",
@@ -72154,6 +72394,12 @@
      "skillId": "21065",
      "skillName": "Darkness Devour",
      "skillDesc": "When　using　<color=#d14e0d>Dark　Water</color>,　gain　1　<color=#d14e0d>Dark　Devour</color>　stack　until　the　end　of　the　next　action;　refreshes　on　gain,　up　to　<color=#d14e0d>3　stacks</color>.　At　<color=#d14e0d>1　Dark　Devour　stack</color>,　raise　<color=#d14e0d>ATK　and　Speed</color>　by　<color=#d14e0d>{buffper1,67426}%</color>;　at　2　stacks,　by　<color=#d14e0d>{buffper1,67427}%</color>;　at　3　stacks,　by　<color=#d14e0d>{buffper1,67428}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "21066",
+     "skillName": "Darkness Lock",
+     "skillDesc": "When <color=#d14e0d>Dark Sky</color> hits, there is a <color=#d14e0d>{buffodds}%</color> chance to seal <color=#d14e0d>1</color> random skill until the <color=#d14e0d>target's next 1 action</color>.",
      "buttonEffect": ""
     },
     {
@@ -72622,6 +72868,12 @@
      "skillId": "21220",
      "skillName": "\"Dark King\"",
      "skillDesc": "At　battle　start,　<color=#d14e0d>Crit</color>　rises　by　<color=#d14e0d>{buffper1}%</color>　and　<color=#d14e0d>Break</color>　by　<color=#d14e0d>{buffper2}%</color>　for　the　battle.　When　an　attack　hits　a　slower　target,　its　Skill　damage　rises　by　<color=#d14e0d>{buffper1,67537}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "21221",
+     "skillName": "Instant Kill",
+     "skillDesc": "<color=#d14e0d>Turn 1</color>: own <color=#d14e0d>All Damage Bonus</color> rises by <color=#d14e0d>{buffper1,67514}%</color>; <color=#d14e0d>other allies' All Damage Bonus</color> rises by <color=#d14e0d>{buffper1,67515}%</color>.\\n<color=#d14e0d>Turn 2</color>: own <color=#d14e0d>All Damage Bonus</color> rises by <color=#d14e0d>{buffper1,67516}%</color>; <color=#d14e0d>other allies' All Damage Bonus</color> rises by <color=#d14e0d>{buffper1,67517}%</color>.\\n<color=#d14e0d>Turn 3</color>: own <color=#d14e0d>All Damage Bonus</color> rises by <color=#d14e0d>{buffper1,67533}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -96488,7 +96740,7 @@
     },
     {
      "skillId": "794901",
-     "skillName": "Thunder Accumulation",
+     "skillName": "Lightning Charge",
      "skillDesc": "Empower　self,　broadly　improving　offense　and　survival.",
      "buttonEffect": ""
     },
@@ -96504,8 +96756,7 @@
      "skillDesc": "Deal　heavy　damage　and　improve　Skill　cycling.",
      "buttonEffect": ""
     }
-   ],
-   "partial": "14747/14789 rows translated so far"
+   ]
   },
   "TableSuperSoul": {
    "key_column": "heroId",
@@ -99296,6 +99547,39 @@
    ]
   }
  },
- "glossary_additions": {},
- "uncertain_notes": []
+ "glossary_additions": {
+  "破韧": "Toughness Break",
+  "破韧效率": "Toughness Break Efficiency",
+  "坚韧值": "Tenacity",
+  "坚韧攻击": "Tenacity Attack",
+  "坚韧防御": "Tenacity Defense",
+  "坚韧暴击": "Tenacity CRIT",
+  "破击": "Pierce",
+  "薄霞系技能": "Haze-type skill",
+  "时雨系技能": "Shigure-type skill",
+  "奥义延展": "Ultimate Extension",
+  "锁血": "HP Lock",
+  "雷神": "Thunder God",
+  "雷电积蓄": "Lightning Charge",
+  "纸绘武身": "Kami-e Busshin",
+  "装死": "Play Dead",
+  "戏虐": "Mockery",
+  "盾白线": "White Shield Line",
+  "绝境": "Last Stand",
+  "觉醒鲁兹": "Awakened Lucci",
+  "培波": "Peppo",
+  "维莎利亚天候棒": "Visalia Clima-Tact",
+  "赤龙斩": "Red Dragon Slash",
+  "黄油饼干": "Butter Biscuit",
+  "狒狒丸": "Hihimaru",
+  "圣光爆衣茄子": "Holy Light Clothes-Bursting Eggplant"
+ },
+ "uncertain_notes": [
+  "TableSkill skillDesc follows the existing English pattern: 'Deals skill damage equal to <c>{atkper}%</c> of ATK to <c>X</c>. Also deals <c>{atkval}</c> fixed damage.' Unbalanced nested color tags in the source were mirrored exactly.",
+  "42 TableSkill descriptions (e.g. 300481, 300709, 303664, 20117, 21221) were already in English in the source but used full-width spaces and curly quotes/dashes; they were only normalized to ASCII, not re-translated. They say 'Fury' for 怒气 where the rest of the batch says 'Rage'.",
+  "新世界鲁兹 kept as 'New World Ruz' per glossary/game_terms_v271.json, although other glossary entries (and batch 3) use 'New World Lucci'. 鲁兹 alone is rendered Lucci.",
+  "黄油饼干 rendered 'Butter Biscuit' here, but batch 4b rendered 血缘之力-黄油饼干 as 'Power of Blood - Cracker'; it may refer to Charlotte Cracker's biscuit soldiers. To check in game.",
+  "Uncertain proper names: 培波 = Peppo, 维莎利亚天候棒 = Visalia Clima-Tact, 赤龙斩 = Red Dragon Slash, 狒狒丸 = Hihimaru, 圣光爆衣茄子 = literal 'Holy Light Clothes-Bursting Eggplant'.",
+  "Developer labels with （测试） were translated literally with '(Test)'."
+ ]
 }
