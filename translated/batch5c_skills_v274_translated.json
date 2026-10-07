@@ -81553,9 +81553,45 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300721",
+     "skillName": "Stun",
+     "skillDesc": "Gives <color=#d14e0d>Iron Fist Judgment</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Stun</color>, leaving the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300722",
+     "skillName": "Belief in Justice",
+     "skillDesc": "Damage dealt by Sengoku to non-Marine characters increases by <color=#d14e0d>{buffper1}%</color>, and damage he takes is reduced by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300723",
+     "skillName": "Iron Fist of War",
+     "skillDesc": "CRIT Rate of Gale Punch, Fierce Assault and Heavyweight Punch +<color=#d14e0d>{buffper1}%</color>, CRIT DMG +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300724",
+     "skillName": "Gigantification",
+     "skillDesc": "Sengoku's <color=#d14e0d>Tenacity</color> +<color=#d14e0d>{attributevalper}%</color>. In Great Buddha Form, skill damage and Attribute damage taken by Sengoku are reduced by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300725",
      "skillName": "Wise General",
      "skillDesc": "At the start of each turn, Sengoku and the ally with the lowest HP other than himself recover <color=#d14e0d>{buffper1}%</color> of Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300726",
+     "skillName": "Fleet Admiral",
+     "skillDesc": "Sengoku's own ATK, DEF and HP increase by <color=#d14e0d>{attributeper}%</color>, and Marine characters in the lineup gain <color=#d14e0d>{buffper1}%</color> DMG reduction and <color=#d14e0d>{buffper2}%</color> more damage dealt.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300727",
+     "skillName": "Ultimate Extension Skill",
+     "skillDesc": "When Sengoku uses his Ultimate, he enters Great Buddha Form: ATK +<color=#d14e0d>{buffper3}%</color>, and instantly recovers <color=#d14e0d>{buffper2}%</color> HP and <color=#d14e0d>{buffval1}</color> Soul Jade. The form lasts <color=#d14e0d>2</color> turns.",
      "buttonEffect": ""
     },
     {
@@ -81568,6 +81604,12 @@
      "skillId": "300735",
      "skillName": "Attack Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>ATK by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300736",
+     "skillName": "Poison Attribute Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Poison damage by {buffper1}%</color>",
      "buttonEffect": ""
     },
     {
@@ -81586,6 +81628,90 @@
      "skillId": "300739",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300740",
+     "skillName": "Poisoned",
+     "skillDesc": "Gives <color=#d14e0d>Poison Cloud</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Poison</color>: enemies with <color=#d14e0d>Poison</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>. The Poison chance varies with the active skill's attack range.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300741",
+     "skillName": "Poisoned",
+     "skillDesc": "Gives <color=#d14e0d>Venom Fugu</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Poison</color>: enemies with <color=#d14e0d>Poison</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>. The Poison chance varies with the active skill's attack range.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300742",
+     "skillName": "Poisoned",
+     "skillDesc": "Gives <color=#d14e0d>Poison Gas</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Poison</color>: enemies with <color=#d14e0d>Poison</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>. The Poison chance varies with the active skill's attack range.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300743",
+     "skillName": "Corrode",
+     "skillDesc": "Gives <color=#d14e0d>Poison Spray</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Corrosion</color>: <color=#d14e0d>Corrosion</color> reduces damage dealt by enemies by <color=#d14e0d>{buffper1}%</color> <color=#d14e0d>for 2 turns</color>, and <color=#d14e0d>stacks up to 3 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300744",
+     "skillName": "Corrode",
+     "skillDesc": "Gives <color=#d14e0d>Venom Giant Soldier</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Corrosion</color>: <color=#d14e0d>Corrosion</color> reduces damage dealt by enemies by <color=#d14e0d>{buffper1}%</color> <color=#d14e0d>for 2 turns</color>, and <color=#d14e0d>stacks up to 3 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300745",
+     "skillName": "Knockback",
+     "skillDesc": "Gives <color=#d14e0d>Venom Road</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Knockback</color>, pushing the enemy target <color=#d14e0d>back 1 tile</color>. Targets in the last column of the formation or with another unit adjacent behind them cannot be knocked back.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300746",
+     "skillName": "Poison Attribute DMG",
+     "skillDesc": "<color=#d14e0d>Venom Demon</color> skill damage +<color=#d14e0d>38%</color>, plus <color=#d14e0d>Poison damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300747",
+     "skillName": "Poison Attribute DMG",
+     "skillDesc": "<color=#d14e0d>Giant Soldier Smash</color> skill damage +<color=#d14e0d>20%</color>, plus <color=#d14e0d>Poison damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300748",
+     "skillName": "Deadly Poison Fruit",
+     "skillDesc": "Poison damage dealt by Magellan increases by <color=#d14e0d>{buffper1}%</color>, and his Max HP increases by <color=#d14e0d>{attributeper}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300749",
+     "skillName": "Poison Dragon Form",
+     "skillDesc": "After using <color=#d14e0d>Venom Demon</color>, Magellan enters <color=#d14e0d>Poison Dragon Form</color>: damage he deals increases by <color=#d14e0d>{buffper1}%</color>, and some skills are enhanced in <color=#d14e0d>Poison Dragon Form</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300750",
+     "skillName": "Domain of Poison",
+     "skillDesc": "Magellan's Tenacity and DMG reduction increase by <color=#d14e0d>{buffper1}%</color>. After entering battle, his ATK increases by <color=#d14e0d>{buffper1}%</color>. In <color=#d14e0d>Poison Dragon Form</color> or <color=#d14e0d>Giant Soldier Form</color>, his SPD is reduced by <color=#d14e0d>30%</color> and he gains <color=#d14e0d>2</color> extra Soul Jade at the start of each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300751",
+     "skillName": "Corrosive Power",
+     "skillDesc": "Magellan's SPD increases by <color=#d14e0d>{attributeper}%</color>. All of Magellan's <color=#d14e0d>Poison</color> effects become <color=#d14e0d>Deadly Poison</color>: Deadly Poison damage +<color=#d14e0d>{buffper1}%</color> and lasts <color=#d14e0d>1</color> more turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300752",
+     "skillName": "Poison Spread",
+     "skillDesc": "Enemies who hit Magellan in <color=#d14e0d>Poison Dragon Form</color> or <color=#d14e0d>Giant Soldier Form</color> gain <color=#d14e0d>1 or 2</color> stacks of <color=#d14e0d>Corrosion</color>. <color=#d14e0d>Corrosion</color> reduces damage dealt by enemies by <color=#d14e0d>{buffper1}%</color> <color=#d14e0d>for 2 turns</color>, and <color=#d14e0d>stacks up to 3 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300753",
+     "skillName": "Ultimate Extension Skill",
+     "skillDesc": "Magellan summons the Venom Giant Soldier onto the field and enters <color=#d14e0d>Giant Soldier Form</color>. While the Giant Soldier exists, all allies' ATK and DEF increase by <color=#d14e0d>{buffper1}%</color>. Giant Soldier Form lasts <color=#d14e0d>2</color> turns; entering it cancels Poison Dragon Form.",
      "buttonEffect": ""
     },
     {
@@ -81613,15 +81739,75 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300758",
+     "skillName": "Healing Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Healing by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300759",
      "skillName": "Speed Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>SPD by {attributeper}%</color>.",
      "buttonEffect": ""
     },
     {
+     "skillId": "300760",
+     "skillName": "Stun",
+     "skillDesc": "Gives <color=#d14e0d>Male Hormones</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Stun</color>, leaving the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300762",
+     "skillName": "Ultimate Extension Skill",
+     "skillDesc": "The Okama King enters female form, instantly recovering <color=#d14e0d>{buffper1}%</color> HP. The form lasts <color=#d14e0d>2</color> turns, and he enters <color=#d14e0d>Stealth</color>: not prioritized as an attack target but still taking area damage, for <color=#d14e0d>1 turn</color>. Stealth is lost if he is the only one left on his side.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300763",
+     "skillName": "Lethal",
+     "skillDesc": "Gives <color=#d14e0d>Female Hormones</color> a Lethal effect, with a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>Healing</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300764",
+     "skillName": "Confusion",
+     "skillDesc": "Gives <color=#d14e0d>Galaxy Wink</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Confusion</color>, increasing the Soul Jade cost of the enemy target's skills by <color=#d14e0d>{buffval1}</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300765",
+     "skillName": "Stimulant",
+     "skillDesc": "Gives <color=#d14e0d>Deluxe Beauty Treatment</color> a <color=#d14e0d>{buffodds}%</color> chance to remove <color=#d14e0d>2</color> dispellable debuffs.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300766",
      "skillName": "Hormone Resistance",
      "skillDesc": "In male form, when <color=#d14e0d>HP reaches 0</color>, does not die immediately but revives with <color=#d14e0d>{buffper1}%</color> Max HP, once per battle (<color=#d14e0d>1</color> time); in female form, recovers <color=#d14e0d>{buffper2}%</color> HP before acting each turn",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300767",
+     "skillName": "Okama Fist",
+     "skillDesc": "Ivankov's <color=#d14e0d>SPD and Dodge</color> increase by <color=#d14e0d>{attributeper}%</color>, and his starting Rage increases by <color=#d14e0d>{buffval1}</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300768",
+     "skillName": "Horm Fruit",
+     "skillDesc": "<color=#d14e0d>After entering battle</color>, Ivankov's <color=#d14e0d>ATK</color> +<color=#d14e0d>{buffper3}%</color>, first-turn damage +<color=#d14e0d>{buffper1}%</color> and CRIT Rate +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300769",
+     "skillName": "Adrenaline",
+     "skillDesc": "Increases Ivankov's Healing by <color=#d14e0d>{attributevalper}%</color>, and <color=#d14e0d>Tension Hormones</color> grant the target an extra <color=#d14e0d>5</color> Soul Jade and <color=#d14e0d>50</color> Rage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300770",
+     "skillName": "Pink Queen",
+     "skillDesc": "Damage dealt by our male members increases by <color=#d14e0d>{buffper1}%</color>.",
      "buttonEffect": ""
     },
     {
@@ -81661,6 +81847,72 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300777",
+     "skillName": "Taunt",
+     "skillDesc": "Gives <color=#d14e0d>Suppression</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Taunt</color>, forcing enemies to target self for <color=#d14e0d>2 turns</color>. <color=#d14e0d>Taunt cannot trigger if an allied unit stands in front of the character</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300778",
+     "skillName": "Knockup",
+     "skillDesc": "Gives <color=#d14e0d>Shining Crash</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Knock-Up</color>, <color=#d14e0d>randomly changing</color> the enemy target's position to an empty tile in the enemy formation.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300779",
+     "skillName": "Hard Diamond",
+     "skillDesc": "Gives <color=#d14e0d>Spin</color> a <color=#d14e0d>{buffodds}%</color> chance to instantly restore <color=#d14e0d>1-3</color> random stacks of <color=#d14e0d>Hard Diamond</color> to self, up to ten stacks. Hard Diamond shatters one stack when hit by a basic attack, skill or Ultimate, and each shattered stack deals damage equal to <color=#d14e0d>8%</color> of Max HP to the attacker.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300780",
+     "skillName": "Hard Diamond",
+     "skillDesc": "Gives <color=#d14e0d>Shining Crash</color> a <color=#d14e0d>{buffodds}%</color> chance to instantly restore <color=#d14e0d>2</color> stacks of <color=#d14e0d>Hard Diamond</color> to self, up to ten stacks. Hard Diamond shatters one stack when hit by a basic attack, skill or Ultimate, and each shattered stack deals damage equal to <color=#d14e0d>8%</color> of Max HP to the attacker.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300781",
+     "skillName": "Stun",
+     "skillDesc": "Gives <color=#d14e0d>Shining Crash</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Stun</color>, leaving the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300782",
+     "skillName": "No Turning Back",
+     "skillDesc": "When casting <color=#d14e0d>Shining Boulder</color>, consumes all own Shields to attack the enemy: every <color=#d14e0d>10</color> Shield points deal <color=#d14e0d>3</color> damage, and the enemy's DEF is reduced by <color=#d14e0d>{buffper1}%</color> <color=#d14e0d>for 2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300783",
+     "skillName": "Impregnable",
+     "skillDesc": "Jozu's Block and Tenacity increase by <color=#d14e0d>{attributevalper}%</color>, and he can block line-type damage",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300784",
+     "skillName": "3rd Division Commander",
+     "skillDesc": "At turn end, Jozu randomly gains a Shield equal to <color=#d14e0d>{buffper1}%</color> of his Max HP, or <color=#d14e0d>2</color> stacks of <color=#d14e0d>Hard Diamond</color>, up to ten stacks. Hard Diamond shatters one stack when hit by a basic attack, skill or Ultimate, and each shattered stack deals damage equal to <color=#d14e0d>8%</color> of Max HP to the attacker.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300785",
+     "skillName": "Rampage",
+     "skillDesc": "Skill damage and Attribute damage taken by Jozu are reduced by <color=#d14e0d>{buffper1}%</color>, and he can ignore skills that reduce HP by a percentage.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300786",
+     "skillName": "Diamond",
+     "skillDesc": "At battle start, Jozu gains <color=#d14e0d>5</color> stacks of <color=#d14e0d>Hard Diamond</color> and has a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>2</color> Soul Jade. Hard Diamond stacks up to ten; it shatters one stack when hit by a basic attack, skill or Ultimate, and each shattered stack deals damage equal to <color=#d14e0d>8%</color> of Max HP to the attacker.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300787",
+     "skillName": "Iron Wall",
+     "skillDesc": "At battle start, Jozu gains a Shield equal to <color=#d14e0d>{buffper1}%</color> of his Max HP; while shielded, DEF +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300788",
      "skillName": "HP Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Max HP by {attributeper}%</color>.",
@@ -81697,9 +81949,81 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300794",
+     "skillName": "Bleed",
+     "skillDesc": "Gives <color=#d14e0d>Heavy Kick</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Bleed</color>: enemies with <color=#d14e0d>Bleed</color> lose some <color=#d14e0d>HP</color> before acting each turn, <color=#d14e0d>lasting 2 turns</color>; the effect <color=#d14e0d>stacks up to 5 times</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300795",
+     "skillName": "Flying Dragon",
+     "skillDesc": "Gives <color=#d14e0d>Fierce Charge</color> the <color=#d14e0d>Flying Dragon</color> effect: when there is <color=#d14e0d>only one enemy</color> within the skill's range, damage dealt increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300796",
+     "skillName": "Lethal",
+     "skillDesc": "Gives <color=#d14e0d>Swift Claw</color> a Lethal effect, with a <color=#d14e0d>{buffodds}%</color> chance to reduce the enemy target's <color=#d14e0d>Healing</color> by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300797",
+     "skillName": "Defense Collapse",
+     "skillDesc": "Gives <color=#d14e0d>Flame Wing Sky Drive</color> the <color=#d14e0d>DEF Collapse</color> effect, reducing the enemy target's <color=#d14e0d>DEF</color> by <color=#d14e0d>{buffper1}%</color> and <color=#d14e0d>Healing</color> by <color=#d14e0d>{buffper2}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300798",
+     "skillName": "Stun",
+     "skillDesc": "Gives <color=#d14e0d>Gale Kick</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Stun</color>, leaving the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>1 turn</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300799",
+     "skillName": "Fire Elemental Damage",
+     "skillDesc": "<color=#d14e0d>Phoenix: Divine Flame</color> skill damage +<color=#d14e0d>17%</color>, plus <color=#d14e0d>Fire damage</color> equal to <color=#d14e0d>{buffper1}%</color> of own ATK. The Attribute damage ignores the enemy target's base DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300800",
+     "skillName": "Recovery",
+     "skillDesc": "Gives <color=#d14e0d>Heavenly Rush</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Recovery</color>, recovering HP equal to <color=#d14e0d>{buffper1}%</color> of own Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300801",
+     "skillName": "Revival Blue Flame",
+     "skillDesc": "When Marco uses skills, each CRIT restores <color=#d14e0d>{buffper1}%</color> HP to the team member with the lowest HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300802",
+     "skillName": "Mastery of Martial Arts",
+     "skillDesc": "Marco's starting Rage increases by <color=#d14e0d>{buffval1}</color>, and <color=#d14e0d>in Second Form</color> he gains <color=#d14e0d>2</color> Soul Jade each turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300803",
+     "skillName": "Blue Flame of Vengeance",
+     "skillDesc": "Marco's CRIT Rate +<color=#d14e0d>{buffper1}%</color> on single-target attacks; on area attacks, ATK +<color=#d14e0d>{buffper1}%</color> and Fire damage +<color=#d14e0d>{buffper2}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300804",
+     "skillName": "Ultimate Extension Skill",
+     "skillDesc": "After his Ultimate, enters <color=#d14e0d>Second Form</color>: Marco's ATK and CRIT +<color=#d14e0d>{buffper1}%</color>, <color=#d14e0d>immune to control</color>, and all skills deal <color=#d14e0d>heavy extra Fire damage</color> for <color=#d14e0d>2 turns</color>. Casting the Ultimate in Second Form does not re-enter Second Form.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300805",
      "skillName": "1st Division Commander",
      "skillDesc": "Marco's SPD increases by <color=#d14e0d>{buffper1}%</color> for the first two turns. If Marco acts first, his damage this round increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300806",
+     "skillName": "Reborn from the Flames",
+     "skillDesc": "When Marco takes lethal damage, he enters <color=#d14e0d>Blue Flame Shroud</color> and recovers <color=#d14e0d>{buffper1}%</color> HP, but loses one action and leaves Ultimate Extension form. Until his next action, his skill and Attribute DMG reduction increase by <color=#d14e0d>{buffper2}%</color> and he enters <color=#d14e0d>Stealth</color>: not prioritized as an attack target but still taking area damage; Stealth is lost if he is the only one left on his side. When this state ends, Marco <color=#d14e0d>re-enters Second Form</color> for two turns (no effect if Ultimate Extension is turned off). Can only take effect once per battle.",
      "buttonEffect": ""
     },
     {
@@ -81739,9 +82063,69 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300813",
+     "skillName": "Aftershock",
+     "skillDesc": "<color=#d14e0d>{buffodds}%</color> chance to reduce enemy Accuracy by <color=#d14e0d>{buffper1}%</color> and increase the chance to interrupt enemy actions for <color=#d14e0d>1 turn</color>. Does not stack.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300814",
+     "skillName": "Slash",
+     "skillDesc": "Gives <color=#d14e0d>Shatter</color> the <color=#d14e0d>Sever</color> effect, making the enemy target instantly lose <color=#d14e0d>{buffper1}%</color> of its <color=#d14e0d>current HP</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300815",
+     "skillName": "Stun",
+     "skillDesc": "Gives <color=#d14e0d>Atmosphere Split</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Stun</color>, leaving the enemy target <color=#d14e0d>unable to act</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300816",
+     "skillName": "Certain Kill",
+     "skillDesc": "Gives <color=#d14e0d>One Against a Thousand</color> a <color=#d14e0d>{buffodds}%</color> chance to inflict <color=#d14e0d>Lethal Strike</color>, randomly increasing damage by <color=#d14e0d>100%, 200% or 300%</color>; if the target's HP is above <color=#d14e0d>80%</color>, it increases by an extra <color=#d14e0d>150%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300817",
+     "skillName": "Resonance",
+     "skillDesc": "Huge waves overturn the enemy: <color=#d14e0d>Continental Collapse</color> has a <color=#d14e0d>{buffodds}%</color> chance to scramble the enemy formation, repositioning every enemy.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300818",
+     "skillName": "Cluster Cloud Slash",
+     "skillDesc": "On the first turn, <color=#d14e0d>{buffodds}%</color> chance to be immune to all debuffs and Attribute damage and to ignore enemy CRIT Rate; own DMG reduction +<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300819",
      "skillName": "Ruler of the Era",
      "skillDesc": "Each turn, there is a <color=#d14e0d>{buffodds}%</color> chance to dispel <color=#d14e0d>2</color> debuffs from self. Enemies attacking Whitebeard have a chance to have their action interrupted.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300820",
+     "skillName": "Strongest Man",
+     "skillDesc": "Whitebeard gains <color=#d14e0d>5</color> extra Soul Jade each turn, and his HP and Pierce increase by <color=#d14e0d>{attributevalper}%</color>. After entering battle, DMG Bonus and Accuracy +<color=#d14e0d>{buffper1}%</color>, CRIT DMG +<color=#d14e0d>{buffper3}%</color>, and all attacks ignore <color=#d14e0d>{buffper2}%</color> of the enemy's DEF.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300821",
+     "skillName": "Tremor-Tremor Fruit",
+     "skillDesc": "Unleashes a powerful shock upon entering battle, reducing all enemies' Accuracy and Dodge by <color=#d14e0d>{buffper1}%</color> for <color=#d14e0d>2 turns</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300822",
+     "skillName": "Remnant of an Era",
+     "skillDesc": "For each Whitebeard Pirates member fielded, Whitebeard's damage, DMG reduction and Attribute DMG reduction increase by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300823",
+     "skillName": "Aftershock",
+     "skillDesc": "<color=#d14e0d>{buffodds}%</color> chance to reduce enemy Accuracy by <color=#d14e0d>{buffper1}%</color> and increase the chance to interrupt enemy actions for <color=#d14e0d>1 turn</color>. Does not stack.",
      "buttonEffect": ""
     },
     {
@@ -81781,9 +82165,177 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300830",
+     "skillName": "Evasion Stance",
+     "skillDesc": "Vista consumes all his Rose Petals to <color=#d14e0d>enter Evasion Stance</color>: each stack grants <color=#d14e0d>{buffper1}%</color> Dodge and DMG reduction for <color=#d14e0d>2</color> turns. Evasion Stance cannot coexist with Wild Dance Stance.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300831",
+     "skillName": "Wild Dance Stance",
+     "skillDesc": "Vista consumes all his Rose Petals to <color=#d14e0d>enter Wild Dance Stance</color>: each stack grants <color=#d14e0d>{buffper1}%</color> DMG Bonus and CRIT for <color=#d14e0d>2</color> turns. Evasion Stance cannot coexist with Wild Dance Stance.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300832",
+     "skillName": "Bloom",
+     "skillDesc": "Consumes all Rose Thorns on the target, each stack dealing damage equal to <color=#d14e0d>{buffper1}%</color> of Vista's ATK. When this skill scores a kill, Vista recovers HP equal to <color=#d14e0d>5%</color> of Max HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300833",
      "skillName": "Deadly Rose",
      "skillDesc": "Vista gains <color=#d14e0d>2</color> Soul Jade each turn. All of his skills and attacks except his Ultimate have a chance to add <color=#d14e0d>1</color> stack of Rose Thorns to the target; each stack reduces Dodge and SPD by <color=#d14e0d>{buffper1}%</color>, and at <color=#d14e0d>3 stacks</color> the target is <color=#d14e0d>unable to be revived</color>, up to <color=#d14e0d>5</color> stacks, lasting <color=#d14e0d>2</color> turns.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300834",
+     "skillName": "Great Swordsman",
+     "skillDesc": "Each time Vista Dodges, there is a <color=#d14e0d>{buffodds}%</color> chance to reduce the attacker's Rage by <color=#d14e0d>5</color>; each time he CRITs, he recovers <color=#d14e0d>5%</color> Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300835",
+     "skillName": "5th Division Commander",
+     "skillDesc": "Vista's SPD +<color=#d14e0d>{buffper1}%</color> on odd turns and ATK +<color=#d14e0d>{buffper2}%</color> on even turns; both effects apply on the first turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300836",
+     "skillName": "Flower Sword",
+     "skillDesc": "Vista has a <color=#d14e0d>{buffodds}%</color> chance to gain <color=#d14e0d>5</color> Rose Petal stacks on the first turn and <color=#d14e0d>2</color> each turn. Each stack grants <color=#d14e0d>5%</color> DMG Bonus and DMG reduction, up to <color=#d14e0d>7</color> stacks.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300837",
+     "skillName": "Fully Confident",
+     "skillDesc": "Vista's DMG reduction +<color=#d14e0d>{buffper1}%</color> when hit by area attacks, and Dodge +<color=#d14e0d>{buffper2}%</color> when hit by single-target attacks.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300838",
+     "skillName": "Unshaken",
+     "skillDesc": "When Vista's HP falls below <color=#d14e0d>{buffper1}%</color>, he gains <color=#d14e0d>5 stacks</color> of Rose Petals; takes effect <color=#d14e0d>1 time</color> per battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300839",
+     "skillName": "Wrath of Vengeance",
+     "skillDesc": "When Whitebeard kills an enemy with One Against a Thousand, there is a <color=#d14e0d>{buffodds}%</color> chance to clear this skill's cooldown.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300840",
+     "skillName": "Healing Fire",
+     "skillDesc": "Marco's Healing increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300841",
+     "skillName": "Diamond-Diamond Fruit",
+     "skillDesc": "Before Jozu acts each turn, he creates a Shield for the teammate with the lowest HP ratio (excluding himself) that absorbs damage equal to <color=#d14e0d>{buffper1}%</color> of Jozu's HP. If the Shield has been broken by turn end, Jozu gains a <color=#d14e0d>{buffper2}%</color> Shield recovery.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300842",
+     "skillName": "New Human",
+     "skillDesc": "In female form, the Okama King's Healing increases by <color=#d14e0d>{buffper1}%</color>; in male form, his damage increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300843",
+     "skillName": "Toxic Gas Spread",
+     "skillDesc": "When Magellan dies, he deals Poison damage equal to <color=#d14e0d>{buffper1}%</color> of his ATK to all enemies on the field once.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300845",
+     "skillName": "Shockwave Impact",
+     "skillDesc": "Light damage dealt by Sengoku increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300846",
+     "skillName": "Instant Kill",
+     "skillDesc": "When Rayleigh's Rage reaches 100, CRIT DMG increases by <color=#d14e0d>{buffper1}%</color>.$$When Rayleigh's Rage reaches 100, CRIT DMG increases by <color=#d14e0d>{buffper1,2500004}%</color>, and his ATK increases by <color=#d14e0d>30% of the ATK</color> of our highest-ATK character.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300847",
+     "skillName": "Metal Magnetic Field",
+     "skillDesc": "When Kid dies, there is a <color=#d14e0d>{buffodds}%</color> chance to summon 2 Steel Shields at random positions.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300848",
+     "skillName": "Petrification Shatter",
+     "skillDesc": "Hancock increases the damage taken by Petrified targets by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300849",
+     "skillName": "Spatial Lock",
+     "skillDesc": "While Law's Room is active, our members' Accuracy +<color=#d14e0d>{buffper1}%</color> and enemy members' Dodge -<color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300851",
+     "skillName": "Shadow Mage Enhancement",
+     "skillDesc": "When Moria's Shadow Mage dies, there is a <color=#d14e0d>{buffodds}%</color> chance it revives with <color=#d14e0d>{buffper1}%</color> HP; it can only revive 1 time per battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300852",
+     "skillName": "Sustained Combat",
+     "skillDesc": "When Garp Blocks, there is a <color=#d14e0d>{buffodds}%</color> chance to recover <color=#d14e0d>5%</color> of Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300853",
+     "skillName": "Invincible Slash",
+     "skillDesc": "When Mihawk's HP is below <color=#d14e0d>30%</color>, damage dealt to enemies increases by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300854",
+     "skillName": "Terrifying Tyrant",
+     "skillDesc": "When Kuma's HP falls below <color=#d14e0d>20%</color>, all Finisher cooldowns have a <color=#d14e0d>{buffodds}%</color> chance to end immediately. Can only take effect once per battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300855",
+     "skillName": "King of the Desert",
+     "skillDesc": "In the first two turns of battle, Crocodile has a <color=#d14e0d>{buffodds}%</color> chance each turn to remove <color=#d14e0d>1</color> debuff stack from all allies.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300856",
+     "skillName": "Flame Shield",
+     "skillDesc": "At battle start, Ace gains a Flame Shield that reduces all damage taken by <color=#d14e0d>{buffper1}%</color> for 2 turns; attackers who hit Ace while the Flame Shield is up take Fire damage equal to <color=#d14e0d>{buffper2}%</color> of their Max HP.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300857",
+     "skillName": "Flash Thunder",
+     "skillDesc": "When Enel's skill attack CRITs the target, there is a <color=#d14e0d>{buffodds}%</color> chance to inflict Paralysis for 1 turn.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300858",
+     "skillName": "Refracted Laser",
+     "skillDesc": "When Kizaru takes lethal damage, he recovers <color=#d14e0d>{buffper1}%</color> of his Max HP and moves to another random empty tile in the formation. Takes effect only once per battle.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300859",
+     "skillName": "Absolute Justice",
+     "skillDesc": "Damage Akainu deals to non-Marine targets increases by <color=#d14e0d>{buffper1}%</color>, and damage he takes from non-Marine characters is reduced by <color=#d14e0d>{buffper1}%</color>.",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300860",
+     "skillName": "Biting Chill",
+     "skillDesc": "When a Freeze is broken, the target takes Ice damage equal to <color=#d14e0d>{buffper1}%</color> of its own Max HP and gains Frostbite, increasing all damage taken by <color=#d14e0d>20%</color> for <color=#d14e0d>2</color> turns.",
      "buttonEffect": ""
     },
     {
@@ -81814,6 +82366,12 @@
      "skillId": "300865",
      "skillName": "DMG Reduction Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>DMG Reduction by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300866",
+     "skillName": "Poison Attribute Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Poison damage by {buffper1}%</color>",
      "buttonEffect": ""
     },
     {
@@ -81907,6 +82465,12 @@
      "buttonEffect": ""
     },
     {
+     "skillId": "300884",
+     "skillName": "Cold-Hearted Powerhouse",
+     "skillDesc": "Lucci's Accuracy increases by <color=#d14e0d>{attributevalper}%</color>; in Leopard Form, <color=#d14e0d>{buffper1}%</color> of the damage Lucci deals is converted into his own HP.",
+     "buttonEffect": ""
+    },
+    {
      "skillId": "300885",
      "skillName": "Wind Elemental Enhancement",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Wind damage by {buffper1}%</color>",
@@ -81928,6 +82492,12 @@
      "skillId": "300888",
      "skillName": "Evasion Boost",
      "skillDesc": "Permanently increases the character's <color=#d14e0d>Dodge Rate by {attributevalper}%</color>",
+     "buttonEffect": ""
+    },
+    {
+     "skillId": "300889",
+     "skillName": "Healing Enhancement",
+     "skillDesc": "Permanently increases the character's <color=#d14e0d>Healing by {attributevalper}%</color>",
      "buttonEffect": ""
     },
     {
@@ -90427,7 +90997,7 @@
      "buttonEffect": ""
     }
    ],
-   "partial": "13734/14789 rows translated so far"
+   "partial": "13829/14789 rows translated so far"
   },
   "TableSuperSoul": {
    "key_column": "heroId",
